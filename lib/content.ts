@@ -1,6 +1,8 @@
 import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
+import { remark } from 'remark'
+import remarkHtml from 'remark-html'
 import { replaceAffiliateLinks } from './affiliates'
 
 // ============================================================
@@ -13,6 +15,12 @@ import { replaceAffiliateLinks } from './affiliates'
 // ============================================================
 
 const contentDirectory = path.join(process.cwd(), 'content')
+
+// Convert raw markdown string to HTML using remark
+function markdownToHtml(markdown: string): string {
+  const result = remark().use(remarkHtml, { sanitize: false }).processSync(markdown)
+  return String(result)
+}
 
 export interface ContentPage {
   slug: string
@@ -46,7 +54,7 @@ export function getContentByType(type: string): ContentPage[] {
     return {
       slug: filename.replace('.md', ''),
       frontmatter: data as ContentPage['frontmatter'],
-      content: replaceAffiliateLinks(content),
+      content: markdownToHtml(replaceAffiliateLinks(content)),
     }
   }).sort((a, b) => (a.frontmatter.title || '').localeCompare(b.frontmatter.title || ''))
 }
@@ -63,7 +71,7 @@ export function getContentPage(type: string, slug: string): ContentPage | null {
   return {
     slug,
     frontmatter: data as ContentPage['frontmatter'],
-    content: replaceAffiliateLinks(content),
+    content: markdownToHtml(replaceAffiliateLinks(content)),
   }
 }
 
