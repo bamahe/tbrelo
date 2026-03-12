@@ -53,7 +53,7 @@ export default function CTABox({ type }: CTABoxProps) {
       <h3 className={`font-display font-bold text-xl mb-2 ${isPrimary ? 'text-white' : 'text-brand-navy'}`}>
         {cta.headline}
       </h3>
-      <p className={`text-sm mb-4 ${isPrimary ? 'text-gray-300' : 'text-brand-slate'}`}>
+      <p className={`text-sm mb-4 ${isPrimary ? 'text-white' : 'text-brand-slate'}`}>
         {cta.body}
       </p>
       <div className="flex flex-wrap items-center gap-3">
@@ -70,7 +70,7 @@ export default function CTABox({ type }: CTABoxProps) {
           {cta.cta} →
         </a>
         {cta.phone && (
-          <a href={`tel:${cta.phone.replace(/\D/g, '')}`} className={`text-sm ${isPrimary ? 'text-brand-sky' : 'text-brand-blue'}`}>
+          <a href={`tel:${cta.phone.replace(/\D/g, '')}`} className={`text-sm ${isPrimary ? 'text-white' : 'text-brand-blue'}`}>
             {cta.phone}
           </a>
         )}
