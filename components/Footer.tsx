@@ -12,21 +12,21 @@ export default function Footer() {
               <div className="text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors">
                 Buying or Selling a Home?
               </div>
-              <p className="text-gray-400 text-sm mt-1">Barrett Henry — The NOW Team at RE/MAX Collective</p>
-              <p className="text-gray-500 text-xs mt-1">(813) 733-7907</p>
+              <p className="text-white text-sm mt-1">Barrett Henry — The NOW Team at RE/MAX Collective</p>
+              <p className="text-white text-xs mt-1">(813) 733-7907</p>
             </a>
             <a href="https://bestbayservices.com" target="_blank" rel="noopener noreferrer" className="group">
               <div className="text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors">
                 Need a Handyman?
               </div>
-              <p className="text-gray-400 text-sm mt-1">Best Bay Services — Tampa Bay Home Services</p>
-              <p className="text-gray-500 text-xs mt-1">(813) 416-8676</p>
+              <p className="text-white text-sm mt-1">Best Bay Services — Tampa Bay Home Services</p>
+              <p className="text-white text-xs mt-1">(813) 416-8676</p>
             </a>
             <a href="https://vivipm.com" target="_blank" rel="noopener noreferrer" className="group">
               <div className="text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors">
                 Property Management
               </div>
-              <p className="text-gray-400 text-sm mt-1">ViVi PM — Full-Service Property Management</p>
+              <p className="text-white text-sm mt-1">ViVi PM — Full-Service Property Management</p>
             </a>
           </div>
         </div>
