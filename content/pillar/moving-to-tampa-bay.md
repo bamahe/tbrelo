@@ -249,6 +249,19 @@ Moving to Tampa Bay is a project, not an event. Here's the high-level timeline �
 - **Get your home squared away.** Need a handyman for mounting TVs, assembling furniture, fixing that thing the movers broke? {{bbs}} handles all of it.
 - **Explore your neighborhood.** Find your Publix (it's a lifestyle here), locate the nearest beach, and start meeting your neighbors.
 
+## Education — Schools, Colleges, and Universities
+
+Each county runs its own public school district, and quality varies significantly by neighborhood — not just by county. A few highlights:
+
+- **Hillsborough County** has strong magnet and IB programs, including Plant High School and Newsome High School (both highly rated).
+- **Pinellas County** offers excellent magnet schools and the Pinellas County Center for the Arts.
+- **Pasco County** schools in Wesley Chapel and Land O' Lakes have improved dramatically with the area's growth.
+- **Sarasota and Manatee** consistently rank among the top school districts in the state.
+
+Private school options are plentiful — Tampa Bay has strong Catholic, Episcopal, and independent schools across the metro.
+
+For higher education, the University of South Florida (USF) in Tampa is a major research university, and the University of Tampa is a respected private institution. St. Petersburg College and Hillsborough Community College offer affordable pathways. Florida's Bright Futures scholarship program rewards strong high school students with significant tuition coverage at state universities — a major financial perk for families moving here with younger kids.
+
 ## Frequently Asked Questions
 
 ### What is the best time of year to move to Tampa Bay?
