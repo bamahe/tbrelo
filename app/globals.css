@@ -1,0 +1,115 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ============================================================
+   TBRELO.COM — Global Styles
+   Clean, coastal, trustworthy. Navy + sky blue + white.
+   ============================================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300..700;1,9..40,300..700&family=Plus+Jakarta+Sans:wght@500;600;700;800&display=swap');
+
+:root {
+  --font-display: 'Plus Jakarta Sans', system-ui, sans-serif;
+  --font-body: 'DM Sans', system-ui, sans-serif;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply font-body text-brand-dark bg-white antialiased;
+    font-size: 17px;
+    line-height: 1.7;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-display font-bold text-brand-navy;
+    line-height: 1.2;
+  }
+
+  h1 { @apply text-4xl md:text-5xl; }
+  h2 { @apply text-3xl md:text-4xl; }
+  h3 { @apply text-2xl md:text-3xl; }
+  h4 { @apply text-xl md:text-2xl; }
+
+  a {
+    @apply text-brand-blue hover:text-brand-navy transition-colors;
+  }
+}
+
+@layer components {
+  /* Content area — rendered markdown */
+  .prose {
+    @apply max-w-none;
+  }
+
+  .prose h2 {
+    @apply mt-12 mb-4 pb-2 border-b border-gray-200;
+  }
+
+  .prose h3 {
+    @apply mt-8 mb-3;
+  }
+
+  .prose p {
+    @apply mb-4;
+  }
+
+  .prose ul, .prose ol {
+    @apply mb-4 pl-6;
+  }
+
+  .prose li {
+    @apply mb-2;
+  }
+
+  .prose blockquote {
+    @apply border-l-4 border-brand-blue pl-4 italic text-brand-slate my-6;
+  }
+
+  .prose table {
+    @apply w-full border-collapse my-6;
+  }
+
+  .prose th {
+    @apply bg-brand-navy text-white text-left px-4 py-3 font-display font-semibold text-sm;
+  }
+
+  .prose td {
+    @apply px-4 py-3 border-b border-gray-100 text-sm;
+  }
+
+  .prose tr:hover td {
+    @apply bg-brand-sand;
+  }
+
+  /* Affiliate link styling */
+  .affiliate-link {
+    @apply text-brand-blue font-semibold underline decoration-brand-sky decoration-2 underline-offset-2 hover:decoration-brand-blue transition-all;
+  }
+
+  /* CTA boxes */
+  .cta-box {
+    @apply bg-brand-sand border border-gray-200 rounded-xl p-6 my-8;
+  }
+
+  .cta-box-primary {
+    @apply bg-brand-navy text-white rounded-xl p-6 my-8;
+  }
+
+  .cta-box-primary a {
+    @apply text-brand-sky hover:text-white;
+  }
+
+  /* Ad placement containers */
+  .ad-slot {
+    @apply my-8 text-center min-h-[250px] flex items-center justify-center;
+  }
+
+  .ad-slot-sidebar {
+    @apply my-4 text-center min-h-[300px];
+  }
+}
