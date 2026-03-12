@@ -2,6 +2,7 @@ import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
 import { remark } from 'remark'
+import remarkGfm from 'remark-gfm'
 import remarkHtml from 'remark-html'
 import { replaceAffiliateLinks } from './affiliates'
 
@@ -18,7 +19,7 @@ const contentDirectory = path.join(process.cwd(), 'content')
 
 // Convert raw markdown string to HTML using remark
 function markdownToHtml(markdown: string): string {
-  const result = remark().use(remarkHtml, { sanitize: false }).processSync(markdown)
+  const result = remark().use(remarkGfm).use(remarkHtml, { sanitize: false }).processSync(markdown)
   return String(result)
 }
 
