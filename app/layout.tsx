@@ -45,8 +45,11 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
+        {/* Google AdSense site verification */}
+        <meta name="google-adsense-account" content="ca-pub-2033173419526042" />
+
         {/* AdSense — uncomment when approved */}
-        {/* <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXX" crossOrigin="anonymous"></script> */}
+        {/* <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2033173419526042" crossOrigin="anonymous"></script> */}
         
         {/* Google Analytics — uncomment when set up */}
         {/* <script async src={`https://www.googletagmanager.com/gtag/js?id=${siteConfig.analytics.gaId}`}></script> */}
