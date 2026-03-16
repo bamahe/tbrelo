@@ -1,5 +1,6 @@
 import './globals.css'
 import { Metadata } from 'next'
+import Script from 'next/script'
 import { siteConfig } from '@/lib/config'
 import Header from '@/components/Header'
 import Footer from '@/components/Footer'
@@ -48,8 +49,12 @@ export default function RootLayout({
         {/* Google AdSense site verification */}
         <meta name="google-adsense-account" content="ca-pub-2033173419526042" />
 
-        {/* AdSense — uncomment when approved */}
-        {/* <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2033173419526042" crossOrigin="anonymous"></script> */}
+        {/* Google AdSense verification script */}
+        <Script
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2033173419526042"
+          strategy="afterInteractive"
+          crossOrigin="anonymous"
+        />
         
         {/* Google Analytics — uncomment when set up */}
         {/* <script async src={`https://www.googletagmanager.com/gtag/js?id=${siteConfig.analytics.gaId}`}></script> */}
