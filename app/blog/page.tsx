@@ -1,7 +1,9 @@
 import Link from 'next/link'
+import Image from 'next/image'
 import { Metadata } from 'next'
 import { getContentByType } from '@/lib/content'
 import { generateWebPageSchema } from '@/lib/schema'
+import { getPageImage } from '@/lib/images'
 import Breadcrumb from '@/components/Breadcrumb'
 
 // SEO metadata for the blog index page
@@ -45,8 +47,19 @@ export default function BlogIndex() {
             <Link
               key={post.slug}
               href={`/blog/${post.slug}/`}
-              className="group block bg-white border border-gray-200 rounded-xl p-6 hover:border-brand-blue hover:shadow-lg transition-all"
+              className="group block bg-white border border-gray-200 rounded-xl overflow-hidden hover:border-brand-blue hover:shadow-lg transition-all"
             >
+              {/* Thumbnail image */}
+              <div className="relative w-full h-40 bg-brand-sand">
+                <Image
+                  src={`/images/${getPageImage({ type: 'blog', slug: post.slug })}`}
+                  alt={post.frontmatter.title}
+                  fill
+                  className="object-cover"
+                  unoptimized
+                />
+              </div>
+              <div className="p-6">
               <h2 className="font-display font-bold text-xl text-brand-navy group-hover:text-brand-blue transition-colors">
                 {post.frontmatter.title}
               </h2>
@@ -64,6 +77,7 @@ export default function BlogIndex() {
                   {post.frontmatter.metaDescription}
                 </p>
               )}
+              </div>
             </Link>
           ))}
         </div>
