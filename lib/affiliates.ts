@@ -126,6 +126,41 @@ export const affiliateLinks: Record<string, { url: string; name: string; categor
     category: 'home',
   },
 
+  // ── HOME WARRANTY ───────────────────────────────────────
+  choicehomewarranty: {
+    url: 'https://www.choicehomewarranty.com/', // UPDATE with CJ affiliate link
+    name: 'Choice Home Warranty',
+    category: 'insurance',
+  },
+
+  // ── CREDIT & FINANCE ──────────────────────────────────
+  experian: {
+    url: 'https://www.experian.com/', // UPDATE with CJ affiliate link
+    name: 'Experian',
+    category: 'finance',
+  },
+
+  // ── INSURANCE COMPARISON ──────────────────────────────
+  insurify: {
+    url: 'https://www.insurify.com/', // UPDATE with CJ affiliate link
+    name: 'Insurify',
+    category: 'insurance',
+  },
+
+  // ── AUTO ───────────────────────────────────────────────
+  aaa: {
+    url: 'https://www.aaa.com/', // UPDATE with CJ affiliate link
+    name: 'AAA Auto Club',
+    category: 'insurance',
+  },
+
+  // ── CAR RENTAL (for house-hunting trips) ───────────────
+  discovercars: {
+    url: 'https://www.discovercars.com/', // UPDATE with CJ affiliate link
+    name: 'Discover Cars',
+    category: 'moving',
+  },
+
   // ── AMAZON (catch-all) ───────────────────────────────────
   amazon: {
     url: 'https://www.amazon.com/?tag=tbrelo-20',
