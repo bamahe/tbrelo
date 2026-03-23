@@ -12,6 +12,7 @@ export function generateWebPageSchema(page: {
   type?: string
   publishedAt?: string
   updatedAt?: string
+  imageUrl?: string
 }) {
   return {
     '@context': 'https://schema.org',
@@ -27,6 +28,12 @@ export function generateWebPageSchema(page: {
     author: generatePersonSchema(),
     ...(page.publishedAt && { datePublished: page.publishedAt }),
     ...(page.updatedAt && { dateModified: page.updatedAt }),
+    ...(page.imageUrl && {
+      image: {
+        '@type': 'ImageObject',
+        url: page.imageUrl,
+      }
+    }),
   }
 }
 

@@ -30,15 +30,17 @@ export default function MovingFromPage({ params }: { params: { slug: string } })
   const page = getContentPage('moving-from', params.slug)
   if (!page) notFound()
 
+  const imgOpts = { type: 'moving-from' as const, slug: params.slug, frontmatterImage: page.frontmatter.image }
+  const heroSrc = getPageImage(imgOpts)
+
   const schema = generateWebPageSchema({
     title: page.frontmatter.metaTitle || page.frontmatter.title,
     description: page.frontmatter.metaDescription || '',
     url: `/moving-from/${params.slug}/`,
     publishedAt: page.frontmatter.publishedAt,
     updatedAt: page.frontmatter.updatedAt,
+    imageUrl: getPageImageUrl(imgOpts),
   })
-
-  const heroSrc = getPageImage({ type: 'moving-from', slug: params.slug, frontmatterImage: page.frontmatter.image })
 
   return (
     <>

@@ -30,6 +30,9 @@ export default function BlogPost({ params }: { params: { slug: string } }) {
   const page = getContentPage('blog', params.slug)
   if (!page) notFound()
 
+  const imgOpts = { type: 'blog' as const, slug: params.slug, frontmatterImage: page.frontmatter.image }
+  const heroSrc = getPageImage(imgOpts)
+
   // Blog posts use Article schema instead of WebPage
   const schema = generateArticleSchema({
     title: page.frontmatter.metaTitle || page.frontmatter.title,
@@ -37,9 +40,8 @@ export default function BlogPost({ params }: { params: { slug: string } }) {
     url: `/blog/${params.slug}/`,
     publishedAt: page.frontmatter.publishedAt,
     updatedAt: page.frontmatter.updatedAt,
+    imageUrl: getPageImageUrl(imgOpts),
   })
-
-  const heroSrc = getPageImage({ type: 'blog', slug: params.slug, frontmatterImage: page.frontmatter.image })
 
   return (
     <>

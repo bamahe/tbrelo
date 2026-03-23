@@ -30,15 +30,17 @@ export default function CountyPage({ params }: { params: { slug: string } }) {
   const page = getContentPage('counties', params.slug)
   if (!page) notFound()
 
+  const imgOpts = { type: 'county' as const, slug: params.slug, frontmatterImage: page.frontmatter.image }
+  const heroSrc = getPageImage(imgOpts)
+
   const schema = generateWebPageSchema({
     title: page.frontmatter.metaTitle || page.frontmatter.title,
     description: page.frontmatter.metaDescription || '',
     url: `/counties/${params.slug}/`,
     publishedAt: page.frontmatter.publishedAt,
     updatedAt: page.frontmatter.updatedAt,
+    imageUrl: getPageImageUrl(imgOpts),
   })
-
-  const heroSrc = getPageImage({ type: 'county', slug: params.slug, frontmatterImage: page.frontmatter.image })
 
   return (
     <>

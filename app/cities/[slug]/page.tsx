@@ -30,15 +30,17 @@ export default function CityPage({ params }: { params: { slug: string } }) {
   const page = getContentPage('cities', params.slug)
   if (!page) notFound()
 
+  const imgOpts = { type: 'city' as const, slug: params.slug, frontmatterImage: page.frontmatter.image, county: page.frontmatter.county }
+  const heroSrc = getPageImage(imgOpts)
+
   const schema = generateWebPageSchema({
     title: page.frontmatter.metaTitle || page.frontmatter.title,
     description: page.frontmatter.metaDescription || '',
     url: `/cities/${params.slug}/`,
     publishedAt: page.frontmatter.publishedAt,
     updatedAt: page.frontmatter.updatedAt,
+    imageUrl: getPageImageUrl(imgOpts),
   })
-
-  const heroSrc = getPageImage({ type: 'city', slug: params.slug, frontmatterImage: page.frontmatter.image, county: page.frontmatter.county })
 
   return (
     <>

@@ -46,18 +46,21 @@ export default function TopLevelPage({ params }: { params: { slug: string } }) {
   const page = findPage(params.slug)
   if (!page) notFound()
 
+  const imgOpts = {
+    type: (page.frontmatter.type === 'page' ? 'page' : 'pillar') as 'page' | 'pillar',
+    slug: params.slug,
+    frontmatterImage: page.frontmatter.image,
+  }
+  const heroSrc = getPageImage(imgOpts)
+  const imageUrl = getPageImageUrl(imgOpts)
+
   const schema = generateWebPageSchema({
     title: page.frontmatter.metaTitle || page.frontmatter.title,
     description: page.frontmatter.metaDescription || '',
     url: `/${params.slug}/`,
     publishedAt: page.frontmatter.publishedAt,
     updatedAt: page.frontmatter.updatedAt,
-  })
-
-  const heroSrc = getPageImage({
-    type: page.frontmatter.type === 'page' ? 'page' : 'pillar',
-    slug: params.slug,
-    frontmatterImage: page.frontmatter.image,
+    imageUrl,
   })
 
   return (

@@ -9,7 +9,7 @@
 import fs from 'fs'
 import path from 'path'
 
-const SITE_URL = 'https://www.tbrelo.com'
+const SITE_URL = 'https://tbrelo.com'
 const contentDir = path.join(process.cwd(), 'content')
 
 // Extract updatedAt from markdown frontmatter
@@ -54,6 +54,7 @@ function generateSitemap() {
     { path: '/counties/', changefreq: 'monthly', priority: '0.9' },
     { path: '/cities/', changefreq: 'monthly', priority: '0.7' },
     { path: '/blog/', changefreq: 'weekly', priority: '0.6' },
+    { path: '/moving-from/', changefreq: 'monthly', priority: '0.7' },
   ]
   for (const page of staticPages) {
     entries.push({
