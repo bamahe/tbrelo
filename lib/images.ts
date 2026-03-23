@@ -8,6 +8,8 @@
 // 4. Category fallback (blog posts use category images)
 // ============================================================
 
+import fs from 'fs'
+import path from 'path'
 import { siteConfig } from './config'
 
 // Maps blog slugs to image categories based on keyword patterns
@@ -47,6 +49,11 @@ export function getPageImage(opts: GetPageImageOptions): string {
       return `pillar/${opts.slug}.jpg`
 
     case 'blog':
+      // Check for post-specific image first, fall back to category
+      const postImage = `blog/${opts.slug}.jpg`
+      if (fs.existsSync(path.join(process.cwd(), 'public', 'images', postImage))) {
+        return postImage
+      }
       return `blog/${getBlogCategory(opts.slug)}.jpg`
 
     case 'moving-from':
