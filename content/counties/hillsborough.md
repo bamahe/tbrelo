@@ -24,7 +24,7 @@ Hillsborough has 28 distinct areas worth exploring. Here are the major ones:
 
 **South Hillsborough** includes Apollo Beach (waterfront, canal homes), Ruskin, Sun City Center (55+ community), and Wimauma. More affordable, growing fast.
 
-[Explore all 28 Hillsborough County cities →](/counties/hillsborough/cities/)
+[Explore all 28 Hillsborough County cities →](/cities/)
 
 ## Cost of Living
 

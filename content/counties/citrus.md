@@ -66,7 +66,7 @@ Lecanto is the county's commercial hub, such as it is. The intersection of US-41
 
 Floral City is the smallest and most rural of the county's communities. It sits along the Withlacoochee State Trail and has a strong equestrian tradition — horse farms, pastureland, and a historic village center with a general store and a handful of small businesses. If you want acreage, horses, and total quiet, Floral City is about as far from the suburban grid as you can get while still being in a county with basic services.
 
-[Explore all Citrus County cities →](/counties/citrus/cities/)
+[Explore all Citrus County cities →](/cities/)
 
 ## Cost of Living
 

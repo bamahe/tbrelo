@@ -72,7 +72,7 @@ Indian Rocks Beach is the locals' beach — no high-rises, no chain restaurants,
 
 Beach property commands a premium. Expect to pay significantly more for anything with Gulf access or a water view.
 
-[Explore all Pinellas County cities →](/counties/pinellas/cities/)
+[Explore all Pinellas County cities →](/cities/)
 
 ## Cost of Living
 

@@ -64,7 +64,7 @@ A tiny community near Dade City with a surprising amount of history. Saint Leo U
 
 These communities sit along the Gulf coast in western Pasco. Hudson is larger and has a mix of older residential neighborhoods, some waterfront properties, and access to the Gulf via canals and the Anclote River area to the south. Holiday is a smaller, unincorporated community that tends to attract retirees and budget-conscious buyers. Both areas are served by US-19, which is the commercial spine of western Pasco. The coast here is not white-sand beaches — it is mangroves, flats, and fishing. If you are into kayaking, scalloping, or casting a line at sunrise, this stretch of coast delivers.
 
-[Explore all Pasco County cities →](/counties/pasco/cities/)
+[Explore all Pasco County cities →](/cities/)
 
 ## Cost of Living
 

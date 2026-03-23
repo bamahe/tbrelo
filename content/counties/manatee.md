@@ -72,7 +72,7 @@ Parrish is the growth story of Manatee County. What was agricultural land and sm
 
 The trade-off is that infrastructure is playing catch-up. Roads get congested during peak hours, and amenities like restaurants and shopping are still limited compared to more established areas. But if you want a newer home with some space and don't mind a 15-20 minute drive to Bradenton or I-75, Parrish delivers solid value.
 
-[Explore all Manatee County cities →](/counties/manatee/cities/)
+[Explore all Manatee County cities →](/cities/)
 
 ## Cost of Living
 

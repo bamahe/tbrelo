@@ -62,7 +62,7 @@ Davenport is the vacation rental capital of the area. Its proximity to Disney Wo
 
 Plant City technically straddles the Hillsborough-Polk border, but the Polk side benefits from its proximity. The Florida Strawberry Festival every March is a massive draw. Plant City has a small-town downtown, good farmland, and easy access to both Tampa and Lakeland via I-4.
 
-[Explore all Polk County cities →](/counties/polk/cities/)
+[Explore all Polk County cities →](/cities/)
 
 ## Cost of Living
 

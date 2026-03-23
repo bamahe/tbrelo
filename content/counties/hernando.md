@@ -56,7 +56,7 @@ Yes, Weeki Wachee is technically an incorporated city. It was incorporated decad
 
 **Timber Pines** is a gated 55+ community in the Spring Hill area that operates almost like its own small town. It has its own golf courses, clubhouses, pools, and an active social calendar. For retirees looking for a turnkey active-adult lifestyle at a fraction of what similar communities cost in Pinellas or Sarasota, Timber Pines is worth a serious look.
 
-[Explore all Hernando County cities →](/counties/hernando/cities/)
+[Explore all Hernando County cities →](/cities/)
 
 ## Cost of Living
 

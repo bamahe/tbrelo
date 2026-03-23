@@ -74,7 +74,7 @@ Nokomis sits on the mainland across from Casey Key, one of the most exclusive an
 
 Nokomis itself is a laid-back beach community. The Nokomis Beach drum circles (originally started decades ago) have become a local institution. North Jetty Park is a favorite for fishing and watching boats pass through the Venice Inlet.
 
-[Explore all Sarasota County cities →](/counties/sarasota/cities/)
+[Explore all Sarasota County cities →](/cities/)
 
 ## Cost of Living
 
