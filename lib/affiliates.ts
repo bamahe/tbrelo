@@ -112,6 +112,13 @@ export const affiliateLinks: Record<string, { url: string; name: string; categor
     category: 'storage',
   },
 
+  // ── JUNK REMOVAL ────────────────────────────────────────
+  gotjunk: {
+    url: 'https://www.1800gotjunk.com/', // UPDATE with CJ affiliate link
+    name: '1-800-GOT-JUNK?',
+    category: 'moving',
+  },
+
   // ── HOME IMPROVEMENT ─────────────────────────────────────
   homedepot: {
     url: 'https://www.homedepot.com/', // UPDATE with Impact affiliate link
