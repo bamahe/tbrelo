@@ -70,16 +70,6 @@ export default function Header() {
             ))}
           </nav>
 
-          {/* CTA Button */}
-          <a
-            href="https://nowtb.com"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="hidden md:inline-flex items-center px-4 py-2 bg-brand-blue text-white text-sm font-semibold rounded-lg hover:bg-blue-600 transition-colors"
-          >
-            Need a REALTOR®?
-          </a>
-
           {/* Mobile menu button */}
           <button
             onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
@@ -131,14 +121,6 @@ export default function Header() {
                 ))}
               </div>
             ))}
-            <a
-              href="https://nowtb.com"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="block mt-4 text-center px-4 py-2 bg-brand-blue text-white font-semibold rounded-lg"
-            >
-              Need a REALTOR®?
-            </a>
           </div>
         )}
       </div>
