@@ -110,13 +110,22 @@ async function downloadImage(filename: string, query: string): Promise<void> {
   const searchUrl = `https://api.unsplash.com/search/photos?query=${encodeURIComponent(query)}&per_page=1&orientation=landscape&client_id=${ACCESS_KEY}`
 
   const res = await fetch(searchUrl)
-  // Handle rate limiting — wait 60s and retry
-  if (res.status === 429) {
-    console.log('RATE LIMITED — waiting 60s...')
-    await new Promise(r => setTimeout(r, 60000))
+  // Handle rate limiting — Unsplash returns 429 or 403 with text body
+  if (res.status === 429 || res.status === 403) {
+    console.log(`RATE LIMITED (${res.status}) — waiting 65s...`)
+    await new Promise(r => setTimeout(r, 65000))
     return downloadImage(filename, query)
   }
-  const searchResult: any = await res.json()
+
+  // Parse response, catch text/non-JSON responses (also rate limiting)
+  let searchResult: any
+  try {
+    searchResult = await res.json()
+  } catch {
+    console.log(`RATE LIMITED (bad JSON) — waiting 65s...`)
+    await new Promise(r => setTimeout(r, 65000))
+    return downloadImage(filename, query)
+  }
 
   if (!searchResult.results || searchResult.results.length === 0) {
     console.error(`NO RESULTS for "${query}" — skipping ${filename}`)
