@@ -1,7 +1,16 @@
 import Link from 'next/link'
+import Image from 'next/image'
+import { Metadata } from 'next'
 import { siteConfig } from '@/lib/config'
 import { generateWebPageSchema, generateLocalBusinessSchema } from '@/lib/schema'
 import CTABox from '@/components/CTABox'
+
+// OG image for homepage social sharing
+export const metadata: Metadata = {
+  openGraph: {
+    images: [{ url: `${siteConfig.url}/images/heroes/homepage.jpg`, width: 1200, height: 630 }],
+  },
+}
 
 export default function HomePage() {
   const schemas = [
@@ -21,8 +30,17 @@ export default function HomePage() {
       />
 
       {/* Hero */}
-      <section className="bg-brand-navy text-white py-20 md:py-28">
-        <div className="max-w-4xl mx-auto px-4 text-center">
+      <section className="relative text-white py-20 md:py-28 overflow-hidden">
+        <Image
+          src="/images/heroes/homepage.jpg"
+          alt="Tampa Bay skyline"
+          fill
+          className="object-cover"
+          unoptimized
+          priority
+        />
+        <div className="absolute inset-0 bg-brand-navy/70" />
+        <div className="relative z-10 max-w-4xl mx-auto px-4 text-center">
           <h1 className="text-white text-5xl md:text-6xl font-display font-extrabold mb-6 leading-tight">
             Moving to <span className="text-brand-sky">Tampa Bay</span>?
           </h1>

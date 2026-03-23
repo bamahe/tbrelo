@@ -2,9 +2,11 @@ import { Metadata } from 'next'
 import { notFound } from 'next/navigation'
 import { getContentPage, getContentSlugs } from '@/lib/content'
 import { generateWebPageSchema } from '@/lib/schema'
+import { getPageImage, getPageImageUrl } from '@/lib/images'
 import Breadcrumb from '@/components/Breadcrumb'
 import CTABox from '@/components/CTABox'
 import AdSlot from '@/components/AdSlot'
+import HeroImage from '@/components/HeroImage'
 
 // Catch-all for top-level pages — reads from content/pillar/ and content/pages/
 // Pillar pages are long-form guides, pages are standard static pages (about, etc.)
@@ -27,9 +29,16 @@ export function generateStaticParams() {
 export function generateMetadata({ params }: { params: { slug: string } }): Metadata {
   const page = findPage(params.slug)
   if (!page) return {}
+  const imageUrl = getPageImageUrl({
+    type: page.frontmatter.type === 'page' ? 'page' : 'pillar',
+    slug: params.slug,
+    frontmatterImage: page.frontmatter.image,
+  })
   return {
     title: page.frontmatter.metaTitle || page.frontmatter.title,
     description: page.frontmatter.metaDescription,
+    openGraph: { images: [{ url: imageUrl, width: 1200, height: 630 }] },
+    twitter: { card: 'summary_large_image', images: [imageUrl] },
   }
 }
 
@@ -45,6 +54,12 @@ export default function TopLevelPage({ params }: { params: { slug: string } }) {
     updatedAt: page.frontmatter.updatedAt,
   })
 
+  const heroSrc = getPageImage({
+    type: page.frontmatter.type === 'page' ? 'page' : 'pillar',
+    slug: params.slug,
+    frontmatterImage: page.frontmatter.image,
+  })
+
   return (
     <>
       <script
@@ -52,12 +67,12 @@ export default function TopLevelPage({ params }: { params: { slug: string } }) {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
       />
 
+      <HeroImage src={heroSrc} title={page.frontmatter.title} />
+
       <article className="max-w-4xl mx-auto px-4 py-10">
         <Breadcrumb items={[
           { label: page.frontmatter.title, href: `/${params.slug}/` },
         ]} />
-
-        <h1 className="mb-6">{page.frontmatter.title}</h1>
 
         <AdSlot slot="top" />
 
