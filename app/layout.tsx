@@ -48,7 +48,7 @@ export default function RootLayout({
       <head>
         {/* Google AdSense site verification */}
         <meta name="google-adsense-account" content="ca-pub-2033173419526042" />
-        <meta name="impact-site-verification" content="bb623f40-9653-4312-9ca8-bf35b957a10c" />
+        <meta name="impact-site-verification" value="bb623f40-9653-4312-9ca8-bf35b957a10c" />
 
         {/* Google AdSense verification script */}
         <Script
