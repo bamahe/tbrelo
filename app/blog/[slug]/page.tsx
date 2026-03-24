@@ -1,7 +1,7 @@
 import { Metadata } from 'next'
 import { notFound } from 'next/navigation'
 import { getContentPage, getContentSlugs } from '@/lib/content'
-import { generateArticleSchema } from '@/lib/schema'
+import { generateArticleSchema, generateFAQSchema } from '@/lib/schema'
 import { getPageImage, getPageImageUrl } from '@/lib/images'
 import Breadcrumb from '@/components/Breadcrumb'
 import CTABox from '@/components/CTABox'
@@ -43,11 +43,17 @@ export default function BlogPost({ params }: { params: { slug: string } }) {
     imageUrl: getPageImageUrl(imgOpts),
   })
 
+  // Build schemas array — Article + FAQ (if post has FAQ section)
+  const schemas: Record<string, any>[] = [schema]
+  if (page.faqs.length > 0) {
+    schemas.push(generateFAQSchema(page.faqs))
+  }
+
   return (
     <>
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(schemas) }}
       />
 
       <HeroImage src={heroSrc} title={page.frontmatter.title} />
