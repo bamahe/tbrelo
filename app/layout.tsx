@@ -1,6 +1,7 @@
 import './globals.css'
 import { Metadata } from 'next'
 import Script from 'next/script'
+import { SpeedInsights } from '@vercel/speed-insights/next'
 import { siteConfig } from '@/lib/config'
 import Header from '@/components/Header'
 import Footer from '@/components/Footer'
@@ -66,6 +67,7 @@ export default function RootLayout({
           {children}
         </main>
         <Footer />
+        <SpeedInsights />
       </body>
     </html>
   )
