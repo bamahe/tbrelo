@@ -5,6 +5,7 @@ metaDescription: "Just moved to Tampa Bay and need a mechanic you can trust? Aut
 type: blog
 publishedAt: "2026-04-09"
 updatedAt: "2026-04-09"
+image: /images/blog/auto-rx-tampa.jpg
 ---
 
 One of the first things you need after relocating to Tampa Bay is a mechanic you can trust. You don't know anyone yet, you don't have a referral network, and the last thing you want is to walk into a random shop and get taken for a ride (the expensive kind, not the fun kind).
@@ -35,8 +36,11 @@ Ryan's shop is full-service. Whether you just moved here and need an oil change 
 ## Where Is Auto Rx of Tampa?
 
 **Address:** 2823 Overpass Road, Unit A, Tampa, FL 33619
+
 **Phone:** [(813) 443-5751](tel:8134435751)
+
 **Website:** [autorxoftampa.com](https://www.autorxoftampa.com/)
+
 **Hours:** Monday through Friday 8:00am to 5:30pm | Saturday 8:00am to 2:00pm
 
 The shop sits on Overpass Road just off I-75. If you're relocating to any of the popular east Hillsborough County communities, Auto Rx is right in your backyard:
