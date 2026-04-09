@@ -5,7 +5,7 @@ metaDescription: "Just moved to Tampa Bay and need a mechanic you can trust? Aut
 type: blog
 publishedAt: "2026-04-09"
 updatedAt: "2026-04-09"
-image: /images/blog/auto-rx-tampa.jpg
+image: blog/auto-rx-tampa.jpg
 ---
 
 One of the first things you need after relocating to Tampa Bay is a mechanic you can trust. You don't know anyone yet, you don't have a referral network, and the last thing you want is to walk into a random shop and get taken for a ride (the expensive kind, not the fun kind).
