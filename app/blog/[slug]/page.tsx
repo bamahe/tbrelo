@@ -7,6 +7,7 @@ import Breadcrumb from '@/components/Breadcrumb'
 import CTABox from '@/components/CTABox'
 import AdSlot from '@/components/AdSlot'
 import HeroImage from '@/components/HeroImage'
+import QASection from '@/components/QASection'
 
 // Generate static pages for all blog markdown files
 export function generateStaticParams() {
@@ -88,6 +89,9 @@ export default function BlogPost({ params }: { params: { slug: string } }) {
         <CTABox type="handyman" />
 
         <AdSlot slot="bottom" />
+
+        {/* Q&A Section — users can ask and answer questions */}
+        <QASection blogSlug={params.slug} />
       </article>
     </>
   )

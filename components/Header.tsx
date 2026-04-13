@@ -3,6 +3,7 @@
 import { useState } from 'react'
 import Link from 'next/link'
 import { siteConfig } from '@/lib/config'
+import AuthButton from '@/components/AuthButton'
 
 export default function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
@@ -69,6 +70,11 @@ export default function Header() {
               </div>
             ))}
           </nav>
+
+          {/* Auth button (desktop) */}
+          <div className="hidden md:block">
+            <AuthButton />
+          </div>
 
           {/* Mobile menu button */}
           <button
