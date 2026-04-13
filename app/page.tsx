@@ -2,6 +2,8 @@ import Link from 'next/link'
 import Image from 'next/image'
 import { Metadata } from 'next'
 import { siteConfig } from '@/lib/config'
+import { getContentByType } from '@/lib/content'
+import { getPageImage } from '@/lib/images'
 import { generateWebPageSchema, generateLocalBusinessSchema } from '@/lib/schema'
 import CTABox from '@/components/CTABox'
 
@@ -13,6 +15,11 @@ export const metadata: Metadata = {
 }
 
 export default function HomePage() {
+  // Get the 6 most recent blog posts
+  const recentPosts = getContentByType('blog')
+    .sort((a, b) => (b.frontmatter.publishedAt || '').localeCompare(a.frontmatter.publishedAt || ''))
+    .slice(0, 6)
+
   const schemas = [
     generateWebPageSchema({
       title: `${siteConfig.name} — ${siteConfig.tagline}`,
@@ -115,6 +122,57 @@ export default function HomePage() {
                 <p className="text-brand-slate text-sm mt-2">{guide.desc}</p>
               </Link>
             ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Recent Blog Posts */}
+      <section className="py-16 md:py-20">
+        <div className="max-w-7xl mx-auto px-4">
+          <h2 className="text-center mb-4">Latest from the Blog</h2>
+          <p className="text-center text-brand-slate mb-12 max-w-xl mx-auto">
+            Practical guides, neighborhood breakdowns, and product picks for Florida living.
+          </p>
+          <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
+            {recentPosts.map(post => (
+              <Link
+                key={post.slug}
+                href={`/blog/${post.slug}/`}
+                className="group block bg-white border border-gray-200 rounded-xl overflow-hidden hover:border-brand-blue hover:shadow-lg transition-all"
+              >
+                <div className="relative w-full h-40 bg-brand-sand">
+                  <Image
+                    src={`/images/${getPageImage({ type: 'blog', slug: post.slug })}`}
+                    alt={post.frontmatter.title}
+                    fill
+                    className="object-cover"
+                    unoptimized
+                  />
+                </div>
+                <div className="p-5">
+                  <h3 className="font-display font-bold text-base text-brand-navy group-hover:text-brand-blue transition-colors leading-snug">
+                    {post.frontmatter.title}
+                  </h3>
+                  {post.frontmatter.publishedAt && (
+                    <p className="text-brand-slate text-xs mt-2">
+                      {new Date(post.frontmatter.publishedAt).toLocaleDateString('en-US', {
+                        year: 'numeric',
+                        month: 'long',
+                        day: 'numeric',
+                      })}
+                    </p>
+                  )}
+                </div>
+              </Link>
+            ))}
+          </div>
+          <div className="text-center mt-10">
+            <Link
+              href="/blog/"
+              className="inline-block px-8 py-3 bg-brand-navy text-white font-display font-bold rounded-lg hover:bg-brand-blue transition-colors"
+            >
+              View All Blog Posts →
+            </Link>
           </div>
         </div>
       </section>

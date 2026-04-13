@@ -48,7 +48,7 @@ Tampa Bay's housing market has cooled from the 2021–2022 frenzy but remains a 
 | Sarasota | $460,000 | $300 | 32 |
 | Citrus | $280,000 | $175 | 50 |
 
-**What $400K gets you:** In Hillsborough or Pasco, expect a 3-bedroom, 2-bath home around 1,800–2,200 sq ft in a decent subdivision with a pool or large yard. In Pinellas, you'll get something slightly smaller or older for the same price. In Hernando or Citrus, you might get a newer 4-bedroom with acreage.
+**What $400K gets you:** In Hillsborough or Pasco, expect a 3-bedroom, 2-bath home around 1,800–2,200 sq ft in a decent subdivision with a pool or large yard. In Pinellas, you'll get something slightly smaller or older for the same price. In Hernando or Citrus, you might get a newer 4-bedroom with acreage. For a full breakdown of the most affordable areas, see our guide to the [cheapest places to live in Tampa Bay](/blog/cheapest-places-to-live-tampa-bay/).
 
 Ready to see what's available? {{nowtb}} knows every neighborhood in the metro and can match you with properties that fit your budget and lifestyle. They also know which subdivisions have HOA issues, flood risk, or other gotchas that don't show up on Zillow.
 
@@ -343,7 +343,7 @@ Moderate. Effective rates run 0.8–1.1% of assessed value, which is below the n
 
 ### Is it cheaper to rent or buy in Tampa Bay right now?
 
-In most of the metro, buying is more expensive month-to-month than renting equivalent housing — the gap is roughly $500–$800/month. However, you're building equity, getting tax deductions, and locking in your housing cost (rent keeps rising). If you plan to stay 3+ years, buying usually wins financially. If you're testing the area or might relocate again, rent first. {{nowtb}} can help you evaluate both options based on your specific situation.
+In most of the metro, buying is more expensive month-to-month than renting equivalent housing — the gap is roughly $500–$800/month. However, you're building equity, getting tax deductions, and locking in your housing cost (rent keeps rising). If you plan to stay 3+ years, buying usually wins financially. If you're testing the area or might relocate again, rent first. We break this down in detail in our [renting vs. buying in Tampa Bay](/blog/renting-vs-buying-tampa-bay/) guide. {{nowtb}} can help you evaluate both options based on your specific situation.
 
 ### What costs surprise people most when they move to Tampa Bay?
 

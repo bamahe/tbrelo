@@ -224,9 +224,9 @@ Not beaches per se, but the crystal-clear spring-fed rivers and Gulf access from
 
 ## Beach Tips from a Local
 
-- **Sunscreen is non-negotiable.** Florida sun is brutal, even on cloudy days. The UV index here is extreme from April through October. Reapply every 90 minutes.
+- **[Sunscreen](/blog/best-sunscreen-florida/) is non-negotiable.** Florida sun is brutal, even on cloudy days. The UV index here is extreme from April through October. Reapply every 90 minutes.
 - **Rip currents are real.** If you feel yourself being pulled out, swim parallel to shore — not against the current. Most Gulf beaches have mild currents, but passes between barrier islands can be dangerous.
-- **Bring a shade solution.** Beach umbrellas, pop-up tents, or a canopy. Sitting in direct Florida sun for hours will ruin anyone.
+- **Bring a shade solution.** Beach umbrellas, pop-up tents, or a canopy. Sitting in direct Florida sun for hours will ruin anyone. See our [best beach gear for Florida](/blog/best-beach-gear-florida/) guide for specific recommendations.
 - **Water shoes for Venice Beach.** The fossilized shark teeth and shell fragments can be sharp in the water.
 - **Beach chairs and coolers > restaurants.** Pack your own food and drinks. Beach restaurant prices are tourist prices.
 - **Go on weekdays if you can.** Any beach in Tampa Bay is 10x better on a Tuesday than a Saturday.

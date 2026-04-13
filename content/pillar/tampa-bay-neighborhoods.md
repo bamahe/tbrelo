@@ -368,6 +368,9 @@ The barrier islands of Sarasota County are some of the most beautiful and expens
 ## Best Neighborhoods by Lifestyle
 
 ### Best for Families with School-Age Kids
+
+For a deeper dive, see our full guide to the [best neighborhoods in Tampa Bay for families](/blog/best-neighborhoods-tampa-bay-families/).
+
 1. [FishHawk Ranch](/cities/fishhawk-ranch/) (Hillsborough)
 2. [Wesley Chapel](/cities/wesley-chapel/) (Pasco)
 3. [Westchase](/cities/westchase/) (Hillsborough)
@@ -402,6 +405,8 @@ The barrier islands of Sarasota County are some of the most beautiful and expens
 4. [Safety Harbor](/cities/safety-harbor/) — peaceful waterfront, solid internet
 5. [Lakeland](/cities/lakeland/) — most affordable option with its own downtown scene
 
+Also check out our guides to the [most walkable neighborhoods in Tampa Bay](/blog/most-walkable-neighborhoods-tampa-bay/) and the [cheapest places to live in Tampa Bay](/blog/cheapest-places-to-live-tampa-bay/).
+
 ## How to Explore Before You Commit
 
 Don't pick a neighborhood from a website — including this one. Here's what I tell every client:
@@ -426,6 +431,6 @@ South Tampa, Seminole Heights, or [Westchase](/cities/westchase/) for the shorte
 Different, not better. [Pinellas](/counties/pinellas/) is denser, closer to beaches, more walkable in urban areas, and generally more expensive per square foot. [Hillsborough](/counties/hillsborough/) has more space, more new construction, better schools on average, and lower prices for the same size home. Your lifestyle determines which fits.
 
 ### Can I find a good home under $300K?
-Yes, but you're looking at [Pasco County](/counties/pasco/) (north and east), [Hernando County](/counties/hernando/), [Polk County](/counties/polk/), [Citrus County](/counties/citrus/), or select areas of eastern [Hillsborough](/counties/hillsborough/). In [Pinellas](/counties/pinellas/) under $300K, you're looking at condos or fixer-uppers.
+Yes, but you're looking at [Pasco County](/counties/pasco/) (north and east), [Hernando County](/counties/hernando/), [Polk County](/counties/polk/), [Citrus County](/counties/citrus/), or select areas of eastern [Hillsborough](/counties/hillsborough/). In [Pinellas](/counties/pinellas/) under $300K, you're looking at condos or fixer-uppers. If you want to skip HOA fees and keep costs down, check out the [best neighborhoods with no HOA in Tampa Bay](/blog/best-neighborhoods-no-hoa-tampa-bay/).
 
 *Thinking about relocating to Tampa Bay? Barrett Henry has been helping families move to Tampa Bay for over 23 years. {{nowtb}}*

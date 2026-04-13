@@ -11,7 +11,7 @@ updatedAt: "2026-03-15"
 
 If you have kids, schools will determine where you live in Tampa Bay more than any other factor. And the school landscape here is complex — eight county school districts, hundreds of individual schools, magnet programs, charter schools, private schools, and a school choice system that means your neighborhood school isn't your only option.
 
-The headlines about Florida schools tend to be political. This guide skips the politics and gives you the practical information: which districts perform best, which individual schools are standouts, what your options are, and how to navigate the system.
+The headlines about Florida schools tend to be political. This guide skips the politics and gives you the practical information: which districts perform best, which individual schools are standouts, what your options are, and how to navigate the system. If you have younger children not yet in K-12, start with our [Tampa Bay daycare and preschool guide](/blog/tampa-bay-daycare-preschool-guide/).
 
 ## How Florida School Districts Work
 

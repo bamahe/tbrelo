@@ -82,11 +82,11 @@ Head beyond the bay into the Gulf for bigger game:
 
 Buy online at GoOutdoorsFlorida.com in minutes. Non-residents pay more ($30–$47 depending on type).
 
-Grab your gear from {{amazon}} — rods, reels, tackle boxes, and coolers delivered before your first trip.
+Grab your gear from {{amazon}} — rods, reels, tackle boxes, and coolers delivered before your first trip. Heading to the beach instead? See our [best beach gear for Florida](/blog/best-beach-gear-florida/) guide.
 
 ## Kayaking and Paddleboarding
 
-Tampa Bay's calm bays, spring-fed rivers, and mangrove trails make it one of the best paddling regions in Florida.
+Tampa Bay's calm bays, spring-fed rivers, and mangrove trails make it one of the best paddling regions in Florida. For gear recommendations and launch-by-launch details, check out our [Tampa Bay kayaking and paddleboarding guide](/blog/tampa-bay-kayaking-paddleboarding-guide/).
 
 ### Top Paddling Destinations
 
@@ -187,7 +187,7 @@ Tampa Bay's state parks range from beach islands to river wilderness to former m
 
 ### Best State Parks
 
-**Hillsborough River State Park** — Class II rapids (rare in Florida), excellent kayaking, hiking trails through hardwood hammocks, and camping. The rapids section is unique — you won't find whitewater elsewhere in Tampa Bay. 30 minutes from downtown [Tampa](/cities/tampa/).
+**Hillsborough River State Park** — Class II rapids (rare in Florida), excellent kayaking, hiking trails through hardwood hammocks, and camping. The rapids section is unique — you won't find whitewater elsewhere in Tampa Bay. 30 minutes from downtown [Tampa](/cities/tampa/). For more trail options across the metro, see our guide to the [best hiking trails in Tampa Bay](/blog/best-hiking-trails-tampa-bay/).
 
 **Honeymoon Island State Park** ([Dunedin](/cities/dunedin/)) — Beautiful beach, osprey nesting, nature trails, pet-friendly area, and the ferry to Caladesi Island. One of the most-visited state parks in Florida for good reason.
 

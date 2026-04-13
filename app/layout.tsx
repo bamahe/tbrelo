@@ -58,8 +58,19 @@ export default function RootLayout({
           crossOrigin="anonymous"
         />
         
-        {/* Google Analytics — uncomment when set up */}
-        {/* <script async src={`https://www.googletagmanager.com/gtag/js?id=${siteConfig.analytics.gaId}`}></script> */}
+        {/* Google tag (gtag.js) — tbrelo.com */}
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-TD87S02SLM"
+          strategy="afterInteractive"
+        />
+        <Script id="gtag-init" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-TD87S02SLM');
+          `}
+        </Script>
       </head>
       <body className="flex flex-col min-h-screen">
         <Header />

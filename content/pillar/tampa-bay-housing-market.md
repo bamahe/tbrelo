@@ -137,7 +137,7 @@ Ready to explore new construction? {{nowtb}} works with every major builder in T
 
 ### Sellers Still Have Some Advantages
 
-- **Desirable homes in top school zones still sell fast.** FishHawk, Westchase, Lakewood Ranch — A-rated school zones still generate competition.
+- **Desirable homes in top school zones still sell fast.** FishHawk, Westchase, Lakewood Ranch — A-rated school zones still generate competition. The [best gated communities in Tampa Bay](/blog/best-gated-communities-tampa-bay/) also tend to hold value and move quickly.
 - **Move-in ready wins.** Updated homes that need nothing sell faster and for more than comparable homes needing work.
 - **Waterfront and unique properties have limited supply.** There are only so many waterfront lots.
 - **Inventory is up but not flooded.** We're not in a buyer's market — we're in a balanced market leaning slightly toward buyers in most areas.
@@ -200,7 +200,7 @@ The condo market is strongest in downtown [St. Petersburg](/cities/st-petersburg
 No. Bubbles are characterized by speculation, loose lending, and prices disconnected from fundamentals. Tampa Bay's price increases have been driven by real demand (population growth, job growth, migration), not speculation. Prices could flatten or dip slightly in some areas, but a crash is unlikely given the demand fundamentals.
 
 ### Should I rent first or buy immediately?
-Rent first if you can. Even 3–6 months of renting gives you time to explore neighborhoods, understand commute patterns, and avoid buying in the wrong area. The cost of renting for 6 months ($12K–$15K) is cheap compared to the cost of buying in the wrong neighborhood and selling two years later.
+Rent first if you can. Even 3–6 months of renting gives you time to explore neighborhoods, understand commute patterns, and avoid buying in the wrong area. The cost of renting for 6 months ($12K–$15K) is cheap compared to the cost of buying in the wrong neighborhood and selling two years later. For a full financial breakdown, see our [renting vs. buying in Tampa Bay](/blog/renting-vs-buying-tampa-bay/) analysis.
 
 ### How long does the buying process take?
 From starting your search to closing, typically 60–90 days. That's 2–4 weeks of searching, a week or two for offer and negotiation, and 30–45 days for closing (inspections, appraisal, loan processing). Cash deals can close in 14–21 days.

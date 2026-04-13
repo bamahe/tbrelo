@@ -141,7 +141,7 @@ Good internet is non-negotiable for remote work. Here's the Tampa Bay internet l
 | Video production, large file uploads | 200 Mbps | 500 Mbps+ |
 | Software development, cloud computing | 100 Mbps | 300 Mbps+ |
 
-**Always verify internet availability and speed at a specific address before buying or renting.** Enter the address on the provider's website, not just the zip code. Some streets in the same neighborhood have different availability.
+**Always verify internet availability and speed at a specific address before buying or renting.** Enter the address on the provider's website, not just the zip code. Some streets in the same neighborhood have different availability. For a full comparison of plans, pricing, and coverage maps, see our [Tampa Bay internet providers guide](/blog/tampa-bay-internet-providers-guide/).
 
 ### Internet Backup — Because Florida Storms
 
@@ -194,7 +194,7 @@ The real coworking of Tampa Bay happens at coffee shops. Local favorites with st
 ### Dedicated Office Space
 
 When buying or renting in Tampa Bay, look for:
-- **A dedicated room with a door.** Florida homes often have "flex rooms," "dens," or "bonus rooms" that make excellent offices. Some newer builds in [Wesley Chapel](/cities/wesley-chapel/) and [Riverview](/cities/riverview/) specifically include home office floor plans.
+- **A dedicated room with a door.** Florida homes often have "flex rooms," "dens," or "bonus rooms" that make excellent offices. Some newer builds in [Wesley Chapel](/cities/wesley-chapel/) and [Riverview](/cities/riverview/) specifically include home office floor plans. For gear and setup recommendations, see our [best home office setup for Florida](/blog/best-home-office-setup-florida/) guide.
 - **East or north-facing windows.** Direct afternoon sun (west-facing) in Florida turns a home office into a greenhouse. You'll spend all your savings on AC.
 - **Fiber or cable internet jack** in the office room — not just in the living room.
 

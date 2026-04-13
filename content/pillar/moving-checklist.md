@@ -99,7 +99,7 @@ The action phase. Things start getting real.
   - Pinellas/Pasco: Duke Energy
   - Other counties: Check local provider
 - [ ] **Water:** Contact the county or city water utility to start service.
-- [ ] **Internet:** {{spectrum}} has the widest coverage across Tampa Bay and is the most reliable option for remote workers. Schedule installation for your move-in date or the day after.
+- [ ] **Internet:** {{spectrum}} has the widest coverage across Tampa Bay and is the most reliable option for remote workers. Schedule installation for your move-in date or the day after. Compare all your options in our [Tampa Bay internet providers guide](/blog/tampa-bay-internet-providers-guide/).
 - [ ] **Trash/recycling:** Usually included in county services — verify with your county.
 
 ### Insurance
@@ -233,7 +233,7 @@ You made it. Now let's get you set up properly.
 ### Day 1 — Move In
 - [ ] Walk through your new home and document any existing damage (photos and video) before unloading.
 - [ ] Direct movers/unload truck — focus on furniture placement first, boxes second.
-- [ ] Set up beds, bathroom essentials, and kitchen basics. Everything else can wait.
+- [ ] Set up beds, bathroom essentials, and kitchen basics. Everything else can wait. For a full list of what you'll need on day one, check out our [Florida move-in essentials guide](/blog/florida-move-in-essentials/).
 - [ ] Verify utilities are working: electricity, water, AC (this is non-negotiable in Florida).
 - [ ] Connect to WiFi (if installation is complete) or use mobile hotspot.
 - [ ] {{adt}} or {{simplisafe}} — set up your security system. Do this on day one, not "when you get around to it."
@@ -273,13 +273,13 @@ You made it. Now let's get you set up properly.
   - Nextdoor (neighborhood community)
 - [ ] Set up mail forwarding confirmation — verify your mail is actually arriving.
 - [ ] Schedule regular pest control. Quarterly treatments are standard in Florida. This isn't optional.
-- [ ] Start learning hurricane prep basics. Hurricane season is June 1 – November 30. Stock a basic kit: water (1 gallon per person per day for 3 days), non-perishable food, flashlights, batteries, first aid kit, important documents in a waterproof bag.
+- [ ] Start learning hurricane prep basics. Hurricane season is June 1 – November 30. Stock a basic kit: water (1 gallon per person per day for 3 days), non-perishable food, flashlights, batteries, first aid kit, important documents in a waterproof bag. A [portable generator](/blog/best-portable-generators-florida/) is worth considering before your first hurricane season.
 
 ## The Checklist They Don't Print — Things You'll Wish Someone Told You
 
 1. **Your AC filter needs changing monthly in Florida.** Not quarterly. Monthly. Your AC runs 8+ months a year. A dirty filter means higher bills and a shorter lifespan.
 
-2. **Get a surge protector for your electronics.** Florida has more lightning strikes than anywhere else in the country. Whole-house surge protectors cost $200–$500 installed.
+2. **Get a [surge protector](/blog/best-surge-protectors-florida/) for your electronics.** Florida has more lightning strikes than anywhere else in the country. Whole-house surge protectors cost $200–$500 installed.
 
 3. **Park your car in the garage.** If you have one, use it. The Florida sun destroys dashboards, paint, and interiors faster than you'd believe.
 

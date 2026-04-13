@@ -145,6 +145,7 @@ Don't wait until a storm is in the Gulf. Stock up before June 1 when stores are 
 - Battery-powered or hand-crank radio (NOAA weather radio is ideal)
 - Portable phone chargers / power banks (fully charged)
 - Lanterns (battery-powered, not candles — fire risk is real during storms)
+- [Surge protectors](/blog/best-surge-protectors-florida/) for all electronics — Florida lightning and post-storm power surges destroy unprotected equipment
 
 **Medical**
 - Prescription medications (30-day supply minimum)
@@ -171,7 +172,7 @@ Stock up on supplies through {{amazon}} — they'll deliver everything on this l
 
 Power outages are the most common hurricane impact. A generator makes a huge difference.
 
-- **Portable generator ($400–$1,200):** Powers essentials — fridge, fans, phone chargers, a few lights. Requires gasoline (store safely, away from the house). **NEVER run a generator indoors or in a garage** — carbon monoxide kills.
+- **Portable generator ($400–$1,200):** Powers essentials — fridge, fans, phone chargers, a few lights. Requires gasoline (store safely, away from the house). **NEVER run a generator indoors or in a garage** — carbon monoxide kills. See our [best portable generators for Florida](/blog/best-portable-generators-florida/) for specific model recommendations.
 - **Whole-home standby generator ($5,000–$15,000 installed):** Runs on natural gas or propane, kicks on automatically when power drops. If you can afford it, this is a quality-of-life game-changer. No gas runs, no extension cords, no sweating through the night.
 - **Solar + battery backup ($10,000–$25,000):** Growing option in Florida. Tesla Powerwall and similar systems provide backup power from your solar panels. Works even when the grid is down, no fuel needed.
 

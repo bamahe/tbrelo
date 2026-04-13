@@ -263,7 +263,7 @@ Moving to Florida means updating your estate plan with a Florida attorney. Key c
 Depends on your priorities. [Sarasota County](/counties/sarasota/) for culture and beaches. [Hillsborough County](/counties/hillsborough/) (Sun City Center) for the full 55+ community experience. [Manatee County](/counties/manatee/) (Lakewood Ranch) for upscale active adult. [Hernando](/counties/hernando/) or [Citrus](/counties/citrus/) for affordable and nature-focused. [Pinellas](/counties/pinellas/) (Dunedin, Safety Harbor) for walkable charm with beach access.
 
 ### Can I afford to retire in Tampa Bay on Social Security alone?
-It's tight. Average Social Security is roughly $1,900/month. You can find housing in the $200K–$250K range in Hernando, Citrus, or east Pasco, and if you own outright, monthly costs could fit within $1,500–$2,000. But it doesn't leave much cushion. Supplemental income or savings are strongly recommended.
+It's tight. Average Social Security is roughly $1,900/month. You can find housing in the $200K–$250K range in Hernando, Citrus, or east Pasco, and if you own outright, monthly costs could fit within $1,500–$2,000. But it doesn't leave much cushion. Supplemental income or savings are strongly recommended. For specific neighborhoods that stretch a fixed income the furthest, see our guide to the [best areas for retirees on a budget in Tampa Bay](/blog/best-areas-retirees-budget-tampa-bay/).
 
 ### Is Tampa Bay safe for retirees?
 Generally yes, particularly in 55+ communities which have very low crime rates. Master-planned communities like [Sun City Center](/cities/sun-city-center/), [Lakewood Ranch](/cities/lakewood-ranch/), and Timber Pines are extremely safe. Urban areas vary by neighborhood — choose carefully.
