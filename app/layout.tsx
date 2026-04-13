@@ -47,6 +47,13 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
+        {/* Favicons — consistent across all browsers */}
+        <link rel="icon" href="/favicon.ico" sizes="any" />
+        <link rel="icon" href="/favicon-32.png" type="image/png" sizes="32x32" />
+        <link rel="icon" href="/favicon-16.png" type="image/png" sizes="16x16" />
+        <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+        <link rel="icon" href="/icon-192.png" type="image/png" sizes="192x192" />
+
         {/* Google AdSense site verification */}
         <meta name="google-adsense-account" content="ca-pub-2033173419526042" />
         <meta name="impact-site-verification" content="bb623f40-9653-4312-9ca8-bf35b957a10c" />
