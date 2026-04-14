@@ -5,6 +5,7 @@ import { generateWebPageSchema, generateFAQSchema } from '@/lib/schema'
 import Breadcrumb from '@/components/Breadcrumb'
 import CTABox from '@/components/CTABox'
 import AdSlot from '@/components/AdSlot'
+import QASection from '@/components/QASection'
 
 // Generate static pages for all question markdown files
 export function generateStaticParams() {
@@ -72,6 +73,9 @@ export default function QuestionPage({ params }: { params: { slug: string } }) {
         <CTABox type="realtor" />
 
         <AdSlot slot="bottom" />
+
+        {/* Interactive Q&A — users can ask follow-up questions */}
+        <QASection blogSlug={`questions-${params.slug}`} />
       </article>
     </>
   )
