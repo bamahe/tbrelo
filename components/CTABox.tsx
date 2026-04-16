@@ -12,7 +12,7 @@ interface CTABoxProps {
 const ctas = {
   realtor: {
     headline: 'Moving to Tampa Bay? Get a Local Expert.',
-    body: 'Barrett Henry has been helping families relocate to Tampa Bay for over 23 years. Straight talk, smart strategy, no pressure.',
+    body: 'Barrett Henry is a Broker Associate with REMAX Collective and over 23 years of real estate experience. Straight talk, smart strategy, no pressure.',
     cta: 'Contact Barrett',
     url: 'https://nowtb.com',
     phone: '(813) 733-7907',
@@ -20,7 +20,7 @@ const ctas = {
   },
   handyman: {
     headline: 'Need Help Setting Up Your New Home?',
-    body: 'Best Bay Services handles everything from TV mounting to full remodels. Local, licensed, and trusted across Tampa Bay.',
+    body: 'Best Bay Services handles handyman work, home repairs, and maintenance for your new Tampa Bay home. Local, licensed, and trusted.',
     cta: 'Get a Quote',
     url: 'https://bestbayservices.com',
     phone: '(813) 416-8676',

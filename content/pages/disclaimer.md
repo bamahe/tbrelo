@@ -15,7 +15,7 @@ All content on tbrelo.com is for **informational purposes only** and should not 
 
 Market data, home prices, neighborhood details, and community descriptions on this site are approximations based on publicly available data and local knowledge. Real estate markets change frequently — sometimes weekly.
 
-For current, accurate real estate advice tailored to your situation, contact a licensed real estate professional. Barrett Henry is a licensed REALTOR and Broker Associate at RE/MAX Collective with 23+ years of experience in Tampa Bay. Visit [nowtb.com](https://nowtb.com) or call (813) 733-7907.
+For current, accurate real estate advice tailored to your situation, contact a licensed real estate professional. Barrett Henry is a licensed REALTOR and Broker Associate at REMAX Collective with 23+ years of experience in Tampa Bay. Visit [nowtb.com](https://nowtb.com) or call (813) 733-7907.
 
 ## Financial and Tax Information
 

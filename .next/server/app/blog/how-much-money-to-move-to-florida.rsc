@@ -1,0 +1,322 @@
+3:I[5878,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","308","static/chunks/app/blog/%5Bslug%5D/page-b476b3a3c0253986.js"],"Image"]
+4:I[2972,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","308","static/chunks/app/blog/%5Bslug%5D/page-b476b3a3c0253986.js"],""]
+6:I[5143,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","308","static/chunks/app/blog/%5Bslug%5D/page-b476b3a3c0253986.js"],"default"]
+7:I[4707,[],""]
+9:I[6423,[],""]
+a:I[8003,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-c9e6b1a09491c765.js"],""]
+b:I[7312,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-c9e6b1a09491c765.js"],"default"]
+c:I[5463,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-c9e6b1a09491c765.js"],"SpeedInsights"]
+2:Tc90,[{"@context":"https://schema.org","@type":"Article","headline":"How Much Money to Move to Florida — Full Cost Breakdown | TB Relo","description":"How much does it cost to move to Florida? Real dollar ranges for moving, housing, deposits, insurance, and the Florida-specific costs nobody warns you about.","url":"https://tbrelo.com/blog/how-much-money-to-move-to-florida/","author":{"@type":"Person","name":"Barrett Henry","jobTitle":"REALTOR® & Broker Associate","url":"https://nowtb.com","worksFor":{"@type":"Organization","name":"REMAX Collective"}},"publisher":{"@type":"Organization","name":"TB Relo","url":"https://tbrelo.com"},"datePublished":"2026-03-23","dateModified":"2026-03-23","image":{"@type":"ImageObject","url":"https://tbrelo.com/images/blog/how-much-money-to-move-to-florida.jpg"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much money should I save before moving to Florida?","acceptedAnswer":{"@type":"Answer","text":"At minimum, save $10,000–$15,000 if renting or $30,000–$50,000+ if buying (depending on your down payment). Include moving costs, deposits, insurance prepayments, and at least two months of living expenses as a cushion."}},{"@type":"Question","name":"Is it expensive to rent in Tampa Bay?","acceptedAnswer":{"@type":"Answer","text":"A typical 2-bedroom apartment in Tampa Bay runs $1,600–$2,500/month in 2026. Single-family home rentals are $2,000–$3,500/month. Expect to pay first, last, and security deposit upfront — that's three months of rent before you even unpack."}},{"@type":"Question","name":"Why is Florida homeowners insurance so expensive?","acceptedAnswer":{"@type":"Answer","text":"Hurricane exposure, a history of fraudulent claims, carrier insolvencies, and rising reinsurance costs have pushed Florida premiums to the highest in the nation. The average is $4,000–$6,000/year, with many homes over $8,000. This is a real cost that belongs in your housing budget alongside your mortgage payment."}},{"@type":"Question","name":"Do I need flood insurance in Florida?","acceptedAnswer":{"@type":"Answer","text":"If your home is in a FEMA-designated flood zone and you have a federally backed mortgage, yes — it's required. Even if it's not required, it's strongly recommended. Standard homeowners insurance does not cover flood damage. Flood policies run $500–$3,000+/year depending on your zone and elevation."}},{"@type":"Question","name":"What's the biggest hidden cost of moving to Florida?","acceptedAnswer":{"@type":"Answer","text":"Insurance — both homeowners and auto. Newcomers from states with $1,500/year homeowners premiums are shocked by Florida's $4,000–$8,000+ costs. Auto insurance is also higher than average due to high uninsured motorist rates and frequent accident claims."}},{"@type":"Question","name":"Can I move to Florida with $5,000?","acceptedAnswer":{"@type":"Answer","text":"It's possible but risky. With $5,000, you could cover a short move, a cheap apartment deposit, and little else. You'd have zero cushion for surprises, and Florida has plenty of those. I'd strongly recommend having at least $10,000–$15,000 to move comfortably, even as a renter."}}]}]5:T36a7,<h2>Plan for $8,000–$15,000 Minimum (Renters) or $25,000–$50,000+ (Buyers)</h2>
+<p>Moving to Florida costs more than most people budget for. If you're renting, you need $8,000–$15,000 in savings to cover moving expenses, first/last/security deposit, and startup costs. If you're buying a home, plan for $25,000–$50,000+ depending on your purchase price and down payment. Those numbers aren't meant to scare you — they're meant to keep you from being blindsided.</p>
+<p>I've worked with relocating families for over 23 years in Tampa Bay. The number-one financial mistake I see is underestimating the total cost of the move itself. People budget for the house or apartment but forget about the twenty other line items that add up fast. Here's every cost you need to plan for, with real dollar ranges based on current Tampa Bay pricing.</p>
+<h2>What Does It Cost to Ship Your Belongings to Florida?</h2>
+<p>The cost of physically moving your stuff to Florida depends on distance, volume, and timing.</p>
+<p><strong>Full-service long-distance movers (most common for interstate moves):</strong></p>
+<table>
+<thead>
+<tr>
+<th>Move Origin</th>
+<th>1-Bedroom</th>
+<th>2-Bedroom</th>
+<th>3-Bedroom</th>
+<th>4-Bedroom</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>New York/NJ</td>
+<td>$2,500–$4,500</td>
+<td>$4,000–$6,500</td>
+<td>$5,500–$9,000</td>
+<td>$7,000–$12,000</td>
+</tr>
+<tr>
+<td>Chicago/Midwest</td>
+<td>$2,000–$3,800</td>
+<td>$3,500–$5,500</td>
+<td>$4,500–$7,500</td>
+<td>$6,000–$10,000</td>
+</tr>
+<tr>
+<td>Atlanta/Southeast</td>
+<td>$1,200–$2,500</td>
+<td>$2,000–$3,500</td>
+<td>$3,000–$5,000</td>
+<td>$4,000–$7,000</td>
+</tr>
+<tr>
+<td>California</td>
+<td>$3,500–$5,500</td>
+<td>$5,000–$8,000</td>
+<td>$7,000–$11,000</td>
+<td>$9,000–$15,000</td>
+</tr>
+</tbody>
+</table>
+<p><strong>DIY truck rental (one-way):</strong></p>
+<ul>
+<li>10-foot truck (studio/1BR): $800–$2,000</li>
+<li>15-foot truck (2BR): $1,200–$3,000</li>
+<li>20-foot truck (3BR): $1,500–$4,000</li>
+<li>26-foot truck (4BR+): $2,000–$5,000</li>
+</ul>
+<p>Important note: one-way truck rental prices going TO Florida are significantly higher than leaving Florida. The demand is one-directional, and rental companies charge accordingly. A 26-foot truck from New York to Tampa might cost $3,500, while Tampa to New York might be $1,200.</p>
+<p><strong>Other shipping options:</strong></p>
+<ul>
+<li>Portable containers (PODS, U-Pack): $2,000–$6,000 depending on distance and size</li>
+<li>Car shipping: $800–$1,500 per vehicle (if you're not driving it down)</li>
+<li>Freight/LTL for partial loads: $500–$2,000</li>
+</ul>
+<p>Read our <a href="/blog/how-to-save-money-moving-to-florida/">money-saving tips for Florida moves</a> for ways to cut these costs.</p>
+<h2>How Much Do You Need for a Rental Deposit in Florida?</h2>
+<p>If you're renting first (which I recommend for most relocators), budget for the full upfront hit.</p>
+<p><strong>Typical Florida rental costs upfront:</strong></p>
+<ul>
+<li>First month's rent: $1,600–$2,500 (Tampa Bay average for a 2BR/2BA apartment)</li>
+<li>Last month's rent: $1,600–$2,500 (many Florida landlords require this)</li>
+<li>Security deposit: $1,600–$2,500 (usually equal to one month's rent)</li>
+<li>Pet deposit: $200–$500 per pet (non-refundable in many cases)</li>
+<li>Application fees: $50–$100 per adult applicant</li>
+</ul>
+<p><strong>Total upfront for a typical apartment: $5,000–$8,000</strong></p>
+<p>Florida landlords are more aggressive about collecting first, last, AND security deposit than in many other states. Some newer apartment complexes have started waiving last month's rent or offering reduced deposits, but the standard is still three months' worth of rent due at signing.</p>
+<p>If you're renting a single-family home, expect even higher upfront costs — single-family rental deposits in Tampa Bay often run $2,000–$3,500, and landlords almost always require first, last, and security.</p>
+<h2>What Are the Costs of Buying a Home in Florida?</h2>
+<p>If you're buying, the financial picture gets significantly larger.</p>
+<p><strong>Down payment:</strong></p>
+<ul>
+<li>Conventional loan (5% down): $17,500–$22,500 on a $350,000–$450,000 home</li>
+<li>Conventional loan (20% down): $70,000–$90,000</li>
+<li>FHA loan (3.5% down): $12,250–$15,750</li>
+<li>VA loan (0% down): $0 (if eligible — and yes, this is real)</li>
+</ul>
+<p><strong>Closing costs (buyer side in Florida):</strong></p>
+<ul>
+<li>Title insurance: $1,500–$3,000 (in many Florida counties, the seller pays the owner's policy — but not always)</li>
+<li>Lender fees: $1,000–$2,500</li>
+<li>Appraisal: $400–$600</li>
+<li>Home inspection: $350–$550</li>
+<li>Wind mitigation inspection: $75–$150</li>
+<li>Survey: $300–$500</li>
+<li>Prepaid insurance (12 months): $4,000–$8,000</li>
+<li>Prepaid property taxes (prorated): $1,000–$3,000</li>
+<li>Escrow reserves: $2,000–$4,000</li>
+</ul>
+<p><strong>Total closing costs: approximately 2.5–4% of purchase price</strong></p>
+<p>On a $400,000 home, expect $10,000–$16,000 in closing costs on top of your down payment.</p>
+<p><strong>Florida-specific cost that surprises buyers:</strong> You'll need to prepay a full year of homeowners insurance at closing. In Florida, that's not the $1,200 it might be in Ohio — it's $4,000–$8,000+. This catches people off guard because it's due at the closing table. See our <a href="/blog/florida-homeowners-insurance-guide/">insurance guide</a> for the full breakdown.</p>
+<h2>What Florida-Specific Costs Should You Budget For?</h2>
+<p>Florida has costs that don't exist in many other states. Budget for these.</p>
+<p><strong>Homeowners/renters insurance:</strong></p>
+<ul>
+<li>Homeowners insurance: $4,000–$8,000+/year (the most expensive in the nation)</li>
+<li>Renters insurance: $150–$300/year (still affordable, and you should carry it)</li>
+<li>Flood insurance: $500–$3,000+/year (required in flood zones, recommended everywhere)</li>
+</ul>
+<p><strong>Hurricane preparedness:</strong></p>
+<ul>
+<li>Hurricane shutters (if not already installed): $1,500–$5,000 for a typical home</li>
+<li>Impact windows (upgrade): $10,000–$25,000+ for a whole house</li>
+<li>Generator: $300–$800 (portable) or $5,000–$15,000 (whole-home standby)</li>
+<li>Hurricane supplies (first season kit): $200–$400</li>
+</ul>
+<p><strong>Pest control:</strong></p>
+<ul>
+<li>Quarterly service: $100–$150/quarter ($400–$600/year)</li>
+<li>Florida bugs are no joke — this isn't optional, especially for termites and roaches</li>
+<li>Read our <a href="/blog/florida-bugs-survival-guide/">Florida bugs guide</a> for what to expect</li>
+</ul>
+<p><strong>Pool maintenance (if applicable):</strong></p>
+<ul>
+<li>Monthly service: $125–$250/month</li>
+<li>Pool equipment repairs/replacement: budget $500–$1,000/year</li>
+<li>Many Tampa Bay homes have pools — factor this into your budget if you're buying one</li>
+</ul>
+<p><strong>Lawn care:</strong></p>
+<ul>
+<li>Florida grass grows year-round</li>
+<li>Weekly service: $120–$200/month</li>
+<li>DIY requires a mower, edger, and more time than you think</li>
+</ul>
+<h2>What Are the Utility Costs in Florida?</h2>
+<p>Utilities in Florida run higher than the national average, primarily because of air conditioning.</p>
+<p><strong>Monthly utility estimates for a 2,000 sq ft home in Tampa Bay:</strong></p>
+<table>
+<thead>
+<tr>
+<th>Utility</th>
+<th>Monthly Cost</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Electricity (FPL or TECO)</td>
+<td>$180–$350 (summer peaks at $300+)</td>
+</tr>
+<tr>
+<td>Water/sewer</td>
+<td>$60–$120</td>
+</tr>
+<tr>
+<td>Trash/recycling</td>
+<td>$0–$30 (sometimes included in county taxes)</td>
+</tr>
+<tr>
+<td>Internet</td>
+<td>$50–$90</td>
+</tr>
+<tr>
+<td>Natural gas (if applicable)</td>
+<td>$20–$50</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Annual utility total: $3,700–$7,700</strong></p>
+<p>The electricity bill is the big one. Florida homes run AC from April through October (and sometimes year-round). A poorly insulated home with an old AC system can push your summer electric bill past $400. When shopping for homes, check the insulation, AC age, and window quality — they directly impact your monthly costs.</p>
+<p><strong>Utility deposits for new accounts:</strong></p>
+<ul>
+<li>Electric: $200–$400 (or autopay enrollment to waive)</li>
+<li>Water: $50–$150</li>
+<li>These deposits are refundable after 12–24 months of on-time payments</li>
+</ul>
+<h2>How Much Temporary Housing Costs If You Need It</h2>
+<p>Many relocators need temporary housing while they search for a permanent home. In Tampa Bay, here's what to expect:</p>
+<ul>
+<li><strong>Extended-stay hotels:</strong> $1,200–$2,500/month (basic) to $3,000–$5,000/month (nicer)</li>
+<li><strong>Short-term furnished apartments:</strong> $2,000–$4,000/month (30-day minimum)</li>
+<li><strong>Airbnb/VRBO:</strong> $2,500–$5,000/month depending on area and size</li>
+<li><strong>Month-to-month apartment lease:</strong> $1,800–$3,000/month (limited availability, usually a premium over annual lease)</li>
+</ul>
+<p>Budget for at least 1–2 months of temporary housing if you haven't secured permanent housing before arriving. In a tight rental market, finding the right apartment can take 2–4 weeks. Buying a home typically takes 30–60 days from offer to closing.</p>
+<h2>What About Vehicle-Related Costs?</h2>
+<p>Florida requires you to transfer your driver's license and vehicle registration within 30 days of establishing residency.</p>
+<ul>
+<li><strong>Florida driver's license:</strong> $48 (Class E)</li>
+<li><strong>Vehicle registration transfer:</strong> $225–$450+ (includes initial registration fee, title transfer, and plate)</li>
+<li><strong>Vehicle inspection:</strong> $0 — Florida has <a href="/blog/florida-no-car-inspection/">no vehicle inspection requirement</a></li>
+<li><strong>Vehicle insurance:</strong> Budget $1,500–$3,000/year (Florida requires PIP and property damage liability minimums, but you want much more)</li>
+</ul>
+<h2>The Complete Budget Summary</h2>
+<p>Here's what you should have saved before making the move:</p>
+<p><strong>If renting:</strong></p>
+<table>
+<thead>
+<tr>
+<th>Category</th>
+<th>Low Estimate</th>
+<th>High Estimate</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Moving costs</td>
+<td>$2,000</td>
+<td>$8,000</td>
+</tr>
+<tr>
+<td>Rental deposits (first/last/security)</td>
+<td>$4,800</td>
+<td>$7,500</td>
+</tr>
+<tr>
+<td>Utility deposits</td>
+<td>$250</td>
+<td>$550</td>
+</tr>
+<tr>
+<td>Vehicle transfers</td>
+<td>$275</td>
+<td>$500</td>
+</tr>
+<tr>
+<td>Hurricane prep / setup</td>
+<td>$300</td>
+<td>$1,000</td>
+</tr>
+<tr>
+<td>Temporary housing (1 month)</td>
+<td>$1,500</td>
+<td>$4,000</td>
+</tr>
+<tr>
+<td>Emergency fund / cushion</td>
+<td>$2,000</td>
+<td>$5,000</td>
+</tr>
+<tr>
+<td><strong>Total</strong></td>
+<td><strong>$11,125</strong></td>
+<td><strong>$26,550</strong></td>
+</tr>
+</tbody>
+</table>
+<p><strong>If buying (5% down on $400K home):</strong></p>
+<table>
+<thead>
+<tr>
+<th>Category</th>
+<th>Low Estimate</th>
+<th>High Estimate</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Down payment (5%)</td>
+<td>$20,000</td>
+<td>$20,000</td>
+</tr>
+<tr>
+<td>Closing costs</td>
+<td>$10,000</td>
+<td>$16,000</td>
+</tr>
+<tr>
+<td>Moving costs</td>
+<td>$3,000</td>
+<td>$9,000</td>
+</tr>
+<tr>
+<td>Hurricane prep / home setup</td>
+<td>$1,500</td>
+<td>$5,000</td>
+</tr>
+<tr>
+<td>Vehicle transfers</td>
+<td>$275</td>
+<td>$500</td>
+</tr>
+<tr>
+<td>Utility deposits</td>
+<td>$250</td>
+<td>$550</td>
+</tr>
+<tr>
+<td>Emergency fund / cushion</td>
+<td>$5,000</td>
+<td>$10,000</td>
+</tr>
+<tr>
+<td><strong>Total</strong></td>
+<td><strong>$40,025</strong></td>
+<td><strong>$61,050</strong></td>
+</tr>
+</tbody>
+</table>
+<p>These numbers are real. I'm not padding them. If anything, they're conservative — unexpected costs always pop up during a move. Have more saved than you think you'll need.</p>
+<h2>FAQ</h2>
+<p><strong>How much money should I save before moving to Florida?</strong>
+At minimum, save $10,000–$15,000 if renting or $30,000–$50,000+ if buying (depending on your down payment). Include moving costs, deposits, insurance prepayments, and at least two months of living expenses as a cushion.</p>
+<p><strong>Is it expensive to rent in Tampa Bay?</strong>
+A typical 2-bedroom apartment in Tampa Bay runs $1,600–$2,500/month in 2026. Single-family home rentals are $2,000–$3,500/month. Expect to pay first, last, and security deposit upfront — that's three months of rent before you even unpack.</p>
+<p><strong>Why is Florida homeowners insurance so expensive?</strong>
+Hurricane exposure, a history of fraudulent claims, carrier insolvencies, and rising reinsurance costs have pushed Florida premiums to the highest in the nation. The average is $4,000–$6,000/year, with many homes over $8,000. This is a real cost that belongs in your housing budget alongside your mortgage payment.</p>
+<p><strong>Do I need flood insurance in Florida?</strong>
+If your home is in a FEMA-designated flood zone and you have a federally backed mortgage, yes — it's required. Even if it's not required, it's strongly recommended. Standard homeowners insurance does not cover flood damage. Flood policies run $500–$3,000+/year depending on your zone and elevation.</p>
+<p><strong>What's the biggest hidden cost of moving to Florida?</strong>
+Insurance — both homeowners and auto. Newcomers from states with $1,500/year homeowners premiums are shocked by Florida's $4,000–$8,000+ costs. Auto insurance is also higher than average due to high uninsured motorist rates and frequent accident claims.</p>
+<p><strong>Can I move to Florida with $5,000?</strong>
+It's possible but risky. With $5,000, you could cover a short move, a cheap apartment deposit, and little else. You'd have zero cushion for surprises, and Florida has plenty of those. I'd strongly recommend having at least $10,000–$15,000 to move comfortably, even as a renter.</p>
+8:["slug","how-much-money-to-move-to-florida","d"]
+0:["MRxZleYoLgVzjZuK4Yqgb",[[["",{"children":["blog",{"children":[["slug","how-much-money-to-move-to-florida","d"],{"children":["__PAGE__?{\"slug\":\"how-much-money-to-move-to-florida\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","how-much-money-to-move-to-florida","d"],{"children":["__PAGE__",{},[["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","section",null,{"className":"relative w-full h-[200px] md:h-[300px] overflow-hidden bg-brand-navy","children":[["$","$L3",null,{"src":"/images/blog/how-much-money-to-move-to-florida.jpg","alt":"How Much Money Do You Need to Move to Florida? The Real Budget Breakdown","fill":true,"className":"object-cover","unoptimized":true,"priority":true}],["$","div",null,{"className":"absolute inset-0 bg-brand-navy/60"}],["$","div",null,{"className":"relative z-10 flex flex-col items-center justify-center h-full px-4 text-center","children":[["$","h1",null,{"className":"text-white text-3xl md:text-5xl font-display font-extrabold leading-tight max-w-4xl","children":"How Much Money Do You Need to Move to Florida? The Real Budget Breakdown"}],"$undefined"]}]]}],["$","article",null,{"className":"max-w-4xl mx-auto px-4 py-10","children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://tbrelo.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://tbrelo.com/blog/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"How Much Money Do You Need to Move to Florida? The Real Budget Breakdown\",\"item\":\"https://tbrelo.com/blog/how-much-money-to-move-to-florida/\"}]}"}}],["$","nav",null,{"aria-label":"Breadcrumb","className":"text-sm text-brand-slate mb-6","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-1","children":[["$","li","/",{"className":"flex items-center gap-1","children":[false,["$","$L4",null,{"href":"/","className":"hover:text-brand-blue transition-colors","children":"Home"}]]}],["$","li","/blog/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","$L4",null,{"href":"/blog/","className":"hover:text-brand-blue transition-colors","children":"Blog"}]]}],["$","li","/blog/how-much-money-to-move-to-florida/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","span",null,{"className":"text-brand-navy font-medium","children":"How Much Money Do You Need to Move to Florida? The Real Budget Breakdown"}]]}]]}]}]],["$","p",null,{"className":"text-brand-slate text-sm mb-8","children":["Published ","March 22, 2026"]}],null,["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$5"}}],null,["$","div",null,{"className":"cta-box-primary","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-white","children":"Moving to Tampa Bay? Get a Local Expert."}],["$","p",null,{"className":"text-sm mb-4 text-white","children":"Barrett Henry is a Broker Associate with REMAX Collective and over 23 years of real estate experience. Straight talk, smart strategy, no pressure."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-blue text-white hover:bg-blue-600","children":["Contact Barrett"," →"]}],["$","a",null,{"href":"tel:8137337907","className":"text-sm text-white","children":"(813) 733-7907"}]]}]]}],["$","div",null,{"className":"cta-box","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-brand-navy","children":"Need Help Setting Up Your New Home?"}],["$","p",null,{"className":"text-sm mb-4 text-brand-slate","children":"Best Bay Services handles handyman work, home repairs, and maintenance for your new Tampa Bay home. Local, licensed, and trusted."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-navy text-white hover:bg-brand-dark","children":["Get a Quote"," →"]}],["$","a",null,{"href":"tel:8134168676","className":"text-sm text-brand-blue","children":"(813) 416-8676"}]]}]]}],null,["$","$L6",null,{"blogSlug":"how-much-money-to-move-to-florida"}]]}]],null],null],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$8","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/9aa8b726e68e84ab.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link",null,{"rel":"icon","href":"/favicon-32.png","type":"image/png","sizes":"32x32"}],["$","link",null,{"rel":"icon","href":"/favicon-16.png","type":"image/png","sizes":"16x16"}],["$","link",null,{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link",null,{"rel":"icon","href":"/icon-192.png","type":"image/png","sizes":"192x192"}],["$","meta",null,{"name":"google-adsense-account","content":"ca-pub-2033173419526042"}],["$","meta",null,{"name":"impact-site-verification","content":"bb623f40-9653-4312-9ca8-bf35b957a10c"}],["$","$La",null,{"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2033173419526042","strategy":"afterInteractive","crossOrigin":"anonymous"}],["$","$La",null,{"src":"https://www.googletagmanager.com/gtag/js?id=G-TD87S02SLM","strategy":"afterInteractive"}],["$","$La",null,{"id":"gtag-init","strategy":"afterInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'G-TD87S02SLM');\n          "}]]}],["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","$Lb",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"max-w-2xl mx-auto px-4 py-20 text-center","children":[["$","h1",null,{"className":"text-6xl font-display font-extrabold text-brand-navy mb-4","children":"404"}],["$","p",null,{"className":"text-xl text-brand-slate mb-8","children":"This page doesn't exist. Maybe you're looking for one of these?"}],["$","div",null,{"className":"grid sm:grid-cols-2 gap-4 mb-12 text-left","children":[["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Moving Guide"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Complete guide to relocating to Tampa Bay"}]]}],["$","$L4",null,{"href":"/counties/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Explore Counties"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Browse all 8 Tampa Bay counties"}]]}],["$","$L4",null,{"href":"/cities/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Find a City"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"90+ city and neighborhood guides"}]]}],["$","$L4",null,{"href":"/blog/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Blog"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Tips, comparisons, and local insights"}]]}]]}],["$","$L4",null,{"href":"/","className":"px-8 py-4 bg-brand-blue text-white font-display font-bold rounded-lg hover:bg-blue-600 transition-colors text-lg inline-block","children":"Back to Home"}]]}],"notFoundStyles":[]}]}],["$","footer",null,{"className":"bg-brand-dark text-gray-400","children":[["$","div",null,{"className":"bg-brand-navy","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10","children":["$","div",null,{"className":"grid md:grid-cols-3 gap-8 text-center","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Buying or Selling a Home?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Barrett Henry — The NOW Team at REMAX Collective"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 733-7907"}]]}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Need a Handyman?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Best Bay Services — Tampa Bay Home Services"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 416-8676"}]]}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Property Management"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"ViVi PM — Full-Service Property Management"}]]}]]}]}]}],["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8","children":[["$","div",null,{"className":"md:col-span-2","children":[["$","div",null,{"className":"font-display font-extrabold text-2xl text-white mb-3","children":["TB",["$","span",null,{"className":"text-brand-sky","children":"Relo"}]]}],["$","p",null,{"className":"text-sm leading-relaxed","children":"Your complete guide to relocating to Tampa Bay, Florida. Covering Hillsborough, Pinellas, Pasco, Hernando, Polk, Manatee, Sarasota, and Citrus counties with honest, local insight from someone who actually lives here."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Guides"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"hover:text-white transition-colors","children":"Moving to Tampa Bay"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/cost-of-living/","className":"hover:text-white transition-colors","children":"Cost of Living"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/moving-checklist/","className":"hover:text-white transition-colors","children":"Moving Checklist"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/blog/","className":"hover:text-white transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Counties"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li","Hillsborough",{"children":["$","$L4",null,{"href":"/counties/hillsborough/","className":"hover:text-white transition-colors","children":["Hillsborough"," County"]}]}],["$","li","Pinellas",{"children":["$","$L4",null,{"href":"/counties/pinellas/","className":"hover:text-white transition-colors","children":["Pinellas"," County"]}]}],["$","li","Pasco",{"children":["$","$L4",null,{"href":"/counties/pasco/","className":"hover:text-white transition-colors","children":["Pasco"," County"]}]}],["$","li","Hernando",{"children":["$","$L4",null,{"href":"/counties/hernando/","className":"hover:text-white transition-colors","children":["Hernando"," County"]}]}],["$","li","Polk",{"children":["$","$L4",null,{"href":"/counties/polk/","className":"hover:text-white transition-colors","children":["Polk"," County"]}]}],["$","li","Manatee",{"children":["$","$L4",null,{"href":"/counties/manatee/","className":"hover:text-white transition-colors","children":["Manatee"," County"]}]}],["$","li","Sarasota",{"children":["$","$L4",null,{"href":"/counties/sarasota/","className":"hover:text-white transition-colors","children":["Sarasota"," County"]}]}],["$","li","Citrus",{"children":["$","$L4",null,{"href":"/counties/citrus/","className":"hover:text-white transition-colors","children":["Citrus"," County"]}]}]]}]]}]]}],["$","div",null,{"className":"mt-12 pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center gap-4 text-xs","children":[["$","p",null,{"children":["© ",2026," TB Relo. All rights reserved."]}],["$","div",null,{"className":"flex gap-4","children":[["$","$L4",null,{"href":"/affiliate-disclosure/","className":"hover:text-white transition-colors","children":"Affiliate Disclosure"}],["$","$L4",null,{"href":"/privacy-policy/","className":"hover:text-white transition-colors","children":"Privacy Policy"}],["$","$L4",null,{"href":"/disclaimer/","className":"hover:text-white transition-colors","children":"Disclaimer"}]]}]]}]]}],["$","div",null,{"className":"bg-black/30 border-t border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 text-center text-xs text-gray-500","children":["Site by"," ",["$","a",null,{"href":"https://vyrabyte.com","target":"_blank","rel":"noopener noreferrer","className":"text-gray-400 hover:text-white transition-colors","children":"Vyrabyte"}]]}]}]]}],["$","$Lc",null,{}]]}]]}]],null],null],["$Ld",null]]]]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"How Much Money to Move to Florida — Full Cost Breakdown | TB Relo | TB Relo"}],["$","meta","3",{"name":"description","content":"How much does it cost to move to Florida? Real dollar ranges for moving, housing, deposits, insurance, and the Florida-specific costs nobody warns you about."}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","6",{"property":"og:title","content":"How Much Money to Move to Florida — Full Cost Breakdown | TB Relo | TB Relo"}],["$","meta","7",{"property":"og:description","content":"How much does it cost to move to Florida? Real dollar ranges for moving, housing, deposits, insurance, and the Florida-specific costs nobody warns you about."}],["$","meta","8",{"property":"og:image","content":"https://tbrelo.com/images/blog/how-much-money-to-move-to-florida.jpg"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"How Much Money to Move to Florida — Full Cost Breakdown | TB Relo | TB Relo"}],["$","meta","13",{"name":"twitter:description","content":"How much does it cost to move to Florida? Real dollar ranges for moving, housing, deposits, insurance, and the Florida-specific costs nobody warns you about."}],["$","meta","14",{"name":"twitter:image","content":"https://tbrelo.com/images/blog/how-much-money-to-move-to-florida.jpg"}],["$","link","15",{"rel":"icon","href":"/icon.svg?ff4364d89c37c0d6","type":"image/svg+xml","sizes":"any"}]]
+1:null

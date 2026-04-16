@@ -8,8 +8,6 @@ publishedAt: "2026-03-12"
 updatedAt: "2026-03-12"
 ---
 
-# Moving to Citrus County, Florida
-
 Citrus County is the part of Florida that most people picture when they think of "Old Florida" — the one that existed before the theme parks, before the sprawl, before every patch of scrubland got turned into a subdivision with a fountain at the entrance. Out here, the Homosassa and Crystal rivers still run clear, manatees still crowd into the springs every winter, and you can buy a solid three-bedroom house on a half-acre for what a condo costs in Tampa.
 
 This is not suburban Florida. There is no Costco. There is no Uber showing up in four minutes. If you need a Target run, you are driving to Inverness or heading south to Spring Hill. But if you came here looking for quiet water, big oaks, affordable land, and a genuine small-town pace, Citrus County delivers that better than almost anywhere else in the state.

@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Guide Hub Mockup — nowtb.com/guides</title>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { font-family:'Inter',sans-serif; background:#f8fafc; color:#334155; line-height:1.6; }
+
+  /* Hero */
+  .hero { background:#0f172a; color:white; padding:60px 24px 48px; text-align:center; }
+  .hero h1 { font-family:'Plus Jakarta Sans',sans-serif; font-size:clamp(1.8rem,4vw,2.8rem); font-weight:800; margin-bottom:12px; }
+  .hero p { font-size:16px; color:#94a3b8; max-width:600px; margin:0 auto; }
+
+  /* Layout */
+  .page-wrap { max-width:1200px; margin:0 auto; display:flex; gap:32px; padding:32px 24px; }
+
+  /* Sticky sidebar */
+  .sidebar { width:220px; flex-shrink:0; position:sticky; top:24px; align-self:flex-start; }
+  .sidebar nav { background:white; border:1px solid #e2e8f0; border-radius:8px; padding:16px; }
+  .sidebar nav a { display:block; padding:8px 12px; font-size:13px; font-weight:500; color:#475569; text-decoration:none; border-radius:6px; margin-bottom:2px; transition:all 0.15s; }
+  .sidebar nav a:hover, .sidebar nav a.active { background:#eff6ff; color:#2563eb; }
+  .sidebar .cta-box { margin-top:16px; background:#0f172a; border-radius:8px; padding:20px; color:white; text-align:center; }
+  .sidebar .cta-box p { font-size:13px; color:#94a3b8; margin-bottom:12px; }
+  .sidebar .cta-box a { display:block; background:#3b82f6; color:white; padding:10px; border-radius:6px; font-size:13px; font-weight:600; text-decoration:none; }
+
+  /* Main content */
+  .main { flex:1; min-width:0; }
+
+  /* Section */
+  .section { margin-bottom:40px; }
+  .section h2 { font-family:'Plus Jakarta Sans',sans-serif; font-size:22px; font-weight:700; color:#0f172a; margin-bottom:16px; padding-bottom:8px; border-bottom:2px solid #e2e8f0; }
+
+  /* Guide cards */
+  .guide-grid { display:grid; grid-template-columns:repeat(auto-fill, minmax(300px, 1fr)); gap:12px; }
+  .guide-card { border:1px solid #e2e8f0; border-radius:8px; padding:20px; background:white; text-decoration:none; transition:all 0.15s; cursor:pointer; }
+  .guide-card:hover { border-color:#3b82f6; box-shadow:0 2px 8px rgba(59,130,246,0.1); transform:translateY(-1px); }
+  .guide-card .cat-label { font-size:11px; text-transform:uppercase; letter-spacing:1px; color:#3b82f6; font-weight:600; margin-bottom:6px; }
+  .guide-card h3 { font-family:'Plus Jakarta Sans',sans-serif; font-size:15px; font-weight:700; color:#0f172a; margin-bottom:6px; }
+  .guide-card p { font-size:13px; color:#67768e; line-height:1.5; margin-bottom:10px; }
+  .guide-card .read-link { font-size:13px; color:#3b82f6; font-weight:600; }
+
+  /* Responsive */
+  @media (max-width:768px) {
+    .page-wrap { flex-direction:column; }
+    .sidebar { width:100%; position:static; }
+    .sidebar nav { display:flex; flex-wrap:wrap; gap:4px; }
+    .sidebar nav a { flex:0 0 auto; }
+    .guide-grid { grid-template-columns:1fr; }
+  }
+
+  /* Mockup badge */
+  .mockup-badge { position:fixed; top:12px; right:12px; background:#ef4444; color:white; padding:6px 12px; border-radius:6px; font-size:11px; font-weight:700; text-transform:uppercase; letter-spacing:1px; z-index:999; }
+</style>
+</head>
+<body>
+<div class="mockup-badge">Mockup</div>
+
+<div class="hero">
+  <h1>Tampa Bay Real Estate Guides</h1>
+  <p>60+ free guides covering everything from your first home purchase to investment strategy. Written by a local Realtor with 23+ years of experience.</p>
+</div>
+
+<div class="page-wrap">
+  <aside class="sidebar">
+    <nav>
+      <a href="#first-time" class="active">First-Time Buyers</a>
+      <a href="#buying">Home Buying</a>
+      <a href="#mortgage">Mortgage & Financing</a>
+      <a href="#selling">Selling Your Home</a>
+      <a href="#florida">Florida Essentials</a>
+      <a href="#investing">Investing</a>
+      <a href="#relocating">Relocating</a>
+      <a href="#comparisons">Neighborhood Comparisons</a>
+    </nav>
+    <div class="cta-box">
+      <p>Have questions? Let's talk.</p>
+      <a href="/contact/">Schedule a Call</a>
+    </div>
+  </aside>
+
+  <main class="main">
+    <!-- First-Time Buyers -->
+    <div class="section" id="first-time">
+      <h2>First-Time Buyers</h2>
+      <div class="guide-grid">
+        <a class="guide-card" href="/first-time-home-buyer-guide/">
+          <div class="cat-label">Buyer Guide</div>
+          <h3>First-Time Home Buyer Guide</h3>
+          <p>Step-by-step walkthrough from pre-approval to closing day.</p>
+          <span class="read-link">Read Guide →</span>
+        </a>
+        <a class="guide-card" href="/home-buying-timeline/">
+          <div class="cat-label">Buyer Guide</div>
+          <h3>Home Buying Timeline</h3>
+          <p>What to expect at every stage and how long each step takes.</p>
+          <span class="read-link">Read Guide →</span>
+        </a>
+        <a class="guide-card" href="/making-an-offer-on-a-home/">
+          <div class="cat-label">Buyer Guide</div>
+          <h3>Making an Offer on a Home</h3>
+          <p>How to write a competitive offer and what terms matter most.</p>
+          <span class="read-link">Read Guide →</span>
+        </a>
+        <a class="guide-card" href="/home-buying-contingencies/">
+          <div class="cat-label">Buyer Guide</div>
+          <h3>Home Buying Contingencies</h3>
+          <p>Which contingencies to include and when to waive them.</p>
+          <span class="read-link">Read Guide →</span>
+        </a>
+        <a class="guide-card" href="/renting-vs-buying/">
+          <div class="cat-label">Buyer Guide</div>
+          <h3>Renting vs Buying</h3>
+          <p>Side-by-side comparison to help you decide.</p>
+          <span class="read-link">Read Guide →</span>
+        </a>
+        <a class="guide-card" href="/how-to-choose-a-realtor/">
+          <div class="cat-label">Buyer Guide</div>
+          <h3>How to Choose a Realtor</h3>
+          <p>What to look for in an agent and the right questions to ask.</p>
+          <span class="read-link">Read Guide →</span>
+        </a>
+      </div>
+    </div>
+
+    <!-- Home Buying Essentials -->
+    <div class="section" id="buying">
+      <h2>Home Buying Essentials</h2>
+      <div class="guide-grid">
+        <a class="guide-card" href="/home-inspection-guide/">
+          <div class="cat-label">Buying</div>
+          <h3>Home Inspection Guide</h3>
+          <p>Red flags, negotiating repairs, and what inspectors actually check.</p>
+          <span class="read-link">Read Guide →</span>
+        </a>
+        <a class="guide-card" href="/home-appraisal-guide/">
+          <div class="cat-label">Buying</div>
+          <h3>Home Appraisal Guide</h3>
+          <p>How appraisals work and what to do if it comes in low.</p>
+          <span class="read-link">Read Guide →</span>
+        </a>
+        <a class="guide-card" href="/closing-day-guide/">
+          <div class="cat-label">Buying</div>
+          <h3>Closing Day Guide</h3>
+          <p>What happens on closing day, what to bring, and what to expect.</p>
+          <span class="read-link">Read Guide →</span>
+        </a>
+        <a class="guide-card" href="/closing-costs-guide-florida/">
+          <div class="cat-label">Buying</div>
+          <h3>Closing Costs Guide</h3>
+          <p>Breakdown of buyer and seller closing costs in Florida.</p>
+          <span class="read-link">Read Guide →</span>
+        </a>
+        <a class="guide-card" href="/all-cash-offer-guide-tampa-bay/">
+          <div class="cat-label">Buying</div>
+          <h3>All-Cash Offer Guide</h3>
+          <p>How cash offers work and when they make sense.</p>
+          <span class="read-link">Read Guide →</span>
+        </a>
+        <a class="guide-card" href="/hoa-buyers-guide/">
+          <div class="cat-label">Buying</div>
+          <h3>HOA Buyer's Guide</h3>
+          <p>What to check in HOA docs before buying.</p>
+          <span class="read-link">Read Guide →</span>
+        </a>
+        <a class="guide-card" href="/how-to-buy-a-condo-tampa-bay/">
+          <div class="cat-label">Buying</div>
+          <h3>How to Buy a Condo</h3>
+          <p>Condo-specific considerations including milestone inspections.</p>
+          <span class="read-link">Read Guide →</span>
+        </a>
+      </div>
+    </div>
+
+    <!-- Mortgage -->
+    <div class="section" id="mortgage">
+      <h2>Mortgage & Financing</h2>
+      <div class="guide-grid">
+        <a class="guide-card" href="/mortgage-pre-approval-guide/">
+          <div class="cat-label">Mortgage</div>
+          <h3>Mortgage Pre-Approval Guide</h3>
+          <p>How to get pre-approved and why it matters.</p>
+          <span class="read-link">Read Guide →</span>
+        </a>
+        <a class="guide-card" href="/credit-score-for-home-buying/">
+          <div class="cat-label">Mortgage</div>
+          <h3>Credit Score for Home Buying</h3>
+          <p>Minimum scores by loan type and how to improve yours.</p>
+          <span class="read-link">Read Guide →</span>
+        </a>
+        <a class="guide-card" href="/fha-loan-guide/">
+          <div class="cat-label">Mortgage</div>
+          <h3>FHA Loan Guide</h3>
+          <p>Requirements, pros/cons, and who qualifies.</p>
+          <span class="read-link">Read Guide →</span>
+        </a>
+        <a class="guide-card" href="/va-home-loan-guide/">
+          <div class="cat-label">Mortgage</div>
+          <h3>VA Home Loan Guide</h3>
+          <p>VA loan benefits, eligibility, and how to use them.</p>
+          <span class="read-link">Read Guide →</span>
+        </a>
+      </div>
+      <p style="margin-top:12px;font-size:13px;color:#94a3b8;font-style:italic;">+ 6 more guides in this section</p>
+    </div>
+
+    <!-- Selling -->
+    <div class="section" id="selling">
+      <h2>Selling Your Home</h2>
+      <div class="guide-grid">
+        <a class="guide-card" href="/home-selling-guide/">
+          <div class="cat-label">Seller</div>
+          <h3>Home Selling Guide</h3>
+          <p>Complete guide to selling your home in Tampa Bay.</p>
+          <span class="read-link">Read Guide →</span>
+        </a>
+        <a class="guide-card" href="/home-selling-timeline/">
+          <div class="cat-label">Seller</div>
+          <h3>Home Selling Timeline</h3>
+          <p>Week-by-week from listing to closing.</p>
+          <span class="read-link">Read Guide →</span>
+        </a>
+        <a class="guide-card" href="/how-to-price-your-home/">
+          <div class="cat-label">Seller</div>
+          <h3>How to Price Your Home</h3>
+          <p>Pricing strategy that gets offers without leaving money on the table.</p>
+          <span class="read-link">Read Guide →</span>
+        </a>
+        <a class="guide-card" href="/home-staging-guide/">
+          <div class="cat-label">Seller</div>
+          <h3>Home Staging Guide</h3>
+          <p>What to stage, what to skip, and the ROI.</p>
+          <span class="read-link">Read Guide →</span>
+        </a>
+      </div>
+      <p style="margin-top:12px;font-size:13px;color:#94a3b8;font-style:italic;">+ 6 more guides in this section</p>
+    </div>
+
+    <!-- Truncation notice -->
+    <div style="text-align:center;padding:40px 20px;color:#94a3b8;font-size:14px;border:2px dashed #e2e8f0;border-radius:8px;">
+      <strong style="color:#0f172a;">Mockup Preview</strong><br>
+      The full page continues with: Florida Essentials (10 guides), Investing (6 guides), Relocating (7 guides), and Neighborhood Comparisons (12+ guides)
+    </div>
+  </main>
+</div>
+
+</body>
+</html>

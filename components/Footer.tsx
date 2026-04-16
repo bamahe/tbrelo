@@ -12,7 +12,7 @@ export default function Footer() {
               <div className="text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors">
                 Buying or Selling a Home?
               </div>
-              <p className="text-white text-sm mt-1">Barrett Henry — The NOW Team at RE/MAX Collective</p>
+              <p className="text-white text-sm mt-1">Barrett Henry — The NOW Team at REMAX Collective</p>
               <p className="text-white text-xs mt-1">(813) 733-7907</p>
             </a>
             <a href="https://bestbayservices.com" target="_blank" rel="noopener noreferrer" className="group">

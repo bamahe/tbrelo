@@ -1,0 +1,60 @@
+<h2>Guide Card Style</h2>
+<p class="subtitle">Each guide gets a card in the grid. Which style fits nowtb.com best?</p>
+
+<div class="cards">
+  <div class="card" data-choice="a" onclick="toggleSelect(this)">
+    <div class="card-image" style="padding:24px;background:#f8fafc;">
+      <!-- Mockup: Minimal card -->
+      <div style="border:1px solid #e2e8f0;border-radius:8px;padding:20px;background:white;">
+        <div style="font-size:11px;text-transform:uppercase;letter-spacing:1px;color:#3b82f6;font-weight:600;margin-bottom:8px;">Buyer Guide</div>
+        <div style="font-size:16px;font-weight:700;color:#0f172a;margin-bottom:8px;">First-Time Home Buyer Guide</div>
+        <div style="font-size:13px;color:#67768e;line-height:1.5;">Step-by-step walkthrough from pre-approval to closing day.</div>
+        <div style="margin-top:12px;font-size:13px;color:#3b82f6;font-weight:600;">Read Guide →</div>
+      </div>
+    </div>
+    <div class="card-body">
+      <h3>A — Clean & Minimal</h3>
+      <p>Category label, title, one-line description, "Read Guide" link. No icons, no images. Fast to load, easy to scan. Matches your current card style.</p>
+    </div>
+  </div>
+
+  <div class="card" data-choice="b" onclick="toggleSelect(this)">
+    <div class="card-image" style="padding:24px;background:#f8fafc;">
+      <!-- Mockup: Icon card -->
+      <div style="border:1px solid #e2e8f0;border-radius:8px;padding:20px;background:white;display:flex;gap:16px;align-items:flex-start;">
+        <div style="width:44px;height:44px;background:#eff6ff;border-radius:10px;display:flex;align-items:center;justify-content:center;flex-shrink:0;font-size:22px;">🏠</div>
+        <div>
+          <div style="font-size:16px;font-weight:700;color:#0f172a;margin-bottom:6px;">First-Time Home Buyer Guide</div>
+          <div style="font-size:13px;color:#67768e;line-height:1.5;">Step-by-step walkthrough from pre-approval to closing day.</div>
+          <div style="margin-top:10px;font-size:13px;color:#3b82f6;font-weight:600;">Read Guide →</div>
+        </div>
+      </div>
+    </div>
+    <div class="card-body">
+      <h3>B — Icon + Text</h3>
+      <p>Emoji or icon on the left, title + description on the right. Adds visual interest without images. Each category gets its own icon. More engaging but still lightweight.</p>
+    </div>
+  </div>
+
+  <div class="card" data-choice="c" onclick="toggleSelect(this)">
+    <div class="card-image" style="padding:24px;background:#f8fafc;">
+      <!-- Mockup: Featured image card -->
+      <div style="border:1px solid #e2e8f0;border-radius:8px;overflow:hidden;background:white;">
+        <div style="height:80px;background:linear-gradient(135deg,#1e3a5f,#3b82f6);display:flex;align-items:center;justify-content:center;color:white;font-size:13px;font-weight:600;">📸 Featured Image</div>
+        <div style="padding:16px;">
+          <div style="font-size:15px;font-weight:700;color:#0f172a;margin-bottom:6px;">First-Time Home Buyer Guide</div>
+          <div style="font-size:13px;color:#67768e;line-height:1.5;">Step-by-step walkthrough from pre-approval to closing day.</div>
+          <div style="margin-top:10px;font-size:13px;color:#3b82f6;font-weight:600;">Read Guide →</div>
+        </div>
+      </div>
+    </div>
+    <div class="card-body">
+      <h3>C — Featured Image Cards</h3>
+      <p>Each guide has a header image. Most visual and engaging. But requires 60+ images and significantly increases page load time. Could use AI-generated or stock images.</p>
+    </div>
+  </div>
+</div>
+
+<div style="margin-top:24px;padding:16px;background:#0f172a;color:white;border-radius:8px;">
+  <strong>My recommendation:</strong> Option A (Clean & Minimal). With 60+ guides on one page, minimal cards keep it scannable and fast. Matches your Kadence card style. No image sourcing needed. You can always upgrade to B later.
+</div>

@@ -34,7 +34,7 @@ We may have affiliate relationships with companies in the following categories:
 
 ## About Our Own Business Links
 
-Barrett Henry is a licensed REALTOR and Broker Associate at RE/MAX Collective with 23+ years of experience in Tampa Bay real estate. Links to [nowtb.com](https://nowtb.com) point to his own real estate business — these are not third-party affiliate links.
+Barrett Henry is a licensed REALTOR and Broker Associate at REMAX Collective with 23+ years of experience in Tampa Bay real estate. Links to [nowtb.com](https://nowtb.com) point to his own real estate business — these are not third-party affiliate links.
 
 Similarly, links to [bestbayservices.com](https://bestbayservices.com) point to Best Bay Services, Barrett's own handyman and home services company. These are also not third-party affiliate links.
 

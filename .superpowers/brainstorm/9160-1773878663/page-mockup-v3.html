@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Guides Hub — nowtb.com/guides</title>
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@500;600;700;800&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --navy: #0F172A;
+    --white: #FFFFFF;
+    --light-gray: #F8F9FA;
+    --body-text: #374151;
+    --border: #E5E7EB;
+    --muted: #6B7280;
+  }
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { font-family:'DM Sans',sans-serif; background:var(--white); color:var(--body-text); line-height:1.7; }
+
+  /* ─── Content wrapper (840px like nowtb.com) ─── */
+  .nowtb-post-content { max-width:840px; margin:0 auto; padding:48px 24px 64px; }
+
+  /* ─── Page Title ─── */
+  .page-title {
+    font-family:'Outfit',sans-serif; font-size:36px; font-weight:800;
+    color:var(--navy); text-align:center; margin-bottom:12px; line-height:1.2;
+  }
+  .page-subtitle {
+    font-size:16px; color:var(--muted); text-align:center;
+    max-width:600px; margin:0 auto 32px;
+  }
+
+  /* ─── Jump nav ─── */
+  .jump-nav {
+    display:flex; flex-wrap:wrap; justify-content:center; gap:8px;
+    margin-bottom:48px; padding-bottom:32px; border-bottom:1px solid var(--border);
+  }
+  .jump-nav a {
+    background:var(--light-gray); color:var(--navy); padding:8px 16px;
+    border-radius:6px; font-size:14px; font-weight:500; text-decoration:none;
+    transition:all 0.15s; border:1px solid transparent;
+  }
+  .jump-nav a:hover { border-color:var(--border); background:var(--white); }
+
+  /* ─── Section ─── */
+  .section { margin-bottom:48px; }
+  .section h2 {
+    font-family:'Outfit',sans-serif; font-size:24px; font-weight:700;
+    color:var(--navy); margin-bottom:20px; padding-bottom:12px;
+    border-bottom:2px solid var(--navy);
+  }
+
+  /* ─── Guide cards ─── */
+  .guide-list { display:flex; flex-direction:column; gap:12px; }
+  .guide-card {
+    display:block; text-decoration:none;
+    background:var(--light-gray); border:1px solid var(--border);
+    border-radius:8px; padding:20px 24px; transition:all 0.15s;
+  }
+  .guide-card:hover { background:var(--white); border-color:#CBD5E1; box-shadow:0 2px 8px rgba(0,0,0,0.06); }
+  .guide-card h3 {
+    font-family:'Outfit',sans-serif; font-size:17px; font-weight:600;
+    color:var(--navy); margin-bottom:4px;
+  }
+  .guide-card p { font-size:14px; color:var(--body-text); margin:0; }
+
+  /* ─── CTA box ─── */
+  .cta-box {
+    background:var(--navy); border-radius:8px; padding:32px;
+    text-align:center; margin-bottom:48px;
+  }
+  .cta-box h3 { font-family:'Outfit',sans-serif; font-size:20px; font-weight:700; color:var(--white); margin-bottom:8px; }
+  .cta-box p { font-size:14px; color:#94A3B8; margin-bottom:20px; }
+  .cta-box a {
+    display:inline-block; background:var(--white); color:var(--navy);
+    padding:12px 28px; border-radius:6px; font-size:14px; font-weight:600;
+    text-decoration:none; transition:all 0.15s;
+  }
+  .cta-box a:hover { background:var(--light-gray); }
+
+  /* ─── Mockup badge ─── */
+  .mockup-badge {
+    position:fixed; bottom:16px; right:16px; background:#DC2626; color:white;
+    padding:8px 14px; border-radius:6px; font-size:11px; font-weight:700;
+    text-transform:uppercase; letter-spacing:1px; z-index:999;
+  }
+</style>
+</head>
+<body>
+<div class="mockup-badge">Mockup v3</div>
+
+<div class="nowtb-post-content">
+
+  <h1 class="page-title">Tampa Bay Real Estate Guides</h1>
+  <p class="page-subtitle">60+ free guides covering every step of buying, selling, investing, and relocating in Tampa Bay.</p>
+
+  <div class="jump-nav">
+    <a href="#first-time-buyers">First-Time Buyers</a>
+    <a href="#home-buying-essentials">Home Buying</a>
+    <a href="#mortgage-financing">Mortgage</a>
+    <a href="#selling-your-home">Selling</a>
+    <a href="#florida-essentials">Florida Essentials</a>
+    <a href="#investing">Investing</a>
+    <a href="#relocating">Relocating</a>
+    <a href="#neighborhood-comparisons">Comparisons</a>
+  </div>
+
+  <!-- ═══ FIRST-TIME BUYERS ═══ -->
+  <div class="section">
+    <h2 id="first-time-buyers">First-Time Buyers</h2>
+    <div class="guide-list">
+      <a class="guide-card" href="/first-time-home-buyer-guide/">
+        <h3>First-Time Home Buyer Guide</h3>
+        <p>Step-by-step walkthrough from pre-approval to closing day.</p>
+      </a>
+      <a class="guide-card" href="/home-buying-timeline/">
+        <h3>Home Buying Timeline</h3>
+        <p>What to expect at every stage and how long each step takes.</p>
+      </a>
+      <a class="guide-card" href="/making-an-offer-on-a-home/">
+        <h3>Making an Offer on a Home</h3>
+        <p>How to write a competitive offer and what terms matter most.</p>
+      </a>
+      <a class="guide-card" href="/home-buying-contingencies/">
+        <h3>Home Buying Contingencies</h3>
+        <p>Which contingencies to include and when to waive them.</p>
+      </a>
+      <a class="guide-card" href="/renting-vs-buying/">
+        <h3>Renting vs Buying</h3>
+        <p>Side-by-side comparison to help you decide if now is the right time.</p>
+      </a>
+      <a class="guide-card" href="/how-to-choose-a-realtor/">
+        <h3>How to Choose a Realtor</h3>
+        <p>What to look for in an agent and the right questions to ask.</p>
+      </a>
+    </div>
+  </div>
+
+  <!-- ═══ HOME BUYING ESSENTIALS ═══ -->
+  <div class="section">
+    <h2 id="home-buying-essentials">Home Buying Essentials</h2>
+    <div class="guide-list">
+      <a class="guide-card" href="/home-inspection-guide/">
+        <h3>Home Inspection Guide</h3>
+        <p>Red flags, negotiating repairs, and what inspectors actually check.</p>
+      </a>
+      <a class="guide-card" href="/home-appraisal-guide/">
+        <h3>Home Appraisal Guide</h3>
+        <p>How appraisals work and what to do if it comes in low.</p>
+      </a>
+      <a class="guide-card" href="/closing-day-guide/">
+        <h3>Closing Day Guide</h3>
+        <p>What happens on closing day, what to bring, and what to expect.</p>
+      </a>
+      <a class="guide-card" href="/closing-costs-guide-florida/">
+        <h3>Closing Costs Guide — Florida</h3>
+        <p>Breakdown of buyer and seller closing costs in Florida.</p>
+      </a>
+      <a class="guide-card" href="/all-cash-offer-guide-tampa-bay/">
+        <h3>All-Cash Offer Guide</h3>
+        <p>How cash offers work and when they make sense in Tampa Bay.</p>
+      </a>
+      <a class="guide-card" href="/hoa-buyers-guide/">
+        <h3>HOA Buyer's Guide</h3>
+        <p>What to check in HOA documents before you buy.</p>
+      </a>
+      <a class="guide-card" href="/how-to-buy-a-condo-tampa-bay/">
+        <h3>How to Buy a Condo</h3>
+        <p>Condo-specific buying considerations including milestone inspections.</p>
+      </a>
+    </div>
+  </div>
+
+  <!-- ═══ MORTGAGE & FINANCING ═══ -->
+  <div class="section">
+    <h2 id="mortgage-financing">Mortgage &amp; Financing</h2>
+    <div class="guide-list">
+      <a class="guide-card" href="/mortgage-pre-approval-guide/">
+        <h3>Mortgage Pre-Approval Guide</h3>
+        <p>How to get pre-approved, what lenders look for, and why it matters.</p>
+      </a>
+      <a class="guide-card" href="/credit-score-for-home-buying/">
+        <h3>Credit Score for Home Buying</h3>
+        <p>Minimum scores by loan type and how to improve yours fast.</p>
+      </a>
+      <a class="guide-card" href="/down-payment-assistance-florida/">
+        <h3>Down Payment Assistance — Florida</h3>
+        <p>Florida DPA programs available to first-time and repeat buyers.</p>
+      </a>
+      <a class="guide-card" href="/fha-loan-guide/">
+        <h3>FHA Loan Guide</h3>
+        <p>Requirements, pros/cons, and who qualifies for FHA financing.</p>
+      </a>
+      <a class="guide-card" href="/va-home-loan-guide/">
+        <h3>VA Home Loan Guide</h3>
+        <p>VA loan benefits, eligibility, and how to use them in Tampa Bay.</p>
+      </a>
+      <a class="guide-card" href="/conventional-loan-guide/">
+        <h3>Conventional Loan Guide</h3>
+        <p>Conventional loan requirements and when it's the best choice.</p>
+      </a>
+      <a class="guide-card" href="/usda-loan-guide/">
+        <h3>USDA Loan Guide</h3>
+        <p>USDA-eligible areas near Tampa Bay and how to qualify.</p>
+      </a>
+      <a class="guide-card" href="/jumbo-loan-guide/">
+        <h3>Jumbo Loan Guide</h3>
+        <p>For luxury buyers — limits, rates, and qualification requirements.</p>
+      </a>
+      <a class="guide-card" href="/dscr-loan-guide/">
+        <h3>DSCR Loan Guide</h3>
+        <p>Investor loans based on rental income — no W-2 required.</p>
+      </a>
+      <a class="guide-card" href="/mortgage-rate-lock-guide/">
+        <h3>Mortgage Rate Lock Guide</h3>
+        <p>When to lock your rate and how float-down options work.</p>
+      </a>
+    </div>
+  </div>
+
+  <!-- CTA -->
+  <div class="cta-box">
+    <h3>Need help navigating your home purchase?</h3>
+    <p>Get personalized guidance from a local expert with 23+ years of Tampa Bay experience.</p>
+    <a href="/contact/">Schedule a Call</a>
+  </div>
+
+  <!-- ═══ SELLING YOUR HOME ═══ -->
+  <div class="section">
+    <h2 id="selling-your-home">Selling Your Home</h2>
+    <div class="guide-list">
+      <a class="guide-card" href="/home-selling-guide/">
+        <h3>Home Selling Guide</h3>
+        <p>Complete guide to selling your home in Tampa Bay.</p>
+      </a>
+      <a class="guide-card" href="/home-selling-timeline/">
+        <h3>Home Selling Timeline</h3>
+        <p>Week-by-week from listing prep to closing day.</p>
+      </a>
+      <a class="guide-card" href="/how-to-price-your-home/">
+        <h3>How to Price Your Home</h3>
+        <p>Pricing strategy that gets offers without leaving money on the table.</p>
+      </a>
+      <a class="guide-card" href="/home-staging-guide/">
+        <h3>Home Staging Guide</h3>
+        <p>What to stage, what to skip, and the ROI on staging.</p>
+      </a>
+      <a class="guide-card" href="/open-house-guide-for-sellers/">
+        <h3>Open House Guide for Sellers</h3>
+        <p>How to prep for and maximize open house traffic.</p>
+      </a>
+      <a class="guide-card" href="/listing-agreement-guide/">
+        <h3>Listing Agreement Guide</h3>
+        <p>What's in a listing agreement and what to negotiate.</p>
+      </a>
+      <a class="guide-card" href="/negotiating-home-sale-offers/">
+        <h3>Negotiating Offers</h3>
+        <p>How to evaluate and counter buyer offers like a pro.</p>
+      </a>
+      <a class="guide-card" href="/sellers-disclosure-guide/">
+        <h3>Seller's Disclosure Guide</h3>
+        <p>What Florida sellers are legally required to disclose.</p>
+      </a>
+      <a class="guide-card" href="/fsbo-vs-realtor/">
+        <h3>FSBO vs Realtor</h3>
+        <p>Why hiring an agent typically nets more money than selling solo.</p>
+      </a>
+      <a class="guide-card" href="/when-to-sell/">
+        <h3>When to Sell</h3>
+        <p>Best timing to list based on market conditions and your situation.</p>
+      </a>
+    </div>
+  </div>
+
+  <!-- ═══ FLORIDA ESSENTIALS ═══ -->
+  <div class="section">
+    <h2 id="florida-essentials">Florida Essentials</h2>
+    <div class="guide-list">
+      <a class="guide-card" href="/florida-homestead-exemption-guide/">
+        <h3>Florida Homestead Exemption</h3>
+        <p>How to file, deadlines, and how much you'll save on property taxes.</p>
+      </a>
+      <a class="guide-card" href="/florida-property-tax-guide/">
+        <h3>Florida Property Tax Guide</h3>
+        <p>How Florida property taxes work and what to expect by county.</p>
+      </a>
+      <a class="guide-card" href="/florida-homeowners-insurance-guide/">
+        <h3>Homeowners Insurance Guide</h3>
+        <p>The insurance crisis explained — costs, roof rules, and how to save.</p>
+      </a>
+      <a class="guide-card" href="/florida-flood-insurance-guide/">
+        <h3>Flood Insurance Guide</h3>
+        <p>When flood insurance is required and what it costs.</p>
+      </a>
+      <a class="guide-card" href="/florida-flood-zones-guide/">
+        <h3>Florida Flood Zones Guide</h3>
+        <p>How to read flood zone maps and what each zone means for you.</p>
+      </a>
+      <a class="guide-card" href="/florida-property-survey-guide/">
+        <h3>Property Survey Guide</h3>
+        <p>When you need a survey and what it covers.</p>
+      </a>
+      <a class="guide-card" href="/florida-escrow-guide/">
+        <h3>Florida Escrow Guide</h3>
+        <p>How escrow works in Florida real estate transactions.</p>
+      </a>
+      <a class="guide-card" href="/title-insurance-florida/">
+        <h3>Title Insurance — Florida</h3>
+        <p>Who pays, what it covers, and why it matters.</p>
+      </a>
+      <a class="guide-card" href="/hoa-cdd-fees-florida/">
+        <h3>HOA &amp; CDD Fees</h3>
+        <p>Understanding HOA and CDD fees before you buy in Florida.</p>
+      </a>
+      <a class="guide-card" href="/hurricane-prep-guide/">
+        <h3>Hurricane Prep Guide</h3>
+        <p>Storm season prep, supplies, and evacuation zones.</p>
+      </a>
+    </div>
+  </div>
+
+  <!-- CTA -->
+  <div class="cta-box">
+    <h3>Thinking about selling? Get a free home valuation.</h3>
+    <p>Find out what your Tampa Bay home is worth in today's market.</p>
+    <a href="/free-home-valuation/">Get Your Value</a>
+  </div>
+
+  <!-- ═══ INVESTING ═══ -->
+  <div class="section">
+    <h2 id="investing">Investing</h2>
+    <div class="guide-list">
+      <a class="guide-card" href="/real-estate-investment-guide/">
+        <h3>Real Estate Investment Guide</h3>
+        <p>Getting started with Tampa Bay investment properties.</p>
+      </a>
+      <a class="guide-card" href="/tampa-bay-investment-property-guide/">
+        <h3>Investment Property Guide</h3>
+        <p>ROI, best neighborhoods, and strategy for Tampa Bay investors.</p>
+      </a>
+      <a class="guide-card" href="/1031-exchange-guide/">
+        <h3>1031 Exchange Guide</h3>
+        <p>How to defer capital gains taxes using a 1031 exchange.</p>
+      </a>
+      <a class="guide-card" href="/house-hacking-guide/">
+        <h3>House Hacking Guide</h3>
+        <p>Live in one unit, rent the others — how to get started.</p>
+      </a>
+      <a class="guide-card" href="/vacation-rental-guide/">
+        <h3>Vacation Rental Guide</h3>
+        <p>Short-term rental rules, ROI, and best areas in Tampa Bay.</p>
+      </a>
+      <a class="guide-card" href="/swimming-pool-value-guide/">
+        <h3>Swimming Pool Value Guide</h3>
+        <p>Does a pool add value? What buyers and sellers need to know.</p>
+      </a>
+    </div>
+  </div>
+
+  <!-- ═══ RELOCATING ═══ -->
+  <div class="section">
+    <h2 id="relocating">Relocating to Tampa Bay</h2>
+    <div class="guide-list">
+      <a class="guide-card" href="/tampa-bay-relocation-guide/">
+        <h3>Tampa Bay Relocation Guide</h3>
+        <p>Everything relocators need to know about moving to Tampa Bay.</p>
+      </a>
+      <a class="guide-card" href="/moving-to-tampa-bay-checklist/">
+        <h3>Moving to Tampa Bay Checklist</h3>
+        <p>Step-by-step checklist for planning your move.</p>
+      </a>
+      <a class="guide-card" href="/cost-of-living-tampa-bay/">
+        <h3>Cost of Living — Tampa Bay</h3>
+        <p>What it actually costs to live here vs where you're coming from.</p>
+      </a>
+      <a class="guide-card" href="/retiring-to-tampa-bay/">
+        <h3>Retiring to Tampa Bay</h3>
+        <p>55+ communities, healthcare, and tax benefits for retirees.</p>
+      </a>
+      <a class="guide-card" href="/snowbird-guide-tampa-bay/">
+        <h3>Snowbird Guide</h3>
+        <p>Seasonal living guide for part-time Tampa Bay residents.</p>
+      </a>
+      <a class="guide-card" href="/macdill-afb-relocation/">
+        <h3>MacDill AFB Relocation</h3>
+        <p>Housing and area guide for military families stationed at MacDill.</p>
+      </a>
+      <a class="guide-card" href="/tampa-bay-schools-guide/">
+        <h3>Tampa Bay Schools Guide</h3>
+        <p>School districts, ratings, and what families need to know.</p>
+      </a>
+    </div>
+  </div>
+
+  <!-- ═══ NEIGHBORHOOD COMPARISONS ═══ -->
+  <div class="section">
+    <h2 id="neighborhood-comparisons">Neighborhood Comparisons</h2>
+    <div class="guide-list">
+      <a class="guide-card" href="/brandon-vs-riverview/">
+        <h3>Brandon vs Riverview</h3>
+        <p>Two of Hillsborough's most popular suburbs — compared side by side.</p>
+      </a>
+      <a class="guide-card" href="/south-tampa-vs-st-pete/">
+        <h3>South Tampa vs St. Pete</h3>
+        <p>Urban lifestyle, home prices, and walkability compared.</p>
+      </a>
+      <a class="guide-card" href="/wesley-chapel-vs-land-o-lakes/">
+        <h3>Wesley Chapel vs Land O' Lakes</h3>
+        <p>New construction hubs north of Tampa — which fits you better?</p>
+      </a>
+      <a class="guide-card" href="/brandon-vs-valrico/">
+        <h3>Brandon vs Valrico</h3>
+        <p>Neighbors with different vibes — convenience vs space.</p>
+      </a>
+      <a class="guide-card" href="/fishhawk-ranch-vs-waterset/">
+        <h3>FishHawk Ranch vs Waterset</h3>
+        <p>Two master-planned communities in Lithia — which one wins?</p>
+      </a>
+      <a class="guide-card" href="/clearwater-beach-vs-siesta-key/">
+        <h3>Clearwater Beach vs Siesta Key</h3>
+        <p>Tampa Bay's top beach towns compared for buyers.</p>
+      </a>
+      <a class="guide-card" href="/living-in-tampa-vs-st-pete/">
+        <h3>Living in Tampa vs St. Pete</h3>
+        <p>The two biggest cities in the bay — lifestyle, cost, and culture.</p>
+      </a>
+      <a class="guide-card" href="/new-tampa-vs-wesley-chapel/">
+        <h3>New Tampa vs Wesley Chapel</h3>
+        <p>Established vs up-and-coming — schools, commute, and home prices.</p>
+      </a>
+      <a class="guide-card" href="/wesley-chapel-vs-riverview/">
+        <h3>Wesley Chapel vs Riverview</h3>
+        <p>North vs south — two fast-growing suburbs compared.</p>
+      </a>
+      <a class="guide-card" href="/fishhawk-ranch-vs-south-shore/">
+        <h3>FishHawk Ranch vs South Shore</h3>
+        <p>Premium master-planned living in south Hillsborough.</p>
+      </a>
+      <a class="guide-card" href="/lutz-vs-land-o-lakes/">
+        <h3>Lutz vs Land O' Lakes</h3>
+        <p>Northwest Hillsborough vs south Pasco — which is better value?</p>
+      </a>
+      <a class="guide-card" href="/westchase-vs-carrollwood/">
+        <h3>Westchase vs Carrollwood</h3>
+        <p>Northwest Tampa's top two family neighborhoods compared.</p>
+      </a>
+      <a class="guide-card" href="/palm-harbor-vs-tarpon-springs/">
+        <h3>Palm Harbor vs Tarpon Springs</h3>
+        <p>North Pinellas coastal living — charming vs practical.</p>
+      </a>
+      <a class="guide-card" href="/dunedin-vs-safety-harbor/">
+        <h3>Dunedin vs Safety Harbor</h3>
+        <p>Two of Pinellas County's most walkable small towns compared.</p>
+      </a>
+      <a class="guide-card" href="/odessa-vs-land-o-lakes/">
+        <h3>Odessa vs Land O' Lakes</h3>
+        <p>Semi-rural northwest suburbs with different price points.</p>
+      </a>
+      <a class="guide-card" href="/new-port-richey-vs-trinity/">
+        <h3>New Port Richey vs Trinity</h3>
+        <p>Pasco County neighbors — affordability vs premium living.</p>
+      </a>
+      <a class="guide-card" href="/apollo-beach-vs-ruskin/">
+        <h3>Apollo Beach vs Ruskin</h3>
+        <p>South Hillsborough waterfront communities compared.</p>
+      </a>
+      <a class="guide-card" href="/odessa-vs-westchase/">
+        <h3>Odessa vs Westchase</h3>
+        <p>Acreage and privacy vs master-planned convenience.</p>
+      </a>
+    </div>
+  </div>
+
+</div>
+</body>
+</html>

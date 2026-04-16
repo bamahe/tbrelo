@@ -12,7 +12,7 @@ export const siteConfig = {
   contact: {
     name: 'Barrett Henry',
     title: 'REALTOR® & Broker Associate',
-    company: 'RE/MAX Collective',
+    company: 'REMAX Collective',
     phone: '(813) 733-7907',
     email: 'barrett@nowtb.com',
     website: 'https://nowtb.com',

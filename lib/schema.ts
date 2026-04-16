@@ -87,7 +87,7 @@ export function generateLocalBusinessSchema() {
   return {
     '@context': 'https://schema.org',
     '@type': 'RealEstateAgent',
-    name: 'Barrett Henry — The NOW Team at RE/MAX Collective',
+    name: 'Barrett Henry — The NOW Team at REMAX Collective',
     telephone: '(813) 733-7907',
     email: 'barrett@nowtb.com',
     url: 'https://nowtb.com',
@@ -131,7 +131,7 @@ function generatePersonSchema() {
     url: 'https://nowtb.com',
     worksFor: {
       '@type': 'Organization',
-      name: 'RE/MAX Collective',
+      name: 'REMAX Collective',
     },
   }
 }

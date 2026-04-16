@@ -1,0 +1,44 @@
+<h2>Guide Hub Page — Layout Approach</h2>
+<p class="subtitle">How should the guides be organized on the page?</p>
+
+<div class="options">
+  <div class="option" data-choice="a" onclick="toggleSelect(this)">
+    <div class="letter">A</div>
+    <div class="content">
+      <h3>Category Cards with Expandable Sections</h3>
+      <p>Big visual cards for each category (Buyer Guides, Seller Guides, Mortgage, etc.) — click a category to expand and see all guides inside it. Clean and uncluttered. Visitors pick their persona first, then browse.</p>
+      <div style="margin-top:12px;padding:16px;background:#f1f5f9;border-radius:8px;font-size:13px;">
+        <strong>Best for:</strong> Sites with lots of guides (you have 60+). Keeps the page from being overwhelming.<br>
+        <strong>SEO note:</strong> All links render on page load for crawlers, just visually collapsed for users.
+      </div>
+    </div>
+  </div>
+
+  <div class="option" data-choice="b" onclick="toggleSelect(this)">
+    <div class="letter">B</div>
+    <div class="content">
+      <h3>Full Grid — Everything Visible</h3>
+      <p>All guides shown in a categorized grid. Each category is an H2 section with guide cards underneath. No collapsing — the full library is visible on one scroll. Sticky sidebar nav lets visitors jump between sections.</p>
+      <div style="margin-top:12px;padding:16px;background:#f1f5f9;border-radius:8px;font-size:13px;">
+        <strong>Best for:</strong> SEO power — every link and description visible on the page. Users can scan everything at once.<br>
+        <strong>Tradeoff:</strong> Long page, but the sticky sidebar nav keeps it navigable.
+      </div>
+    </div>
+  </div>
+
+  <div class="option" data-choice="c" onclick="toggleSelect(this)">
+    <div class="letter">C</div>
+    <div class="content">
+      <h3>Persona-First Landing (Tabs or Buttons)</h3>
+      <p>Start with "I am a..." buttons: First-Time Buyer, Seller, Investor, Relocator, Military. Each filters the page to show only relevant guides. A "Show All" option reveals everything.</p>
+      <div style="margin-top:12px;padding:16px;background:#f1f5f9;border-radius:8px;font-size:13px;">
+        <strong>Best for:</strong> Lead conversion — visitors self-identify their persona, which you can track. Feels personalized.<br>
+        <strong>Tradeoff:</strong> Requires JavaScript filtering. Some guides fit multiple personas.
+      </div>
+    </div>
+  </div>
+</div>
+
+<div style="margin-top:24px;padding:16px;background:#0f172a;color:white;border-radius:8px;">
+  <strong>My recommendation:</strong> Option B (Full Grid with Sticky Sidebar). With 60+ guides, the SEO value of having every link visible is massive. The sticky sidebar keeps it usable. This is the format that top real estate sites like Redfin and Zillow use for their resource centers.
+</div>

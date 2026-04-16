@@ -1,7 +1,7 @@
 ---
 title: "About TB Relo"
 metaTitle: "About TB Relo — Tampa Bay Relocation Guide"
-metaDescription: "TB Relo is your complete guide to moving to Tampa Bay, Florida. Built by Barrett Henry, REALTOR and Broker Associate at RE/MAX Collective."
+metaDescription: "TB Relo is your complete guide to moving to Tampa Bay, Florida. Built by Barrett Henry, REALTOR and Broker Associate at REMAX Collective."
 type: page
 publishedAt: "2026-03-12"
 updatedAt: "2026-03-12"
@@ -13,7 +13,7 @@ TB Relo is the most comprehensive relocation guide for Tampa Bay, Florida. We co
 
 ## Who's Behind This
 
-**Barrett Henry** is a REALTOR and Broker Associate at RE/MAX Collective with 23+ years of experience in the Tampa Bay market. He leads The NOW Team and has helped hundreds of families relocate to the area.
+**Barrett Henry** is a REALTOR and Broker Associate at REMAX Collective with 23+ years of experience in the Tampa Bay market. He leads The NOW Team and has helped hundreds of families relocate to the area.
 
 Barrett also runs:
 - {{nowtb}} — Full-service real estate for Tampa Bay buyers and sellers
