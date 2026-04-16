@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/4th-of-july-tampa-bay.jpg"
+featuredImage: "/images/blog/4th-of-july-tampa-bay.webp"
 ---
 
 # 4th of July in Tampa Bay — Every Fireworks Show and Event

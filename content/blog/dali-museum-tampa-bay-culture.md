@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/dali-museum-tampa-bay-culture.jpg"
+featuredImage: "/images/blog/dali-museum-tampa-bay-culture.webp"
 ---
 
 # The Dali Museum and Beyond — Tampa Bay's Best Cultural Experiences

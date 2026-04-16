@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/well-water-vs-city-water-tampa-bay.jpg"
+featuredImage: "/images/blog/well-water-vs-city-water-tampa-bay.webp"
 ---
 
 # Well Water vs City Water in Tampa Bay: What Homebuyers Need to Know

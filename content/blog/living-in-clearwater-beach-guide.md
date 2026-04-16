@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/living-in-clearwater-beach-guide.jpg"
+featuredImage: "/images/blog/living-in-clearwater-beach-guide.webp"
 ---
 
 # Living in Clearwater Beach, Florida: The Unvarnished Truth About Paradise

@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-vs-charlotte.jpg"
+featuredImage: "/images/blog/tampa-bay-vs-charlotte.webp"
 ---
 
 # Tampa Bay vs Charlotte NC — Which Is Better for Relocators?

@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/downsize-before-moving-florida.jpg"
+featuredImage: "/images/blog/downsize-before-moving-florida.webp"
 ---
 
 Moving to Florida already feels overwhelming, and then you realize your Chicago three-bedroom won't fit into that Tampa Bay condo you fell in love with. I've watched hundreds of families navigate this reality over 23 years, and downsizing before your move isn't just smart — it's essential.

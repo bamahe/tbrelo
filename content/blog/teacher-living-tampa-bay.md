@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/teacher-living-tampa-bay.jpg"
+featuredImage: "/images/blog/teacher-living-tampa-bay.webp"
 ---
 
 # Living in Tampa Bay as a Teacher: The Real Deal on Salaries, Schools, and Making It Work

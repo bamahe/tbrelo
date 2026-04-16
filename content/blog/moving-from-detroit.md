@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/moving-from-detroit.jpg"
+featuredImage: "/images/blog/moving-from-detroit.webp"
 ---
 
 # Moving from Detroit to Tampa Bay — The Complete Relocation Guide

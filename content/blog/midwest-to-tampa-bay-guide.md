@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/midwest-to-tampa-bay-guide.jpg"
+featuredImage: "/images/blog/midwest-to-tampa-bay-guide.webp"
 ---
 
 # Moving to Tampa Bay from the Midwest — What to Expect

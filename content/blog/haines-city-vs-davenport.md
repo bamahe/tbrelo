@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/haines-city-vs-davenport.jpg"
+featuredImage: /images/blog/default.webp
 ---
 
 # Haines City vs Davenport — Which Is Better for Relocators?

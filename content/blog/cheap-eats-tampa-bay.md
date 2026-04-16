@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/cheap-eats-tampa-bay.jpg"
+featuredImage: "/images/blog/cheap-eats-tampa-bay.webp"
 ---
 
 # Best Cheap Eats in Tampa Bay — Under $15 Meals That Don't Suck

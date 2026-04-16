@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/best-garage-storage-florida.jpg"
+featuredImage: "/images/blog/best-garage-storage-florida.webp"
 ---
 
 # Best Garage Storage Systems for Florida Heat

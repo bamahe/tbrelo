@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-vs-gainesville.jpg"
+featuredImage: "/images/blog/tampa-bay-vs-gainesville.webp"
 ---
 
 Choosing between Tampa Bay and Gainesville for your Florida move? After 23 years helping families relocate to Tampa Bay, I get this question more than you'd think. While these cities share the same state, they offer completely different lifestyles.

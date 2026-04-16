@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/publix-guide-florida-newcomers.jpg"
+featuredImage: "/images/blog/publix-guide-florida-newcomers.webp"
 ---
 
 You walk into a Publix in Tampa for the first time, and something feels... different. The floors shine like they're buffed hourly. Employees actually smile and ask if you need help finding anything. The produce looks like it was arranged by someone who cares. And don't even get me started on the bakery section that smells like heaven had a baby with a French patisserie.

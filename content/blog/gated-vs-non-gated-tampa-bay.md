@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/gated-vs-non-gated-tampa-bay.jpg"
+featuredImage: "/images/blog/gated-vs-non-gated-tampa-bay.webp"
 ---
 
 # Gated Community vs Non-Gated — Which Is Better for Relocators?

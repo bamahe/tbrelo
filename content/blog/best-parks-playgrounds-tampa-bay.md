@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/best-parks-playgrounds-tampa-bay.jpg"
+featuredImage: "/images/blog/best-parks-playgrounds-tampa-bay.webp"
 ---
 
 Tampa Bay has some seriously impressive parks that'll make you forget you're in Florida for all the right reasons. After two decades of showing families around this area, I've watched kids discover their favorite climbing trees, seen parents actually relax at splash pads, and helped countless families find their weekend hangout spots.

@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-bridges-ranked.jpg"
+featuredImage: "/images/blog/tampa-bay-bridges-ranked.webp"
 ---
 
 # Every Bridge and Causeway in Tampa Bay — Ranked by Commute Pain

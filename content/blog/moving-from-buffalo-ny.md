@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/moving-from-buffalo-ny.jpg"
+featuredImage: "/images/blog/moving-from-buffalo-ny.webp"
 ---
 
 # Moving from Buffalo NY to Tampa Bay — The Complete Relocation Guide

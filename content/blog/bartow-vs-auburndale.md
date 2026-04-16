@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/bartow-vs-auburndale.jpg"
+featuredImage: "/images/blog/bartow-vs-auburndale.webp"
 ---
 
 # Bartow vs Auburndale — Which Is Better for Relocators?

@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/sunpass-vs-epass-florida.jpg"
+featuredImage: "/images/blog/sunpass-vs-epass-florida.webp"
 ---
 
 # SunPass vs E-Pass: Which Florida Toll Transponder Do You Need?

@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/living-tampa-bay-75k-salary.jpg"
+featuredImage: "/images/blog/living-tampa-bay-75k-salary.webp"
 ---
 
 # Living in Tampa Bay on a $75K Salary: Your Complete Budget Breakdown

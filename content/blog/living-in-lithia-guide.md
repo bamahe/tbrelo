@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/living-in-lithia-guide.jpg"
+featuredImage: "/images/blog/living-in-lithia-guide.webp"
 ---
 
 # Living in Lithia — What It's Really Like (Honest Relocation Guide)

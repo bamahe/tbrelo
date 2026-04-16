@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-lizards-guide.jpg"
+featuredImage: "/images/blog/florida-lizards-guide.webp"
 ---
 
 You're about to move to Florida, and someone just told you about the lizards. "Don't worry," they said, "you'll get used to them." But nobody prepared you for that first morning when you open your front door and there's a little green dinosaur doing push-ups on your mailbox, staring you down like he pays the mortgage.

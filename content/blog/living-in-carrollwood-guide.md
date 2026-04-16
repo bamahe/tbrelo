@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/living-in-carrollwood-guide.jpg"
+featuredImage: /images/blog/default.webp
 ---
 
 # Living in Carrollwood — What It's Really Like (Honest Relocation Guide)

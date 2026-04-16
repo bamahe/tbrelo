@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/trash-recycling-tampa-bay-by-county.jpg"
+featuredImage: "/images/blog/trash-recycling-tampa-bay-by-county.webp"
 ---
 
 # Setting Up Trash and Recycling in Tampa Bay — By County

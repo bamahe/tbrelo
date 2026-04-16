@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/best-breakfast-tampa-bay.jpg"
+featuredImage: "/images/blog/best-breakfast-tampa-bay.webp"
 ---
 
 # Best Breakfast Spots in Tampa Bay by Neighborhood

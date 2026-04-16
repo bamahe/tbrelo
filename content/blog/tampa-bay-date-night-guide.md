@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-date-night-guide.jpg"
+featuredImage: "/images/blog/tampa-bay-date-night-guide.webp"
 ---
 
 # Tampa Bay Date Night Guide — 30 Ideas by Budget

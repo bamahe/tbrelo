@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/what-to-sell-before-moving-florida.jpg"
+featuredImage: "/images/blog/what-to-sell-before-moving-florida.webp"
 ---
 
 Moving to Florida means more than just changing your address — it's a complete lifestyle shift that affects everything from your wardrobe to your furniture choices. After helping hundreds of families relocate to Tampa Bay over the past 23 years, I've seen people make the same mistakes: bringing winter coats they'll never wear and heavy furniture that makes zero sense in our climate.

@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-estate-planning-new-residents.jpg"
+featuredImage: "/images/blog/florida-estate-planning-new-residents.webp"
 ---
 
 You just bought your Tampa Bay home and survived the moving chaos. Now comes something nobody wants to think about but everyone needs to handle: getting your estate planning sorted out in Florida.

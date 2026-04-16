@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/survive-first-florida-summer.jpg"
+featuredImage: "/images/blog/survive-first-florida-summer.webp"
 ---
 
 Your first Florida summer will humble you. I've watched thousands of relocating families discover that what they thought they knew about heat was adorably naive. That 95°F day back in Ohio? That was Florida's warm-up act.

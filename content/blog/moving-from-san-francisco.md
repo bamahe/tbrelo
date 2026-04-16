@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/moving-from-san-francisco.jpg"
+featuredImage: "/images/blog/moving-from-san-francisco.webp"
 ---
 
 # Moving from San Francisco to Tampa Bay — The Complete Relocation Guide

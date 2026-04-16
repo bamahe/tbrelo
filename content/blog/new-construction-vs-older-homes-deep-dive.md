@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/new-construction-vs-older-homes-deep-dive.jpg"
+featuredImage: "/images/blog/new-construction-vs-older-homes-deep-dive.webp"
 ---
 
 # New Construction vs Older Homes (Deep Dive) — Which Is Better for Relocators?

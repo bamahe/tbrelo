@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-real-estate-contracts-explained.jpg"
+featuredImage: "/images/blog/florida-real-estate-contracts-explained.webp"
 ---
 
 When I get calls from buyers moving to Tampa Bay, one of the first surprises they encounter is Florida's contract system. Unlike many states where everything defaults to "standard," Florida gives you two main contract choices right upfront: AS-IS or Standard. After 23 years of walking clients through these decisions, I've learned that understanding the difference isn't just important — it's often the difference between getting your dream home or watching it slip away.

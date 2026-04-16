@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-volunteer-charity-guide.jpg"
+featuredImage: "/images/blog/tampa-bay-volunteer-charity-guide.webp"
 ---
 
 # Tampa Bay Charity and Volunteer Opportunities for New Residents

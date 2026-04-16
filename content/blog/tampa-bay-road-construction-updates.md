@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-road-construction-updates.jpg"
+featuredImage: "/images/blog/tampa-bay-road-construction-updates.webp"
 ---
 
 # Tampa Bay Road Construction Updates — What's Being Built

@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/fha-loan-florida-guide.jpg"
+featuredImage: "/images/blog/fha-loan-florida-guide.webp"
 ---
 
 Looking to buy a home in Florida but worried about that down payment? You're not alone. FHA loans have been the gateway to homeownership for millions of Floridians, and after 23 years of helping families navigate Tampa Bay's real estate market, I've seen these loans work miracles for first-time buyers and repeat purchasers alike.

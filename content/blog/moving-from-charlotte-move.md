@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/moving-from-charlotte-move.jpg"
+featuredImage: "/images/blog/moving-from-charlotte-move.webp"
 ---
 
 # Moving from Charlotte NC to Tampa Bay — The Complete Relocation Guide

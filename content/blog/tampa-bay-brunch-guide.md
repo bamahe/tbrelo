@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-brunch-guide.jpg"
+featuredImage: "/images/blog/tampa-bay-brunch-guide.webp"
 ---
 
 Sunday in Tampa Bay means one thing: brunch. Not the corporate chain version with frozen hash browns and powdered eggs. I'm talking about the real deal — places where locals line up, where the Bloody Mary recipes are family secrets, and where "bottomless" actually means something.

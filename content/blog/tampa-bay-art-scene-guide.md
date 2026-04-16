@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-art-scene-guide.jpg"
+featuredImage: "/images/blog/tampa-bay-art-scene-guide.webp"
 ---
 
 Tampa Bay's art scene punches way above its weight class. While everyone expects beaches and theme parks, they don't expect world-class museums, thriving gallery districts, and some of the best street art in the Southeast. After 23 years of showing families around Tampa Bay, I've watched this cultural landscape explode — and it's become a genuine selling point for relocating professionals and families.

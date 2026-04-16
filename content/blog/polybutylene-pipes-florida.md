@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/polybutylene-pipes-florida.jpg"
+featuredImage: "/images/blog/polybutylene-pipes-florida.webp"
 ---
 
 # Polybutylene Pipes in Florida Homes — Buyer Beware

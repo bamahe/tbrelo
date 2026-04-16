@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-halloween-guide.jpg"
+featuredImage: "/images/blog/tampa-bay-halloween-guide.webp"
 ---
 
 Halloween in Tampa Bay isn't just about throwing on a costume and hoping for the best. After 23 years of watching families navigate October 31st across our counties, I've learned which neighborhoods turn Halloween into an event and which ones leave kids staring at dark porches.

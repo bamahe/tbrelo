@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/moving-florida-with-kids-guide.jpg"
+featuredImage: "/images/blog/moving-florida-with-kids-guide.webp"
 ---
 
 Moving to Florida with kids feels like directing a three-ring circus while juggling flaming torches. I've watched families navigate this transition for over two decades, and the ones who thrive are those who understand that each age group needs a completely different playbook.

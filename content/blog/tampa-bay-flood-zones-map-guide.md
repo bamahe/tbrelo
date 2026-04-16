@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-flood-zones-map-guide.jpg"
+featuredImage: "/images/blog/tampa-bay-flood-zones-map-guide.webp"
 ---
 
 Looking at flood zone maps in Tampa Bay feels like deciphering ancient hieroglyphics — until someone explains what those cryptic letters and colors actually mean for your wallet and peace of mind. After 23+ years of walking buyers through flood zone realities, I've seen too many families get blindsided by insurance costs or, worse, actual flooding.

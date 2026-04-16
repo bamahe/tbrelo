@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-vs-ocala.jpg"
+featuredImage: "/images/blog/tampa-bay-vs-ocala.webp"
 ---
 
 Looking at Florida? You're probably weighing Tampa Bay against smaller markets like Ocala. I get this comparison a lot — families torn between big city amenities and small-town charm, urban career opportunities versus rural tranquility.

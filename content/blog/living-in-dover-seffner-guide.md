@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/living-in-dover-seffner-guide.jpg"
+featuredImage: "/images/blog/living-in-dover-seffner-guide.webp"
 ---
 
 You won't find Dover and Seffner splashed across glossy Tampa Bay marketing materials. These twin communities in eastern [Hillsborough County](/counties/hillsborough/) represent something increasingly rare: authentic small-town living within striking distance of Tampa's job market.

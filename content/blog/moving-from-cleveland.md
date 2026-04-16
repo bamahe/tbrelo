@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/moving-from-cleveland.jpg"
+featuredImage: "/images/blog/moving-from-cleveland.webp"
 ---
 
 # Moving from Cleveland to Tampa Bay — The Complete Relocation Guide

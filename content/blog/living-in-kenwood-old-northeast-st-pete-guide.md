@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/living-in-kenwood-old-northeast-st-pete-guide.jpg"
+featuredImage: /images/blog/default.webp
 ---
 
 # Living in Kenwood / Old Northeast St. Pete — What It's Really Like (Honest Relocation Guide)

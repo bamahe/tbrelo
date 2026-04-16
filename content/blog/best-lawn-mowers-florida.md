@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/best-lawn-mowers-florida.jpg"
+featuredImage: "/images/blog/best-lawn-mowers-florida.webp"
 ---
 
 # Best Lawn Mowers for Florida Grass Types: A Tampa Bay Local's Complete Guide

@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/new-years-eve-tampa-bay.jpg"
+featuredImage: "/images/blog/new-years-eve-tampa-bay.webp"
 ---
 
 New Year's Eve in Tampa Bay hits different than anywhere else. While other cities freeze their butts off watching a ball drop, we're out here in 70-degree weather with waterfront views, world-class restaurants, and enough entertainment options to make your head spin.

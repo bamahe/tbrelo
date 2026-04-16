@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/moving-from-st-louis.jpg"
+featuredImage: "/images/blog/moving-from-st-louis.webp"
 ---
 
 # Moving from St Louis to Tampa Bay — The Complete Relocation Guide

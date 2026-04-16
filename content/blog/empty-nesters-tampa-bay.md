@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/empty-nesters-tampa-bay.jpg"
+featuredImage: "/images/blog/empty-nesters-tampa-bay.webp"
 ---
 
 # Tampa Bay for Empty Nesters — Downsizing and Starting Over

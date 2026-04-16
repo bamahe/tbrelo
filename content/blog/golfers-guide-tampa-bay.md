@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/golfers-guide-tampa-bay.jpg"
+featuredImage: "/images/blog/golfers-guide-tampa-bay.webp"
 ---
 
 Tampa Bay delivers exactly what serious golfers dream about: year-round play, championship courses designed by legends, and communities built around the game. After helping hundreds of golf-obsessed families relocate here over 23 years, I can tell you this region punches way above its weight class for course quality and accessibility.

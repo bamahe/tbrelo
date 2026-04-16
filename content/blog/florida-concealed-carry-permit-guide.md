@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-concealed-carry-permit-guide.jpg"
+featuredImage: "/images/blog/florida-concealed-carry-permit-guide.webp"
 ---
 
 Getting your Florida concealed carry permit isn't complicated, but it's definitely bureaucratic. After helping hundreds of families relocate to Tampa Bay over 23 years, I've seen the same questions come up again and again about Florida's concealed weapons permit (CWP) process.

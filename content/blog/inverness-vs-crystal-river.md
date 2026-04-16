@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/inverness-vs-crystal-river.jpg"
+featuredImage: "/images/blog/inverness-vs-crystal-river.webp"
 ---
 
 Choosing between Inverness and Crystal River feels like picking your favorite kid — both have their charm, but they serve very different lifestyles. After 23 years of helping families relocate throughout Tampa Bay and beyond, I've walked countless clients through this exact decision in [Citrus County](/counties/citrus/).

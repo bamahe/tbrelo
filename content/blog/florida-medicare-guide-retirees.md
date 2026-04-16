@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-medicare-guide-retirees.jpg"
+featuredImage: "/images/blog/florida-medicare-guide-retirees.webp"
 ---
 
 Florida's Medicare maze just got more complicated — and if you're relocating to Tampa Bay, you need to know what changed before you make expensive mistakes.

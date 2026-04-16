@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-luxury-homes-guide.jpg"
+featuredImage: "/images/blog/tampa-bay-luxury-homes-guide.webp"
 ---
 
 # Tampa Bay Luxury Homes — The $750K+ Market Guide

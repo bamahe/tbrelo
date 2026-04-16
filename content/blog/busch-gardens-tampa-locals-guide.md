@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/busch-gardens-tampa-locals-guide.jpg"
+featuredImage: "/images/blog/busch-gardens-tampa-locals-guide.webp"
 ---
 
 The locals' dilemma at Busch Gardens: pay tourist prices for your backyard theme park, or skip it entirely? After 23 years of helping families relocate to Tampa Bay, I've seen plenty of newcomers wrestle with this question — and watched longtime residents change their minds multiple times.

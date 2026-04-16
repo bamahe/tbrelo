@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/best-home-security-tampa-bay.jpg"
+featuredImage: "/images/blog/best-home-security-tampa-bay.webp"
 ---
 
 # Best Home Security Systems for Tampa Bay Homes

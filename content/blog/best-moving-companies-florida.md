@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/best-moving-companies-florida.jpg"
+featuredImage: "/images/blog/best-moving-companies-florida.webp"
 ---
 
 # Best Moving Companies for Florida Relocations: Your Complete Guide

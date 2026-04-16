@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/living-in-downtown-st-petersburg-guide.jpg"
+featuredImage: "/images/blog/living-in-downtown-st-petersburg-guide.webp"
 ---
 
 # Living in Downtown St. Petersburg — What It's Really Like (Honest Relocation Guide)

@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/does-it-get-cold-tampa-bay.jpg"
+featuredImage: "/images/blog/does-it-get-cold-tampa-bay.webp"
 ---
 
 Sure, Tampa Bay gets cold. Maybe not Minnesota cold, but cold enough to make you dig through boxes looking for that hoodie you packed away in March. After 23 years selling real estate here, I've watched plenty of newcomers get caught off guard by our winter weather.

@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tarpon-springs-vs-palm-harbor.jpg"
+featuredImage: "/images/blog/tarpon-springs-vs-palm-harbor.webp"
 ---
 
 If you're house hunting in north Pinellas County, you've probably found yourself torn between Tarpon Springs and Palm Harbor. Trust me, after 23+ years showing homes in both areas, I get this question constantly. Both offer that coveted "real Florida" vibe without the tourist chaos of St. Pete Beach, but they're surprisingly different places.

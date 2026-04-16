@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/moving-from-houston.jpg"
+featuredImage: "/images/blog/moving-from-houston.webp"
 ---
 
 You're considering trading Houston's endless sprawl for Tampa Bay's mix of beaches, culture, and opportunity. I've helped dozens of Houston families make this exact move over the past 23 years, and while it's not without adjustments, most tell me it's one of the best decisions they've made.

@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/best-internet-cable-bundles-tampa-bay.jpg"
+featuredImage: "/images/blog/best-internet-cable-bundles-tampa-bay.webp"
 ---
 
 Moving to Tampa Bay and drowning in internet provider options? After 23 years helping families relocate here, I've seen every cable horror story and streaming success. Let me cut through the marketing nonsense and tell you what actually works in our market.

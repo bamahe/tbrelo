@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/living-in-wesley-chapel-guide.jpg"
+featuredImage: "/images/blog/living-in-wesley-chapel-guide.webp"
 ---
 
 # Living in Wesley Chapel: The Real Story From Someone Who Actually Lives Here

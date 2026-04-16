@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/living-in-land-o-lakes-guide.jpg"
+featuredImage: /images/blog/default.webp
 ---
 
 Land O' Lakes sits in that sweet spot where Tampa Bay's suburban sprawl meets actual Florida countryside — and after 23 years of helping families relocate here, I can tell you it's one of the most misunderstood communities in the region.

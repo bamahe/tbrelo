@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/living-in-lakewood-ranch-guide.jpg"
+featuredImage: "/images/blog/living-in-lakewood-ranch-guide.webp"
 ---
 
 ![Aerial view of Lakewood Ranch showing master-planned community layout with golf courses, town centers, and residential neighborhoods](PLACEHOLDER)

@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/skin-cancer-awareness-florida.jpg"
+featuredImage: "/images/blog/skin-cancer-awareness-florida.webp"
 ---
 
 Moving to Florida means trading snow boots for flip-flops, but it also means confronting a harsh reality: this state leads the nation in skin cancer rates. After 23 years helping families relocate to Tampa Bay, I've seen too many newcomers learn this lesson the hard way — usually after their first summer.

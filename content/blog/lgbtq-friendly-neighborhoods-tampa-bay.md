@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/lgbtq-friendly-neighborhoods-tampa-bay.jpg"
+featuredImage: /images/blog/default.webp
 ---
 
 # Best Tampa Bay Neighborhoods for LGBTQ+ Residents

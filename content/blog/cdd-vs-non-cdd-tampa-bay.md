@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/cdd-vs-non-cdd-tampa-bay.jpg"
+featuredImage: "/images/blog/cdd-vs-non-cdd-tampa-bay.webp"
 ---
 
 # CDD Community vs Non-CDD — Which Is Better for Relocators?

@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-garage-heat-solutions.jpg"
+featuredImage: "/images/blog/florida-garage-heat-solutions.webp"
 ---
 
 # Your Garage Will Become a Sauna — Florida Garage Solutions

@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/find-dentist-tampa-bay.jpg"
+featuredImage: "/images/blog/find-dentist-tampa-bay.webp"
 ---
 
 # Finding a Dentist in Tampa Bay — Honest Recommendations

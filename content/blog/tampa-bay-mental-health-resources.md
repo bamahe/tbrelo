@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-mental-health-resources.jpg"
+featuredImage: "/images/blog/tampa-bay-mental-health-resources.webp"
 ---
 
 Finding quality mental health care shouldn't feel like another stressor in your life. After 23 years helping families settle into Tampa Bay, I've watched our area grow from having limited options to becoming a region with genuinely excellent mental health resources. Here's what you actually need to know — no fluff, just real information about getting help.

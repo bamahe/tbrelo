@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-vs-raleigh.jpg"
+featuredImage: "/images/blog/tampa-bay-vs-raleigh.webp"
 ---
 
 # Tampa Bay vs Raleigh — Which Is Better for Relocators?

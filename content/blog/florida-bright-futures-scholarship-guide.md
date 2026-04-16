@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-bright-futures-scholarship-guide.jpg"
+featuredImage: "/images/blog/florida-bright-futures-scholarship-guide.webp"
 ---
 
 # Florida Bright Futures Scholarship — Saving for Your Kids

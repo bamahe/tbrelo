@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-investment-property-guide.jpg"
+featuredImage: "/images/blog/tampa-bay-investment-property-guide.webp"
 ---
 
 # Tampa Bay Investment Property Guide — Where to Buy Rentals

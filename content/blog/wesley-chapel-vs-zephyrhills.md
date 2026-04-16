@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/wesley-chapel-vs-zephyrhills.jpg"
+featuredImage: "/images/blog/wesley-chapel-vs-zephyrhills.webp"
 ---
 
 # Wesley Chapel vs Zephyrhills — Which Is Better for Relocators?

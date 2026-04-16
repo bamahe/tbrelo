@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-vegan-vegetarian-guide.jpg"
+featuredImage: "/images/blog/tampa-bay-vegan-vegetarian-guide.webp"
 ---
 
 # Tampa Bay's Best Vegan and Vegetarian Restaurants: Your Plant-Based Dining Guide

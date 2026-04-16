@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/pet-owners-tampa-bay-complete.jpg"
+featuredImage: "/images/blog/pet-owners-tampa-bay-complete.webp"
 ---
 
 If you're relocating to Tampa Bay with your furry, feathered, or scaled family members, you've picked one of the most pet-friendly regions in Florida. After 23+ years helping families (and their pets) settle into Tampa Bay, I've seen how much our four-legged friends influence where people choose to live. And honestly? They should.

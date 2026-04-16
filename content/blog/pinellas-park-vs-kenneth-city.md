@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/pinellas-park-vs-kenneth-city.jpg"
+featuredImage: /images/blog/default.webp
 ---
 
 You're house hunting in central Pinellas County and keep seeing listings in Pinellas Park and Kenneth City. Both cities sit practically next to each other, both offer more affordable housing than the beach communities, and both put you in the heart of the Tampa Bay area. So which one actually makes sense for your family?

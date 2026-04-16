@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/moving-from-portland.jpg"
+featuredImage: "/images/blog/moving-from-portland.webp"
 ---
 
 # Moving from Portland OR to Tampa Bay — The Complete Relocation Guide

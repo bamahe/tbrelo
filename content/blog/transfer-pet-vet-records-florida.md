@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/transfer-pet-vet-records-florida.jpg"
+featuredImage: "/images/blog/transfer-pet-vet-records-florida.webp"
 ---
 
 Moving to Florida with your furry family members? You're not the first to discover that relocating pets involves more than just packing their favorite toys. After helping hundreds of families move to Tampa Bay over the past 23 years, I've seen pet owners scramble at the last minute when they realize Florida has specific requirements for veterinary records.

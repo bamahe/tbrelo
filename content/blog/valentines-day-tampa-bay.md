@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/valentines-day-tampa-bay.jpg"
+featuredImage: "/images/blog/valentines-day-tampa-bay.webp"
 ---
 
 Tampa Bay serves up romance year-round, but Valentine's Day demands something special. After 23 years showing families around this region, I've watched countless couples discover their perfect date night spots — from waterfront tables where manatees surface during dinner to rooftop bars where downtown sparkles below.

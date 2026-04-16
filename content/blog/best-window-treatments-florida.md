@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/best-window-treatments-florida.jpg"
+featuredImage: "/images/blog/best-window-treatments-florida.webp"
 ---
 
 # Best Window Treatments for Florida Sun and Heat: What Actually Works in Tampa Bay

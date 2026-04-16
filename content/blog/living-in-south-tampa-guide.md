@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/living-in-south-tampa-guide.jpg"
+featuredImage: "/images/blog/living-in-south-tampa-guide.webp"
 ---
 
 South Tampa isn't just another Florida neighborhood — it's the gold standard that every other Tampa area tries to measure itself against. After helping families relocate here for over two decades, I can tell you that South Tampa delivers on its reputation, but it comes with a price tag and some realities you need to understand before making the move.

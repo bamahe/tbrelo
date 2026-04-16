@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-real-id-guide.jpg"
+featuredImage: "/images/blog/florida-real-id-guide.webp"
 ---
 
 The clock is ticking on Florida's Real ID rollout, and if you're new to Tampa Bay — or just procrastinated like the rest of us — you need to get this sorted before October 1, 2025. After that date, your regular Florida driver's license won't cut it for domestic flights or federal buildings.

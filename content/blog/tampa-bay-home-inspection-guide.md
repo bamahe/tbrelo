@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-home-inspection-guide.jpg"
+featuredImage: "/images/blog/tampa-bay-home-inspection-guide.webp"
 ---
 
 You're under contract on a Tampa Bay home. Congratulations! Now comes the inspection period — 10-15 days that can make or break your purchase. After 23 years of walking through homes with buyers from Clearwater to Brandon, I've seen inspections save families from $50,000 disasters and others that killed perfectly good deals over $300 issues.

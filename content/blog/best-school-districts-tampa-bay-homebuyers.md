@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/best-school-districts-tampa-bay-homebuyers.jpg"
+featuredImage: "/images/blog/best-school-districts-tampa-bay-homebuyers.webp"
 ---
 
 Finding the right school district can make or break your home search in Tampa Bay. After 23 years of helping families relocate here, I've seen parents drive an extra 30 minutes each way just to get their kids into the right elementary school. Smart move? Usually, yes.

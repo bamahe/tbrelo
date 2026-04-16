@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-internet-providers-ranked.jpg"
+featuredImage: "/images/blog/tampa-bay-internet-providers-ranked.webp"
 ---
 
 After 23 years of helping families relocate to Tampa Bay, I've fielded countless questions about internet providers. Nothing kills the excitement of a new home like discovering your internet crawls at dial-up speeds during peak hours. Let me break down what actually works here — and what doesn't.

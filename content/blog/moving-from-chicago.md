@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/moving-from-chicago.jpg"
+featuredImage: "/images/blog/moving-from-chicago.webp"
 ---
 
 # Moving from Chicago to Tampa Bay — The Complete Relocation Guide

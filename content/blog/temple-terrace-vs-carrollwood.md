@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/temple-terrace-vs-carrollwood.jpg"
+featuredImage: /images/blog/default.webp
 ---
 
 Two neighborhoods, fifteen minutes apart, worlds of difference. After 23 years of showing homes in both Temple Terrace and Carrollwood, I've learned they attract completely different types of buyers — and for good reason.

@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/best-coolers-florida-beach.jpg"
+featuredImage: "/images/blog/best-coolers-florida-beach.webp"
 ---
 
 Living in Tampa Bay for 23+ years, I've hauled more coolers to Clearwater Beach, St. Pete Beach, and Anna Maria Island than I care to count. Between client beach parties, family outings, and showing out-of-state buyers why our beaches are worth the move, I've learned the hard way which coolers actually work in Florida's brutal heat and which ones leave you with warm beer and soggy sandwiches by noon.

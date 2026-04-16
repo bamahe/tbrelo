@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/moving-from-baltimore.jpg"
+featuredImage: "/images/blog/moving-from-baltimore.webp"
 ---
 
 # Moving from Baltimore to Tampa Bay — The Complete Relocation Guide

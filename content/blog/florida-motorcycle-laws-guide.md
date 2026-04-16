@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-motorcycle-laws-guide.jpg"
+featuredImage: "/images/blog/florida-motorcycle-laws-guide.webp"
 ---
 
 Florida's motorcycle scene is incredible — 340+ days of riding weather, scenic coastal roads, and a culture that embraces two wheels. But before you fire up that bike and hit the Sunshine Skyway, you need to understand Florida's motorcycle laws. They're different from most states, and getting it wrong can cost you serious money or worse.

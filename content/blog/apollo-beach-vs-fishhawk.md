@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/apollo-beach-vs-fishhawk.jpg"
+featuredImage: "/images/blog/apollo-beach-vs-fishhawk.webp"
 ---
 
 # Apollo Beach vs FishHawk — Which Is Better for Relocators?

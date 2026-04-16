@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-cigar-culture-guide.jpg"
+featuredImage: "/images/blog/tampa-bay-cigar-culture-guide.webp"
 ---
 
 Tampa Bay isn't just another Florida metro area with some cigar shops scattered around. This is where modern American cigar culture was literally born. When Vicente Martinez-Ybor moved his cigar operations here from Key West in 1885, he wasn't just relocating a business — he was creating what would become the cigar capital of the world.

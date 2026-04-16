@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/best-mosquito-traps-florida.jpg"
+featuredImage: "/images/blog/best-mosquito-traps-florida.webp"
 ---
 
 If you've lived in Tampa Bay for more than five minutes, you know the drill: step outside at dusk and become a buffet for mosquitoes the size of small aircraft. After 23 years of helping families relocate here, I've heard every complaint about Florida's flying vampires. The good news? The right mosquito trap or bug zapper can turn your backyard from a no-fly zone into an actual usable space.

@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/living-in-tarpon-springs-guide.jpg"
+featuredImage: "/images/blog/living-in-tarpon-springs-guide.webp"
 ---
 
 ![Historic Tarpon Springs sponge docks with boats and Greek restaurants along the waterfront](PLACEHOLDER)

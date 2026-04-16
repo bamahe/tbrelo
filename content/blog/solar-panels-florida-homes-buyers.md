@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/solar-panels-florida-homes-buyers.jpg"
+featuredImage: "/images/blog/solar-panels-florida-homes-buyers.webp"
 ---
 
 Solar panels on Florida homes have gone from rare curiosity to mainstream feature in about a decade. As someone who's walked through thousands of Tampa Bay properties, I've seen every solar situation imaginable — from homeowners bragging about their $30 monthly electric bills to buyers discovering they're inheriting a lease that costs more than their old power bill.

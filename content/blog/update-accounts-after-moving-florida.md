@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/update-accounts-after-moving-florida.jpg"
+featuredImage: "/images/blog/update-accounts-after-moving-florida.webp"
 ---
 
 Moving to Florida means more than just packing boxes and finding a new home. The real work begins after you've settled in: updating every single account, subscription, and service that has your old address on file. After helping hundreds of families relocate to Tampa Bay over the past 23 years, I've watched people stress about missing this crucial step — and I've seen the headaches that follow when important mail gets lost or services get interrupted.

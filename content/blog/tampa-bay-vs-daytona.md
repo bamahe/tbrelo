@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-vs-daytona.jpg"
+featuredImage: "/images/blog/tampa-bay-vs-daytona.webp"
 ---
 
 # Tampa Bay vs Daytona Beach — Which Is Better for Relocators?

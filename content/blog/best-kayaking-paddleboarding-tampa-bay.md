@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/best-kayaking-paddleboarding-tampa-bay.jpg"
+featuredImage: "/images/blog/best-kayaking-paddleboarding-tampa-bay.webp"
 ---
 
 When people ask me about Tampa Bay's best outdoor activities, paddling always makes the top three. After 23+ years showing families around this area, I've learned that our waters offer something for everyone — from crystal-clear springs perfect for beginners to challenging coastal paddles that'll test experienced kayakers.

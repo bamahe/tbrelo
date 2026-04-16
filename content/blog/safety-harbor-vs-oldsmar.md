@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/safety-harbor-vs-oldsmar.jpg"
+featuredImage: /images/blog/default.webp
 ---
 
 # Safety Harbor vs Oldsmar — Which Is Better for Relocators?

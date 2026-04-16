@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-backyard-party-guide.jpg"
+featuredImage: "/images/blog/florida-backyard-party-guide.webp"
 ---
 
 # How to Throw a Florida Backyard Party That Doesn't Suck

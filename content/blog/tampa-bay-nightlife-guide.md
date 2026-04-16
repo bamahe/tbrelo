@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-nightlife-guide.jpg"
+featuredImage: "/images/blog/tampa-bay-nightlife-guide.webp"
 ---
 
 After 23 years of showing families around Tampa Bay, I've learned that understanding the nightlife scene is just as important as knowing the school districts. Whether you're relocating here or already live here, knowing where to grab a drink that matches your vibe can make or break your social life in a new city.

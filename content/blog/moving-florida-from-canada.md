@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/moving-florida-from-canada.jpg"
+featuredImage: "/images/blog/moving-florida-from-canada.webp"
 ---
 
 # Moving to Florida from Canada — Immigration and Lifestyle Guide

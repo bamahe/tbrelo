@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/best-kayaks-tampa-bay.jpg"
+featuredImage: "/images/blog/best-kayaks-tampa-bay.webp"
 ---
 
 # Best Kayaks for Tampa Bay Waters: A Local's Guide to Choosing the Right Boat

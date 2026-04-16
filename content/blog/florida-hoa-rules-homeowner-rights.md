@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-hoa-rules-homeowner-rights.jpg"
+featuredImage: "/images/blog/florida-hoa-rules-homeowner-rights.webp"
 ---
 
 # HOA Rules in Florida — Your Rights as a Homeowner

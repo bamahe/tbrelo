@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/best-storage-units-tampa-bay.jpg"
+featuredImage: "/images/blog/best-storage-units-tampa-bay.webp"
 ---
 
 Finding the right storage unit in Tampa Bay isn't just about price — it's about location, security, and whether your stuff survives our brutal humidity. After 23 years helping folks move in and out of Tampa Bay, I've seen what happens when people cheap out on storage. Spoiler alert: it doesn't end well.

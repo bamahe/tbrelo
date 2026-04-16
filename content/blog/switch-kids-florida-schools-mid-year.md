@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/switch-kids-florida-schools-mid-year.jpg"
+featuredImage: "/images/blog/switch-kids-florida-schools-mid-year.webp"
 ---
 
 Moving to Tampa Bay mid-year with kids? You're not alone. About 30% of Florida school transfers happen outside the traditional August start date, and while it's definitely doable, there's a specific process that'll save you weeks of hassle if you know what you're doing.

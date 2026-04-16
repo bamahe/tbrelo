@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/best-happy-hours-tampa-bay.jpg"
+featuredImage: "/images/blog/best-happy-hours-tampa-bay.webp"
 ---
 
 # Best Happy Hours in Tampa Bay — Updated Monthly

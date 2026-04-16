@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-road-rage-humor.jpg"
+featuredImage: "/images/blog/florida-road-rage-humor.webp"
 ---
 
 # Florida Road Rage Decoded — What Each Honk Pattern Means

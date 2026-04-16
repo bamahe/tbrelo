@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/best-gas-stations-tampa-bay.jpg"
+featuredImage: "/images/blog/best-gas-stations-tampa-bay.webp"
 ---
 
 Look, I know what you're thinking. "Barrett, it's just gas — how different can they really be?" After 23 years of driving every corner of Tampa Bay for showings, inspections, and client meetings, trust me: there's absolutely a difference. Some stations will save you serious money, others will leave you questioning your life choices at 2 AM when their pumps don't work.

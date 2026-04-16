@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/plant-city-vs-dover.jpg"
+featuredImage: "/images/blog/plant-city-vs-dover.webp"
 ---
 
 Two communities in east Hillsborough County keep popping up in my relocation conversations: Plant City and Dover. Both offer that "small-town feel" people crave when escaping urban Tampa, but they're surprisingly different once you dig into the details.

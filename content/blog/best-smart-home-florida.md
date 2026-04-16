@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/best-smart-home-florida.jpg"
+featuredImage: "/images/blog/best-smart-home-florida.webp"
 ---
 
 # Best Smart Home Devices for Florida Living

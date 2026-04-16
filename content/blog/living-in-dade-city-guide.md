@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/living-in-dade-city-guide.jpg"
+featuredImage: "/images/blog/living-in-dade-city-guide.webp"
 ---
 
 # Living in Dade City (Deep Dive) — What It's Really Like (Honest Relocation Guide)

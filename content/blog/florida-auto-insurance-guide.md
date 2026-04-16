@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-auto-insurance-guide.jpg"
+featuredImage: "/images/blog/florida-auto-insurance-guide.webp"
 ---
 
 ![Florida auto insurance documents spread on a car dashboard with Tampa Bay skyline in background](PLACEHOLDER)

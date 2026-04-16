@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/ybor-city-food-nightlife-guide.jpg"
+featuredImage: "/images/blog/ybor-city-food-nightlife-guide.webp"
 ---
 
 # Ybor City Food and Nightlife Guide — The Complete Walkthrough

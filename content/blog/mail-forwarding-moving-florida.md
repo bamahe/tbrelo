@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/mail-forwarding-moving-florida.jpg"
+featuredImage: "/images/blog/mail-forwarding-moving-florida.webp"
 ---
 
 ![Person filling out USPS mail forwarding form at post office counter with Florida moving boxes in background](PLACEHOLDER)

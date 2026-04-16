@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-express-lanes.jpg"
+featuredImage: "/images/blog/tampa-bay-express-lanes.webp"
 ---
 
 You're sitting in Tampa Bay traffic, watching cars zip by in those mysterious express lanes, wondering if that monthly toll pass is worth it. After 23 years of helping families navigate Tampa Bay, I've had this conversation hundreds of times. Let me break down everything you need to know about express lanes here — the real costs, the actual time savings, and whether they make sense for your specific commute.

@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-fishing-license-complete-guide.jpg"
+featuredImage: "/images/blog/florida-fishing-license-complete-guide.webp"
 ---
 
 # How to Get a Florida Fishing License — Every Option Explained

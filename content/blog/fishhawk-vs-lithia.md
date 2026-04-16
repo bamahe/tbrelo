@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/fishhawk-vs-lithia.jpg"
+featuredImage: "/images/blog/fishhawk-vs-lithia.webp"
 ---
 
 # FishHawk vs Lithia — Which Is Better for Relocators?

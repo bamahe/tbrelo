@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-island-time-lifestyle.jpg"
+featuredImage: "/images/blog/florida-island-time-lifestyle.webp"
 ---
 
 # What 'Island Time' Means and How It Changes You

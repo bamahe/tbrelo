@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/moving-from-atlanta-move.jpg"
+featuredImage: "/images/blog/moving-from-atlanta-move.webp"
 ---
 
 # Moving from Atlanta to Tampa Bay — The Complete Relocation Guide

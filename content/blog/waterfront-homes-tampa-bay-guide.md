@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/waterfront-homes-tampa-bay-guide.jpg"
+featuredImage: "/images/blog/waterfront-homes-tampa-bay-guide.webp"
 ---
 
 The dream of waking up to water views and stepping onto your own dock isn't just fantasy in Tampa Bay — it's a legitimate housing option. But after 23 years of helping clients navigate waterfront purchases, I can tell you the reality is more complex than the Instagram posts suggest.

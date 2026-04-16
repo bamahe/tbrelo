@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/move-home-business-florida.jpg"
+featuredImage: "/images/blog/move-home-business-florida.webp"
 ---
 
 Moving your home business to Florida isn't just about packing boxes and changing addresses — it's about navigating state regulations, tax implications, and setting up shop in one of the most business-friendly states in the country. After 23 years helping families relocate to Tampa Bay, I've walked dozens of entrepreneurs through this process. Some nail it. Others get tangled up in paperwork that could've been avoided.

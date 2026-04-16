@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/best-burgers-tampa-bay.jpg"
+featuredImage: "/images/blog/best-burgers-tampa-bay.webp"
 ---
 
 Looking for the best burger in Tampa Bay? After 23+ years of eating my way through this metro, I've found spots that'll make you forget every chain restaurant exists. From $8 smash burgers that rival the fancy places to $18 gourmet creations that justify every penny, Tampa Bay's burger scene punches way above its weight.

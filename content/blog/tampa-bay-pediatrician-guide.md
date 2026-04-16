@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-pediatrician-guide.jpg"
+featuredImage: "/images/blog/tampa-bay-pediatrician-guide.webp"
 ---
 
 Finding the right pediatrician for your family isn't just another item on your Tampa Bay moving checklist — it's choosing who will guide your child's health from those first sleepless nights through teenage growth spurts. After helping hundreds of families relocate here over 23 years, I've learned that parents want honest answers about healthcare, not corporate brochures.

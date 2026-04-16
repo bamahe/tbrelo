@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-notary-guide.jpg"
+featuredImage: "/images/blog/florida-notary-guide.webp"
 ---
 
 # Florida Notary Guide — Where to Get Documents Notarized

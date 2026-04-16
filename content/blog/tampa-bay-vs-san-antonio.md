@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-vs-san-antonio.jpg"
+featuredImage: "/images/blog/tampa-bay-vs-san-antonio.webp"
 ---
 
 # Tampa Bay vs San Antonio — Which Is Better for Relocators?

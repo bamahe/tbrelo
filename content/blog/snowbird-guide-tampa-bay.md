@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/snowbird-guide-tampa-bay.jpg"
+featuredImage: "/images/blog/snowbird-guide-tampa-bay.webp"
 ---
 
 # Tampa Bay Snowbird Guide — Part-Time Florida Living

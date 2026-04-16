@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/runners-fitness-tampa-bay.jpg"
+featuredImage: "/images/blog/runners-fitness-tampa-bay.webp"
 ---
 
 If you're serious about running or fitness, Tampa Bay isn't just another Sun Belt metro — it's a legitimate training destination. I've watched this area transform from a handful of scattered trails to one of the most runner-friendly regions in the Southeast. After 23 years selling homes here, I can tell you the fitness-focused buyers I work with consistently choose Tampa Bay for good reason.

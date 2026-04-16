@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/condo-vs-townhouse-vs-house-tampa-bay.jpg"
+featuredImage: "/images/blog/condo-vs-townhouse-vs-house-tampa-bay.webp"
 ---
 
 Moving to Tampa Bay means choosing between three main housing types: condos, townhouses, and single-family homes. After 23+ years helping relocators navigate this market, I've seen families make both brilliant and regrettable decisions based on incomplete information.

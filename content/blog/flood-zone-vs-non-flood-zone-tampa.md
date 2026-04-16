@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/flood-zone-vs-non-flood-zone-tampa.jpg"
+featuredImage: "/images/blog/flood-zone-vs-non-flood-zone-tampa.webp"
 ---
 
 Look, I'm going to give it to you straight about flood zones in Tampa Bay — because nobody else will. After 23 years selling homes here, I've watched buyers make both brilliant and catastrophic decisions based on flood zone maps. The difference isn't just about insurance premiums (though we'll talk numbers). It's about your financial future, your family's safety, and whether you'll sleep well during hurricane season.

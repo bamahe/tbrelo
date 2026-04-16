@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/brooksville-vs-spring-hill-detailed.jpg"
+featuredImage: /images/blog/default.webp
 ---
 
 # Brooksville vs Spring Hill — Which Is Better for Relocators?

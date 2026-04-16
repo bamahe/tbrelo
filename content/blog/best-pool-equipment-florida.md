@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/best-pool-equipment-florida.jpg"
+featuredImage: "/images/blog/best-pool-equipment-florida.webp"
 ---
 
 # Best Pool Equipment for Florida Homeowners: A REALTOR's Guide to What Actually Works

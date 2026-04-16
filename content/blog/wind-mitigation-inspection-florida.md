@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/wind-mitigation-inspection-florida.jpg"
+featuredImage: "/images/blog/wind-mitigation-inspection-florida.webp"
 ---
 
 # Wind Mitigation Inspections in Florida — Save Thousands on Insurance

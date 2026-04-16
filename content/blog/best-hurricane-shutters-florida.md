@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/best-hurricane-shutters-florida.jpg"
+featuredImage: "/images/blog/best-hurricane-shutters-florida.webp"
 ---
 
 After 23 years of real estate in Tampa Bay, I've watched every major storm season bring the same question: "What hurricane shutters should I buy?" Here's the straight answer, based on what actually works when winds hit 120+ mph and your insurance adjuster shows up afterward.

@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/new-construction-tampa-bay-builder-guide.jpg"
+featuredImage: "/images/blog/new-construction-tampa-bay-builder-guide.webp"
 ---
 
 # Buying New Construction in Tampa Bay — The Builder's Game Explained

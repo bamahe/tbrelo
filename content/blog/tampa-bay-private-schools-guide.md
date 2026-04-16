@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-private-schools-guide.jpg"
+featuredImage: "/images/blog/tampa-bay-private-schools-guide.webp"
 ---
 
 # Tampa Bay Private Schools — The Complete Guide

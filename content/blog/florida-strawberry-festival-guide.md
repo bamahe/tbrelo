@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-strawberry-festival-guide.jpg"
+featuredImage: "/images/blog/florida-strawberry-festival-guide.webp"
 ---
 
 Every March, Plant City transforms from a quiet farming town into Florida's sweetest destination. The Florida Strawberry Festival draws over 500,000 visitors during its 11-day run, making it one of the state's largest annual events. After covering this festival for clients for two decades, I've learned which days to avoid, where locals actually park, and why the strawberry shortcake line moves faster at 10 AM than 2 PM.

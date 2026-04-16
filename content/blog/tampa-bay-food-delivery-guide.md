@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-food-delivery-guide.jpg"
+featuredImage: "/images/blog/tampa-bay-food-delivery-guide.webp"
 ---
 
 # Tampa Bay Food Delivery Guide — What Actually Delivers to Your Area

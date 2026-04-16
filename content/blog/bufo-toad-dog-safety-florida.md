@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/bufo-toad-dog-safety-florida.jpg"
+featuredImage: "/images/blog/bufo-toad-dog-safety-florida.webp"
 ---
 
 Your dog *will* encounter a toad in Florida. It's not a matter of if — it's when. And that toad might be a bufo, also known as a cane toad, which can kill your dog in 15 minutes if you don't know what to do.

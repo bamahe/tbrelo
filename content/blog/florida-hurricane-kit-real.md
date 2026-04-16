@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-hurricane-kit-real.jpg"
+featuredImage: "/images/blog/florida-hurricane-kit-real.webp"
 ---
 
 Look, if you're googling "hurricane supply list" at 2 AM while Category 3 winds are 48 hours out, you've already waited too long. But since you're here, let's skip the generic government checklists that tell you to buy 14 gallons of water per person (where exactly are you storing that in your 1,200 sq ft condo?) and talk about what you actually need to survive a Florida hurricane.

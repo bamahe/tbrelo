@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-title-insurance-explained.jpg"
+featuredImage: "/images/blog/florida-title-insurance-explained.webp"
 ---
 
 # Florida Title Insurance — Why It Costs More Here (And Who Really Pays)

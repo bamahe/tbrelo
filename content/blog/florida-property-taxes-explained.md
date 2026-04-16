@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-property-taxes-explained.jpg"
+featuredImage: "/images/blog/florida-property-taxes-explained.webp"
 ---
 
 # Florida Property Taxes Explained — County by County Breakdown

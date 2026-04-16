@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/living-in-haines-city-davenport-guide.jpg"
+featuredImage: /images/blog/default.webp
 ---
 
 # Living in Haines City / Davenport — What It's Really Like (Honest Relocation Guide)

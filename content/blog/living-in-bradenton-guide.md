@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/living-in-bradenton-guide.jpg"
+featuredImage: "/images/blog/living-in-bradenton-guide.webp"
 ---
 
 # Living in Bradenton (Deep Dive) — What It's Really Like (Honest Relocation Guide)

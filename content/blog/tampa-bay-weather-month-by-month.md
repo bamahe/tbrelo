@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-weather-month-by-month.jpg"
+featuredImage: "/images/blog/tampa-bay-weather-month-by-month.webp"
 ---
 
 The weather forecast says 85 degrees and sunny. Again. If you're considering a move to Tampa Bay, you've probably noticed our weather reports look suspiciously similar year-round. But here's the thing — there's actually more variation than those generic forecasts suggest, and knowing the real patterns will help you plan everything from your moving date to your first year's wardrobe.

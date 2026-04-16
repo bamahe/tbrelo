@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/moving-tampa-bay-elderly-parents.jpg"
+featuredImage: "/images/blog/moving-tampa-bay-elderly-parents.webp"
 ---
 
 Moving across the country is stressful enough. Add elderly parents to the equation, and the complexity multiplies exponentially. After 23 years helping families relocate to Tampa Bay, I've seen every variation of this scenario — and I can tell you the families who plan thoroughly make the transition infinitely smoother.

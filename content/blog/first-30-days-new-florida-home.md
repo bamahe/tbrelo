@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/first-30-days-new-florida-home.jpg"
+featuredImage: "/images/blog/first-30-days-new-florida-home.webp"
 ---
 
 Just closed on your Florida home? Congratulations — now comes the fun part. Those first 30 days are crucial for getting settled without losing your mind or your wallet. After 23 years helping families transition into Tampa Bay homes, I've seen what works (and what definitely doesn't).

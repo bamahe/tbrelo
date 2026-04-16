@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/best-sunscreen-florida.jpg"
+featuredImage: /images/blog/default.webp
 ---
 
 # Best Sunscreen for Florida — SPF, Reef-Safe, and What Works

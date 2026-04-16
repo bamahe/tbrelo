@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-driveway-green-algae.jpg"
+featuredImage: "/images/blog/florida-driveway-green-algae.webp"
 ---
 
 # Why Your Driveway Turns Green (And How to Fix It)

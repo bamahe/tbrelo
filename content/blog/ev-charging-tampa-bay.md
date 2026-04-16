@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/ev-charging-tampa-bay.jpg"
+featuredImage: "/images/blog/ev-charging-tampa-bay.webp"
 ---
 
 # Electric Vehicle Charging in Tampa Bay — Complete Map

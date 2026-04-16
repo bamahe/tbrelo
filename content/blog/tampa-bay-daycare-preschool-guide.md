@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-daycare-preschool-guide.jpg"
+featuredImage: /images/blog/default.webp
 ---
 
 # Tampa Bay Daycare and Preschool Guide: Real Talk on Finding Quality Care

@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/red-tide-tampa-bay-explained.jpg"
+featuredImage: "/images/blog/red-tide-tampa-bay-explained.webp"
 ---
 
 Red tide. Two words that can make any Tampa Bay local's stomach drop. If you're considering moving here or you're new to the area, you need to understand what this phenomenon is and how it might affect your life. I've been in Tampa Bay for over two decades, and I've lived through some brutal red tide events. Let me give you the straight facts.

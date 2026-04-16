@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/best-neighborhoods-families-young-kids-tampa-bay.jpg"
+featuredImage: "/images/blog/best-neighborhoods-families-young-kids-tampa-bay.webp"
 ---
 
 Finding the right neighborhood when you've got little ones in tow isn't just about finding a house — it's about finding a community where your family can thrive. After 23 years of helping families relocate to Tampa Bay, I've seen what matters most: walkable streets, top-rated schools, and that magical combination of suburban calm with city convenience.

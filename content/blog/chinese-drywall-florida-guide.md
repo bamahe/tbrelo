@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/chinese-drywall-florida-guide.jpg"
+featuredImage: "/images/blog/chinese-drywall-florida-guide.webp"
 ---
 
 # Chinese Drywall in Florida — Is It Still an Issue?

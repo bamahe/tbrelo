@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-urgent-care-er-guide.jpg"
+featuredImage: "/images/blog/tampa-bay-urgent-care-er-guide.webp"
 ---
 
 # Tampa Bay Urgent Care and ER Guide — Where to Go When

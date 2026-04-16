@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/floridians-summer-escape-mountains.jpg"
+featuredImage: "/images/blog/floridians-summer-escape-mountains.webp"
 ---
 
 You know what Florida's dirty little secret is? We all pretend we love the year-round sunshine and palm trees, but come July, half the state is plotting their escape north. I've been selling homes in Tampa Bay for 23 years, and I can tell you with absolute certainty — the smartest Floridians have figured out the summer migration pattern.

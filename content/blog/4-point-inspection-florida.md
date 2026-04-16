@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/4-point-inspection-florida.jpg"
+featuredImage: "/images/blog/4-point-inspection-florida.webp"
 ---
 
 # 4-Point Inspection in Florida — What It Covers and Why You Need It

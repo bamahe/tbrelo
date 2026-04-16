@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/back-to-school-tampa-bay.jpg"
+featuredImage: "/images/blog/back-to-school-tampa-bay.webp"
 ---
 
 # Back to School Tampa Bay — Everything Parents Need to Know

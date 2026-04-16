@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/farmers-market-shopping-guide-tampa-bay.jpg"
+featuredImage: "/images/blog/farmers-market-shopping-guide-tampa-bay.webp"
 ---
 
 # Tampa Bay Farmers Market Shopping Guide — What to Buy

@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-homes-under-300k.jpg"
+featuredImage: "/images/blog/tampa-bay-homes-under-300k.webp"
 ---
 
 # Tampa Bay Homes Under $300K — Where to Look in 2026

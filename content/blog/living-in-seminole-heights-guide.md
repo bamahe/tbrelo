@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/living-in-seminole-heights-guide.jpg"
+featuredImage: "/images/blog/living-in-seminole-heights-guide.webp"
 ---
 
 # Living in Seminole Heights — What It's Really Like (Honest Relocation Guide)

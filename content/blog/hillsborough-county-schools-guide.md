@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/hillsborough-county-schools-guide.jpg"
+featuredImage: "/images/blog/hillsborough-county-schools-guide.webp"
 ---
 
 # Hillsborough County Schools Guide — Every Zone Explained

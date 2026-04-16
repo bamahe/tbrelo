@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/best-generators-florida-hurricane.jpg"
+featuredImage: "/images/blog/best-generators-florida-hurricane.webp"
 ---
 
 When Hurricane Ian knocked out power to 2.7 million Floridians in 2022, I watched neighbors scramble for generators at Home Depot — only to find empty shelves. After 23 years of helping Tampa Bay families prepare for hurricane season, I've learned the hard truth: waiting until a storm's in the Gulf is too late.

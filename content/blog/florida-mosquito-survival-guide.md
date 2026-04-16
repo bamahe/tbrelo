@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-mosquito-survival-guide.jpg"
+featuredImage: "/images/blog/florida-mosquito-survival-guide.webp"
 ---
 
 Nobody warns you about the mosquitoes when you're browsing those gorgeous Tampa Bay real estate photos. The listing shows that perfect lanai overlooking the water, but it doesn't mention that stepping outside at dusk without armor is basically volunteering as a blood donor.

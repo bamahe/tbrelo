@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/military-pcs-tampa-bay-macdill.jpg"
+featuredImage: "/images/blog/military-pcs-tampa-bay-macdill.webp"
 ---
 
 # Military PCS to Tampa Bay — MacDill AFB Relocation Guide

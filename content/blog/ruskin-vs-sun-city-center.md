@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/ruskin-vs-sun-city-center.jpg"
+featuredImage: "/images/blog/ruskin-vs-sun-city-center.webp"
 ---
 
 # Ruskin vs Sun City Center: Which South Hillsborough Community Wins?

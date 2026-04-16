@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/best-wings-tampa-bay.jpg"
+featuredImage: "/images/blog/best-wings-tampa-bay.webp"
 ---
 
 Tampa Bay takes wings seriously. After 23 years of helping families relocate here, I've discovered that asking someone about their favorite wing spot reveals more about their personality than their mortgage pre-approval letter. This isn't just about food — it's about understanding what makes this region tick.

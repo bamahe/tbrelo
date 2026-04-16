@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-toll-roads-explained.jpg"
+featuredImage: "/images/blog/florida-toll-roads-explained.webp"
 ---
 
 You're driving down I-4, late for a meeting in Orlando, when you spot those dreaded overhead signs: "EXPRESS LANES $3.75." Your SunPass balance is mysteriously empty (again), and you're about to learn why Florida's toll system makes grown adults weep into their steering wheels.

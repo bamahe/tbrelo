@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-vpk-program-explained.jpg"
+featuredImage: "/images/blog/florida-vpk-program-explained.webp"
 ---
 
 If you're moving to Florida with a 4-year-old, you just hit the educational lottery. The Voluntary Prekindergarten (VPK) program gives every eligible child 540 hours of free preschool education. No income limits. No waiting lists. Just free, quality early education that prepares your kid for kindergarten.

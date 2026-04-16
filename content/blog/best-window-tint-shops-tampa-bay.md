@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/best-window-tint-shops-tampa-bay.jpg"
+featuredImage: "/images/blog/best-window-tint-shops-tampa-bay.webp"
 ---
 
 ## Why Window Tint Matters in Tampa Bay

@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/moving-from-minneapolis.jpg"
+featuredImage: "/images/blog/moving-from-minneapolis.webp"
 ---
 
 # Moving from Minneapolis to Tampa Bay — The Complete Relocation Guide

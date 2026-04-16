@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-running-events-calendar.jpg"
+featuredImage: "/images/blog/tampa-bay-running-events-calendar.webp"
 ---
 
 Tampa Bay's running scene isn't just about pounding pavement in humid weather — though you'll definitely do plenty of that. This region hosts some of the most well-organized races in Florida, from massive weekend festivals to intimate neighborhood 5Ks that actually feel like community events.

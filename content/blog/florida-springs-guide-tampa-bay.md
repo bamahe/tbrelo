@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-springs-guide-tampa-bay.jpg"
+featuredImage: "/images/blog/florida-springs-guide-tampa-bay.webp"
 ---
 
 # Florida Springs 101 — Every Spring Worth Visiting from Tampa Bay

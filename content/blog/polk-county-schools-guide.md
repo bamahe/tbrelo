@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/polk-county-schools-guide.jpg"
+featuredImage: "/images/blog/polk-county-schools-guide.webp"
 ---
 
 # The Complete Guide to Polk County Schools: What Tampa Bay Families Need to Know

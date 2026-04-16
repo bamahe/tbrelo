@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/living-in-inverness-lecanto-guide.jpg"
+featuredImage: "/images/blog/living-in-inverness-lecanto-guide.webp"
 ---
 
 # Living in Inverness / Lecanto — What It's Really Like (Honest Relocation Guide)

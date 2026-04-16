@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/emotional-side-relocating-florida.jpg"
+featuredImage: "/images/blog/emotional-side-relocating-florida.webp"
 ---
 
 Moving 3,000 miles from Portland to Tampa Bay seemed like the adventure of a lifetime. Three weeks in, Jennifer found herself crying in the produce aisle at Publix because they didn't carry the specific type of Pacific Northwest apples she'd grown up eating. Sound familiar?

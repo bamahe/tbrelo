@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/living-in-new-port-richey-vs-port-richey-guide.jpg"
+featuredImage: /images/blog/default.webp
 ---
 
 You're looking at two cities with nearly identical names, separated by about three miles and a world of difference in how they feel to live in. After 23+ years selling homes in Tampa Bay, I've walked countless families through both New Port Richey and Port Richey, and the choice between them comes down to what you value most: affordability or amenities.

@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/living-in-soho-south-howard-guide.jpg"
+featuredImage: "/images/blog/living-in-soho-south-howard-guide.webp"
 ---
 
 # Living in SoHo (South Howard) — What It's Really Like (Honest Relocation Guide)

@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/suburban-vs-urban-tampa-bay.jpg"
+featuredImage: "/images/blog/suburban-vs-urban-tampa-bay.webp"
 ---
 
 Moving to Tampa Bay means choosing between two distinctly different lifestyles. After 23 years of helping families relocate here, I've seen the suburban vs urban debate play out thousands of times. The truth? There's no universally "better" choice — just what works for your specific situation.

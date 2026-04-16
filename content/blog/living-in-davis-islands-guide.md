@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/living-in-davis-islands-guide.jpg"
+featuredImage: "/images/blog/living-in-davis-islands-guide.webp"
 ---
 
 Davis Islands sits in Tampa Bay like someone dropped a perfectly manicured suburb into the middle of downtown. After 23 years selling real estate here, I've watched families fall in love with this 893-acre playground — and I've also seen them get sticker shock when they realize what island living actually costs.

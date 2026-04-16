@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/best-grouper-sandwich-tampa-bay.jpg"
+featuredImage: /images/blog/default.webp
 ---
 
 # Best Grouper Sandwich in Tampa Bay — The Definitive Ranking

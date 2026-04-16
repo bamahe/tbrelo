@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/best-ceiling-fans-florida.jpg"
+featuredImage: "/images/blog/best-ceiling-fans-florida.webp"
 ---
 
 # Best Ceiling Fans for Florida Homes — Indoor and Outdoor

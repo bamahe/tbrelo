@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-food-truck-guide.jpg"
+featuredImage: "/images/blog/tampa-bay-food-truck-guide.webp"
 ---
 
 Tampa Bay's food truck scene isn't just about grabbing lunch from a window — it's become a legitimate dining culture that rivals our brick-and-mortar restaurants. After 23 years here, I've watched converted trailers evolve into mobile culinary experiences that often outshine establishments paying $15,000 a month in rent.

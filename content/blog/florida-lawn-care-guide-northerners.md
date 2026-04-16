@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-lawn-care-guide-northerners.jpg"
+featuredImage: "/images/blog/florida-lawn-care-guide-northerners.webp"
 ---
 
 Moving from Chicago, Buffalo, or Boston and thinking you'll master Florida lawn care with your weekend warrior skills? Hold up. Your Northern instincts will sabotage every blade of grass you touch.

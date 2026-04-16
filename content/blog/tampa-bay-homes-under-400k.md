@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-homes-under-400k.jpg"
+featuredImage: "/images/blog/tampa-bay-homes-under-400k.webp"
 ---
 
 The days of finding decent homes under $300K in Tampa Bay are mostly behind us, but $400K still opens real doors — if you know where to look. After helping hundreds of families navigate this price range over the past 23 years, I've seen which neighborhoods deliver actual value versus those that just look cheap on paper.

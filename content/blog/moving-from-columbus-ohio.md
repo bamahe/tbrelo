@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/moving-from-columbus-ohio.jpg"
+featuredImage: "/images/blog/moving-from-columbus-ohio.webp"
 ---
 
 Moving from Columbus to Tampa Bay means swapping snow boots for flip-flops and trading gray winters for year-round sunshine. After 23 years helping families make this exact transition, I've seen how this move transforms people's lives — and their bank accounts.

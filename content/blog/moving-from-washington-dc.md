@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/moving-from-washington-dc.jpg"
+featuredImage: "/images/blog/moving-from-washington-dc.webp"
 ---
 
 I've helped dozens of families make the move from the DC metro area to Tampa Bay, and honestly? It's one of the most dramatic lifestyle upgrades you can make. We're talking about trading $800,000 for a cramped townhouse in Fairfax for a waterfront home with a pool in St. Petersburg. Trading Metro delays for beach sunsets. Trading state income tax for... well, none.

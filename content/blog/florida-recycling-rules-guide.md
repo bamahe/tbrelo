@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-recycling-rules-guide.jpg"
+featuredImage: "/images/blog/florida-recycling-rules-guide.webp"
 ---
 
 # Florida Recycling Rules — What Actually Gets Recycled Here

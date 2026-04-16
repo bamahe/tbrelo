@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-lightning-capital-storms.jpg"
+featuredImage: "/images/blog/tampa-bay-lightning-capital-storms.webp"
 ---
 
 If you're researching a move to Tampa Bay, you've probably stumbled across our infamous nickname: Lightning Capital of the United States. It's not marketing hype — we genuinely get more lightning strikes per square mile than anywhere else in the country. After 23+ years of helping families relocate here, I've fielded countless questions about our summer thunderstorms.

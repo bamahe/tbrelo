@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/gasparilla-guide-tampa-bay.jpg"
+featuredImage: "/images/blog/gasparilla-guide-tampa-bay.webp"
 ---
 
 # Gasparilla 101 — Everything You Need to Know Before Your First Pirate Invasion

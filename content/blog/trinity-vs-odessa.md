@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/trinity-vs-odessa.jpg"
+featuredImage: "/images/blog/trinity-vs-odessa.webp"
 ---
 
 ![Aerial view showing Trinity and Odessa neighborhoods with suburban homes and tree-lined streets](PLACEHOLDER)

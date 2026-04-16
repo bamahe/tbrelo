@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-hospitals-ranked.jpg"
+featuredImage: "/images/blog/tampa-bay-hospitals-ranked.webp"
 ---
 
 When you're relocating to Tampa Bay, knowing where to find quality healthcare isn't just smart planning — it's essential. After 23+ years helping families move here, I've seen too many people scramble to find good medical care when they need it most. Here's your complete guide to every major hospital system in Tampa Bay, ranked by what actually matters: quality of care, wait times, and how they treat you when you're vulnerable.

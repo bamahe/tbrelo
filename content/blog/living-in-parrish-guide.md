@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/living-in-parrish-guide.jpg"
+featuredImage: "/images/blog/living-in-parrish-guide.webp"
 ---
 
 # Living in Parrish (Deep Dive) — What It's Really Like (Honest Relocation Guide)

@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/pinellas-county-schools-guide.jpg"
+featuredImage: "/images/blog/pinellas-county-schools-guide.webp"
 ---
 
 # Pinellas County Schools Guide — Zones and Choice Programs

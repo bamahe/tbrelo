@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/moving-from-richmond-va.jpg"
+featuredImage: "/images/blog/moving-from-richmond-va.webp"
 ---
 
 # Moving from Richmond VA to Tampa Bay — The Complete Relocation Guide

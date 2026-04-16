@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/parrish-vs-ellenton.jpg"
+featuredImage: "/images/blog/parrish-vs-ellenton.webp"
 ---
 
 Two communities separated by just a few miles and the Manatee River, yet worlds apart in character. After helping families choose between Parrish and Ellenton for over two decades, I can tell you this decision comes down to what you value most: small-town charm with rapid growth versus historic character with established amenities.

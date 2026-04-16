@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/uber-lyft-tampa-bay-guide.jpg"
+featuredImage: "/images/blog/uber-lyft-tampa-bay-guide.webp"
 ---
 
 # Uber and Lyft in Tampa Bay — Coverage, Costs, and Tips

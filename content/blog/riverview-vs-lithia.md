@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/riverview-vs-lithia.jpg"
+featuredImage: "/images/blog/riverview-vs-lithia.webp"
 ---
 
 # Riverview vs Lithia — Which Is Better for Relocators?

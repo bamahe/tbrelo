@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/best-pressure-washers-florida.jpg"
+featuredImage: /images/blog/default.webp
 ---
 
 # Best Pressure Washers for Florida Driveways and Pools: A Local's Guide to Fighting Algae, Mildew, and Pool Deck Stains

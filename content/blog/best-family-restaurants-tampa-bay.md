@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/best-family-restaurants-tampa-bay.jpg"
+featuredImage: "/images/blog/best-family-restaurants-tampa-bay.webp"
 ---
 
 # Best Family Restaurants in Tampa Bay — Where Kids Eat Free

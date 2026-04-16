@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-vs-sarasota-metro.jpg"
+featuredImage: "/images/blog/tampa-bay-vs-sarasota-metro.webp"
 ---
 
 # Tampa Bay vs Sarasota (Metro) — Which Is Better for Relocators?

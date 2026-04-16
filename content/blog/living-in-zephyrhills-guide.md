@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/living-in-zephyrhills-guide.jpg"
+featuredImage: "/images/blog/living-in-zephyrhills-guide.webp"
 ---
 
 # Living in Zephyrhills: The Real Story Behind Central Florida's Spring Water Capital

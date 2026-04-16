@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-power-outage-survival.jpg"
+featuredImage: "/images/blog/florida-power-outage-survival.webp"
 ---
 
 # Florida Power Outage Survival: What Happens When the AC Dies

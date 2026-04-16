@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/artists-creatives-tampa-bay.jpg"
+featuredImage: "/images/blog/artists-creatives-tampa-bay.webp"
 ---
 
 Tampa Bay isn't just condos and beaches. It's become one of the Southeast's most vibrant creative hubs, and I've watched this transformation firsthand over my 23 years selling homes here. Artists who once fled to New York or LA are now staying put — or moving here intentionally.

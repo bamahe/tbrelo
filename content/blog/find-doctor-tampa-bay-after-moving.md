@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/find-doctor-tampa-bay-after-moving.jpg"
+featuredImage: "/images/blog/find-doctor-tampa-bay-after-moving.webp"
 ---
 
 # How to Find a Doctor in Tampa Bay After Moving

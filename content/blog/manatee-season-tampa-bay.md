@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/manatee-season-tampa-bay.jpg"
+featuredImage: "/images/blog/manatee-season-tampa-bay.webp"
 ---
 
 # Manatee Season in Tampa Bay — Where and When to See Them

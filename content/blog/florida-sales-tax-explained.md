@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-sales-tax-explained.jpg"
+featuredImage: "/images/blog/florida-sales-tax-explained.webp"
 ---
 
 # Florida Sales Tax Explained — What's Taxed and What's Not

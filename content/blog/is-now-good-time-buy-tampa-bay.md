@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/is-now-good-time-buy-tampa-bay.jpg"
+featuredImage: "/images/blog/is-now-good-time-buy-tampa-bay.webp"
 ---
 
 The question hits my inbox at least three times a week: "Barrett, is now a good time to buy in Tampa Bay?" After 23 years of helping families navigate this market, I'll give you the straight answer — it depends on your situation, but the market fundamentals are stronger than the headlines suggest.

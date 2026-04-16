@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/best-bakeries-tampa-bay.jpg"
+featuredImage: "/images/blog/best-bakeries-tampa-bay.webp"
 ---
 
 # Best Bakeries in Tampa Bay: Where to Find the Area's Finest Breads, Pastries, and Custom Cakes

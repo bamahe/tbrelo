@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/va-loan-tampa-bay-guide.jpg"
+featuredImage: "/images/blog/va-loan-tampa-bay-guide.webp"
 ---
 
 # VA Loan Home Buying in Tampa Bay — The Military Buyer's Guide

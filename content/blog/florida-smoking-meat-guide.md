@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-smoking-meat-guide.jpg"
+featuredImage: "/images/blog/florida-smoking-meat-guide.webp"
 ---
 
 # How to Smoke Meat in Florida Without Melting (A Sweaty Realtor's Guide)

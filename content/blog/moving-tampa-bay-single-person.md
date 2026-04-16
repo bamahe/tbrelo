@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/moving-tampa-bay-single-person.jpg"
+featuredImage: "/images/blog/moving-tampa-bay-single-person.webp"
 ---
 
 Moving to Tampa Bay solo? Smart move. After 23 years helping people relocate here, I've seen hundreds of single professionals, recent grads, and career-changers make this transition successfully. The trick isn't just finding a place to live — it's finding the *right* place that matches your lifestyle, budget, and social goals.

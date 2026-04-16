@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/veteran-military-neighborhoods-tampa-bay.jpg"
+featuredImage: "/images/blog/veteran-military-neighborhoods-tampa-bay.webp"
 ---
 
 After 23+ years helping military families find homes in Tampa Bay, I've learned that veterans and active-duty service members have unique needs when choosing a neighborhood. You're looking for more than just low crime rates and good schools — though those matter too. You want proximity to VA facilities, a community that understands military life, and practical considerations like resale value when orders inevitably come.

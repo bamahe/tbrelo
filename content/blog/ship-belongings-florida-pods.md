@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/ship-belongings-florida-pods.jpg"
+featuredImage: "/images/blog/ship-belongings-florida-pods.webp"
 ---
 
 # How to Ship Your Stuff to Florida — PODS, U-Pack, and More

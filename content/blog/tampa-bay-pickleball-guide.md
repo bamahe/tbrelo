@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-pickleball-guide.jpg"
+featuredImage: "/images/blog/tampa-bay-pickleball-guide.webp"
 ---
 
 Pickleball has exploded across Tampa Bay faster than a well-placed dink shot. What started as a retirement community activity has become the area's fastest-growing sport, attracting everyone from 20-something professionals to competitive retirees. After 23 years of helping families relocate here, I've watched entire neighborhoods spring up around pickleball facilities.

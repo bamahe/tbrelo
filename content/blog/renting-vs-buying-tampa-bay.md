@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/renting-vs-buying-tampa-bay.jpg"
+featuredImage: /images/blog/default.webp
 ---
 
 ![A split image showing a rental apartment building and a home for sale in Tampa Bay](PLACEHOLDER)

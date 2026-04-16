@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-vs-jacksonville.jpg"
+featuredImage: "/images/blog/tampa-bay-vs-jacksonville.webp"
 ---
 
 # Tampa Bay vs Jacksonville — Which Is Better for Relocators?

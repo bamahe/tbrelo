@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/living-in-spring-hill-guide.jpg"
+featuredImage: /images/blog/default.webp
 ---
 
 Spring Hill sits right on that sweet spot where Hernando County meets suburban comfort, about 45 minutes north of downtown Tampa. It's one of those places that surprises newcomers — what looks like typical Florida suburban sprawl on the surface actually offers some genuine small-town charm mixed with surprising amenities.

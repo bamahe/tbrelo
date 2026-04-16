@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-closing-costs-explained.jpg"
+featuredImage: "/images/blog/florida-closing-costs-explained.webp"
 ---
 
 # Closing Costs in Florida — What Buyers and Sellers Actually Pay

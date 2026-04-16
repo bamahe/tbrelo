@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-vs-atlanta.jpg"
+featuredImage: "/images/blog/tampa-bay-vs-atlanta.webp"
 ---
 
 Looking at Tampa Bay versus Atlanta for your next move? I've been helping families make this exact decision for over two decades, and honestly, both cities have changed dramatically since the early 2000s. Let me break down what you're really getting into with each metro area.

@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-lightning-fan-guide.jpg"
+featuredImage: "/images/blog/tampa-bay-lightning-fan-guide.webp"
 ---
 
 So you're moving to Tampa Bay and wondering what all the Lightning buzz is about? Welcome to Bolts Nation — where hockey isn't just a sport, it's a religion, and Amalie Arena is our cathedral.

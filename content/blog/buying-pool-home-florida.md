@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/buying-pool-home-florida.jpg"
+featuredImage: "/images/blog/buying-pool-home-florida.webp"
 ---
 
 # Buying a Home with a Pool in Florida — The Complete Guide

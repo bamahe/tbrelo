@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/moving-from-nashville-move.jpg"
+featuredImage: "/images/blog/moving-from-nashville-move.webp"
 ---
 
 # Moving from Nashville to Tampa Bay — The Complete Relocation Guide

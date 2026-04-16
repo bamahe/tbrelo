@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-colleges-universities-guide.jpg"
+featuredImage: "/images/blog/tampa-bay-colleges-universities-guide.webp"
 ---
 
 # USF, UT, and Tampa Bay Colleges — Guide for Families

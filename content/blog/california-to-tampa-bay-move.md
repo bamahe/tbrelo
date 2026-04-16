@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/california-to-tampa-bay-move.jpg"
+featuredImage: "/images/blog/california-to-tampa-bay-move.webp"
 ---
 
 # Moving to Tampa Bay from California — The Real Comparison

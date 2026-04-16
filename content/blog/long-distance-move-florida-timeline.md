@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/long-distance-move-florida-timeline.jpg"
+featuredImage: "/images/blog/long-distance-move-florida-timeline.webp"
 ---
 
 # How to Plan a Long-Distance Move to Florida — Complete Timeline

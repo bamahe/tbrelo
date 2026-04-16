@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/i-4-tampa-guide.jpg"
+featuredImage: "/images/blog/i-4-tampa-guide.webp"
 ---
 
 Interstate 4 through Tampa Bay isn't just a highway — it's a daily psychological test that 400,000+ drivers take every single day. After 23 years of helping families relocate here, I've watched this concrete ribbon transform from merely congested to genuinely challenging. But here's the thing: once you understand I-4's personality, you can work with it instead of against it.

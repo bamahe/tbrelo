@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/best-home-insurance-companies-florida.jpg"
+featuredImage: "/images/blog/best-home-insurance-companies-florida.webp"
 ---
 
 # Best Home Insurance Companies in Florida — Ranked

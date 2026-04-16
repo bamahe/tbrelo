@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/best-water-filter-florida.jpg"
+featuredImage: /images/blog/default.webp
 ---
 
 Let's talk about Florida water — because if you're moving here from somewhere with decent tap water, you're in for a shock. After 23 years of selling homes across Tampa Bay, I've watched countless families discover that their pristine new house comes with water that tastes like a swimming pool and leaves white spots on everything.

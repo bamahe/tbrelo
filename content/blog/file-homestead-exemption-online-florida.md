@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/file-homestead-exemption-online-florida.jpg"
+featuredImage: "/images/blog/file-homestead-exemption-online-florida.webp"
 ---
 
 # How to File for Florida Homestead Exemption Online (Step by Step)

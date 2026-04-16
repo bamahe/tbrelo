@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-sports-bars-guide.jpg"
+featuredImage: "/images/blog/tampa-bay-sports-bars-guide.webp"
 ---
 
 Whether you're a die-hard Bucs fan, Lightning faithful, or just need a reliable spot to catch the big game, Tampa Bay's sports bar scene delivers. After 23+ years of living here and helping families find their perfect neighborhoods, I've sampled more wings and watched more games than I care to admit. Here's your definitive guide to the sports bars that actually matter in Tampa Bay.

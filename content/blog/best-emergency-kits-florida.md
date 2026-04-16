@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/best-emergency-kits-florida.jpg"
+featuredImage: "/images/blog/best-emergency-kits-florida.webp"
 ---
 
 After 23 years helping families move to Tampa Bay, I've seen too many newcomers get caught off-guard by their first hurricane season. Last August, I watched a client frantically drive between empty shelves at three different Publix stores, looking for basic supplies while Idalia approached. Don't be that person.

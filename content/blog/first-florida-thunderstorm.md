@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/first-florida-thunderstorm.jpg"
+featuredImage: "/images/blog/first-florida-thunderstorm.webp"
 ---
 
 # Your First Florida Thunderstorm — What Nobody Warned You About

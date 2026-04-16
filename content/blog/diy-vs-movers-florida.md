@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/diy-vs-movers-florida.jpg"
+featuredImage: "/images/blog/diy-vs-movers-florida.webp"
 ---
 
 # DIY vs Hiring Movers: The Real Cost Comparison for Florida

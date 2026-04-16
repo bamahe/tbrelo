@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/how-much-house-afford-tampa-bay.jpg"
+featuredImage: "/images/blog/how-much-house-afford-tampa-bay.webp"
 ---
 
 The $400,000 question everyone asks me: "Barrett, how much house can I actually afford in Tampa Bay?" 

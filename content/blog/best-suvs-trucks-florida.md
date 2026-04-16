@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/best-suvs-trucks-florida.jpg"
+featuredImage: "/images/blog/best-suvs-trucks-florida.webp"
 ---
 
 Living in Florida for over two decades, I've seen plenty of folks roll into Tampa Bay driving vehicles that seemed perfect on the dealer lot up north — until they hit their first torrential downpour or tried to haul beach gear for a family of five. Florida living demands different priorities than most other states, and I've watched too many new residents learn this the hard way.

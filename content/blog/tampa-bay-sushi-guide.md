@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-sushi-guide.jpg"
+featuredImage: "/images/blog/tampa-bay-sushi-guide.webp"
 ---
 
 Tampa Bay's sushi scene has exploded over the past decade. What started as a handful of strip-mall spots has evolved into a legitimate destination for raw fish enthusiasts. After 23 years of exploring every corner of this region, I've watched neighborhoods transform and culinary scenes mature — and our sushi game is no exception.

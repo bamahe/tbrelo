@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/st-pete-clearwater-airport-guide.jpg"
+featuredImage: "/images/blog/st-pete-clearwater-airport-guide.webp"
 ---
 
 Let me tell you about Tampa Bay's best-kept aviation secret: St. Pete-Clearwater International Airport (PIE). While everyone fights traffic to get to Tampa International, smart locals are quietly saving hundreds of dollars and skipping the crowds at this smaller, more convenient option.

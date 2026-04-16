@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/move-car-to-florida.jpg"
+featuredImage: "/images/blog/move-car-to-florida.webp"
 ---
 
 You're relocating to Tampa Bay, and now you're staring at your car wondering: do I drive this thing 1,200 miles, pay someone to haul it, or figure out something else entirely? After helping 500+ families move here over 23 years, I've seen every variation of this decision — and the regrets that follow bad choices.

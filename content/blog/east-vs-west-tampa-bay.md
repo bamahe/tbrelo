@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/east-vs-west-tampa-bay.jpg"
+featuredImage: "/images/blog/east-vs-west-tampa-bay.webp"
 ---
 
 When you're looking at Tampa Bay on a map, that body of water creates the most important decision you'll make about where to live: east side or west side? After 23 years of helping families navigate this choice, I can tell you it's not just geography — it's lifestyle, commute patterns, and what you value most in daily life.

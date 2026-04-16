@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-homeschool-guide.jpg"
+featuredImage: "/images/blog/tampa-bay-homeschool-guide.webp"
 ---
 
 # Tampa Bay Homeschool Guide for Relocating Families

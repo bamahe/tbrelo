@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/healthcare-worker-living-tampa-bay.jpg"
+featuredImage: "/images/blog/healthcare-worker-living-tampa-bay.webp"
 ---
 
 # Living in Tampa Bay as a Nurse or Healthcare Worker

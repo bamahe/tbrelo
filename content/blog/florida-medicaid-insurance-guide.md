@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-medicaid-insurance-guide.jpg"
+featuredImage: "/images/blog/florida-medicaid-insurance-guide.webp"
 ---
 
 Moving to Florida means navigating a new healthcare landscape — and frankly, it's more confusing than Tampa's downtown street grid after a few drinks on Howard Avenue. But here's the straight talk: Florida's approach to health insurance and Medicaid is different from many states, and understanding these differences could save you thousands of dollars and a lot of headaches.

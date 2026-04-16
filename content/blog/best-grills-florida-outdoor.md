@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/best-grills-florida-outdoor.jpg"
+featuredImage: "/images/blog/best-grills-florida-outdoor.webp"
 ---
 
 # Best Grills for Florida Outdoor Cooking: A Local's Complete Guide

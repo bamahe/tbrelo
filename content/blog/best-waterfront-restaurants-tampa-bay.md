@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/best-waterfront-restaurants-tampa-bay.jpg"
+featuredImage: "/images/blog/best-waterfront-restaurants-tampa-bay.webp"
 ---
 
 # Best Waterfront Restaurants in Tampa Bay: Where Great Food Meets Million-Dollar Views

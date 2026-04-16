@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/living-in-hyde-park-guide.jpg"
+featuredImage: /images/blog/default.webp
 ---
 
 # Living in Hyde Park — What It's Really Like (Honest Relocation Guide)

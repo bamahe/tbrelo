@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-snakes-guide.jpg"
+featuredImage: "/images/blog/florida-snakes-guide.webp"
 ---
 
 # Florida Snakes: The Ones That Can Kill You vs The Ones That Won't

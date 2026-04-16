@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-pool-ownership-cost.jpg"
+featuredImage: "/images/blog/florida-pool-ownership-cost.webp"
 ---
 
 # The Real Cost of Pool Ownership in Florida (It's Not What You Think)

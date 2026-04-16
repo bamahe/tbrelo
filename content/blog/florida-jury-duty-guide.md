@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-jury-duty-guide.jpg"
+featuredImage: "/images/blog/florida-jury-duty-guide.webp"
 ---
 
 # Florida Jury Duty — What to Expect as a New Resident

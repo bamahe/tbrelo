@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/seminole-vs-largo.jpg"
+featuredImage: "/images/blog/seminole-vs-largo.webp"
 ---
 
 Two neighborhoods. Three miles apart. Completely different vibes.

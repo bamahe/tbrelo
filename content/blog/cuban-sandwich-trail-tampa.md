@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/cuban-sandwich-trail-tampa.jpg"
+featuredImage: /images/blog/default.webp
 ---
 
 Look, I'm going to level with you — Tampa's Cuban sandwich game is serious business. After 23 years of showing houses all over this city, I've eaten my weight in Cubanos from Ybor to Westchase. Some places nail it, others serve you disappointment between two slices of bread.

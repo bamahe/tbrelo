@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/north-port-vs-port-charlotte.jpg"
+featuredImage: /images/blog/default.webp
 ---
 
 Two cities, one letter difference in their names, and about 20 miles separating them — but North Port and Port Charlotte couldn't be more different when it comes to lifestyle, cost, and what you'll actually experience living there.

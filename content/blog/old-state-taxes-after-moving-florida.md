@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/old-state-taxes-after-moving-florida.jpg"
+featuredImage: "/images/blog/old-state-taxes-after-moving-florida.webp"
 ---
 
 Moving to Florida means saying goodbye to state income tax forever — but your old state isn't letting you off the hook quite so easily. After helping Tampa Bay families relocate for over two decades, I've seen plenty of folks stumble through their final tax obligations, sometimes paying way more than necessary or missing critical deadlines.

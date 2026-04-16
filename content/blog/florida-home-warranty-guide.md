@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-home-warranty-guide.jpg"
+featuredImage: "/images/blog/florida-home-warranty-guide.webp"
 ---
 
 # Florida Home Warranty — Worth It or Waste of Money?

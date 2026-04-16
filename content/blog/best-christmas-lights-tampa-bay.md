@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/best-christmas-lights-tampa-bay.jpg"
+featuredImage: "/images/blog/best-christmas-lights-tampa-bay.webp"
 ---
 
 December in Tampa Bay means 80-degree Christmas mornings and holiday light displays that rival anything up north — minus the frozen fingers and snow boots. After 23+ years showing families around these neighborhoods, I've watched this region transform into a legitimate Christmas lights destination that draws visitors from across Florida.

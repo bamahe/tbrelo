@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/college-grads-tampa-bay.jpg"
+featuredImage: "/images/blog/college-grads-tampa-bay.webp"
 ---
 
 # Tampa Bay for Recent College Grads: Your Complete Guide to Starting Life Here

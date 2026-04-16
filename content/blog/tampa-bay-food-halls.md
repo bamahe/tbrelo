@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-food-halls.jpg"
+featuredImage: "/images/blog/tampa-bay-food-halls.webp"
 ---
 
 Food halls have transformed Tampa Bay's dining scene from scattered strip malls into vibrant culinary destinations where you can sample everything from Korean BBQ to Cuban sandwiches without leaving the building. After 23 years of showing clients around the Bay Area, I've watched these spaces evolve from afterthoughts into genuine community gathering places.

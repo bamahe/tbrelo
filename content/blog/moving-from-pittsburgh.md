@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/moving-from-pittsburgh.jpg"
+featuredImage: "/images/blog/moving-from-pittsburgh.webp"
 ---
 
 # Moving from Pittsburgh to Tampa Bay — The Complete Relocation Guide

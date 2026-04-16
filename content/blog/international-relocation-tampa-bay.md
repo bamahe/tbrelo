@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/international-relocation-tampa-bay.jpg"
+featuredImage: "/images/blog/international-relocation-tampa-bay.webp"
 ---
 
 Moving to Tampa Bay from another country isn't just about finding a house — it's about navigating visa requirements, understanding American culture, and figuring out everything from banking to school enrollment. After 23+ years helping international families relocate here, I've seen the common hurdles and know what actually works.

@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/making-friends-florida-transplant.jpg"
+featuredImage: "/images/blog/making-friends-florida-transplant.webp"
 ---
 
 # How to Make Friends as a Florida Transplant (It's Different Here)

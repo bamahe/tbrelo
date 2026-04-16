@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/moving-florida-senior-guide.jpg"
+featuredImage: "/images/blog/moving-florida-senior-guide.webp"
 ---
 
 Moving to Florida isn't just about sunshine and beaches when you're 55-plus. After two decades of helping families relocate to Tampa Bay, I've learned that seniors face unique challenges that younger movers never consider. Let me walk you through what really matters.

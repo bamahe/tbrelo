@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/living-tampa-bay-50k-salary.jpg"
+featuredImage: "/images/blog/living-tampa-bay-50k-salary.webp"
 ---
 
 # Living in Tampa Bay on a $50K Salary: A Realistic Guide to Making It Work

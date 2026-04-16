@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/find-real-estate-agent-tampa-bay.jpg"
+featuredImage: "/images/blog/find-real-estate-agent-tampa-bay.webp"
 ---
 
 # How to Find a Real Estate Agent in Tampa Bay (What to Look For)

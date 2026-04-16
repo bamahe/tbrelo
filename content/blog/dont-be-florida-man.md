@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/dont-be-florida-man.jpg"
+featuredImage: "/images/blog/dont-be-florida-man.webp"
 ---
 
 Look, after 23+ years in Tampa Bay, I've seen enough tourists, transplants, and even longtime residents make headlines for all the wrong reasons. The "Florida Man" phenomenon isn't just a meme — it's a cautionary tale about what happens when common sense meets Florida's unique cocktail of heat, humidity, wildlife, and year-round tourist energy.

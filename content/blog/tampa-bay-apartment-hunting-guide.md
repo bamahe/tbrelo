@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-apartment-hunting-guide.jpg"
+featuredImage: "/images/blog/tampa-bay-apartment-hunting-guide.webp"
 ---
 
 # Tampa Bay Apartment Hunting Guide for Relocators

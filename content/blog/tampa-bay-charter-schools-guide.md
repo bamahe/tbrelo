@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-charter-schools-guide.jpg"
+featuredImage: "/images/blog/tampa-bay-charter-schools-guide.webp"
 ---
 
 # Tampa Bay Charter Schools — What Parents Need to Know

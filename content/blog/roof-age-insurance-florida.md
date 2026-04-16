@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/roof-age-insurance-florida.jpg"
+featuredImage: "/images/blog/roof-age-insurance-florida.webp"
 ---
 
 Your Florida home's roof isn't just protection from the elements — it's your insurance company's favorite excuse to drop you. After 23 years of helping Tampa Bay families buy homes, I've watched too many deals fall apart because nobody explained the brutal reality of Florida's roof age rules.

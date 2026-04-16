@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/moving-from-indianapolis.jpg"
+featuredImage: "/images/blog/moving-from-indianapolis.webp"
 ---
 
 Moving from the Circle City to the Sunshine State isn't just a change of address — it's a complete lifestyle upgrade. After helping dozens of Indianapolis families make this exact move over the past 23 years, I can tell you the transition hits differently than most relocations.

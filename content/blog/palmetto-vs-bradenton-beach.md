@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/palmetto-vs-bradenton-beach.jpg"
+featuredImage: "/images/blog/palmetto-vs-bradenton-beach.webp"
 ---
 
 You're house hunting on Florida's Manatee Coast and keep hearing about Palmetto and Bradenton Beach. Makes sense — they're both waterfront communities with reasonable price points compared to Tampa or Sarasota. But they couldn't be more different.

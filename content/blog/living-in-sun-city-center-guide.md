@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/living-in-sun-city-center-guide.jpg"
+featuredImage: "/images/blog/living-in-sun-city-center-guide.webp"
 ---
 
 # Living in Sun City Center — What It's Really Like (Honest Relocation Guide)

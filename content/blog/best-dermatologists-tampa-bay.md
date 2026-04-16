@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/best-dermatologists-tampa-bay.jpg"
+featuredImage: "/images/blog/best-dermatologists-tampa-bay.webp"
 ---
 
 Living in Tampa Bay means 330+ days of sunshine annually — which explains why finding a good dermatologist here isn't optional, it's survival strategy. After 23 years of helping families relocate to our sunny paradise, I've watched too many newcomers learn the hard way that Florida sun doesn't mess around.

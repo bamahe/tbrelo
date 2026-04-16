@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/best-paddleboards-tampa-bay.jpg"
+featuredImage: "/images/blog/best-paddleboards-tampa-bay.webp"
 ---
 
 ## Best Paddleboards for Tampa Bay Waters: A Local's Complete Guide

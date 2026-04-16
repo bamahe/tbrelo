@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/waterfront-vs-inland-tampa-bay.jpg"
+featuredImage: "/images/blog/waterfront-vs-inland-tampa-bay.webp"
 ---
 
 You're relocating to Tampa Bay and facing the classic question: waterfront or inland? After 23+ years helping families make this choice, I'll give you the straight story on both options. No sugar-coating, no generic advice — just real talk about what each lifestyle actually costs and delivers.

@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-bicycle-guide.jpg"
+featuredImage: "/images/blog/tampa-bay-bicycle-guide.webp"
 ---
 
 Tampa Bay's bike infrastructure has transformed dramatically over the past decade. As someone who's lived here for over two decades, I've watched dirt paths become paved trails and hostile car-centric roads sprout protected bike lanes. The region now offers nearly 300 miles of trails, thousands of bike rack spaces, and a growing network of bike-friendly communities.

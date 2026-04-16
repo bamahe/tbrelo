@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-tornado-risk.jpg"
+featuredImage: "/images/blog/tampa-bay-tornado-risk.webp"
 ---
 
 You've seen the headlines: "Tampa Bay Tornado Warning" or "Funnel Cloud Spotted Over Pinellas." If you're moving here from tornado-prone states like Oklahoma or Kansas, you might think, "Great, I came to Florida to escape this stuff." If you're coming from tornado-free zones like Southern California, you're probably wondering what you've gotten yourself into.

@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-snowbird-season-guide.jpg"
+featuredImage: "/images/blog/florida-snowbird-season-guide.webp"
 ---
 
 If you're moving to Tampa Bay, nobody warns you about the Great Snowbird Migration. One day you're cruising to work in 15 minutes, the next you're trapped behind a Buick with Michigan plates doing 35 in the left lane. Welcome to Florida life.

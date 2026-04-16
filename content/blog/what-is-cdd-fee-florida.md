@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/what-is-cdd-fee-florida.jpg"
+featuredImage: "/images/blog/what-is-cdd-fee-florida.webp"
 ---
 
 You're house hunting in Tampa Bay and find the perfect home. Great neighborhood, solid schools, reasonable price. Then you see it on the disclosure: "CDD Fee: $1,847 annually." Your agent mumbles something about infrastructure, but what does that actually mean for your wallet?

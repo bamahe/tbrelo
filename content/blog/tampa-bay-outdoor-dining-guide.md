@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-outdoor-dining-guide.jpg"
+featuredImage: "/images/blog/tampa-bay-outdoor-dining-guide.webp"
 ---
 
 # Tampa Bay Outdoor Dining Guide — Year-Round Patio Season

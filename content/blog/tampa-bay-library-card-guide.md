@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-library-card-guide.jpg"
+featuredImage: "/images/blog/tampa-bay-library-card-guide.webp"
 ---
 
 Getting a library card should be your first stop after the moving boxes are unpacked and the utilities are connected. Tampa Bay's library systems offer way more than books — we're talking free streaming services, career resources, maker spaces with 3D printers, and even free museum passes. After 23 years helping families relocate here, I've seen too many newcomers miss out on thousands of dollars in free resources simply because they didn't know what was available.

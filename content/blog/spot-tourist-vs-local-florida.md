@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/spot-tourist-vs-local-florida.jpg"
+featuredImage: "/images/blog/spot-tourist-vs-local-florida.webp"
 ---
 
 You've been here five minutes and think you can spot the difference between a Florida tourist and a local? Think again. After 23+ years in Tampa Bay, I've watched thousands of newcomers confidently point out "obvious tourists" — only to discover they're lifelong Floridians. The truth is more nuanced than your typical "sunburn vs tan" listicle.

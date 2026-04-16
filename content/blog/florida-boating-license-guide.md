@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-boating-license-guide.jpg"
+featuredImage: "/images/blog/florida-boating-license-guide.webp"
 ---
 
 ## Getting Your Florida Boating License — The Real Story

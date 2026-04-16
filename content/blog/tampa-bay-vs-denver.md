@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-vs-denver.jpg"
+featuredImage: "/images/blog/tampa-bay-vs-denver.webp"
 ---
 
 You're standing at a crossroads that thousands of Americans face every year: Tampa Bay's palm trees and year-round warmth versus Denver's mountain views and four distinct seasons. I've helped families make this exact choice for over two decades, and trust me — it's not as obvious as you think.

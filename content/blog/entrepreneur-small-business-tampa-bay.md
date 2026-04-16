@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/entrepreneur-small-business-tampa-bay.jpg"
+featuredImage: "/images/blog/entrepreneur-small-business-tampa-bay.webp"
 ---
 
 # Tampa Bay for Entrepreneurs and Small Business Owners

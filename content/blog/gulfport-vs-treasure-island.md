@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/gulfport-vs-treasure-island.jpg"
+featuredImage: /images/blog/default.webp
 ---
 
 Two waterfront gems on opposite sides of the Pinellas Peninsula, Gulfport and Treasure Island couldn't be more different despite sharing the same county. After 23 years showing homes in both communities, I've watched families make this exact choice dozens of times — and the "right" answer always comes down to lifestyle.

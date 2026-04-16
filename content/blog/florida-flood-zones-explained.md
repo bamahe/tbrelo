@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-flood-zones-explained.jpg"
+featuredImage: "/images/blog/florida-flood-zones-explained.webp"
 ---
 
 Looking to buy a home in Tampa Bay? You've probably seen those mysterious flood zone letters on property listings — AE, VE, X500, and just plain X. Here's the thing: most real estate agents will tell you "Flood Zone X means you're safe!" But after 23 years of helping families navigate Tampa Bay real estate, I'm going to give you the real story about what these zones actually mean for your wallet and your peace of mind.

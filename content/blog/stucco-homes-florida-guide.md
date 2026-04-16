@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/stucco-homes-florida-guide.jpg"
+featuredImage: "/images/blog/stucco-homes-florida-guide.webp"
 ---
 
 # Stucco Homes in Florida — What Buyers Should Know

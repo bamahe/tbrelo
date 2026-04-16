@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-pest-control-guide.jpg"
+featuredImage: "/images/blog/florida-pest-control-guide.webp"
 ---
 
 # Florida Pest Control — The Monthly Spray Is Not Optional

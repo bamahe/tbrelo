@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-closet-mold-prevention.jpg"
+featuredImage: "/images/blog/florida-closet-mold-prevention.webp"
 ---
 
 Your closet shouldn't smell like a swamp, but here in Tampa Bay, that's exactly what happens if you're not paying attention. After 23 years selling homes across Florida, I've seen enough moldy closets to know this isn't just a "minor maintenance issue" — it's a full-time battle against Mother Nature.

@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/break-lease-move-florida.jpg"
+featuredImage: "/images/blog/break-lease-move-florida.webp"
 ---
 
 # How to Break a Lease to Move to Florida: A Practical Guide That Won't Bankrupt You

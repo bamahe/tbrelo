@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/transfer-prescriptions-florida.jpg"
+featuredImage: "/images/blog/transfer-prescriptions-florida.webp"
 ---
 
 Moving to Florida means dealing with a mountain of logistics, and prescription transfers often slip through the cracks until you're standing at a Tampa pharmacy counter realizing your meds are still tied to a CVS in Cleveland. Here's the reality: Florida has specific rules about prescription transfers, and understanding them before you move will save you headaches, money, and potential gaps in your medication routine.

@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/best-coffee-roasters-tampa-bay.jpg"
+featuredImage: "/images/blog/best-coffee-roasters-tampa-bay.webp"
 ---
 
 # Best Coffee Roasters in Tampa Bay: Where Real Coffee Happens

@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/where-to-watch-super-bowl-tampa-bay.jpg"
+featuredImage: "/images/blog/where-to-watch-super-bowl-tampa-bay.webp"
 ---
 
 The Super Bowl isn't just another Sunday — it's the one day when even people who can't tell a touchdown from a field goal suddenly become football experts. And if you're in Tampa Bay, you've got serious options beyond your living room couch.

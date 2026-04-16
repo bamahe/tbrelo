@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-vs-nashville.jpg"
+featuredImage: "/images/blog/tampa-bay-vs-nashville.webp"
 ---
 
 # Tampa Bay vs Nashville — Which Is Better for Relocators?

@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/indian-rocks-beach-vs-madeira-beach.jpg"
+featuredImage: "/images/blog/indian-rocks-beach-vs-madeira-beach.webp"
 ---
 
 Two gulf beaches, separated by just a few miles of sand and sugar-white coastline, yet they couldn't be more different in personality. I've walked clients through both Indian Rocks Beach and Madeira Beach countless times over the past 23+ years, and the choice usually becomes clear within the first visit.

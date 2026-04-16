@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/best-fishing-gear-tampa-bay.jpg"
+featuredImage: "/images/blog/best-fishing-gear-tampa-bay.webp"
 ---
 
 # Best Fishing Gear for Tampa Bay Beginners: What Actually Works in These Waters

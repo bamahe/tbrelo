@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/buying-home-flood-zone-florida.jpg"
+featuredImage: "/images/blog/buying-home-flood-zone-florida.webp"
 ---
 
 # Buying a Home in a Flood Zone — Is It Worth the Risk?

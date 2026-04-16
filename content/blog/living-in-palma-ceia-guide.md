@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/living-in-palma-ceia-guide.jpg"
+featuredImage: "/images/blog/living-in-palma-ceia-guide.webp"
 ---
 
 # Living in Palma Ceia — What It's Really Like (Honest Relocation Guide)

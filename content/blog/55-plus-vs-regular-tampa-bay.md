@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/55-plus-vs-regular-tampa-bay.jpg"
+featuredImage: "/images/blog/55-plus-vs-regular-tampa-bay.webp"
 ---
 
 You're moving to Tampa Bay and facing a decision that could shape your entire retirement: 55+ community or regular neighborhood? After 23+ years helping people navigate this choice, I've seen families thrive in both settings — and watched others make expensive mistakes.

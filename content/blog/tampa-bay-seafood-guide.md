@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-seafood-guide.jpg"
+featuredImage: /images/blog/default.webp
 ---
 
 # Tampa Bay Seafood Guide — Grouper, Stone Crab, and Beyond

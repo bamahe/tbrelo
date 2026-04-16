@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-vs-fort-myers.jpg"
+featuredImage: "/images/blog/tampa-bay-vs-fort-myers.webp"
 ---
 
 # Tampa Bay vs Fort Myers — Which Is Better for Relocators?

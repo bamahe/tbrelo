@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/westchase-vs-citrus-park.jpg"
+featuredImage: "/images/blog/westchase-vs-citrus-park.webp"
 ---
 
 # Westchase vs Citrus Park — Which Is Better for Relocators?

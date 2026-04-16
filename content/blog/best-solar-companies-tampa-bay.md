@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/best-solar-companies-tampa-bay.jpg"
+featuredImage: "/images/blog/best-solar-companies-tampa-bay.webp"
 ---
 
 # Best Solar Panel Companies in Tampa Bay: Your 2024 Guide to Going Solar

@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-airport-comparison.jpg"
+featuredImage: "/images/blog/tampa-bay-airport-comparison.webp"
 ---
 
 # Tampa Bay Airport Comparison — TPA vs PIE vs SRQ vs MCO

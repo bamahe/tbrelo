@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/moving-from-dallas.jpg"
+featuredImage: "/images/blog/moving-from-dallas.webp"
 ---
 
 # Moving from Dallas to Tampa Bay — The Complete Relocation Guide

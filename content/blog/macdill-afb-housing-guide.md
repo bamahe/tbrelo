@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/macdill-afb-housing-guide.jpg"
+featuredImage: "/images/blog/macdill-afb-housing-guide.webp"
 ---
 
 ## Why the MacDill AFB Area Actually Works for Military Families

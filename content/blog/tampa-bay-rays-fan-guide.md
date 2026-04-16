@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-rays-fan-guide.jpg"
+featuredImage: "/images/blog/tampa-bay-rays-fan-guide.webp"
 ---
 
 The Tampa Bay Rays are finally getting the stadium they deserve — and it's going to change everything about baseball in the Bay Area. After decades at Tropicana Field (let's be honest, it's been a love-hate relationship), the team is building a brand new ballpark that'll open in 2028. Here's what every local and newcomer needs to know about this massive transition.

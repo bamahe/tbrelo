@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/living-in-trinity-guide.jpg"
+featuredImage: "/images/blog/living-in-trinity-guide.webp"
 ---
 
 Trinity strikes that sweet spot between suburban comfort and small-town feel that makes so many Tampa Bay transplants fall in love with Pasco County. Tucked between New Port Richey and Wesley Chapel, this unincorporated community has quietly become one of the area's most desirable places to raise a family — without the premium price tags of South Tampa or Westchase.

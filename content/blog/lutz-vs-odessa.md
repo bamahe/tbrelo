@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/lutz-vs-odessa.jpg"
+featuredImage: "/images/blog/lutz-vs-odessa.webp"
 ---
 
 When you're looking north of Tampa for that perfect blend of suburban comfort and semi-rural charm, two communities consistently top the list: Lutz and Odessa. Both offer excellent schools, newer construction, and that coveted "not quite country, not quite city" vibe that draws families from across the country.

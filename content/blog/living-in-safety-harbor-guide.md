@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/living-in-safety-harbor-guide.jpg"
+featuredImage: "/images/blog/living-in-safety-harbor-guide.webp"
 ---
 
 # Living in Safety Harbor (Deep Dive) — What It's Really Like (Honest Relocation Guide)

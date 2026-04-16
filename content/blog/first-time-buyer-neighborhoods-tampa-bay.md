@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/first-time-buyer-neighborhoods-tampa-bay.jpg"
+featuredImage: "/images/blog/first-time-buyer-neighborhoods-tampa-bay.webp"
 ---
 
 # Best Tampa Bay Neighborhoods for First-Time Homebuyers

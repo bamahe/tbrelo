@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-condo-buying-guide.jpg"
+featuredImage: "/images/blog/tampa-bay-condo-buying-guide.webp"
 ---
 
 Look, buying a condo in Tampa Bay isn't what it used to be. After the Surfside tragedy in 2021, Florida cracked down hard on condo safety and financial reserves. Senate Bill 4D changed everything — and honestly, it's for the better, even if it means more homework for buyers.

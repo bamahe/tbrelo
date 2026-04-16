@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/concrete-block-vs-wood-frame-florida.jpg"
+featuredImage: "/images/blog/concrete-block-vs-wood-frame-florida.webp"
 ---
 
 You're house hunting in Florida and keep hearing about "CBS" (concrete block and stucco) versus wood frame construction. As someone who's helped families navigate Tampa Bay real estate for over two decades, I can tell you this choice matters more here than anywhere else I've worked.

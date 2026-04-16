@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-window-tint-laws.jpg"
+featuredImage: "/images/blog/florida-window-tint-laws.webp"
 ---
 
 Moving to Florida and wondering about those super-dark tinted windows you see everywhere? You're not alone. Every week, I get calls from relocating families asking about window tint laws — especially folks coming from states with stricter rules who suddenly notice half the cars here look like they're driven by celebrities hiding from paparazzi.

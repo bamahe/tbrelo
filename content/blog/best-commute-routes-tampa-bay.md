@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/best-commute-routes-tampa-bay.jpg"
+featuredImage: "/images/blog/best-commute-routes-tampa-bay.webp"
 ---
 
 After 23 years of helping people relocate to Tampa Bay, I've learned that your daily commute can make or break your quality of life here. I've seen families love their gorgeous South Tampa home until they realize it takes 90 minutes to get to their Carrollwood office every morning. Let's fix that.

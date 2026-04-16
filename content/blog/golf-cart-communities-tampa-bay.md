@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/golf-cart-communities-tampa-bay.jpg"
+featuredImage: "/images/blog/golf-cart-communities-tampa-bay.webp"
 ---
 
 Golf carts aren't just for the golf course anymore. Across Tampa Bay, dozens of communities have embraced the golf cart lifestyle, creating neighborhoods where your daily driver might be electric, street-legal, and top out at 25 mph.

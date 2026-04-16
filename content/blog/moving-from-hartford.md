@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/moving-from-hartford.jpg"
+featuredImage: "/images/blog/moving-from-hartford.webp"
 ---
 
 # Moving from Hartford CT to Tampa Bay — The Complete Relocation Guide

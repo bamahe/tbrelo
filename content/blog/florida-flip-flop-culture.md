@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-flip-flop-culture.jpg"
+featuredImage: "/images/blog/florida-flip-flop-culture.webp"
 ---
 
 ## The Florida Flip Flop Economy: A Complete Guide to Year-Round Footwear

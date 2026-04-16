@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/best-sunset-spots-tampa-bay.jpg"
+featuredImage: "/images/blog/best-sunset-spots-tampa-bay.webp"
 ---
 
 After 23 years of showing Tampa Bay to families from all over, I've watched thousands of sunsets from every angle this area has to offer. Some spots are pure magic. Others are Instagram traps that disappoint in person. Here's my honest ranking of where to catch the best sunset views in Tampa Bay — from the obvious crowd-pleasers to the hidden gems locals actually use.

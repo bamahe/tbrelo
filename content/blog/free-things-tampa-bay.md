@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/free-things-tampa-bay.jpg"
+featuredImage: "/images/blog/free-things-tampa-bay.webp"
 ---
 
 Look, I get it. You're scrolling through "free activities in Tampa Bay" articles that list everything from "$15 craft brewery tours" to "free museums with $8 parking." That's not actually free, and frankly, it's insulting to your intelligence.

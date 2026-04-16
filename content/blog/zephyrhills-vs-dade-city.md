@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/zephyrhills-vs-dade-city.jpg"
+featuredImage: "/images/blog/zephyrhills-vs-dade-city.webp"
 ---
 
 # Zephyrhills vs Dade City — Which Is Better for Relocators?

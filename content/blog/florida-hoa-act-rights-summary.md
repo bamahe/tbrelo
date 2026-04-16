@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-hoa-act-rights-summary.jpg"
+featuredImage: "/images/blog/florida-hoa-act-rights-summary.webp"
 ---
 
 # Florida Homeowner's Association Act — Your Rights Summarized

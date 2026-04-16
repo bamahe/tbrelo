@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/how-hot-tampa-bay-real-feel.jpg"
+featuredImage: "/images/blog/how-hot-tampa-bay-real-feel.webp"
 ---
 
 Look, everyone knows Tampa Bay gets hot. But when people ask me "how hot?" they're usually thinking about Phoenix or Las Vegas. That's dry heat. What we've got here is something entirely different — a sticky, humid embrace that makes 85°F feel like 95°F.

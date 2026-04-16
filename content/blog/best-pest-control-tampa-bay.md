@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/best-pest-control-tampa-bay.jpg"
+featuredImage: "/images/blog/best-pest-control-tampa-bay.webp"
 ---
 
 # Best Pest Control Services in Tampa Bay: Your Complete Guide to Bug-Free Living

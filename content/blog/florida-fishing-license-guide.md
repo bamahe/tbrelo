@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-fishing-license-guide.jpg"
+featuredImage: "/images/blog/florida-fishing-license-guide.webp"
 ---
 
 You moved to Florida to fish more. I get it — between the Gulf Coast, countless lakes, and year-round weather, this state is an angler's paradise. But before you cast that first line, let's talk licenses. Because getting slapped with a $50+ fine on your first fishing trip? That's not the Florida welcome you want.

@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/moving-from-kansas-city.jpg"
+featuredImage: "/images/blog/moving-from-kansas-city.webp"
 ---
 
 # Moving from Kansas City to Tampa Bay — The Complete Relocation Guide

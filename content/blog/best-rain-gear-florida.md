@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/best-rain-gear-florida.jpg"
+featuredImage: "/images/blog/best-rain-gear-florida.webp"
 ---
 
 Look, after 23 years of showing houses in Tampa Bay, I've been caught in more Florida downpours than I care to count. One minute it's sunny, the next it's a wall of water that makes you question every life choice that brought you to this moment. But here's the thing — Florida rain isn't like rain anywhere else, and your gear needs to match that reality.

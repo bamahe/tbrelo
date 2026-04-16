@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/moving-from-milwaukee.jpg"
+featuredImage: "/images/blog/moving-from-milwaukee.webp"
 ---
 
 # Moving from Milwaukee to Tampa Bay — The Complete Relocation Guide

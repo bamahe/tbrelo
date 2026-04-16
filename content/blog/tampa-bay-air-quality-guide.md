@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-air-quality-guide.jpg"
+featuredImage: "/images/blog/tampa-bay-air-quality-guide.webp"
 ---
 
 # Tampa Bay Air Quality Guide — Pollen, Mold, and Wildfire Smoke

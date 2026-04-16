@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-state-fair-guide.jpg"
+featuredImage: "/images/blog/florida-state-fair-guide.webp"
 ---
 
 The Florida State Fair rolls into Tampa every February like a carnival fever dream — 12 days of deep-fried everything, questionable midway games, and the kind of organized chaos that somehow works. After 23 years of living here and countless fair visits with clients' families, I've learned what's worth your time and what'll leave you broke and disappointed.

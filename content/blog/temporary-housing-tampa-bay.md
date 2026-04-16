@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/temporary-housing-tampa-bay.jpg"
+featuredImage: "/images/blog/temporary-housing-tampa-bay.webp"
 ---
 
 # Temporary Housing in Tampa Bay — Where to Stay While House Hunting

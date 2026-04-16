@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-voter-registration-new-resident.jpg"
+featuredImage: "/images/blog/florida-voter-registration-new-resident.webp"
 ---
 
 # Florida Voter Registration Guide for New Residents

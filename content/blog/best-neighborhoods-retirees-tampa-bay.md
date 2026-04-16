@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/best-neighborhoods-retirees-tampa-bay.jpg"
+featuredImage: "/images/blog/best-neighborhoods-retirees-tampa-bay.webp"
 ---
 
 # Best Tampa Bay Neighborhoods for Retirees: Where to Live Your Best Years

@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/septic-system-florida-guide.jpg"
+featuredImage: "/images/blog/septic-system-florida-guide.webp"
 ---
 
 # What to Know About Septic Systems in Florida

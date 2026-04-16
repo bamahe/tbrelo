@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/remote-worker-relocation-tampa-bay.jpg"
+featuredImage: "/images/blog/remote-worker-relocation-tampa-bay.webp"
 ---
 
 The pandemic changed everything about where we work. Now you can keep your San Francisco salary while living where your money actually matters. Tampa Bay isn't just sunshine and beaches — it's become a remote work magnet for good reason.

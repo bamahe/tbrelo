@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/live-music-tampa-bay-guide.jpg"
+featuredImage: "/images/blog/live-music-tampa-bay-guide.webp"
 ---
 
 Tampa Bay's live music scene doesn't get the credit it deserves. While Nashville gets all the press and Austin claims to be the "Live Music Capital," we've got something those cities don't: year-round outdoor weather and venues that actually understand how to treat both artists and audiences right.

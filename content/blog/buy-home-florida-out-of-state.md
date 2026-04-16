@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/buy-home-florida-out-of-state.jpg"
+featuredImage: "/images/blog/buy-home-florida-out-of-state.webp"
 ---
 
 Moving to Florida from another state? You're not alone. Florida welcomes about 1,000 new residents daily, and roughly 60% of them are buying homes sight unseen or with minimal local visits. As someone who's guided hundreds of out-of-state buyers through Tampa Bay purchases, I can tell you the process is completely doable — but it requires a different game plan than buying down the street from your rental.

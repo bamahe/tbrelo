@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-alligator-guide.jpg"
+featuredImage: "/images/blog/florida-alligator-guide.webp"
 ---
 
 Every single person moving to Florida has the same conversation with their friends up north: "But what about the alligators?" 

@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/venice-vs-englewood.jpg"
+featuredImage: "/images/blog/venice-vs-englewood.webp"
 ---
 
 # Venice vs Englewood — Which Is Better for Relocators?

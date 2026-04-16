@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/moving-from-philadelphia.jpg"
+featuredImage: "/images/blog/moving-from-philadelphia.webp"
 ---
 
 You're trading Liberty Bell for palm trees, and trust me — after 23 years helping families make this exact move, I can tell you it's one of the smartest decisions you'll make. The cost savings alone will have you wondering why you waited so long.

@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/i-275-survival-guide-tampa.jpg"
+featuredImage: "/images/blog/i-275-survival-guide-tampa.webp"
 ---
 
 I-275 isn't just a highway — it's a rite of passage. After 23 years of helping families move to Tampa Bay, I've watched this concrete serpent evolve from merely frustrating to genuinely infuriating. But here's the thing: once you learn its personality (and yes, highways have personalities), you can actually coexist with it.

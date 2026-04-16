@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/sinkhole-inspection-florida.jpg"
+featuredImage: "/images/blog/sinkhole-inspection-florida.webp"
 ---
 
 # What Is a Sinkhole Inspection in Florida? Your Complete Guide to Costs, Testing, and Peace of Mind

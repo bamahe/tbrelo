@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/moving-from-cincinnati.jpg"
+featuredImage: "/images/blog/moving-from-cincinnati.webp"
 ---
 
 # Moving from Cincinnati to Tampa Bay — The Complete Relocation Guide

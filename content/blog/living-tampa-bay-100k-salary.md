@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/living-tampa-bay-100k-salary.jpg"
+featuredImage: "/images/blog/living-tampa-bay-100k-salary.webp"
 ---
 
 Making six figures in Tampa Bay puts you in a sweet spot. You're not yacht-shopping rich, but you've got real choices about where to live, what to drive, and how to spend your weekends. After helping hundreds of professionals navigate the Tampa Bay housing market, I've seen exactly how a $100K+ salary translates into lifestyle here.

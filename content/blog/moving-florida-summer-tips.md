@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/moving-florida-summer-tips.jpg"
+featuredImage: "/images/blog/moving-florida-summer-tips.webp"
 ---
 
 # Moving to Florida in Summer — Survival Tips for Moving Day

@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/best-fried-chicken-tampa-bay.jpg"
+featuredImage: "/images/blog/best-fried-chicken-tampa-bay.webp"
 ---
 
 # Best Fried Chicken in Tampa Bay: A Local's Guide to the Crispy Gold

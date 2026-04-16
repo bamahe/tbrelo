@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/pasco-county-schools-guide.jpg"
+featuredImage: "/images/blog/pasco-county-schools-guide.webp"
 ---
 
 # Pasco County Schools Guide: Everything Families Need to Know Before Moving

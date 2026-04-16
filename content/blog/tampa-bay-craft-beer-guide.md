@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-craft-beer-guide.jpg"
+featuredImage: "/images/blog/tampa-bay-craft-beer-guide.webp"
 ---
 
 The Tampa Bay craft beer scene isn't just about drinking — it's about community, innovation, and some seriously good brewing that rivals any major city. After 23 years helping people relocate here, I've watched this region transform from a few scattered breweries to one of Florida's premier beer destinations. Whether you're moving here or just visiting, understanding our craft beer landscape helps you understand Tampa Bay culture itself.

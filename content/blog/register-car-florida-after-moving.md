@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/register-car-florida-after-moving.jpg"
+featuredImage: "/images/blog/register-car-florida-after-moving.webp"
 ---
 
 # How to Register Your Car in Florida After Moving

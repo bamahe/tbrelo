@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-child-custody-relocation-law.jpg"
+featuredImage: "/images/blog/florida-child-custody-relocation-law.webp"
 ---
 
 Moving to Tampa Bay with kids when you're sharing custody? Florida's relocation laws are about as straightforward as Interstate 4 traffic during rush hour — meaning they're not. After helping 800+ families navigate moves across the Tampa Bay area over the past 23 years, I've seen firsthand how custody complications can derail an otherwise smooth relocation.

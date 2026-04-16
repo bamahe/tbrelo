@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-hurricane-categories-explained.jpg"
+featuredImage: "/images/blog/florida-hurricane-categories-explained.webp"
 ---
 
 When you're considering a move to Tampa Bay, understanding hurricane categories isn't just academic knowledge—it's essential information for your family's safety and your property investment. After 23+ years helping families relocate to Florida, I've watched countless storms approach our coast, and I can tell you that knowing the difference between a Category 1 and Category 4 hurricane could literally save your life.

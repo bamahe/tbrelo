@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-hoa-horror-stories-tips.jpg"
+featuredImage: "/images/blog/florida-hoa-horror-stories-tips.webp"
 ---
 
 # Florida HOA Horror Stories — And How to Avoid Them

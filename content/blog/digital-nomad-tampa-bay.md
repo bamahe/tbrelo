@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/digital-nomad-tampa-bay.jpg"
+featuredImage: "/images/blog/digital-nomad-tampa-bay.webp"
 ---
 
 Tampa Bay isn't just another sun-and-surf destination for remote workers. It's a surprisingly sophisticated digital nomad ecosystem with fiber internet speeds that'll make your Zoom calls crystal clear and coffee shops that actually want you to camp out with your laptop.

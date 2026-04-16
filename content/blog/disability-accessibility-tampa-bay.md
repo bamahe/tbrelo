@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/disability-accessibility-tampa-bay.jpg"
+featuredImage: "/images/blog/disability-accessibility-tampa-bay.webp"
 ---
 
 Moving to a new area is challenging enough without worrying about accessibility. After 23 years helping Tampa Bay families relocate, I've worked with many people navigating disabilities — from veterans adjusting to mobility changes to families with special needs kids to retirees planning for aging in place.

@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/boat-owners-tampa-bay.jpg"
+featuredImage: "/images/blog/boat-owners-tampa-bay.webp"
 ---
 
 # Tampa Bay for Boat Owners — Marinas, Ramps, and Waterfront Living

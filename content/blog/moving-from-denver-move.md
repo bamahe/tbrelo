@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/moving-from-denver-move.jpg"
+featuredImage: "/images/blog/moving-from-denver-move.webp"
 ---
 
 # Moving from Denver to Tampa Bay — The Complete Relocation Guide

@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/dog-friendly-hotels-tampa-bay.jpg"
+featuredImage: "/images/blog/dog-friendly-hotels-tampa-bay.webp"
 ---
 
 # Best Dog-Friendly Hotels and Vacation Rentals in Tampa Bay

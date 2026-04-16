@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/northeast-to-tampa-bay-culture-shock.jpg"
+featuredImage: "/images/blog/northeast-to-tampa-bay-culture-shock.webp"
 ---
 
 # Moving to Tampa Bay from the Northeast — Culture Shock Guide

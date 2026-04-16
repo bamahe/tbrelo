@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-vs-chicago.jpg"
+featuredImage: "/images/blog/tampa-bay-vs-chicago.webp"
 ---
 
 I've helped dozens of Chicago families make the jump to Tampa Bay over the past 23 years, and honestly? Most wish they'd done it sooner. But let's cut through the sunshine-and-palm-trees sales pitch. Both cities have real advantages, and your choice depends on what you actually value in daily life.

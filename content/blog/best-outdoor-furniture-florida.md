@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/best-outdoor-furniture-florida.jpg"
+featuredImage: /images/blog/default.webp
 ---
 
 # Best Outdoor Furniture That Survives Florida Weather

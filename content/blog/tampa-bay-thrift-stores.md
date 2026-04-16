@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-thrift-stores.jpg"
+featuredImage: "/images/blog/tampa-bay-thrift-stores.webp"
 ---
 
 # Tampa Bay Thrift Store Guide — Where Locals Actually Shop

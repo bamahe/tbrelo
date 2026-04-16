@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/pool-home-vs-no-pool-tampa-bay.jpg"
+featuredImage: "/images/blog/pool-home-vs-no-pool-tampa-bay.webp"
 ---
 
 # Pool Home vs No Pool — Which Is Better for Relocators?

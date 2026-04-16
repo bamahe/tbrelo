@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-public-transit-guide.jpg"
+featuredImage: /images/blog/default.webp
 ---
 
 Let me be straight with you — Tampa Bay's public transit system isn't winning any awards. But if you're moving here and planning to rely on buses and limited rail options, you need the real story. After 23 years of helping families relocate here, I've seen plenty of newcomers get blindsided by the reality of getting around without a car.

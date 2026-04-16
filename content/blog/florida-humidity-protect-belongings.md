@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-humidity-protect-belongings.jpg"
+featuredImage: "/images/blog/florida-humidity-protect-belongings.webp"
 ---
 
 # What Happens to Your Stuff in Florida Humidity (And How to Protect It)

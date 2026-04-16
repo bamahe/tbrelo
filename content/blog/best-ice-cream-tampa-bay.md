@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/best-ice-cream-tampa-bay.jpg"
+featuredImage: "/images/blog/best-ice-cream-tampa-bay.webp"
 ---
 
 # Best Ice Cream and Gelato in Tampa Bay: A Local's Guide to Sweet Spots

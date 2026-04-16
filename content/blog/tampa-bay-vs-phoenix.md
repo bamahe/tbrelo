@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-vs-phoenix.jpg"
+featuredImage: "/images/blog/tampa-bay-vs-phoenix.webp"
 ---
 
 # Tampa Bay vs Phoenix — Which Is Better for Relocators?

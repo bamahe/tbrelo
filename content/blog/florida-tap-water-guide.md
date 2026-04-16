@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-tap-water-guide.jpg"
+featuredImage: "/images/blog/florida-tap-water-guide.webp"
 ---
 
 # The Truth About Florida Tap Water (And What to Do About It)

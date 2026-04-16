@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/first-time-homebuyer-programs-florida.jpg"
+featuredImage: "/images/blog/first-time-homebuyer-programs-florida.webp"
 ---
 
 # First-Time Homebuyer Programs in Florida — Every Option Explained

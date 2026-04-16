@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/tampa-bay-holiday-events.jpg"
+featuredImage: "/images/blog/tampa-bay-holiday-events.webp"
 ---
 
 December in Tampa Bay means holiday magic with a subtropical twist. Forget snow — we do Christmas lights reflected in harbor water, outdoor ice rinks that actually work, and holiday parades where kids wear shorts. After 23+ years helping families discover this area, I've seen how our unique holiday season becomes a major selling point for relocating families.

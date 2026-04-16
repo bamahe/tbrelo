@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/publix-sub-guide-best-orders.jpg"
+featuredImage: "/images/blog/publix-sub-guide-best-orders.webp"
 ---
 
 You know you've become a Tampa Bay local when you can walk into any Publix, rattle off your Pub Sub order like you're speaking in code, and watch the deli counter person nod knowingly. The Pub Sub isn't just a sandwich — it's a regional obsession that separates the transplants from the natives faster than asking someone where they went to high school.

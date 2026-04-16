@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/start-business-florida-guide.jpg"
+featuredImage: "/images/blog/start-business-florida-guide.webp"
 ---
 
 So you've made the move to Florida and now you're ready to turn your entrepreneurial dreams into reality. Smart timing. Florida ranks among the most business-friendly states in the country, with no personal income tax, reasonable corporate tax rates, and a streamlined registration process that doesn't require you to hire three lawyers just to file paperwork.

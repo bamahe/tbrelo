@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/florida-rainy-season-explained.jpg"
+featuredImage: "/images/blog/florida-rainy-season-explained.webp"
 ---
 
 You're probably wondering when Florida's rainy season hits and what to expect. After 23+ years selling real estate here, I've watched thousands of newcomers experience their first Tampa Bay summer storms. Some panic. Others fall in love with the daily light show. Here's what you actually need to know.

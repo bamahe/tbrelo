@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/moving-from-new-jersey.jpg"
+featuredImage: "/images/blog/moving-from-new-jersey.webp"
 ---
 
 # Moving from New Jersey to Tampa Bay — The Complete Relocation Guide

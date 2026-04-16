@@ -20,7 +20,7 @@ schema:
   publisher:
     name: "TB Relo"
     url: "https://tbrelo.com"
-featuredImage: "/images/blog/living-in-grand-central-district-st-pete-guide.jpg"
+featuredImage: "/images/blog/living-in-grand-central-district-st-pete-guide.webp"
 ---
 
 # Living in Grand Central District St. Pete — What It's Really Like (Honest Relocation Guide)
