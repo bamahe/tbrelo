@@ -27,7 +27,7 @@ The Texas-to-Tampa move is about lifestyle upgrade, not tax savings. You keep th
 
 **The property tax difference is the key financial advantage.** Texas property taxes are among the highest in the nation because the state relies on them heavily with no income tax. Florida also has no income tax but funds more through sales tax and tourism — meaning property taxes are meaningfully lower. On a $400K home, you save $1,500–$3,000/year in property taxes alone.
 
-Plus, Florida has the [Homestead Exemption](/pillar/florida-homestead-exemption/) with the Save Our Homes 3% cap — Texas's homestead protection is different and doesn't limit assessment increases the same way. Over 10 years of ownership, Florida's system saves you significantly more.
+Plus, Florida has the [Homestead Exemption](/florida-homestead-exemption/) with the Save Our Homes 3% cap — Texas's homestead protection is different and doesn't limit assessment increases the same way. Over 10 years of ownership, Florida's system saves you significantly more.
 
 ## Tax Savings Breakdown
 
@@ -83,11 +83,11 @@ Texas to Tampa Bay is **850–1,100 miles** depending on your city — **13–17
 ## Setting Up Your New Life
 
 1. **Auto insurance** — {{policygenius}} for Florida rates (comparable to Texas).
-2. **Driver's license and registration** — 30-day deadline. See [FL guides](/pillar/florida-drivers-license/).
+2. **Driver's license and registration** — 30-day deadline. See [FL guides](/florida-drivers-license/).
 3. **Internet** — {{spectrum}} is dominant (similar to Texas cable monopoly dynamics). {{tmobile}} alternative.
 4. **Home security** — {{adt}} or {{simplisafe}}.
 5. **Handyman** — {{bbs}} for move-in projects.
-6. **Homestead exemption** — File January 1 – March 1. This is critical — Florida's system is more valuable long-term than Texas's due to the SOH assessment cap. See [guide](/pillar/florida-homestead-exemption/).
+6. **Homestead exemption** — File January 1 – March 1. This is critical — Florida's system is more valuable long-term than Texas's due to the SOH assessment cap. See [guide](/florida-homestead-exemption/).
 
 ## FAQ
 

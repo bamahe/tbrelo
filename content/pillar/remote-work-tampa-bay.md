@@ -28,7 +28,7 @@ If you work remotely for a company based in a high-tax state (New York, Californ
 
 That's not a one-time bonus — it's every single year. Over a decade, a $150K earner saves $85,000–$130,000 in state taxes. That's a down payment on a house. That's college tuition. That's a completely different financial trajectory.
 
-**The tax catch to know about:** Some states (particularly New York) have "convenience of the employer" rules that may require you to pay their state tax even if you're working remotely from Florida, IF your employer's office is in that state and you COULD work from it. Most states don't do this, but check with a tax professional for your specific situation. See our [Florida Taxes guide](/pillar/florida-taxes/) for the full breakdown.
+**The tax catch to know about:** Some states (particularly New York) have "convenience of the employer" rules that may require you to pay their state tax even if you're working remotely from Florida, IF your employer's office is in that state and you COULD work from it. Most states don't do this, but check with a tax professional for your specific situation. See our [Florida Taxes guide](/florida-taxes/) for the full breakdown.
 
 ## Best Neighborhoods for Remote Workers
 
@@ -150,7 +150,7 @@ Power outages happen during Florida thunderstorms (almost daily in summer) and h
 - **UPS (Uninterruptible Power Supply)** — $100–$300. Keeps your computer, router, and modem running for 30–60 minutes during a brief outage. Essential.
 - **Mobile hotspot** — Your phone's hotspot as a backup internet connection. Make sure your cell plan supports sufficient hotspot data.
 - **T-Mobile 5G Home Internet** — Works on cellular towers with battery backup. Good secondary connection. {{tmobile}}
-- **Portable generator or battery backup** — For extended outages, a portable generator ($400–$1,200) or battery system keeps you working. See our [Hurricane Prep guide](/pillar/hurricane-prep/) for details.
+- **Portable generator or battery backup** — For extended outages, a portable generator ($400–$1,200) or battery system keeps you working. See our [Hurricane Prep guide](/hurricane-prep/) for details.
 - **Surge protectors** — Florida lightning is the real deal. Plug your equipment into quality surge protectors. A direct lightning hit will fry everything on an unprotected circuit.
 
 ## Coworking Spaces
@@ -223,7 +223,7 @@ They need to know for tax and payroll purposes. Your employer must withhold stat
 Most companies that allow remote work don't restrict by state. However, some companies aren't registered to do business in Florida and may not want to set up payroll there. Check with your HR/people team before making the move.
 
 ### What about healthcare if I'm remote?
-If your employer provides health insurance, confirm the plan's network covers Florida providers. Most large carrier plans (Aetna, UnitedHealthcare, Cigna, Blue Cross) have Florida networks. See our [Healthcare guide](/pillar/tampa-bay-healthcare/) for details on Tampa Bay providers. If you're self-employed, compare marketplace plans through {{policygenius}}.
+If your employer provides health insurance, confirm the plan's network covers Florida providers. Most large carrier plans (Aetna, UnitedHealthcare, Cigna, Blue Cross) have Florida networks. See our [Healthcare guide](/tampa-bay-healthcare/) for details on Tampa Bay providers. If you're self-employed, compare marketplace plans through {{policygenius}}.
 
 ### Is internet reliable enough for video-heavy work?
 In urban and suburban areas — yes. Spectrum and AT&T fiber deliver consistent speeds for video calls, screen sharing, and cloud-based work. In rural areas ([Hernando](/counties/hernando/), eastern [Pasco](/counties/pasco/), [Citrus](/counties/citrus/)), verify speeds at the specific address. Always have a backup (mobile hotspot, T-Mobile 5G home) for outage situations.

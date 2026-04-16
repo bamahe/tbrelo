@@ -44,7 +44,7 @@ The housing market here skews older and more modest than Plant City. If you're l
 
 ## Schools
 
-**Plant City** feeds into [Hillsborough County Public Schools](/pillar/tampa-bay-schools/), which is a meaningful advantage. Plant City High School and Durant High School (technically east Hillsborough but nearby) are both solid. The Hillsborough district offers more magnet, fundamental, and choice programs than Pasco County, giving Plant City families more educational options overall.
+**Plant City** feeds into [Hillsborough County Public Schools](/tampa-bay-schools/), which is a meaningful advantage. Plant City High School and Durant High School (technically east Hillsborough but nearby) are both solid. The Hillsborough district offers more magnet, fundamental, and choice programs than Pasco County, giving Plant City families more educational options overall.
 
 **Zephyrhills** feeds into Pasco County Schools. Zephyrhills High School is a traditional community high school — it's decent but doesn't carry the same ratings as the newer Pasco schools in Wesley Chapel or Land O' Lakes. The elementary and middle school options are limited compared to more populated areas. Pasco County has been investing in its schools, but the Zephyrhills-area schools haven't seen the same level of new construction and resources as the western part of the county.
 

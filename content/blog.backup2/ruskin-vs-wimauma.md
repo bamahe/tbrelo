@@ -45,7 +45,7 @@ The downside: Wimauma is far from everything. Your nearest Target or major groce
 
 ## Schools
 
-Both areas feed into [Hillsborough County Public Schools](/pillar/tampa-bay-schools/).
+Both areas feed into [Hillsborough County Public Schools](/tampa-bay-schools/).
 
 **Ruskin** schools have historically carried lower ratings, but the district has been investing in improvements. Lennard High School serves the Ruskin area and has been improving its academic programs. New elementary and middle schools have opened to serve population growth.
 

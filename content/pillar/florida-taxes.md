@@ -82,7 +82,7 @@ Property tax is where Florida actually gets you. Without an income tax, local go
 
 Florida property tax is based on **millage rates** — mills per dollar of assessed value. One mill = $1 per $1,000 of taxable value. The total millage includes county, city, school district, and special district levies.
 
-Your **taxable value** is your assessed value minus exemptions (like the [homestead exemption](/pillar/florida-homestead-exemption/), which knocks $50,000 off your taxable value).
+Your **taxable value** is your assessed value minus exemptions (like the [homestead exemption](/florida-homestead-exemption/), which knocks $50,000 off your taxable value).
 
 ### Property Tax Rates by County
 
@@ -103,9 +103,9 @@ Your **taxable value** is your assessed value minus exemptions (like the [homest
 
 ### The Homestead Exemption — Don't Skip This
 
-If you buy a home and make it your primary residence, you qualify for the [Florida Homestead Exemption](/pillar/florida-homestead-exemption/). This removes $50,000 from your taxable value — saving you roughly $875–$1,100/year depending on your county's millage rate. It also activates the Save Our Homes cap, which protects you from large tax increases going forward.
+If you buy a home and make it your primary residence, you qualify for the [Florida Homestead Exemption](/florida-homestead-exemption/). This removes $50,000 from your taxable value — saving you roughly $875–$1,100/year depending on your county's millage rate. It also activates the Save Our Homes cap, which protects you from large tax increases going forward.
 
-**File between January 1 and March 1** of the year after you purchase. Miss this deadline and you lose an entire year of savings. Read the full breakdown in our [Homestead Exemption guide](/pillar/florida-homestead-exemption/).
+**File between January 1 and March 1** of the year after you purchase. Miss this deadline and you lose an entire year of savings. Read the full breakdown in our [Homestead Exemption guide](/florida-homestead-exemption/).
 
 ## Real Estate Transaction Taxes
 

@@ -71,11 +71,11 @@ Minnesota to Tampa Bay is roughly **1,500–1,600 miles** — about **22–24 ho
 ## Setting Up Your New Life
 
 1. **Auto insurance** — {{policygenius}} for Florida rates (expect higher).
-2. **Driver's license and registration** — 30-day deadline. See [FL guides](/pillar/florida-drivers-license/).
+2. **Driver's license and registration** — 30-day deadline. See [FL guides](/florida-drivers-license/).
 3. **Internet** — {{spectrum}} primary. {{tmobile}} alternative.
 4. **Home security** — {{adt}} or {{simplisafe}}.
 5. **Handyman** — {{bbs}} for move-in projects.
-6. **Homestead exemption** — January 1 – March 1. See [guide](/pillar/florida-homestead-exemption/).
+6. **Homestead exemption** — January 1 – March 1. See [guide](/florida-homestead-exemption/).
 
 ## FAQ
 
@@ -86,7 +86,7 @@ Yes. Decades of snowbirds and permanent transplants have created a significant M
 Lutefisk — probably not worth looking for. Hotdish — it's just casserole, and you can make it anywhere. Tampa Bay's food scene will give you new comfort foods: Cuban sandwiches, grouper, and Publix chicken tender subs.
 
 ### How does healthcare compare to the Mayo Clinic area?
-If you're from Rochester, you've been spoiled by Mayo. Tampa Bay has excellent healthcare: Moffitt Cancer Center is nationally ranked, Tampa General is a Level 1 trauma center, and BayCare has extensive coverage. See our [Healthcare guide](/pillar/tampa-bay-healthcare/).
+If you're from Rochester, you've been spoiled by Mayo. Tampa Bay has excellent healthcare: Moffitt Cancer Center is nationally ranked, Tampa General is a Level 1 trauma center, and BayCare has extensive coverage. See our [Healthcare guide](/tampa-bay-healthcare/).
 
 ### Will I regret leaving the lakes?
 You'll miss the lakes for about one July. Then you'll be on a boat in Tampa Bay, fishing for redfish in 80°F water while your friends back home are dealing with mosquitoes the size of birds. The water lifestyle is different but equally rich — and available year-round.

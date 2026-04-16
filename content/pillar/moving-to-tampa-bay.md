@@ -65,7 +65,7 @@ Tampa Bay's overall cost of living runs about 3–8% above the national average,
 
 If you're earning $100K in New York, you're paying roughly $6,500 in state income tax. In California, about $5,500. In New Jersey, around $5,000. Move to Florida and that money stays in your pocket. For most people, the tax savings alone offset the slightly higher housing costs.
 
-For a deep breakdown with real numbers, see our [Tampa Bay Cost of Living Guide](/pillar/cost-of-living/).
+For a deep breakdown with real numbers, see our [Tampa Bay Cost of Living Guide](/cost-of-living/).
 
 **Quick cost snapshot:**
 
@@ -213,7 +213,7 @@ If you can handle the summer and the bugs, you'll love it here. Most people adju
 
 ## Your Step-by-Step Moving Timeline
 
-Moving to Tampa Bay is a project, not an event. Here's the high-level timeline — for the detailed week-by-week checklist, see our [Tampa Bay Moving Checklist](/pillar/moving-checklist/).
+Moving to Tampa Bay is a project, not an event. Here's the high-level timeline — for the detailed week-by-week checklist, see our [Tampa Bay Moving Checklist](/moving-checklist/).
 
 ### 8+ Weeks Before Moving Day
 - **Research counties and neighborhoods.** Start with our [county guides](/counties/) to narrow your focus.

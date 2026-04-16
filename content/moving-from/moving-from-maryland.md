@@ -68,11 +68,11 @@ Maryland to Tampa Bay is roughly **900–1,000 miles** — about **13–15 hours
 ## Setting Up Your New Life
 
 1. **Auto insurance** — {{policygenius}} for Florida rates.
-2. **Driver's license and registration** — 30-day deadline. See [FL guides](/pillar/florida-drivers-license/).
+2. **Driver's license and registration** — 30-day deadline. See [FL guides](/florida-drivers-license/).
 3. **Internet** — {{spectrum}} primary. {{tmobile}} alternative.
 4. **Home security** — {{adt}} or {{simplisafe}}.
 5. **Handyman** — {{bbs}} for settling in.
-6. **Homestead exemption** — January 1 – March 1. See [guide](/pillar/florida-homestead-exemption/).
+6. **Homestead exemption** — January 1 – March 1. See [guide](/florida-homestead-exemption/).
 
 ## FAQ
 
@@ -80,7 +80,7 @@ Maryland to Tampa Bay is roughly **900–1,000 miles** — about **13–15 hours
 MoCo schools are among the best in the nation. Tampa Bay's top zones ([FishHawk](/cities/fishhawk-ranch/), [Westchase](/cities/westchase/), [Lakewood Ranch](/cities/lakewood-ranch/), Pine View in [Sarasota](/cities/sarasota/)) compete at that level. Choose your neighborhood carefully. {{nowtb}} specializes in school-zone matching.
 
 ### Can I keep working for a D.C.-based employer remotely?
-Yes. You stop paying Maryland income tax once you establish Florida domicile. Your employer adjusts payroll withholding. Confirm your company can do business in Florida (most can). See our [Florida Taxes guide](/pillar/florida-taxes/) for details.
+Yes. You stop paying Maryland income tax once you establish Florida domicile. Your employer adjusts payroll withholding. Confirm your company can do business in Florida (most can). See our [Florida Taxes guide](/florida-taxes/) for details.
 
 ### Is Tampa Bay as diverse as the D.C. suburbs?
 The D.C. metro is exceptionally diverse. Tampa Bay is diverse — strong Hispanic, African American, and growing Asian communities — but at a different scale. Urban [Tampa](/cities/tampa/) and [St. Petersburg](/cities/st-petersburg/) are the most diverse areas.

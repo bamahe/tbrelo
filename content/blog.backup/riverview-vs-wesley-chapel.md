@@ -39,7 +39,7 @@ The premium you pay in Wesley Chapel (roughly 10–20% more than comparable Rive
 
 ## Schools
 
-**Riverview** feeds into [Hillsborough County Public Schools](/pillar/tampa-bay-schools/), the state's third-largest district. School quality varies by subdivision. Sumner High School and Riverview High serve the area, and both are solid but not standout performers. Elementary and middle school quality depends heavily on which community you buy in — check zones before signing.
+**Riverview** feeds into [Hillsborough County Public Schools](/tampa-bay-schools/), the state's third-largest district. School quality varies by subdivision. Sumner High School and Riverview High serve the area, and both are solid but not standout performers. Elementary and middle school quality depends heavily on which community you buy in — check zones before signing.
 
 **Wesley Chapel** feeds into Pasco County Schools, which have invested heavily in new facilities to keep up with population growth. Wesley Chapel High, Wiregrass Ranch High, and Cypress Creek Middle are well-regarded. Many families specifically choose Wesley Chapel for the school zones. The newer schools have modern facilities, and the smaller district size means less bureaucratic overhead than Hillsborough.
 

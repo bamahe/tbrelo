@@ -255,7 +255,7 @@ With Tampa Bay, the Gulf of Mexico, and dozens of rivers and lakes, boating is a
 **Citrus:** Fort Island Trail Park, Homosassa boat ramps
 
 ### Boat Registration
-Florida boat registration is through the county Tax Collector. Fees are based on boat length. See our [Car Registration guide](/pillar/florida-car-registration/) for office locations. No annual inspection required for recreational boats.
+Florida boat registration is through the county Tax Collector. Fees are based on boat length. See our [Car Registration guide](/florida-car-registration/) for office locations. No annual inspection required for recreational boats.
 
 ### Marinas
 Full-service marinas are available throughout the metro. Wet slip rates range from $12–$25/foot per month depending on location. Dry stack storage is $8–$15/foot per month. Waitlists exist at popular marinas.

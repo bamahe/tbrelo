@@ -71,11 +71,11 @@ Michigan to Tampa Bay is roughly **1,000–1,200 miles** (Detroit or Grand Rapid
 ## Setting Up Your New Life
 
 1. **Auto insurance** — Florida rates are higher than Michigan's (and Michigan has historically been the most expensive state for auto insurance, so that's saying something). {{policygenius}} to compare.
-2. **Driver's license and registration** — 30-day deadline. See [FL guides](/pillar/florida-drivers-license/).
+2. **Driver's license and registration** — 30-day deadline. See [FL guides](/florida-drivers-license/).
 3. **Internet** — {{spectrum}} primary. {{tmobile}} alternative.
 4. **Home security** — {{adt}} or {{simplisafe}}.
 5. **Handyman** — {{bbs}} for move-in projects.
-6. **Homestead exemption** — January 1 – March 1. See [guide](/pillar/florida-homestead-exemption/).
+6. **Homestead exemption** — January 1 – March 1. See [guide](/florida-homestead-exemption/).
 
 ## FAQ
 

@@ -41,7 +41,7 @@ Lutz's pricing spread is wider because of this variety. A renovated 3/2 on a hal
 
 **Land O' Lakes** feeds into Pasco County Schools. Cypress Creek High School, Pine View Middle, and several newer elementaries serve the area. Pasco has invested in new school construction to keep pace with growth, and the facilities are modern. Schools like Cypress Creek have developed strong reputations, especially the academies and magnet programs.
 
-**Lutz** is split between two districts depending on which side of the county line your home sits on. The Hillsborough side feeds into [Hillsborough County Public Schools](/pillar/tampa-bay-schools/) — Steinbrenner High School and Martinez Middle School are well-regarded and among the top-rated schools in the district. The Pasco side feeds into Pasco County Schools, similar to Land O' Lakes.
+**Lutz** is split between two districts depending on which side of the county line your home sits on. The Hillsborough side feeds into [Hillsborough County Public Schools](/tampa-bay-schools/) — Steinbrenner High School and Martinez Middle School are well-regarded and among the top-rated schools in the district. The Pasco side feeds into Pasco County Schools, similar to Land O' Lakes.
 
 If top-rated schools are your priority, the Hillsborough side of Lutz (zoned for Steinbrenner High) is the strongest option between these two areas. Verify your school zone before making an offer — in Lutz, one block can change your district.
 

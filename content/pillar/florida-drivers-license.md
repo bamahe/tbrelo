@@ -223,7 +223,7 @@ For the first 30 days of residency, yes. After 30 days, you're technically drivi
 If you maintain a primary residence in another state and are just in Florida seasonally, you can use your home-state license. But if you claim Florida as your domicile (for homestead exemption, voting, tax purposes), you need a Florida license.
 
 ### Do I need to re-register my car too?
-Yes — within 30 days of becoming a Florida resident. See our [Florida Car Registration guide](/pillar/florida-car-registration/) for the full process.
+Yes — within 30 days of becoming a Florida resident. See our [Florida Car Registration guide](/florida-car-registration/) for the full process.
 
 ### Is there an age limit for driving in Florida?
 No maximum age. However, drivers 80+ must renew in person (no online renewal) and must pass a vision test at each renewal. Renewals are every 6 years for most adults (8 years for those under 80 with a clean record).

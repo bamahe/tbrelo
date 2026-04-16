@@ -74,11 +74,11 @@ Tampa International Airport (TPA) has direct flights from LAX, and it's consiste
 ## Setting Up Your New Life
 
 1. **Auto insurance** — Florida is no-fault. Different requirements than California. {{policygenius}} to compare.
-2. **Driver's license and car registration** — 30-day deadline. See our [FL Driver's License guide](/pillar/florida-drivers-license/) and [Car Registration guide](/pillar/florida-car-registration/).
+2. **Driver's license and car registration** — 30-day deadline. See our [FL Driver's License guide](/florida-drivers-license/) and [Car Registration guide](/florida-car-registration/).
 3. **Internet** — {{spectrum}} is primary. {{tmobile}} 5G home internet as a backup option.
 4. **Home security** — {{adt}} or {{simplisafe}}.
 5. **Handyman** — {{bbs}} for move-in projects.
-6. **Homestead exemption** — File January 1 – March 1. See our [Homestead Exemption guide](/pillar/florida-homestead-exemption/).
+6. **Homestead exemption** — File January 1 – March 1. See our [Homestead Exemption guide](/florida-homestead-exemption/).
 7. **Update your domicile** — California's FTB audits aggressively. Change everything: license, voter registration, bank accounts. Spend fewer than 45 days/year in California.
 
 ## FAQ
@@ -93,6 +93,6 @@ Tampa Bay has a strong Hispanic/Latino community (Cuban, Puerto Rican, Colombian
 The Gulf of Mexico doesn't produce surf like the Pacific. Calm, warm water — great for paddleboarding, kayaking, and swimming. For actual surf, you'd drive to the Atlantic coast (Cocoa Beach, 2 hours east). Most Angelenos trade surfing for other water sports and don't look back.
 
 ### How do I deal with hurricane season?
-Prepare before the season (June 1 – November 30), and you're fine. See our [Hurricane Prep guide](/pillar/hurricane-prep/). Hurricanes give you days of warning — unlike earthquakes. Most years, nothing happens. When something does, you'll be glad you prepared.
+Prepare before the season (June 1 – November 30), and you're fine. See our [Hurricane Prep guide](/hurricane-prep/). Hurricanes give you days of warning — unlike earthquakes. Most years, nothing happens. When something does, you'll be glad you prepared.
 
 *Ready to make the move? Barrett Henry has been helping families relocate to Tampa Bay for over 23 years. {{nowtb}}*

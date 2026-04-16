@@ -65,8 +65,8 @@ That pride in place translates directly to property values, neighborhood stabili
 
 Ready to find your Tampa Bay neighborhood? Here are some resources to get started:
 
-- [Cost of Living in Tampa Bay](/pillar/cost-of-living/)
-- [Tampa Bay Neighborhoods Guide](/pillar/neighborhoods/)
+- [Cost of Living in Tampa Bay](/cost-of-living/)
+- [Tampa Bay Neighborhoods Guide](/neighborhoods/)
 - [Hillsborough County Communities](/counties/hillsborough/)
 - [Pinellas County Communities](/counties/pinellas/)
-- [Moving to Tampa Bay Checklist](/pillar/moving-checklist/)
+- [Moving to Tampa Bay Checklist](/moving-checklist/)

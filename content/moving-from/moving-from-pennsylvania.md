@@ -70,11 +70,11 @@ Pennsylvania to Tampa Bay is **900–1,200 miles** depending on your location �
 ## Setting Up Your New Life
 
 1. **Auto insurance** — {{policygenius}} for Florida rates.
-2. **Driver's license and registration** — 30-day deadline. See [FL guides](/pillar/florida-drivers-license/).
+2. **Driver's license and registration** — 30-day deadline. See [FL guides](/florida-drivers-license/).
 3. **Internet** — {{spectrum}} primary. {{tmobile}} alternative.
 4. **Home security** — {{adt}} or {{simplisafe}}.
 5. **Handyman** — {{bbs}} for settling in.
-6. **Homestead exemption** — January 1 – March 1. See [guide](/pillar/florida-homestead-exemption/).
+6. **Homestead exemption** — January 1 – March 1. See [guide](/florida-homestead-exemption/).
 
 ## FAQ
 
@@ -85,6 +85,6 @@ Wawa has expanded into Florida with locations in the Tampa Bay area. Sheetz has 
 Absolutely. Tampa Bay has bars for every NFL fan base. Steelers bars are particularly plentiful — the Steelers Nation travels well. Eagles fans are also well-represented thanks to the Philly-to-Tampa pipeline and Phillies spring training in [Clearwater](/cities/clearwater/).
 
 ### How does the healthcare compare?
-Tampa Bay has world-class facilities: Tampa General (Level 1 trauma), Moffitt Cancer Center (nationally ranked), Johns Hopkins All Children's. See our [Healthcare guide](/pillar/tampa-bay-healthcare/). It rivals Pittsburgh's UPMC system and Philadelphia's hospital corridor.
+Tampa Bay has world-class facilities: Tampa General (Level 1 trauma), Moffitt Cancer Center (nationally ranked), Johns Hopkins All Children's. See our [Healthcare guide](/tampa-bay-healthcare/). It rivals Pittsburgh's UPMC system and Philadelphia's hospital corridor.
 
 *Ready to make the move? Barrett Henry has been helping families relocate to Tampa Bay for over 23 years. {{nowtb}}*

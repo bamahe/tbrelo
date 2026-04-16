@@ -37,7 +37,7 @@ These two communities sit side by side in eastern [Hillsborough County](/countie
 
 **Riverview** has newer schools that are still building their reputations. Sumner High School is relatively new and growing. Several new elementaries have opened to serve the population boom. Quality is generally good but less proven than Brandon's established performers.
 
-Both areas feed into [Hillsborough County Public Schools](/pillar/tampa-bay-schools/), the third-largest district in Florida.
+Both areas feed into [Hillsborough County Public Schools](/tampa-bay-schools/), the third-largest district in Florida.
 
 ## Commute
 

@@ -15,7 +15,7 @@ This checklist breaks your move into manageable weekly chunks, starting 8 weeks 
 
 Print this page, bookmark it, share it with your partner — whatever works. Just don't try to wing a long-distance move. People who follow a timeline have fewer disasters, fewer forgotten tasks, and a much smoother landing.
 
-For the big-picture overview of life in Tampa Bay, start with our [Complete Guide to Moving to Tampa Bay](/pillar/moving-to-tampa-bay/). For the financial side, see our [Tampa Bay Cost of Living Guide](/pillar/cost-of-living/).
+For the big-picture overview of life in Tampa Bay, start with our [Complete Guide to Moving to Tampa Bay](/moving-to-tampa-bay/). For the financial side, see our [Tampa Bay Cost of Living Guide](/cost-of-living/).
 
 ## 8 Weeks Before Moving Day
 

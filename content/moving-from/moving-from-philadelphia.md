@@ -70,11 +70,11 @@ Philadelphia to Tampa Bay is roughly **1,000 miles** — about 15–16 hours of 
 ## Setting Up Your New Life
 
 1. **Auto insurance** — {{policygenius}} to compare Florida's no-fault requirements.
-2. **Driver's license and registration** — 30-day deadline. See [FL guides](/pillar/florida-drivers-license/).
+2. **Driver's license and registration** — 30-day deadline. See [FL guides](/florida-drivers-license/).
 3. **Internet** — {{spectrum}} primary. {{tmobile}} 5G alternative.
 4. **Home security** — {{adt}} or {{simplisafe}}.
 5. **Handyman** — {{bbs}} for settling-in tasks.
-6. **Homestead exemption** — January 1 – March 1. See [guide](/pillar/florida-homestead-exemption/).
+6. **Homestead exemption** — January 1 – March 1. See [guide](/florida-homestead-exemption/).
 
 ## FAQ
 

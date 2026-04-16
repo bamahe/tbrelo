@@ -94,12 +94,12 @@ California to Tampa Bay is **2,400–2,800 miles** depending on your starting po
 ## Setting Up Your New Life
 
 1. **Florida auto insurance** — Florida requirements are different from California's (PIP + PDL, no-fault state). {{policygenius}} to compare rates.
-2. **Driver's license** — 30-day deadline. Surrender your CA license. See our [FL Driver's License guide](/pillar/florida-drivers-license/).
-3. **Vehicle registration** — You'll owe the difference in sales tax between CA and FL rates. See our [Car Registration guide](/pillar/florida-car-registration/).
+2. **Driver's license** — 30-day deadline. Surrender your CA license. See our [FL Driver's License guide](/florida-drivers-license/).
+3. **Vehicle registration** — You'll owe the difference in sales tax between CA and FL rates. See our [Car Registration guide](/florida-car-registration/).
 4. **Internet** — {{spectrum}} dominates Tampa Bay. AT&T fiber in some areas. {{tmobile}} 5G home internet as a solid alternative.
 5. **Home security** — {{adt}} or {{simplisafe}} for monitoring. Florida homes are secure but it's peace of mind, especially during hurricane evacuations.
 6. **Handyman services** — {{bbs}} for TV mounting, furniture assembly, minor repairs, and all those move-in tasks.
-7. **Homestead exemption** — File between January 1 – March 1 after purchase. See our [Homestead Exemption guide](/pillar/florida-homestead-exemption/).
+7. **Homestead exemption** — File between January 1 – March 1 after purchase. See our [Homestead Exemption guide](/florida-homestead-exemption/).
 
 ## FAQ
 

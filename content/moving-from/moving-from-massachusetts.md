@@ -71,11 +71,11 @@ Massachusetts to Tampa Bay is **1,300–1,500 miles** — about **19–21 hours*
 ## Setting Up Your New Life
 
 1. **Auto insurance** — {{policygenius}} for Florida rates.
-2. **Driver's license and registration** — 30-day deadline. See [FL guides](/pillar/florida-drivers-license/).
+2. **Driver's license and registration** — 30-day deadline. See [FL guides](/florida-drivers-license/).
 3. **Internet** — {{spectrum}} primary. {{tmobile}} alternative.
 4. **Home security** — {{adt}} or {{simplisafe}}.
 5. **Handyman** — {{bbs}} for move-in projects.
-6. **Homestead exemption** — January 1 – March 1. See [guide](/pillar/florida-homestead-exemption/).
+6. **Homestead exemption** — January 1 – March 1. See [guide](/florida-homestead-exemption/).
 
 ## FAQ
 
@@ -83,7 +83,7 @@ Massachusetts to Tampa Bay is **1,300–1,500 miles** — about **19–21 hours*
 The top Tampa Bay schools compete nationally. Pine View in [Sarasota](/cities/sarasota/) is regularly ranked in the top 10 in Florida. [FishHawk](/cities/fishhawk-ranch/) and [Westchase](/cities/westchase/) consistently produce A-rated schools. Choose your neighborhood by school zone — this is where {{nowtb}} adds the most value.
 
 ### Is there good healthcare?
-Moffitt Cancer Center (nationally ranked), Tampa General Hospital (Level 1 trauma), Johns Hopkins All Children's — Tampa Bay has world-class healthcare. See our [Healthcare guide](/pillar/tampa-bay-healthcare/).
+Moffitt Cancer Center (nationally ranked), Tampa General Hospital (Level 1 trauma), Johns Hopkins All Children's — Tampa Bay has world-class healthcare. See our [Healthcare guide](/tampa-bay-healthcare/).
 
 ### Do I need to worry about the Massachusetts "millionaire tax" if I leave?
 Once you establish Florida domicile, Massachusetts can't tax your income. But if you maintain property or spend significant time in MA, they could try to claim you're still a resident. Make a clean break: surrender your MA license, change voter registration, file Declaration of Domicile in Florida.

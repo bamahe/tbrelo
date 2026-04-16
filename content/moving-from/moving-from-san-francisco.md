@@ -75,11 +75,11 @@ San Francisco to Tampa Bay is roughly **2,600 miles** — a 38-hour drive. Virtu
 ## Setting Up Your New Life
 
 1. **Auto insurance** — Florida's no-fault system is different from California's. {{policygenius}} to compare carriers.
-2. **Driver's license and registration** — 30-day deadline. See [FL Driver's License guide](/pillar/florida-drivers-license/) and [Car Registration guide](/pillar/florida-car-registration/).
+2. **Driver's license and registration** — 30-day deadline. See [FL Driver's License guide](/florida-drivers-license/) and [Car Registration guide](/florida-car-registration/).
 3. **Internet** — {{spectrum}} is the primary provider. AT&T fiber available in some areas. {{tmobile}} 5G home internet works well as primary or backup.
 4. **Home security** — {{adt}} or {{simplisafe}}.
 5. **Handyman** — {{bbs}} for move-in setup tasks.
-6. **Homestead exemption** — File January 1 – March 1. See [Homestead Exemption guide](/pillar/florida-homestead-exemption/).
+6. **Homestead exemption** — File January 1 – March 1. See [Homestead Exemption guide](/florida-homestead-exemption/).
 7. **Domicile switch** — California audits former residents aggressively. Change everything, spend fewer than 45 days/year in CA.
 
 ## FAQ

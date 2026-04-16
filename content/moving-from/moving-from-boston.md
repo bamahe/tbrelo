@@ -74,16 +74,16 @@ Boston to Tampa Bay is approximately **1,300 miles** — about 19–20 hours of 
 ## Setting Up Your New Life
 
 1. **Auto insurance** — Florida's no-fault system. {{policygenius}} to compare.
-2. **Driver's license and registration** — 30-day deadline. See [FL guides](/pillar/florida-drivers-license/).
+2. **Driver's license and registration** — 30-day deadline. See [FL guides](/florida-drivers-license/).
 3. **Internet** — {{spectrum}} primary. {{tmobile}} 5G alternative.
 4. **Home security** — {{adt}} or {{simplisafe}}.
 5. **Handyman** — {{bbs}} for settling-in projects.
-6. **Homestead exemption** — File January 1 – March 1. See [guide](/pillar/florida-homestead-exemption/).
+6. **Homestead exemption** — File January 1 – March 1. See [guide](/florida-homestead-exemption/).
 
 ## FAQ
 
 ### Are there good hospitals in Tampa Bay?
-Absolutely. Tampa General Hospital (Level 1 trauma), Moffitt Cancer Center (nationally ranked), Johns Hopkins All Children's Hospital — Tampa Bay's healthcare rivals Boston's, minus the Harvard teaching hospital prestige. See our [Healthcare guide](/pillar/tampa-bay-healthcare/).
+Absolutely. Tampa General Hospital (Level 1 trauma), Moffitt Cancer Center (nationally ranked), Johns Hopkins All Children's Hospital — Tampa Bay's healthcare rivals Boston's, minus the Harvard teaching hospital prestige. See our [Healthcare guide](/tampa-bay-healthcare/).
 
 ### Can I keep my Dunkin' addiction?
 Dunkin' is everywhere in Tampa Bay. More locations per capita than you'd expect. You'll be fine.

@@ -105,12 +105,12 @@ For a full household, professional movers run **$4,000–$8,000** from New Jerse
 
 ### First Week Checklist
 1. **Get Florida auto insurance** — Required before you can register your car. Florida's minimums are different from NJ's. {{policygenius}} to compare rates.
-2. **Get your Florida driver's license** — 30-day deadline. See our [FL Driver's License guide](/pillar/florida-drivers-license/).
-3. **Register your vehicles** — Same 30-day deadline. See our [Car Registration guide](/pillar/florida-car-registration/).
+2. **Get your Florida driver's license** — 30-day deadline. See our [FL Driver's License guide](/florida-drivers-license/).
+3. **Register your vehicles** — Same 30-day deadline. See our [Car Registration guide](/florida-car-registration/).
 4. **Set up internet** — {{spectrum}} is the dominant provider. Get it scheduled before move-in day.
 5. **Set up home security** — {{adt}} or {{simplisafe}} for peace of mind in your new home.
 6. **Find a handyman** — {{bbs}} handles everything from TV mounting to minor repairs. You'll need them as you settle in.
-7. **File for Homestead Exemption** — If you bought a home, file between January 1 – March 1. See our [Homestead Exemption guide](/pillar/florida-homestead-exemption/). Don't miss this — it saves you $800–$1,100/year in property taxes.
+7. **File for Homestead Exemption** — If you bought a home, file between January 1 – March 1. See our [Homestead Exemption guide](/florida-homestead-exemption/). Don't miss this — it saves you $800–$1,100/year in property taxes.
 
 ### The Domicile Switch
 New Jersey doesn't tax you on your way out, but they will audit former residents who maintain NJ ties. To cleanly establish Florida domicile:
@@ -132,6 +132,6 @@ No. Florida has no income tax, which means your NJ pension, 401(k) withdrawals, 
 It depends on the specific schools. NJ has some of the best public schools in the country, and Tampa Bay's top schools (FishHawk, Westchase, Lakewood Ranch) compete at that level. But the average NJ school district outperforms the average Tampa Bay district. If schools are a priority, choose your Tampa Bay neighborhood based on school zones. {{nowtb}} can help match you with A-rated school zones.
 
 ### Do I really need flood insurance?
-If you're in a flood zone, your lender will require it. Even if you're not, I strongly recommend it. Florida flooding doesn't follow FEMA maps perfectly, and a single flood event can cost $50,000+ in damage. Policies start around $500/year outside high-risk zones. See our [Hurricane Prep guide](/pillar/hurricane-prep/).
+If you're in a flood zone, your lender will require it. Even if you're not, I strongly recommend it. Florida flooding doesn't follow FEMA maps perfectly, and a single flood event can cost $50,000+ in damage. Policies start around $500/year outside high-risk zones. See our [Hurricane Prep guide](/hurricane-prep/).
 
 *Ready to make the move? Barrett Henry has been helping families relocate to Tampa Bay for over 23 years. {{nowtb}}*

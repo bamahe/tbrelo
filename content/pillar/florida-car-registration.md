@@ -160,7 +160,7 @@ You can preview all plates and pre-order at the Tax Collector's office or online
 
 ## Where to Go — County Tax Collector Offices
 
-You register your vehicle at the same Tax Collector offices where you get your driver's license. The same tips apply: go mid-week, go early, book an appointment if available. See our [Florida Driver's License guide](/pillar/florida-drivers-license/) for detailed office locations and tips by county.
+You register your vehicle at the same Tax Collector offices where you get your driver's license. The same tips apply: go mid-week, go early, book an appointment if available. See our [Florida Driver's License guide](/florida-drivers-license/) for detailed office locations and tips by county.
 
 **Key offices for vehicle registration:**
 

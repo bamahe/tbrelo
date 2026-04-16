@@ -77,11 +77,11 @@ Chicago to Tampa Bay is roughly **1,100 miles** — about 16–17 hours of drivi
 ## Setting Up Your New Life
 
 1. **Auto insurance** — Florida's no-fault system differs from Illinois. {{policygenius}} to compare.
-2. **Driver's license and registration** — 30-day deadline. See [FL Driver's License guide](/pillar/florida-drivers-license/) and [Car Registration guide](/pillar/florida-car-registration/).
+2. **Driver's license and registration** — 30-day deadline. See [FL Driver's License guide](/florida-drivers-license/) and [Car Registration guide](/florida-car-registration/).
 3. **Internet** — {{spectrum}} is dominant. {{tmobile}} 5G home internet as an alternative.
 4. **Home security** — {{adt}} or {{simplisafe}}.
 5. **Handyman** — {{bbs}} for move-in projects.
-6. **Homestead exemption** — File January 1 – March 1. See [Homestead Exemption guide](/pillar/florida-homestead-exemption/).
+6. **Homestead exemption** — File January 1 – March 1. See [Homestead Exemption guide](/florida-homestead-exemption/).
 
 ## FAQ
 

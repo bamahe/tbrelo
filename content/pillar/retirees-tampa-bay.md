@@ -28,7 +28,7 @@ This is the big one. Florida has **no state income tax**, which means:
 
 For a retired couple with $80,000 in pension income, $20,000 in Social Security, and $15,000 in investment income, the state tax savings of living in Florida vs. a state like New York can be **$6,000–$9,000 per year.** Over a 20-year retirement, that's $120,000–$180,000 in saved taxes.
 
-See our [Florida Taxes guide](/pillar/florida-taxes/) for the complete breakdown, including property tax rates and the [Homestead Exemption](/pillar/florida-homestead-exemption/).
+See our [Florida Taxes guide](/florida-taxes/) for the complete breakdown, including property tax rates and the [Homestead Exemption](/florida-homestead-exemption/).
 
 ### No Estate Tax
 
@@ -68,7 +68,7 @@ Newer 55+ options in central and north Hillsborough. More modern construction, s
 - **[Largo](/cities/largo/) / [Seminole](/cities/seminole/)** — Affordable for Pinellas. Good parks and recreation programs.
 - **Beach communities** — [Indian Rocks Beach](/cities/indian-rocks-beach/), [Treasure Island](/cities/treasure-island/), [Madeira Beach](/cities/madeira-beach/) — for retirees who want to live ON the beach.
 
-**Condo living** is popular for Pinellas retirees — lower maintenance, lock-and-leave for travel, and affordable entry points ($200K–$400K for a 2BR). Just watch for special assessments (see condo safety legislation notes in our [Housing Market guide](/pillar/tampa-bay-housing-market/)).
+**Condo living** is popular for Pinellas retirees — lower maintenance, lock-and-leave for travel, and affordable entry points ($200K–$400K for a 2BR). Just watch for special assessments (see condo safety legislation notes in our [Housing Market guide](/tampa-bay-housing-market/)).
 
 ### Pasco County
 
@@ -152,7 +152,7 @@ Healthcare is non-negotiable in retirement planning. Tampa Bay delivers.
 - **Lakeland Regional Health** — Strong hospital serving Polk County retirees.
 - **James A. Haley VA Hospital** ([Tampa](/cities/tampa/)) — One of the largest VA medical centers in the country for veteran retirees.
 
-See our [Healthcare guide](/pillar/tampa-bay-healthcare/) for the full breakdown by county.
+See our [Healthcare guide](/tampa-bay-healthcare/) for the full breakdown by county.
 
 ### Medicare in Tampa Bay
 
@@ -179,7 +179,7 @@ Tampa Bay has more golf courses than almost any metro in the country. Public, se
 - Dozens of affordable public courses throughout the metro ($25–$60/round)
 
 ### Fishing
-Inshore flats fishing, offshore charters, and freshwater bass fishing. Many retirees get a boat and spend their mornings on Tampa Bay chasing redfish and trout. See our [Outdoor Living guide](/pillar/tampa-bay-outdoor-living/) for details.
+Inshore flats fishing, offshore charters, and freshwater bass fishing. Many retirees get a boat and spend their mornings on Tampa Bay chasing redfish and trout. See our [Outdoor Living guide](/tampa-bay-outdoor-living/) for details.
 
 ### Volunteering
 Tampa Bay has a strong volunteer network:
@@ -217,12 +217,12 @@ Many retirees start as snowbirds (winter only) and eventually move full-time. He
 
 ### Making the Switch
 When you decide to go full-time:
-1. Get a Florida driver's license (see our [Driver's License guide](/pillar/florida-drivers-license/))
-2. Register your vehicle (see our [Car Registration guide](/pillar/florida-car-registration/))
+1. Get a Florida driver's license (see our [Driver's License guide](/florida-drivers-license/))
+2. Register your vehicle (see our [Car Registration guide](/florida-car-registration/))
 3. Register to vote in Florida
 4. File a Declaration of Domicile with your county clerk
 5. Update your estate plan with a Florida attorney
-6. File for homestead exemption (see our [Homestead Exemption guide](/pillar/florida-homestead-exemption/))
+6. File for homestead exemption (see our [Homestead Exemption guide](/florida-homestead-exemption/))
 7. Notify your former state that you've changed domicile
 
 **Important:** If you're moving from a high-tax state (New York, New Jersey, Connecticut), be thorough about establishing Florida domicile. These states audit former residents aggressively. Keep a calendar of days spent in each state — you need 183+ days in Florida to safely claim domicile.
@@ -244,7 +244,7 @@ Tampa Bay's cost of living is moderate. For a retired couple:
 | **Total (homeowner, no mortgage)** | **$2,600–$4,650/month** |
 | **Total (homeowner, with mortgage)** | **$4,800–$7,350/month** |
 
-See our [Cost of Living guide](/pillar/cost-of-living/) for detailed breakdowns.
+See our [Cost of Living guide](/cost-of-living/) for detailed breakdowns.
 
 ## Estate Planning in Florida
 

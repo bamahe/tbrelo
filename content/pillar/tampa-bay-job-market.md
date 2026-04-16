@@ -239,7 +239,7 @@ The Suncoast Connector (proposed toll road) and various transit studies are ongo
 Yes, particularly in healthcare, financial services, defense/cybersecurity, and tech. The unemployment rate is consistently below the national average. The challenge is that salaries are lower than coastal metros — but the no-income-tax advantage and lower cost of living largely offset that.
 
 ### What's the minimum salary to live comfortably in Tampa Bay?
-For a single person: $50K–$60K. For a couple: $80K–$100K. For a family of four: $100K–$130K. These numbers assume renting — homeownership shifts the numbers based on how much you put down. See our [Cost of Living guide](/pillar/cost-of-living/) for detailed breakdowns.
+For a single person: $50K–$60K. For a couple: $80K–$100K. For a family of four: $100K–$130K. These numbers assume renting — homeownership shifts the numbers based on how much you put down. See our [Cost of Living guide](/cost-of-living/) for detailed breakdowns.
 
 ### Are there remote work opportunities with Tampa Bay companies?
 Yes, increasingly. Many Tampa Bay companies (especially in tech, finance, and professional services) offer hybrid or fully remote positions. The metro has also become a hub for remote workers employed by companies elsewhere — the no-income-tax advantage draws them regardless of where their employer is based.
