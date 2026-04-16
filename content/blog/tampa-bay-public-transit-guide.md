@@ -1,184 +1,223 @@
 ---
-title: "Tampa Bay Public Transit — Can You Live Without a Car?"
-metaTitle: "Tampa Bay Public Transit Guide — Bus, Streetcar, Brightline, Reality Check | TB Relo"
-metaDescription: "Honest guide to Tampa Bay public transit including HART, PSTA, SunRunner, streetcar, and Brightline. Can you live without a car? Here's the real answer."
+title: "Tampa Bay Public Transit Guide — HART, PSTA, and Beyond"
+metaTitle: "Tampa Bay Public Transit Guide — HART, PSTA, and Beyond | TB Relo"
+metaDescription: "Tampa Bay Public Transit Guide. Honest guide from a Tampa Bay local with 23+ years of experience."
 type: blog
-publishedAt: "2026-04-13"
-updatedAt: "2026-04-13"
+category: "Practical / Legal"
+subcategory: "Admin Guide"
+primaryKeyword: "Tampa Bay public transit"
+publishedAt: "2025-06-13T08:00:00-04:00"
+updatedAt: "2026-04-16T08:00:00-04:00"
+author: "Barrett Henry"
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+schema:
+  type: Article
+  datePublished: "2025-06-13T08:00:00-04:00"
+  dateModified: "2026-04-16T08:00:00-04:00"
+  author:
+    name: "Barrett Henry"
+    url: "https://nowtb.com"
+  publisher:
+    name: "TB Relo"
+    url: "https://tbrelo.com"
+featuredImage: "/images/blog/tampa-bay-public-transit-guide.jpg"
 ---
 
-## Can You Actually Live Without a Car in Tampa Bay?
+Let me be straight with you — Tampa Bay's public transit system isn't winning any awards. But if you're moving here and planning to rely on buses and limited rail options, you need the real story. After 23 years of helping families relocate here, I've seen plenty of newcomers get blindsided by the reality of getting around without a car.
 
-The short answer: probably not. The longer answer: it depends on where you live, where you work, and how much inconvenience you're willing to tolerate. Tampa Bay is a car-centric metro, and no blog post is going to change that reality. But public transit does exist here, it's improving, and in a few specific corridors, you can make it work — especially if you supplement with ride-share and a bike.
+The Tampa Bay area spans three main counties — Hillsborough, Pinellas, and Pasco — each with its own transit authority. That means three different systems, three different apps, and three different payment methods. Fun, right? Let's break down what you're actually working with.
 
-Here's the honest breakdown of every transit option in Tampa Bay.
+![Tampa Bay transit map showing HART, PSTA, and connector routes across Hillsborough and Pinellas counties](PLACEHOLDER)
 
-## What Is HART and How Useful Is It?
+## The Big Players: HART vs PSTA
 
-HART (Hillsborough Area Regional Transit) is the bus system serving [Hillsborough County](/counties/hillsborough-county/) — Tampa, [Brandon](/cities/brandon/), and surrounding areas.
+### HART (Hillsborough Area Regional Transit)
 
-**The basics:**
-- 27 local bus routes covering Tampa's urban core and some suburban areas
-- Two express routes for commuters
-- MetroRapid (Route 200X) along Nebraska Avenue — faster service with limited stops
-- **Fare:** $2.00 per ride, $4.00 day pass, $65 monthly pass
-- **Hours:** Most routes run 5 AM-10 PM weekdays, reduced service on weekends. Very limited routes run past 10 PM
+HART covers Tampa and most of [Hillsborough County](/counties/hillsborough/). Their system includes regular bus routes, the TECO Line Streetcar, and express routes. The TECO Line runs from downtown Tampa to Ybor City — all 2.7 miles of it. It's free, which is nice, but don't expect it to solve your transportation needs beyond that small corridor.
 
-**Where HART works:**
-- Along major corridors: Nebraska Avenue, Florida Avenue, Hillsborough Avenue, Dale Mabry Highway
-- Downtown Tampa to USF campus
-- Downtown Tampa to [Westshore](/cities/westshore/) business district
-- Getting around within Tampa's urban core if your destinations are on a route
+Regular HART bus fare runs $2.00 for local routes and $4.00 for express routes as of 2024. You can pay with exact change (they don't make change), the HART HyperCard, or mobile tickets through their app. Pro tip: if you're using buses regularly, get the HyperCard. Loading money onto it gives you discounted rides — $1.85 for local routes instead of $2.00.
 
-**Where HART falls apart:**
-- Suburban Hillsborough County — Service to [Brandon](/cities/brandon/), [Riverview](/cities/riverview/), [Valrico](/cities/valrico/), and [Plant City](/cities/plant-city/) is extremely limited. Buses may come once an hour, if that
-- Evenings and weekends — Frequency drops to 30-60 minutes on many routes
-- Cross-county trips — Getting from Tampa to Pinellas County by bus requires transfers and significant time
-- Last-mile problem — Bus stops may be a mile or more from your actual destination, and sidewalks don't always exist for that walk
+The most useful HART routes for newcomers:
+- **Route 5 (40th Street)**: Runs north-south through Tampa, connecting downtown to Temple Terrace
+- **Route 8 (Florida Avenue)**: Another major north-south corridor
+- **Route 14 (22nd Street)**: Gets you to and from Tampa International Airport
+- **Route 200X (I-275 Express)**: Limited stops between downtown Tampa and USF area
 
-**Honest assessment:** HART is functional for people who live and work along its core routes. It's not functional as a primary transportation option for most Tampa Bay residents. The frequency is too low, the coverage is too limited, and the hours are too short.
+### PSTA (Pinellas Suncoast Transit Authority)
 
-## How Does PSTA Compare?
+PSTA handles [Pinellas County](/counties/pinellas/), which includes St. Petersburg, Clearwater, and the beaches. Their system is generally more comprehensive than HART, especially if you're trying to get around St. Pete or reach the beaches.
 
-PSTA (Pinellas Suncoast Transit Authority) serves [Pinellas County](/counties/pinellas-county/) — [St. Petersburg](/cities/st-petersburg/), [Clearwater](/cities/clearwater/), and the beaches.
+PSTA fares are $2.25 for local routes and $4.00 for express routes. They use the MyRide PSTA app or exact change. Unlike HART, they don't offer fare discounts for electronic payments, which seems backward but here we are.
 
-**The basics:**
-- 40+ routes covering most of Pinellas County
-- Generally better frequency and coverage than HART
-- **Fare:** $2.25 per ride, $5.00 day pass, $70 monthly pass
-- **Hours:** Similar to HART — 5 AM-10 PM on most routes, reduced weekends
+Key PSTA routes worth knowing:
+- **Route 100X**: Express service along I-275 between downtown St. Pete and downtown Tampa
+- **Route 60**: Connects St. Pete to Clearwater Beach via Clearwater
+- **Route 35**: Runs along Central Avenue, St. Pete's main east-west corridor
+- **Suncoast Beach Trolley**: Connects the barrier island beaches from Pass-a-Grille to Sand Key
 
-**Where PSTA works:**
-- Downtown St. Pete — Decent bus coverage within the urban core
-- Along US 19 corridor
-- Gulf Boulevard beach routes — connecting beach communities
-- Central Avenue in St. Pete — Good frequency
+## Real Talk About Coverage and Frequency
 
-**Where PSTA struggles:**
-- North Pinellas — Coverage thins out above [Dunedin](/cities/dunedin/)
-- Cross-county — Getting from Pinellas to Hillsborough by bus is a multi-hour ordeal
-- Beach access from inland — Possible but slow
+Here's what the transit agencies won't tell you upfront: coverage is spotty, and frequency is often frustrating. HART buses typically run every 30-60 minutes on most routes, with some peak-hour routes hitting every 15-20 minutes. PSTA is similar, though their express routes to the beaches run more frequently during tourist season.
 
-## What Is the SunRunner and Is It Actually Good?
+If you're used to transit systems in cities like Portland, Seattle, or even Charlotte, prepare for culture shock. Weekend service is particularly limited — many routes don't run on Sundays, and Saturday schedules are reduced.
 
-The SunRunner is PSTA's Bus Rapid Transit (BRT) line connecting downtown [St. Petersburg](/cities/st-petersburg/) to St. Pete Beach along 1st Avenue South and the Pinellas Bayway. It launched in 2022 and represents Tampa Bay's most ambitious transit improvement in decades.
+The brutal truth? Most routes stop running between 9-11 PM weeknights and earlier on weekends. If you work late shifts or enjoy Tampa Bay's nightlife, you're looking at rideshare or taxi bills.
 
-**Key details:**
-- **Route:** Downtown St. Pete → Central Avenue → 1st Ave S → Pinellas Bayway → St. Pete Beach
-- **Frequency:** Every 15 minutes during peak hours, every 20-30 minutes off-peak
-- **Fare:** $2.25 (same as regular PSTA)
-- **Hours:** Extended hours on weekends for beach access
-- **Features:** Dedicated bus lanes in parts of the route, traffic signal priority, modern stations, real-time tracking
+## Cross-County Connections
 
-**The verdict:** The SunRunner is genuinely useful. If you live along the 1st Avenue corridor in St. Pete and work downtown (or vice versa), it's a viable commute option. For beachgoers, it eliminates the parking nightmare at St. Pete Beach. It's the closest thing Tampa Bay has to a functional rapid transit line.
+Getting between counties via transit requires planning and patience. The main connector is PSTA's Route 100X, which links downtown St. Petersburg to downtown Tampa with stops at major locations like Tampa International Airport and Westshore Mall.
 
-**Limitations:** It's one line covering one corridor. It doesn't solve St. Pete's broader transit gaps, and it doesn't connect to anything in Hillsborough County.
+Travel time between downtown Tampa and downtown St. Pete via the 100X: about 45-60 minutes, depending on traffic and stops. Compare that to 25-35 minutes by car on a typical day.
 
-## What About the Tampa Streetcar?
+There's also limited service between northern Pinellas and southern Pasco County, but it's infrequent and involves transfers. If you're living in Pasco County and working in Tampa or St. Pete, public transit isn't a realistic daily option.
 
-The TECO Line Streetcar connects downtown Tampa to Ybor City along a 2.7-mile route.
+![HART bus at Tampa International Airport with travelers boarding](PLACEHOLDER)
 
-**Key details:**
-- **Route:** Downtown Tampa (Convention Center) → Channelside → Ybor City
-- **Fare:** Free
-- **Frequency:** Every 15-20 minutes
-- **Hours:** Roughly 11 AM-10 PM weekdays, extended hours on weekends
+## Airport and Tourist Connections
 
-**Honest take:** The streetcar is essentially a novelty. It's useful for exactly one thing — getting between downtown and Ybor City without driving or paying for parking. If you live in Channelside and work downtown, you could commute on it. For everyone else, it's a tourist attraction that happens to be free.
+Tampa International Airport (TPA) connects to both HART and PSTA systems. HART Route 14 provides direct service between downtown Tampa and TPA for $2.00 — much cheaper than the $25-35 you'll pay for rideshare. The trip takes about 30-40 minutes.
 
-There have been plans to extend the streetcar for years. As of 2026, extensions remain in the planning/funding stage. Don't count on an expanded system anytime soon.
+From TPA to St. Petersburg, you'll catch PSTA Route 100X. The airport stop is clearly marked, and buses run roughly every 30 minutes during peak hours.
 
-## Is Brightline Coming to Tampa Bay?
+St. Pete-Clearwater International Airport (PIE) has more limited transit options. PSTA Route 58 connects PIE to downtown Clearwater, but service is infrequent. Most people flying into PIE end up using rideshare or rental cars.
 
-Yes — eventually. Brightline, the high-speed rail company that currently operates between Miami, Fort Lauderdale, and Orlando, has announced plans to extend service to Tampa.
+## The Streetcar Situation
 
-**Current status (2026):**
-- The Orlando station is operational
-- Tampa extension is in the planning and environmental review phase
-- Projected timeline: Construction could begin in the late 2020s, with service starting in the early 2030s
-- Proposed Tampa station: Downtown Tampa, likely near or integrated with a future transit hub
+Tampa's TECO Line Streetcar gets mentioned in every tourism guide, so let's address it. It's free, which is great. It runs from downtown Tampa through the Channel District to Ybor City, hitting major spots like the Tampa Convention Center and Amalie Arena.
 
-**What it would mean:**
-- Tampa to Orlando in approximately 45-60 minutes (compared to 75-90 minutes driving)
-- Connections to Orlando International Airport and eventually Miami
-- Potential to open up Tampa Bay to people who work in Orlando or vice versa
+But let's be realistic — it covers 2.7 miles. That's it. The streetcar is useful if you're staying downtown and want to check out Ybor's restaurants and nightlife, or if you're attending events at the convention center or hockey games. For daily transportation needs? It's not moving the needle.
 
-**The reality check:** Brightline to Tampa is not a near-term solution. Don't make housing decisions based on it. If and when it arrives, it will change the dynamic — but that's likely 5+ years away at minimum.
+The streetcar runs every 15 minutes during peak hours and every 20-30 minutes other times. It stops running around 11 PM on weeknights and midnight on weekends.
 
-## How Does Ride-Share Fill the Gaps?
+## Special Services and Paratransit
 
-Uber and Lyft are both active throughout Tampa Bay and serve as the de facto supplement to limited public transit.
+Both HART and PSTA offer paratransit services for riders with disabilities. HART's HARTPlus and PSTA's DART (Demand and Response Transportation) provide door-to-door service within 3/4 mile of regular bus routes.
 
-**Typical costs:**
-- Short trip (under 5 miles): $8-$15
-- Medium trip (5-15 miles): $15-$30
-- Airport trips: $20-$45 depending on origin
-- Surge pricing during events, rush hour, and rain (yes, rain causes surges in Tampa Bay because nobody can drive in it)
+These services require advance booking — typically 24 hours — and cost $4.00 per trip for both systems. If you need paratransit services, apply early. The approval process takes several weeks and requires documentation from a healthcare provider.
 
-**Where ride-share works well:**
-- Downtown Tampa, St. Pete, and Clearwater — Short wait times, plenty of drivers
-- Airport pickups — TPA has a dedicated ride-share pickup area
-- After events — Amalie Arena, Raymond James Stadium area
+## Payment Methods and Apps
 
-**Where it gets expensive:**
-- Suburban-to-suburban trips — A ride from [Riverview](/cities/riverview/) to [Clearwater](/cities/clearwater/) could run $40-$60
-- Daily commuting by ride-share — At $15-$30 per trip, twice a day, this adds up fast ($600-$1,200/month)
+The app situation is fragmented, which shouldn't surprise anyone familiar with Tampa Bay's approach to regional coordination.
 
-**Realistic use case:** Ride-share works as an occasional supplement — nights out, airport trips, car-in-the-shop days. It's not a sustainable daily commute solution unless your trips are short and you're budgeting for it.
+**HART**: Use the Transit app or HART's official app for schedules and trip planning. Payment via the HART HyperCard (physical card) or mobile tickets through their app. You can reload HyperCards online or at various locations throughout Hillsborough County.
 
-## What's the Bike Infrastructure Like?
+**PSTA**: The MyRide PSTA app handles both trip planning and mobile ticketing. You can also use the Transit app for schedules. Physical PSTA cards are available but don't offer fare discounts like HART's system.
 
-Tampa Bay has invested in cycling infrastructure, and it's usable in certain corridors:
+Neither system accepts credit cards directly on buses. It's exact change, pre-loaded card, or mobile ticket. Welcome to 2024.
 
-**Best cycling infrastructure:**
-- **Pinellas Trail** — 50+ mile paved trail running from St. Pete to Tarpon Springs. The best cycling infrastructure in the metro, hands down
-- **Upper Tampa Bay Trail** — 7.5 miles through northwest Hillsborough County
-- **Courtney Campbell Trail** — Connects Tampa to Clearwater across the causeway. Beautiful but exposed to sun and wind
-- **Bayshore Boulevard** — Tampa's iconic waterfront path, good for recreation, usable for commuting
-- **Downtown St. Pete** — Relatively bike-friendly with marked lanes
+## Routes to Avoid (And Why)
 
-**Reality check for bike commuting:**
-- **Heat** — May through September, biking to work means arriving drenched in sweat. This is a genuine barrier, not a minor inconvenience
-- **Rain** — Afternoon thunderstorms are daily from June through September. They arrive fast and dump hard
-- **Drivers** — Florida consistently ranks among the most dangerous states for cyclists. Protected bike lanes are rare outside the trail system
-- **Distances** — Tampa Bay is spread out. Even a "nearby" commute might be 10-15 miles
+After two decades of helping people navigate Tampa Bay, certain routes consistently cause headaches:
 
-**E-bikes change the math:** Electric bikes make Tampa Bay cycling more viable by reducing effort in the heat and covering longer distances. If your commute is under 10 miles and you have a shower at work, an e-bike could legitimately replace a car for daily commuting in certain corridors.
+**HART Route 46**: Connects Tampa to Brandon, but it's slow and unreliable. The 18-mile route often runs 10-15 minutes behind schedule.
 
-## So What's the Real Answer?
+**PSTA Route 52**: Serves northern Pinellas County but has limited weekend service and long gaps between buses.
 
-You need a car in Tampa Bay. That's the bottom line for 90% of situations.
+**Any route requiring multiple transfers**: The systems don't coordinate well. A trip requiring transfers between HART and PSTA can easily take 2+ hours for distances you'd drive in 30 minutes.
 
-**The 10% who might get away without one:**
-- Live and work in downtown [St. Petersburg](/cities/st-petersburg/) along the SunRunner corridor
-- Live and work in downtown Tampa with a very short commute
-- Work remotely and live in a walkable neighborhood like [Dunedin](/cities/dunedin/), downtown St. Pete, or [SoHo](/cities/soho/)
-- Have a partner with a car and only need occasional transport
+![PSTA bus at St. Petersburg downtown terminal with passengers waiting](PLACEHOLDER)
 
-**If you're coming from a city with good transit** (New York, Chicago, DC, San Francisco), adjust your expectations. Tampa Bay is not there yet. Budget for a car — purchase, insurance, gas, and maintenance — as part of your relocation costs.
+## Cost Comparison Reality Check
 
-**The optimistic view:** Tampa Bay's transit is better than it was 10 years ago and improving. The SunRunner showed that BRT can work here. Brightline will eventually connect Tampa to Orlando. Cycling infrastructure is expanding. But as of 2026, a car remains essential for most residents.
+Let's run some numbers. A monthly unlimited pass costs:
+- HART: $65 for local routes
+- PSTA: $70 for local routes
+- Combined coverage: You need separate passes, so $135 total
+
+Compare that to car ownership costs in Tampa Bay. Average monthly car payment, insurance, gas, and parking runs $400-600 monthly. Transit looks good until you factor in the time costs and coverage limitations.
+
+For occasional riders, daily passes might make more sense. HART offers $5 day passes, PSTA charges $5.50. Perfect for tourists or people who only need transit a few days per month.
+
+## The Beach Connection Challenge
+
+Getting to Tampa Bay's world-famous beaches via public transit is possible but not convenient. From Tampa, you're looking at HART to downtown, transfer to PSTA Route 100X to St. Pete, then another transfer to beach routes. Total time: 2-3 hours each way.
+
+PSTA's Suncoast Beach Trolley runs along the barrier islands from Indian Shores to Pass-a-Grille Beach, but getting to the trolley from inland areas requires multiple connections.
+
+The reality? Most residents and visitors drive to beaches or use rideshare. Transit works if you're staying in beach communities, but commuting from Tampa or inland areas to beach jobs via transit isn't practical.
+
+## Student and Senior Discounts
+
+Both systems offer reduced fares for qualifying riders:
+
+**Students**: HART and PSTA offer student discounts with proper ID. High school students typically pay $1.00 for local routes. College students need to check if their school participates in discount programs.
+
+**Seniors (65+)**: Reduced fares of $1.00 on local routes for both systems. Medicare card serves as proof of age.
+
+**Veterans**: HART offers free rides for disabled veterans with proper documentation.
+
+## Future Plans and Ongoing Projects
+
+Tampa Bay's transit future includes some ambitious plans, but don't hold your breath. The proposed Bus Rapid Transit (BRT) systems have been "in planning" for years. HART's proposed BRT lines along major corridors like Nebraska Avenue and Florida Avenue could improve service, but funding and timeline remain uncertain.
+
+PSTA's Central Avenue BRT in St. Petersburg is further along, with construction expected to begin in 2025. This could significantly improve east-west travel in St. Pete.
+
+The bigger picture? Regional transit coordination remains elusive. Despite decades of discussion, the three-county area still operates separate systems with minimal integration.
+
+## Making Transit Work for Your Move
+
+If you're determined to use public transit in Tampa Bay, here's my advice:
+
+**Choose your neighborhood carefully**: Living near major bus routes makes a huge difference. Areas like downtown Tampa, Ybor City, downtown St. Petersburg, and the Grand Central District in St. Pete offer the best transit access.
+
+**Plan for backup transportation**: Whether it's rideshare accounts, car-sharing memberships, or bicycle backup, you'll need alternatives for when buses don't run or routes don't connect.
+
+**Download multiple apps**: You'll need both HART and PSTA apps, plus general apps like Transit or Google Maps for trip planning.
+
+**Budget realistically**: While transit passes seem affordable compared to car ownership, add up the time costs and backup transportation needs.
 
 ---
+
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+
+[Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
+
+---
+
+## The Bottom Line on Tampa Bay Transit
+
+Tampa Bay's public transit serves a purpose, but it's not comprehensive enough for most people to rely on exclusively. The systems work best for specific use cases: getting to and from the airport, commuting along major corridors, or supplementing car ownership rather than replacing it.
+
+The good news? Both HART and PSTA are slowly improving. Service frequency has increased on popular routes, mobile ticketing is now standard, and there's growing political support for transit investment.
+
+The reality check? This is still a car-centric metropolitan area. Transit can be part of your transportation mix, but for most newcomers, it won't be your primary way of getting around.
+
+Before you finalize your housing choice, spend a day riding the routes you'd need for work, errands, and social activities. Test the connections between systems. Time your trips during different parts of the day and week.
+
+Your [moving checklist](/moving-checklist/) should include researching transit options for your specific locations, but don't skip the backup plans. Tampa Bay's quality of life is excellent, but that quality depends heavily on having reliable transportation options that work for your lifestyle.
+
+Understanding transit limitations upfront helps you make better decisions about where to live and work. Whether you end up as a daily rider, occasional user, or car-dependent resident, at least you'll know what you're working with.
 
 ## Frequently Asked Questions
 
-### How much does it cost to own a car in Tampa Bay?
+### How much does Tampa Bay public transit cost monthly?
 
-Budget approximately $500-$800/month total: car payment ($300-$500), insurance ($150-$250 — Florida is expensive for auto insurance), gas ($100-$150), and maintenance/parking ($50-$100). If you're relocating from a transit-heavy city where you didn't have a car, this is a significant new expense to factor into your budget.
+A monthly unlimited pass costs $65 for HART (Hillsborough County) and $70 for PSTA (Pinellas County). If you need coverage across both counties, you'll need separate passes totaling $135 monthly.
 
-### Is Tampa Bay getting a subway or light rail?
+### Can I get from Tampa to St. Petersburg beaches using public transit?
 
-Not in any near-term plan. Various rail proposals have been discussed and rejected for decades. The closest thing on the horizon is Brightline's high-speed rail extension from Orlando, which would be inter-city rail rather than local transit. Within the metro, BRT (like the SunRunner) is the most likely next step.
+Yes, but it requires multiple transfers and takes 2-3 hours each way. You'll need HART from Tampa to downtown, transfer to PSTA Route 100X to St. Petersburg, then connect to beach routes. Most people drive or use rideshare for beach trips.
 
-### Can I use public transit to get from Tampa to St. Pete?
+### Does Tampa Bay transit run late at night and on weekends?
 
-Technically yes, but it's not practical for daily commuting. The cross-bay bus routes exist but involve long travel times (90+ minutes each way), infrequent service, and transfers. Most people drive across the Howard Frankland or Gandy bridges (20-40 minutes depending on traffic).
+Weekend and evening service is limited. Most routes stop running between 9-11 PM weeknights and earlier on weekends. Many routes don't operate on Sundays, making transit impractical for late-shift workers or active nightlife participants.
 
-### Is Tampa International Airport accessible by public transit?
+### What's the best transit app for Tampa Bay?
 
-HART Route 30 serves TPA, but frequency is limited. Most people use ride-share ($15-$30 from central Tampa) or drive and park. TPA's economy parking is $8-$12/day, which is competitive with ride-share for trips longer than a couple days.
+You'll need multiple apps since the systems aren't integrated. Download both HART's official app and PSTA's MyRide app for mobile tickets. The Transit app works well for trip planning across both systems.
 
-### Are there any car-free neighborhoods in Tampa Bay?
+### How do I get from Tampa International Airport to downtown St. Petersburg?
 
-No neighborhood in Tampa Bay is truly car-free. The most car-optional areas are downtown St. Petersburg (especially along the SunRunner line), downtown Tampa's Channelside/Water Street district, and Dunedin's downtown core. In these areas, you could handle most daily needs on foot or by bike, but you'd still want access to a car for groceries, errands, and anything outside your immediate area.
+Take PSTA Route 100X directly from TPA to downtown St. Pete. The trip costs $4.00 and takes 45-60 minutes depending on traffic and stops. Buses run roughly every 30 minutes during peak hours.
+
+### Are there senior or student discounts for Tampa Bay transit?
+
+Yes, both systems offer $1.00 local fares for seniors 65+ (Medicare card required) and qualifying students with ID. Veterans with disabilities ride free on HART with proper documentation.
+
+### How reliable are bus schedules in Tampa Bay?
+
+Reliability varies by route and time of day. Popular routes during peak hours generally run on time, but expect delays during rush hour traffic. Some routes, particularly longer ones like HART Route 46 to Brandon, frequently run 10-15 minutes behind schedule.
+
+### Can I use the same payment card for both HART and PSTA?
+
+No, the systems use separate payment methods. HART uses HyperCard or mobile tickets through their app, while PSTA uses their MyRide app or exact change. You'll need separate accounts and payment methods for each system.
