@@ -27,7 +27,6 @@ The dream of waking up to water views and stepping onto your own dock isn't just
 
 Tampa Bay's 400+ miles of coastline offer everything from $500,000 canal homes to $5 million bayfront estates. The key is understanding what you're actually buying beyond the pretty view.
 
-![Waterfront home with dock on Tampa Bay at sunset](PLACEHOLDER)
 
 ## The Tampa Bay Waterfront Landscape
 
@@ -76,7 +75,6 @@ During your inspection, look for:
 
 I've seen buyers skip seawall inspections and face $30,000 repair bills within two years. Get a marine contractor to inspect any seawall over 15 years old.
 
-![Close-up of seawall inspection showing concrete panel construction](PLACEHOLDER)
 
 ---
 
@@ -131,7 +129,6 @@ Installing or modifying a dock isn't like adding a deck. You're dealing with mul
 
 The permitting process takes 3-6 months minimum. Don't assume that existing dock is legal — I've seen buyers discover unpermitted structures that had to be removed.
 
-![Aerial view of residential dock and boat lift on Tampa Bay canal](PLACEHOLDER)
 
 ## What Waterfront Living Actually Costs
 
@@ -199,7 +196,6 @@ Waterfront living often means trade-offs in school quality:
 
 Factor private school costs ($8,000-$15,000 annually) into your [cost of living calculations](/cost-of-living/) if schools matter.
 
-![Family enjoying waterfront lifestyle on private dock with boat](PLACEHOLDER)
 
 ## Investment Potential and Resale Reality
 

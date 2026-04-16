@@ -23,15 +23,12 @@ schema:
 featuredImage: "/images/blog/tampa-bay-homeschool-guide.webp"
 ---
 
-# Tampa Bay Homeschool Guide for Relocating Families
-
 Moving to Tampa Bay and considering homeschooling your kids? You're in good company. Florida's homeschool-friendly laws and Tampa Bay's robust support network make this one of the best places in the country to educate your children at home.
 
 After 23+ years helping families relocate here, I've watched the homeschool community explode. What started as scattered support groups has evolved into a sophisticated network of co-ops, resources, and educational opportunities that rivals any school district.
 
 Let me walk you through everything you need to know about homeschooling in Tampa Bay — from legal requirements to finding your tribe.
 
-![Tampa Bay homeschool family working together at kitchen table with books and laptop](PLACEHOLDER)
 
 ## Why Tampa Bay Works for Homeschooling
 
@@ -138,7 +135,6 @@ Visit multiple co-ops before committing. Most welcome visitors and many offer tr
 
 Don't feel pressure to join immediately. Many successful homeschool families start independently and add co-op activities later.
 
-![Homeschool co-op children participating in hands-on science experiment](PLACEHOLDER)
 
 ## Curriculum Choices and Resources
 
@@ -220,7 +216,6 @@ Tampa Bay's location makes it an incredible outdoor classroom. Within driving di
 
 The best part? Most offer group discounts when you organize through co-ops.
 
-![Children on educational field trip exploring nature preserve boardwalk](PLACEHOLDER)
 
 ## High School and College Prep
 

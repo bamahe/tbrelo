@@ -27,7 +27,6 @@ Let's talk about Florida water — because if you're moving here from somewhere 
 
 Florida's water issues aren't just about taste. We're dealing with hard water minerals, chlorine levels that could sterilize a hospital, and in some areas, sulfur that makes your kitchen smell like rotten eggs. The good news? The right water filtration system can transform your tap water from questionable to outstanding.
 
-![Florida homeowner testing tap water quality with TDS meter showing high mineral content](PLACEHOLDER)
 
 ## Why Florida Water Needs Extra Help
 
@@ -83,7 +82,6 @@ Water softeners use salt to exchange calcium and magnesium ions with sodium ions
 
 Expect to spend $2,800-$4,200 for a quality system installed. In areas with particularly hard water like [Wesley Chapel](/areas/wesley-chapel/) or [Lutz](/areas/lutz/), this investment typically pays for itself within 18 months through reduced cleaning product use and appliance longevity.
 
-![Professional plumber installing whole house water softener system in Florida home garage](PLACEHOLDER)
 
 ### Reverse Osmosis Whole House Systems
 
@@ -139,7 +137,6 @@ Pitcher filters like the [Brita Ultra Max Filtering Dispenser]({{amazon:B077NZSG
 - Bad: Don't address hardness or scale buildup
 - Ugly: Ongoing filter costs can exceed $200 annually for a family of four
 
-![Kitchen counter setup showing various point-of-use water filters including under-sink RO system and countertop options](PLACEHOLDER)
 
 ## Shower and Bath Filtration
 
@@ -202,7 +199,6 @@ The [Safe Home ULTIMATE Drinking Water Test Kit]({{amazon:B000Q5OERS}}) tests fo
 
 For basic hardness testing, [LaMotte Pool & Spa Test Kit]({{amazon:B004BGF2WE}}) strips work fine and cost under $20. They won't give you lab-level accuracy, but you'll know if you're dealing with soft (0-3 grains), moderate (4-7 grains), or hard water (8+ grains).
 
-![Homeowner collecting water sample for professional testing using proper collection procedures](PLACEHOLDER)
 
 ## Installation and Maintenance Costs
 
@@ -261,7 +257,6 @@ Tampa Bay water quality varies significantly by location. Here's what I've obser
 
 **New Tampa and Wesley Chapel** deal with typical hard water issues but generally good overall quality.
 
-![Map showing water quality variations across Tampa Bay counties with hardness levels and common issues marked](PLACEHOLDER)
 
 ### Well Water Considerations
 
@@ -325,7 +320,6 @@ For the ultimate water quality:
 - Smart monitoring systems
 - Professional maintenance contracts
 
-![Side-by-side comparison showing water before and after filtration treatment with clarity and mineral content differences](PLACEHOLDER)
 
 ## What to Avoid
 
@@ -359,7 +353,6 @@ DIY maintenance works for filter changes and basic troubleshooting. Call profess
 
 Local companies I recommend include **Culligan of Tampa Bay** and **Kinetico Quality Water Systems**. Both provide honest assessments and quality installations.
 
-![Professional water treatment technician performing maintenance on whole house filtration system](PLACEHOLDER)
 
 ## The Bottom Line
 

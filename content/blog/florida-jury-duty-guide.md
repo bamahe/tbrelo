@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/florida-jury-duty-guide.webp"
 ---
 
-# Florida Jury Duty — What to Expect as a New Resident
-
 Moving to Florida means dealing with new systems, new bureaucracy, and yes — eventually getting that envelope in the mail with "JURY SUMMONS" printed across it. After helping families relocate to Tampa Bay for over two decades, I've fielded countless questions about jury duty in the Sunshine State. Let me walk you through exactly what to expect.
 
 Florida takes jury duty seriously, but the process is more straightforward than most transplants fear. Whether you're coming from a state with dramatically different procedures or you've never served before, understanding Florida's system will save you stress when that summons arrives.
 
-![Florida courthouse exterior with jury entrance signs visible](PLACEHOLDER)
 
 ## How Florida's Jury Selection Actually Works
 
@@ -124,7 +121,6 @@ Common questions include:
 
 Attorneys can dismiss potential jurors "for cause" (bias or inability to serve) or use "peremptory challenges" (no reason needed, but limited number allowed).
 
-![Interior of Florida courthouse jury assembly room with rows of chairs](PLACEHOLDER)
 
 ## Tampa Bay Specific Courthouses
 
@@ -171,7 +167,6 @@ Florida allows one postponement to a later date within the same jury term (usual
 - Work conflicts with advance notice
 - Family emergencies
 
-![Jury deliberation room with conference table and chairs](PLACEHOLDER)
 
 ## What Happens If You Ignore It
 

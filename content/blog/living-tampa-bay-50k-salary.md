@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/living-tampa-bay-50k-salary.webp"
 ---
 
-# Living in Tampa Bay on a $50K Salary: A Realistic Guide to Making It Work
-
 Let's cut to the chase — earning $50,000 a year in Tampa Bay isn't easy money anymore, but it's absolutely doable if you're smart about it. I've watched this market evolve for over two decades, and while Tampa Bay has gotten pricier, there are still pockets where your dollar stretches further than you'd expect.
 
 The key isn't finding some mythical "cheap" neighborhood (those days are largely gone), but understanding exactly where your money goes and making strategic choices about housing, transportation, and lifestyle. Here's your no-nonsense roadmap.
 
-![Aerial view of affordable Tampa Bay neighborhoods with diverse housing options](PLACEHOLDER)
 
 ## The Real Numbers: What $50K Means in Tampa Bay
 
@@ -77,7 +74,6 @@ With median home prices around $420,000 in Tampa Bay as of 2024, traditional buy
 
 **Emerging Areas:** Places like Riverview, Gibsonton, or eastern Hillsborough County offer newer construction townhomes in the $280,000-350,000 range. Your commute increases, but you're building equity instead of paying someone else's mortgage.
 
-![Modern affordable housing complex in Brandon with amenities and parking](PLACEHOLDER)
 
 ## Transportation: Making Smart Moves
 
@@ -124,7 +120,6 @@ Tampa Bay's restaurant scene is incredible, but $15-20 lunch tabs and $25-35 din
 
 **Food trucks:** Tampa's food truck scene offers restaurant-quality food at $10-15 per meal. Follow favorites on social media to track locations.
 
-![Vibrant local restaurant scene in affordable Tampa Bay neighborhoods](PLACEHOLDER)
 
 ## The Best Affordable Areas for $50K Living
 
@@ -154,7 +149,6 @@ If you work in St. Petersburg or Pinellas County, consider Pinellas Park or Larg
 
 These areas lack the hip factor of St. Pete neighborhoods like Grand Central or Old Northeast, but they offer practical value with access to the same job markets and entertainment options.
 
-![Comparison of housing costs across different Tampa Bay neighborhoods](PLACEHOLDER)
 
 ---
 
@@ -226,7 +220,6 @@ Tampa Bay offers plenty of free and cheap entertainment if you know where to loo
 
 **Sports:** Tampa Bay Lightning, Rays, and Bucs tickets are available at various price points. Lightning upper-level seats start around $20-30, while Rays tickets can be found for $15-25 depending on opponent and seating.
 
-![People enjoying affordable outdoor activities at Tampa Bay parks and beaches](PLACEHOLDER)
 
 ## Career Growth and Side Hustles
 

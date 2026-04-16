@@ -23,15 +23,12 @@ schema:
 featuredImage: "/images/blog/florida-snakes-guide.webp"
 ---
 
-# Florida Snakes: The Ones That Can Kill You vs The Ones That Won't
-
 After 23 years of showing houses across Tampa Bay, I've learned that nothing makes a client freeze faster than spotting a snake in the backyard. Last month, a family from Minnesota nearly backed out of buying their dream home in Carrollwood because they saw a "massive python" by the pool. It was a rat snake. Harmless as a garden hose.
 
 Here's the truth: Florida has 46 snake species, but only six can actually hurt you. The other 40? They're doing you a favor by eating the rats, mice, and bugs that would otherwise make your life miserable.
 
 Let me break this down so you can tell the difference between a helpful neighbor and a genuine threat.
 
-![Close-up comparison of venomous vs non-venomous snake head shapes and eye characteristics](PLACEHOLDER)
 
 ## The Six That Can Kill You
 
@@ -95,7 +92,6 @@ The least dangerous of Florida's venomous snakes, but still capable of ruining y
 
 **Danger level:** Moderate. Painful bite, but rarely fatal with proper medical care.
 
-![Detailed photo showing the distinctive white mouth interior of a Florida Cottonmouth](PLACEHOLDER)
 
 ---
 
@@ -159,7 +155,6 @@ The harmless mimic of the deadly coral snake. Remember the rhyme: "Red touches b
 
 **How to tell them apart:** Scarlet kingsnakes have red bands that touch black bands, not yellow.
 
-![Side-by-side comparison of Eastern Coral Snake vs Scarlet Kingsnake showing color band patterns](PLACEHOLDER)
 
 ## Real Tampa Bay Snake Encounters
 
@@ -200,7 +195,6 @@ Several Tampa Bay companies specialize in snake removal and exclusion:
 - Snake-proof fencing installation runs $8-$15 per linear foot
 - Professional habitat modification typically costs $500-$1,500 depending on property size
 
-![Professional snake exclusion fencing installed around a Tampa Bay home](PLACEHOLDER)
 
 ## What to Do When You Find a Snake
 
@@ -303,7 +297,6 @@ Tampa Bay hospitals with antivenom on hand:
 
 **Cost reality:** Antivenom treatment can cost $50,000-$150,000 without insurance. Most insurance plans cover emergency snake bite treatment, but verify coverage levels.
 
-![Emergency medical kit specifically designed for snake bite first aid](PLACEHOLDER)
 
 ## Living with Florida's Snake Population
 

@@ -27,7 +27,6 @@ Look, buying a condo in Tampa Bay isn't what it used to be. After the Surfside t
 
 I've walked through this new reality with dozens of clients over the past three years. Some condos are crushing it with their reserves and maintenance. Others? Well, let's just say you'd rather find out before you write that check.
 
-![Tampa Bay waterfront condominiums with inspection crews and equipment visible](PLACEHOLDER)
 
 ## What Changed After Surfside
 
@@ -53,7 +52,6 @@ In Tampa Bay, I've seen inspection costs range from $15,000-$50,000 for typical 
 
 The real kicker: if the inspection finds substantial structural deterioration, the association has one year to make repairs or prove they're actively addressing the issues. No extensions, no excuses.
 
-![Licensed structural engineer conducting milestone inspection on Tampa Bay condo building](PLACEHOLDER)
 
 ## Reserve Requirements That Actually Matter
 
@@ -114,7 +112,6 @@ Board meeting minutes reveal everything associations don't want to advertise. Lo
 **Professional Assessment:**
 Consider hiring your own structural engineer for high-value purchases, especially in older buildings. Yes, it costs $2,000-$5,000, but it can save you tens of thousands later.
 
-![Condo buyer reviewing financial documents and reserve studies with realtor](PLACEHOLDER)
 
 ## Tampa Bay Market Reality Check
 
@@ -176,7 +173,6 @@ Special assessments aren't automatically deal-killers, but you need to understan
 
 When evaluating a property with pending special assessments, get details on payment terms. Many associations allow 12-24 month payment plans, which can be manageable. Lump-sum requirements are tougher but sometimes negotiable.
 
-![Tampa Bay condo association meeting with owners discussing special assessments and reserves](PLACEHOLDER)
 
 ## Financing Considerations
 

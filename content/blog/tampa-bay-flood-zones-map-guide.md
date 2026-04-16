@@ -27,7 +27,6 @@ Looking at flood zone maps in Tampa Bay feels like deciphering ancient hieroglyp
 
 Here's what every Tampa Bay resident and potential resident needs to know about flood zones, without the bureaucratic nonsense.
 
-![Detailed FEMA flood zone map showing Tampa Bay area with different colored zones marked](PLACEHOLDER)
 
 ## What Tampa Bay Flood Zones Actually Mean
 
@@ -65,7 +64,6 @@ New Port Richey and Port Richey live with flood zone realities, especially areas
 
 Trinity and Land O' Lakes generally sit in lower-risk zones, though specific developments near wetlands or retention areas need individual assessment.
 
-![Split screen comparison showing the same Tampa Bay neighborhood during normal conditions versus during flood conditions](PLACEHOLDER)
 
 ## Understanding Flood Insurance Requirements
 
@@ -93,7 +91,6 @@ FEMA updates flood maps regularly, and Tampa Bay has seen significant revisions 
 
 The National Flood Insurance Program is also transitioning to Risk Rating 2.0, which considers individual property characteristics rather than just zone designation. This could help some Tampa Bay homeowners see reduced rates while others face increases.
 
-![Modern Tampa Bay home elevated on stilts showing flood-resistant construction techniques](PLACEHOLDER)
 
 ## Smart Buying Strategies for Flood Zone Properties
 
@@ -157,7 +154,6 @@ Work with an agent specializing in Florida flood insurance before making offers.
 **Myth:** New homes don't need flood insurance.
 **Reality:** If you're financing and the property sits in a flood zone, insurance is mandatory regardless of construction date.
 
-![Aerial view of Tampa Bay showing various neighborhoods with flood zone overlay colors and labels](PLACEHOLDER)
 
 ## Living Successfully in Flood Zones
 

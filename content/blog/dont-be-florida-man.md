@@ -29,7 +29,6 @@ Let me be clear: most Florida residents are perfectly normal people who've simpl
 
 Here's your survival guide to living in the Sunshine State without becoming an internet sensation.
 
-![Florida Man newspaper headlines compilation showing absurd but real news stories](PLACEHOLDER)
 
 ## Understanding the Florida Man Phenomenon
 
@@ -55,7 +54,6 @@ Let's start with the biggest threat to your reputation: Florida heat. Between Ma
 
 Keep water everywhere. In your car, your garage, your office. Not sports drinks — water. A good rule: if you're not peeing clear, you're not drinking enough. I keep a [64-ounce water bottle]({{amazon:B07D3K7VTQ}}) in every vehicle and refill it twice daily during summer months.
 
-![Person collapsed from heat exhaustion next to a lawnmower in the middle of the day](PLACEHOLDER)
 
 ## Wildlife: They Were Here First
 
@@ -108,7 +106,6 @@ Hurricane season runs June through November, with peak activity August through O
 
 **Florida Man Move**: Hurricane parties, surfing during tropical storms, or refusing to evacuate because "it's only a Category 2."
 
-![News reporter interviewing someone grilling outside during hurricane winds](PLACEHOLDER)
 
 ## Driving: Road Rage Meets Tourist Confusion
 
@@ -150,7 +147,6 @@ Beach bars stay open late, pool parties happen year-round, and that "vacation mi
 - Attempting water sports while intoxicated
 - Driving through flooded streets after drinking
 
-![Police officer writing a ticket next to someone who drove their car into a retention pond](PLACEHOLDER)
 
 ## Technology Fails in Paradise
 
@@ -177,7 +173,6 @@ Long-time residents sometimes catch this mentality and make equally poor decisio
 
 **Florida Man Move**: Showing off for visitors by doing things you know are stupid, like hand-feeding manatees or swimming near fishing piers at night.
 
-![Tourist feeding an alligator from a boardwalk while locals watch in horror](PLACEHOLDER)
 
 ## Building Your Florida Common Sense
 

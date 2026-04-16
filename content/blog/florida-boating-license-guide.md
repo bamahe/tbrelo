@@ -29,7 +29,6 @@ You're moving to Tampa Bay, where owning a boat isn't just a hobby — it's prac
 
 Here's what 23 years of helping families relocate has taught me: most people think getting a Florida boating license is like getting a driver's license. It's not. Florida uses a "Boating Safety Education ID Card" system that's more nuanced than you'd expect.
 
-![Florida waterways showing boats on Tampa Bay with downtown skyline in background](PLACEHOLDER)
 
 ## Who Actually Needs a Florida Boating License?
 
@@ -118,7 +117,6 @@ Getting your boating license is just step one. You also need to register your bo
 
 You'll handle registration at your local tax collector's office, the same place you'll likely set up other [utilities](/utilities/) and services.
 
-![Florida boat registration stickers on a boat stern with clear FL numbers visible](PLACEHOLDER)
 
 ## Reciprocity — What About Your Current State's License?
 
@@ -219,7 +217,6 @@ Having helped hundreds of families get established in Tampa Bay, I've heard feed
 - Tampa Bay sailing conditions unique due to afternoon thunderstorms
 - Bridge clearances matter — Gandy Bridge is 43 feet
 
-![Personal watercraft and various boat types at a Tampa Bay marina during sunset](PLACEHOLDER)
 
 ## After You Get Your License — What's Next?
 

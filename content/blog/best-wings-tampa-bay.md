@@ -27,7 +27,6 @@ Tampa Bay takes wings seriously. After 23 years of helping families relocate her
 
 From Buffalo-style classics that would make Western New York proud to smoked wings that showcase our Southern roots, Tampa Bay's wing scene reflects our diverse population. Tech workers from Seattle argue with New York transplants over sauce preferences, while longtime locals quietly dominate wing eating contests at neighborhood joints.
 
-![Variety of wing styles from different Tampa Bay restaurants showing buffalo, smoked, and dry rub varieties](PLACEHOLDER)
 
 ## The Buffalo Wing Royalty
 
@@ -45,7 +44,6 @@ Don't sleep on chain restaurants when they do wings right. The Brandon location 
 
 Order a dozen Traditional Buffalo, medium heat, with ranch on the side. Their wings consistently weigh 1.5-2 ounces each — substantial enough to feel like a meal. At $12.99 for 10 wings during happy hour (3-6 PM weekdays), it's tough to beat the value.
 
-![Close-up of perfectly sauced buffalo wings with blue cheese and celery](PLACEHOLDER)
 
 ## Smoked Wing Champions
 
@@ -63,7 +61,6 @@ The Heights Public Market inside Armature Works (1910 N Ola Ave) features multip
 
 Try the Alabama White sauce — it's mayo-based with horseradish and lemon. Sounds weird, tastes incredible. Six wings run $11, but these are enormous. Factor in the riverwalk views and free parking, and it's worth the splurge.
 
-![Smoked wings with charred exterior and various sauce options](PLACEHOLDER)
 
 ## Dry Rub Specialists
 
@@ -81,7 +78,6 @@ Located at 4516 W Waters Ave, Whiskey Park does elevated bar food including outs
 
 Six wings cost $10, but they're consistently 2+ ounces each. The dry rub gets applied generously — no stingy seasoning here. Pair with their craft beer selection (15 taps, mostly Florida breweries) for the full experience.
 
-![Dry-rubbed wings with spices visible on crispy skin](PLACEHOLDER)
 
 ---
 
@@ -105,7 +101,6 @@ The South Tampa location at 3716 Henderson Blvd serves wings with an Italian twi
 
 Six wings run $11, served with gorgonzola dipping sauce. The portions are generous — these wings could easily serve as a light dinner with their Caesar salad ($8). The Henderson location gets busy during USF games, so call ahead.
 
-![International-style wings showing diverse sauces and preparations](PLACEHOLDER)
 
 ## The Late-Night Heroes
 
@@ -121,7 +116,6 @@ The Westshore location at 5016 N Florida Ave stays open until 2 AM weekends, ser
 
 Order the "Sampler" — four wings each with mild, medium, and hot sauce. At $12.99, it's perfect for testing your heat tolerance. The mild sauce is actually flavorful (not just ranch), and the hot sauce has legitimate heat without sacrificing flavor.
 
-![Late night wing dinner with multiple sauce options](PLACEHOLDER)
 
 ## Value Champions
 
@@ -137,7 +131,6 @@ This Chinese-American joint at 9402 N 56th St does surprisingly excellent wings 
 
 The wings are smaller than bar-style portions but priced accordingly. Order two dozen if you're seriously hungry. Their lunch special (11 AM-3 PM weekdays) includes 6 wings, fried rice, and egg roll for $8.99 — ridiculous value.
 
-![Value-priced wings from local establishments showing generous portions](PLACEHOLDER)
 
 ## The Gourmet Experience
 
@@ -153,7 +146,6 @@ At 4060 W Boy Scout Blvd, Ocean Prime's "Asian Glazed Wings" cost $16 for six bu
 
 These wings are more appetizer than main course, but the quality justifies the price point. Perfect for business dinners or impressing out-of-town visitors who think Tampa only does chain restaurants.
 
-![Upscale wings presentation with gourmet sauces and plating](PLACEHOLDER)
 
 ## Game Day Headquarters
 
@@ -169,7 +161,6 @@ Located at 4811 N Himes Ave, this bowling alley serves surprisingly good wings a
 
 Their "Strike Zone" wings (10 for $14.99) come with choice of five sauces. The honey BBQ is kid-friendly, while their "Gutter Ball" sauce brings serious heat. Combining bowling, wings, and drinks creates a uniquely Tampa Bay experience.
 
-![Game day spread showing multiple wing orders and sports memorabilia](PLACEHOLDER)
 
 ## The Science of Wing Excellence
 

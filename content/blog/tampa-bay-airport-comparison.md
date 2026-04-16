@@ -23,11 +23,8 @@ schema:
 featuredImage: "/images/blog/tampa-bay-airport-comparison.webp"
 ---
 
-# Tampa Bay Airport Comparison — TPA vs PIE vs SRQ vs MCO
-
 You've got options when flying out of Tampa Bay — more than most metro areas. After helping hundreds of families relocate here over 23 years, I've learned that picking the right airport can save you serious money and stress. Here's the straight story on your four realistic choices.
 
-![Modern terminal interior showing departure gates and passenger seating areas](PLACEHOLDER)
 
 ## Tampa International Airport (TPA) — The Gold Standard
 
@@ -69,7 +66,6 @@ Route options are limited compared to TPA. Most PIE flights head to vacation des
 
 Food and shopping are basic. Think Subway and Hudson News, not craft cocktails and local cuisine. For short trips, who cares? For longer layovers or delays, you'll feel the difference.
 
-![Small regional airport terminal with passengers checking in at ticket counters](PLACEHOLDER)
 
 ## Sarasota Bradenton International Airport (SRQ) — The Convenient Surprise
 
@@ -111,7 +107,6 @@ That drive from Tampa Bay to Orlando is no joke, especially during rush hour or 
 
 MCO is enormous and can be overwhelming. Plan extra time for everything: parking, security, terminal navigation, baggage claim. It's Disney World's airport, designed for volume, not convenience.
 
-![Aerial view of airport terminals and runways with aircraft parked at gates](PLACEHOLDER)
 
 ## Cost Comparison Reality Check
 
@@ -184,7 +179,6 @@ Getting to any of these airports means dealing with our [traffic patterns](/traf
 **Weekend Traffic:** Surprisingly heavy due to tourism and events
 **Construction Zones:** I-275, I-4, and US-19 seem perpetually under construction
 
-![Airport departure board showing flight times and gate numbers](PLACEHOLDER)
 
 ## Seasonal Considerations
 

@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/living-in-dunedin-guide.webp"
 ---
 
-# Living in Dunedin (Deep Dive) — What It's Really Like (Honest Relocation Guide)
-
 Look, I'll be straight with you about Dunedin. After 23 years of helping families move around Tampa Bay, I've seen people fall hard for this city — and I've also seen some folks get reality-checked by what small-town Florida living actually entails.
 
 Dunedin sits on the western edge of [Pinellas County](/counties/pinellas/), population around 36,000, and it's got this Scottish-themed charm that either clicks with you immediately or feels a bit forced. The city earned its name from Scottish settlers, and they've leaned into that heritage with Highland Games, bagpiper parades, and enough tartan to outfit a small army.
 
-![Dunedin downtown main street with Scottish-themed storefronts and palm trees](PLACEHOLDER)
 
 But here's what matters for your daily life: Dunedin delivers on walkability, community feel, and access to some of the best beaches in Florida — all while maintaining home values that haven't completely lost their minds like some Tampa Bay markets.
 
@@ -51,7 +48,6 @@ Every home comes with deeded dock space, and you're literally 10 minutes by boat
 
 Heads up: HOA fees run $200-400 monthly, and you'll need flood insurance. Hurricane prep means securing not just your house, but your dock and whatever's floating behind it.
 
-![Waterfront homes in Dunedin Isles with boats docked in canals](PLACEHOLDER)
 
 ### Countryside
 
@@ -79,7 +75,6 @@ For rentals, expect $1,800-2,200 for a decent 2-bedroom apartment, $2,400-2,800 
 
 Property taxes run about $8-12 per $1,000 of assessed value. On that $485,000 home, you're looking at roughly $4,200 annually in property taxes — reasonable by Florida standards.
 
-![Typical single-family home in Dunedin with palm trees and Spanish tile roof](PLACEHOLDER)
 
 ### Daily Living Expenses
 
@@ -121,7 +116,6 @@ Most Dunedin students attend Indian Rocks Christian School (private) or Dunedin 
 
 Private school choices include Dunedin Academy (PreK-8), Indian Rocks Christian School (K-12), and several Catholic schools within 15 minutes. Tuition ranges from $8,000-15,000 annually.
 
-![Dunedin Elementary School building with students walking to entrance](PLACEHOLDER)
 
 ### Higher Education Access
 
@@ -147,7 +141,6 @@ The trail connects to Honeymoon Island via the Dunedin Causeway, creating a car-
 
 Local bike shops like The Bicycle Outfitter stay busy with trail users, tourists, and serious cyclists who appreciate the flat terrain and gulf breezes.
 
-![Family biking on the Pinellas Trail through downtown Dunedin](PLACEHOLDER)
 
 ### Sports and Recreation
 
@@ -175,7 +168,6 @@ The area's natural beauty comes with environmental realities. Red tide blooms oc
 
 Love bugs (twice yearly), mosquitoes (summer), and no-see-ums (year-round) are part of life near the water. A good screen room or lanai becomes essential for comfortable outdoor living.
 
-![Sunset view from Honeymoon Island looking toward Dunedin mainland](PLACEHOLDER)
 
 Sinkholes occur occasionally in Pinellas County, though they're less common than in eastern parts of Tampa Bay. Homeowner's insurance typically doesn't cover sinkhole damage unless you purchase specific coverage.
 
@@ -215,7 +207,6 @@ PSTA (Pinellas Suncoast Transit Authority) operates limited bus service through 
 
 The Suncoast Parkway (toll road) provides faster access to northern Pinellas County and Pasco County, though it requires driving east to connect with the highway.
 
-![Traffic on Alt 19 during rush hour with Dunedin businesses visible](PLACEHOLDER)
 
 ## Community and Culture
 
@@ -259,7 +250,6 @@ The police department maintains a community-oriented approach. You'll see office
 
 Fire and EMS services operate through Pinellas County. The nearest station sits on Main Street, providing quick response times throughout the city.
 
-![Dunedin Fire and EMS station on Main Street](PLACEHOLDER)
 
 ## Pros and Cons of Living in Dunedin
 

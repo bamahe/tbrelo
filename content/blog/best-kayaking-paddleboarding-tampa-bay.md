@@ -27,7 +27,6 @@ When people ask me about Tampa Bay's best outdoor activities, paddling always ma
 
 The beauty of paddling in Tampa Bay? You can launch in downtown Tampa and be surrounded by dolphins within 30 minutes, or drive an hour north to springs so clear you'll think you're floating on air. I've guided clients to these spots countless times, and each one tells a different story about why Tampa Bay works for their lifestyle.
 
-![Aerial view of kayakers paddling through crystal clear springs with manatees visible below](PLACEHOLDER)
 
 ## Tampa Bay's Paddling Landscape
 
@@ -57,7 +56,6 @@ The headspring maintains a constant 72 degrees, and the clarity rivals Weeki Wac
 
 **Pro tip:** Start early at Rainbow Springs State Park ($6 entrance fee) and arrange pickup at the KP Hole County Park. Most rental operations handle the shuttle service for around $20.
 
-![Paddleboarders navigating through a tunnel of overhanging cypress trees with Spanish moss](PLACEHOLDER)
 
 ### Crystal Springs Preserve
 
@@ -97,7 +95,6 @@ Paddling Tampa Bay proper requires more skill and planning than spring runs, but
 
 **Tidal considerations:** Plan around tides. Outgoing tides help if you're heading toward the mouth of the bay, but incoming tides make return trips much easier. Always check weather — afternoon thunderstorms develop quickly and create dangerous conditions.
 
-![Group of kayakers surrounded by dolphins in Tampa Bay with downtown skyline in background](PLACEHOLDER)
 
 ### Weedon Island Preserve
 
@@ -127,7 +124,6 @@ Tampa Bay paddling works year-round, but each season brings distinct advantages 
 
 **Fall (September-November):** My personal favorite. Temperatures cool down, afternoon storms become less frequent, and summer crowds disappear. October through November offers the year's most consistent paddling weather.
 
-![Sunrise paddle scene with mist rising from spring-fed waters and cypress trees silhouetted against orange sky](PLACEHOLDER)
 
 ---
 
@@ -180,7 +176,6 @@ Twenty-three years of sending people onto Tampa Bay waters taught me that prepar
 - **Caladesi Island approach:** Open-water crossing, navigation skills required
 - **Hillsborough River (full length):** 54 miles total with various access points
 
-![Family with children in tandem kayaks exploring a mangrove tunnel with clear blue-green water below](PLACEHOLDER)
 
 ## Planning Your Paddling Adventures
 
@@ -208,7 +203,6 @@ Tampa Bay's paddling scene continues evolving as more people discover these wate
 
 The key is matching your expectations with conditions and your skill level. Whether you're seeking manatee encounters, urban adventure, or pristine spring paddling, Tampa Bay delivers — if you know where to look.
 
-![Paddleboarder at golden hour on calm bay waters with pelicans flying overhead and Tampa skyline in distance](PLACEHOLDER)
 
 ---
 

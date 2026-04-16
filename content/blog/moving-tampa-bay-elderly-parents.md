@@ -27,7 +27,6 @@ Moving across the country is stressful enough. Add elderly parents to the equati
 
 Whether your parents are moving with you or you're relocating to be closer to them, Florida's combination of no state income tax, year-round warmth, and excellent healthcare infrastructure makes it an attractive destination for retirees. But the devil's in the details, and those details require careful orchestration.
 
-![Elderly couple reviewing documents with adult children around a kitchen table](PLACEHOLDER)
 
 ## Why Tampa Bay Appeals to Families with Elderly Parents
 
@@ -69,7 +68,6 @@ More families are choosing homes accommodating multiple generations. Look for pr
 
 Consider future needs when house hunting. Single-story layouts, wider doorways, grab bar potential in bathrooms, and minimal steps become increasingly important.
 
-![Modern assisted living facility exterior with landscaping and welcoming entrance](PLACEHOLDER)
 
 ## Healthcare Considerations and Medicare Navigation
 
@@ -117,7 +115,6 @@ Digital connections help bridge transitions. Set up tablets or smartphones with 
 
 Consider gradual transitions when possible. Extended visits to Tampa Bay before permanent relocation help parents acclimate to climate, surroundings, and local resources without the pressure of permanent commitment.
 
-![Adult child helping elderly parent pack belongings in boxes in a bedroom](PLACEHOLDER)
 
 ## Financial Planning and Budgeting
 
@@ -153,7 +150,6 @@ Update wills, powers of attorney, and healthcare directives to reflect Florida l
 
 Consider establishing relationships with elder law attorneys before crises arise. These specialists understand Medicare, Medicaid, guardianship, and estate planning issues affecting seniors specifically.
 
-![Senior couple meeting with financial advisor or lawyer at a desk with documents](PLACEHOLDER)
 
 ## Navigating Tampa Bay's Unique Characteristics
 

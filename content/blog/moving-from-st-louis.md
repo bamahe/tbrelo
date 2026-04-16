@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/moving-from-st-louis.webp"
 ---
 
-# Moving from St Louis to Tampa Bay — The Complete Relocation Guide
-
 Making the jump from Missouri to Florida's Gulf Coast? You're joining thousands of former St Louis residents who've discovered what we've known for years — Tampa Bay delivers everything you love about the Midwest (friendly people, reasonable cost of living, actual neighborhoods) without the brutal winters.
 
 I've helped dozens of families make this exact move over my 23+ years as a Tampa Bay REALTOR. The transition is smoother than most people expect, but there are definitely things you need to know before you pack up that U-Haul.
 
-![Comparison shot showing snowy St Louis Gateway Arch next to sunny Tampa skyline](PLACEHOLDER)
 
 ## Why St Louis Families Choose Tampa Bay
 
@@ -71,7 +68,6 @@ Yes, homes cost more upfront. But dig deeper:
 - **HOA fees:** More common here, typically $150-350/month in newer communities
 - **No basement costs:** Foundation and HVAC maintenance generally lower
 
-![Split image showing typical St Louis home with basement vs Tampa Bay home with screened pool](PLACEHOLDER)
 
 ---
 
@@ -107,7 +103,6 @@ These master-planned communities offer the suburban family lifestyle you know �
 
 These are Tampa Bay's character neighborhoods — diverse, walkable, with local flavor. Ybor City has the urban grit and historic feel, $200,000-$400,000. Various Heights neighborhoods offer bungalow charm and community spirit.
 
-![Aerial view showing tree-lined Tampa neighborhood streets similar to St Louis suburbs](PLACEHOLDER)
 
 ## The Weather Reality Check
 
@@ -156,7 +151,6 @@ Tampa Bay's economy is more diversified than many people realize — we're not j
 
 Many St Louis transplants keep their Missouri employer initially, benefiting from Florida's tax advantages on the same salary. Popular co-working spaces include Industrious (multiple locations) and local favorites like SALT Workspace in St Petersburg.
 
-![Modern Tampa office building with professional workers outside](PLACEHOLDER)
 
 ## Schools: Comparing Education Options
 
@@ -209,7 +203,6 @@ The most popular route takes 14-16 hours of driving time:
 - **PODS container:** $2,400-$3,200 including delivery
 - **ABF U-Pack:** $2,800-$3,600
 
-![Moving truck on I-75 with Florida welcome sign visible](PLACEHOLDER)
 
 ### Shipping Your Car
 
@@ -273,7 +266,6 @@ Tampa Bay's sports scene won't make you forget St Louis, but it has its charms.
 - Public courses like Westchase Golf Club ($45-65)
 - Semi-private options like Carrollwood Country Club
 
-![Family enjoying Tampa Bay beach activities with St Petersburg skyline in background](PLACEHOLDER)
 
 ## Food Scene: Beyond Toasted Ravioli
 
@@ -306,7 +298,6 @@ Tampa Bay's healthcare system rivals any major metro area — often better than 
 ### Specialist Availability
 One advantage over St Louis: shorter wait times for many specialists due to the concentration of medical facilities. Dermatologists and cardiologists particularly accessible given Florida's demographics.
 
-![Modern Tampa General Hospital building with medical professionals outside](PLACEHOLDER)
 
 ## Cultural Life: More Than You'd Expect
 
@@ -345,7 +336,6 @@ Major national banks operate here, but consider local options:
 - **Suncoast Credit Union:** Strong mortgage programs
 - **CenterState Bank:** Community banking with personal service
 
-![Tampa Bay sunset over water with downtown skyline silhouetted](PLACEHOLDER)
 
 ## Timeline: Planning Your Move
 

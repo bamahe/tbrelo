@@ -25,7 +25,6 @@ featuredImage: "/images/blog/tampa-bay-mental-health-resources.webp"
 
 Finding quality mental health care shouldn't feel like another stressor in your life. After 23 years helping families settle into Tampa Bay, I've watched our area grow from having limited options to becoming a region with genuinely excellent mental health resources. Here's what you actually need to know — no fluff, just real information about getting help.
 
-![Professional therapist's office in Tampa Bay with comfortable seating and calming decor](PLACEHOLDER)
 
 ## The Reality of Mental Health Care in Tampa Bay
 
@@ -104,7 +103,6 @@ Dial 2-1-1 from anywhere in Tampa Bay for immediate connection to mental health 
 
 Most therapists offer 45-50 minute sessions weekly or bi-weekly. Group therapy sessions typically cost $40-80 per session and can be highly effective for specific issues like grief, addiction recovery, or social anxiety.
 
-![Group therapy session in progress at a Tampa Bay mental health facility](PLACEHOLDER)
 
 ## Specialized Mental Health Services
 
@@ -168,7 +166,6 @@ Beyond the VA system, several private practices specialize in military families:
 
 **Salud Florida** provides low-cost mental health services with fully bilingual staff at locations in Tampa, Plant City, and Brandon.
 
-![Diverse group of mental health professionals collaborating at a Tampa Bay clinic](PLACEHOLDER)
 
 ---
 

@@ -27,7 +27,6 @@ Look, everyone knows Tampa Bay gets hot. But when people ask me "how hot?" they'
 
 After 23+ years of showing houses in August and watching clients wilt on front porches, I can tell you the real story about Tampa Bay's heat. The temperature on your weather app? That's just the beginning.
 
-![Thermometer showing high temperature with Tampa Bay skyline in background during summer heat](PLACEHOLDER)
 
 ## The Real Numbers: Heat Index vs. Temperature
 
@@ -61,7 +60,6 @@ I've noticed this showing properties along Dale Mabry versus homes in Tree Pines
 
 We're at 27.9°N latitude, putting us in the subtropical zone. Add our flat topography (no mountains to block hot air masses), proximity to the Gulf Stream, and prevailing wind patterns from the south, and you've got a recipe for persistent heat and humidity.
 
-![Satellite view of Tampa Bay showing water bodies surrounding the urban area](PLACEHOLDER)
 
 ## The Worst Months: What to Expect
 
@@ -107,7 +105,6 @@ Conversely, St. Pete Beach, Madeira Beach, and Clearwater Beach benefit from Gul
 
 **Dunedin/Palm Harbor:** Northern Pinellas gets slightly more relief from seasonal weather patterns.
 
-![People seeking shade under umbrellas at a Tampa Bay beach during peak summer heat](PLACEHOLDER)
 
 ## Daily Heat Patterns: When It Gets Dangerous
 
@@ -161,7 +158,6 @@ Forget about looking professional outdoors in summer. Light-colored, loose-fitti
 
 In Tampa's summer heat, you need 16-24 ounces of water per hour of outdoor activity. Sports drinks become necessary for extended time outside due to electrolyte loss from constant sweating.
 
-![Family staying hydrated with water bottles at a Tampa Bay outdoor event](PLACEHOLDER)
 
 ## The AC Reality: What It Really Costs
 

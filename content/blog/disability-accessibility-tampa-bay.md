@@ -27,7 +27,6 @@ Moving to a new area is challenging enough without worrying about accessibility.
 
 The good news? Tampa Bay has made significant strides in accessibility, though like anywhere, some areas shine while others lag behind. Here's what you need to know about finding truly accessible housing and communities in our region.
 
-![Accessible ramp leading to modern Tampa Bay home entrance with wide doorways and level thresholds](PLACEHOLDER)
 
 ## Understanding Tampa Bay's Accessibility Landscape
 
@@ -69,7 +68,6 @@ Hyde Park and Bayshore Boulevard require careful property selection — many his
 
 **Price range:** $450K-$850K for accessible properties
 
-![Wide, level sidewalks along Tampa Bay waterfront with accessible viewing areas and benches](PLACEHOLDER)
 
 ### St. Petersburg Downtown and Surrounding Areas
 
@@ -133,7 +131,6 @@ Even if you don't need full accessibility now, consider features that support ag
 - Step-free entries to outdoor spaces
 - Accessible laundry location
 
-![Fully accessible bathroom showing roll-in shower, grab bars, and accessible vanity in Tampa Bay home](PLACEHOLDER)
 
 ## ADA Compliance and Local Building Standards
 
@@ -178,7 +175,6 @@ Uber and Lyft offer wheelchair-accessible vehicle options, though availability v
 
 For regular medical appointments, consider establishing relationships with specialized medical transport companies — rates are often better than ride-sharing for recurring trips.
 
-![Accessible public transit bus with wheelchair ramp deployed at Tampa Bay transit station](PLACEHOLDER)
 
 ## Healthcare and Support Services
 
@@ -233,7 +229,6 @@ Most major venues offer accessibility features:
 
 **Museums:** MOAS (Museum of Arts and Sciences), Tampa Museum of Art, and Dali Museum all offer comprehensive accessibility.
 
-![Accessible beach boardwalk leading to Tampa Bay waterfront with ramp access and handrails](PLACEHOLDER)
 
 ## Cost Considerations and Financial Resources
 

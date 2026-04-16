@@ -23,15 +23,12 @@ schema:
 featuredImage: "/images/blog/florida-clothing-wardrobe-guide.webp"
 ---
 
-# Why Your Northern Wardrobe Is Useless Here — Florida Clothing Guide
-
 You've sold your house up north. The moving truck is loaded. Your parka is folded neatly in a box marked "Winter Clothes" — and that box is about to become the most useless thing in your new Tampa Bay home.
 
 After 23 years of helping families relocate to Florida, I've watched countless newcomers make the same wardrobe mistakes. They pack heavy sweaters for "Florida winters" and bring business suits meant for actual seasons. Then July hits, and they're standing in Target at 7 AM buying their third tube of anti-chafing gel.
 
 Let me save you some money and a lot of discomfort. Your northern wardrobe isn't just inadequate for Florida — it's actively working against you.
 
-![A pile of heavy winter coats, wool sweaters, and thick jeans with a "DONATE" sign, representing useless northern clothing in Florida heat](PLACEHOLDER)
 
 ## The Great Florida Reality Check
 
@@ -63,7 +60,6 @@ But here's the plot twist nobody mentions: Florida buildings are aggressively ai
 
 This means you need layers — not for seasons, but for the 30-degree temperature swings you'll experience every time you walk through a door. I've seen newcomers shivering in Costco while wearing shorts and flip-flops. It's not a good look.
 
-![Split image showing someone sweating outdoors in the Florida heat, then shivering inside an aggressively air-conditioned store](PLACEHOLDER)
 
 ---
 
@@ -118,7 +114,6 @@ Northern clothing doesn't account for the fact that everything rubs together whe
 
 Seamless construction, flat seams, and proper fit aren't luxuries anymore. They're necessities. Also, invest in good anti-chafe products like [BodyGlide]({{amazon:B000CMHCFY}}) or [Gold Bond Friction Defense]({{amazon:B00A8S6HM4}}).
 
-![Close-up of moisture-wicking synthetic fabric with water beading off it, compared to soaked cotton fabric](PLACEHOLDER)
 
 ## Specific Item Breakdown
 
@@ -168,7 +163,6 @@ Let's be adults about this. Your northern underwear isn't designed for constant 
 
 Invest in moisture-wicking, anti-microbial underwear. Brands like ExOfficio, Smartwool, and even Target's athletic lines make underwear designed for hot climates. It's not glamorous, but neither is heat rash in uncomfortable places.
 
-![A Florida-appropriate outfit laid out: lightweight shorts, moisture-wicking tank top, sun hat, and breathable sandals](PLACEHOLDER)
 
 ## Seasonal Adaptations (Yes, We Have Seasons)
 
@@ -216,7 +210,6 @@ Storm prep clothing: Quick-dry everything, waterproof shoes, layers for varying 
 
 Plan to spend $800-1,200 replacing your wardrobe basics. This isn't optional — it's a cost of relocation. But think of it as investing in your comfort and health for the next decade.
 
-![A shopping cart filled with Florida-appropriate clothing items with price tags showing reasonable costs](PLACEHOLDER)
 
 ## Common Mistakes I See Every Year
 
@@ -271,7 +264,6 @@ Buy fewer, better pieces. One quality moisture-wicking shirt will outlast three 
 
 Good brands to prioritize: Uniqlo (Airism line), Under Armour (HeatGear), Patagonia (Capilene), REI Co-op brand, and even Target's All in Motion line for budget options.
 
-![A compact Florida capsule wardrobe laid out showing the 20 essential pieces](PLACEHOLDER)
 
 ---
 

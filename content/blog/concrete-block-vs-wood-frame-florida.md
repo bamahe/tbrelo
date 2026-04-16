@@ -27,7 +27,6 @@ You're house hunting in Florida and keep hearing about "CBS" (concrete block and
 
 The difference isn't just academic — it affects your insurance premiums, your comfort during summer storms, and even your resale value. Let me break down what 23 years of Florida real estate has taught me about these two construction methods.
 
-![Comparison of concrete block home exterior next to wood frame home exterior in Florida neighborhood](PLACEHOLDER)
 
 ## The Florida Construction Reality Check
 
@@ -64,7 +63,6 @@ Here's where the rubber meets the road. My clients typically save 15-25% on home
 **Energy Efficiency That Shows on Bills**
 The thermal mass of concrete block moderates temperature swings. I've seen utility bills 20-30% lower compared to similar wood frame homes. In Tampa's climate, where AC runs 8+ months yearly, this matters.
 
-![Cross-section view showing concrete block wall construction with rebar and concrete fill](PLACEHOLDER)
 
 ### The Downsides Nobody Mentions
 
@@ -102,7 +100,6 @@ Today's wood frame construction isn't your grandfather's stick-built home. Curre
 
 I've seen well-built wood frame homes from 2010+ perform admirably in hurricanes. The key is quality construction and maintenance.
 
-![Modern wood frame construction showing hurricane clips and structural connections](PLACEHOLDER)
 
 ## Insurance: The Numbers That Actually Matter
 
@@ -141,7 +138,6 @@ Construction quality matters more than construction type. A poorly built concret
 
 But here's the thing: concrete block has a higher floor of performance. Even mediocre concrete block construction typically outperforms mediocre wood frame construction.
 
-![Aftermath photo showing different hurricane damage patterns between construction types](PLACEHOLDER)
 
 ---
 

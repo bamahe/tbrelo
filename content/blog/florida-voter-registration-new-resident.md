@@ -23,15 +23,12 @@ schema:
 featuredImage: "/images/blog/florida-voter-registration-new-resident.webp"
 ---
 
-# Florida Voter Registration Guide for New Residents
-
 Moving to Florida means updating more than just your address with Amazon Prime. Your voting registration needs attention too, and the Sunshine State has specific rules that'll catch newcomers off guard if you're not prepared.
 
 I've walked hundreds of families through the Tampa Bay relocation process over the past 23 years, and voting registration questions always come up around month two of living here. Usually right after someone realizes they can't vote in that local election they actually care about because they missed a deadline they didn't know existed.
 
 Let's fix that before it happens to you.
 
-![New Florida resident holding voter registration paperwork at a Hillsborough County elections office](PLACEHOLDER)
 
 ## Florida Residency Requirements for Voting
 
@@ -116,7 +113,6 @@ Your residential address must be where you actually live, not a P.O. Box or busi
 
 **Homeless individuals:** You can register using the address of a shelter, or provide a description of where you sleep (like "under the bridge at Kennedy Blvd and Ashley Drive"). Contact your county elections office for help with this process.
 
-![Florida voter registration form being filled out with required documentation nearby](PLACEHOLDER)
 
 ## Registration Deadlines You Cannot Miss
 
@@ -213,7 +209,6 @@ Fast-growing Pasco County now has over 380,000 registered voters. They've expand
 
 Polk County covers a large geographic area with about 480,000 registered voters. If you live in the eastern Tampa Bay suburbs like Lakeland or Winter Haven, this is your county.
 
-![Hillsborough County Elections Office building with clear signage for voter services](PLACEHOLDER)
 
 ## Common Registration Issues and Solutions
 

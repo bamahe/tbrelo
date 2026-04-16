@@ -25,7 +25,6 @@ featuredImage: "/images/blog/tampa-bay-hospitals-ranked.webp"
 
 When you're relocating to Tampa Bay, knowing where to find quality healthcare isn't just smart planning — it's essential. After 23+ years helping families move here, I've seen too many people scramble to find good medical care when they need it most. Here's your complete guide to every major hospital system in Tampa Bay, ranked by what actually matters: quality of care, wait times, and how they treat you when you're vulnerable.
 
-![Aerial view of Tampa General Hospital complex with downtown Tampa skyline in background](PLACEHOLDER)
 
 ## The Big Picture: Tampa Bay's Healthcare Landscape
 
@@ -114,7 +113,6 @@ Their emergency departments move faster than average — 42 minutes system-wide.
 
 **Best For:** Cardiac care, wellness-focused treatment, patients who want a more holistic approach.
 
-![Modern hospital lobby with families waiting and natural lighting streaming through large windows](PLACEHOLDER)
 
 ## Tier 3: Neighborhood Options
 
@@ -173,7 +171,6 @@ Here's what I tell clients about Tampa Bay emergency rooms, based on years of ex
 - Sunday evenings and Monday mornings are consistently busiest
 - If you're having chest pain or stroke symptoms, call 911 — don't drive yourself
 
-![Helicopter landing pad at major trauma hospital with emergency medical team ready](PLACEHOLDER)
 
 ## Insurance and Cost Considerations
 

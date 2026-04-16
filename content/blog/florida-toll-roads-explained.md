@@ -29,7 +29,6 @@ After 23 years of helping families move to Tampa Bay, I've watched countless new
 
 Here's everything you need to know about Florida's toll roads, minus the bureaucratic nonsense that makes the state's official websites read like tax code.
 
-![Overhead view of Florida toll plaza with SunPass and cash lanes clearly marked](PLACEHOLDER)
 
 ## The Big Picture: Florida's Toll Empire
 
@@ -76,7 +75,6 @@ E-Pass started as Central Florida's answer to SunPass and has grown into a legit
 
 **My recommendation?** If you live in Tampa Bay and rarely drive to Orlando, go SunPass. If you commute to Orlando regularly or value good customer service, E-Pass wins.
 
-![Close-up comparison of SunPass and E-Pass transponders mounted on windshields](PLACEHOLDER)
 
 ---
 
@@ -112,7 +110,6 @@ Extends from Veterans Expressway up to Citrus County. Mostly useful for weekend 
 **Current tolls:** $1.00-$4.50 for full length
 **Pro tip:** Only worth it if you value your time at $20+ per hour
 
-![Aerial view of Veterans Expressway toll plaza during rush hour traffic](PLACEHOLDER)
 
 ## The I-4 Express Lanes: Highway Robbery Made Legal
 
@@ -145,7 +142,6 @@ Drive through toll lanes without a transponder? Florida's "Toll-by-Plate" system
 
 Your mother-in-law visits from Minnesota and borrows your car? Every toll she hits without remembering to use your transponder becomes a Toll-by-Plate charge on your vehicle registration. I've seen families get $200+ surprise bills after holiday visits.
 
-![Screenshot of a Toll-by-Plate violation notice showing inflated charges](PLACEHOLDER)
 
 ## Strategic Toll Avoidance (Legal Edition)
 
@@ -189,7 +185,6 @@ Set your auto-replenish threshold too low, and you'll get hit with Toll-by-Plate
 
 **Sweet spot:** $25 minimum balance with $25 auto-replenish amounts. This covers most daily commutes without tying up too much money.
 
-![Dashboard view showing various toll transponders and account management apps on smartphone](PLACEHOLDER)
 
 ---
 
@@ -252,7 +247,6 @@ The writing's on the wall: Florida's transportation future involves paying for s
 
 High toll costs are reviving carpooling among Tampa Bay professionals. Facebook groups like "Tampa Bay Commuter Share" connect people traveling similar routes. Splitting a $200 monthly toll bill makes everyone's life more affordable.
 
-![Split-screen showing expensive toll costs versus carpooling savings calculator](PLACEHOLDER)
 
 ## Frequently Asked Questions
 

@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/temporary-housing-tampa-bay.webp"
 ---
 
-# Temporary Housing in Tampa Bay — Where to Stay While House Hunting
-
 Finding a place to crash while you hunt for your forever home in Tampa Bay? You're not alone. After 23 years helping families relocate here, I've seen every housing situation imaginable — from corporate executives living in extended stays for three months to families camping out at relatives' places in Brandon while they figure out which school district works best.
 
 Here's the reality: Tampa Bay's housing market moves fast, and you'll want boots on the ground to compete. But temporary housing costs add up quickly, so let's break down your options from most practical to "only if you're desperate."
 
-![Aerial view of downtown Tampa skyline with Hillsborough River, showing temporary housing options in the urban core](PLACEHOLDER)
 
 ## Extended Stay Hotels — Your Most Reliable Option
 
@@ -65,7 +62,6 @@ Airbnb and VRBO dominate Tampa Bay's short-term rental market. You'll find every
 
 **Suburban Options** — Temple Terrace, Carrollwood, and Seminole Heights offer house rentals at $100-180 nightly. More space for families but you'll need a car for everything.
 
-![Interior of a furnished short-term rental showing living space with Florida-style decor and kitchen area](PLACEHOLDER)
 
 ### Making Short-Term Rentals Work
 
@@ -115,7 +111,6 @@ Set clear timelines upfront. "We're targeting 4-6 weeks" works better than "unti
 
 The Tampa Bay area has tons of transplants, meaning lots of families have guest rooms that rarely get used. But don't overstay your welcome — relationships matter more than saving money.
 
-![Modern furnished apartment living room showing temporary housing setup with comfortable seating and work area](PLACEHOLDER)
 
 ## Budget Reality Check — What This Actually Costs
 
@@ -156,7 +151,6 @@ Your temporary housing location impacts everything from commute times to restaur
 
 **Clearwater/Safety Harbor** — Pinellas County base with beach access. Good if you're focused on St. Pete/Clearwater job markets.
 
-![Map showing strategic temporary housing locations across Tampa Bay with major highways and districts marked](PLACEHOLDER)
 
 ## Timing Your Temporary Stay
 

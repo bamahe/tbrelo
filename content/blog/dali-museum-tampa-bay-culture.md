@@ -23,11 +23,8 @@ schema:
 featuredImage: "/images/blog/dali-museum-tampa-bay-culture.webp"
 ---
 
-# The Dali Museum and Beyond — Tampa Bay's Best Cultural Experiences
-
 Tampa Bay isn't just beaches and theme parks. After helping families relocate here for over two decades, I've watched this region develop into a legitimate cultural destination that rivals cities twice its size. The crown jewel? The Dalí Museum in downtown St. Petersburg, but that's just the beginning of what makes this area special for arts and culture lovers.
 
-![The iconic glass bubble architecture of the Dalí Museum overlooking Tampa Bay](PLACEHOLDER)
 
 ## The Dalí Museum: Tampa Bay's Cultural Crown Jewel
 
@@ -45,7 +42,6 @@ Plan at least 2-3 hours. The permanent collection takes about 90 minutes if you'
 
 **Current admission (2024):** Adults $29, students $23, children 6-12 $12. Members get in free, and membership pays for itself if you visit more than twice a year.
 
-![Visitors examining Dalí's surrealist masterpieces in the museum's main gallery](PLACEHOLDER)
 
 ---
 
@@ -75,7 +71,6 @@ The combination ticket for MFA + Chihuly costs $35 versus $24 + $22 separately. 
 
 At 719 Central Avenue, this community arts center offers rotating exhibitions, classes, and the fascinating Morean Glass Studio where you can watch artisans work. Their hot shop demonstrations happen Tuesday through Saturday at 11 AM, 1 PM, and 3 PM.
 
-![Colorful glass sculptures in the Chihuly Collection's garden setting](PLACEHOLDER)
 
 ## Tampa's Cultural Scene: More Than You'd Expect
 
@@ -95,7 +90,6 @@ Inside the Tampa Theatre building at 400 N Ashley Drive, FMoPA specializes in co
 
 At 1405 N Howard Avenue, CAM Tampa occupies a former car dealership turned into exhibition space. They focus on experimental and contemporary works. It's free admission, which makes it perfect for a quick cultural stop.
 
-![Modern art installations in Tampa Museum of Art's contemporary galleries](PLACEHOLDER)
 
 ## Historic Theaters and Performance Venues
 
@@ -121,7 +115,6 @@ Located at 400 1st Street S in St. Petersburg, the Mahaffey hosts the Florida Or
 
 At 163 3rd Street N in St. Pete, American Stage produces both classics and contemporary works in an intimate setting. Their outdoor Shakespeare in the Park series runs April through May in Demens Landing Park.
 
-![The ornate interior of Tampa Theatre showing its atmospheric ceiling with stars](PLACEHOLDER)
 
 ## Art Walks and Cultural Events
 
@@ -143,7 +136,6 @@ Held every March in downtown Tampa, this is one of the Southeast's premier art f
 
 **Practical note:** Parking is a nightmare during Gasparilla Arts. Take the streetcar from Ybor City or plan to walk several blocks.
 
-![Crowds enjoying art displays at an outdoor festival in downtown Tampa](PLACEHOLDER)
 
 ## Where to Eat Before and After Cultural Events
 
@@ -165,7 +157,6 @@ Part of any good cultural experience is the food. Here are my go-to recommendati
 
 **Armature Works** at 1910 N Ola Avenue houses multiple food vendors in a restored streetcar barn. Grab something from Fodder & Shine (excellent sandwiches, $10-14) and eat outside overlooking the Hillsborough River.
 
-![Diners enjoying waterfront views at a restaurant near the Tampa cultural district](PLACEHOLDER)
 
 ## Hidden Cultural Gems Most Visitors Miss
 
@@ -191,7 +182,6 @@ At 1800 Weedon Drive NE in St. Petersburg, this overlooked gem focuses on the ar
 
 At 501 Central Avenue in St. Pete, this cooperative gallery showcases work by Florida artisans. You'll find everything from pottery to jewelry to furniture, all made by local artists. Prices range from $25 for small items to several thousand for major pieces.
 
-![Interior view of a local art gallery showing works by Florida artists](PLACEHOLDER)
 
 ## Planning Your Cultural Week in Tampa Bay
 
@@ -224,7 +214,6 @@ The performing arts scene operates on a subscription model that rewards loyalty.
 
 **Reality check:** You don't need to be wealthy to enjoy culture here. Many events are free (First Friday, outdoor concerts, gallery openings), and several museums have free admission days for residents.
 
-![Families and couples exploring outdoor art installations during a cultural festival](PLACEHOLDER)
 
 ## Transportation and Logistics
 

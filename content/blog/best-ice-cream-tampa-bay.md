@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/best-ice-cream-tampa-bay.webp"
 ---
 
-# Best Ice Cream and Gelato in Tampa Bay: A Local's Guide to Sweet Spots
-
 Nothing beats a good ice cream on a 95-degree July afternoon in Tampa Bay. After 23+ years showing homes across Pinellas, Hillsborough, and Pasco counties, I've had my share of post-closing celebrations and client cool-downs at every frozen treat spot worth knowing about.
 
 This isn't some corporate listicle. These are the places locals actually go — from old-school soda fountains that've survived decades of development to gelato shops run by actual Italians. Whether you're house hunting in Hyde Park or just moved to Dunedin, here's where to find the good stuff.
 
-![Colorful gelato display cases at an authentic Italian gelateria in Tampa Bay](PLACEHOLDER)
 
 ## Tampa's Top Ice Cream Destinations
 
@@ -58,7 +55,6 @@ This isn't your childhood ice cream truck playing broken carnival music. Rolling
 
 Their Thursday stop at Armature Works (4-8 PM) draws crowds, but my favorite is catching them at the South Tampa farmers markets on Saturday mornings. The maple vanilla soft-serve twisted with seasonal fruit (strawberry in winter, peach in summer) hits different when you're not fighting downtown parking.
 
-![Vintage ice cream truck with local families lined up on a sunny Tampa afternoon](PLACEHOLDER)
 
 ## St. Petersburg's Frozen Scene
 
@@ -87,7 +83,6 @@ What to order: Mackinac Island Fudge ice cream in a fresh waffle cone. The choco
 
 Beach parking is $2/hour at meters, but there's a small free lot behind the shop that locals use.
 
-![Fresh waffle cones being made at an ice cream shop with the aroma drawing customers](PLACEHOLDER)
 
 ## Clearwater and Pinellas Gems
 
@@ -107,7 +102,6 @@ What to order: A chocolate-vanilla twist cone dipped in their house-made chocola
 
 This place is pure nostalgia — carhop service, neon signs, and prices that haven't completely adjusted to 2024 reality yet. A large cone still costs under $5.
 
-![Classic 1950s-style drive-in ice cream shop with vintage cars and neon signage](PLACEHOLDER)
 
 ### Cold Stone Creamery (Multiple Locations)
 Various locations including Westshore Plaza, Tampa
@@ -134,7 +128,6 @@ Another mobile operation worth tracking down. Their gelato leans heavily on loca
 
 The lavender honey gelato sounds pretentious but tastes incredible. They source lavender from a Dade City farm and pair it with wildflower honey from Lithia.
 
-![Artisanal gelato display featuring local Florida ingredients and creative flavor combinations](PLACEHOLDER)
 
 ## Hidden Gems and Local Favorites
 
@@ -159,7 +152,6 @@ Greek-owned shop in the heart of Tarpon Springs' sponge dock district. Their bak
 
 Tourist area pricing applies, but the quality justifies costs. The shop sits within walking distance of sponge diving demonstrations and Greek restaurants, making it a natural dessert stop after eating at Hellas Restaurant or Rusty Bellies.
 
-![Greek-style ice cream shop in historic Tarpon Springs with sponge boats in the background](PLACEHOLDER)
 
 ## Seasonal Specialties and Timing
 
@@ -179,7 +171,6 @@ Not every great ice cream experience requires premium pricing. Here are spots wh
 
 **Gas Station Finds:** 7-Eleven's Slurpees aren't ice cream, but their frozen drink selection includes some legitimate treats. The Coca-Cola Slurpee tastes exactly like frozen Coke.
 
-![Family enjoying budget-friendly ice cream at a local neighborhood spot with genuine smiles](PLACEHOLDER)
 
 ## Making the Most of Your Ice Cream Adventure
 
@@ -209,7 +200,6 @@ After thousands of home showings across three counties, I've learned that good i
 
 That's not coincidence — it's how communities actually work.
 
-![Happy families walking along a tree-lined Tampa Bay street carrying ice cream cones on a perfect afternoon](PLACEHOLDER)
 
 ## Frequently Asked Questions
 

@@ -29,7 +29,6 @@ After 23 years helping families relocate to Tampa Bay, I've seen this scenario p
 
 Here's what I've learned: homesickness after a big move isn't a sign you made the wrong decision. It's proof you're human. And more importantly, it's temporary if you handle it right.
 
-![Person sitting alone on a Tampa Bay area beach at sunset, looking contemplative](PLACEHOLDER)
 
 ## Why Homesickness Hits Harder in Florida
 
@@ -67,7 +66,6 @@ Your immediate neighborhood relationships will impact your daily happiness more 
 
 The key is consistency. Show up to the same places at the same times regularly. The woman at the Starbucks on Dale Mabry will start knowing your order. The guy at the YMCA will expect to see you on the elliptical machine at 6 AM. These micro-connections create familiarity in your new environment.
 
-![Group of diverse people laughing together at a local Tampa Bay restaurant](PLACEHOLDER)
 
 ### Professional Networks with Personal Benefits
 
@@ -107,7 +105,6 @@ Don't pack away everything from your old life. Display photos, keep using your f
 
 I had a client from Michigan who brought her bird feeder and set it up on her Carrollwood patio within a week of moving. Different birds, same peaceful morning routine with coffee and bird watching. Six months later, she told me watching those cardinals and blue jays had become her favorite part of living in Florida.
 
-![Cozy living room with a mix of familiar personal items and new Florida-style decor](PLACEHOLDER)
 
 ## Making Tampa Bay Feel Like Home
 
@@ -141,7 +138,6 @@ Tampa Bay has excellent mental health resources specifically for life transition
 
 Don't let pride keep you from getting help. Moving across the country ranks as one of life's major stressors, right up there with job changes and relationship transitions. Getting support isn't failure — it's smart planning.
 
-![Person on a video call with family/friends, smiling and holding a Tampa Bay themed mug](PLACEHOLDER)
 
 ## Staying Connected Without Being Stuck
 

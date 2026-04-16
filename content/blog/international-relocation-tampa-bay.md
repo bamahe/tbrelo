@@ -27,7 +27,6 @@ Moving to Tampa Bay from another country isn't just about finding a house — it
 
 Tampa Bay attracts international relocators for good reason: no state income tax, year-round warmth, major international airport connections, and a surprisingly diverse economy. But success depends on preparation. Let me walk you through what you really need to know.
 
-![International families exploring Tampa Bay waterfront with downtown skyline in background](PLACEHOLDER)
 
 ## Visa Requirements and Legal Status
 
@@ -67,7 +66,6 @@ Tipping culture can shock newcomers. Restaurant servers expect 18-22%, delivery 
 
 Americans value personal space — typically arm's length in conversations. Hugs happen between friends, but handshakes are standard for new acquaintances. Direct communication is preferred over indirect suggestions.
 
-![International family enjoying outdoor dining at Tampa Bay restaurant showing local social atmosphere](PLACEHOLDER)
 
 ### Community Integration
 
@@ -117,7 +115,6 @@ Buying becomes viable once you establish credit history and job stability. Forei
 
 **[Brandon](/cities/brandon/)** offers newer construction, family-friendly layouts, and strong school systems. International families appreciate the suburban feel with urban convenience.
 
-![Modern home in Westchase neighborhood showing typical architecture international families prefer](PLACEHOLDER)
 
 ### School Districts and Education Options
 
@@ -143,7 +140,6 @@ Many international residents prefer concierge medicine or direct primary care pr
 
 International-friendly providers understand cultural differences in healthcare approaches. Some speak multiple languages or employ translators regularly.
 
-![Tampa General Hospital exterior showing major healthcare facility available to international residents](PLACEHOLDER)
 
 ## Transportation and Logistics
 
@@ -215,7 +211,6 @@ Grocery costs at Publix (Tampa Bay's dominant supermarket) run 10-15% above nati
 
 Dining out offers good value compared to international cities. Casual restaurants cost $12-$25 per person, while upscale dining ranges $40-$80+ per person before drinks and tips.
 
-![International grocery store in Tampa Bay showing diverse food options for various cultural communities](PLACEHOLDER)
 
 ## Legal and Administrative Tasks
 

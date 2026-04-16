@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/florida-homestead-exemption-complete.webp"
 ---
 
-# Florida Homestead Exemption — The Complete Filing Guide
-
 Look, I've watched too many Tampa Bay homeowners flush thousands of dollars down the drain because they didn't understand Florida's homestead exemption. After 23 years of helping families navigate real estate here, I'm going to break this down in plain English — no bureaucratic nonsense.
 
 The homestead exemption isn't just some paperwork you might file someday. It's potentially the biggest property tax break you'll get in Florida, and missing the deadline costs real money. We're talking about savings that can run $500 to $2,000+ annually depending on your home's value.
 
-![Property appraiser office building with homeowners waiting in line to file homestead exemption paperwork](PLACEHOLDER)
 
 ## What Is Florida's Homestead Exemption?
 
@@ -90,7 +87,6 @@ Gather these documents before you start:
 
 Some property appraisers want additional proof you're actually living there full-time. Bank statements, utility bills, or employment records with your homestead address can help, especially if you moved from out of state recently.
 
-![Stack of documents including Florida driver's license, deed, and application forms spread on a desk](PLACEHOLDER)
 
 ## How to File Your Application
 
@@ -167,7 +163,6 @@ Smaller population means shorter lines, but their office hours can be limited du
 ### Manatee County
 Bradenton area residents benefit from competitive millage rates around 17-18 mills. The online filing system is user-friendly, and the Bradenton office typically handles applications efficiently.
 
-![Map of Tampa Bay counties highlighting property appraiser office locations](PLACEHOLDER)
 
 ## Common Mistakes That Cost Money
 
@@ -209,7 +204,6 @@ Here's how it works: If your old home had an assessed value $100,000 lower than 
 
 You must apply for portability within two years of establishing homestead on your new property. Don't let this deadline slip by — I've seen people lose five-figure annual tax savings because they didn't understand portability rules.
 
-![Calculator and tax documents showing homestead exemption savings calculations](PLACEHOLDER)
 
 ## What Happens After You File
 

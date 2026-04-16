@@ -27,7 +27,6 @@ You moved to Florida to fish more. I get it — between the Gulf Coast, countles
 
 Here's everything you need to know about Florida fishing licenses, costs, and — my favorite part — where you can fish completely license-free.
 
-![Florida angler holding fishing license while standing on a Tampa Bay pier](PLACEHOLDER)
 
 ## Florida Fishing License Basics: What You Actually Need
 
@@ -59,7 +58,6 @@ Skip the lines. Buy online at GoOutdoorsFlorida.com and print it immediately, or
 
 Pro tip: The online system sometimes crashes during peak season (spring break, holidays). Don't wait until you're at the boat ramp.
 
-![Screenshot of Florida's online fishing license purchase website](PLACEHOLDER)
 
 ## The License-Free Fishing Spots You Need to Know
 
@@ -94,7 +92,6 @@ Freshwater license-free fishing is limited but exists:
 **Private Property:**
 If you're fishing on private property (like your own backyard lake or a friend's pond), no license required. Many [communities in Wesley Chapel](/counties/pasco/) and [East Tampa](/counties/hillsborough/) have community lakes where HOA members can fish license-free.
 
-![Family fishing from a Tampa Bay bridge walkway without needing licenses](PLACEHOLDER)
 
 ### Public Fishing Piers: The Sweet Spot
 
@@ -118,7 +115,6 @@ These piers often have better facilities than random shore spots — lights for 
 
 **Disabled veterans:** Free fishing licenses for Florida residents with 30%+ disability rating. Finally, a benefit that makes sense.
 
-![Multi-generational family fishing together on a Florida lake](PLACEHOLDER)
 
 ## What Happens If You Get Caught Without a License?
 
@@ -163,7 +159,6 @@ Park at the Tom Stuart Causeway and walk onto the bridge. Shore fishing access t
 ### Courtney Campbell Causeway
 Miles of shoreline access on both sides. The north side faces Tampa Bay (better for fishing), while the south side has beach access. Popular with locals because it's rarely crowded compared to the beaches.
 
-![Angler fishing from the Courtney Campbell Causeway with Tampa skyline in background](PLACEHOLDER)
 
 ### Indian Rocks Beach Nature Preserve
 Less crowded than the main beach areas, with decent shore fishing for whiting, pompano, and seasonal cobia. Free parking (rare for Pinellas beaches) and easy beach access.
@@ -212,7 +207,6 @@ Get the combination license. It's the best value for anyone planning to fish reg
 
 But take advantage of the free opportunities first. Shore fishing along Tampa Bay produces excellent results, costs nothing beyond gas and bait, and lets you explore different areas without committing to expensive licenses upfront.
 
-![Successful angler showing off catch from license-free shore fishing spot in Tampa Bay](PLACEHOLDER)
 
 Florida fishing licenses fund conservation programs that keep our waters healthy and stocked. The fees aren't arbitrary — they directly support the fishing opportunities we all enjoy.
 

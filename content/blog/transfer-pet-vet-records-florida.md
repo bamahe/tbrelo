@@ -27,7 +27,6 @@ Moving to Florida with your furry family members? You're not the first to discov
 
 The good news? It's not complicated once you know the system. The bad news? Wait until the week before your move, and you might be paying emergency vet fees or dealing with quarantine issues.
 
-![Veterinarian reviewing pet medical records with Florida state requirements checklist](PLACEHOLDER)
 
 ## Why Florida Cares About Your Pet's Medical History
 
@@ -90,7 +89,6 @@ Florida has regional variations in pet health concerns. Tampa Bay area vets rout
 
 Contact potential veterinarians in your new area and ask about local requirements. Most offices have new patient coordinators who can explain regional health concerns and vaccination schedules.
 
-![Pet owner organizing veterinary records with Florida vaccination requirements visible on computer screen](PLACEHOLDER)
 
 ### Step 3: Schedule Pre-Move Veterinary Visit
 
@@ -176,7 +174,6 @@ Moving across state lines can complicate prescription transfers. Some medication
 
 If you're flying with pets, many airlines require health certificates issued within 10 days of travel. These are separate from regular vaccination records and must be completed by a USDA-accredited veterinarian.
 
-![Florida veterinarian examining a newly relocated pet with complete medical records displayed on examination table](PLACEHOLDER)
 
 ## County-Specific Requirements in Tampa Bay
 

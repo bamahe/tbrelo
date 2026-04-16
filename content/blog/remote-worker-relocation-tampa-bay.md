@@ -29,7 +29,6 @@ I've watched this transformation firsthand over my 23 years selling real estate 
 
 Here's what I tell them.
 
-![Remote worker at a desk with Tampa Bay skyline view through window](PLACEHOLDER)
 
 ## Why Tampa Bay Works for Remote Workers
 
@@ -83,7 +82,6 @@ Location matters when your commute is bedroom to home office.
 
 **Price range:** $2,800-5,200 for 2-3 bedrooms
 
-![Coworking space interior with Tampa professionals working](PLACEHOLDER)
 
 ### St. Petersburg (Downtown, Old Northeast)
 
@@ -143,7 +141,6 @@ Many Florida homes have older electrical systems. If you're running multiple mon
 
 **Lighting matters.** North-facing windows provide consistent light without afternoon glare. If your space faces west, budget for quality blackout curtains.
 
-![Person working from balcony overlooking Tampa Bay water](PLACEHOLDER)
 
 ## Cost of Living Breakdown for Remote Workers
 
@@ -249,7 +246,6 @@ For complete relocation guidance, see our [Tampa Bay moving guide](/moving-guide
 
 **CPAs:** Many local accountants specialize in helping relocated remote workers navigate tax implications of moving to Florida.
 
-![Remote worker at outdoor cafe in downtown St. Petersburg](PLACEHOLDER)
 
 ## Seasonal Considerations for Remote Workers
 

@@ -27,7 +27,6 @@ Making six figures in Tampa Bay puts you in a sweet spot. You're not yacht-shopp
 
 The reality? Your money stretches differently depending on whether you're single, married, or supporting a family. A single person pulling down $120K lives very differently than a couple earning $110K combined with two kids. Let's break down what that salary actually buys you in 2024's Tampa Bay market.
 
-![Professional couple reviewing home listings in an upscale Tampa Bay neighborhood](PLACEHOLDER)
 
 ## The Real Numbers: What $100K+ Means in Tampa Bay
 
@@ -94,7 +93,6 @@ Now you're playing in Tampa Bay's upper-middle market. Monthly housing budgets o
 - Davis Islands: $750K+ for single-family homes
 - South Tampa established neighborhoods: $550K-$800K
 
-![Waterfront dining scene in downtown St. Petersburg with professionals enjoying happy hour](PLACEHOLDER)
 
 ## Neighborhood Breakdown by Salary Range
 
@@ -152,7 +150,6 @@ A $300-$400 monthly dining budget lets you explore the scene regularly while sti
 
 **Boating**: This is where higher incomes really show. Boat slips at premium marinas run $400-$800 monthly, but give you access to Tampa Bay's extensive waterway system.
 
-![Young professionals enjoying waterfront activities on Tampa Bay with downtown skyline in background](PLACEHOLDER)
 
 ## Transportation Costs
 
@@ -189,7 +186,6 @@ Financial advisors recommend 3-6 months expenses, but Tampa Bay's job market div
 
 Budget for hurricane preparedness: $200-$500 annually for supplies and potential evacuation costs. This isn't optional in Florida.
 
-![Modern high-rise apartments in downtown Tampa with professional residents on balconies](PLACEHOLDER)
 
 ## Family Considerations
 
@@ -243,7 +239,6 @@ Florida's business-friendly environment makes entrepreneurship attractive:
 - Growing population means expanding market for service businesses
 - Tourism industry creates opportunities in hospitality and services
 
-![Upscale shopping and dining district in Tampa Bay with professionals walking between venues](PLACEHOLDER)
 
 ## The Realistic Budget Breakdown
 

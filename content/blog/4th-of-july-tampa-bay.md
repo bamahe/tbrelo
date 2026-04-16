@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/4th-of-july-tampa-bay.webp"
 ---
 
-# 4th of July in Tampa Bay — Every Fireworks Show and Event
-
 Tampa Bay throws one hell of a 4th of July party. From massive downtown displays to neighborhood celebrations, we've got fireworks shows scattered across three counties. After 23 years helping families settle here, I've seen everything from intimate Clearwater Beach gatherings to the absolute chaos (in the best way) of Tampa's Riverwalk celebration.
 
 Here's your complete guide to every fireworks show and Independence Day event worth your time in 2024.
 
-![Aerial view of Tampa's downtown fireworks display over the Hillsborough River with crowds lining the Riverwalk](PLACEHOLDER)
 
 ## Tampa's Big Show — Riverwalk Fireworks
 
@@ -47,7 +44,6 @@ Tampa's main event happens along the Riverwalk, and it's free. The city launches
 
 The show runs about 25 minutes and includes synchronized music. Last year's finale had red, white, and blue explosions that lit up the entire downtown skyline.
 
-![Families with blankets and chairs set up along Tampa's Bayshore Boulevard watching fireworks over the water](PLACEHOLDER)
 
 ## Clearwater Beach — Pier 60 Celebration
 
@@ -89,7 +85,6 @@ Gulfport's small-town celebration feels like stepping back in time. The firework
 **Timing:** 9 PM
 **Special Touch:** Local high school band plays patriotic music during the show
 
-![St. Petersburg's waterfront fireworks reflecting in Tampa Bay with downtown buildings silhouetted against the night sky](PLACEHOLDER)
 
 ## Brandon's Family-Friendly Options
 
@@ -125,7 +120,6 @@ The Cotee River hosts New Port Richey's waterfront fireworks show. Smaller crowd
 **Time:** 9 PM
 **Local Tip:** Hit up Catches Waterfront Grille before the show — their fish tacos are excellent
 
-![Family with young children watching fireworks from a blanket at a community park with playground equipment visible](PLACEHOLDER)
 
 ## Pinellas County Beach Towns
 
@@ -157,7 +151,6 @@ Treasure Island's show launches from the beach with viewing from multiple public
 
 **Check Weather:** Florida summer thunderstorms can delay shows. Most events post updates on social media.
 
-![Overhead view of multiple cars parked along Bayshore Boulevard with families set up on the grass between the road and water](PLACEHOLDER)
 
 ## Food and Dining Strategy
 
@@ -194,7 +187,6 @@ Several restaurants along Westshore offer 4th of July dinner packages with guara
 - St. Pete: Use the parking meters on Beach Drive (free after 6 PM)
 - Clearwater Beach: Beach parking lots charge $15-20 but you're guaranteed a spot
 
-![Wide shot of Clearwater Beach Pier 60 with crowds gathered on the sand and beach umbrellas as the sun sets before fireworks](PLACEHOLDER)
 
 ## Weather Backup Plans
 

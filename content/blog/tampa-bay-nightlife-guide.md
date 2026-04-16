@@ -27,7 +27,6 @@ After 23 years of showing families around Tampa Bay, I've learned that understan
 
 Tampa Bay's nightlife runs deeper than most people realize. We've got everything from dive bars where locals have been drinking since the 80s to rooftop lounges that could hold their own in Miami. The key is knowing which neighborhoods serve which crowds — and trust me, they're all different.
 
-![Tampa Bay nightlife district overview showing SoHo, Ybor City, and downtown St. Pete at night](PLACEHOLDER)
 
 ## SoHo (South Howard) — Where Young Professionals Go to Network and Flirt
 
@@ -39,7 +38,6 @@ South Howard Avenue is Tampa's answer to a college town bar strip, except everyo
 
 **Four Green Fields** (205 W Platt St) serves as SoHo's Irish pub anchor. Real Irish staff, proper fish and chips, and Guinness that actually tastes right. The crowd skews slightly older than the dance bars, making it perfect for conversations that don't require shouting. Try the shepherd's pie — it's the real deal.
 
-![SoHo district bars and restaurants with young professionals socializing](PLACEHOLDER)
 
 **MacDinton's Irish Pub** (405 S Howard Ave) and **Peabody's Billiards** (1506 E 7th Ave) represent the louder, younger end of SoHo. MacDinton's transforms from dinner spot to dance floor after 10 PM, while Peabody's combines pool tables with a surprisingly good kitchen. Both get packed on weekends with the post-college crowd.
 
@@ -53,7 +51,6 @@ Ybor City built its reputation on cigars and rebellion, and that spirit lives on
 
 **Ybor City State Museum** sits adjacent to the main strip, providing context for why this neighborhood matters. The cigar-rolling demonstrations happen during day hours, but understanding Ybor's immigrant history makes the nightlife feel more authentic.
 
-![Historic Ybor City strip at night with neon signs and restored brick buildings](PLACEHOLDER)
 
 **The Castle** (2004 N 16th St) represents Ybor's goth and alternative scene. Live music venues like this keep Tampa's music culture alive beyond the mainstream. Check their calendar for local bands — Tampa's music scene runs deeper than most realize.
 
@@ -71,7 +68,6 @@ St. Pete's downtown transformation over the past decade created a nightlife scen
 
 **The Vinoy Renaissance Resort** (501 5th Ave NE) houses multiple bars, but **Marchand's Bar & Grill** stands out for craft cocktails with a view of Tampa Bay. Order their Old Fashioned made with local Kozuba & Sons honey, or try the grouper sandwich if you need food. Expect resort prices ($15+ cocktails) but also resort-quality service.
 
-![Downtown St. Petersburg waterfront bars with boats and city lights](PLACEHOLDER)
 
 **Engine No. 9** (15 2nd St N) occupies a restored 1920s firehouse and serves craft beer alongside elevated pub food. Their burger program uses beef from local farms, and the beer selection emphasizes Florida breweries. The outdoor patio works year-round thanks to St. Pete's weather advantage.
 
@@ -89,7 +85,6 @@ Don't sleep on suburban Tampa Bay nightlife. These newer areas serve families an
 
 **Oystercatchers** (2760 Rocky Point Dr) technically sits in Rocky Point, but serves the Westchase crowd. Waterfront dining with a raw bar, craft cocktails, and enough space that you don't feel cramped. Their grouper throats (when available) represent peak Tampa Bay dining, and the sunset views over Hillsborough Bay beat most downtown options.
 
-![Suburban Tampa Bay restaurant with families and professionals dining outdoors](PLACEHOLDER)
 
 **Carrabba's Italian Grill** originated in Houston, but the founders' second location (3115 W Kennedy Blvd) still operates in Tampa. Their bar program focuses on Italian wines and classic cocktails. Not trendy, but consistently good for dinner and drinks with clients or family.
 
@@ -107,7 +102,6 @@ Living in Tampa Bay means easy access to beach bars, but locals know which ones 
 
 **Undertow Beach Bar** (3217 W Swann Ave) brings beach vibes inland to Tampa's Hyde Park neighborhood. Outdoor seating, frozen drinks that don't embarrass you, and a crowd that lives here year-round. Their fish tacos use fresh mahi, and the drink prices won't shock your credit card.
 
-![Local beach bar with residents enjoying drinks away from tourist crowds](PLACEHOLDER)
 
 **Frenchy's Original Cafe** (41 Baymont St, Clearwater Beach) gets touristy, but the original location maintains local credibility. Order their grouper sandwich and a bucket of beer, claim a spot on the deck, and watch boats navigate Clearwater Pass. Avoid weekends in season unless you enjoy crowds.
 
@@ -123,7 +117,6 @@ Real nightlife includes what happens after 10 PM when hunger strikes and most ki
 
 **Datz** (2616 S MacDill Ave) serves late-night comfort food that soaks up alcohol effectively. Their mac and cheese uses real aged cheddar, and the portion sizes accommodate sharing. Multiple Tampa locations, but the original MacDill spot maintains the best atmosphere.
 
-![Late-night diner with locals eating comfort food after bars close](PLACEHOLDER)
 
 **La Teresita Restaurant** (3248 W Columbus Dr) operates 24/7 and serves Cuban coffee strong enough to reset your evening. Their Cuban sandwich construction follows traditional Tampa methods, and the clientele includes everyone from bar staff getting off work to families celebrating late.
 
@@ -149,7 +142,6 @@ Street parking downtown Tampa fills up by 8 PM on weekends. Paid parking lots ch
 
 **Personal safety varies by neighborhood and time.** SoHo and downtown St. Pete feel safe until 2 AM with normal urban awareness. Ybor City requires more attention to surroundings, especially late night. Beach communities stay relatively safe but can get rowdy during tourist season.
 
-![Tampa Bay rideshare pickup area outside popular nightlife district](PLACEHOLDER)
 
 Most Tampa Bay nightlife concentrates in areas where police maintain visible presence. The bigger safety concerns involve impaired driving — both avoiding it yourself and watching for it from others. Florida's DUI laws carry serious consequences, and Tampa Bay law enforcement takes them seriously.
 

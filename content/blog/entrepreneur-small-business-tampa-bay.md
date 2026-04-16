@@ -23,11 +23,8 @@ schema:
 featuredImage: "/images/blog/entrepreneur-small-business-tampa-bay.webp"
 ---
 
-# Tampa Bay for Entrepreneurs and Small Business Owners
-
 After 23+ years watching Tampa Bay evolve from sleepy tourist destination to genuine business hub, I can tell you this: if you're thinking about starting or moving your business here, you're looking at one of the best-kept secrets in the Southeast. While everyone's obsessing over Austin and Nashville, Tampa Bay has quietly built something special — and the costs haven't caught up yet.
 
-![Tampa Bay skyline with downtown business district and waterfront showing the growing entrepreneurial ecosystem](PLACEHOLDER)
 
 Let me walk you through what makes this market tick for entrepreneurs, where the real opportunities are, and what you need to know before making the leap.
 
@@ -72,7 +69,6 @@ Compare that to Miami ($45-65), Austin ($35-55), or San Francisco ($65-95+), and
 **Labor**: Median salary ranges from $45,000 (entry-level) to $85,000+ (experienced professionals)
 **Workers' Compensation**: Florida rates vary by industry but average 10-15% higher than national median
 
-![Modern co-working space in Tampa's Westshore district with entrepreneurs collaborating](PLACEHOLDER)
 
 ## Startup Ecosystem and Resources
 
@@ -120,7 +116,6 @@ The lack of state income tax makes Tampa Bay attractive for consultants, attorne
 
 **Consulting**: The diverse economy means opportunities across industries. Management consultants, marketing agencies, and IT services all find strong demand.
 
-![Entrepreneur networking event at Tampa Bay startup hub with diverse group of business owners](PLACEHOLDER)
 
 ### Retail and Hospitality
 
@@ -181,7 +176,6 @@ Finding good people is every entrepreneur's biggest challenge. Tampa Bay's talen
 
 **Cons**: Limited deep technical expertise in some specialties. Competition for experienced professionals is fierce. Many workers relocate here for lifestyle, which can mean less career focus.
 
-![Small business owner working in a Tampa Bay co-working space with Tampa skyline visible through windows](PLACEHOLDER)
 
 **Salary Expectations**: Software developers earn $75,000-$120,000 depending on experience. Marketing professionals range from $45,000-$80,000. Sales professionals vary widely based on industry and commission structure.
 
@@ -248,7 +242,6 @@ Professional licenses (attorneys, CPAs, contractors, etc.) require state certifi
 **Sales Tax**: 7-8.5% depending on county (includes state + local)
 **Property Tax**: Varies by county; Hillsborough averages 0.8%, Pinellas 0.9%
 
-![Successful Tampa Bay business owner in their modern office space with local cityscape artwork](PLACEHOLDER)
 
 ## Funding and Investment Landscape
 

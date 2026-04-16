@@ -33,7 +33,6 @@ Tampa Bay isn't just another Sun Belt city collecting retirees. We've got 3.2 mi
 
 The weather means year-round outdoor activities. Your dating pool doesn't hibernate from November to March. Neither does your social life.
 
-![Skyline view of downtown Tampa with singles-friendly high-rises and walkable areas](PLACEHOLDER)
 
 ## Best Neighborhoods for Single Living
 
@@ -63,7 +62,6 @@ The weather means year-round outdoor activities. Your dating pool doesn't hibern
 
 **The Social Scene:** This is where Tampa's creative class lives. Art galleries, craft cocktail bars, and regular food truck rallies. Tuesday trivia at The Independent draws a smart, social crowd.
 
-![Historic homes and trendy restaurants along Florida Avenue in Seminole Heights](PLACEHOLDER)
 
 ### Westshore/South Tampa (33629, 33609)
 
@@ -121,7 +119,6 @@ Still transitioning economically. While some areas show promise, most single pro
 
 **Recreation:** Gym memberships: $30-$80/month. Beach parking: usually free. Entertainment ranges from free (Riverwalk, parks) to expensive (Lightning games, concerts).
 
-![Modern apartment complex with pool and social areas typical of Tampa Bay rental properties](PLACEHOLDER)
 
 ## Building Your Social Life Faster
 
@@ -157,7 +154,6 @@ Perfect weather brings everyone outdoors. Gasparilla season (January/February) o
 
 **Snowbird Reality:** Some areas get crowded with seasonal residents, but this actually expands your social options if you're open to meeting people from different backgrounds.
 
-![Young professionals socializing at a Tampa Bay outdoor festival or event](PLACEHOLDER)
 
 ## Practical Moving Timeline
 

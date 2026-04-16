@@ -25,7 +25,6 @@ featuredImage: "/images/blog/florida-rainy-season-explained.webp"
 
 You're probably wondering when Florida's rainy season hits and what to expect. After 23+ years selling real estate here, I've watched thousands of newcomers experience their first Tampa Bay summer storms. Some panic. Others fall in love with the daily light show. Here's what you actually need to know.
 
-![Dark storm clouds building over Tampa Bay with lightning in the distance](PLACEHOLDER)
 
 Florida's rainy season runs from **June through September**, with peak activity in July and August. We're talking about a predictable pattern of afternoon thunderstorms that dump 6-8 inches of rain monthly — more than twice what we see in winter. It's not four months of constant rain. It's four months of spectacular daily drama.
 
@@ -92,7 +91,6 @@ September starts strong but gradually backs off as we head toward fall. Early Se
 - Hurricane risk peaks mid-month
 - Humidity begins dropping slightly
 
-![Lightning bolt striking over downtown Tampa during an afternoon storm](PLACEHOLDER)
 
 ## How Afternoon Storms Actually Work
 
@@ -150,7 +148,6 @@ Yes, streets flood during heavy downpours. But it's temporary. Florida's storm d
 
 Smart locals know these spots and avoid them during active storms. It's not worth risking your car to save 10 minutes.
 
-![Flooded street in South Tampa with cars navigating through standing water](PLACEHOLDER)
 
 ## Living With Florida's Rainy Season
 
@@ -214,7 +211,6 @@ If you're from the Southwest or West Coast, Florida's humidity and daily storms 
 
 People from the Midwest and Northeast often love rainy season. They appreciate the warmth, the dramatic weather displays, and the fact that winter means 75-degree days instead of frozen pipes.
 
-![Dramatic sunset through clearing storm clouds over Tampa Bay](PLACEHOLDER)
 
 ## Regional Variations Within Tampa Bay
 

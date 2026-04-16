@@ -27,7 +27,6 @@ Moving to Tampa Bay with kids when you're sharing custody? Florida's relocation 
 
 Here's what every parent needs to know about Florida's child custody and relocation laws before making that move to Clearwater, St. Pete, or anywhere else in our beautiful corner of the state.
 
-![Florida family law courthouse with scales of justice, representing child custody legal proceedings](PLACEHOLDER)
 
 ## The 50-Mile Rule: Florida's Moving Boundary
 
@@ -76,7 +75,6 @@ Florida Statute 61.13001 lists 11 specific factors courts must consider. The big
 
 **Geographic considerations and logistical factors.** This includes travel time, cost, and the child's age-appropriate involvement in decision-making.
 
-![Parent and child consulting with family law attorney in professional office setting](PLACEHOLDER)
 
 ## The Notice Requirements
 
@@ -127,7 +125,6 @@ When the other parent files an objection, you're headed to a hearing. In Hillsbo
 
 **Maintain status quo until decided.** Don't move before the hearing unless there's an emergency. Judges take a dim view of parents who relocate first and ask permission later.
 
-![Child's bedroom being packed with moving boxes, representing family relocation preparation](PLACEHOLDER)
 
 ## Protecting Your Case
 

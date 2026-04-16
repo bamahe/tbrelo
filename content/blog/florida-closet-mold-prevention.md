@@ -27,7 +27,6 @@ Your closet shouldn't smell like a swamp, but here in Tampa Bay, that's exactly 
 
 The culprit? Florida's relentless humidity combines with poor air circulation to turn your closets into perfect mold-growing environments. The good news is you can win this fight with the right strategy.
 
-![Moldy clothes hanging in a Florida closet with visible dark spots and musty conditions](PLACEHOLDER)
 
 ## Why Florida Closets Are Mold Magnets
 
@@ -52,7 +51,6 @@ But the bigger issue is health. Mold spores trigger allergies, respiratory probl
 
 During home inspections, I've seen buyers walk away from otherwise perfect homes because of obvious mold issues. Nobody wants to inherit someone else's humidity problems.
 
-![Before and after comparison showing a clean, organized Florida closet with proper ventilation versus a moldy, musty closet](PLACEHOLDER)
 
 ## Strategic Air Circulation: Your First Defense
 
@@ -94,7 +92,6 @@ Place containers on shelves, especially upper areas where warm, humid air rises.
 
 The [DampRid Hanging Moisture Absorber]({{amazon:B000Q6T7J6}}) is another option that's specifically designed for closets and lasts 60+ days.
 
-![Close-up of silica gel containers and moisture absorbers strategically placed throughout a Florida closet](PLACEHOLDER)
 
 ### DIY Moisture Control Tricks
 
@@ -124,7 +121,6 @@ Store out-of-season clothes in climate-controlled areas when possible. That wint
 
 Use breathable storage containers or vacuum-sealed bags with desiccant packets. Never store anything damp — that wet swimsuit or gym clothes can trigger mold growth that spreads to everything else.
 
-![Well-organized Florida closet showing proper spacing, cedar hangers, and moisture control products in use](PLACEHOLDER)
 
 ## Location-Specific Challenges
 
@@ -160,7 +156,6 @@ Professional mold testing costs $300-600 in Tampa Bay. Remediation ranges from $
 
 During home inspections, I always check closets carefully. Mold problems can delay closings and cost sellers thousands in remediation before buyers will proceed.
 
-![Professional mold inspector examining a closet with testing equipment and protective gear](PLACEHOLDER)
 
 ## Maintenance Schedule That Works
 

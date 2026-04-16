@@ -23,8 +23,6 @@ schema:
 featuredImage: "/images/blog/florida-title-insurance-explained.webp"
 ---
 
-# Florida Title Insurance — Why It Costs More Here (And Who Really Pays)
-
 You're about to close on your Tampa Bay home when you see that line item on your settlement statement: title insurance. $2,800. Wait, what? 
 
 If you're moving from most other states, this number might shock you. In Ohio, the same policy would cost maybe $800. In Texas? Around $1,200. But here in Florida, we do things differently — and more expensively.
@@ -33,7 +31,6 @@ After 23 years of walking buyers through closings from [Hillsborough County](/co
 
 Let's break down exactly what you're paying for, who pays what, and why Florida's approach might actually save you money in the long run.
 
-![Closing table with title insurance documents and calculator showing Florida rates](PLACEHOLDER)
 
 ## What Title Insurance Actually Protects
 
@@ -74,7 +71,6 @@ Add in the lender's policy (typically $25-50 if purchased simultaneously), attor
 
 **State Regulation**: While this eliminates price competition, it also ensures consistent coverage standards and prevents fly-by-night operations.
 
-![Florida title insurance rate chart comparing owner's and lender's policy costs](PLACEHOLDER)
 
 ## Who Pays for Title Insurance in Florida?
 
@@ -125,7 +121,6 @@ Let's examine a real example: a $375,000 home purchase in Brandon.
 
 Compare this to Texas (around $1,800 total) or Ohio (around $1,200 total), and you can see why the sticker shock is real.
 
-![Detailed breakdown of Florida title insurance costs on closing statement](PLACEHOLDER)
 
 ## Why Florida's System Might Be Worth It
 
@@ -185,7 +180,6 @@ Based on 23 years of closings, these companies consistently deliver:
 
 Local attorney-owned practices often provide more personalized service, while national companies might offer more technology-driven convenience.
 
-![Professional title company office with closing table setup](PLACEHOLDER)
 
 ## Red Flags to Avoid
 

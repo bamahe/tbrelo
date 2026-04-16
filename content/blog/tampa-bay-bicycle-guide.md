@@ -27,7 +27,6 @@ Tampa Bay's bike infrastructure has transformed dramatically over the past decad
 
 But here's the reality: Tampa Bay still isn't Copenhagen. While we've made serious progress, cycling here requires local knowledge, smart route planning, and understanding which areas work for bikes versus which ones will leave you praying to the traffic gods.
 
-![Cyclists riding on the Pinellas Trail with palm trees and clear skies overhead](PLACEHOLDER)
 
 ## Major Trail Systems: The Backbone of Bay Area Biking
 
@@ -65,7 +64,6 @@ Still under development but already offering 15+ miles of connected trail from d
 
 Current completed sections include the downtown riverwalk connection and segments through Lowry Park and the University area.
 
-![Protected bike lane in downtown Tampa with modern office buildings and dedicated cycling infrastructure](PLACEHOLDER)
 
 ## Urban Cycling Infrastructure: City by City
 
@@ -113,7 +111,6 @@ Clearwater Beach offers decent cycling for recreation, but commuting infrastruct
 
 **Gulfport:** The artsy waterfront community embraces cycling. Beach Boulevard and Shore Drive offer pleasant cycling with minimal car conflicts.
 
-![Group of cyclists stopped at a scenic overlook along Tampa Bay with water and downtown skyline in background](PLACEHOLDER)
 
 ## Commuter Cycling: The Real Story
 
@@ -179,7 +176,6 @@ Quality bike shops anchor cycling communities throughout the region. Most offer 
 
 **Pinellas beaches:** Rental-focused shops serving tourists, but also catering to locals.
 
-![Modern bike share station in downtown St. Petersburg with multiple bikes available and city buildings in background](PLACEHOLDER)
 
 ## Practical Information: Making It Work
 

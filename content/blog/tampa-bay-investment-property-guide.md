@@ -23,15 +23,12 @@ schema:
 featuredImage: "/images/blog/tampa-bay-investment-property-guide.webp"
 ---
 
-# Tampa Bay Investment Property Guide — Where to Buy Rentals
-
 Let me cut straight to it: Tampa Bay's rental market is printing money right now, but only if you know where to look and what to avoid. After 23 years of helping investors build portfolios here, I've seen people make fortunes and watched others lose their shirts on the same block.
 
 The reality? Tampa Bay offers some of the best rental yields in Florida — but the window is narrowing fast. Property values jumped 40% since 2020, rents followed by 35%, and every month brings new investors from up north with cash offers.
 
 Here's what actually works in 2024.
 
-![Aerial view of Tampa Bay showing downtown Tampa, residential neighborhoods, and waterways with investment property overlays](PLACEHOLDER)
 
 ## Current Tampa Bay Rental Market Reality
 
@@ -94,7 +91,6 @@ The key with Pasco: stick near major employers like the Pasco County school dist
 
 The drive to Tampa takes 45-60 minutes, which filters out some renters but attracts others seeking affordable housing near decent jobs.
 
-![Split image showing a renovated rental property in Plant City next to a modern rental home in Wesley Chapel](PLACEHOLDER)
 
 ## Neighborhood-Specific Investment Strategies
 
@@ -160,7 +156,6 @@ Let's break down actual deals from my recent transactions:
 
 The Spring Hill property delivers better returns despite lower rents because of significantly lower carrying costs.
 
-![Infographic showing cash flow comparison between different Tampa Bay investment properties with charts and property photos](PLACEHOLDER)
 
 ## Property Types That Actually Work
 
@@ -237,7 +232,6 @@ Many Tampa Bay investors arrived via 1031 exchanges from higher-priced markets l
 
 Done correctly, 1031 exchanges allow unlimited portfolio growth without tax consequences.
 
-![Real estate investor reviewing financial documents at a desk with Tampa Bay property photos and calculators](PLACEHOLDER)
 
 ## Property Management: DIY vs. Professional
 

@@ -45,7 +45,6 @@ Pasco County consistently ranks as one of Florida's top-performing large distric
 
 The catch? You're trading convenience for quality. Most Pasco neighborhoods mean a solid 40-minute drive to downtown Tampa during rush hour. But families in **Seven Springs**, **Trinity**, and **Land O' Lakes** will tell you it's worth every minute of that commute.
 
-![Aerial view of a modern Pasco County elementary school with well-maintained grounds and playground equipment](PLACEHOLDER)
 
 ### Hillsborough County: The Size Advantage (When You Pick Right)
 
@@ -74,7 +73,6 @@ Pinellas offers something unique: excellent schools within walking distance of s
 
 **The Pinellas Advantage:** Your kids can attend **Belcher Elementary** (9/10 rated) in **Largo**, then hit **Indian Rocks Beach** for sunset. Try doing that from **Land O' Lakes**.
 
-![Students walking into a Pinellas County high school with palm trees and modern architecture visible](PLACEHOLDER)
 
 ---
 
@@ -128,7 +126,6 @@ Sometimes the best public schools aren't in your price range, or the home invent
 
 **The Math:** Pay $12,000-$25,000 per year for private school, and you can buy in neighborhoods like **Seminole Heights** ($320,000 average), **Ybor City** ($280,000 average), or **Brandon** ($310,000 average) where public schools might not meet your standards but the neighborhoods offer character, convenience, and value.
 
-![Modern private school campus in Tampa with students on outdoor walkways between buildings](PLACEHOLDER)
 
 ## Charter School Considerations: Public Funding, Private Innovation
 
@@ -185,7 +182,6 @@ Map out the entire K-12 journey:
 - Are there specialized programs (IB, STEM, arts) at the high school level?
 - What's the graduation rate and college acceptance rate?
 
-![Parents reviewing school district information and home listings at a kitchen table](PLACEHOLDER)
 
 ---
 

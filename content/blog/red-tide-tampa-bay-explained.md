@@ -25,7 +25,6 @@ featuredImage: "/images/blog/red-tide-tampa-bay-explained.webp"
 
 Red tide. Two words that can make any Tampa Bay local's stomach drop. If you're considering moving here or you're new to the area, you need to understand what this phenomenon is and how it might affect your life. I've been in Tampa Bay for over two decades, and I've lived through some brutal red tide events. Let me give you the straight facts.
 
-![Dead fish washed up on a Tampa Bay beach during red tide bloom with beachgoers in background](PLACEHOLDER)
 
 ## What Is Red Tide?
 
@@ -78,7 +77,6 @@ The Florida Department of Health closes shellfish harvesting areas when red tide
 
 Finfish like grouper, snapper, and redfish are generally safer because the toxin doesn't accumulate in their muscle tissue the same way. But during severe blooms, even catching fish becomes pointless because most of them are dead.
 
-![Warning sign posted at Clearwater Beach during red tide event with beach and pier in background](PLACEHOLDER)
 
 ## How Red Tide Affects Daily Life in Tampa Bay
 
@@ -130,7 +128,6 @@ The Mote Marine Laboratory in Sarasota provides additional research and monitori
 
 I check these resources regularly during active events and share updates with clients who are house hunting or recent transplants who don't know where to find reliable information.
 
-![Scientist collecting water samples for red tide testing at Tampa Bay beach with testing equipment](PLACEHOLDER)
 
 ## Economic Impact on Tampa Bay
 
@@ -182,7 +179,6 @@ Restaurants and shops near affected beaches need support during red tide events.
 
 Consider visiting your favorite beachfront restaurants for takeout if patio dining isn't comfortable. These businesses are part of what makes Tampa Bay special, and they need help surviving bloom periods.
 
-![Cleared beach scene after red tide cleanup crews removed dead fish with clean sand and clear water](PLACEHOLDER)
 
 ## Red Tide Cleanup and Recovery
 

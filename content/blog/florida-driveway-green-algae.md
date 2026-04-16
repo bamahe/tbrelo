@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/florida-driveway-green-algae.webp"
 ---
 
-# Why Your Driveway Turns Green (And How to Fix It)
-
 Welcome to Florida living, where your driveway grows its own ecosystem faster than you can say "humidity." If you've recently moved to Tampa Bay and wondered why your pristine concrete suddenly looks like a science experiment, you're not alone. That green slime creeping across your driveway isn't just ugly — it's a slippery safety hazard and a clear sign you're dealing with Florida's most persistent uninvited guests: algae, mold, and mildew.
 
 After 23 years of helping families relocate here, I've fielded this question countless times. The truth? Every single homeowner in Tampa Bay will face this battle. The good news is it's completely fixable, and once you understand what you're dealing with, you can keep it under control.
 
-![Close-up photo of green algae and mold growth on a concrete driveway with visible moisture](PLACEHOLDER)
 
 ## What's Actually Growing on Your Driveway
 
@@ -55,7 +52,6 @@ Tampa Bay's climate creates perfect storm conditions for this growth. Our averag
 
 **Shade patterns** from homes, trees, and landscaping create areas that stay damp longer, accelerating growth in specific zones of your driveway.
 
-![Before and after comparison showing a severely algae-covered driveway next to the same driveway after professional cleaning](PLACEHOLDER)
 
 ## The Real Problems Green Growth Creates
 
@@ -98,7 +94,6 @@ A quality electric pressure washer (2000-3000 PSI) can blast away most algae gro
 
 Oxygen bleach (sodium percarbonate) is gentler on surrounding vegetation while still being effective against organic growth. Mix according to package directions, apply, scrub, and rinse.
 
-![Homeowner using a pressure washer on a green-stained concrete driveway, showing proper technique and safety equipment](PLACEHOLDER)
 
 ## When to Call Professionals
 
@@ -134,7 +129,6 @@ Trim vegetation that creates excessive shade over your driveway. Consider reloca
 
 A quality concrete sealer creates a barrier that makes cleaning easier and reduces porosity. Expect to reapply every 2-3 years in Florida's climate. Professional application costs $1-2 per square foot.
 
-![Comparison of sealed vs. unsealed concrete showing how sealant prevents algae growth and staining](PLACEHOLDER)
 
 ## Product Recommendations from the Trenches
 
@@ -162,7 +156,6 @@ Popular in newer developments like [Fishhawk Ranch](/counties/hillsborough/) and
 
 Common in upscale areas. The textured surface holds more debris but also hides staining better. Requires more aggressive cleaning but can handle it.
 
-![Different types of concrete driveways showing varying levels of algae susceptibility and cleaning results](PLACEHOLDER)
 
 ## Seasonal Cleaning Strategy
 

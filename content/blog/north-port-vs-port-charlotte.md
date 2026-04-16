@@ -27,7 +27,6 @@ Two cities, one letter difference in their names, and about 20 miles separating 
 
 I've been showing homes in both areas since 2001, and here's the truth: these aren't interchangeable suburban communities. North Port feels like Florida's version of a master-planned community that actually worked, while Port Charlotte has that authentic Old Florida charm mixed with serious fishing culture. Your choice between them depends on whether you want newer everything or established character — and your tolerance for tourists.
 
-![Aerial view showing the contrast between North Port's newer developments and Port Charlotte's established neighborhoods along the Peace River](PLACEHOLDER)
 
 ## The Tale of Two Ports: Basic Geography
 
@@ -62,7 +61,6 @@ Port Charlotte's housing market tells a different story — one with more variet
 
 The trade-off? You might get a house built in 1987 that needs updating. But you'll also get established landscaping, mature trees, and neighborhoods with personality instead of HOA-mandated beige uniformity.
 
-![Comparison image showing a new North Port community with uniform homes versus an established Port Charlotte neighborhood with mature landscaping](PLACEHOLDER)
 
 ## Cost of Living: Where Your Dollar Goes Further
 
@@ -110,7 +108,6 @@ Downtown Port Charlotte is small but authentic, with local businesses, weekend f
 
 **What doesn't:** Some areas look tired. Fewer family amenities. Hurricane risk is real here.
 
-![Image of Port Charlotte's waterfront showing boats and local fishing activity along Charlotte Harbor](PLACEHOLDER)
 
 ## Schools and Family Life
 
@@ -162,7 +159,6 @@ Port Charlotte's recreation revolves around water. Charlotte Harbor offers some 
 
 The city maintains several golf courses, including the well-regarded Deep Creek Golf Club, but outdoor recreation here means getting on the water.
 
-![Image showing recreational activities - North Port's Warm Mineral Springs on one side, Port Charlotte's harbor fishing scene on the other](PLACEHOLDER)
 
 ## Weather and Natural Risks
 
@@ -233,7 +229,6 @@ Port Charlotte's older development pattern means some winding roads and less eff
 
 The Peace River creates some bottlenecks during rush hour, but traffic generally moves better than North Port's increasingly congested corridors.
 
-![Transportation comparison image showing North Port's modern road infrastructure versus Port Charlotte's more established street layout](PLACEHOLDER)
 
 ## Healthcare and Services
 
@@ -281,7 +276,6 @@ For young families prioritizing schools and safety, North Port usually wins. For
 
 ---
 
-![Final comparison image showing both communities' downtown areas or main commercial districts side by side](PLACEHOLDER)
 
 ## Frequently Asked Questions
 

@@ -27,7 +27,6 @@ Nobody warns you about the mosquitoes when you're browsing those gorgeous Tampa 
 
 After 23+ years of helping families relocate here, I've watched plenty of newcomers learn this lesson the hard way. Your first Florida summer shouldn't feel like biological warfare. Let's fix that.
 
-![Person applying mosquito repellent on outdoor deck at sunset with Tampa Bay in background](PLACEHOLDER)
 
 ## Why Florida Mosquitoes Are Different (Spoiler: They're Worse)
 
@@ -49,7 +48,6 @@ Yellow flies peak in late spring and early summer. Think horsefly meets heat-see
 
 The combination is what gets people. You prep for mosquitoes, then get destroyed by no-see-ums. You handle those, then yellow flies find you. It's like playing whack-a-mole with tiny demons.
 
-![Close-up comparison of mosquito, no-see-um, and sand fly with size reference](PLACEHOLDER)
 
 ## Defense Strategy #1: Yard Warfare
 
@@ -85,7 +83,6 @@ Target the undersides of leaves, dense vegetation, and anywhere mosquitoes rest 
 
 Warning: read labels carefully. Some products can't be used around water features or may affect beneficial insects.
 
-![Professional mosquito spraying equipment in action in suburban Tampa Bay backyard](PLACEHOLDER)
 
 ## Defense Strategy #2: Personal Protection That Actually Works
 
@@ -131,7 +128,6 @@ Windy days offer relief. Mosquitoes are weak fliers, so a 10+ mph breeze keeps t
 
 Drought periods can concentrate mosquitoes around remaining water sources. That retention pond in your subdivision becomes mosquito central when other areas dry up.
 
-![Weather app screenshot showing wind conditions and mosquito activity forecast](PLACEHOLDER)
 
 ## Advanced Tactics for Hardcore Situations
 
@@ -193,7 +189,6 @@ Neighborhoods near preserves, parks, or retention ponds deal with constant press
 
 Professional treatment becomes more important in these locations since you can't control the source.
 
-![Aerial view of Tampa Bay waterfront neighborhood showing retention ponds and green spaces](PLACEHOLDER)
 
 ## Product Recommendations by Situation
 
@@ -249,7 +244,6 @@ Your neighbor's neglected pool, that vacant lot down the street, or the construc
 
 HOAs and neighborhood groups can coordinate professional treatments or address community breeding sites. Individual effort has limits when dealing with area-wide problems.
 
-![Comparison photo showing well-maintained yard versus overgrown property with standing water](PLACEHOLDER)
 
 ## The Nuclear Option: When to Call Professionals
 

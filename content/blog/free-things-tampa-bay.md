@@ -27,7 +27,6 @@ Look, I get it. You're scrolling through "free activities in Tampa Bay" articles
 
 After 23+ years of living here and showing families around Tampa Bay, I've compiled the genuinely free stuff — activities that won't cost you a dime, including parking. These are places I actually take my own family and friends who visit.
 
-![Families enjoying Bayshore Boulevard with Tampa skyline in background during sunset](PLACEHOLDER)
 
 ## Why "Free" in Tampa Bay Usually Isn't
 
@@ -59,7 +58,6 @@ America's longest continuous sidewalk transforms into Tampa's free fitness cente
 
 Park at Ballast Point Park (5300 Interbay Boulevard) or Hyde Park Village and walk as much or little as you want. The path is paved, well-maintained, and safe. During cooler months, you'll see everything from power walkers to yoga classes happening on the grass areas.
 
-![Runners and cyclists on Bayshore Boulevard with Tampa Bay waters and downtown skyline](PLACEHOLDER)
 
 ### Upper Tampa Bay Regional Park
 This 2,144-acre park at 8001 Double Branch Road offers 15+ miles of hiking trails through pine flatwoods, oak hammocks, and wetlands. The parking is free, the trails are well-marked, and you might spot wild turkeys, deer, or even the occasional bobcat.
@@ -93,7 +91,6 @@ St. Pete's downtown waterfront area offers free walking paths, public art instal
 
 The area includes Vinoy Park, Straub Park, and waterfront paths that showcase why St. Petersburg has become such a popular destination. Weekend mornings are perfect for photography, and you'll understand why people relocate here after one visit.
 
-![St. Petersburg waterfront with sailboats and downtown buildings reflected in calm water](PLACEHOLDER)
 
 ## Free Events That Actually Happen Regularly
 
@@ -134,7 +131,6 @@ MacDill AFB occasionally hosts public events like air shows and base tours that 
 
 When events happen, they offer unique entertainment opportunities unavailable elsewhere in Tampa Bay. Check the base website for scheduled public events — they're infrequent but worth planning around.
 
-![Families walking through a tree-lined park trail with Spanish moss overhead](PLACEHOLDER)
 
 ## Free Cultural Experiences
 
@@ -170,7 +166,6 @@ While game tickets cost money, many teams offer free access to practice sessions
 
 Check team websites for practice schedules and policies. Parking at training facilities sometimes costs money, but the experience often surpasses expensive game tickets.
 
-![Children playing on playground equipment with palm trees and blue sky in background](PLACEHOLDER)
 
 ## Tips for Maximizing Free Tampa Bay Fun
 
@@ -219,7 +214,6 @@ The key is knowing where locals go versus where tourists get directed. After 23+
 
 Whether you're considering [moving to Tampa Bay](/moving-guide/) or already call it home, these genuinely free activities provide entertainment, exercise, and exploration opportunities that rival expensive alternatives. The region's year-round outdoor weather, diverse communities, and natural settings create a playground that doesn't require admission fees.
 
-![Sunset view over Tampa Bay with silhouettes of people walking along waterfront path](PLACEHOLDER)
 
 ## Frequently Asked Questions
 

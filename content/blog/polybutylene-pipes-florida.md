@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/polybutylene-pipes-florida.webp"
 ---
 
-# Polybutylene Pipes in Florida Homes — Buyer Beware
-
 If you're house hunting in Tampa Bay and see a home built between 1978-1995, you need to know about polybutylene pipes. These gray plastic pipes were installed in millions of homes nationwide — including thousands right here in [Hillsborough](/counties/hillsborough/), [Pinellas](/counties/pinellas/), and [Pasco](/counties/pasco/) counties.
 
 Here's the bottom line: polybutylene pipes are ticking time bombs that can flood your home without warning. As someone who's walked through hundreds of Tampa Bay properties over 23 years, I've seen the aftermath more times than I care to count.
 
-![Close-up photo of gray polybutylene pipes in a Florida home's plumbing system](PLACEHOLDER)
 
 ## What Are Polybutylene Pipes?
 
@@ -66,7 +63,6 @@ When shopping for insurance quotes, you'll likely hear:
 
 This insurance challenge affects your ability to get a mortgage too. Most lenders require homeowner's insurance before closing, so uninsurable pipes can kill deals.
 
-![Insurance adjuster examining water damage in a Florida home caused by polybutylene pipe failure](PLACEHOLDER)
 
 ## Replacement Costs in Tampa Bay
 
@@ -118,7 +114,6 @@ Spotting polybutylene isn't difficult once you know what to look for. The pipes 
 
 Don't confuse polybutylene with PVC pipes. PVC is white and used for drain/waste lines, not water supply. Polybutylene is gray and carries pressurized water throughout your house.
 
-![Homeowner checking for polybutylene pipe markings under a bathroom sink](PLACEHOLDER)
 
 ## The Home Inspection Process
 
@@ -189,7 +184,6 @@ Water quality also varies across the region. Areas with higher chlorine levels s
 
 This affects [cost of living](/cost-of-living/) calculations too. A $300,000 home with polybutylene pipes might need an immediate $12,000 investment, effectively making it a $312,000 purchase.
 
-![Map showing Tampa Bay neighborhoods with high concentrations of polybutylene pipe installations](PLACEHOLDER)
 
 ## Legal Protections and Class Action History
 

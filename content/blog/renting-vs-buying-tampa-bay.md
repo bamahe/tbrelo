@@ -23,7 +23,6 @@ schema:
 featuredImage: /images/blog/default.webp
 ---
 
-![A split image showing a rental apartment building and a home for sale in Tampa Bay](PLACEHOLDER)
 
 Look, I've been through this conversation thousands of times in 23 years. Someone's relocating to Tampa Bay, they've got their budget figured out, and then someone at work says "Why are you renting? Throwing money away!" Sound familiar?
 
@@ -106,7 +105,6 @@ That $35,000 down payment invested at 7% returns about $200 monthly.
 
 This assumes normal market conditions and that you stay put.
 
-![A calculator, house keys, and financial documents spread on a desk](PLACEHOLDER)
 
 ## Location-Specific Considerations
 
@@ -189,7 +187,6 @@ That's assuming 4% appreciation and normal market conditions. If you move in yea
 - Those tired of rent increases (averaging 8% annually)
 - People wanting specific school districts
 
-![A family moving boxes into their new Tampa Bay home](PLACEHOLDER)
 
 ## Market Timing Realities
 
@@ -257,7 +254,6 @@ These areas command premium rents AND purchase prices. The quality-school premiu
 
 Renting in great school zones often makes short-term sense, especially if you're exploring which specific elementary school fits your child best.
 
-![A Tampa Bay neighborhood street with homes and mature trees](PLACEHOLDER)
 
 ## Building Equity vs. Investment Returns
 

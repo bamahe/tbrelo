@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/tampa-bay-air-quality-guide.webp"
 ---
 
-# Tampa Bay Air Quality Guide — Pollen, Mold, and Wildfire Smoke
-
 Living in Tampa Bay means year-round warmth, beautiful beaches, and unfortunately, some air quality challenges that catch newcomers off guard. After 23+ years helping families relocate here, I've learned that understanding our local air quality patterns can make the difference between loving your new home and spending half the year with a tissue box permanently attached to your hand.
 
 Let me break down what you're really dealing with when it comes to Tampa Bay's air quality — the good, the bad, and the surprisingly manageable.
 
-![Tampa Bay skyline on a clear day with visible air quality conditions](PLACEHOLDER)
 
 ## The Reality of Tampa Bay's Air Quality
 
@@ -63,7 +60,6 @@ A smaller but noticeable spike as fall weeds bloom and some grasses have a secon
 ### November - January: The Reprieve
 Finally, some relief. Pollen counts drop to reasonable levels (under 50 grains per cubic meter most days). This is when transplants from up north remember why they moved here.
 
-![Close-up of oak tree branches releasing pollen into Tampa Bay air](PLACEHOLDER)
 
 ## Mold: The Year-Round Challenge
 
@@ -115,7 +111,6 @@ Legacy phosphate mining and processing facilities in Plant City and eastern Hill
 ### Power Plants
 The Big Bend Power Station in Apollo Beach and Anclote Power Plant in Tarpon Springs are modern, cleaner facilities, but large industrial operations nonetheless. Air quality impacts are minimal under normal operations.
 
-![Tampa Bay downtown area showing air quality monitoring station](PLACEHOLDER)
 
 ## Best and Worst Times for Air Quality
 
@@ -171,7 +166,6 @@ Tampa Bay has excellent allergy specialists who understand local conditions. Man
 
 Over-the-counter options work for mild sensitivity, but moderate to severe symptoms usually require prescription management. Don't wait until you're miserable — establish care with a local allergist early.
 
-![Air quality monitoring equipment at Tampa Bay location with data display](PLACEHOLDER)
 
 ## Real Estate Considerations for Air Quality
 

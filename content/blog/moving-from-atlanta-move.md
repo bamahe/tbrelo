@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/moving-from-atlanta-move.webp"
 ---
 
-# Moving from Atlanta to Tampa Bay — The Complete Relocation Guide
-
 Making the leap from the ATL to the Bay? You're not alone. Every month, I help dozens of Atlanta families discover what thousands have already figured out: Tampa Bay offers everything they loved about Atlanta's growth and energy, minus the traffic nightmares and plus year-round sunshine.
 
 After 23+ years selling real estate here, I've seen this migration pattern accelerate dramatically. Atlanta transplants consistently tell me the same thing — they wish they'd made this move sooner.
 
-![Aerial view showing Tampa Bay's skyline and waterfront compared to Atlanta's downtown](PLACEHOLDER)
 
 ## Why Atlanta Residents Are Choosing Tampa Bay
 
@@ -81,7 +78,6 @@ Same scenario in Tampa Bay:
 
 Scale that up for higher earners or couples, and you're looking at $10,000-$20,000+ in annual tax savings. That's a nice vacation fund or accelerated mortgage payments.
 
-![Infographic showing tax savings calculator with Atlanta vs Tampa Bay comparison](PLACEHOLDER)
 
 ---
 
@@ -120,7 +116,6 @@ Family-friendly, great schools, newer construction, corporate headquarters nearb
 
 Historic, nightlife-focused, diverse, walkable. Ybor offers that urban grit with character. Loft conversions and condos start around $200K, while renovated historic homes run $300K-$500K.
 
-![Split image showing similar neighborhood characteristics between Atlanta and Tampa Bay areas](PLACEHOLDER)
 
 ## The Logistics: Getting Your Life from Atlanta to Tampa Bay
 
@@ -188,7 +183,6 @@ Tampa Bay's private schools match Atlanta's quality:
 - **Tampa Preparatory:** College prep focus, beautiful South Tampa campus
 - **Carrollwood Day School:** K-12, smaller class sizes
 
-![Students at a highly-rated Tampa Bay area school with modern facilities](PLACEHOLDER)
 
 ## Job Market: Career Opportunities in Paradise
 
@@ -247,7 +241,6 @@ Let's be honest about Tampa Bay weather — it's not perfect, but it beats Atlan
 
 The biggest adjustment? You'll actually want to be outside year-round. My Atlanta clients consistently say they never expected to become "outdoorsy" until they moved here.
 
-![Family enjoying outdoor activities in Tampa Bay during winter months when Atlanta is cold](PLACEHOLDER)
 
 ---
 
@@ -303,7 +296,6 @@ We're not Atlanta, but we hold our own:
 
 Plus spring training for multiple MLB teams if you're a baseball fan.
 
-![Tampa Bay sports fans at Raymond James Stadium during a Bucs game](PLACEHOLDER)
 
 ## Healthcare: World-Class Medical Care
 
@@ -362,7 +354,6 @@ Tampa Bay's real estate market has stabilized after the pandemic craziness. Here
 - Harbour Island: High-rise living, Tampa's Manhattan
 - Davis Islands: Island living, historic charm, aviation community
 
-![New construction homes in a popular Tampa Bay neighborhood with palm trees and community amenities](PLACEHOLDER)
 
 ### Buying Process Differences
 
@@ -404,7 +395,6 @@ Tampa Bay's real estate market has stabilized after the pandemic craziness. Here
 - **Professional Networking** — Industry groups, Chamber of Commerce events
 - **Emergency Contacts** — Find local dentist, vet, car mechanic, handyman
 
-![Welcome to Florida sign with family celebrating their successful relocation](PLACEHOLDER)
 
 ## The Bottom Line: Is Tampa Bay Right for You?
 

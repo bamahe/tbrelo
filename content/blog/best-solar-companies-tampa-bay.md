@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/best-solar-companies-tampa-bay.webp"
 ---
 
-# Best Solar Panel Companies in Tampa Bay: Your 2024 Guide to Going Solar
-
 Florida's nickname as the Sunshine State isn't just marketing fluff — we get 237 sunny days per year in Tampa Bay, making solar panels one of the smartest investments you can make. I've been selling homes here for 23 years, and I've watched solar go from a curiosity to a major selling point that can boost property values by $15,000-$25,000.
 
 But here's the thing: not all solar companies are created equal, and Tampa Bay has its share of door-to-door hustlers alongside legitimate installers. After watching dozens of my clients navigate this process, I've learned which companies deliver on their promises and which ones leave homeowners frustrated.
 
-![Solar panels installed on a typical Tampa Bay home with palm trees and blue sky in background](PLACEHOLDER)
 
 ## Why Solar Makes Sense in Tampa Bay
 
@@ -77,7 +74,6 @@ Sunrun is the largest residential solar company in the US, and they've got a sol
 
 **The Reality Check:** Leases sound appealing but can complicate home sales. Some buyers won't touch a property with a solar lease, and transfer agreements can delay closings by weeks.
 
-![Professional solar installation crew working on a Clearwater home roof](PLACEHOLDER)
 
 ### 3. Momentum Solar
 
@@ -130,7 +126,6 @@ Don't let the Texas roots fool you — Freedom Solar has been aggressively expan
 
 **The Reality Check:** Newer to the Florida market means fewer local references, but their Texas track record is solid and they're investing heavily in Florida operations.
 
-![Comparison chart showing solar panel efficiency ratings and warranty terms](PLACEHOLDER)
 
 ## Local Tampa Bay Solar Installers Worth Considering
 
@@ -174,7 +169,6 @@ Florida's heat and humidity are tough on electronics. String inverters are cheap
 **Microinverters:** Enphase IQ8 series ($150-200 per panel)
 **Power Optimizers:** SolarEdge optimizers with central inverter ($100-150 per panel)
 
-![Close-up of different solar panel types showing crystalline vs thin-film technology](PLACEHOLDER)
 
 ## Tampa Bay Solar Installation Process
 
@@ -221,7 +215,6 @@ Most banks and credit unions in Tampa Bay offer solar loans at 3.5-7% APR. [Sola
 
 These $0-down options sound attractive but complicate home sales. If you're planning to move within 10 years, avoid leases. They rarely transfer cleanly and can scare off buyers.
 
-![Solar installation crew working during typical Tampa Bay afternoon thunderstorm weather](PLACEHOLDER)
 
 ## Tampa Bay Solar Incentives and Rebates
 
@@ -272,7 +265,6 @@ Most modern systems include monitoring apps, but Tampa Bay's weather patterns me
 - **Summer months (June-Aug):** High production but maximum AC usage
 - **Rainy season (June-September):** Reduced production but panels self-clean
 
-![Solar panel monitoring app showing typical Tampa Bay seasonal production patterns](PLACEHOLDER)
 
 ## Common Tampa Bay Solar Scams to Avoid
 

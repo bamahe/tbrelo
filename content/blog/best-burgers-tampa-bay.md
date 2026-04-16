@@ -25,7 +25,6 @@ featuredImage: "/images/blog/best-burgers-tampa-bay.webp"
 
 Looking for the best burger in Tampa Bay? After 23+ years of eating my way through this metro, I've found spots that'll make you forget every chain restaurant exists. From $8 smash burgers that rival the fancy places to $18 gourmet creations that justify every penny, Tampa Bay's burger scene punches way above its weight.
 
-![Wide shot of various gourmet burgers from different Tampa Bay restaurants arranged on a rustic wooden table](PLACEHOLDER)
 
 ## The Heavy Hitters: Tampa's Elite Burger Scene
 
@@ -50,7 +49,6 @@ Don't let the fancy bookstore atmosphere fool you. The **OX Burger** ($17) is se
 
 The secret? They use a 70/30 beef blend and cook the patties on a cast iron griddle that creates the perfect crust. The potato bun comes from La Segunda bakery — because when you're this close to Ybor, you use the best Cuban bread in town.
 
-![Close-up of a gourmet burger with perfectly melted cheese and fresh toppings](PLACEHOLDER)
 
 ## Smash Burger Champions
 
@@ -75,7 +73,6 @@ The **Datz Burger** ($14) earned its reputation during Tampa's food truck era, a
 
 What's the sauce? They won't tell me, but after dozens of visits, I taste mayo, ketchup, yellow mustard, and something slightly sweet. Maybe honey? The important part: It works perfectly with the crispy-edged patties.
 
-![Action shot of a chef smashing a burger patty on a hot griddle with steam rising](PLACEHOLDER)
 
 ---
 
@@ -108,7 +105,6 @@ SoHo's legendary party bar also makes a killer burger. The **Mac Attack** ($11) 
 
 The key is timing. Order this around 10 PM when the kitchen is hitting its stride and the crowd is just starting to build. The burger arrives hot, greasy in the best way, and exactly what you need.
 
-![Interior shot of a classic dive bar with neon signs and a burger being grilled behind the bar](PLACEHOLDER)
 
 ## St. Petersburg's Best
 
@@ -133,7 +129,6 @@ This Cuban-inspired spot serves the **Bodega Burger** ($12) — a beautiful fusi
 
 It's essentially a burger version of a Cuban sandwich, and it works brilliantly. The mojo sauce (citrus, garlic, and herbs) brightens everything up, while the Swiss and ham add richness. The Cuban bread is sturdy enough to handle the juices without falling apart.
 
-![Outdoor patio dining scene at a St. Petersburg restaurant with burgers on the table](PLACEHOLDER)
 
 ## Clearwater & Beaches
 
@@ -160,7 +155,6 @@ Before you roll your eyes at a chain restaurant, hear me out. The **Zingers Moun
 
 The Brandon kitchen takes more care than other locations, and their grill runs hotter. The result is a burger with better char and juicier patties. Plus, the portions are generous enough to feed two people.
 
-![A loaded burger with multiple patties, cheese, and toppings next to a basket of fries](PLACEHOLDER)
 
 ## The Newcomers Worth Watching
 
@@ -178,7 +172,6 @@ Seminole Heights' newest addition serves the **Rooster Burger** ($15) — dry-ag
 
 The dry-aging program is still young, but they're already producing beef with deeper, more complex flavors than most spots in town. As their program matures, this could become Tampa's best burger.
 
-![Modern restaurant interior with exposed brick walls and contemporary burger plating](PLACEHOLDER)
 
 ## What Makes Tampa Bay Burgers Different
 
@@ -202,7 +195,6 @@ After two decades of eating burgers across this metro, I've noticed a few trends
 
 **Bun quality:** A soggy bun ruins everything. Places that make their own or source from local bakeries usually get this right.
 
-![Close-up of hands holding a perfectly constructed burger with melted cheese dripping down the sides](PLACEHOLDER)
 
 ---
 

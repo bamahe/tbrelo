@@ -27,7 +27,6 @@ You've seen the headlines: "Tampa Bay Tornado Warning" or "Funnel Cloud Spotted 
 
 Here's the reality: Tampa Bay does get tornadoes, but they're a completely different animal than what you see in the Great Plains. After 23+ years of helping families relocate here, I've learned that understanding our tornado risk — and more importantly, our hurricane-spawned tornado risk — is crucial for making smart decisions about where to live and what to expect.
 
-![Aerial view of Tampa Bay area with dramatic storm clouds forming overhead, showing the flat terrain and water features that influence local weather patterns](PLACEHOLDER)
 
 ## The Real Numbers on Tampa Bay Tornadoes
 
@@ -65,7 +64,6 @@ Unlike Oklahoma or Kansas, very few Tampa Bay homes have dedicated safe rooms or
 
 Your best tornado shelter in a typical Tampa Bay home is an interior closet or bathroom on the lowest floor, away from windows. Avoid mobile home parks during tornado warnings — Florida's mobile home parks have been devastated by tornadoes, including the deadly outbreak in Fort Myers Beach during Hurricane Ian.
 
-![Cross-section diagram showing proper tornado safety positions in a typical Florida home without basement, highlighting interior rooms and avoiding windows](PLACEHOLDER)
 
 ## Seasonal Patterns You Need to Know
 
@@ -105,7 +103,6 @@ The reasoning is simple: water and urban heat islands tend to disrupt tornado fo
 
 If you're considering mobile home communities — and Tampa Bay has many nice ones — understand that they're particularly vulnerable to tornadoes. Florida building codes for mobile homes have improved significantly, but they're still not comparable to site-built homes for tornado resistance.
 
-![Map of Tampa Bay area showing color-coded tornado risk levels by neighborhood, with higher risk areas in red and lower risk areas in green](PLACEHOLDER)
 
 ## The Warning System: What Actually Works
 
@@ -157,7 +154,6 @@ The key is understanding that Tampa Bay tornado risk is manageable with proper a
 
 Most long-time Tampa Bay residents develop a healthy respect for severe weather without living in fear. It's part of the Florida lifestyle, like dealing with afternoon thunderstorms or hurricane season.
 
-![Family gathered in an interior room of their Florida home during a tornado warning, showing proper safety positioning with emergency supplies nearby](PLACEHOLDER)
 
 ## Climate Change and Future Projections
 

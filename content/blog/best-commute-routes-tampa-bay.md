@@ -27,7 +27,6 @@ After 23 years of helping people relocate to Tampa Bay, I've learned that your d
 
 Tampa Bay's commute patterns follow some predictable rules, but there are always surprises. The good news? Once you understand the flow, you can find routes that'll save you hours each week.
 
-![Aerial view of Tampa Bay showing major highways and bridges during rush hour traffic](PLACEHOLDER)
 
 ## Understanding Tampa Bay's Traffic DNA
 
@@ -70,7 +69,6 @@ New Tampa's explosive growth created a commuting nightmare for early residents, 
 
 **To Brandon:** You're in luck. I-75 south to I-4 east flows well most times — 35-45 minutes.
 
-![Traffic map showing congestion patterns on I-275 and major Tampa Bay arterials during peak hours](PLACEHOLDER)
 
 ## Central Tampa Commute Reality
 
@@ -145,7 +143,6 @@ You're in Tampa Bay's employment sweet spot. Most commutes from here are reasona
 
 **To Tampa International Airport:** 15-25 minutes via multiple routes. You're golden here.
 
-![Split screen showing the same route during off-peak vs peak hours with dramatic traffic difference](PLACEHOLDER)
 
 ## Pinellas County Strategies
 
@@ -195,7 +192,6 @@ Tampa's bike infrastructure improved dramatically in recent years:
 
 **Weather reality:** Plan for 4-5 months of tough cycling weather (June-October heat/rain).
 
-![Comparison image showing bike lanes, bus routes, and alternative transportation options in Tampa Bay](PLACEHOLDER)
 
 ## Timing Your Move Strategically
 

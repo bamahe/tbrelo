@@ -27,7 +27,6 @@ Looking at Florida? You're probably weighing Tampa Bay against smaller markets l
 
 After 23+ years helping people relocate in Tampa Bay, I've seen plenty of folks consider both markets. Here's the straight story on what each offers, where they fall short, and how to decide which fits your life better.
 
-![Aerial view comparing Tampa Bay's skyline with downtown skyscrapers against Ocala's more rural landscape with horse farms](PLACEHOLDER)
 
 ## The Big Picture: Size and Scale
 
@@ -67,7 +66,6 @@ Median home price: $285,000
 
 Ocala's sweet spot is the $200,000-$350,000 range where you get solid construction, decent lots, and established neighborhoods. The horse property market operates differently — acreage, barns, and riding trails command premium prices.
 
-![Side-by-side comparison showing a typical Tampa Bay suburban home next to an Ocala horse property with fencing and barn structures](PLACEHOLDER)
 
 ---
 
@@ -139,7 +137,6 @@ Ocala's options are limited:
 
 For serious higher education, most Ocala families look toward Gainesville (University of Florida) or drive to Tampa Bay schools.
 
-![Students walking across the University of South Florida campus with modern buildings in the background](PLACEHOLDER)
 
 ## Cost of Living Breakdown
 
@@ -188,7 +185,6 @@ Ocala centers around outdoor activities:
 
 Limited nightlife and cultural activities compared to Tampa Bay. What exists tends toward community-focused rather than professional entertainment.
 
-![Families enjoying activities at Rainbow Springs State Park with crystal clear spring water and lush vegetation](PLACEHOLDER)
 
 ## Transportation and Commuting
 
@@ -252,7 +248,6 @@ Quality healthcare within limitations:
 
 For complex medical needs, many residents travel to larger metro areas.
 
-![Modern hospital building representing Tampa Bay's advanced healthcare infrastructure](PLACEHOLDER)
 
 ## Schools and Family Considerations
 
@@ -334,7 +329,6 @@ Expect 2-4% annual appreciation. Rental market limited but steady, particularly 
 
 Some families split the difference — living in northern Tampa Bay areas like Dade City or Zephyrhills. You get easier access to Tampa Bay amenities while maintaining a more rural feel. Commuting to downtown Tampa takes 45-60 minutes, but you're still connected to the larger metro area.
 
-![Split image showing Tampa Bay's urban skyline transitioning to Ocala's rural horse country landscape](PLACEHOLDER)
 
 ## Financial Impact Analysis
 

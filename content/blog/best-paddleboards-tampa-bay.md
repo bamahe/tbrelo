@@ -29,7 +29,6 @@ After 23+ years of helping families relocate to Tampa Bay, I've learned that wat
 
 I've tested dozens of boards in everything from the choppy waters off Bayshore Boulevard to the glass-calm mornings at Weedon Island. Here's what actually works in our unique conditions — no marketing fluff, just real recommendations for real Tampa Bay waters.
 
-![Various paddleboards lined up on Bayshore Boulevard with Tampa skyline in background](PLACEHOLDER)
 
 ## Why Tampa Bay Waters Demand Specific SUP Features
 
@@ -63,7 +62,6 @@ I've watched dozens of clients take this board from Terror Bay (what locals call
 
 [BOTE Deus Aero 11'6"]({{amazon:B089QVXYZ1}})
 
-![BOTE paddleboard being inflated at Ballast Point Park with Tampa Bay bridge visible](PLACEHOLDER)
 
 ### Red Paddle Co Ride 10'8" — The Beginner's Best Friend
 
@@ -118,7 +116,6 @@ The built-in features eliminate the need for deck rigging that can snag when lau
 
 [BOTE Rackham 12']({{amazon:B094PQRSTU}})
 
-![Rigid paddleboard propped against palm tree at Clearwater Beach with Gulf of Mexico in background](PLACEHOLDER)
 
 ### Boardworks Surf Sirena 10'6" — The Women's Favorite
 
@@ -167,7 +164,6 @@ Tampa Bay's tidal currents can separate you from your board faster than you thin
 **Sun Protection**
 Our UV index regularly hits 9-11 from March through October. A [long-sleeve rashguard]({{amazon:B085TUVWXY}}) and [wide-brim hat]({{amazon:B087ZABCDE}}) aren't optional — they're survival gear.
 
-![Paddleboard accessories laid out on dock with Tampa skyline in background](PLACEHOLDER)
 
 ### Performance Upgrades Worth Considering
 
@@ -210,7 +206,6 @@ Tracking distance and speed helps gauge improvement and ensures you maintain eno
 - Good fishing opportunities combine with paddling
 - Watch for strong tidal currents near bridge pilings
 
-![Paddleboarders launching at sunrise from Bayshore Boulevard with downtown Tampa in background](PLACEHOLDER)
 
 ## Seasonal Considerations for Tampa Bay SUP
 
@@ -254,7 +249,6 @@ Fall can offer Tampa Bay's most spectacular SUP conditions between weather syste
 **Proper positioning:** Store rigid boards rail-up to prevent hull deformation
 **Climate consideration:** Extreme temperature changes can damage both inflatable and rigid construction
 
-![Clean paddleboard being rinsed with fresh water at outdoor shower near beach](PLACEHOLDER)
 
 ---
 

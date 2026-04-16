@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/florida-pool-ownership-cost.webp"
 ---
 
-# The Real Cost of Pool Ownership in Florida (It's Not What You Think)
-
 After 23 years of showing homes across Tampa Bay, I've had this conversation roughly 10,000 times: "Oh, we definitely want a pool!" Then, about six months after closing, I get the follow-up call: "Barrett, nobody told me about the electric bill."
 
 Welcome to pool ownership in the Sunshine State, where that crystal-clear backyard oasis comes with some murky financial realities. Let me break down what you're *actually* signing up for — because the surprises start way before you take your first dip.
 
-![A typical Florida backyard pool with screened enclosure, showing both the appeal and maintenance reality](PLACEHOLDER)
 
 ## The Upfront Investment: More Than Just Water and Concrete
 
@@ -73,7 +70,6 @@ Even with a salt water system, you're not chemical-free. Monthly costs typically
 
 Budget $100-$165 per month for chemicals. More if you're fighting algae blooms during our lovely summer thunderstorm season.
 
-![Close-up of pool chemical testing kit with various bottles of pool chemicals](PLACEHOLDER)
 
 ## Maintenance: DIY vs Professional Service
 
@@ -120,7 +116,6 @@ The cell (the expensive part) lasts 3-5 years and costs $600-$900 to replace. Th
 
 Cartridge filters need replacement every 2-3 months ($40-$60 for a set). DE filters need new grids every 2-3 years ($200-$350). Sand filters need new sand every 5-7 years ($150-$250).
 
-![Pool equipment pad showing pump, heater, and electrical connections in a typical Florida installation](PLACEHOLDER)
 
 ## Insurance and Property Tax Implications
 
@@ -162,7 +157,6 @@ Even in Florida, pools need winter attention:
 
 Winter months typically see $50-$80 less in operating costs, but this is when heat pumps and heaters need service.
 
-![Screened pool enclosure in Florida backyard showing typical residential setup with lanai furniture](PLACEHOLDER)
 
 ## The Real Numbers: Total Annual Cost Breakdown
 
@@ -206,7 +200,6 @@ Even if you hire a service, knowing how to test water and add chemicals saves mo
 
 Not just for safety — a good cover reduces chemical usage by 50% and heating costs by 70%. Quality automatic covers cost $12,000-$18,000 but pay for themselves in 3-4 years.
 
-![Pool maintenance supplies and testing equipment laid out beside a pool](PLACEHOLDER)
 
 ## When Pool Ownership Makes Financial Sense
 

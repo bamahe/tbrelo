@@ -27,7 +27,6 @@ Just closed on your Florida home? Congratulations — now comes the fun part. Th
 
 Here's your no-nonsense roadmap for the first month in your new Florida home.
 
-![New homeowner holding keys in front of a Florida home with palm trees](PLACEHOLDER)
 
 ## Before You Even Unpack: Days 1-3
 
@@ -74,7 +73,6 @@ For vehicle registration, bring your title, current registration, insurance proo
 
 **Tampa Bay insider tip:** The DMV locations in Brandon and Temple Terrace typically have shorter waits than downtown Tampa or St. Petersburg.
 
-![Person organizing important documents and paperwork at a kitchen table](PLACEHOLDER)
 
 ### Homestead Exemption Filing
 
@@ -162,7 +160,6 @@ Register online at RegisterToVoteFlorida.gov within 29 days of moving. You'll ne
 
 Florida's primary elections often determine local races, so don't skip them. Local elections affect your property taxes, school funding, and development decisions that directly impact your home's value.
 
-![Person setting up home office with boxes and moving supplies in background](PLACEHOLDER)
 
 ## Week Four: The Home Itself
 
@@ -246,7 +243,6 @@ Florida requires licenses for many home services that might be DIY elsewhere. Bu
 
 **Financial advisors:** Florida's tax advantages create opportunities, but you need expertise to maximize them.
 
-![Family unpacking boxes and settling into their new Florida home](PLACEHOLDER)
 
 ### Seasonal Adjustments
 

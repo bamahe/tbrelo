@@ -27,7 +27,6 @@ The Super Bowl isn't just another Sunday — it's the one day when even people w
 
 After 23 years of helping people settle into this area, I've watched plenty of Super Bowls in plenty of places. Some experiences are worth the drive and the crowds. Others? Save your money and stay home. Here's where to actually go — and which places are just tourist traps with overpriced wings.
 
-![Crowded sports bar with multiple large screens showing Super Bowl pre-game coverage, filled with excited fans wearing jerseys](PLACEHOLDER)
 
 ## The Heavy Hitters: Premium Sports Bar Experiences
 
@@ -61,7 +60,6 @@ The granddaddy of Tampa Bay sports bars. Ferg's has been doing this since before
 
 **Price reality:** Expect to spend $60-80 per person including food, drinks, and tip. Not cheap, but you're paying for reliability.
 
-![Large outdoor screen at waterfront venue with crowds gathered on grass and at picnic tables under string lights](PLACEHOLDER)
 
 ## The Neighborhood Champions
 
@@ -91,7 +89,6 @@ If you want organized chaos with a side of football, MacDinton's delivers. This 
 
 **Survival tips:** Eat before you go. Their kitchen struggles during big events. Cash tips work better than credit card tips for faster service.
 
-![Upscale restaurant bar area with elegant lighting and large flat screens, well-dressed patrons seated at high-top tables](PLACEHOLDER)
 
 ## The Upscale Options
 
@@ -121,7 +118,6 @@ Similar concept to Sparkman Wharf but indoors with higher-end food options. Mult
 
 **Atmosphere:** More family-friendly than traditional sports bars. Good option if you're bringing kids or older relatives who want to see the game but don't want the full sports bar experience.
 
-![Family-friendly restaurant with booth seating and multiple screens, mixed crowd including children and elderly patrons](PLACEHOLDER)
 
 ---
 
@@ -173,7 +169,6 @@ Reliable sports bar chain with good screen visibility and above-average bar food
 
 **Crowd management:** They usually take reservations for large groups, which most independent bars don't offer.
 
-![Beachside tiki bar with palm trees, outdoor screens, and patrons in casual beach attire watching the game](PLACEHOLDER)
 
 ## Beach Viewing Options
 
@@ -223,7 +218,6 @@ Their beachfront bar area often hosts Super Bowl parties with a more resort-styl
 
 **Hidden costs:** Parking fees at downtown venues, surge pricing for rideshares, and the inevitable extra drinks when the game runs long.
 
-![Modern sports bar interior with wrap-around screens, comfortable seating areas, and attentive servers taking orders](PLACEHOLDER)
 
 ## What to Avoid
 

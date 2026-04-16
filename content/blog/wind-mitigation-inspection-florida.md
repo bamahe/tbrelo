@@ -23,15 +23,12 @@ schema:
 featuredImage: "/images/blog/wind-mitigation-inspection-florida.webp"
 ---
 
-# Wind Mitigation Inspections in Florida — Save Thousands on Insurance
-
 If you're buying a home in Tampa Bay — or anywhere in Florida — and you skip a wind mitigation inspection, you're basically throwing money at your insurance company for no reason. I've watched countless homeowners pay $3,000-$5,000 more per year in insurance premiums simply because they didn't know this inspection existed.
 
 A wind mitigation inspection costs around $75-$150. It can save you 10-45% on your homeowner's insurance. Do the math. If your annual premium is $4,000 (pretty typical for [Hillsborough County](/counties/hillsborough/) coastal areas), even a 15% discount saves you $600 annually. That inspection pays for itself in about two months.
 
 Here's what every Florida homeowner needs to know about wind mitigation inspections, why they matter, and how to get the maximum insurance discounts.
 
-![Wind mitigation inspector examining roof structure and hurricane clips on a Florida home](PLACEHOLDER)
 
 ## What Is a Wind Mitigation Inspection?
 
@@ -88,7 +85,6 @@ This category offers the largest potential savings — up to 45% in some cases. 
 
 Here's the reality in Tampa Bay: Most homes built before 1994 have toe-nail connections. Homes built 1994-2001 often have single wraps. Post-2002 construction typically has clips or double wraps.
 
-![Close-up view of hurricane clips connecting roof trusses to wall structure](PLACEHOLDER)
 
 ### Wall Construction
 
@@ -167,7 +163,6 @@ The savings vary by insurance company, but here are typical ranges based on my e
 
 I've seen homeowners in [coastal Pinellas County](/counties/pinellas/) save $2,500+ annually with comprehensive wind mitigation features. Even modest savings of $500-$800 per year add up significantly over time.
 
-![Wind mitigation inspection form being filled out by certified inspector](PLACEHOLDER)
 
 ## When You Should Get a Wind Mitigation Inspection
 
@@ -253,7 +248,6 @@ Many inspectors offer package deals for wind mitigation plus:
 - General home inspections
 - Roof inspections
 
-![Inspector measuring and documenting window protection and door reinforcements](PLACEHOLDER)
 
 ## Wind Mitigation by Tampa Bay County
 

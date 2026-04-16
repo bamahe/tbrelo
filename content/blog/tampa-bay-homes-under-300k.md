@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/tampa-bay-homes-under-300k.webp"
 ---
 
-# Tampa Bay Homes Under $300K — Where to Look in 2026
-
 Let me be straight with you: finding homes under $300K in Tampa Bay isn't what it used to be. Five years ago, I'd show clients dozens of options in solid neighborhoods. Today? It's a different game entirely.
 
 But here's what 23 years in this market has taught me — opportunity still exists if you know where to look and what trade-offs you're willing to make. The $300K budget isn't dead in Tampa Bay; it's just more strategic now.
 
-![Affordable Tampa Bay neighborhoods with homes under $300K showing price range comparisons](PLACEHOLDER)
 
 ## The Reality Check: What $300K Gets You Now
 
@@ -79,7 +76,6 @@ Recent listings show 4-bedroom, 2-bath homes on acre lots for $275K. These are t
 
 Plant City is also experiencing commercial growth along I-4, making it increasingly viable for commuters to Orlando or downtown Tampa.
 
-![East Tampa affordable neighborhoods showing homes and local amenities under $300K budget](PLACEHOLDER)
 
 ## Pinellas County Options: Beaches Within Reach
 
@@ -127,7 +123,6 @@ The eastern edge of Pasco County, near the Wesley Chapel border, offers newer co
 
 You'll find 2010s-era homes with 3 bedrooms, 2 baths, and modern features like granite countertops and stainless appliances. The neighborhoods feel more suburban than rural, with sidewalks, streetlights, and HOA-maintained common areas.
 
-![Pasco County affordable homes showing new construction and established neighborhoods under $300K](PLACEHOLDER)
 
 ## Condo and Townhome Alternatives
 
@@ -178,7 +173,6 @@ Budget beyond the mortgage payment. Consider:
 - Potential major repairs (roof, HVAC, flooring)
 - Utility costs (older homes are less efficient)
 
-![Tampa Bay home inspection checklist showing key areas to evaluate for homes under $300K](PLACEHOLDER)
 
 ---
 

@@ -27,7 +27,6 @@ I-275 isn't just a highway — it's a rite of passage. After 23 years of helping
 
 Think of this as your survival manual for the most psychologically damaging 60 miles of asphalt in Florida.
 
-![Aerial view of I-275 traffic during rush hour showing the characteristic backup patterns](PLACEHOLDER)
 
 ## Why Everyone Hates I-275 (And They're Not Wrong)
 
@@ -63,7 +62,6 @@ This is where I-275 truly shows its evil genius. Northbound becomes a parking lo
 
 Southbound evening traffic isn't much better, especially if there's a Bucs game, Lightning game, or any event at Amalie Arena. Add a concert at MidFlorida Credit Union Amphitheatre, and you might as well pack snacks.
 
-![Traffic backup at the MLK Boulevard merge showing the lane reduction bottleneck](PLACEHOLDER)
 
 ## Exit-by-Exit Survival Strategy
 
@@ -125,7 +123,6 @@ If you're coming from Pasco County or northern Hillsborough, the [Veteran's Expr
 
 **Bayshore Boulevard**: If you're heading to Hyde Park or downtown and don't mind adding 10 minutes, this scenic route along Tampa Bay beats sitting in traffic.
 
-![The Veteran's Expressway toll plaza showing the electronic toll collection system](PLACEHOLDER)
 
 ## Technology and Tools That Help
 
@@ -172,7 +169,6 @@ After 23 years of driving clients around Tampa Bay, I've learned that accepting 
 
 **Avoid the left lane south of Bearss Avenue**: It's not actually faster, and you'll get trapped behind someone trying to cross four lanes to make the Ashley Drive exit.
 
-![Dashboard view during evening rush hour showing the typical backup near downtown Tampa](PLACEHOLDER)
 
 ## Weather and I-275: A Dangerous Combination
 

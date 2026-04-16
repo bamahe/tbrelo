@@ -27,7 +27,6 @@ Moving to Florida means saying goodbye to state income tax forever — but your 
 
 Here's the straight truth: Most states will try to squeeze every last dollar out of you before you officially become a Florida resident. Some are reasonable about it. Others... well, let's just say California and New York have earned their reputations.
 
-![Person reviewing tax documents with Florida and another state's tax forms spread across a desk](PLACEHOLDER)
 
 ## Understanding Part-Year Residency Status
 
@@ -93,7 +92,6 @@ But "earned" can be tricky to define:
 - **Investment income**: Typically taxed where you were a resident when received
 - **Retirement distributions**: Depends on the state and type of account
 
-![Calendar showing tax deadlines and important moving dates marked in red](PLACEHOLDER)
 
 ## Common Mistakes That Cost Money
 
@@ -203,7 +201,6 @@ Some states, particularly New York and California, routinely audit high earners 
 
 If you're facing a residency audit, don't go it alone. Tax attorneys who specialize in multi-state issues can save you far more than they cost. Look for professionals with specific experience in your old state's audit procedures.
 
-![Tax professional reviewing documents with client in Florida office setting](PLACEHOLDER)
 
 ## Professional Help: When You Need It
 

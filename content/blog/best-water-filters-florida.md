@@ -7,8 +7,6 @@ publishedAt: "2026-04-13"
 updatedAt: "2026-04-13"
 ---
 
-# Best Water Filters for Florida Tap Water
-
 If you just moved to Florida and your tap water tastes like a swimming pool mixed with rotten eggs, congratulations — you're experiencing Florida water. It's safe to drink (Tampa Bay Water meets all federal standards), but "safe" and "enjoyable" are two different things.
 
 Florida tap water gets its distinctive taste from three main culprits: **chlorine/chloramine** used for disinfection, **sulfur** from natural groundwater sources, and **dissolved minerals** (calcium, magnesium, limestone) that make the water hard. In the Tampa Bay area specifically, our water comes from a blend of surface water, groundwater, and desalinated seawater — each source contributing its own flavor profile.

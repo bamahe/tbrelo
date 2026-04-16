@@ -29,7 +29,6 @@ I've walked hundreds of retirees through this process over 23 years in real esta
 
 Let's cut through the Medicare marketing noise and focus on what matters for your Tampa Bay move.
 
-![Senior couple reviewing Medicare documents at kitchen table with Tampa Bay skyline visible through window](PLACEHOLDER)
 
 ## The Tampa Bay Medicare Reality Check
 
@@ -100,7 +99,6 @@ Supplement premiums in Florida run $150-$350/month depending on the plan and you
 
 You'll need separate Part D coverage, adding another $30-$80/month.
 
-![Medicare ID cards and Florida driver's license on desk with Tampa Bay area map](PLACEHOLDER)
 
 ## Top Medicare Plans in Tampa Bay (2024)
 
@@ -161,7 +159,6 @@ Moving to Florida triggers a Special Enrollment Period, giving you 63 days from 
 
 **Pro Tip:** Don't wait until day 62. Medicare plan changes take time to process, and you don't want a coverage gap if you need medical care.
 
-![Senior reviewing Medicare options with healthcare advisor in modern Tampa medical office](PLACEHOLDER)
 
 ## Healthcare Costs Beyond Medicare
 

@@ -7,8 +7,6 @@ publishedAt: "2026-04-13"
 updatedAt: "2026-04-13"
 ---
 
-# Best Patio and Lanai Upgrades Under $200
-
 In Florida, the lanai is the best room in the house. It's where you drink your morning coffee watching the sun come up. It's where you grill dinner while the kids play in the yard. It's where you sit and listen to the rain during an afternoon thunderstorm without getting wet.
 
 If you just moved to Tampa Bay from somewhere that calls it a "porch" or "patio," welcome to the lanai life. (It's pronounced "luh-NY" and yes, real estate listings use it constantly.) A screened-in lanai is standard in most Florida homes, and upgrading it is one of the best investments in daily quality of life you can make.

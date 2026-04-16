@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/best-pool-equipment-florida.webp"
 ---
 
-# Best Pool Equipment for Florida Homeowners: A REALTOR's Guide to What Actually Works
-
 After 23 years selling homes in Tampa Bay, I've walked around thousands of pools. I've seen the equipment that keeps running through Florida's brutal summers and the stuff that dies after two seasons. I've watched homeowners blow $10K on the wrong setup and others nail it with smart choices.
 
 Here's what actually works in Florida's unique climate — from the gear that survives our humidity to the systems that handle our crazy seasonal loads.
 
-![Modern pool equipment pad with variable speed pump, salt chlorinator, and automation system in a Florida backyard](PLACEHOLDER)
 
 ## Why Florida Pool Equipment Needs Are Different
 
@@ -97,7 +94,6 @@ Don't oversize your pump. I see this mistake constantly — homeowners think big
 
 **Proper sizing:** Your pump should turn over your pool volume in 6-8 hours at medium speed. A 20,000-gallon pool needs roughly 40-50 GPM flow rate.
 
-![Pool equipment comparison chart showing energy usage and costs for different pump types](PLACEHOLDER)
 
 ## Salt Water Chlorinators: Florida's Preferred Sanitization
 
@@ -141,7 +137,6 @@ Salt cells aren't maintenance-free despite what salespeople claim. In Florida's 
 
 But it's still easier than managing liquid chlorine in 95°F heat.
 
-![Salt water chlorinator cell being cleaned with muriatic acid solution](PLACEHOLDER)
 
 ## Pool Cleaners: Automation That Actually Works
 
@@ -208,7 +203,6 @@ Simple, effective, cheap to maintain. Price: $200-350.
 - Budget-conscious homeowners
 - Backup cleaning system
 
-![Robotic pool cleaner working on pool wall with waterline scrubbing action](PLACEHOLDER)
 
 ## Pool Heaters: Extending Your Swimming Season
 
@@ -246,7 +240,6 @@ Unglazed collectors that mount on roof or ground. Price: $150-250 per panel, typ
 - Increases home value
 - 10-12 year warranty
 
-![Solar pool heating panels installed on Florida home roof with pool in background](PLACEHOLDER)
 
 ## Pool Automation: Smart Controls That Make Sense
 
@@ -313,7 +306,6 @@ High-capacity DE filter for pools up to 60,000 gallons. Price: $800-1200.
 - DE powder disposal considerations
 - Higher upfront cost
 
-![Pool equipment room showing organized installation with proper clearances and labeling](PLACEHOLDER)
 
 ## Installation and Local Service Considerations
 
@@ -413,7 +405,6 @@ Cramming equipment into tight spaces causes overheating and makes service diffic
 ### Mixing Incompatible Automation
 Trying to control Pentair pumps with Hayward automation (or vice versa) creates communication issues and limits functionality. Stick with one ecosystem when possible.
 
-![Well-organized pool equipment pad with proper clearances and weather protection in Tampa Bay](PLACEHOLDER)
 
 ## Budget Planning for Pool Equipment
 

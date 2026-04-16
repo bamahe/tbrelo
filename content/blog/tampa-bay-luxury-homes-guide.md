@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/tampa-bay-luxury-homes-guide.webp"
 ---
 
-# Tampa Bay Luxury Homes — The $750K+ Market Guide
-
 The luxury home market in Tampa Bay isn't just about marble countertops and wine cellars anymore. With median home prices pushing past $400K and premium properties starting around $750K, today's luxury buyers are getting sophisticated about location, lifestyle, and long-term value.
 
 After 23+ years selling homes across Tampa Bay, I've watched this market evolve from cookie-cutter McMansions to thoughtfully designed properties that actually make sense for Florida living. Whether you're relocating from up north or moving up locally, here's what you need to know about luxury real estate in our market.
 
-![Waterfront luxury home in Tampa Bay with boat dock and pool](PLACEHOLDER)
 
 ## What Defines Luxury in Tampa Bay Today
 
@@ -80,7 +77,6 @@ This golf community offers luxury amenities at more approachable prices. Custom 
 **Starkey Ranch** ($650K-$1.2M)
 Newer luxury with master-planned amenities. The luxury tier starts around $750K for homes with premium lots and upgrades.
 
-![Gated luxury community entrance with landscaping and security gate](PLACEHOLDER)
 
 ## Waterfront vs. Gated Communities — Choose Your Luxury Style
 
@@ -142,7 +138,6 @@ Custom homes take 12-18 months from contract to closing, assuming no permit dela
 
 The advantage is speed and predictability. Production luxury homes typically close within 6-8 months, with fewer surprise costs.
 
-![Modern luxury home interior with high-end finishes and open floor plan](PLACEHOLDER)
 
 ## Luxury Features That Actually Add Value
 
@@ -211,7 +206,6 @@ Waterfront luxury properties near beaches can generate $300-600 nightly, with se
 **Long-Term Luxury Rentals**
 Executive rentals in gated communities rent for $4,000-8,000 monthly, popular with corporate relocations and high-income professionals.
 
-![Luxury home pool and outdoor entertainment area at sunset](PLACEHOLDER)
 
 ## Financing Luxury Properties — What's Different
 

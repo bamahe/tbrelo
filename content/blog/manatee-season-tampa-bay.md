@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/manatee-season-tampa-bay.webp"
 ---
 
-# Manatee Season in Tampa Bay — Where and When to See Them
-
 Every winter, something magical happens in Tampa Bay's warm-water refuges. As temperatures drop, Florida's gentle giants migrate to our heated springs and power plant outfalls, creating one of the most remarkable wildlife viewing opportunities in the country. After 23 years of showing families around Tampa Bay, I've learned the best spots, the perfect timing, and the insider tips that turn a "maybe we'll see one" trip into an unforgettable encounter with these thousand-pound sea cows.
 
 Here's everything you need to know about manatee season in Tampa Bay — from the guaranteed viewing spots to the hidden gems only locals know about.
 
-![Manatees gathering in warm water springs during winter season in Tampa Bay](PLACEHOLDER)
 
 ## When Is Manatee Season in Tampa Bay?
 
@@ -72,7 +69,6 @@ The purpose-built viewing center features elevated platforms and educational dis
 - Open year-round, though summer sightings are rare
 - Educational programs on weekends
 
-![Families watching manatees from elevated boardwalk at TECO viewing center in Apollo Beach](PLACEHOLDER)
 
 ### Crystal River National Wildlife Refuge
 
@@ -99,7 +95,6 @@ Homosassa's underwater observatory provides a unique below-the-surface perspecti
 
 The floating observatory puts you at eye level with manatees, creating photo opportunities impossible elsewhere. The park also features walking trails, a wildlife show, and excellent educational programs.
 
-![Underwater view of manatees through glass observatory at Homosassa Springs](PLACEHOLDER)
 
 ## Lesser-Known Manatee Viewing Spots
 
@@ -131,7 +126,6 @@ Famous for mermaid shows, Weeki Wachee also attracts wintering manatees to its s
 - Maintain 50-foot distance from all manatees
 - Bring waterproof camera gear
 
-![Kayakers maintaining respectful distance from manatees in crystal clear springs](PLACEHOLDER)
 
 ## Manatee Behavior and What to Expect
 
@@ -155,7 +149,6 @@ Understanding manatee behavior enhances your viewing experience and helps ensure
 
 ## Photography Tips and Equipment
 
-![Professional photographer capturing manatee behavior from respectful distance with telephoto lens](PLACEHOLDER)
 
 ### Essential Camera Gear
 
@@ -203,7 +196,6 @@ Manatees are protected under both the Marine Mammal Protection Act and Endangere
 
 **Cold stress:** Unusual cold snaps can overwhelm available warm-water habitat, leading to hypothermia and death.
 
-![Manatee sanctuary sign and educational display explaining conservation efforts](PLACEHOLDER)
 
 ## Planning Your Manatee Viewing Trip
 
@@ -275,7 +267,6 @@ Many families create manatee-focused vacations visiting multiple locations over 
 
 This approach maximizes manatee encounters while providing variety in viewing experiences and backup options if weather doesn't cooperate.
 
-![Family with children excitedly watching manatees from boardwalk viewing platform](PLACEHOLDER)
 
 ## Weather Considerations and Backup Plans
 

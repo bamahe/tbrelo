@@ -27,7 +27,6 @@ Sunday in Tampa Bay means one thing: brunch. Not the corporate chain version wit
 
 After 23 years of weekend house hunting with clients, I've tried every brunch spot from Clearwater Beach to downtown Tampa. Some are worth the wait. Others? Save your Sunday morning. Here's the honest breakdown of where to spend your weekend calories.
 
-![Tampa Bay brunch scene with outdoor seating, mimosas, and people enjoying weekend meals](PLACEHOLDER)
 
 ## The Heavy Hitters — Tampa's Elite Brunch Scene
 
@@ -45,7 +44,6 @@ This isn't just brunch — it's an experience. The restored 1930s bank building 
 
 **Order this:** The Oxford Benedict with house-cured salmon. Their mimosa flight features four different fruit combinations. Weekend wait times hit 45 minutes, but you can browse books while waiting.
 
-![Elegant brunch setting at Oxford Exchange with bookstore in background](PLACEHOLDER)
 
 ### Ulele
 **1810 N Highland Ave, Tampa**
@@ -78,7 +76,6 @@ Farm-to-table before it was trendy. Chef Greg Baker sources ingredients from loc
 
 **Order this:** Whatever's on the specials board — it's always the best thing they're making that day. Their biscuits are made every 30 minutes. Cash only, but there's an ATM inside.
 
-![Cozy neighborhood brunch spot with local ingredients and rustic decor](PLACEHOLDER)
 
 ### Breakfast Station
 **1103 S Howard Ave, Hyde Park**
@@ -103,7 +100,6 @@ Industrial space converted into a restaurant and bar. Their brunch menu is small
 
 **Order this:** The duck confit hash with poached eggs. Their cocktail program is exceptional — try the house bloody mary with celery salt rim. Street parking only, so arrive early.
 
-![Waterfront brunch spot with boats and marina in background](PLACEHOLDER)
 
 ### Frenchy's Original Cafe
 **41 Baymont St, Clearwater Beach**
@@ -130,7 +126,6 @@ Food hall meets beer garden with shipping container restaurants. Several vendors
 
 **Best vendor:** The Mole y Abuela for breakfast burritos, Edison Food + Drink Lab for creative benedicts. Bottomless runs from 11 AM to 3 PM weekends only.
 
-![Outdoor food hall setting with shipping containers and waterfront views](PLACEHOLDER)
 
 ### Westshore Pizza (Multiple Locations)
 **Original: 313 S Howard Ave**
@@ -153,7 +148,6 @@ Don't judge. Their breakfast menu features massive portions for $6-12. The panca
 
 **Order this:** The lumberjack breakfast with eggs, bacon, sausage, hash browns, and pancakes for $11.99. Their coffee is surprisingly good. Cash only, but portions will feed two people.
 
-![Classic American diner with large portions and affordable prices](PLACEHOLDER)
 
 ### Metro Diner (Multiple Locations)
 **Original Tampa: 3302 W Kennedy Blvd**
@@ -183,7 +177,6 @@ Southern comfort food with a modern twist. Their chicken and waffles uses butter
 
 **Order this:** The biscuit flight with house-made jams. Their grits include aged white cheddar and are cooked for two hours. The bourbon milk punch is dangerous at 11 AM.
 
-![Southern-style brunch with biscuits, gravy, and creative presentations](PLACEHOLDER)
 
 ### Taco Bus (Multiple Locations)
 **Original: 913 E Hillsborough Ave**

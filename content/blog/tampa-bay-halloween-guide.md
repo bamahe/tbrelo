@@ -27,7 +27,6 @@ Halloween in Tampa Bay isn't just about throwing on a costume and hoping for the
 
 The difference between a mediocre Halloween and one your kids talk about all year comes down to knowing where to go. Some neighborhoods here treat trick-or-treating like a community celebration — decorated houses, full-size candy bars, neighbors sitting on porches ready to chat. Others? You'll walk a mile between lit doorsteps.
 
-![Decorated houses in a Tampa Bay neighborhood with Halloween lights and decorations](PLACEHOLDER)
 
 ## Why Neighborhood Choice Matters for Halloween
 
@@ -59,7 +58,6 @@ The sweet spot runs along Bayshore Boulevard and the streets that branch toward 
 
 **Parking reality check:** Street parking only, and it fills fast. Many families park in Hyde Park Village and walk over.
 
-![Children trick-or-treating on tree-lined streets in historic South Tampa](PLACEHOLDER)
 
 ### New Tampa (Pebble Creek, Cross Creek Ranch)
 
@@ -101,7 +99,6 @@ The action centers around the residential streets just off Main Street, particul
 
 **Bonus:** Many of the downtown businesses participate too, so you can grab dinner at Ozona Blue or Grillsmith before or after trick-or-treating.
 
-![Safety Harbor residential street decorated for Halloween with vintage homes](PLACEHOLDER)
 
 ### Countryside
 
@@ -133,7 +130,6 @@ These are brand-new communities — 2010s and 2020s construction — designed sp
 
 **Parking note:** Unlike older neighborhoods, these communities planned for visitor parking. You'll actually find spaces on Halloween night.
 
-![New construction homes decorated for Halloween in a Pasco County subdivision](PLACEHOLDER)
 
 ### Wesley Chapel (The Groves, Wiregrass)
 
@@ -163,7 +159,6 @@ Safety Harbor's downtown Halloween festival has grown into one of Tampa Bay's be
 
 While not exactly trick-or-treating, Busch Gardens' Howl-O-Scream and local haunted attractions offer Halloween experiences for older kids and adults. These require separate tickets and planning, but they're worth mentioning for families looking beyond traditional trick-or-treating.
 
-![Families with young children at a community Halloween event](PLACEHOLDER)
 
 ## Timing and Logistics That Actually Matter
 
@@ -191,7 +186,6 @@ Tampa Bay's suburban neighborhoods are generally safe for trick-or-treating, but
 - **Check candy before letting kids eat it** — basic parenting, but worth mentioning
 - **Have a plan** if your group gets separated in crowded neighborhoods
 
-![Costumed children with LED safety lights walking on sidewalks](PLACEHOLDER)
 
 ## What to Expect in Different Price Ranges
 
@@ -253,7 +247,6 @@ Tampa Bay's haunted house scene extends well beyond trick-or-treating. Busch Gar
 
 Many neighborhoods that excel at Halloween also throw great community events throughout the year. If you're considering relocating to Tampa Bay and prioritizing family-friendly communities, neighborhoods with strong Halloween participation often indicate active community involvement year-round.
 
-![Community event with families and children in a Tampa Bay neighborhood](PLACEHOLDER)
 
 ## The Bottom Line on Tampa Bay Halloween
 

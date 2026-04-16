@@ -23,15 +23,12 @@ schema:
 featuredImage: "/images/blog/california-to-tampa-bay-move.webp"
 ---
 
-# Moving to Tampa Bay from California — The Real Comparison
-
 I've helped over 200 California families make the move to Tampa Bay in the last five years alone. The conversations usually start the same way: "Barrett, we're drowning in California costs and ready for a change." What follows is always enlightening — both for them and for me.
 
 The California-to-Florida migration isn't new, but it's accelerated dramatically. According to 2024 IRS data, Florida gained over 87,000 residents from California, with Tampa Bay capturing roughly 15% of that flow. But here's what the statistics don't tell you: not every Californian thrives here, and the transition involves more than just lower taxes and housing costs.
 
 After two decades of helping families navigate this specific relocation, I've learned which expectations align with reality and which ones lead to disappointment. Let me walk you through what you really need to know.
 
-![Tampa Bay skyline with palm trees contrasting against a California coastal scene](PLACEHOLDER)
 
 ## The Financial Reality Check
 
@@ -57,7 +54,6 @@ Gas prices typically run 15-20 cents below California levels, though we're still
 
 Utilities present the biggest shock. Summer electric bills for a 2,200-square-foot home average $180-220 monthly. Your pool pump, air conditioning, and general humidity management create costs many Californians didn't anticipate.
 
-![Side-by-side comparison chart showing housing costs, taxes, and utilities between California and Tampa Bay](PLACEHOLDER)
 
 ---
 
@@ -87,7 +83,6 @@ Modern building codes and insurance requirements make today's homes far more res
 
 For Californians dealing with limited sunlight in northern regions, Tampa Bay's consistent sunshine provides genuine mental health benefits. Even our "winter" months deliver ample sunny days, and seasonal depression rates run significantly lower than national averages.
 
-![Florida afternoon thunderstorm over Tampa Bay with palm trees in foreground](PLACEHOLDER)
 
 ## Lifestyle and Culture Shifts
 
@@ -129,7 +124,6 @@ Florida's business-friendly environment attracts entrepreneurs. No state income 
 
 Entertainment industry professionals find limited opportunities compared to California. Real estate professionals discover different licensing requirements but often thrive in Florida's active market. Healthcare workers generally find abundant opportunities with competitive compensation.
 
-![Modern downtown Tampa office buildings with professionals walking](PLACEHOLDER)
 
 ## Education and Family Considerations
 
@@ -169,7 +163,6 @@ The beach lifestyle creates new activity options. Surfing lessons, sailing camps
 
 Some neighborhoods require careful evaluation. While Tampa Bay generally offers safety, certain areas experience higher crime rates or ongoing transition periods. Work with local real estate professionals who understand current market dynamics and neighborhood trajectories.
 
-![Diverse Tampa Bay neighborhood homes showing different architectural styles](PLACEHOLDER)
 
 ---
 
@@ -225,7 +218,6 @@ Build professional networks intentionally. Join industry associations, attend Ch
 
 Consider the permanent implications. Many California transplants initially plan temporary stays but end up remaining permanently. Evaluate long-term goals and family needs before making irreversible decisions like selling California property.
 
-![Happy family unpacking boxes in their new Tampa Bay home with palm trees visible through windows](PLACEHOLDER)
 
 ## Frequently Asked Questions
 

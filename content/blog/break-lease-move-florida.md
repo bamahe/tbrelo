@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/break-lease-move-florida.webp"
 ---
 
-# How to Break a Lease to Move to Florida: A Practical Guide That Won't Bankrupt You
-
 Breaking a lease to move to Florida isn't as scary as landlords want you to think. After helping families relocate to Tampa Bay for over two decades, I've seen every lease-breaking scenario imaginable. Yes, there are consequences. No, they don't have to ruin your move to the Sunshine State.
 
 Let me walk you through the real options, actual costs, and strategies that work — not the generic advice you'll find elsewhere, but practical steps based on what I've seen succeed (and fail) hundreds of times.
 
-![Person reviewing lease documents with Florida moving boxes in background](PLACEHOLDER)
 
 ## Understanding Your Lease Terms (The Fine Print That Matters)
 
@@ -76,7 +73,6 @@ Start here. I've seen this work more often than tenants expect, especially in ti
 
 **Sample Script**: "I need to relocate to Tampa for work by March 1st. I know this puts you in a difficult position, but I'd like to work together on a solution that minimizes costs for both of us. Would you consider waiving penalties if I give 90 days notice and help with showings?"
 
-![Tenant meeting with landlord to discuss lease termination options](PLACEHOLDER)
 
 ## Strategy 2: Find a Replacement Tenant
 
@@ -141,7 +137,6 @@ If you're moving to Florida for work, this strengthens your negotiation position
 
 I've seen landlords waive penalties entirely for tenants relocating for career advancement, especially if given adequate notice and cooperation.
 
-![Moving truck loaded with boxes heading to Florida](PLACEHOLDER)
 
 ## Timeline and Communication Strategy
 
@@ -194,7 +189,6 @@ Once you've successfully navigated breaking your lease, you can focus on the exc
 
 Consider this part of your overall moving strategy. Every dollar saved on lease breaking fees is money you can put toward a better Florida rental, moving expenses, or building your emergency fund for the transition.
 
-![Happy family unpacking boxes in their new Florida home](PLACEHOLDER)
 
 ## Working with Florida Landlords
 

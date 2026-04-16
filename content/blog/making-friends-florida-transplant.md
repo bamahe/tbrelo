@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/making-friends-florida-transplant.webp"
 ---
 
-# How to Make Friends as a Florida Transplant (It's Different Here)
-
 Let me be straight with you: making friends as an adult in Florida hits differently than anywhere else I've lived in 23 years of helping people relocate here. The good news? Once you crack the code, Tampa Bay has some of the most genuine, fun-loving people you'll ever meet. The bad news? You can't use your old playbook.
 
 I've watched thousands of transplants navigate this exact challenge. Some figure it out in three months and build lifelong friendships. Others spend two years wondering why everyone seems surface-level friendly but nothing sticks. The difference isn't personality or luck — it's strategy.
 
-![Group of diverse adults laughing together at an outdoor Tampa Bay event with palm trees in background](PLACEHOLDER)
 
 ## Why Florida Friendship Is Different
 
@@ -51,7 +48,6 @@ Tampa Bay sprawls. Your new neighbor might work in downtown Tampa while living i
 
 This geographic reality means casual "let's grab coffee" friendships are harder to maintain. You need to be more intentional about location and planning.
 
-![Aerial view of Tampa Bay bridges connecting different counties, showing the sprawling geography](PLACEHOLDER)
 
 ## The Florida Friend-Making Playbook
 
@@ -81,7 +77,6 @@ Tampa has serious cycling culture. Groups like Tampa Bay Freewheelers organize r
 **Beach Culture:**
 Here's an insider tip: regulars at specific beaches become a community. Pick one beach (Clearwater Beach, Indian Rocks, Pass-a-Grille) and become a regular. Bring a distinctive beach umbrella so people start recognizing you. Strike up conversations with other regulars.
 
-![People socializing after a paddleboard session on the Hillsborough River](PLACEHOLDER)
 
 ### Work the Food and Drink Scene
 
@@ -126,7 +121,6 @@ Volunteering solves multiple Florida friend-making challenges simultaneously: it
 
 The key is committing to regular volunteer work, not one-off events. People need to see you consistently to move from acquaintance to friend.
 
-![Volunteers working together at a Tampa Bay beach cleanup event](PLACEHOLDER)
 
 ---
 
@@ -182,7 +176,6 @@ Florida's year-round event calendar gives you constant opportunities to meet peo
 - Bayshore Boulevard runs and walks
 - Various farmers markets across the bay area
 
-![Crowd of people enjoying an outdoor festival in downtown St. Petersburg](PLACEHOLDER)
 
 ## Common Mistakes Florida Transplants Make
 
@@ -224,7 +217,6 @@ Once you've met a few people through various activities, host your own gathering
 
 Building genuine friendships in Florida takes 6-12 months of consistent effort. Don't get discouraged if your first few months feel surface-level. The payoff is worth it — Florida friends tend to be adventurous, welcoming to other transplants, and up for spontaneous fun year-round.
 
-![Group of friends enjoying a sunset dinner at a waterfront restaurant in Tampa Bay](PLACEHOLDER)
 
 ---
 

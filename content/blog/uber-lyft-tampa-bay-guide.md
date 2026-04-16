@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/uber-lyft-tampa-bay-guide.webp"
 ---
 
-# Uber and Lyft in Tampa Bay — Coverage, Costs, and Tips
-
 Rideshare in Tampa Bay isn't like New York or San Francisco. You won't find a car on every corner, wait times can stretch longer than you'd expect, and surge pricing hits hard during Lightning games and downtown events. But for the 3.2 million people living across Hillsborough, Pinellas, and Pasco counties, Uber and Lyft have become essential backup transportation — especially when your car's in the shop or you're hitting Ybor City for the night.
 
 After 23 years of helping people navigate Tampa Bay, I've watched rideshare evolve from a downtown-only service to covering most of our sprawling metro. Here's what actually works, what costs more than you think, and how to avoid getting stranded at 2 AM in Wesley Chapel.
 
-![Uber driver picking up passenger at Tampa International Airport with rideshare pickup signs visible](PLACEHOLDER)
 
 ## Current Coverage Areas in Tampa Bay
 
@@ -51,7 +48,6 @@ After 23 years of helping people navigate Tampa Bay, I've watched rideshare evol
 
 **Clearwater Beach** has solid service during tourist season (October through April), terrible service during summer. Peak season wait times run 8-15 minutes. Dead summer weekdays? Plan for 30+ minutes or call a traditional cab.
 
-![Map showing Tampa Bay rideshare coverage density with darker areas indicating better service availability](PLACEHOLDER)
 
 ### The Dead Zones
 
@@ -95,7 +91,6 @@ Tampa Bay surge pricing follows predictable patterns, but they'll catch newcomer
 
 **Weather surge** kicks in during thunderstorms, which means June through September afternoons get expensive fast. That 4 PM thunderstorm turns a $20 ride into $40+.
 
-![Screenshot of surge pricing map during a Tampa Bay Lightning game showing red zones around Amalie Arena](PLACEHOLDER)
 
 ### Premium Service Costs
 
@@ -135,7 +130,6 @@ Tampa Bay surge pricing follows predictable patterns, but they'll catch newcomer
 
 **Walk to better pickup zones.** A few blocks can save significant money. Instead of pickup from deep in Hyde Park, walk to Kennedy Boulevard. Instead of pickup from inside USF campus, meet at Fletcher Avenue.
 
-![Uber and Lyft app comparison showing different pricing for the same route in Tampa](PLACEHOLDER)
 
 ## Integration with Tampa Bay Transit
 

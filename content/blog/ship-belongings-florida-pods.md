@@ -23,15 +23,12 @@ schema:
 featuredImage: "/images/blog/ship-belongings-florida-pods.webp"
 ---
 
-# How to Ship Your Stuff to Florida — PODS, U-Pack, and More
-
 Moving to Florida? You're about to join the millions who've made the leap to the Sunshine State, but first you need to figure out how to get all your worldly possessions down here without breaking the bank or your sanity.
 
 After helping families relocate to Tampa Bay for over two decades, I've seen every shipping disaster and success story imaginable. From the couple who shipped a grand piano in a PODS container (spoiler: it didn't go well) to the family who moved cross-country for under $3,000 using smart shipping strategies.
 
 Here's your no-nonsense guide to getting your stuff to Florida — what actually works, what costs way more than it should, and how to avoid the gotchas that nail first-time movers.
 
-![Various shipping containers and moving trucks lined up at a distribution facility](PLACEHOLDER)
 
 ## Why Florida Moves Are Different
 
@@ -77,7 +74,6 @@ ABF drops off a 28-foot trailer. You load your stuff in part of it, they put a b
 
 **Barrett's Reality Check:** The trailer option offers the best value if you're organized and can load efficiently. I've seen families move 3-bedroom homes for under $2,500 using 15 linear feet. But if you're disorganized or have awkward furniture, stick with cubes.
 
-![Loading a U-Pack trailer with furniture and boxes](PLACEHOLDER)
 
 ## 1-800-PACK-RAT: The Middle Ground
 
@@ -135,7 +131,6 @@ Traditional moving companies handle everything: packing, loading, transport, unl
 
 **Barrett's Experience:** I've seen full-service moves go flawlessly and others turn into nightmares. The key is researching the local crews in both your origin city and destination. A great national brand means nothing if the local guys are having a bad day.
 
-![Professional movers loading a truck with furniture](PLACEHOLDER)
 
 ## Shipping Individual Items: Sometimes Smart, Usually Not
 
@@ -186,7 +181,6 @@ Here's what most shipping guides won't tell you: Florida's climate starts affect
 
 **Barrett's Advice:** If you can move between October and March, do it. You'll save money and avoid the misery of unloading a truck in 95-degree heat with 80% humidity.
 
-![Calendar showing optimal moving months highlighted](PLACEHOLDER)
 
 ## Money-Saving Strategies That Actually Work
 

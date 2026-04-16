@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/tampa-bay-allergy-guide.webp"
 ---
 
-# Tampa Bay Allergy Guide — What's Blooming and When
-
 Living in Tampa Bay for over two decades, I've watched countless newcomers arrive in paradise only to discover their sinuses didn't get the memo. One week they're bragging about Florida's year-round sunshine, the next they're googling "best allergist near me" at 3 AM.
 
 Here's the reality: Tampa Bay's subtropical climate creates a nearly year-round pollen party, and your immune system wasn't invited. But knowing what's blooming when — and how to fight back — makes all the difference between loving your new home and hiding indoors with a box of tissues.
 
-![Tampa Bay oak tree covered in Spanish moss with visible pollen clouds during peak blooming season](PLACEHOLDER)
 
 ## Why Tampa Bay Allergies Hit Different
 
@@ -81,7 +78,6 @@ Summer brings consistently high grass pollen counts — typically 4.0-7.0 grains
 
 Areas with large lawns and open spaces see the highest counts. Think Westchase, New Tampa, and the suburban communities in Pinellas County.
 
-![Close-up of grass releasing pollen particles with morning dew visible on blades](PLACEHOLDER)
 
 ### September - October: Ragweed's Revenge
 
@@ -146,7 +142,6 @@ Winds from the Gulf can blow away local pollen — great news. But they can also
 
 **Wind direction matters**: Eastern winds bring pollen from inland. Gulf breezes usually provide relief.
 
-![Weather radar showing typical Tampa Bay afternoon thunderstorm pattern over the region](PLACEHOLDER)
 
 ## Neighborhood-Specific Allergy Challenges
 

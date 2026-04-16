@@ -27,7 +27,6 @@ You know what Florida's dirty little secret is? We all pretend we love the year-
 
 While tourists flock down here in droves thinking they're experiencing "paradise," locals are quietly booking their getaways to places where you don't need a shower after walking to your mailbox.
 
-![Florida family packing SUV with luggage and mountain gear for summer escape trip](PLACEHOLDER)
 
 ## The Great Florida Summer Exodus
 
@@ -57,7 +56,6 @@ Helen, Georgia transforms into Florida refugee central every July. You'll hear m
 - **Blue Ridge**: Scenic railway and lake activities, 5 hours north
 - **Ellijay**: Apple orchards and hiking, fewer crowds than Helen
 
-![Scenic Georgia mountain view with cool morning mist and pine trees](PLACEHOLDER)
 
 ### The Economics Make Sense
 
@@ -85,7 +83,6 @@ For Floridians craving ocean without the oppressive heat, the Outer Banks delive
 
 Nags Head and Duck offer that laid-back beach vibe Florida used to have before it became a tourist industrial complex. Plus, you can actually enjoy outdoor activities without planning around heat indexes.
 
-![Family enjoying cool mountain lake activities in Georgia or North Carolina](PLACEHOLDER)
 
 ## South Carolina's Sweet Spot
 
@@ -117,7 +114,6 @@ Florida summer refugees make rookie mistakes. Pack layers — mountain mornings 
 
 Don't forget your [portable phone charger]({{amazon:B07QX7T4GG}}) for all those mountain vista photos you'll inevitably post to make your Florida friends jealous.
 
-![Floridians in hiking gear and layers exploring mountain trails](PLACEHOLDER)
 
 ### Booking Strategies
 
@@ -139,7 +135,6 @@ Interestingly, many of my [Tampa Bay relocations](/moving-guide/) happen after p
 
 Some clients buy Florida homes specifically because they've planned summer escape routes. They budget for both the Florida property and summer rental costs, treating it as an integrated lifestyle choice rather than suffering through August in Sarasota.
 
-![Mountain cabin rental with Florida license plates in driveway and families relaxing on porch](PLACEHOLDER)
 
 ## Beyond Survival: Making It a Tradition
 
@@ -161,7 +156,6 @@ But most Florida refugees return refreshed, recharged, and ready to appreciate O
 
 Some don't return at all — I've had clients who started with summer Georgia trips and ended up relocating permanently. Mountains have a way of putting Florida heat in perspective.
 
-![Welcome back to Florida sign with heat waves visible rising from the pavement](PLACEHOLDER)
 
 The bottom line? Florida summers are endurable, but they don't have to be enjoyable. Smart Floridians have figured out that paradise has an off-season, and the mountains are waiting just four hours north.
 

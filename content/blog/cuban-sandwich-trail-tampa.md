@@ -27,7 +27,6 @@ Look, I'm going to level with you — Tampa's Cuban sandwich game is serious bus
 
 The Cuban sandwich isn't just food here; it's identity. It's the official sandwich of Tampa, and locals will fight you over where to get the best one. I've had clients move here specifically for the food scene, and honestly? They're not wrong.
 
-![Authentic Tampa Cuban sandwich with pressed bread, showing layers of ham, pork, pickles, and mustard](PLACEHOLDER)
 
 ## What Makes a Real Tampa Cuban Sandwich
 
@@ -44,7 +43,6 @@ That's it. No mayo, no lettuce, no tomatoes. If someone tries to add those, they
 
 The bread matters most. Real Cuban bread has a palm frond laid on top while baking, creating that distinctive ridge. Most places in Tampa get their bread from La Segunda Central Bakery or make their own following the traditional recipe.
 
-![Close-up of Cuban bread showing the distinctive palm frond ridge on top](PLACEHOLDER)
 
 ## The Legendary Spots You Can't Miss
 
@@ -70,7 +68,6 @@ Their Cuban costs $8.95, and it's massive. The bread is perfect because they lit
 
 Get there early — they often sell out of bread by mid-afternoon. The parking lot is tiny, but there's street parking on 15th Street.
 
-![Interior of La Segunda bakery showing workers making Cuban bread with traditional ovens](PLACEHOLDER)
 
 ### West Tampa Sandwich Shop — The Neighborhood Secret
 
@@ -101,7 +98,6 @@ Price runs about $9.95 for the sandwich. The meat portions are generous, and the
 
 Located in the heart of Ybor City, Carmine's serves decent Cubans until the early morning hours. Perfect after a night out on 7th Avenue. The sandwich isn't going to win awards, but at 2 AM, it hits the spot. About $10, and they deliver late night too.
 
-![Bustling 7th Avenue in Ybor City at night with restaurant signs and people walking](PLACEHOLDER)
 
 ## The New School Players
 
@@ -123,7 +119,6 @@ Not traditionally known for Cubans, but their sandwich ($12) is surprisingly goo
 
 Located in Ybor, so you can easily hit multiple spots in one trip.
 
-![Cuban sandwich cut in half showing the melted cheese and layers of meat](PLACEHOLDER)
 
 ## Geographic Breakdown — Where to Go by Area
 
@@ -150,7 +145,6 @@ Good if you're already exploring this trendy neighborhood. Combine with shopping
 
 When you're looking at houses in the suburbs and need a quick lunch.
 
-![Map showing locations of Cuban sandwich shops across Tampa neighborhoods](PLACEHOLDER)
 
 ## What to Avoid — The Tourist Traps and Wannabes
 
@@ -181,7 +175,6 @@ A drink and chips usually add $3-5 to your total. Most places are cash-friendly,
 
 La Segunda often runs out of bread by 3 PM. Columbia takes reservations. Most other spots are first-come, first-served.
 
-![Busy lunch counter at a Cuban sandwich shop with workers pressing sandwiches](PLACEHOLDER)
 
 ## Making Your Cuban Sandwich Tour
 
@@ -209,7 +202,6 @@ A great Cuban sandwich shop tells you about Tampa's history. Ybor City was built
 
 When you bite into a proper Tampa Cuban, you're tasting 140 years of immigrant success stories and community building. It's why locals get protective about the recipe — it represents something bigger than lunch.
 
-![Historical photo recreation showing Cuban workers in Ybor City cigar factory from early 1900s](PLACEHOLDER)
 
 ## The Final Word
 

@@ -23,11 +23,8 @@ schema:
 featuredImage: "/images/blog/pinellas-county-schools-guide.webp"
 ---
 
-# Pinellas County Schools Guide — Zones and Choice Programs
-
 Pinellas County Schools serves 104,000+ students across 208 schools, making it Florida's seventh-largest district. Here's what you need to know as a parent relocating to Pinellas County — from traditional zoned schools to magnet programs that could change your housing search entirely.
 
-![Pinellas County Schools district map showing elementary, middle, and high school boundaries across St. Petersburg, Clearwater, and Pinellas Park](PLACEHOLDER)
 
 ## How Pinellas School Zones Actually Work
 
@@ -157,7 +154,6 @@ But here's what most guides won't tell you: **many excellent programs have space
 - **Gibbs High** — Arts conservatory, college-prep focus
 - **Boca Ciega High** — Both traditional and fundamental programs
 
-![Students participating in a STEM lab at Ridgecrest Elementary, showing hands-on engineering projects](PLACEHOLDER)
 
 ## Special Programs Worth Knowing About
 
@@ -231,7 +227,6 @@ With 40+ private schools across Pinellas County, families have options. Popular 
 
 Florida's school choice programs (Family Empowerment Scholarships, Hope Scholarships) can help with private school costs for qualifying families.
 
-![Parents and students at a Pinellas County school choice fair, reviewing program brochures and talking to school representatives](PLACEHOLDER)
 
 ---
 

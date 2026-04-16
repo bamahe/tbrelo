@@ -29,7 +29,6 @@ Let's be honest — driving around Tampa Bay without window tint is like wearing
 
 After 23 years of showing properties across Hillsborough, Pinellas, and Pasco counties, I've sat in enough cars baking in Florida sun to know good tint from cheap garbage. Your AC works overtime, your leather seats crack, and don't get me started on the dashboard fade. Quality window tint isn't a luxury here — it's survival equipment.
 
-![Professional window tint installation showing before and after on a sedan](PLACEHOLDER)
 
 Florida law caps front windows at 28% VLT (Visible Light Transmission), rear windows at 15%, and your windshield can have non-reflective tint along the top. Break these rules and you'll get a fix-it ticket faster than you can say "Bayshore Boulevard."
 
@@ -59,7 +58,6 @@ Their ceramic window film blocks 99% of UV rays — crucial when you're parking 
 
 **Contact:** (813) 282-3777
 
-![Close-up of ceramic window tint installation showing the precision cutting process](PLACEHOLDER)
 
 ### Ultimate Audio (Brandon/Riverview)
 
@@ -97,7 +95,6 @@ Perfect for downtown St. Pete residents who want personal service. They know eve
 
 **Contact:** (727) 822-8468
 
-![Comparison showing heat rejection difference between tinted and untinted windows](PLACEHOLDER)
 
 ## Understanding Tint Types and Technologies
 
@@ -125,7 +122,6 @@ Cheapest option at $150-250, but you get what you pay for in Florida. Dyed films
 
 Skip dyed film unless budget absolutely requires it. The money you save upfront gets eaten by AC costs and early replacement needs.
 
-![Side-by-side comparison of different tint types on identical vehicles](PLACEHOLDER)
 
 ## Florida Tint Laws: Know Before You Go
 
@@ -146,7 +142,6 @@ Many first-time buyers think 28% looks "too light" because they're used to seein
 
 Want darker? Go 20% on rear windows (legal) and 28% up front. The contrast looks intentional rather than accidental.
 
-![Demonstration of legal tint percentages on different windows of the same vehicle](PLACEHOLDER)
 
 ## DIY vs Professional Installation
 
@@ -180,7 +175,6 @@ Quality ceramic tint should last 15-20 years in Florida conditions with proper c
 
 **Regular Inspection:** Check edges for lifting or bubbling. Quality shops will fix these issues free under warranty.
 
-![Professional cleaning of tinted windows with appropriate tools and products](PLACEHOLDER)
 
 ## Cost Breakdown by Vehicle Type
 

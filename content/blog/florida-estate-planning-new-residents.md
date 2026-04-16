@@ -29,7 +29,6 @@ After helping families relocate here for over two decades, I've watched too many
 
 Let me walk you through what actually matters for new Florida residents, minus the legal jargon that makes your eyes glaze over.
 
-![Florida estate planning documents spread on a desk with a Tampa Bay home in the background](PLACEHOLDER)
 
 ## Why Florida Estate Planning Is Different
 
@@ -146,7 +145,6 @@ Attorney fees are set by Florida statute based on estate value. For a $500,000 e
 
 This streamlined process works for smaller estates and can often be completed in 30-60 days. No personal representative is appointed, and the court simply orders asset distribution according to the will or Florida law.
 
-![Interior of a Florida courtroom showing where probate proceedings take place](PLACEHOLDER)
 
 ## Tax Considerations for New Florida Residents
 
@@ -227,7 +225,6 @@ Don't let this sit on your to-do list forever. Here's your practical timeline:
 - Update property titles if recommended
 - Review and update insurance beneficiaries
 
-![Florida estate planning attorney meeting with new residents at a Tampa office](PLACEHOLDER)
 
 ## Common Mistakes New Residents Make
 

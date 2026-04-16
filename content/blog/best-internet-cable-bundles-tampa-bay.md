@@ -27,7 +27,6 @@ Moving to Tampa Bay and drowning in internet provider options? After 23 years he
 
 The reality? Tampa Bay's internet landscape changed dramatically post-pandemic. Everyone realized their home internet wasn't just for Netflix anymore — it's your office, your kids' classroom, and your entertainment hub. Getting this decision wrong means months of frustration and overpaying for underperforming service.
 
-![Comparison chart showing internet speeds and pricing for major Tampa Bay providers](PLACEHOLDER)
 
 ## The Tampa Bay Internet Reality Check
 
@@ -68,7 +67,6 @@ The upload speeds are Spectrum's Achilles heel. If you work from home with video
 - Households prioritizing reliable download speeds over uploads
 - Renters who need easy installation/removal
 
-![Spectrum cable box and modem setup in a modern Tampa Bay home](PLACEHOLDER)
 
 ## Frontier Fiber: When You Can Get It, It's Gold
 
@@ -124,7 +122,6 @@ Fios coverage in Tampa Bay feels random — you'll find it in pockets of South T
 
 Fios TV interface consistently gets praised by my tech-savvy clients. If you're coming from a major market with cutting-edge cable boxes, you'll appreciate the smooth experience.
 
-![Fiber optic cable installation in a Tampa Bay neighborhood](PLACEHOLDER)
 
 ## T-Mobile Home Internet: The Dark Horse
 
@@ -175,7 +172,6 @@ Let's address the elephant: traditional cable TV is dying. Many of my relocating
 
 Add quality internet-only service (200+ Mbps) for $40-60/month, and you're saving $30-50 monthly versus traditional bundles.
 
-![Modern living room setup with streaming devices and smart TV in Tampa Bay home](PLACEHOLDER)
 
 ## Equipment That Actually Matters
 
@@ -220,7 +216,6 @@ Newer infrastructure generally supports faster speeds. Multiple providers compet
 
 Mix of providers with Spectrum dominant. Some areas still dealing with older cable infrastructure that caps speeds below advertised maximums.
 
-![Installation technician working on fiber internet setup at a Tampa Bay residence](PLACEHOLDER)
 
 ## Bundle vs. Separate Services: The Real Math
 
@@ -268,7 +263,6 @@ Every provider promises "professional installation," but experiences vary wildly
 ### DIY vs. Professional Setup
 Internet-only installations are often simple enough for DIY. Full TV bundles with multiple rooms benefit from professional setup.
 
-![Professional technician installing cable internet in a Tampa Bay home office](PLACEHOLDER)
 
 ## Future-Proofing Your Decision
 

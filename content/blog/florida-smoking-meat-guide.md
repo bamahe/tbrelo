@@ -23,15 +23,12 @@ schema:
 featuredImage: "/images/blog/florida-smoking-meat-guide.webp"
 ---
 
-# How to Smoke Meat in Florida Without Melting (A Sweaty Realtor's Guide)
-
 After 23 years of showing houses under the Florida sun, I've learned two essential survival skills: finding shade and smoking brisket without passing out from heat exhaustion. Trust me, nothing says "welcome to Tampa Bay" like a perfectly smoked pork shoulder — even when it's 95°F with 80% humidity at 7 AM.
 
 Your neighbors up north can smoke year-round in their comfortable 65-degree weather. Down here? We're playing barbecue on hard mode. But here's the thing: some of the best pitmasters in America call Florida home, and they've figured out how to turn our brutal climate into an advantage.
 
 Let me share what I've learned from countless backyard smoking sessions between house showings, plus wisdom from actual Florida pitmasters who've been doing this since before air conditioning was standard.
 
-![Smoker setup under a covered patio with fans and shade structures during Florida summer](PLACEHOLDER)
 
 ## Why Florida Makes You a Better Pitmaster
 
@@ -60,7 +57,6 @@ I learned this lesson the hard way during my first summer in [Tampa](/neighborho
 
 **Pro tip:** If you go offset, invest in a good thermometer with wireless monitoring. The [ThermoWorks Smoke X4]({{amazon:B08CKDZ8Z9}}) saves you from constantly opening your smoker (and your sanity).
 
-![Offset smoker positioned under shade structure with wireless thermometer display showing](PLACEHOLDER)
 
 ### Kamado Grills: The Florida Heat Champion
 
@@ -101,7 +97,6 @@ Box fans are mandatory equipment. Not for you (though you'll appreciate them) �
 
 Position one fan to push hot air away from your smoker, another to create cross-ventilation around your workspace. The [Lasko Stanley Blower Fan]({{amazon:B001DNGSCM}}) moves enough air to matter without breaking the bank.
 
-![Covered outdoor cooking area with fans, shade structures, and coolers setup for Florida smoking](PLACEHOLDER)
 
 ### The Hydration Station
 
@@ -147,7 +142,6 @@ Season meat the night before and refrigerate. Cold meat going onto the smoker he
 
 I prep everything Sunday night for Monday morning smoking sessions. The overnight rest improves flavor penetration anyway — win-win.
 
-![Various cuts of meat being prepped and seasoned in a kitchen the night before smoking](PLACEHOLDER)
 
 ### Injection Benefits in Humidity
 
@@ -198,7 +192,6 @@ Start on the smoker for flavor, finish in your indoor oven for food safety and s
 
 Works especially well for large roasts and whole chickens that need to reach safe internal temperatures.
 
-![Indoor oven with wrapped meat being finished inside while still maintaining smoky flavor](PLACEHOLDER)
 
 ## Equipment That Saves Your Sanity
 
@@ -249,7 +242,6 @@ Once you've survived your first Florida summer smoking, pay it forward. The barb
 
 Start small — invite neighbors over for simple smoked chicken. Work up to hosting proper backyard competitions where everyone brings their A-game and shares techniques.
 
-![Backyard BBQ gathering with multiple smokers, people socializing under shade structures](PLACEHOLDER)
 
 ---
 

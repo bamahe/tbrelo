@@ -27,7 +27,6 @@ If you're moving to Tampa Bay, nobody warns you about the Great Snowbird Migrati
 
 After 23+ years here, I've watched this seasonal invasion transform Tampa Bay from November through April. Some locals complain endlessly. Smart ones adapt. Here's your survival guide to snowbird season — when they come, when they leave, and how to actually benefit from their presence.
 
-![Aerial view of I-275 packed with cars during peak snowbird season in Tampa Bay](PLACEHOLDER)
 
 ## The Official Snowbird Calendar: Mark Your Calendar
 
@@ -53,7 +52,6 @@ The final wave includes retirees who sold their northern homes, first-time Flori
 ### The Great Exodus (March 15 - May 1)
 They start trickling out after St. Patrick's Day. Easter weekend sees major departures. By May 1st, Tampa Bay feels like a different place — traffic flows, restaurants have availability, and parking spaces magically appear.
 
-![Before and after comparison of a popular Tampa Bay beach - crowded in February vs empty in May](PLACEHOLDER)
 
 ## Where They Go (And Why It Matters to You)
 
@@ -86,7 +84,6 @@ Seasonal rental demand drives year-round pricing throughout Tampa Bay. A [Pinell
 ### Restaurant Economics
 Popular spots like Ocean Prime, Bern's Steak House, and Columbia Restaurant see 40-60% revenue increases during snowbird season. This seasonal boost keeps many restaurants profitable year-round — but also means you're paying higher prices even in summer.
 
-![Packed restaurant patio in downtown St. Petersburg during peak snowbird season](PLACEHOLDER)
 
 ### Service Industry Surge
 Everything costs more and takes longer:
@@ -135,7 +132,6 @@ Popular spots like The Capital Grille, Council Oak, and Armani's require 2-3 wee
 - Try lunch at dinner spots — often the same menu, lower prices, shorter waits
 - Explore neighborhoods snowbirds haven't discovered yet (Seminole Heights, downtown Dunedin)
 
-![Long line of people waiting outside a popular Tampa Bay restaurant during snowbird season](PLACEHOLDER)
 
 ## Shopping and Services: Timing Is Everything
 
@@ -181,7 +177,6 @@ Restaurants and services develop informal "locals pricing" and priority systems.
 ### Seasonal Employment
 Many businesses hire seasonal workers. If you're between jobs or want extra income, snowbird season offers temporary opportunities in hospitality, retail, and services.
 
-![Happy local Tampa Bay resident enjoying an empty beach in summer after snowbird season ends](PLACEHOLDER)
 
 ## County-by-County Snowbird Impact
 

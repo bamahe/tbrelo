@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/military-pcs-tampa-bay-macdill.webp"
 ---
 
-# Military PCS to Tampa Bay — MacDill AFB Relocation Guide
-
 Getting PCS orders to MacDill Air Force Base? You're landing in one of the military's most coveted assignments. Tampa Bay offers year-round warmth, no state income tax, world-class beaches, and a genuinely military-friendly community. But like any move, success depends on preparation and knowing the local landscape.
 
 After helping hundreds of military families navigate Tampa Bay relocations over 23+ years, I've seen what works — and what catches people off guard. This isn't another generic "welcome to Florida" fluff piece. This is the real scoop on making your MacDill PCS smooth, smart, and successful.
 
-![MacDill Air Force Base main gate with palm trees and Tampa skyline in background](PLACEHOLDER)
 
 ## Understanding MacDill AFB and Tampa Bay Geography
 
@@ -105,7 +102,6 @@ Established neighborhoods with mature trees, good schools, and reasonable prices
 **Commute:** 25-35 minutes via Dale Mabry or I-275
 **Schools:** Forest Hills Elementary (A), Carrollwood Day School (private option), Chamberlain High (B+)
 
-![Aerial view of South Tampa neighborhood showing tree-lined streets and proximity to Tampa Bay](PLACEHOLDER)
 
 ## School Considerations for Military Families
 
@@ -192,7 +188,6 @@ Median home prices hover around $375,000-425,000 depending on area. With typical
 
 **Vehicle Registration:** You have 30 days to register vehicles in Florida. No inspections required, but you'll need insurance verification.
 
-![Family unpacking moving boxes in a Tampa Bay area home with palm trees visible through windows](PLACEHOLDER)
 
 ## Getting Around Tampa Bay
 
@@ -259,7 +254,6 @@ Tampa Bay has world-class medical facilities:
 
 **TRICARE Providers:** Tampa Bay has abundant TRICARE-accepting providers, but popular ones book quickly. Establish care early, especially for specialists.
 
-![Tampa Bay skyline at sunset with military aircraft flying overhead](PLACEHOLDER)
 
 ## Special Considerations for MacDill Families
 

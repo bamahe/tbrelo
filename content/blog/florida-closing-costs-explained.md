@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/florida-closing-costs-explained.webp"
 ---
 
-# Closing Costs in Florida — What Buyers and Sellers Actually Pay
-
 After 23 years of walking Tampa Bay buyers and sellers through closing tables, I've seen the same shocked faces hundreds of times. "Wait, how much are my closing costs again?" 
 
 Here's the reality: Florida closing costs aren't just high — they're structured differently than most states. And if you're moving here from somewhere else, you're in for some surprises.
 
-![Overhead view of a Florida closing table with documents, calculator, and keys](PLACEHOLDER)
 
 ## The Real Numbers: What Buyers Actually Pay
 
@@ -71,7 +68,6 @@ Pinellas and Hillsborough counties charge recording fees, doc stamps on the mort
 
 Sellers, you're not getting off easy. On that same $400,000 sale, expect to pay $24,000-$30,000 to walk away from your home. Yes, really.
 
-![Real estate agent explaining closing costs to sellers at a kitchen table](PLACEHOLDER)
 
 ### The Big Kahuna: Real Estate Commissions
 
@@ -118,7 +114,6 @@ New construction in places like Fishhawk Ranch or Riverview comes with impact fe
 
 Pasco County properties, especially in areas like Land O' Lakes or Dade City, often have lower title insurance rates but higher inspection costs due to the prevalence of older homes and rural properties.
 
-![Calculator and financial documents spread on a desk showing closing cost calculations](PLACEHOLDER)
 
 ## The Hidden Costs Nobody Warns You About
 
@@ -175,7 +170,6 @@ Moving here from elsewhere? Florida's closing cost structure is unique:
 
 **No state income tax trade-off:** Yes, closing costs are high, but remember — no state income tax means more money in your pocket long-term.
 
-![Comparison chart showing Florida closing costs versus national averages](PLACEHOLDER)
 
 ## What to Expect at Your Florida Closing
 

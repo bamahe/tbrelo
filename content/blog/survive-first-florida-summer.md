@@ -27,7 +27,6 @@ Your first Florida summer will humble you. I've watched thousands of relocating 
 
 After 23+ years helping families settle into Tampa Bay, I've seen every possible AC disaster, humidity horror story, and heat-related meltdown. The good news? You can absolutely conquer your first Florida summer. You just need to know what you're really dealing with.
 
-![Family standing in front of their new Florida home with palm trees, looking prepared for summer with sun hats and water bottles](PLACEHOLDER)
 
 ## The Reality Check: This Isn't Just "Hot Weather"
 
@@ -63,7 +62,6 @@ Buy filters in bulk from [Amazon]({{amazon:B07LGKQJ4Y}}) — those 12-packs save
 
 Set aside $300-500 for potential AC repairs. Systems work harder here, and parts fail more often. The most common failure? Capacitors, especially during the first brutal heat wave when your system kicks into overdrive.
 
-![HVAC technician performing maintenance on an outdoor AC unit with palm trees in the background](PLACEHOLDER)
 
 ## The Humidity Battle Plan
 
@@ -107,7 +105,6 @@ Your body needs 10-14 days to adjust to Florida heat. During this period:
 - Take frequent breaks in air conditioning
 - Don't try to maintain your previous exercise schedule immediately
 
-![Person drinking water outdoors in Florida heat with shade and cooling towel](PLACEHOLDER)
 
 ## Strategic Home Cooling
 
@@ -156,7 +153,6 @@ Indoor activities, air-conditioned errands, pool time (with shade), or beach vis
 
 Evening outdoor time, but bring water and don't overdo it. The temperature drops, but humidity often stays brutal.
 
-![Florida sunset with people enjoying evening activities outdoors, staying hydrated](PLACEHOLDER)
 
 ## The Shopping List That Saves Lives
 
@@ -203,7 +199,6 @@ Never leave pets in cars, even with windows cracked. Interior temperatures reach
 
 Provide multiple water sources and shade. Kiddie pools help, but change water daily to prevent mosquito breeding.
 
-![Dog wearing protective booties walking on grass next to hot pavement with owner providing shade](PLACEHOLDER)
 
 ## The Financial Reality
 

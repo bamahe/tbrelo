@@ -27,7 +27,6 @@ Spring Hill sits right on that sweet spot where Hernando County meets suburban c
 
 After 23+ years selling homes across Tampa Bay, I've helped dozens of families discover Spring Hill. Some love it immediately. Others realize it's not their speed. Here's what you need to know before making the move.
 
-![Aerial view of Spring Hill Florida showing suburban neighborhoods with tree coverage and the Weeki Wachee River](PLACEHOLDER)
 
 ## What Spring Hill Actually Is (And Isn't)
 
@@ -55,7 +54,6 @@ One of the largest planned communities in Florida, Deltona's Spring Hill section
 
 The streets follow that classic Florida grid pattern with nature names (Pine Ridge, Oak Forest, etc.). It's not fancy, but it's solid middle-class living with established trees and reasonable HOA fees.
 
-![Traditional single-family homes in Spring Hill's Deltona community showing mature landscaping and wide streets](PLACEHOLDER)
 
 ### Timber Pines
 
@@ -92,7 +90,6 @@ Many Spring Hill neighborhoods have modest HOAs ($50-$150 annually) that cover b
 
 The unincorporated status means fewer municipal services, so HOAs often handle things like street lights and some road maintenance that cities typically cover.
 
-![Modern single-family home in Spring Hill showing contemporary architecture with palm trees and landscaping](PLACEHOLDER)
 
 ## Schools: The Hernando County Story
 
@@ -142,7 +139,6 @@ Restaurant options have improved significantly. **Noble Crust** serves legitimat
 
 Gas prices typically run 5-10 cents below Tampa averages. Car registration and insurance costs depend on your specific address — some Spring Hill ZIP codes qualify for lower insurance rates than urban Tampa Bay.
 
-![Commercial plaza in Spring Hill showing typical suburban retail and dining establishments with palm trees](PLACEHOLDER)
 
 ## Transportation: Getting Around and Getting Out
 
@@ -188,7 +184,6 @@ The restaurant scene has genuinely improved. **Olive Tree Greek Grill** serves a
 
 For serious shopping or dining, Tampa beckons about an hour south.
 
-![Weeki Wachee Springs showing clear spring water with lush vegetation and visitors enjoying water activities](PLACEHOLDER)
 
 ## Healthcare and Services
 
@@ -224,7 +219,6 @@ Hernando County sits atop limestone bedrock riddled with underground caverns. Si
 
 Most homeowner's insurance policies specifically exclude sinkhole damage unless you purchase additional coverage. Understand this before buying.
 
-![Suburban street in Spring Hill showing typical home styles with mature oak trees and Spanish moss](PLACEHOLDER)
 
 ## The Social Scene and Community Life
 
@@ -290,7 +284,6 @@ The growing population supports service businesses — restaurants, retail, prof
 
 **School Performance**: Decent but not exceptional academic opportunities.
 
-![New residential development in Spring Hill showing modern homes under construction with construction equipment](PLACEHOLDER)
 
 ## Making the Spring Hill Decision
 

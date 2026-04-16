@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/register-car-florida-after-moving.webp"
 ---
 
-# How to Register Your Car in Florida After Moving
-
 Moving to the Sunshine State means dealing with Florida's DMV — officially called the Department of Highway Safety and Motor Vehicles (DHSMV). After helping 600+ families relocate to Tampa Bay over 23 years, I've watched people get tripped up by Florida's car registration process more than any other administrative task.
 
 The good news? It's straightforward once you know the steps. The bad news? Florida doesn't mess around with deadlines, and the penalties for missing them aren't cheap.
 
-![Florida DMV office exterior with cars parked outside and people entering the building](PLACEHOLDER)
 
 ## You've Got 30 Days — Period
 
@@ -128,7 +125,6 @@ Shop around — rates vary significantly between companies. A clean driving reco
 
 Some counties add local fees. [Hillsborough County](/counties/hillsborough/) charges an additional $1 registration fee for transportation projects.
 
-![Interior of Florida DMV office showing service counters, waiting area with chairs, and customers being helped by staff](PLACEHOLDER)
 
 ## Special Situations and Gotchas
 
@@ -195,7 +191,6 @@ You don't have to visit the DMV for everything. Florida allows tax collector off
 
 However, initial registration for new residents must be done in person.
 
-![Person at DMV counter handing documents to clerk, with forms and paperwork visible on the counter](PLACEHOLDER)
 
 ## Avoiding Common Mistakes
 

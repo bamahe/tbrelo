@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/moving-from-new-jersey.webp"
 ---
 
-# Moving from New Jersey to Tampa Bay — The Complete Relocation Guide
-
 You're tired of paying $15,000+ in property taxes on a 1,200-square-foot ranch. Your heating bill hit $300 last month. And don't get me started on what it costs to park in Hoboken or Princeton. If you're reading this, you're probably one of the 60,000+ New Jerseyans who move to Florida every year — and Tampa Bay is looking pretty good right about now.
 
 After 23 years of helping families make this exact move, I can tell you the transition from Garden State to Sunshine State is smoother than most people expect. But there are definitely some surprises along the way.
 
-![Aerial view comparing New Jersey suburban neighborhoods to Tampa Bay waterfront communities](PLACEHOLDER)
 
 ## Why New Jersey Residents Are Choosing Tampa Bay
 
@@ -68,7 +65,6 @@ Let me show you what actually happens to your budget when you make this move:
 
 That's real money. Enough for a nice vacation, college fund contributions, or just breathing room in your budget.
 
-![Split image showing a New Jersey tax bill next to a Florida tax bill for comparison](PLACEHOLDER)
 
 ---
 
@@ -114,7 +110,6 @@ This is where 23 years of local knowledge really helps. New Jersey transplants o
 
 **Price reality:** Your $425,000 Newark-adjacent home becomes a $375,000 Seminole Heights bungalow or a $450,000 downtown condo.
 
-![Collage showing similar architectural styles between New Jersey and Tampa Bay neighborhoods](PLACEHOLDER)
 
 ## The Logistics: Planning Your Move
 
@@ -142,7 +137,6 @@ This is where 23 years of local knowledge really helps. New Jersey transplants o
 - Hotels and meals ($200-300)
 - Storage if your new home isn't ready ($150-250/month)
 
-![Moving truck loaded with household items, New Jersey license plate visible](PLACEHOLDER)
 
 ## Finding Housing: What $400,000 Actually Buys
 
@@ -172,7 +166,6 @@ Unlike New Jersey, where finding available land is tough, Tampa Bay is still bui
 
 Builders like Lennar, DR Horton, and Pulte are active throughout Tampa Bay. Expect 4-6 months from contract to closing on new construction.
 
-![Interior photos showing the difference between typical New Jersey home layouts and Florida open-concept designs](PLACEHOLDER)
 
 ## Weather Reality Check: It's Not What You Think
 
@@ -207,7 +200,6 @@ Let's address this head-on since every New Jersey resident asks. Yes, hurricanes
 
 **Insurance:** Budget $2,500-4,000 annually for comprehensive homeowners insurance with hurricane coverage. It's required by mortgage lenders.
 
-![Split image showing Tampa Bay during beautiful winter weather vs. New Jersey snow](PLACEHOLDER)
 
 ## Schools and Education: The Good News
 
@@ -260,7 +252,6 @@ Tampa Bay's economy has diversified significantly over the past decade. It's not
 
 **Remote work advantage:** If you can keep your New Jersey job and work remotely, you'll maximize the cost-of-living benefit while maintaining your current salary.
 
-![Modern office building in Tampa's Westshore business district](PLACEHOLDER)
 
 ## Social Life and Cultural Adjustments
 
@@ -290,7 +281,6 @@ This is where New Jersey transplants either love Tampa Bay or struggle a bit. Th
 
 **Food scene:** This might shock you, but Tampa Bay's restaurant scene has exploded. James Beard Award winners, innovative farm-to-table concepts, and incredible diversity. It's not just Cuban food (though that's amazing too).
 
-![People enjoying outdoor dining at a Tampa Bay waterfront restaurant](PLACEHOLDER)
 
 ---
 
@@ -360,7 +350,6 @@ Buying property in Florida has some unique aspects that New Jersey buyers need t
 **Costs:** Closing costs run 2-3% of purchase price
 **Title insurance:** Florida requires owner's title insurance, which protects against ownership disputes
 
-![Real estate transaction documents and Florida property keys](PLACEHOLDER)
 
 ## Practical Moving Timeline
 

@@ -27,7 +27,6 @@ Tampa Bay's art scene punches way above its weight class. While everyone expects
 
 The numbers tell the story: The [Dalí Museum](/blog/st-pete-attractions/) alone draws 400,000+ visitors annually, while Tampa's museum district has tripled in size since 2010. But beyond the big names, you've got working artist studios in Seminole Heights, pop-up galleries in downtown St. Pete, and murals that rival anything in Miami's Wynwood.
 
-![Tampa Bay museum district with modern architecture and palm trees](PLACEHOLDER)
 
 ## World-Class Museums That Rival Major Cities
 
@@ -47,7 +46,6 @@ Their American collection is particularly strong, featuring works by Georgia O'K
 
 The museum's sculpture garden, redesigned in 2019, provides Instagram-worthy shots with downtown St. Pete as the backdrop. Grab lunch at nearby The Birchwood's rooftop bar — the views of Tampa Bay are worth the $16 fish tacos.
 
-![Museum of Fine Arts St. Petersburg exterior with sculptures and bay views](PLACEHOLDER)
 
 ### Tampa Museum of Art — Downtown Tampa
 
@@ -76,7 +74,6 @@ Key stops include:
 
 The district's transformation has been remarkable. Five years ago, you had maybe 8-10 galleries. Today, there are 40+ creative spaces, including working studios where you can watch artists create. Property values in the surrounding neighborhoods have reflected this cultural investment — homes in Historic Kenwood have appreciated 45% since 2020.
 
-![Central Arts District St. Petersburg with colorful murals and gallery storefronts](PLACEHOLDER)
 
 ### Seminole Heights Arts Corridor — Tampa
 
@@ -102,7 +99,6 @@ St. Pete's commitment to public art goes beyond museums. The Warehouse Arts Dist
 
 The district's anchor is **Duncan McClellan's Hot Glass Studio** (2342 Central Avenue), where you can watch glass artists work while sipping craft beer. Next door, **The Craftsman House & Gallery** serves excellent Vietnamese fusion — try the short rib pho ($16).
 
-![Large-scale mural in Warehouse Arts District with industrial buildings](PLACEHOLDER)
 
 ### Ybor City Historic District — Tampa
 
@@ -128,7 +124,6 @@ First Friday typically draws 2,000+ people to 30+ venues. Food trucks line Centr
 
 Tampa's **Third Thursday in the Heights** focuses on Seminole Heights' growing arts scene. Smaller and more intimate than St. Pete's events, it offers direct access to working artists in their studios.
 
-![First Friday art walk crowd browsing galleries with food trucks](PLACEHOLDER)
 
 ### Annual Festivals and Markets
 
@@ -154,7 +149,6 @@ While known for nightlife, Channelside is developing a serious arts presence. **
 
 **CASS Contemporary** (1516 East 7th Avenue) specializes in emerging artists from Florida and the Southeast. Their monthly openings have become networking events for Tampa's creative class — architects, designers, and other professionals who appreciate good art and good wine.
 
-![Contemporary gallery interior with visitors viewing modern artwork](PLACEHOLDER)
 
 ## Where to Buy Art (And Actually Afford It)
 
@@ -192,7 +186,6 @@ Downtown St. Pete offers free trolley service connecting major arts venues. The 
 
 Tampa's **TECO Line Streetcar** connects downtown to Ybor City for $2.50. For Seminole Heights and Hyde Park, you'll need a car or rideshare — parking is generally free except during major events.
 
-![Museum district trolley with art museum buildings in background](PLACEHOLDER)
 
 ### Best Times to Visit
 
@@ -242,7 +235,6 @@ Want to create, not just consume? **Morean Arts Center** offers everything from 
 
 Tampa Bay's art scene offers something genuinely rare — world-class cultural amenities without the crushing costs and pretension of major metropolitan areas. Whether you're buying your first piece from an emerging artist or planning a weekend around museum exhibitions, the region's cultural landscape provides intellectual stimulation and community connection that makes relocating here feel like a genuine upgrade in quality of life.
 
-![Families enjoying outdoor art festival with children creating artwork](PLACEHOLDER)
 
 ## Frequently Asked Questions
 

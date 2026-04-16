@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/farmers-market-shopping-guide-tampa-bay.webp"
 ---
 
-# Tampa Bay Farmers Market Shopping Guide — What to Buy
-
 Walking through a Tampa Bay farmers market on a Saturday morning feels like discovering the region's best-kept secrets. After 23 years of helping people relocate here, I've watched these markets transform from small weekend gatherings into thriving community hubs that showcase everything exceptional about our local food scene.
 
 The real magic happens when you know what to look for. Sure, you could wander around buying the prettiest tomatoes, but understanding what's actually in season, which vendors know their craft, and what unique finds you can only get at Tampa Bay markets? That's what separates tourists from locals.
 
-![Tampa Bay farmers market scene with vendors and shoppers browsing fresh produce under white tents](PLACEHOLDER)
 
 ## When to Shop Tampa Bay Farmers Markets
 
@@ -47,7 +44,6 @@ Florida citrus season runs November through April, and Tampa Bay markets showcas
 
 Look for vendors selling directly from their groves. At the [St. Pete Saturday Morning Market](/cities/st-petersburg/), Johnson's Backyard Citrus consistently brings tree-ripened fruit that puts grocery store citrus to shame. At Tampa's Hyde Park Village Market, Mixon Fruit Farms offers their famous Indian River citrus plus homemade marmalades.
 
-![Close-up of various Florida citrus varieties displayed at a farmers market stand with hand-written price signs](PLACEHOLDER)
 
 The key with citrus? Buy heavy fruits — that means juice content. The skin should give slightly to pressure but bounce back. And if you're juicing, buy extra when prices drop in February and March, then freeze the juice in ice cube trays for year-round use.
 
@@ -65,7 +61,6 @@ This is when Tampa Bay markets truly shine. **Tomatoes** from local growers like
 
 **Peppers** range from sweet bell varieties to scorching habaneros. Local favorite Darrin's Peppers grows over 40 varieties and brings detailed heat scales to help you choose wisely.
 
-![Colorful display of heirloom tomatoes in various sizes and colors at a farmers market stand](PLACEHOLDER)
 
 ### Summer Survivors (June-August)
 
@@ -87,7 +82,6 @@ Tampa Bay's diverse ecosystem creates honey with complex flavors that change thr
 
 Look for honey that's crystallizing slightly — this indicates it's real, local honey rather than processed imports. Raw honey offers more flavor and potential health benefits than heated, filtered versions.
 
-![Various glass jars of local honey ranging from light amber to dark brown with handwritten labels](PLACEHOLDER)
 
 ## Prepared Foods Worth the Trip
 
@@ -119,7 +113,6 @@ After two decades of market shopping, I've learned to avoid certain items. **Ban
 
 The granddaddy of Tampa Bay markets, running continuously since 1987. Over 130 vendors sell everything from produce to prepared foods. Come hungry — **Fresco's Fish & Chips** serves authentic British-style fish, while **Bangkok 9-1-1** brings Thai street food that rivals downtown restaurants.
 
-![Bustling St. Petersburg Saturday Morning Market with crowds of people browsing vendors under a large covered pavilion](PLACEHOLDER)
 
 ### Hyde Park Village Farmers Market
 **Location:** Swann and Dakota Avenue, Tampa  
@@ -141,7 +134,6 @@ Dog-friendly market with strong community feel. Local favorite **Annie's Homemad
 
 **Johnson's Backyard Citrus** operates a small grove in [Plant City](/cities/plant-city/) and brings tree-ripened fruit that puts grocery store citrus to shame. They'll let you taste before buying.
 
-![Vendor with a wide variety of hot peppers displayed in baskets with heat level signs](PLACEHOLDER)
 
 ---
 
@@ -197,7 +189,6 @@ Regular market shoppers develop relationships with favorite vendors. **Johnson's
 
 Building these relationships takes time but pays dividends. Vendors will recommend new items, save the best products, and provide growing tips that improve your own gardening success.
 
-![Market vendor handing a bag of fresh produce to a smiling customer at their stand](PLACEHOLDER)
 
 ## Beyond Produce: Hidden Gems
 
@@ -229,7 +220,6 @@ Many markets host special events: **St. Pete's market** features live music, whi
 
 For relocating families, farmers markets provide instant community connections. Vendors and regular customers welcome newcomers, offering local knowledge that goes far beyond produce selection.
 
-![Wide shot of families and couples enjoying a sunny morning at a farmers market with children playing nearby](PLACEHOLDER)
 
 ## Planning Your Market Route
 

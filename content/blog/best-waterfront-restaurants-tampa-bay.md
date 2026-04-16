@@ -23,11 +23,8 @@ schema:
 featuredImage: "/images/blog/best-waterfront-restaurants-tampa-bay.webp"
 ---
 
-# Best Waterfront Restaurants in Tampa Bay: Where Great Food Meets Million-Dollar Views
-
 After 23 years showing clients around Tampa Bay, I've eaten at practically every waterfront restaurant from St. Petersburg to Brandon. Some serve million-dollar views with mediocre food. Others nail both the cuisine and the scenery. Here's your insider's guide to the spots that actually deliver on both fronts — because life's too short for bad fish with a good view.
 
-![Scenic waterfront dining scene in Tampa Bay with boats in background](PLACEHOLDER)
 
 ## What Makes a Great Waterfront Restaurant
 
@@ -57,7 +54,6 @@ The menu focuses on Gulf Coast cuisine with creative twists. Prices reflect the 
 
 **Order This:** Gulf grouper however they're preparing it, paired with their signature coconut rice.
 
-![Upscale waterfront restaurant interior with bay views](PLACEHOLDER)
 
 ### Sandpearl Resort's Caretta on the Gulf (Clearwater Beach)
 **Location:** 500 Mandalay Ave, Clearwater Beach  
@@ -99,7 +95,6 @@ Their seafood comes from local sources when possible, and preparations stay trad
 
 **Order This:** Grouper sandwich or stone crab claws (in season). Skip the fancy stuff and go traditional.
 
-![Casual waterfront restaurant deck with fishing boats in background](PLACEHOLDER)
 
 ### Frenchy's Rockaway Grill (Clearwater Beach)
 **Location:** 7 Rockaway St, Clearwater Beach  
@@ -121,7 +116,6 @@ Food goes beyond typical marina fare. The kitchen takes coastal cuisine seriousl
 
 **Order This:** Pan-seared local catch, or their wagyu burger if you're not in a seafood mood.
 
-![Marina restaurant deck with yachts and fishing boats](PLACEHOLDER)
 
 ## Hidden Gems and Local Secrets
 
@@ -145,7 +139,6 @@ Their fish tacos use beer-battered local fish, not frozen imports. The conch fri
 
 **Order This:** Fish tacos or grouper sandwich, depending on your mood. Both exceed expectations.
 
-![Rustic waterfront restaurant with live oak trees and river views](PLACEHOLDER)
 
 ### Dockside Dave's (Madeira Beach)
 **Location:** 110 1st Ave, Madeira Beach  
@@ -179,7 +172,6 @@ Their menu blends Gulf Coast seafood with Greek preparations. The Greek salad us
 
 **Order This:** Grilled octopus or any fresh fish with Greek preparation.
 
-![Greek waterfront restaurant on historic sponge docks](PLACEHOLDER)
 
 ### Pesky Pelican (Apollo Beach)
 **Location:** 4799 U.S. Hwy 41 N, Apollo Beach  
@@ -201,7 +193,6 @@ Food focuses on local seafood prepared traditionally. The grouper sandwich uses 
 
 **Dress Codes:** Most Tampa Bay waterfront restaurants embrace casual coastal attire. Flip-flops and shorts work at 80% of locations. Higher-end spots like Ocean Prime expect business casual.
 
-![Sunset dining scene on restaurant deck overlooking Tampa Bay](PLACEHOLDER)
 
 **Weather Backup Plans:** Afternoon storms are part of Tampa Bay summer life. The best waterfront restaurants offer covered outdoor seating or indoor tables with water views.
 

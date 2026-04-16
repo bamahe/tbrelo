@@ -27,7 +27,6 @@ Choosing between Inverness and Crystal River feels like picking your favorite ki
 
 Here's the straight talk: Inverness gives you small-town charm with better amenities, while Crystal River delivers natural beauty with tourist-season chaos. Both sit about 75 miles north of downtown Tampa, but that's where the similarities end.
 
-![Aerial view comparing downtown Inverness and Crystal River waterfronts](PLACEHOLDER)
 
 ## The Numbers That Matter
 
@@ -71,7 +70,6 @@ Key areas:
 
 Seasonal demand creates wild price swings. January through March brings cash buyers from up north, driving up prices and reducing inventory.
 
-![Comparison of typical homes in both cities showing architectural styles and lot sizes](PLACEHOLDER)
 
 ## Daily Life: Where You'll Actually Spend Time
 
@@ -113,7 +111,6 @@ Three Sisters Springs requires advance reservations during peak season. Yes, you
 
 Charter fishing, diving, kayaking, paddleboarding — if it involves water, Crystal River delivers world-class experiences. Just expect to share them with thousands of visitors.
 
-![Split image showing Inverness trail activities versus Crystal River water sports](PLACEHOLDER)
 
 ## Education: Limited Local Options
 
@@ -142,7 +139,6 @@ Hurricane risk affects both equally. Evacuation routes lead inland (toward Inver
 
 The practical difference: Crystal River's humidity feels heavier due to constant water evaporation. Inverness feels marginally drier, especially during winter months.
 
-![Weather comparison showing seasonal patterns and hurricane evacuation routes](PLACEHOLDER)
 
 ## Cost of Living: Beyond Housing Prices
 
@@ -214,7 +210,6 @@ Amtrak's Silver Star stops in Deland, about 2 hours southeast. Greyhound serves 
 - Tourist-destination amenities
 - Unique natural environment
 
-![Side-by-side comparison of main streets in both cities during peak season](PLACEHOLDER)
 
 ## Making the Decision
 

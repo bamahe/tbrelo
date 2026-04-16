@@ -31,7 +31,6 @@ Forget everything you think you know about public libraries. Tampa Bay's three m
 
 Here's what caught me off guard when I first explored these systems: A family of four can easily access $2,000+ worth of services annually. Free streaming platforms, professional development courses, kids' programming, maker spaces, and even free passes to attractions like MOAS (Museum of Our Armed Services) and the Florida Aquarium.
 
-![Exterior shot of a modern Tampa Bay library branch with families walking in](PLACEHOLDER)
 
 The smart move? Get cards for multiple counties if you qualify. Many Tampa Bay residents work in one county and live in another, making them eligible for multiple library systems.
 
@@ -106,7 +105,6 @@ The **Clearwater Main Library** (100 N Osceola Ave) just completed a $30 million
 
 **Beach branches** like **Indian Rocks Beach Public Library** (1507 Bay Palm Blvd) offer smaller collections but incredible programming. Their "Sunset Yoga on the Library Lawn" sessions are Instagram-worthy and actually relaxing.
 
-![Interior shot of a modern library maker space with 3D printers and people working at computers](PLACEHOLDER)
 
 ---
 
@@ -170,7 +168,6 @@ Smart Tampa Bay residents use library digital resources to replace multiple paid
 
 Annual savings: $300-500 for a typical family.
 
-![Family using tablets and laptops at library computer stations](PLACEHOLDER)
 
 ## Programming That Actually Adds Value
 

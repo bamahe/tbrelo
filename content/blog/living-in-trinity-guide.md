@@ -27,7 +27,6 @@ Trinity strikes that sweet spot between suburban comfort and small-town feel tha
 
 I've helped dozens of families find their perfect home in Trinity over the past two decades, and I keep coming back to the same observation: people move here for the schools and stay for the community. But like every neighborhood, Trinity has its quirks, challenges, and surprises that only locals really understand.
 
-![Aerial view of Trinity showing tree-lined streets, lakes, and suburban neighborhoods](PLACEHOLDER)
 
 ## What Trinity Actually Is (And Isn't)
 
@@ -56,7 +55,6 @@ Trinity's housing market tells the story of Tampa Bay's growth perfectly. In 201
 
 The good news? You're still getting more house for your dollar than comparable areas in [Hillsborough County](/counties/hillsborough/). A $450K budget in Trinity gets you a 2,500+ square foot home with a pool and upgraded finishes. In Westchase or South Tampa, that same budget might land you a 1,800 square foot townhome.
 
-![Modern suburban homes in Trinity with well-maintained landscaping and community amenities](PLACEHOLDER)
 
 ### What Your Money Gets You
 
@@ -91,7 +89,6 @@ Let's be honest — Trinity's explosive growth is directly tied to Pasco County'
 
 J.W. Mitchell High School deserves special mention — it's not just A-rated, it's consistently ranked among Florida's top public high schools. The school offers 25+ AP courses, has a 96% graduation rate, and sends graduates to top universities nationwide. The athletic programs are competitive in multiple sports, and the performing arts department regularly wins state competitions.
 
-![J.W. Mitchell High School exterior showing modern architecture and well-maintained grounds](PLACEHOLDER)
 
 **The School Choice Reality:**
 Even within Trinity's boundaries, some homes feed to different schools based on exact location. Always verify school assignments before making offers — a house three streets over might feed to different elementary or middle schools. Pasco County does offer some choice options, but the A-rated Trinity schools fill up quickly.
@@ -132,7 +129,6 @@ Trinity itself is primarily residential, but you're well-positioned between seve
 
 The dining scene isn't Trinity's strongest point — most residents make the drive to Wesley Chapel, Carrollwood, or even Tampa for better restaurant options. But for everyday needs, you've got solid chain options and a few local gems.
 
-![Community pool and clubhouse at one of Trinity's residential developments](PLACEHOLDER)
 
 ### Recreation and Entertainment
 
@@ -175,7 +171,6 @@ For families with kids, the community pools and parks provide plenty of entertai
 
 **Traffic Bottlenecks**: State Road 54 handles most Trinity traffic, and it shows. During school drop-off/pickup and evening rush hours, what should be quick trips turn into frustrating delays. Secondary routes exist but aren't always obvious to newcomers.
 
-![Trinity area during rush hour showing traffic on State Road 54](PLACEHOLDER)
 
 ## Cost of Living Breakdown
 
@@ -216,7 +211,6 @@ After working with hundreds of Trinity families, I see clear patterns in who thr
 - Need public transportation options
 - Want cultural attractions within walking distance
 
-![Family enjoying community amenities at a Trinity neighborhood clubhouse](PLACEHOLDER)
 
 ## Buying Strategy: Insider Tips
 
@@ -252,7 +246,6 @@ Football season energizes the community around J.W. Mitchell High School games. 
 ### Winter (December-February)
 Surprisingly cool mornings (40s-50s) remind you this isn't South Florida. Community events shift indoors. Northern visitors boost restaurant traffic. Perfect weather for outdoor projects and yard work.
 
-![Seasonal view of Trinity showing community landscape and recreational areas](PLACEHOLDER)
 
 ## Transportation and Getting Around
 
@@ -316,7 +309,6 @@ Trinity's community calendar revolves around family-friendly events that bring n
 
 The community culture strongly emphasizes family activities, youth sports, and school involvement. Don't expect a vibrant nightlife scene or cultural events targeting adults without children — Trinity's social life centers around family activities.
 
-![Trinity community event showing families gathering for a neighborhood celebration](PLACEHOLDER)
 
 ## Utilities and Services
 

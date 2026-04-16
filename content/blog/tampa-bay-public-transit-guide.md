@@ -27,7 +27,6 @@ Let me be straight with you — Tampa Bay's public transit system isn't winning 
 
 The Tampa Bay area spans three main counties — Hillsborough, Pinellas, and Pasco — each with its own transit authority. That means three different systems, three different apps, and three different payment methods. Fun, right? Let's break down what you're actually working with.
 
-![Tampa Bay transit map showing HART, PSTA, and connector routes across Hillsborough and Pinellas counties](PLACEHOLDER)
 
 ## The Big Players: HART vs PSTA
 
@@ -71,7 +70,6 @@ Travel time between downtown Tampa and downtown St. Pete via the 100X: about 45-
 
 There's also limited service between northern Pinellas and southern Pasco County, but it's infrequent and involves transfers. If you're living in Pasco County and working in Tampa or St. Pete, public transit isn't a realistic daily option.
 
-![HART bus at Tampa International Airport with travelers boarding](PLACEHOLDER)
 
 ## Airport and Tourist Connections
 
@@ -115,7 +113,6 @@ After two decades of helping people navigate Tampa Bay, certain routes consisten
 
 **Any route requiring multiple transfers**: The systems don't coordinate well. A trip requiring transfers between HART and PSTA can easily take 2+ hours for distances you'd drive in 30 minutes.
 
-![PSTA bus at St. Petersburg downtown terminal with passengers waiting](PLACEHOLDER)
 
 ## Cost Comparison Reality Check
 

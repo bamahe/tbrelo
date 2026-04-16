@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/tampa-bay-thrift-stores.webp"
 ---
 
-# Tampa Bay Thrift Store Guide — Where Locals Actually Shop
-
 Listen, I've been showing people around Tampa Bay for 23 years, and inevitably someone asks me about thrift shopping. Maybe they're furnishing their new place on a budget, hunting for vintage finds, or just love the thrill of discovery. The good news? Tampa Bay has some genuinely excellent thrift stores that locals actually frequent — not just tourist traps with overpriced "vintage" signs.
 
 Here's where to find the real deals, organized by what you're actually looking for.
 
-![Tampa Bay thrift store exterior showing busy parking lot with diverse shoppers](PLACEHOLDER)
 
 ## The Heavy Hitters — Your Go-To Thrift Chains
 
@@ -47,7 +44,6 @@ The Salvation Army at 1302 W Fletcher Ave near USF is gold for college students 
 
 Here's something most people don't know: Salvation Army rotates stock on Wednesdays. Show up Thursday morning for the fresh picks.
 
-![Interior of busy Salvation Army store with furniture section prominently displayed](PLACEHOLDER)
 
 ## The Consignment Elite — Where Quality Meets Price
 
@@ -77,7 +73,6 @@ Stop at **Keel & Curley Winery** afterward at 5210 W Thonotosassa Rd for a tasti
 
 Walk down to **Ozona Blue Grilling Co** at 144 Main St afterward for their grouper sandwich — best in North Pinellas, and that's saying something.
 
-![Vintage clothing rack showing 1970s and 1980s fashion pieces](PLACEHOLDER)
 
 ## Specialty Hunting — When You Need Something Specific
 
@@ -99,7 +94,6 @@ The **ReStore** at 12485 Automobile Blvd in Clearwater gets a lot of constructio
 
 **Book Warehouse** at 7235 US-19 N in Pinellas Park has a thrift section that locals sleep on. DVD collections, vintage records, and books for under $3.
 
-![Crowded bookshelf section showing diverse collection of used books](PLACEHOLDER)
 
 ## The Art of Strategic Thrifting
 
@@ -121,7 +115,6 @@ Most thrift stores will negotiate on furniture and large items, especially later
 
 Goodwill has color-coded tags that rotate on sale — usually 50% off a specific color each week. Learn the rotation at your regular stores.
 
-![Thrift store checkout counter with friendly volunteer helping customer](PLACEHOLDER)
 
 ---
 
@@ -159,7 +152,6 @@ Estate sale season means serious treasures. Designer coats, holiday decorations,
 
 Moving season in Tampa Bay means furniture and household goods everywhere. Perfect timing if you're relocating here and need to furnish quickly without breaking the bank.
 
-![Organized thrift store display showing seasonal items and home decor](PLACEHOLDER)
 
 ## The Etiquette Rules Locals Follow
 
@@ -194,7 +186,6 @@ Start at the Salvation Army on Fletcher, hit **La Teresita** at 3248 W Columbus 
 
 **South County Adventure**: Start in Plant City, work through Brandon, end in Riverview. **Fred's Market Restaurant** at 3802 State Road 39 N in Plant City serves breakfast all day — perfect fuel for serious thrifting.
 
-![Happy family loading thrift store furniture finds into their car](PLACEHOLDER)
 
 ## The Economics of Smart Thrifting
 
@@ -216,7 +207,6 @@ Local artists donate pieces to charity thrift stores more often than you'd think
 
 Approach with caution, but deals exist. Test everything before buying. The Goodwill Computer Store at 1018 W Waters Ave specializes in refurbished electronics with actual warranties.
 
-![Diverse collection of electronics and small appliances on thrift store shelves](PLACEHOLDER)
 
 ---
 

@@ -23,11 +23,8 @@ schema:
 featuredImage: "/images/blog/sinkhole-inspection-florida.webp"
 ---
 
-# What Is a Sinkhole Inspection in Florida? Your Complete Guide to Costs, Testing, and Peace of Mind
-
 Florida's limestone foundation makes it the sinkhole capital of America. In my 23+ years selling homes across Tampa Bay, I've seen buyers panic over sinkhole concerns — and I've also seen sellers get blindsided by inspection findings. Here's what you actually need to know about sinkhole inspections in Florida, from costs to testing methods to when you absolutely need one.
 
-![Professional conducting ground penetrating radar sinkhole inspection on a Florida property with equipment visible](PLACEHOLDER)
 
 ## The Reality of Sinkholes in Florida
 
@@ -100,7 +97,6 @@ Here's what you'll actually pay in 2024-2025:
 
 ## When Do You Need a Sinkhole Inspection?
 
-![Split image showing normal home foundation versus foundation with sinkhole warning signs like cracks and settling](PLACEHOLDER)
 
 ### During Home Purchase
 
@@ -177,7 +173,6 @@ A professional report includes:
 
 ## Understanding Different Testing Methods
 
-![Technical equipment used for sinkhole inspection including ground penetrating radar and other geological testing tools](PLACEHOLDER)
 
 ### Ground Penetrating Radar (GPR)
 
@@ -264,7 +259,6 @@ Annual sinkhole coverage typically adds $100-$300 to your insurance premium. A m
 
 ## Choosing a Qualified Sinkhole Inspector
 
-![Professional sinkhole inspector reviewing radar data on tablet at residential property](PLACEHOLDER)
 
 ### Essential Qualifications
 

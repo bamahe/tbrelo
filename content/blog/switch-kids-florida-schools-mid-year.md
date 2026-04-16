@@ -27,7 +27,6 @@ Moving to Tampa Bay mid-year with kids? You're not alone. About 30% of Florida s
 
 I've walked dozens of families through this exact situation over the past 23+ years. Some nail it in a week, others get stuck in paperwork purgatory for months. The difference? Knowing which documents to gather first and understanding Florida's unique requirements.
 
-![Parent and child walking into a Florida elementary school building with palm trees visible](PLACEHOLDER)
 
 ## Understanding Florida's School Transfer Requirements
 
@@ -75,7 +74,6 @@ Finalize utility connections at your new address. You'll need those bills with y
 
 Request official transcripts from your current school to be mailed directly to your new Florida school. Hand-carried transcripts often get flagged for verification delays.
 
-![Stack of school enrollment paperwork and documents on a desk](PLACEHOLDER)
 
 ## Navigating Florida's Immunization Requirements
 
@@ -143,7 +141,6 @@ High school transfers require the most planning. Florida's graduation requiremen
 
 **The GPA reality:** Your child's GPA will likely change. Florida high schools recalculate GPAs using their own scale and course weights. A 3.8 student in Ohio might become a 3.6 student in Florida due to different weighting systems.
 
-![High school counselor meeting with a student and parent in an office setting](PLACEHOLDER)
 
 ## Handling the Social Transition
 

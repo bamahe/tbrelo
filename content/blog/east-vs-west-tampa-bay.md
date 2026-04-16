@@ -27,7 +27,6 @@ When you're looking at Tampa Bay on a map, that body of water creates the most i
 
 The Tampa Bay metro sprawls across two main counties separated by water. Hillsborough County anchors the east side with Tampa as its crown jewel, while Pinellas County dominates the west with St. Petersburg and the beach communities. Each side has developed its own personality, advantages, and trade-offs.
 
-![Aerial view showing Tampa Bay with downtown Tampa on the east side and St. Petersburg on the west side, highlighting the water barrier between them](PLACEHOLDER)
 
 ## The Geography That Shapes Everything
 
@@ -61,7 +60,6 @@ Downtown Tampa pulses with energy. The Riverwalk connects everything from Armatu
 
 You're 15 minutes from TPA, walking distance to Bern's Steakhouse, and can catch Lightning games without crossing water. The downside? Parking costs downtown, summer heat with less bay breeze, and you'll need to drive 45+ minutes for decent beach time.
 
-![Street view of Hyde Park's tree-lined neighborhoods with historic bungalows and modern amenities](PLACEHOLDER)
 
 ### Suburban Growth Corridors: Where Families Flock
 
@@ -113,7 +111,6 @@ Quieter beach living with homes from $500,000 to $2 million. Less touristy than 
 **Dunedin/Palm Harbor:**
 Scottish-themed Dunedin charms with its Main Street walkability and $400,000-$700,000 homes. Palm Harbor offers suburban family life 20 minutes from beaches, with homes ranging $350,000-$650,000.
 
-![Clearwater Beach shoreline showing white sand beaches with residential and resort buildings in the background](PLACEHOLDER)
 
 ### The Peninsula Effect
 
@@ -137,7 +134,6 @@ The longest but most beautiful. Light traffic except during events, but adds 10-
 **Veterans Expressway/Suncoast Parkway:**
 Toll roads that connect north Pinellas to north Hillsborough. Faster but costs $3-5 daily.
 
-![Howard Frankland Bridge during rush hour showing traffic congestion with Tampa skyline in the background](PLACEHOLDER)
 
 ## Schools: A Tale of Two Systems
 
@@ -175,7 +171,6 @@ Private school options exist on both sides, with Tampa Prep, Berkeley Prep, and 
 - West side benefits from Gulf breezes, lower AC costs
 - Water/sewer rates comparable
 
-![Split image comparing a modern suburban neighborhood in Hillsborough County with an established coastal community in Pinellas County](PLACEHOLDER)
 
 ## Employment and Economy
 
@@ -227,7 +222,6 @@ Both sides share Tampa Bay's subtropical climate, but location creates subtle di
 - Urban heat in Tampa proper
 - Hurricane vulnerability varies by specific location
 
-![Sunset view over Tampa Bay from the Courtney Campbell Causeway showing the natural beauty that influences the climate on both sides](PLACEHOLDER)
 
 ## Making Your Choice: Decision Framework
 

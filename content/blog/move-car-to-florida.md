@@ -27,7 +27,6 @@ You're relocating to Tampa Bay, and now you're staring at your car wondering: do
 
 Let me save you some headaches with the real numbers, honest pros and cons, and what actually works for different situations.
 
-![Family loading belongings into car preparing for cross-country move to Florida](PLACEHOLDER)
 
 ## The Real Costs: What You'll Actually Pay
 
@@ -114,7 +113,6 @@ If you're flying down for house hunting or starting work immediately, shipping m
 
 Coordinating a long-distance move while driving 1,000+ miles is stressful. If you're managing movers, closing on houses, starting new jobs, and handling family logistics, shipping removes one major variable.
 
-![Auto transport truck loading vehicles for shipment to Florida](PLACEHOLDER)
 
 ## The Shipping Process: What Actually Happens
 
@@ -154,7 +152,6 @@ Coordinating a long-distance move while driving 1,000+ miles is stressful. If yo
 
 If you're driving, route planning matters. Florida's geography funnels most traffic through a few major corridors, and choosing wrong can add hours and stress.
 
-![Map showing major interstate routes converging on Tampa Bay area](PLACEHOLDER)
 
 ### From the Northeast (I-95 South)
 
@@ -206,7 +203,6 @@ If you're driving, route planning matters. Florida's geography funnels most traf
 
 **Breakdown coverage:** If your car breaks down in rural Georgia at 10 PM, you want roadside assistance. Make sure your coverage works out of state.
 
-![Person comparing car shipping quotes on laptop with calculator nearby](PLACEHOLDER)
 
 ## Making the Decision: A Framework
 

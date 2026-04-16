@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/midwest-to-tampa-bay-guide.webp"
 ---
 
-# Moving to Tampa Bay from the Midwest — What to Expect
-
 You've endured your last polar vortex. That February morning when your car wouldn't start and the high was -12°F was the breaking point. Now you're seriously considering Tampa Bay, and honestly? Smart move. But let's talk reality — not the sunshine-and-beaches fantasy that real estate postcards sell you.
 
 After 23+ years helping Midwesterners make this transition, I've seen the patterns. The joys, the surprises, and yes, the occasional "what did I get myself into?" moments. Here's what actually happens when you trade corn fields for palm trees.
 
-![Comparison image showing snowy Midwest street next to sunny Tampa Bay neighborhood with palm trees](PLACEHOLDER)
 
 ## The Geography Shock (Or Lack Thereof)
 
@@ -54,7 +51,6 @@ The Great Lakes are impressive, but Tampa Bay sits on a peninsula surrounded by 
 
 This creates weather patterns you've never experienced. Lake effect snow? Meet bay effect thunderstorms — daily, at 3 PM, for four months straight.
 
-![Aerial view of Tampa Bay showing the extensive coastline and water bodies surrounding the area](PLACEHOLDER)
 
 ## Weather Reality Check
 
@@ -84,7 +80,6 @@ Living in Tornado Alley prepared you better than most. Hurricanes give you 5-7 d
 
 Most storms curve north toward the Panhandle or Carolinas. Tampa Bay has been directly hit by a major hurricane exactly once since 1921. Your bigger worry? Daily thunderstorms with more lightning strikes per square mile than anywhere else in America.
 
-![Split image showing Midwest tornado warning vs Tampa Bay hurricane prep scene](PLACEHOLDER)
 
 ## Cultural Transitions
 
@@ -136,7 +131,6 @@ For that $400,000, expect:
 
 The good news? Property taxes are relatively low, and there's no state income tax. The math usually works out, especially if you're escaping Illinois property taxes.
 
-![Typical Tampa Bay home exterior showing Spanish tile roof, stucco walls, and screened pool area](PLACEHOLDER)
 
 ---
 
@@ -195,7 +189,6 @@ Midwest social life revolves around seasons and indoor gatherings. Here, everyth
 
 The downside? No natural gathering season. No "everyone stays inside for three months and catches up." Social calendars stay packed year-round.
 
-![People enjoying outdoor dining at a Tampa Bay waterfront restaurant during winter months](PLACEHOLDER)
 
 ## Practical Considerations
 
@@ -276,7 +269,6 @@ Tampa Bay's economy runs on:
 
 Salaries typically run 5-10% lower than major Midwest cities, but the no-state-income-tax advantage often makes up the difference. Remote work opportunities are abundant if you can keep your Midwest salary.
 
-![Tampa Bay downtown skyline showing modern office buildings and business district](PLACEHOLDER)
 
 ## Making the Transition Smoother
 

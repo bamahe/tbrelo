@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/moving-from-nashville-move.webp"
 ---
 
-# Moving from Nashville to Tampa Bay — The Complete Relocation Guide
-
 Making the jump from Music City to the Sunshine State? You're not alone. Over the past five years, I've helped dozens of Nashville families make this exact move, and honestly, most never look back. The combination of no state income tax, year-round warmth, and a cost of living that's surprisingly competitive makes Tampa Bay an attractive alternative to Nashville's skyrocketing prices.
 
 But let's be real — this isn't just about swapping honky-tonks for beaches. There are real differences in culture, job markets, housing costs, and lifestyle that you need to understand before you pack up that U-Haul.
 
-![Aerial view showing Nashville skyline transitioning to Tampa Bay waterfront](PLACEHOLDER)
 
 ## Why Nashville Residents Choose Tampa Bay
 
@@ -69,7 +66,6 @@ The key difference: inventory. Nashville's market stays tight because there's li
 
 The bottom line: Tampa Bay runs about 3-5% less expensive overall, with the biggest savings coming from housing variety and dining costs. The higher property taxes and car insurance are offset by lower rent, more housing options, and competitive grocery prices.
 
-![Infographic comparing major expense categories between Nashville and Tampa Bay](PLACEHOLDER)
 
 ## Your Tax Savings Calculator
 
@@ -116,7 +112,6 @@ These master-planned communities offer the same family-friendly suburban feel wi
 
 East Nashville's eclectic, artsy revival energy lives on in these neighborhoods. Ybor offers historic homes from $250,000-$450,000 with a vibrant nightlife scene, while The Heights provides craftsman homes from $300,000-$550,000 with a more residential feel.
 
-![Map showing Nashville neighborhoods with arrows pointing to corresponding Tampa Bay areas](PLACEHOLDER)
 
 ## Job Market Transition: What to Expect
 
@@ -146,7 +141,6 @@ The most direct route runs about 650 miles and takes 9-10 hours of driving time:
 
 **Pro tip from 23 years of relocations:** Leave Nashville before 7 AM to clear Atlanta before rush hour, or plan to hit Atlanta after 10 AM. That middle window (8-10 AM) will cost you an extra hour in traffic.
 
-![Route map showing optimal driving path from Nashville to Tampa Bay with timing suggestions](PLACEHOLDER)
 
 ### Moving Company Costs
 
@@ -193,7 +187,6 @@ Nashville's condo market is limited and expensive. Tampa Bay offers incredible c
 
 Many Nashville transplants discover they prefer condo living here because of the amenities (pools, fitness centers, social activities) and lower maintenance in our climate.
 
-![Comparison photos showing similar-priced homes in Nashville vs Tampa Bay](PLACEHOLDER)
 
 ## Schools and Family Considerations
 
@@ -239,7 +232,6 @@ Nashville's social life revolves around music venues, honky-tonks, and downtown 
 ### Food Scene Evolution
 You'll miss hot chicken and meat-and-threes initially. But Tampa Bay's food scene offers compensation: fresh grouper, stone crab, Cuban sandwiches, and an incredible diversity of international cuisine. [Bern's Steak House](/restaurants/berns/) rivals any Nashville fine dining, while our Cuban restaurants in Ybor City provide flavors you can't find in Tennessee.
 
-![Side-by-side photos of Nashville hot chicken and Tampa Bay grouper sandwich](PLACEHOLDER)
 
 ## Climate Reality Check
 
@@ -289,7 +281,6 @@ Join a beach volleyball league, take sailing lessons, or participate in charity 
 
 **Nashville transplant groups:** Search Facebook for "Nashville to Tampa Bay" — there are active groups sharing recommendations and organizing meetups.
 
-![Group photo of Nashville transplants at a Tampa Bay beach meetup](PLACEHOLDER)
 
 ## Year One Timeline and Checklist
 
@@ -333,7 +324,6 @@ Nashville's rapid appreciation means you likely have significant equity. Tampa B
 ### Working with Agents
 You need someone who understands both markets. I've handled dozens of Nashville relocations and can coordinate timing between your sale and purchase. Many agents don't grasp the nuances of relocating from Nashville's tight market to Tampa Bay's variety.
 
-![Before and after photos showing a Nashville home sale proceeds buying a larger Tampa Bay property](PLACEHOLDER)
 
 ## Transportation and Commuting
 
@@ -367,7 +357,6 @@ Florida's business-friendly environment attracts companies relocating from highe
 ### Educational Opportunities
 University of South Florida (Tampa) and University of Florida (90 minutes away) provide educational and cultural resources. USF's medical school and research facilities create opportunities Nashville's smaller academic presence doesn't offer.
 
-![Collage showing water activities, cultural festivals, and university campus scenes](PLACEHOLDER)
 
 ---
 

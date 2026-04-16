@@ -27,7 +27,6 @@ Tampa Bay has some seriously impressive parks that'll make you forget you're in 
 
 Here's the real deal on where to take your family for outdoor fun that doesn't involve fighting traffic to get to a crowded beach.
 
-![Families enjoying a sunny day at Curtis Hixon Waterfront Park with downtown Tampa skyline in background](PLACEHOLDER)
 
 ## The Heavy Hitters: Parks Worth the Drive From Anywhere
 
@@ -47,7 +46,6 @@ The boardwalk system here is the real draw — elevated paths through cypress sw
 
 **Practical stuff:** Entry is $2 per vehicle for Hillsborough County residents, $4 for everyone else. The visitor center has clean restrooms and educational displays that actually hold kids' attention. Bring bug spray — the mosquitoes here don't mess around.
 
-![Wooden boardwalk winding through cypress trees at Lettuce Lake Park with families walking in distance](PLACEHOLDER)
 
 ### Al Lopez Park (West Tampa)
 
@@ -71,7 +69,6 @@ Another downtown winner that locals use as their go-to spot. The dog park sectio
 
 The real gem here is the fishing pier — even if you're not into fishing, it's a great spot for spotting manatees and dolphins. Bring quarters for the telescopes.
 
-![Children playing on colorful playground equipment with Tampa's downtown buildings visible in background](PLACEHOLDER)
 
 ## Hidden Gems: Parks That Feel Like Secrets
 
@@ -97,7 +94,6 @@ This 35-acre park was designed around its splash pad, and it shows. The water fe
 
 The traditional playground equipment is solid too, plus there are sand volleyball courts and walking trails. But let's be honest — everyone comes for the water.
 
-![Kids running through colorful water fountains at a Tampa Bay splash pad with parents watching from shaded seating areas](PLACEHOLDER)
 
 ### Countryside Recreation Complex (Clearwater)
 
@@ -121,7 +117,6 @@ Seven miles of paved trails through actual wilderness, plus a playground that se
 
 The trails here accommodate bikes, strollers, and wheelchairs, making it accessible for families with different mobility needs. Wildlife viewing is excellent — we're talking wild boar, deer, and gopher tortoises.
 
-![Paved trail through Florida wilderness with families on bikes and parents pushing strollers](PLACEHOLDER)
 
 ---
 
@@ -184,7 +179,6 @@ This is peak outdoor time in Tampa Bay. Temperatures in the 70s mean all-day par
 
 Afternoon thunderstorms are predictable. Parks with covered pavilions become essential. Many families do morning park visits during summer, then indoor activities after lunch.
 
-![Covered pavilion at Tampa Bay park with families having picnic lunch while rain falls in background](PLACEHOLDER)
 
 ## Making Connections: Parks as Community Hubs
 

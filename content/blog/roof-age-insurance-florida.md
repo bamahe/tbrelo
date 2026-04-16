@@ -27,7 +27,6 @@ Your Florida home's roof isn't just protection from the elements — it's your i
 
 Here's what every buyer needs to know before they fall in love with that 1990s home with "original tile."
 
-![Close-up of aged Florida tile roof showing wear, missing tiles, and weather damage typical of roofs approaching insurance age limits](PLACEHOLDER)
 
 ## The 25-Year Rule That Changes Everything
 
@@ -92,7 +91,6 @@ Standing seam metal roofs are becoming insurance darlings. They're wind-resistan
 
 The downside? Installation costs run $15,000-25,000 for typical Tampa Bay homes. But if you're buying a house that needs a new roof anyway, metal makes financial sense.
 
-![Split image showing a deteriorating asphalt shingle roof next to a pristine metal roof installation on similar Florida homes](PLACEHOLDER)
 
 ## The Wind Mitigation Game-Changer
 
@@ -134,7 +132,6 @@ If you're buying a home that will likely end up with Citizens, factor the higher
 
 Some buyers specifically target homes that need new roofs, negotiate the replacement into the purchase price, and start with private insurance from day one. This strategy works if you have the cash reserves and contractor relationships to handle the roof replacement smoothly.
 
-![Aerial view of a typical Tampa Bay neighborhood showing a mix of newer and older roofs, highlighting the insurance challenges of roof age variety](PLACEHOLDER)
 
 ## County-by-County Reality Check
 
@@ -199,7 +196,6 @@ When you discover a roof age problem, you have several negotiating options:
 
 The best choice depends on your cash position, timeline, and risk tolerance.
 
-![Professional roofing contractor performing detailed inspection on Florida tile roof, showing the level of expertise needed for accurate roof assessment](PLACEHOLDER)
 
 ## Insurance Company Shopping Strategy
 

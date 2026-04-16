@@ -27,7 +27,6 @@ The clock is ticking on Florida's Real ID rollout, and if you're new to Tampa Ba
 
 I've helped hundreds of relocating families navigate Florida's bureaucracy over the past 23 years, and the Real ID process trips up more people than you'd expect. The good news? Once you know what documents to bring and where to go, it's straightforward. The bad news? One missing paper means another trip to the DMV.
 
-![Person holding Florida Real ID next to regular Florida license showing the star symbol difference](PLACEHOLDER)
 
 ## What Exactly Is a Florida Real ID?
 
@@ -78,7 +77,6 @@ If your name on any document doesn't match your current legal name:
 - Divorce decree with raised seal
 - Court order for legal name change
 
-![Stack of organized documents with Real ID checklist showing required paperwork](PLACEHOLDER)
 
 ## Step-by-Step Application Process
 
@@ -153,7 +151,6 @@ Military families stationed in Tampa Bay (MacDill AFB is a major presence here) 
 ### College Students
 Students at USF, UT, or other Tampa Bay universities can use dorm contracts or off-campus lease agreements for residency proof. A utility bill in your name (even if it's internet or cable) helps as your second residency document.
 
-![Florida DMV office exterior with people waiting in line outside](PLACEHOLDER)
 
 ## Tampa Bay DMV Office Locations and Tips
 

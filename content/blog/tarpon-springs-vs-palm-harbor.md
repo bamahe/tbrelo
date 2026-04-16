@@ -27,7 +27,6 @@ If you're house hunting in north Pinellas County, you've probably found yourself
 
 Let me break down what actually matters when you're choosing between these two communities — because the decision isn't just about pretty waterfront photos on Zillow.
 
-![Aerial view comparing Tarpon Springs historic sponge docks with Palm Harbor's Ozona area waterfront](PLACEHOLDER)
 
 ## The Character Difference: Greek Heritage vs Suburban Sophistication
 
@@ -63,7 +62,6 @@ East Lake Woodlands is the crown jewel here — gated community living with home
 
 The key difference? Palm Harbor's "starter homes" are typically newer and pricier than Tarpon Springs equivalents.
 
-![Split image showing typical homes in Tarpon Springs historic area versus Palm Harbor's East Lake Woodlands](PLACEHOLDER)
 
 ## Schools: The Report Card Reality
 
@@ -107,7 +105,6 @@ Palm Harbor wins for commute times, especially if you're working in Tampa proper
 
 Both areas suffer during tourist season (December-April) when beach traffic clogs every north-south route. Budget extra time October through May.
 
-![Traffic comparison showing US-19 through Tarpon Springs versus Veterans Expressway access from Palm Harbor](PLACEHOLDER)
 
 ## Lifestyle and Recreation: Where You'll Actually Spend Time
 
@@ -163,7 +160,6 @@ Palm Harbor trends toward upscale casual and chain excellence:
 
 The food scene reflects the community — polished, reliable, family-friendly. Less ethnic diversity than Tarpon Springs, but more consistency in execution.
 
-![Comparison of Greek restaurants at Tarpon Springs sponge docks versus upscale dining in Palm Harbor](PLACEHOLDER)
 
 ## Cost of Living Beyond Housing
 
@@ -193,7 +189,6 @@ Both cities face identical weather patterns and hurricane risks — they're less
 
 Neither city offers meaningful advantage for hurricane risk — you're choosing between two coastal Florida communities with identical vulnerabilities.
 
-![Flood zone map showing evacuation areas for both Tarpon Springs and Palm Harbor](PLACEHOLDER)
 
 ## Shopping and Conveniences
 
@@ -233,7 +228,6 @@ After showing hundreds of families homes in both areas, here's what typically dr
 - Have school-age children
 - Want a more predictable suburban experience
 
-![Side-by-side comparison of typical neighborhood streets in both cities](PLACEHOLDER)
 
 ## The Verdict from the Field
 

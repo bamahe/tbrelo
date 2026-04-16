@@ -27,7 +27,6 @@ Golf carts aren't just for the golf course anymore. Across Tampa Bay, dozens of 
 
 After 23 years selling homes here, I've walked through countless golf cart communities with buyers who light up at the thought of cruising to dinner in their customized cart. But here's what most people don't realize: not all golf cart communities are created equal, and the rules vary dramatically depending on where you live.
 
-![Golf carts parked outside a community clubhouse in Sun City Center](PLACEHOLDER)
 
 ## The Real Deal on Tampa Bay Golf Cart Communities
 
@@ -55,7 +54,6 @@ If you want to live the full golf cart lifestyle, Sun City Center is your destin
 
 **Reality check:** You still need a regular car. While Sun City Center's cart network is extensive, you can't cart your way to Tampa International Airport or downtown St. Pete. But for 80% of your local errands? The cart works perfectly.
 
-![Street-legal golf cart on a dedicated cart path with safety features](PLACEHOLDER)
 
 ## Del Webb Communities: Cart-Friendly with Limits
 
@@ -99,7 +97,6 @@ Here's where things get tricky. Florida law allows golf carts on roads with spee
 
 **The reality:** Even in golf cart communities, you can't just hop in any cart and cruise the neighborhood. Street-legal carts require the same documentation as cars, and the insurance isn't cheap — expect $300-$600 annually.
 
-![Aerial view showing golf cart paths winding through a Tampa Bay retirement community](PLACEHOLDER)
 
 ## Beyond the Big Names: Smaller Golf Cart Communities
 
@@ -142,7 +139,6 @@ Golf cart living isn't just about transportation — it's about community. Most 
 
 **Social clubs:** Most communities have golf cart clubs that organize group rides, maintenance workshops, and social events. These clubs often serve as informal governing bodies for cart-related community issues.
 
-![Golf carts lined up at a community event with decorative lights and accessories](PLACEHOLDER)
 
 ## The Downsides Nobody Mentions
 

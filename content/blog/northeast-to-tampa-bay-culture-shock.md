@@ -23,15 +23,12 @@ schema:
 featuredImage: "/images/blog/northeast-to-tampa-bay-culture-shock.webp"
 ---
 
-# Moving to Tampa Bay from the Northeast — Culture Shock Guide
-
 You've made the leap. Traded snow boots for flip-flops, bagels for Cuban sandwiches, and subway tokens for sunscreen. Welcome to Tampa Bay — where your Northeast efficiency meets Southern hospitality, and honestly, it's going to be weird for a while.
 
 After 23+ years helping families relocate here, I've watched thousands of Northeasterners navigate this transition. Some adapt in weeks, others take years, and a few pack up and head back to Buffalo. The difference? Knowing what you're walking into and adjusting expectations accordingly.
 
 This isn't your typical "Florida is awesome" fluff piece. This is the real talk about what changes when you swap Boston for Bradenton, or Philadelphia for Plant City.
 
-![Aerial view of Tampa Bay downtown skyline with palm trees in foreground, contrasting urban Northeast cityscape](PLACEHOLDER)
 
 ## The Pace: Everything Moves Differently Here
 
@@ -73,7 +70,6 @@ The good news? These storms are brief and actually cool things down. The weird n
 
 **Pro tip:** Never trust a clear morning sky in August. Keep an umbrella in your car and a rain jacket at your office.
 
-![Dramatic afternoon thunderstorm clouds building over Tampa Bay water with lightning in distance](PLACEHOLDER)
 
 ### Hurricane Season is Real (But Not What You Think)
 
@@ -107,7 +103,6 @@ Join activities, not just gyms. The [Seminole Heights](/neighborhoods/seminole-h
 
 **Reality check:** It takes most transplants 2-3 years to build a solid friend group here. That's not a bug, it's a feature. Quality over quantity.
 
-![Group of diverse people socializing at an outdoor Tampa Bay waterfront restaurant during golden hour](PLACEHOLDER)
 
 ## Housing: Different Rules, Different Game
 
@@ -161,7 +156,6 @@ For truly local catches, hit [Oystercatchers](/neighborhoods/south-tampa/) on Fr
 
 **Pro tip:** Stone crab season (October through May) is when Tampa Bay seafood truly shines. Order it at least once — it's our version of Maine lobster.
 
-![Close-up of authentic Tampa Cuban sandwich on traditional bread with pickle and coffee](PLACEHOLDER)
 
 ### The Publix Sub Phenomenon
 
@@ -213,7 +207,6 @@ Clearwater Beach and St. Pete Beach get the Instagram attention, but locals pref
 
 Beach etiquette here: arrive before 10 AM or after 4 PM to avoid crowds and heat. Bring a canopy tent — umbrellas flip over in afternoon winds. And yes, people really do watch sunsets like it's appointment television.
 
-![Peaceful sunset view from Pass-a-Grille Beach with silhouettes of people watching from shore](PLACEHOLDER)
 
 ### The Arts Scene Surprise
 

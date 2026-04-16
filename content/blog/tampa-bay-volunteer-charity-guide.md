@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/tampa-bay-volunteer-charity-guide.webp"
 ---
 
-# Tampa Bay Charity and Volunteer Opportunities for New Residents
-
 Moving to a new city means more than finding the right neighborhood and the best taco spot. It means finding your people — the community that makes this sprawling metro feel like home. After 23+ years helping families settle into Tampa Bay, I've watched countless newcomers discover that volunteering isn't just about giving back. It's about finding your tribe, understanding local issues, and building roots that run deeper than a mortgage.
 
 Tampa Bay's volunteer landscape is as diverse as our communities, from feeding families in Ybor City to protecting manatees in Crystal River. Whether you're looking to mentor kids in Pinellas Park or help hurricane victims in Temple Terrace, there's a cause that needs exactly what you bring to the table.
 
-![Volunteers serving meals at a Tampa Bay food bank with downtown skyline in background](PLACEHOLDER)
 
 ## Why Volunteering Matters More in Your New City
 
@@ -55,7 +52,6 @@ Their volunteer needs span from serving meals at their downtown facility (which 
 
 Pro tip: their warehouse volunteer shifts (perfect for retirees or remote workers with flexible schedules) happen weekday mornings and involve sorting clothing donations, organizing supplies, and preparing for distribution events.
 
-![Volunteers organizing supplies at Metropolitan Ministries warehouse with staff coordinating activities](PLACEHOLDER)
 
 ### Habitat for Humanity of Hillsborough County
 Tampa Bay's affordable housing crisis isn't abstract — it's visible in the $2,400 median rent for a two-bedroom apartment and the service workers commuting from Polk County because they can't afford to live where they work. Habitat for Humanity Hillsborough builds 15-20 homes annually, focusing on neighborhoods like Sulphur Springs, East Tampa, and parts of Brandon.
@@ -87,7 +83,6 @@ Their "Manatee Specialist" training happens quarterly and qualifies volunteers t
 
 Local opportunities include staffing information booths at Tampa Bay area events, school presentations, and legislative advocacy during manatee protection campaigns.
 
-![Volunteers participating in a beach cleanup along Tampa Bay with pelicans and coastal scenery](PLACEHOLDER)
 
 ### Tampa Bay Watch
 This marine science organization focuses specifically on Tampa Bay's water quality, habitat restoration, and environmental education. Their volunteer programs are hands-on and scientifically rigorous.
@@ -119,7 +114,6 @@ The one-to-one mentoring model creates deep, lasting relationships between adult
 
 What newcomers should know: this isn't casual volunteering. It's a significant relationship commitment that requires consistency and emotional investment. But for people seeking meaningful connections in their new city, it offers deep community engagement and personal fulfillment.
 
-![Adult volunteer mentoring a young student in a Tampa Bay school library setting](PLACEHOLDER)
 
 ## Senior and Healthcare Services
 
@@ -162,7 +156,6 @@ CERT teams activate during hurricanes, severe weather events, and community emer
 
 Local CERT programs operate in Tampa, St. Petersburg, Clearwater, Brandon, and most smaller municipalities. Training schedules vary but typically happen over several weekends or evening sessions.
 
-![CERT volunteers participating in disaster preparedness training with emergency equipment](PLACEHOLDER)
 
 ## Arts, Culture, and Community Events
 
@@ -207,7 +200,6 @@ Healthcare professionals can volunteer with medical missions, health fairs, and 
 
 Language skills are particularly valuable. Spanish, Portuguese, Arabic, and Haitian Creole speakers can serve as cultural liaisons, translation support, and community outreach coordinators.
 
-![Diverse group of volunteers at a Tampa Bay nonprofit orientation meeting](PLACEHOLDER)
 
 ## Getting Started: First Steps and Expectations
 

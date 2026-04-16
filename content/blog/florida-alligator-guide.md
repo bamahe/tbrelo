@@ -29,7 +29,6 @@ Here's the truth after 23 years of living and selling real estate in Tampa Bay: 
 
 I've shown thousands of waterfront homes, walked countless preserve trails, and lived through every "gator in the garage" news story that makes national headlines. The reality is way more boring than the Discovery Channel makes it seem — but there are some legitimate rules you need to know.
 
-![Alligator sunning itself on a log in a Florida wetland preserve](PLACEHOLDER)
 
 ## The Real Numbers (Not the Scary Headlines)
 
@@ -77,7 +76,6 @@ Yes, gators show up in neighborhood retention ponds. These aren't "invasions" �
 
 I've sold homes in [Fishhawk Ranch](/blog/fishhawk-ranch-guide/), Riverview, and Brandon where gators occasionally pop up in community ponds. Homeowners associations post signs, residents learn to coexist, life goes on. It's not a deal-breaker unless you make it one.
 
-![Warning sign about alligators posted at a community pond in a Florida subdivision](PLACEHOLDER)
 
 ## The Survival Rules That Actually Matter
 
@@ -124,7 +122,6 @@ I've had clients lose small dogs to gators. It's heartbreaking and entirely prev
 - Salt water beaches
 - Designated swimming areas with regular monitoring
 
-![Family safely enjoying a day at a Tampa Bay beach with clear salt water](PLACEHOLDER)
 
 ## What to Do If You See One
 
@@ -179,7 +176,6 @@ Cooler weather makes gators sluggish. They'll still sun themselves but spend mor
 
 Winter cold snaps can make them nearly dormant. That's when you get the weird photos of gators with ice on their snouts — they're not dead, just conserving energy.
 
-![Alligator in cooler weather showing typical lethargic winter behavior](PLACEHOLDER)
 
 ## The Myths You Can Stop Believing
 
@@ -217,7 +213,6 @@ Standard homeowner's insurance doesn't cover gator damage to your property or pe
 
 Most community associations have clear rules about feeding wildlife and pet safety around water features. Violations can result in fines, and repeated violations can lead to bigger problems.
 
-![Beautiful waterfront home in Tampa Bay with natural preserve backdrop](PLACEHOLDER)
 
 ## The Kids Question
 

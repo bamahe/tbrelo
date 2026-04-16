@@ -27,7 +27,6 @@ December in Tampa Bay means 80-degree Christmas mornings and holiday light displ
 
 Whether you're new to the area or just looking for fresh holiday traditions, Tampa Bay's light displays range from massive community productions to charming neighborhood tours you can knock out in an evening. Here's where to find the magic — and which ones are worth the drive time.
 
-![Stunning holiday light display with palm trees decorated in colorful Christmas lights against a Tampa Bay evening sky](PLACEHOLDER)
 
 ## Busch Gardens Christmas Town: The Heavy Hitter
 
@@ -45,7 +44,6 @@ What sets this apart is the educational component — light displays teach kids 
 
 The highlight is the Wild Lights Safari ride — a 15-minute tram tour through areas you can't normally access at night, with targeted lighting showing off nocturnal animal behaviors.
 
-![Families walking through an illuminated zoo pathway with giant animal-shaped light displays and palm trees](PLACEHOLDER)
 
 ## Curtis Hixon Waterfront Park: Free and Fantastic
 
@@ -63,7 +61,6 @@ The main attraction is Wiregrass Ranch Boulevard and the surrounding residential
 
 **Navigation strategy:** Start at the intersection of Wiregrass Ranch Boulevard and Bruce B Downs, then work your way through the residential streets. Peak viewing time is 6-9 PM, though displays typically stay on until 10 PM through New Year's Day. Traffic gets heavy on December weekends, so patience is required.
 
-![Aerial view of a residential neighborhood with houses decorated in elaborate Christmas lights creating a winter wonderland effect](PLACEHOLDER)
 
 ## Westchase Holiday Light Display
 
@@ -89,7 +86,6 @@ The market features local artisans, food vendors serving everything from traditi
 
 This works best as part of a broader Ybor evening — dinner at [Columbia Restaurant](https://columbiarestaurant.com/) followed by the holiday market, then drinks at one of the historic pubs. Street parking is typically available, though the lots fill up on weekend nights.
 
-![Historic Ybor City buildings decorated with warm holiday lights and a European-style market with vendor stalls](PLACEHOLDER)
 
 ## Safety Harbor Holiday Stroll
 
@@ -115,7 +111,6 @@ The advantage here is combining light viewing with dinner and drinks — [Bern's
 
 Bayshore Boulevard offers the bonus of Tampa Bay views as you drive between displays, particularly beautiful around sunset (which happens around 5:30 PM in December). Street parking can be challenging on weekend nights, so arrive earlier or use ride-sharing.
 
-![Upscale homes along Bayshore Boulevard decorated with elegant Christmas lights overlooking Tampa Bay at dusk](PLACEHOLDER)
 
 ## St. Petersburg's Vinoy Park and Downtown
 
@@ -135,7 +130,6 @@ Street parking downtown runs $1-2 per hour until 6 PM, free afterward. The main 
 
 **Budget Considerations:** Free options (residential neighborhoods, downtown displays) can create full evenings of entertainment. Paid attractions range from $25-70, with family packages available at most venues.
 
-![Family in a car driving through a tunnel of Christmas lights with excited children looking out the windows](PLACEHOLDER)
 
 ## Making It a Tampa Bay Tradition
 

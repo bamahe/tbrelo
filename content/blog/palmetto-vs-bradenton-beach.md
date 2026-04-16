@@ -29,7 +29,6 @@ After 23 years helping families relocate to Tampa Bay, I've walked clients throu
 
 Let me break down the real differences so you can decide which fits your relocation plans.
 
-![Aerial view showing Palmetto's riverfront downtown and Bradenton Beach's barrier island location](PLACEHOLDER)
 
 ## Location and Geography: River Town vs Beach Island
 
@@ -59,7 +58,6 @@ Condos start around $475,000 for a two-bedroom unit that's not oceanfront. Get a
 
 The rental market is equally pricey — expect $2,800+ for a decent two-bedroom condo. Many owners use their properties as vacation rentals, which keeps long-term inventory tight.
 
-![Palmetto's historic downtown area along the Manatee River with local businesses and restaurants](PLACEHOLDER)
 
 ## Daily Life: Working Town vs Resort Community
 
@@ -99,7 +97,6 @@ School-age children attend Anna Maria Elementary (which gets good ratings) but b
 
 The beach lifestyle is amazing for kids who love water sports. But organized sports, music lessons, and typical suburban kid activities require driving to the mainland. Birthday parties happen at beach parks, which sounds great until you factor in parking costs and crowds.
 
-![Bradenton Beach's Gulf-front location with white sand beaches and turquoise water](PLACEHOLDER)
 
 ## Transportation and Commuting
 
@@ -139,7 +136,6 @@ Hurricane risk is significant. Anna Maria Island sits directly in the path of po
 
 The upside is gorgeous weather from November through March. Morning beach walks in 70-degree temperatures with Gulf breezes make winter worth the summer trade-offs.
 
-![Comparison showing Palmetto's working waterfront with fishing boats alongside Bradenton Beach's recreational marina](PLACEHOLDER)
 
 ## Recreation and Entertainment
 
@@ -177,7 +173,6 @@ Property taxes on a $600,000 condo run about $7,200 annually. Homeowners insuran
 
 Condo fees add another layer of expense — $400-800 monthly is common. These cover building maintenance, insurance, beach access, and often utilities.
 
-![Street view comparison showing Palmetto's historic downtown architecture versus Bradenton Beach's coastal resort-style buildings](PLACEHOLDER)
 
 ## Healthcare and Senior Services
 
@@ -215,7 +210,6 @@ The rental market stays strong due to vacation rental demand. Many owners offset
 
 Long-term growth depends on maintaining the area's appeal while managing tourist impacts. Property values should hold steady with moderate appreciation.
 
-![Palmetto's Manatee River waterfront showing both working fishing vessels and recreational boats](PLACEHOLDER)
 
 ## Making Your Decision: Which Community Fits Your Life?
 

@@ -27,7 +27,6 @@ Davis Islands sits in Tampa Bay like someone dropped a perfectly manicured subur
 
 Let me give you the real story about living on Davis Islands. Not the glossy brochure version, but what it's actually like to call this place home.
 
-![Aerial view of Davis Islands showing the distinctive round island shape with downtown Tampa skyline in background](PLACEHOLDER)
 
 ## What Makes Davis Islands Different
 
@@ -49,7 +48,6 @@ Let me be straight with you about housing costs on Davis Islands. This isn't bud
 
 As of 2024, the median home price on Davis Islands hovers around $1.2 million. That's not a typo. Waterfront homes routinely sell for $2-4 million, while interior lots — homes without water views — start around $700,000 for something that needs work.
 
-![Luxury waterfront home on Davis Islands with private dock and Tampa Bay views](PLACEHOLDER)
 
 ### Single-Family Homes Breakdown
 
@@ -87,7 +85,6 @@ Here's where it gets tricky. Davis Islands students are zoned for:
 
 Plant High School is one of Tampa's most desirable public schools, which partially explains why some families accept Davis Islands' high housing costs. The school consistently ranks among Florida's top high schools and sends graduates to prestigious universities nationwide.
 
-![Davis Elementary School building with distinctive architecture and palm trees](PLACEHOLDER)
 
 ### Private School Pipeline
 
@@ -134,7 +131,6 @@ Davis Islands genuinely feels like a small town within a major metropolitan area
 
 This tight-knit community extends to local businesses. Roy's Restaurant has been serving the island for decades, and staff members will remember your regular order. The Davis Islands Garden Club hosts events that bring neighbors together, and the yacht club serves as an unofficial community center.
 
-![Charming tree-lined residential street on Davis Islands with Mediterranean-style homes](PLACEHOLDER)
 
 ### Shopping and Conveniences
 
@@ -184,7 +180,6 @@ The lifestyle here tends toward higher-end recreational activities. Yacht club m
 
 Many residents budget $2,000-3,000 monthly for lifestyle expenses beyond basic housing and utilities.
 
-![Davis Islands Yacht Club exterior with boats docked in marina](PLACEHOLDER)
 
 ## Weather and Environmental Considerations
 
@@ -232,7 +227,6 @@ Davis Islands tends to attract families with children, creating a kid-friendly e
 
 However, the high cost of living means many families are dual-income professional households. This creates a community of achievers but can also create social pressure around lifestyle expectations.
 
-![Children playing at Marjorie Park with Tampa Bay in the background](PLACEHOLDER)
 
 ### Social Dynamics
 
@@ -272,7 +266,6 @@ After helping families navigate Davis Islands real estate for over two decades, 
 
 **Hurricane risk:** Storm surge and evacuation challenges during severe weather events.
 
-![Sunset view from Davis Islands waterfront with downtown Tampa skyline](PLACEHOLDER)
 
 ## Making the Decision: Is Davis Islands Right for You?
 
@@ -328,7 +321,6 @@ If you're considering Davis Islands, I recommend spending time here at different
 
 The financial commitment is significant, but for many families, the lifestyle and community justify the premium. After 23 years of helping people make this decision, I've learned that the families who thrive on Davis Islands are those who view the higher costs as an investment in their quality of life rather than a financial burden.
 
-![Davis Islands residential street at dusk with palm trees and historic homes](PLACEHOLDER)
 
 Davis Islands isn't just a place to live — it's a lifestyle choice that affects how you spend your time, where you socialize, and how you experience Tampa Bay. Make sure that lifestyle aligns with your priorities before making the financial commitment.
 

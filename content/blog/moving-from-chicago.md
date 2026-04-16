@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/moving-from-chicago.webp"
 ---
 
-# Moving from Chicago to Tampa Bay — The Complete Relocation Guide
-
 Making the leap from the Windy City to the Sunshine State? You're not alone. Tampa Bay has become one of the top destinations for Chicago transplants over the past decade, and after helping hundreds of families make this exact move, I can tell you exactly why.
 
 The appeal is obvious: no more brutal winters, no state income tax, and a cost of living that — despite recent increases — still beats Chicago in most categories. But there's more to consider than just weather and taxes. Let me break down everything you need to know about trading deep dish pizza for Cuban sandwiches.
 
-![Aerial view comparing Chicago's lakefront skyline with snow to Tampa Bay's waterfront with palm trees](PLACEHOLDER)
 
 ## Why Chicago Families Are Choosing Tampa Bay
 
@@ -82,7 +79,6 @@ For a family earning $125,000:
 
 Add in lower property taxes, and most families save $8,000-$12,000 annually in Tampa Bay.
 
-![Split image showing Chicago's Willis Tower in winter vs Tampa's downtown skyline with boats in the harbor](PLACEHOLDER)
 
 ## Tampa Bay Neighborhoods That Feel Like Home to Chicagoans
 
@@ -120,7 +116,6 @@ Distance to downtown: 2-5 miles
 Condo prices: $400,000-$1.2M
 Home prices: $800,000-$3M+
 
-![Comparison of Chicago's Millennium Park with families bundled in winter coats next to Tampa's Bayshore Boulevard with people in shorts and t-shirts](PLACEHOLDER)
 
 ## The Moving Process: Chicago to Tampa Bay
 
@@ -159,7 +154,6 @@ If you're flying down and shipping your vehicle:
 
 **Recommended Carriers:** Montway Auto Transport and AmeriFreight consistently get good reviews from my clients.
 
-![Moving truck on I-75 with Chicago skyline in rearview mirror and Tampa Bay skyline ahead](PLACEHOLDER)
 
 ## What Chicago Transplants Love About Tampa Bay
 
@@ -186,7 +180,6 @@ What Chicago calls "summer activities," Tampa Bay calls "Tuesday." Boating, fish
 **Boating:** Tampa Bay has 300+ miles of coastline
 **Golf:** 60+ courses within 45 minutes
 
-![Family enjoying outdoor dining in Tampa with palm trees, contrasted with Chicago family eating indoors during winter](PLACEHOLDER)
 
 ## The Challenges: What Chicago Transplants Struggle With
 
@@ -227,7 +220,6 @@ Tampa Bay traffic isn't Chicago-level gridlock, but it's grown considerably. I-2
 - Evening: 4-7 PM (significant delays)
 - I-4 towards Orlando: Avoid during rush hour at all costs
 
-![Traffic comparison showing Chicago's crowded L train versus Tampa's I-275 during rush hour](PLACEHOLDER)
 
 ## Making Friends and Building Community
 
@@ -266,7 +258,6 @@ Tampa Bay's economy is diversifying beyond tourism:
 
 **Tip:** Many Chicago professionals successfully negotiate remote work arrangements, keeping Chicago salaries while enjoying Tampa Bay living costs.
 
-![Split screen showing Chicago's Willis Tower business district versus Tampa's Westshore business district](PLACEHOLDER)
 
 ## Schools: What Chicago Parents Need to Know
 
@@ -309,7 +300,6 @@ Tampa Bay attracts physicians from major medical centers nationwide, including m
 
 **Insurance Networks:** Most major Chicago employers' insurance plans have strong Tampa Bay networks through Aetna, Blue Cross, and UnitedHealth.
 
-![Modern Tampa General Hospital exterior with palm trees versus a snowy Chicago hospital scene](PLACEHOLDER)
 
 ## Timeline: Your 90-Day Moving Plan
 

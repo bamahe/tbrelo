@@ -27,7 +27,6 @@ You know you've become a Tampa Bay local when you can walk into any Publix, ratt
 
 After 23 years of showing people around Tampa Bay, I've watched countless newcomers discover the Pub Sub phenomenon. Some get it immediately. Others need gentle guidance. Consider this your comprehensive field guide to understanding, ordering, and appreciating what might be Florida's greatest culinary contribution to the world.
 
-![A classic Publix chicken tender sub on a whole wheat sub roll with lettuce, tomato, and mayo](PLACEHOLDER)
 
 ## What Exactly Is a Pub Sub?
 
@@ -59,7 +58,6 @@ Before you step up to any deli counter in Tampa Bay, you need to speak the langu
 - "Spicy mustard" — their house mustard with a kick
 - "Pub sauce" — their signature sandwich sauce
 
-![Interior of a busy Publix deli counter with employees making subs](PLACEHOLDER)
 
 ## The Chicken Tender Sub: Tampa Bay's Crown Jewel
 
@@ -92,7 +90,6 @@ Popular with airport workers and travelers, this location has perfected the grab
 
 A neighborhood favorite that treats Pub Sub making like performance art. The deli counter staff here genuinely cares about getting your order exactly right, and they're not afraid to make suggestions based on what looks best that day.
 
-![A variety of Publix subs displayed on a counter showing different meat and veggie combinations](PLACEHOLDER)
 
 ### Publix at Wiregrass Commons (28212 Paseo Dr, Wesley Chapel)
 
@@ -118,7 +115,6 @@ Sliced turkey breast, havarti cheese, bacon, lettuce, tomato, and mayo on toaste
 
 Don't sleep on Publix's vegetarian options. Their veggie sub with multiple cheeses, avocado, sprouts, cucumbers, and their herb oil is legitimately satisfying. Many locations now offer hummus as a spread option, which transforms the entire sandwich.
 
-![Close-up of a Publix Italian sub showing layers of meat and cheese](PLACEHOLDER)
 
 ### The Seafood Special
 
@@ -138,7 +134,6 @@ There's a rhythm to ordering Pub Subs that separates the newcomers from the esta
 
 **Ask about specials.** Many locations rotate specialty sandwiches or have ingredients that aren't on the standard menu. The staff is usually happy to share what's available.
 
-![A busy Publix deli during lunch hour with customers waiting in line](PLACEHOLDER)
 
 ## Pub Sub Hacks That Actually Work
 
@@ -180,7 +175,6 @@ Some counter workers are heavy-handed with vegetables and light on protein. Don'
 
 Cold subs that should be warm (like chicken tender subs) are devastating. Always specify "hot chicken tenders" to ensure you're getting fresh, warm protein.
 
-![A perfectly constructed chicken tender sub cut in half showing the layers](PLACEHOLDER)
 
 ## The Economics of Pub Sub Addiction
 
@@ -201,7 +195,6 @@ It's food that works for construction workers grabbing lunch in Plant City and e
 
 The Pub Sub also represents Florida's genius for taking something ordinary and making it extraordinary through attention to detail and understanding of local preferences. It's the same instinct that turned swampland into beautiful communities and fishing villages into world-class destinations.
 
-![A family sharing Publix subs at a picnic table in a Tampa Bay park](PLACEHOLDER)
 
 ---
 
@@ -235,7 +228,6 @@ Publix occasionally rolls out limited-time sandwich offerings that become legend
 
 Holiday seasons bring specialty items: turkey subs using their premium Thanksgiving turkeys, ham subs featuring their spiral-cut holiday hams. These limited offerings often represent the best value in the entire store.
 
-![A seasonal specialty Publix sub with premium ingredients displayed on a wooden cutting board](PLACEHOLDER)
 
 Summer months mean peak Pub Sub season. Beach trips, boat outings, pool parties, and outdoor events all demand portable, delicious food that won't spoil in Florida heat. The Pub Sub handles these challenges better than most alternatives.
 

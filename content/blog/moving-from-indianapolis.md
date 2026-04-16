@@ -27,7 +27,6 @@ Moving from the Circle City to the Sunshine State isn't just a change of address
 
 The weather alone will knock your socks off. Trading those brutal Midwest winters for year-round warmth? That's just the beginning. But let's get real about everything else — the costs, the culture shifts, the practical stuff nobody talks about until you're knee-deep in moving boxes.
 
-![Aerial view comparing Indianapolis downtown skyline in winter snow to Tampa Bay waterfront on a sunny day](PLACEHOLDER)
 
 ## Why Indianapolis Families Choose Tampa Bay
 
@@ -49,7 +48,6 @@ Here's where math gets fun. Florida has zero state income tax. Indiana hits you 
 
 ## Cost of Living: Indianapolis vs Tampa Bay
 
-![Side-by-side comparison chart showing cost differences between Indianapolis and Tampa Bay for housing, utilities, groceries, and transportation](PLACEHOLDER)
 
 ### Housing Reality Check
 
@@ -94,7 +92,6 @@ Add in lower property taxes (Florida averages 1.02% vs Indiana's 1.15%), and you
 
 ## Neighborhood Matching: Finding Your Tampa Bay Fit
 
-![Map showing Indianapolis neighborhoods on left with arrows pointing to similar Tampa Bay neighborhoods on right](PLACEHOLDER)
 
 ### If You Love Broad Ripple...
 
@@ -145,7 +142,6 @@ The charter school scene is also strong, with options like KIPP, Somerset, and v
 
 ## The Practical Move: Logistics and Timeline
 
-![Moving truck on I-65 South with "Florida or Bust" sign, showing route map overlay](PLACEHOLDER)
 
 ### Driving Route: Indianapolis to Tampa Bay
 
@@ -198,7 +194,6 @@ The most direct route runs about 1,050 miles and takes 15-16 hours of actual dri
 
 ## Job Market and Career Opportunities
 
-![Split image showing Indianapolis business district on left and Tampa's Westshore business district on right](PLACEHOLDER)
 
 ### Major Industries in Tampa Bay
 
@@ -248,7 +243,6 @@ Modern building codes (post-Hurricane Andrew) mean newer homes are incredibly st
 
 ## Cultural Adjustments Indianapolis Families Make
 
-![Collage showing Indianapolis cultural elements (Monument Circle, Indy 500) transitioning to Tampa Bay culture (Gasparilla, beaches)](PLACEHOLDER)
 
 ### The Pace of Life
 
@@ -300,7 +294,6 @@ In Indianapolis, you had maybe 6 months of decent outdoor weather. Here, you hav
 
 ## Real Estate Market Insights
 
-![Before and after photos showing typical Indianapolis home versus similar Tampa Bay home](PLACEHOLDER)
 
 ### What Your Indianapolis Home Equity Buys
 
@@ -353,7 +346,6 @@ Budget $2,000-4,000 annually for homeowner's insurance, depending on location an
 
 ## Transportation and Commuting
 
-![Comparison of Indianapolis interstate system versus Tampa Bay highways and bridges](PLACEHOLDER)
 
 ### Highway System Differences
 

@@ -25,7 +25,6 @@ featuredImage: "/images/blog/florida-flood-zones-explained.webp"
 
 Looking to buy a home in Tampa Bay? You've probably seen those mysterious flood zone letters on property listings — AE, VE, X500, and just plain X. Here's the thing: most real estate agents will tell you "Flood Zone X means you're safe!" But after 23 years of helping families navigate Tampa Bay real estate, I'm going to give you the real story about what these zones actually mean for your wallet and your peace of mind.
 
-![FEMA flood zone map showing different colored zones across Tampa Bay area](PLACEHOLDER)
 
 ## The Flood Zone Reality Check Nobody Talks About
 
@@ -66,7 +65,6 @@ VE zones face both flooding and wave action — think beachfront condos and home
 
 Properties in Madeira Beach, Treasure Island, and beachfront Clearwater often fall into VE zones. Insurance costs typically range from $2,000-8,000 annually.
 
-![Elevated home on stilts typical of VE flood zone construction requirements](PLACEHOLDER)
 
 ### Zone AH and AO: The Tricky Ones
 
@@ -96,7 +94,6 @@ Here's where flood zones hit your wallet hardest. Let me break down real numbers
 
 **Pro tip:** Even in Zone X, I always recommend flood insurance. It's cheap compared to dealing with even minor water damage. A washing machine overflow isn't covered by flood insurance, but storm surge that gets into your first floor is.
 
-![Flooded residential street with cars partially submerged during hurricane](PLACEHOLDER)
 
 ## How Tampa Bay's Geography Affects Flood Zones
 
@@ -140,7 +137,6 @@ Just because a property didn't flood in recent memory doesn't mean it won't.
 
 Florida doesn't require flood damage disclosure unless specifically asked. Always ask sellers directly about any water intrusion, and consider a full inspection even for minor water events.
 
-![Real estate agent pointing to flood zone boundaries on an official FEMA map](PLACEHOLDER)
 
 ## The Insurance Shopping Strategy That Actually Works
 
@@ -191,7 +187,6 @@ Always include these contingencies:
 
 An elevation certificate shows exactly how your property relates to base flood elevation. Properties even one foot above base flood elevation can qualify for significantly lower insurance rates. It's worth paying for this document during your due diligence period.
 
-![Surveyor using equipment to measure property elevation for flood certification](PLACEHOLDER)
 
 ## Future-Proofing Your Flood Zone Investment
 
@@ -233,7 +228,6 @@ Hurricane season doesn't wait for your convenience. Start flood insurance shoppi
 
 Properties built before current flood maps can qualify for lower insurance rates. But this "grandfathered" status disappears if you make substantial improvements (generally 50%+ of the home's value).
 
-![Split screen showing same neighborhood during normal weather vs major flooding](PLACEHOLDER)
 
 ## The Bottom Line for Tampa Bay Buyers
 

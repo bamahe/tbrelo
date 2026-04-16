@@ -29,7 +29,6 @@ Moving to Tampa Bay means joining what I call the "flip flop economy" — where 
 
 Here's the truth: Florida footwear isn't just about comfort. It's about survival, professionalism, and fitting into a culture where the line between beach casual and business casual is thinner than a Publix deli slice.
 
-![Professional looking flip flops next to dress shoes and beach sandals on a wooden deck](PLACEHOLDER)
 
 ## The Florida Footwear Hierarchy
 
@@ -49,7 +48,6 @@ In Hillsborough County's corporate corridors, sockless loafers signal "I underst
 
 Wearing traditional dress shoes with socks in July isn't just uncomfortable — it's a rookie move that screams "I just moved here from Ohio." The humidity will turn your feet into personal swamps, and everyone will know you haven't figured out Florida yet.
 
-![Comparison of different shoe types laid out on sand with Tampa Bay skyline in background](PLACEHOLDER)
 
 ## Navigating Tampa Bay's Dress Codes
 
@@ -71,7 +69,6 @@ But venture inland to **Seminole** or **Indian Rocks**, and the expectations shi
 
 The **Town 'n Country** and **Egypt Lake** areas lean more traditional, while **Hyde Park** embraces the "expensive casual" aesthetic where your sandals cost more than most people's dress shoes.
 
-![Family wearing various casual footwear at a Tampa Bay suburban park](PLACEHOLDER)
 
 ## Seasonal Footwear Strategy
 
@@ -115,7 +112,6 @@ The service industry pays attention because Tampa Bay tourists tip better when t
 
 **Tampa's growing tech corridor** around downtown and Westshore embraces full flip flop acceptance. Companies like ConnectWise and KnowBe4 normalize beach casual year-round. It's Silicon Valley meets Gulf Coast, and the footwear reflects that hybrid culture.
 
-![Tech workers in casual attire including flip flops working at outdoor cafe in downtown Tampa](PLACEHOLDER)
 
 ## The Financial Reality of Florida Footwear
 
@@ -138,7 +134,6 @@ Salt air, humidity, and constant use destroy cheap footwear quickly. Quality lea
 
 Smart Tampa Bay residents own multiple pairs and rotate based on activity, extending lifespan while maintaining comfort.
 
-![Close-up of worn-in quality leather sandals on sandy beach with clear water in background](PLACEHOLDER)
 
 ## Cultural Integration and Social Signals
 
@@ -170,7 +165,6 @@ Locals spot transplants immediately — not by their footwear choice, but by the
 
 Avoid buying during **peak tourist season** (December-April) when prices inflate and selection decreases.
 
-![Shopping display showing various high-quality flip flops and sandals with price tags](PLACEHOLDER)
 
 ## The Bottom Line on Florida Footwear
 

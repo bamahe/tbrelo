@@ -27,7 +27,6 @@ Tampa Bay isn't just condos and beaches. It's become one of the Southeast's most
 
 The numbers tell the story: St. Petersburg alone has over 100 galleries and cultural venues packed into a city of 265,000. That's not counting Tampa's emerging arts districts or the creative communities sprouting up in Seminole Heights and the Heights. If you're an artist looking for affordable studio space, supportive community, and year-round outdoor inspiration, Tampa Bay delivers.
 
-![Artist working in a bright studio space with Florida natural light streaming through large windows](PLACEHOLDER)
 
 ## Why Artists Are Choosing Tampa Bay
 
@@ -58,7 +57,6 @@ Central Avenue from 16th Street to 34th Street is gallery row. Saturday Art Walk
 
 **Historic Kenwood** offers character homes with space for home studios, starting around $320,000. The neighborhood association actively supports local artists.
 
-![St. Petersburg's Grand Central Avenue lined with colorful murals and art galleries](PLACEHOLDER)
 
 ## Tampa's Emerging Arts Scene
 
@@ -112,7 +110,6 @@ Studio rents in converted Ybor buildings run $8-12 per square foot. That's cheap
 
 **The Museum of Fine Arts** St. Petersburg offers professional development workshops for working artists. Topics include pricing work, gallery representation, and artist statements.
 
-![Artists participating in a printmaking workshop at a Tampa Bay arts center](PLACEHOLDER)
 
 ## Selling Your Art in Tampa Bay
 
@@ -160,7 +157,6 @@ Most artists need cars here. Public transit exists but doesn't connect creative 
 
 **Healthcare** requires planning. Individual marketplace plans run $300-600/month for artists under 40. Older artists often need coverage budgets of $800-1,200/month.
 
-![Artist's colorful outdoor mural being painted on a sunny Tampa Bay street](PLACEHOLDER)
 
 ## Building Community
 
@@ -224,7 +220,6 @@ Most artists need cars here. Public transit exists but doesn't connect creative 
 
 **Legal services** for artists are available through **Volunteer Lawyers for the Arts** programs. Contract review, copyright issues, and business formation assistance.
 
-![Artists displaying their work at an outdoor art festival with palm trees in the background](PLACEHOLDER)
 
 ## The Reality Check
 

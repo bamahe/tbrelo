@@ -27,7 +27,6 @@ After 23 years helping families move to Tampa Bay, I've seen too many newcomers 
 
 Florida's hurricane season runs June through November, but smart residents prep year-round. Whether you're in downtown Tampa dealing with storm surge zones or tucked away in Land O' Lakes, having the right emergency supplies isn't just smart — it's essential for protecting your family and property.
 
-![Family reviewing emergency supplies laid out on dining room table with hurricane tracking map](PLACEHOLDER)
 
 ## Why Florida Homes Need Specialized Emergency Kits
 
@@ -71,7 +70,6 @@ Living through a two-week outage changes your perspective on backup power. I rec
 - Headlamps for hands-free work
 - Battery-powered string lights (seriously great for morale)
 
-![Generator setup in residential garage with proper ventilation and safety equipment](PLACEHOLDER)
 
 ### Non-Perishable Food Storage
 
@@ -136,7 +134,6 @@ Start with these foundations:
 - [LifeStraw Family Water Purifier]({{amazon:B00FM9OBQS}}) — filters 18,000 liters
 - [UST Emergency Preparedness Kit]({{amazon:B003SLO5IC}}) — tools and supplies
 
-![Emergency supply kit components organized by category on garage shelving system](PLACEHOLDER)
 
 ## Local Considerations for Tampa Bay Residents
 
@@ -190,7 +187,6 @@ Your emergency kit isn't a "set it and forget it" purchase. Florida's climate de
 - Review and update insurance policies
 - Check that all family members know emergency procedures
 
-![Well-organized emergency supply closet with labeled containers and rotation schedule](PLACEHOLDER)
 
 ## Where to Buy Emergency Supplies in Tampa Bay
 
@@ -232,7 +228,6 @@ Building your own kit saves money and ensures you get exactly what your family n
 - Secondary storage location
 - Professional consultation
 
-![Budget emergency kit components laid out with price tags showing total cost breakdown](PLACEHOLDER)
 
 ## Special Considerations for Newcomers
 
@@ -290,7 +285,6 @@ Florida's abundant sunshine makes solar backup power practical:
 - Roof-mounted systems with battery backup
 - Portable solar generators for RVs or secondary locations
 
-![Whole house generator installation next to Florida home with proper clearances and professional installation](PLACEHOLDER)
 
 ## Storage Solutions That Work in Florida
 

@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/diy-vs-movers-florida.webp"
 ---
 
-# DIY vs Hiring Movers: The Real Cost Comparison for Florida
-
 Moving to or within Florida? You're probably wrestling with the biggest decision every relocator faces: DIY or hire the pros? After helping families move to Tampa Bay for over two decades, I've seen every scenario play out. Some DIY moves save thousands. Others turn into expensive disasters that cost more than hiring professionals from the start.
 
 Let's break down the real costs — not the marketing fluff from moving companies or the "it's so easy!" claims from truck rental ads. We're talking actual numbers, hidden fees, and the stuff nobody tells you until you're sweating in 95-degree Florida humidity, wondering why your back hurts and your best friend isn't returning your calls.
 
-![Comparison image showing a DIY moving truck next to professional movers loading boxes](PLACEHOLDER)
 
 ## The True Cost of DIY Moving in Florida
 
@@ -84,7 +81,6 @@ Quality local movers in the Tampa Bay area charge:
 
 These numbers assume a straightforward move without excessive stairs, long carries, or specialty items like pianos.
 
-![Professional movers carefully wrapping furniture in a Tampa Bay home](PLACEHOLDER)
 
 ### Long-Distance Interstate Moves
 
@@ -126,7 +122,6 @@ Moving during hurricane season (June-November) adds complexity. Professional mov
 
 Florida's sprawling geography means longer drives than you expect. Tampa to Jacksonville is 3.5 hours of driving — just one way. Add loading/unloading time, and you're looking at a 12-14 hour day minimum.
 
-![Map showing Florida distances between major cities with moving routes highlighted](PLACEHOLDER)
 
 ## Breaking Even: When Each Option Makes Sense
 
@@ -166,7 +161,6 @@ Rent the container but hire local labor to load/unload it. [TaskRabbit]({{amazon
 
 For delicate items or people who hate packing, hire professionals just for packing services, then handle the transport yourself. Costs $300-800 depending on home size.
 
-![Split image showing family packing boxes themselves alongside professional movers loading a truck](PLACEHOLDER)
 
 ## Hidden Factors That Swing the Decision
 

@@ -23,15 +23,12 @@ schema:
 featuredImage: "/images/blog/tampa-bay-urgent-care-er-guide.webp"
 ---
 
-# Tampa Bay Urgent Care and ER Guide — Where to Go When
-
 Nobody plans to get sick at 2 AM or injure themselves on a Sunday afternoon, but after 23 years helping families relocate to Tampa Bay, I've fielded countless calls from new residents asking, "Where should I go?" 
 
 The good news: Tampa Bay has excellent medical facilities. The challenge: figuring out which type of care you need and where to find it without breaking the bank or sitting in a waiting room for six hours.
 
 Here's your no-nonsense guide to navigating Tampa Bay's healthcare system when you can't wait for your primary care doctor.
 
-![Emergency room entrance at Tampa General Hospital with ambulances parked outside](PLACEHOLDER)
 
 ## Emergency Room vs. Urgent Care: The $3,000 Question
 
@@ -87,7 +84,6 @@ Save yourself thousands and hours by choosing urgent care for:
 **Average Wait:** 30-60 minutes  
 **Why Choose:** Only if you're a current cancer patient with treatment-related emergencies.
 
-![Urgent care clinic waiting room with patients being seen by medical staff](PLACEHOLDER)
 
 ## Best Urgent Care Centers by Area
 
@@ -187,7 +183,6 @@ Most insurance plans have different copays for ER vs. urgent care:
 
 Always call your insurance company's nurse line first if you're unsure. Most major insurers (Humana, UnitedHealthcare, Florida Blue) have 24/7 nurse hotlines that can help you decide where to go.
 
-![Medical professionals attending to a patient in an urgent care examination room](PLACEHOLDER)
 
 ## Special Situations for New Residents
 

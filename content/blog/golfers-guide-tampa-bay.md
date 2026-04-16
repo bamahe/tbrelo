@@ -27,7 +27,6 @@ Tampa Bay delivers exactly what serious golfers dream about: year-round play, ch
 
 The weather alone justifies the move. While your buddies up north are hibernating their clubs from December through March, you're working on your short game in 75-degree sunshine. But Tampa Bay's golf appeal runs deeper than climate — we're talking about courses that host PGA Tour events, daily-fee gems that won't destroy your budget, and neighborhoods where your backyard literally opens onto the fairway.
 
-![Aerial view of TPC Tampa Bay championship course with players on multiple fairways under sunny skies](PLACEHOLDER)
 
 ## The Championship Course Lineup
 
@@ -53,7 +52,6 @@ Don't let the university connection fool you — this Ron Garl design hosts Divi
 
 Water comes into play on 13 holes, but the hazards feel strategic rather than penal. The par-5 18th requires a layup decision off the tee, then offers eagle opportunities for aggressive players willing to carry water on their approach. Green fees stay reasonable at $55-85, and the course maintains pristine conditions year-round.
 
-![Golfer hitting approach shot over water hazard at USF golf course with palm trees in background](PLACEHOLDER)
 
 ## Daily Fee Gems That Won't Break the Bank
 
@@ -97,7 +95,6 @@ Living adjacent to Innisbrook Resort means access to four championship courses p
 
 The [Palm Harbor](/cities/palm-harbor/) location provides small-town feel with big-city amenities nearby. Property values have appreciated steadily, making this both lifestyle and investment opportunity.
 
-![Luxury home with golf course view showing manicured fairway and water hazard in foreground](PLACEHOLDER)
 
 ## Year-Round Golf: The Climate Advantage
 
@@ -133,7 +130,6 @@ Tampa Bay supports dozens of PGA-certified instructors at courses throughout the
 
 Most championship courses offer professional club fitting, essential for maximizing performance. Services range from basic grip and lie adjustments ($50-100) to complete bag fittings using launch monitors ($300-500). Given Florida's year-round golf, proper equipment fitting pays dividends quickly.
 
-![Golf professional using launch monitor technology to fit golfer with new driver at indoor facility](PLACEHOLDER)
 
 ## Tournament Golf and Competition
 
@@ -171,7 +167,6 @@ Tampa Bay's golf community extends far beyond weekend rounds. Business networkin
 
 **Business Golf:** Many Tampa Bay professionals conduct business on the course, taking advantage of the relaxed atmosphere and extended time together. Several courses specialize in corporate events and business entertaining.
 
-![Foursome of business professionals shaking hands on golf course green after completing round](PLACEHOLDER)
 
 ## Course Conditions and Maintenance Standards
 

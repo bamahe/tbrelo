@@ -29,7 +29,6 @@ Your generator choice depends on what you actually need to power. Running a few 
 
 Let me break down the best options for Florida's unique hurricane challenges — from our sticky 90-degree "cold fronts" during outages to the reality that power might be out for two weeks, not two days.
 
-![Various portable generators set up in a Florida garage during hurricane preparation](PLACEHOLDER)
 
 ## Understanding Florida's Power Outage Reality
 
@@ -85,7 +84,6 @@ Generac's answer to Honda's dominance. Clean inverter power with more watts than
 
 **Florida advantage:** That CO-SENSE feature matters when you're running generators near your house during a storm. Carbon monoxide doesn't care how expensive your generator was.
 
-![Close-up of a generator control panel showing various outlets and switches during hurricane season](PLACEHOLDER)
 
 ## Mid-Range Powerhouses (5000-7000 Watts)
 
@@ -139,7 +137,6 @@ Generac's premium competitor. Quieter operation and arguably better build qualit
 
 **The difference:** Better sound dampening, premium materials, more advanced diagnostics. Whether that's worth the extra cost depends on your budget and priorities.
 
-![A whole house generator installed beside a Florida home with palm trees in background](PLACEHOLDER)
 
 ## What Size Generator Do You Actually Need?
 
@@ -186,7 +183,6 @@ Those standard 20-pound BBQ tanks give you 8-15 hours of runtime depending on lo
 
 If you have natural gas service from Peoples Gas or TECO, this eliminates fuel worries entirely.
 
-![Several propane tanks and gasoline containers properly stored in a garage](PLACEHOLDER)
 
 ## Critical Safety Considerations for Florida
 
@@ -237,7 +233,6 @@ Generators work harder in Florida heat. Expect:
 - Clean and dry thoroughly if wet
 - Run dry before storage (fuel system longevity)
 
-![A generator being maintained with oil change and cleaning supplies](PLACEHOLDER)
 
 ## Local Installation and Service Options
 
@@ -297,7 +292,6 @@ Bridges portable and whole-house capability. Heavy but manageable, powerful enou
 ### Best for Set-and-Forget: Generac Guardian 22kW
 Yes, it's expensive upfront. But automatic operation means you're never scrambling in the dark, and your home value gets a boost too.
 
-![A comparison lineup of different generator sizes and types suitable for Florida homes](PLACEHOLDER)
 
 ## When to Buy (Timing Matters in Florida)
 

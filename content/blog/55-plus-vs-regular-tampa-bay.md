@@ -29,7 +29,6 @@ The truth? There's no universal right answer. But there are clear patterns about
 
 Let me break down what actually matters when making this choice, because the marketing brochures won't tell you about the HOA president who runs the place like a dictatorship or the regular neighborhood where your 30-something neighbors throw parties until 2 AM.
 
-![Aerial view comparing a gated 55+ community with amenities next to a traditional Tampa Bay neighborhood](PLACEHOLDER)
 
 ## The Real Costs: Beyond the Marketing Numbers
 
@@ -59,7 +58,6 @@ These communities excel at structured social interaction. Activities directors p
 
 But the flip side? Some residents feel trapped in a bubble. "I realized I hadn't left the community in three days," one client in Lakewood National told me. "Everything's here, but sometimes everything feels like too much of the same thing."
 
-![Residents playing pickleball at a 55+ community clubhouse with palm trees in background](PLACEHOLDER)
 
 ### Regular Neighborhood Reality
 
@@ -85,7 +83,6 @@ Traditional neighborhoods don't include private amenities, but Tampa Bay's publi
 
 Want culture? You're minutes from the Tampa Museum of Art, St. Petersburg's museum district, or Clearwater's arts scene. These aren't planned activities — they're real cultural institutions.
 
-![Public beach in Pinellas County with people of various ages enjoying the waterfront](PLACEHOLDER)
 
 ## Social Dynamics: The Unspoken Realities
 
@@ -125,7 +122,6 @@ Regular neighborhoods put you in charge of healthcare logistics. The upside? You
 
 Regular homeownership means you're responsible for everything. This provides control over quality and timing but requires either DIY skills or reliable contractor relationships. In Tampa Bay's competitive contractor market, having established community relationships helps.
 
-![Maintenance crew working on landscaping in a well-maintained 55+ community](PLACEHOLDER)
 
 ## Location Strategy: Where You Live Matters Most
 
@@ -173,7 +169,6 @@ Each area attracts different demographics and offers distinct lifestyles that 55
 - Want lower ongoing costs and fee flexibility
 - Like choosing your own contractors and service providers
 
-![Split image showing a diverse regular neighborhood street scene on left and organized 55+ community activities on right](PLACEHOLDER)
 
 ## Financial Planning Reality Check
 
@@ -203,7 +198,6 @@ Before falling in love with a specific property, honestly assess these factors:
 
 **Long-term Plans**: Might you want to relocate again? 55+ communities have limited buyer pools for resale.
 
-![Tampa Bay waterfront showing mix of community types and housing options](PLACEHOLDER)
 
 ## Tampa Bay Specific Advantages
 

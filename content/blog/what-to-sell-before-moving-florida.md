@@ -27,7 +27,6 @@ Moving to Florida means more than just changing your address — it's a complete
 
 Let me save you some money, space, and sanity. Here's exactly what to sell, donate, or store before your Florida move, and what's actually worth bringing down.
 
-![Person sorting through winter clothes and household items with "keep" and "sell" boxes](PLACEHOLDER)
 
 ## Winter Clothes and Gear: Time to Say Goodbye
 
@@ -71,7 +70,6 @@ Space heaters, wood stoves, and stockpiles of firewood are overkill for Florida 
 
 That heavy-duty leaf blower rated for snow removal? The industrial-strength ice scraper? The salt spreader? None of these make sense for Florida landscaping, where your biggest challenges are palm fronds and sand spurs.
 
-![Garage sale setup with winter items like coats, boots, and snow equipment with price tags](PLACEHOLDER)
 
 ## Furniture That Fights Florida's Climate
 
@@ -143,7 +141,6 @@ TVs, computers, kitchen appliances — these work the same everywhere and are ex
 
 Your car will work fine in Florida, but consider whether that all-wheel-drive SUV optimized for snow makes sense when you're paying higher gas prices and insurance rates for features you'll never use.
 
-![Living room with light, airy Florida-appropriate furniture including wicker chairs and light-colored sofa](PLACEHOLDER)
 
 ## The Smart Approach to Selling
 
@@ -193,7 +190,6 @@ If your company is paying for the move, weight restrictions might influence your
 
 Retirees often have the luxury of time to sell items gradually and thoughtfully. Take advantage of this to maximize returns on valuable items.
 
-![Organized closet showing Florida-appropriate clothing with light fabrics and summer items prominently displayed](PLACEHOLDER)
 
 ## Common Mistakes to Avoid
 

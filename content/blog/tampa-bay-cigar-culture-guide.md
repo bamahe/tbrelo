@@ -27,7 +27,6 @@ Tampa Bay isn't just another Florida metro area with some cigar shops scattered 
 
 I've been selling real estate in Tampa Bay for 23+ years, and I've watched neighborhoods evolve, but the cigar heritage here runs deeper than any development boom or bust. From historic Ybor City to modern lounges in Westshore, the cigar culture isn't just tourist theater — it's woven into how Tampa Bay actually works.
 
-![Historic Ybor City street view showing classic cigar shops and cafes](PLACEHOLDER)
 
 ## Why Tampa Bay Became America's Cigar Capital
 
@@ -59,7 +58,6 @@ This isn't in historic Ybor, but owner Yanko Maceda represents the modern contin
 
 **Real talk:** Their Tabanero Espresso blend costs $8-12 per stick, but it's genuinely comparable to $15+ cigars from other regions. The coffee notes aren't artificial flavoring — they age some tobacco with actual coffee beans.
 
-![Interior of a traditional cigar rolling workshop showing craftspeople at work](PLACEHOLDER)
 
 ### Metropolitan Cigars & Wine Bar (2014 E 7th Ave)
 
@@ -87,7 +85,6 @@ Family-owned since 1995, Kings Corona feels more like a neighborhood clubhouse t
 
 **Insider knowledge:** Owner Robert Corona will special-order specific cigars if you give him 2-3 weeks notice. His connections in Miami can get cigars that never make it to most Tampa shops.
 
-![Modern cigar lounge interior with leather seating and humidor displays](PLACEHOLDER)
 
 ### Downtown Tampa
 
@@ -113,7 +110,6 @@ Yes, the brewery also has cigars. Their outdoor beer garden allows smoking, and 
 
 **Unexpected pairing:** Their Florida Cracker wheat beer complements mild Connecticut-wrapped cigars better than you'd expect.
 
-![Outdoor cigar smoking area at waterfront location with Tampa Bay skyline view](PLACEHOLDER)
 
 ## Clearwater and Beaches
 
@@ -145,7 +141,6 @@ Tampa Bay's humidity is actually perfect for cigars — 65-75% most of the year.
 **Best smoking weather:** October through April, especially evenings
 **Indoor options:** Most shops and lounges have climate-controlled spaces
 
-![Close-up of premium cigars in a humidor with proper lighting and organization](PLACEHOLDER)
 
 ### Legal Landscape
 
@@ -184,7 +179,6 @@ Modern Tampa Bay cigar makers source from:
 
 **Local insight:** Many Tampa shops get first access to limited harvests because of long-standing relationships with growers.
 
-![Traditional cigar making tools and tobacco leaves laid out on wooden work surface](PLACEHOLDER)
 
 ## Food Pairings — Tampa Bay Style
 
@@ -223,7 +217,6 @@ Why it works: Both benefit from extended aging processes
 **Tampa Bay Cigar Festival** (November) - Three-day event featuring local and international brands
 **Ybor City Heritage Celebration** (October) - Historical demonstrations and vintage cigar displays
 
-![Outdoor cigar event with people enjoying cigars at tables under string lights](PLACEHOLDER)
 
 ## Investment and Collection Advice
 
@@ -291,7 +284,6 @@ Family-friendly area with growing cigar appreciation. Close proximity to quality
 
 Waterfront community where cigar smoking fits the upscale lifestyle. Properties range $500K-$2M+, many with water views perfect for evening cigars.
 
-![Residential neighborhood scene showing outdoor patio area suitable for cigar enjoyment](PLACEHOLDER)
 
 ## The Economics of Tampa Bay's Cigar Industry
 

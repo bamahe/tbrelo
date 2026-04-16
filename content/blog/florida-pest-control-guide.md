@@ -23,8 +23,6 @@ schema:
 featuredImage: "/images/blog/florida-pest-control-guide.webp"
 ---
 
-# Florida Pest Control — The Monthly Spray Is Not Optional
-
 You know that friend who moved to Florida and swore they'd never use a lawn service or pest control? Yeah, they're on the phone with Terminix right now, begging for an emergency appointment while a palmetto bug the size of a Buick just stared them down in their kitchen.
 
 Welcome to Florida, where the bugs didn't get the memo that your house is supposed to be a bug-free zone.
@@ -33,7 +31,6 @@ After 23+ years of helping families relocate to Tampa Bay, I've watched this sam
 
 Let me save you the trauma and explain why regular pest control isn't just recommended in Florida — it's basically a utility bill.
 
-![Florida homeowner spraying for pests around foundation of house with professional equipment](PLACEHOLDER)
 
 ## Why Florida Is Basically Australia for Bugs
 
@@ -88,7 +85,6 @@ Florida has over 50 spider species, including some you really don't want as room
 **Brown recluses**: Less common but present, particularly in undisturbed areas
 **Wolf spiders**: Large, hairy, and fast — basically designed to cause heart attacks
 
-![Close-up photo of common Florida household pests including palmetto bug, ants, and spider specimens](PLACEHOLDER)
 
 ### Silverfish and Firebrats
 
@@ -143,7 +139,6 @@ I get it. You're looking at $600-1,000 annually for pest control and thinking yo
 
 **The reality**: Professionals use commercial-grade products you can't buy retail. They know where to look, what to treat, and how to adjust treatments seasonally. Most importantly, they know the difference between a maintenance spray and a targeted treatment.
 
-![Professional pest control technician treating exterior of Florida home with proper equipment and protective gear](PLACEHOLDER)
 
 ## Choosing Your Pest Control Partner
 
@@ -207,7 +202,6 @@ Living in Tampa Bay comes with specific pest challenges that vary by area:
 - New landscaping establishment period
 - Neighbor inconsistency in pest control
 
-![Map showing different Tampa Bay neighborhoods and their specific pest control challenges](PLACEHOLDER)
 
 ## Beyond the Spray: Integrated Pest Management
 
@@ -280,7 +274,6 @@ Here's your realistic expectations for the first year:
 
 **Year 2+**: You understand that pest control is just part of living in paradise.
 
-![Before and after comparison showing a Florida home's pest activity levels with and without professional pest control](PLACEHOLDER)
 
 ## Cost vs. Value: The Hidden Savings
 

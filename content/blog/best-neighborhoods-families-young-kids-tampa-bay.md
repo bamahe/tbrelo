@@ -27,7 +27,6 @@ Finding the right neighborhood when you've got little ones in tow isn't just abo
 
 Tampa Bay's family-friendly neighborhoods span from the beaches to the suburbs, each with distinct personalities. Some prioritize A-rated schools, others focus on massive community pools and playgrounds. The best choice depends on your family's specific needs, timeline, and budget.
 
-![Aerial view of a tree-lined Tampa Bay suburban neighborhood with sidewalks, parks, and family homes](PLACEHOLDER)
 
 ## What Makes a Neighborhood Great for Young Families
 
@@ -91,7 +90,6 @@ Heritage Elementary and Hunter's Green Elementary both earn A ratings, while the
 
 What sets Pebble Creek apart: the community programming. Kids' movie nights by the pool, organized sports leagues, holiday events, and summer camps all happen within walking distance of your front door.
 
-![New Tampa neighborhood street with sidewalks, mature landscaping, and modern family homes](PLACEHOLDER)
 
 ## South Tampa's Premium Family Options
 
@@ -127,7 +125,6 @@ Brandon remains the established choice in East Tampa, offering mature neighborho
 
 The Brandon community offers extensive recreational opportunities through the county's park system, plus established shopping and dining options along SR 60. Families appreciate the suburban feel with reasonable prices and good school choices.
 
-![Family walking on sidewalk in Brandon neighborhood with mature oak trees and well-maintained homes](PLACEHOLDER)
 
 ## Pinellas County's Family-Friendly Communities
 
@@ -163,7 +160,6 @@ Wesley Chapel represents master-planned community living with family amenities t
 
 The area's schools continue improving, with several new elementary schools earning strong ratings. Wesley Chapel's location provides reasonable access to Tampa while maintaining suburban pricing and amenities.
 
-![Wesley Chapel community pool area with families enjoying recreational activities](PLACEHOLDER)
 
 ## Beach Communities for Families
 
@@ -200,7 +196,6 @@ School boundaries shift periodically, and new schools open regularly in growing 
 
 Tampa Bay traffic continues worsening, especially during school drop-off and pickup times. Factor realistic commute times into your decision, including how traffic patterns might change as your family's schedule evolves.
 
-![Tampa Bay area map showing family-friendly neighborhoods with schools and amenities marked](PLACEHOLDER)
 
 ## Amenities That Matter for Young Families
 
@@ -258,7 +253,6 @@ Remember that neighborhoods evolve. Areas like Riverview and Wesley Chapel have 
 
 The key is finding a community where your family can grow, connect, and thrive — not just for the next few years, but for the childhood memories your kids will carry forever.
 
-![Happy family with young children playing in their front yard in a Tampa Bay neighborhood](PLACEHOLDER)
 
 ## Frequently Asked Questions
 

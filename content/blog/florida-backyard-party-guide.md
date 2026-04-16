@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/florida-backyard-party-guide.webp"
 ---
 
-# How to Throw a Florida Backyard Party That Doesn't Suck
-
 Listen, I've been to enough Florida backyard parties to know the difference between the ones people still talk about months later and the ones where everyone bolts by 7 PM. After 23 years of living here and helping families settle into [Tampa Bay](/counties/hillsborough/), I've learned that throwing a successful Florida party isn't about having the biggest pool or the fanciest grill—it's about outsmarting the elements that make Florida simultaneously amazing and challenging.
 
 The good news? Once you nail the basics, your backyard becomes the neighborhood gathering spot. The bad news? Ignore these fundamentals, and you'll be hosting mosquito buffets where your guests spend more time swatting than socializing.
 
-![A well-planned Florida backyard party setup with plenty of shade, outdoor fans, and strategic lighting at golden hour](PLACEHOLDER)
 
 ## The Florida Party Planning Reality Check
 
@@ -53,7 +50,6 @@ The best investment I've seen homeowners make? Permanent shade sails stretched b
 
 But here's the game-changer most people miss: misting fans. Not those wimpy battery-powered things, but proper plug-in misting fans that create their own microclimate. Position three of them around your party area, and you've dropped the effective temperature by 10-15 degrees in those zones.
 
-![Outdoor misting fans creating cool zones under shade structures with guests enjoying conversations](PLACEHOLDER)
 
 Frozen towels in a cooler become VIP amenities. Sounds weird until you experience a chilled towel on your neck during a July gathering in [Hillsborough County](/counties/hillsborough/). Your guests will remember that detail.
 
@@ -100,7 +96,6 @@ Skip the mayo-based salads entirely. I don't care if your grandmother's potato s
 - Beer in galvanized tubs with frozen towels draped over the top
 - Sweet tea—this is the South, after all
 
-![A strategic outdoor food setup with covered dishes, multiple coolers, and shade protection for all perishables](PLACEHOLDER)
 
 ## Creating Functional Party Zones
 
@@ -131,7 +126,6 @@ Solar pathway lights work well for navigation but shouldn't be your primary ligh
 
 Candles in mason jars or hurricane lanterns provide intimate lighting while the glass barriers reduce bug attraction. Skip the citronella candles for primary lighting—they smell great but produce uneven light that's not flattering for anyone trying to take photos.
 
-![String lights creating warm ambiance in a Florida backyard setting with lanterns and strategic uplighting](PLACEHOLDER)
 
 ---
 
@@ -183,7 +177,6 @@ Sometimes Florida throws curveballs. Have a complete indoor alternative ready, o
 - Test music system and create backup playlist on multiple devices
 - Set up drink stations
 
-![A detailed timeline checklist showing all party preparation stages laid out on a table](PLACEHOLDER)
 
 ## Making It Memorable (Beyond Just Survival)
 
@@ -241,7 +234,6 @@ Once you've mastered the basics, consider these upgrades for regular entertainin
 - Summer parties need maximum cooling investment
 - Fall parties can extend later with proper lighting
 
-![A well-designed permanent outdoor entertaining space showing built-in features and infrastructure](PLACEHOLDER)
 
 ## The Aftermath: Cleanup That Doesn't Suck
 

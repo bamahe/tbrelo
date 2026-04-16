@@ -27,7 +27,6 @@ Moving to Tampa Bay means choosing between two distinctly different lifestyles. 
 
 Let me break down what each lifestyle actually looks like in Tampa Bay, with real neighborhoods, actual costs, and the kind of details that matter when you're making this decision from 1,200 miles away.
 
-![Aerial view showing downtown Tampa skyline contrasted with suburban neighborhoods in Westchase or New Tampa](PLACEHOLDER)
 
 ## Urban Tampa Bay: Downtown, Hyde Park, and Channelside Living
 
@@ -54,7 +53,6 @@ Urban Tampa Bay means:
 
 In St. Petersburg, **Downtown St. Pete** offers a more affordable urban experience. Condos start around $250,000, with walkable access to the Salvador Dalí Museum, dozens of craft breweries, and a genuinely vibrant arts scene.
 
-![Street view of Hyde Park Village showing walkable shops and restaurants with people dining outside](PLACEHOLDER)
 
 ### Urban Transportation Reality
 
@@ -92,7 +90,6 @@ Suburban Tampa Bay means master-planned communities with amenities, single-famil
 
 In [Pinellas County](/counties/pinellas/), **Countryside** and **Palm Harbor** offer suburban living closer to beaches, with homes from $300,000-$600,000. You sacrifice some amenities but gain beach access and generally lower costs.
 
-![New construction homes in a master-planned community showing modern suburban architecture with driveways and landscaping](PLACEHOLDER)
 
 ### Suburban Schools and Family Life
 
@@ -139,7 +136,6 @@ Suburban residents face higher transportation costs:
 - More vehicle maintenance from increased mileage
 - Higher insurance costs in some areas
 
-![Downtown Tampa condo building showing modern high-rise architecture with waterfront views](PLACEHOLDER)
 
 ### Dining and Entertainment Costs
 
@@ -167,7 +163,6 @@ Urban residents often have shorter commutes to downtown jobs, with some walking 
 
 Suburban residents typically drive 20-45 minutes to work but come home to more space, quiet, and separation between work and personal life. Remote work means dedicated home offices and fewer distractions.
 
-![Family-friendly suburban community showing playground, pool area, and walking trails](PLACEHOLDER)
 
 ## Schools: Where Suburban Clearly Wins
 
@@ -213,7 +208,6 @@ After helping thousands of families relocate, here's how I guide the suburban vs
 - You're comfortable with driving for most activities
 - You want a quieter, more predictable daily routine
 
-![Comparison showing downtown Tampa nightlife scene versus suburban community pool and recreational facilities](PLACEHOLDER)
 
 ### The Compromise Options
 

@@ -27,7 +27,6 @@ You're looking at two cities with nearly identical names, separated by about thr
 
 Let me cut through the confusion and give you the real story on both cities.
 
-![Aerial view showing the Cotee River separating New Port Richey and Port Richey with residential neighborhoods visible on both sides](PLACEHOLDER)
 
 ## The Basic Geography — Why Two Port Richeys?
 
@@ -58,7 +57,6 @@ Port Richey's median home price runs about $240,000 — roughly $45,000 less tha
 - **Waterfront premium:** Direct Gulf access properties can hit $500k+, but they're rare
 - **Fixer opportunities:** More homes needing significant updates, which can be good or bad depending on your situation
 
-![Comparison shot showing typical New Port Richey suburban neighborhood next to Port Richey's older, more compact residential area](PLACEHOLDER)
 
 The reality? Port Richey feels more like old Florida — smaller lots, older homes, less manicured but more authentic. New Port Richey feels more like modern suburbia transplanted to Florida.
 
@@ -117,7 +115,6 @@ Students typically attend Ridgewood High (same as New Port Richey) or Gulf High 
 
 The transportation factor matters here. New Port Richey kids often walk or bike to school. Port Richey kids face longer bus rides or car trips, especially for middle and high school.
 
-![Students walking to Ridgewood High School on a typical morning, showing the suburban setting](PLACEHOLDER)
 
 **Private School Options:**
 Both cities have access to private schools in nearby areas, including:
@@ -172,7 +169,6 @@ Most residents commute south to Hillsborough or Pinellas counties for work. Traf
 - Multiple golf courses including Timber Pines Country Club
 - Annual festivals like the Cotee River Bike Fest
 
-![Families enjoying a weekend festival at Sims Park with the Cotee River in the background](PLACEHOLDER)
 
 ### Port Richey Activities
 
@@ -234,7 +230,6 @@ The honest truth? New Port Richey offers significantly more to do within walking
 
 Both cities skew older than the national average, but Port Richey is distinctly more retirement-focused. New Port Richey has more working families and young professionals, though it's still primarily a 50+ community.
 
-![Mixed-age neighborhood scene in New Port Richey showing families with children alongside retired residents](PLACEHOLDER)
 
 ## Weather and Natural Disasters
 
@@ -302,7 +297,6 @@ This healthcare gap is significant, especially for the older demographic in both
 
 **Reality Check:** Most Port Richey residents drive to New Port Richey or surrounding areas for major shopping and dining.
 
-![Busy shopping plaza in New Port Richey showing typical suburban retail with plenty of parking](PLACEHOLDER)
 
 ## Crime and Safety Reality
 
@@ -362,7 +356,6 @@ After walking hundreds of clients through both cities, here's my straight assess
 - Lower property taxes
 - More affordable housing entry point
 
-![Side-by-side comparison showing New Port Richey's busier commercial area versus Port Richey's quieter residential streets](PLACEHOLDER)
 
 ## Making Your Decision: Practical Next Steps
 

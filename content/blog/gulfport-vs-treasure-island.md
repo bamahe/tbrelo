@@ -27,7 +27,6 @@ Two waterfront gems on opposite sides of the Pinellas Peninsula, Gulfport and Tr
 
 Gulfport gives you artsy small-town vibes with a quirky downtown, while Treasure Island delivers sugar-sand beaches with a resort town feel. Both communities offer waterfront living, but they attract completely different types of residents. Let's break down what makes each special and which might fit your Tampa Bay relocation better.
 
-![Aerial view showing Gulfport's downtown district and Treasure Island's beachfront hotels side by side](PLACEHOLDER)
 
 ## The Tale of Two Waters: Location and Setting
 
@@ -39,7 +38,6 @@ The water difference matters more than most people realize. Gulfport's bay water
 
 Distance-wise, both communities sit about 25 minutes from downtown Tampa and 45 minutes from Tampa International Airport. Gulfport edges slightly closer to St. Pete's cultural attractions, while Treasure Island offers quicker access to Clearwater Beach via the Treasure Island Causeway.
 
-![Gulfport's historic casino building and waterfront park with families enjoying the bay](PLACEHOLDER)
 
 ## Housing Market Reality Check
 
@@ -70,7 +68,6 @@ The condo association fees run $400-$800 monthly for most buildings, covering in
 
 One major consideration: flood insurance. Treasure Island properties often require it, adding $2,000-$4,000 annually. Gulfport's bay-side location typically sees lower flood insurance costs, though waterfront properties still need coverage.
 
-![Split image showing a charming Gulfport bungalow renovation and a modern Treasure Island beachfront condo](PLACEHOLDER)
 
 ## Lifestyle and Community Character
 
@@ -132,7 +129,6 @@ Top picks:
 
 The John's Pass area offers typical beach town fare — lots of fried seafood and tropical drinks. For serious dining, most residents drive to nearby St. Pete Beach or back to St. Petersburg.
 
-![Collage showing Gulfport's Tuesday market with local vendors and Treasure Island's beachfront dining scene](PLACEHOLDER)
 
 ## Schools and Family Considerations
 
@@ -209,7 +205,6 @@ Travel times:
 
 The tourist season (December-April) significantly impacts traffic flow. What takes 10 minutes in summer might require 20-25 minutes during snowbird season.
 
-![Traffic comparison showing Gulfport's quiet residential streets versus Treasure Island's busy causeway during peak season](PLACEHOLDER)
 
 ## Recreation and Outdoor Activities
 
@@ -263,7 +258,6 @@ Summer sea breezes provide natural cooling, but the open Gulf exposure can make 
 
 Hurricane evacuation becomes more critical for Treasure Island residents due to storm surge risks. The causeway can experience backups during mandatory evacuations.
 
-![Comparison showing Gulfport's protected bay during a storm versus Treasure Island's rougher Gulf conditions](PLACEHOLDER)
 
 ## Cost of Living Beyond Housing
 

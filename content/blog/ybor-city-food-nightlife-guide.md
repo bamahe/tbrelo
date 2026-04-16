@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/ybor-city-food-nightlife-guide.webp"
 ---
 
-# Ybor City Food and Nightlife Guide — The Complete Walkthrough
-
 Ybor City isn't just Tampa's historic district — it's the beating heart of the city's food and nightlife scene. After 23 years of showing clients around Tampa Bay, I've watched this neighborhood evolve from a gritty afterthought to Tampa's premier destination for serious eating and late-night fun. 
 
 Let me be direct: if you're moving to Tampa and you don't explore Ybor, you're missing half the reason to live here. This isn't some sanitized theme park version of nightlife. It's authentic, diverse, and has more character in one city block than most Florida towns have in their entire downtown.
 
-![Historic 7th Avenue in Ybor City showing the mix of historic architecture and modern restaurants](PLACEHOLDER)
 
 ## The Layout: Your Ybor Navigation Primer
 
@@ -71,7 +68,6 @@ Technically just outside Ybor proper, but you can't talk about Tampa food withou
 
 Order at least 4 tacos. The portions are authentic (read: smaller than Chipotle). Cash only.
 
-![The iconic Taco Bus with customers lined up outside for authentic Mexican food](PLACEHOLDER)
 
 ### Hamburger Mary's (1600 E 7th Ave)
 
@@ -97,7 +93,6 @@ This is what Ybor looked like before gentrification. Cash-only dive bar with poo
 
 Don't come here for craft cocktails. Do come here for cheap drinks and real conversation.
 
-![Interior of The Dirty Shame showing the classic dive bar atmosphere with pool tables and neon signs](PLACEHOLDER)
 
 ### Crowbar (1812 N 17th St)
 
@@ -139,7 +134,6 @@ Open until 3 AM Friday and Saturday, serving surprisingly good Italian-American 
 
 Kitchen stays open until 2 AM, serving decent pub food and their own beer. The wings are solid, and the burger ($13) hits the spot when you need to soak up alcohol. 
 
-![Late night crowd at Tampa Bay Brewing Company enjoying food and craft beer](PLACEHOLDER)
 
 ## Nightlife by Neighborhood Zone
 
@@ -167,7 +161,6 @@ The Dirty Shame, The Bricks, Crowbar, and Coyote Ugly are all here. This is wher
 
 Coppertail Brewing anchors this zone, along with newer spots that cater to Tampa's growing professional crowd.
 
-![Map showing the three distinct zones of Ybor City nightlife along 7th Avenue](PLACEHOLDER)
 
 ## Special Events and Timing
 
@@ -207,7 +200,6 @@ Ybor is generally safe in the main entertainment zones, but it's an urban enviro
 
 The Tampa Police maintain a strong presence, especially on weekends. Still, use common sense.
 
-![Tampa police officers patrolling 7th Avenue during weekend nightlife hours](PLACEHOLDER)
 
 ## Money Matters: What You'll Actually Spend
 
@@ -226,7 +218,6 @@ Most bars: Free Sunday-Wednesday, $5-10 Thursday-Saturday
 Special events: $15-25
 Live music venues: $10-20
 
-![Crowd enjoying drinks and food on the patio of a popular Ybor City restaurant](PLACEHOLDER)
 
 ## Insider Tips from 23 Years in Tampa
 
@@ -248,7 +239,6 @@ If you're moving to Tampa from a major city and worried about cultural life, spe
 
 If you're coming from a smaller town and nervous about urban nightlife, also spend a night in Ybor — but maybe start with dinner at Columbia and drinks at Gaspar's Grotto before diving into the deep end.
 
-![Panoramic view of 7th Avenue at night showing the neon lights and bustling nightlife scene](PLACEHOLDER)
 
 ---
 

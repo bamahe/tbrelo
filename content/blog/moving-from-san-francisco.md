@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/moving-from-san-francisco.webp"
 ---
 
-# Moving from San Francisco to Tampa Bay — The Complete Relocation Guide
-
 You're staring at your $4,800 rent statement for a 1-bedroom in SOMA, wondering if there's a better way to live. Spoiler alert: there is, and it's 2,876 miles southeast in Tampa Bay.
 
 After 23 years helping people relocate here — including dozens of former Bay Area residents — I can tell you the move from San Francisco to Tampa Bay isn't just about escaping California's costs. It's about rediscovering what your money can actually buy you.
 
-![Side-by-side comparison of San Francisco skyline and Tampa Bay skyline](PLACEHOLDER)
 
 ## Why San Francisco Residents Are Choosing Tampa Bay
 
@@ -78,7 +75,6 @@ Sure, the money part is obvious. But my SF transplant clients consistently menti
 
 **Parking:** Free. Everywhere. I know, it's weird at first.
 
-![Tampa Bay waterfront homes with pools and boats](PLACEHOLDER)
 
 ### Tax Savings Calculator
 
@@ -117,7 +113,6 @@ Miss that waterfront lifestyle? [Davis Islands](/neighborhoods/davis-islands/) d
 
 **Seminole Heights** channels Mission District energy — craft breweries, food trucks, vintage shops — but your rent won't require three roommates.
 
-![Hyde Park Tampa neighborhood street scene with shops and restaurants](PLACEHOLDER)
 
 ### For Family-Focused: Brandon & Fishhawk Ranch
 
@@ -159,7 +154,6 @@ The most straightforward route runs 2,876 miles and takes about 42 hours of actu
 - Long-carry fees (over 100 feet)
 - Storage needs in transit
 
-![Moving truck being loaded with boxes and furniture](PLACEHOLDER)
 
 ### Timing Your Move
 
@@ -212,7 +206,6 @@ If you're used to SF's competitive private school scene, Tampa offers quality op
 - Academy of the Holy Names: $18,500/year, all-girls Catholic
 - Tampa Preparatory School: $26,000/year, small class sizes
 
-![Students at Tampa Bay area school campus](PLACEHOLDER)
 
 ## Healthcare Transition
 
@@ -248,7 +241,6 @@ Yes, hurricanes are a thing. But Tampa Bay sits in a geographically protected ar
 
 **Preparation is key:** Hurricane windows, insurance, and evacuation plans are standard practice. It's not the constant terror SF makes it seem.
 
-![Tampa Bay skyline during a beautiful sunset](PLACEHOLDER)
 
 ## Cultural Adjustments
 
@@ -315,7 +307,6 @@ Tampa Bay's social scene is different from SF's. It's more family-oriented, less
 - Discover your favorite beaches
 - Plan first hurricane season if moving before October
 
-![New residents exploring Tampa Bay waterfront areas](PLACEHOLDER)
 
 ## Banking and Financial Services
 
@@ -359,7 +350,6 @@ Tampa Bay gives you space to breathe, financially and literally. Your money goes
 
 Is it perfect? No. But it's a damn good place to build a life that doesn't require six roommates and a trust fund.
 
-![Tampa Bay family enjoying their new waterfront home with pool](PLACEHOLDER)
 
 ## Frequently Asked Questions
 

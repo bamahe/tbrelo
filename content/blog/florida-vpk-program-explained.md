@@ -27,7 +27,6 @@ If you're moving to Florida with a 4-year-old, you just hit the educational lott
 
 After 23 years helping families relocate to Tampa Bay, I've seen the relief on parents' faces when they discover VPK. One less massive expense to worry about during a move. But like any government program, VPK has rules, deadlines, and quirks you need to understand.
 
-![Young children engaged in educational activities in a bright, colorful VPK classroom with teachers facilitating learning](PLACEHOLDER)
 
 ## What Is Florida's VPK Program?
 
@@ -97,7 +96,6 @@ Call your preferred VPK sites to confirm enrollment and ask about waiting lists.
 
 **Pro tip**: Don't wait until April. Popular providers fill up quickly, especially in desirable neighborhoods like South Tampa, Westchase, and Brandon.
 
-![Parents and a young child meeting with a VPK teacher or administrator in a school office setting, reviewing enrollment paperwork](PLACEHOLDER)
 
 ## Types of VPK Providers
 
@@ -257,7 +255,6 @@ Quality programs:
 
 **Red flags**: High teacher turnover, unlicensed staff, poor communication, chaotic environments, or programs that seem more focused on childcare than education.
 
-![Children playing and learning in an outdoor playground area at a VPK facility, with age-appropriate equipment and teachers supervising](PLACEHOLDER)
 
 ## VPK in Major Tampa Bay Areas
 

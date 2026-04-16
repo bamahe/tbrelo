@@ -27,7 +27,6 @@ Tampa Bay's live music scene doesn't get the credit it deserves. While Nashville
 
 After 23+ years of living here and countless nights discovering new bands (and rediscovering old favorites), I've mapped out the essential spots where Tampa Bay does music best. From intimate songwriter circles to full-blown festival stages, here's where the real music lives.
 
-![Outdoor amphitheater with Tampa Bay skyline in background during evening concert](PLACEHOLDER)
 
 ## The Amphitheaters: Where Big Names Come to Play
 
@@ -49,7 +48,6 @@ Right on Clearwater Harbor, this outdoor venue hosts everything from jazz festiv
 
 **Best feature:** The sunset views during evening shows. Arrive early, grab a spot near the water, and watch the sky turn orange behind the stage.
 
-![Waterfront concert venue with boats in harbor and stage silhouetted against sunset](PLACEHOLDER)
 
 ## Downtown Tampa: Where the Scene Lives
 
@@ -73,7 +71,6 @@ St. Pete's premier outdoor music venue sits in the middle of downtown, surrounde
 
 **Pre-show dinner:** Walk two blocks to [FarmTable Cucina](/blog/best-italian-restaurants-tampa-bay/) (205 5th Ave N) for their wood-fired pizzas, or grab craft cocktails at The Mill (200 Central Ave) before heading over.
 
-![Brick courtyard venue with stage surrounded by downtown buildings during evening performance](PLACEHOLDER)
 
 ## The Intimate Venues: Where Discovery Happens
 
@@ -99,7 +96,6 @@ This restored 1927 theater in downtown St. Pete books acts that understand the d
 
 **Parking:** Street meters are free after 6 PM, or use the Sundial parking garage (153 2nd Ave N) for $5-10. Everything in downtown St. Pete is walkable.
 
-![Historic theater interior with ornate ceiling and intimate seating during acoustic performance](PLACEHOLDER)
 
 ### The Crowbar
 
@@ -133,7 +129,6 @@ This waterfront park hosts outdoor concerts with Tampa Bay as the backdrop. The 
 
 **Logistics:** Free parking on surrounding streets, or pay $5 in nearby lots for convenience. Bring lawn chairs or blankets — this is Florida outdoor music at its finest.
 
-![Waterfront park concert with audience on grass lawn overlooking Tampa Bay at sunset](PLACEHOLDER)
 
 ## The Club Circuit: Where Genres Find Their Homes
 
@@ -167,7 +162,6 @@ While technically a performing arts center, the Mahaffey books music acts that b
 
 **Parking:** The attached garage costs $8-12, but downtown St. Pete offers plenty of alternatives within a few blocks.
 
-![Modern concert hall interior with stage lighting and formal seating during acoustic performance](PLACEHOLDER)
 
 ## Neighborhood Gems: The Local Discoveries
 
@@ -197,7 +191,6 @@ This brewery's outdoor stage hosts regular concerts in a setting that combines c
 
 **Beer:** Their Beach Blonde Ale pairs well with Florida sunshine and live music. Food trucks rotate, so check what's scheduled before you arrive.
 
-![Brewery patio with outdoor stage and string lights during evening acoustic set](PLACEHOLDER)
 
 ## Festival Season: When Tampa Bay Shows Off
 
@@ -233,7 +226,6 @@ Smart venue operators understand that good food keeps people happy and spending 
 
 **Before MidFlorida Credit Union Amphitheatre:** Your best bet is eating in nearby Tampa. The venue food is overpriced and underwhelming.
 
-![Restaurant patio with musicians setup in corner during dinner service](PLACEHOLDER)
 
 ---
 

@@ -47,7 +47,6 @@ Here's what's legal in Florida:
 
 The lower the VLT percentage, the darker the tint. So 15% VLT is much darker than 28% VLT.
 
-![Side-by-side comparison showing legal tint percentages on different vehicle types](PLACEHOLDER)
 
 ## Why the Different Rules for SUVs vs Sedans?
 
@@ -100,7 +99,6 @@ The certificate should include:
 
 I always tell my relocating clients to choose reputable shops that provide proper documentation. In Tampa Bay, shops like [Pro Tint Tampa](https://protinttampa.com) and Solar Shade Window Tinting have solid reputations and provide proper certificates.
 
-![Close-up of a Florida tint certificate showing VLT percentages](PLACEHOLDER)
 
 ## Penalties for Illegal Tint
 
@@ -183,7 +181,6 @@ Some newcomers consider temporary tint solutions like cling-on films while they 
 
 Invest in quality permanent tint from the start. The cost difference is minimal, and you'll avoid the hassle of multiple installations.
 
-![Professional tint installer working on a vehicle window](PLACEHOLDER)
 
 ## Regional Variations in Enforcement
 

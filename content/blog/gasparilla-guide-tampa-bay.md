@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/gasparilla-guide-tampa-bay.webp"
 ---
 
-# Gasparilla 101 — Everything You Need to Know Before Your First Pirate Invasion
-
 You've heard about Tampa's biggest party from coworkers, seen the social media posts, maybe even caught glimpses of pirates stumbling through downtown. But what exactly is Gasparilla, and how do you survive — and thrive at — your first invasion?
 
 After 23 years of helping families move to Tampa Bay, I've guided hundreds of newcomers through their first Gasparilla experience. Some emerge as converts, already planning next year's costume. Others swear it off forever after getting trapped in traffic for three hours. The difference? Knowing what you're getting into and planning accordingly.
 
-![Aerial view of Gasparilla parade floats proceeding down Bayshore Boulevard with massive crowds lining both sides](PLACEHOLDER)
 
 ## What Is Gasparilla, Really?
 
@@ -56,7 +53,6 @@ The modern celebration began in 1904 when Tampa's civic leaders created the even
 
 The Children's Gasparilla typically happens two weeks before the main event, making it perfect for families who want the experience without the adult beverage chaos.
 
-![Historic pirate ship with black sails approaching downtown Tampa waterfront with city skyline in background](PLACEHOLDER)
 
 ## Understanding the Parade Route
 
@@ -99,7 +95,6 @@ Arrive before 10:00 AM. Seriously. The good spots fill up fast, and by noon, you
 
 **Westshore**: Park at International Plaza or Westshore Plaza and Uber in. The surge pricing hurts, but it's often cheaper than downtown parking plus you avoid the traffic nightmare.
 
-![Crowded Bayshore Boulevard lined with spectators in pirate costumes watching colorful parade floats](PLACEHOLDER)
 
 ## What to Expect: The Good, Bad, and Ugly
 
@@ -141,7 +136,6 @@ You don't need an elaborate pirate costume, but you'll feel out of place without
 
 **Sunscreen and hat**: January in Tampa can be deceptively sunny. I've seen plenty of out-of-towners get burned.
 
-![Elaborate pirate float with costumed krewe members throwing beads to enthusiastic crowd below](PLACEHOLDER)
 
 ### Food and Drink Game Plan
 
@@ -195,7 +189,6 @@ Bayshore Boulevard closes to vehicle traffic around 8 AM and doesn't reopen unti
 
 **Walking/Biking**: If you're staying in Hyde Park or downtown, walking is often your fastest option. Bike racks fill up quickly near the parade route.
 
-![Families with children in pirate costumes enjoying beads and treats at the family-friendly Children's Gasparilla parade](PLACEHOLDER)
 
 ## Weather and What to Wear
 
@@ -231,7 +224,6 @@ Hyde Park restaurants and bars see heavy business post-parade. Make reservations
 
 This is the trickiest part. Traffic doesn't normalize until 8-9 PM. Consider extending your stay downtown for dinner rather than sitting in traffic.
 
-![Night scene of downtown Tampa streets filled with costumed revelers continuing the Gasparilla celebration after the parade](PLACEHOLDER)
 
 ## Beyond the Main Event
 

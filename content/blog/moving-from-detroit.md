@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/moving-from-detroit.webp"
 ---
 
-# Moving from Detroit to Tampa Bay — The Complete Relocation Guide
-
 If you're reading this from your house in Detroit, staring out at another gray January morning, I get it. After 23 years of helping families make this exact move, I've seen the same pattern: Michigan winters that seem to last forever, property taxes that sting, and that nagging feeling that life might be better somewhere warmer.
 
 Tampa Bay isn't just Florida's best-kept secret anymore — it's become the destination for smart relocations from the Rust Belt. And coming from Detroit? You're going to love what we've built down here.
 
-![Aerial view of Tampa Bay skyline with blue waters contrasting against a snowy Detroit cityscape split screen](PLACEHOLDER)
 
 Let me walk you through exactly what this move looks like, from the financial reality to finding your perfect neighborhood. No fluff, just the straight story from someone who's helped hundreds of Detroit families make Tampa Bay home.
 
@@ -62,7 +59,6 @@ Here's what no state income tax means for your wallet:
 
 Add in lower property taxes, and a Detroit family making $100k saves roughly $5,000 per year. That's a nice vacation fund, or faster mortgage payoff, or simply breathing room.
 
-![Calculator and tax documents showing Florida's zero state income tax benefit](PLACEHOLDER)
 
 ---
 
@@ -111,7 +107,6 @@ Family suburbs, good schools, chain restaurants, easy commutes. Home prices: $35
 **If Downtown Detroit was home → Downtown St. Pete wins**  
 Waterfront living, cultural scene, walkable everything, actual year-round vibrancy. Condos: $300k-800k.
 
-![Side-by-side comparison of similar neighborhood styles between Detroit and Tampa Bay](PLACEHOLDER)
 
 ## The Weather Upgrade (It's Not Just About Heat)
 
@@ -169,7 +164,6 @@ The psychological shift is huge. When December hits and you're wearing shorts to
 
 The job market here is diversified enough that single-industry crashes (hello, 2008 Detroit) don't devastate the entire region.
 
-![Professional working from a Tampa Bay office with palm trees visible through windows](PLACEHOLDER)
 
 ## Getting Your Stuff Here — Shipping and Moving Costs
 
@@ -219,7 +213,6 @@ Save money and headaches by leaving these in Detroit:
 
 Most families drive one car down and ship the second. It's an adventure and saves money.
 
-![Moving truck on I-75 South with Florida Welcome sign in background](PLACEHOLDER)
 
 ## The Drive Down — I-75 South Adventure
 
@@ -268,7 +261,6 @@ Coming from Detroit Public Schools? Every Tampa Bay county will feel like an upg
 
 The difference from Detroit? Consistent funding, parental involvement, and teachers who aren't burned out. Your kids will notice immediately.
 
-![Students at a Tampa Bay area school with modern facilities and palm trees on campus](PLACEHOLDER)
 
 ---
 
@@ -349,7 +341,6 @@ What takes months in Detroit often takes weeks here:
 - **Downtown:** Saturday Morning Market, festivals
 - **Beach Drive:** Waterfront dining and culture
 
-![People enjoying outdoor activities at Tampa Bay beaches with Detroit skyline comparison](PLACEHOLDER)
 
 ## Timeline and Planning Your Move
 
@@ -411,7 +402,6 @@ What takes months in Detroit often takes weeks here:
 
 **Aging in Place:** When retirement comes, you're already in the perfect climate.
 
-![Tampa International Airport interior showing modern amenities and palm trees](PLACEHOLDER)
 
 ## Common Concerns (And The Reality)
 
@@ -460,7 +450,6 @@ What takes months in Detroit often takes weeks here:
 
 The Tampa Bay transplant community is massive and welcoming. You'll find Detroit connections everywhere, plus make new friends who chose paradise too.
 
-![Group of people at a Tampa Bay beach event, showing diverse community gathering](PLACEHOLDER)
 
 ---
 

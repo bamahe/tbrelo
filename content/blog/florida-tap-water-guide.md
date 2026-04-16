@@ -23,15 +23,12 @@ schema:
 featuredImage: "/images/blog/florida-tap-water-guide.webp"
 ---
 
-# The Truth About Florida Tap Water (And What to Do About It)
-
 Moving to Florida? Congratulations on escaping winter. Now let's talk about something nobody mentions until you're already unpacking boxes: your tap water is going to taste like a science experiment gone wrong.
 
 After 23 years of helping families relocate to Tampa Bay, I've fielded more panicked calls about water quality than home inspections. "Barrett, is our water safe to drink?" "Why does it smell like eggs?" "Did we move next to a swamp?"
 
 Here's the straight truth about Florida's tap water — what causes those funky tastes and smells, which areas have it worst, and exactly how to fix it without breaking the bank.
 
-![Florida resident looking confused while holding a glass of tap water with a questionable expression](PLACEHOLDER)
 
 ## Why Florida Tap Water Tastes Different
 
@@ -54,7 +51,6 @@ Not all Florida water is created equal. In Tampa Bay:
 
 The closer you are to the coast, the more likely you'll encounter that distinctive "Florida water" experience.
 
-![Map showing water quality variations across Tampa Bay counties](PLACEHOLDER)
 
 ## The Big Three: Hard Water, Sulfur, and Chlorine
 
@@ -130,7 +126,6 @@ Florida water treatment plants use more chlorine than northern facilities becaus
 
 **Average hardness**: 16-20 grains per gallon
 
-![Before and after comparison of dishes washed with hard water vs soft water](PLACEHOLDER)
 
 ## The Hidden Costs of Bad Water
 
@@ -188,7 +183,6 @@ Those white spots on everything? You'll buy specialty cleaners to remove mineral
 
 **Cost**: $40 pitcher, $15 replacement filters (monthly replacement needed)
 
-![Comparison of different water filtration systems on a kitchen counter](PLACEHOLDER)
 
 ## Solution #2: Whole-House Systems
 
@@ -239,7 +233,6 @@ Those white spots on everything? You'll buy specialty cleaners to remove mineral
 
 **Environmental impact**: A family of four generates 300+ plastic bottles annually with single-use water.
 
-![Side-by-side cost comparison chart showing bottled water vs filtration systems over 5 years](PLACEHOLDER)
 
 ## The Installation Timeline
 
@@ -326,7 +319,6 @@ Florida tap water isn't dangerous — it's just different. The minerals that mak
 
 The good news? Once you solve your water issues, you'll have one less thing separating you from paradise. And trust me, after your first winter without snow shovels, you won't care that your water tastes like it came from a limestone cave.
 
-![Happy Florida family enjoying clean, filtered water in their kitchen](PLACEHOLDER)
 
 ## Frequently Asked Questions
 

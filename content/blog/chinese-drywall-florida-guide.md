@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/chinese-drywall-florida-guide.webp"
 ---
 
-# Chinese Drywall in Florida — Is It Still an Issue?
-
 If you're house hunting in Florida, especially looking at homes built between 2001-2009, you've probably heard whispers about "Chinese drywall." Maybe your REALTOR mentioned it during a showing, or you stumbled across horror stories online about homes that became uninhabitable overnight.
 
 Here's the straight truth: Chinese drywall was a real problem that affected thousands of Florida homes, but it's not the boogeyman under every bed. After helping families navigate Tampa Bay real estate for over two decades, I've seen the panic, the lawsuits, and the remediation. More importantly, I know what you actually need to worry about in 2024.
 
-![Before and after photos showing corroded copper pipes and HVAC coils damaged by Chinese drywall](PLACEHOLDER)
 
 ## What Exactly Is Chinese Drywall?
 
@@ -77,7 +74,6 @@ Not every neighborhood faced equal risk. The most affected areas in our market i
 - High-end custom homes (builders often used premium materials)
 - Areas that relied primarily on local suppliers
 
-![Map showing Chinese drywall concentration in Tampa Bay counties with affected neighborhoods highlighted](PLACEHOLDER)
 
 The pattern was clear: wherever builders were working fast with the cheapest available materials, Chinese drywall appeared.
 
@@ -127,7 +123,6 @@ For a typical 2,000 square foot home:
 
 These numbers reflect 2024 labor and material costs. Smaller homes might see $40,000 total, while larger homes can exceed $120,000.
 
-![Before and after photos of a home's interior during complete Chinese drywall remediation showing stripped walls and new installation](PLACEHOLDER)
 
 ## Current Market Reality in 2024
 
@@ -202,7 +197,6 @@ After helping dozens of families navigate Chinese drywall situations, here's my 
 
 **Understand your exit strategy**: If testing reveals problems, you'll need clear contractual language allowing you to terminate or renegotiate.
 
-![Professional home inspector using specialized equipment to test for Chinese drywall in a Florida home](PLACEHOLDER)
 
 ## Geographic Considerations by County
 
@@ -283,7 +277,6 @@ Chinese drywall's market impact has evolved significantly:
 
 The stigma has largely faded as the crisis moved into the rearview mirror. Younger buyers, especially, treat it as just another inspection item rather than a deal-killer.
 
-![Real estate market data chart showing the recovery of Chinese drywall affected home values in Tampa Bay from 2009 to 2024](PLACEHOLDER)
 
 Consider this: a home that went through complete Chinese drywall remediation essentially has new electrical, plumbing, HVAC, and drywall systems. From a purely practical standpoint, that's often superior to a comparable home with original 2005 systems.
 

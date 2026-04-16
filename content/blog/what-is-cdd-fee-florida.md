@@ -27,7 +27,6 @@ You're house hunting in Tampa Bay and find the perfect home. Great neighborhood,
 
 Let me break this down for you. After 23 years of Tampa Bay real estate, I've seen CDD fees confuse more buyers than hurricane insurance requirements. Here's everything you need to know about Community Development District fees — what they are, why they exist, and how they'll impact your homeownership costs.
 
-![Modern Florida subdivision with new homes and infrastructure showing CDD-funded amenities](PLACEHOLDER)
 
 ## What Is a CDD Fee?
 
@@ -57,7 +56,6 @@ For developers, CDDs make financial sense. They can build complete communities w
 
 Counties love CDDs because they transfer infrastructure responsibilities to someone else. The county collects property taxes from new homes without having to provide services — the CDD handles that. It's a win-win for local government budgets.
 
-![Aerial view of a Florida community showing CDD-maintained roads, parks, and stormwater systems](PLACEHOLDER)
 
 ## What CDD Fees Cover
 
@@ -106,7 +104,6 @@ Many buyers confuse CDD fees with HOA fees, but they serve different purposes:
 
 Absolutely. Many newer Tampa Bay communities have both CDD fees AND HOA fees. For example, homes in Mirada (San Antonio) might carry a $1,200 annual CDD fee plus $150 monthly HOA dues. The CDD maintains public infrastructure while the HOA handles private amenities like the clubhouse and enforces architectural standards.
 
-![Close-up of a Florida property tax bill showing CDD assessment line item](PLACEHOLDER)
 
 ## How Much Are CDD Fees in Tampa Bay?
 
@@ -164,7 +161,6 @@ As bonds near payoff, some portion of CDD fees should decrease. However, aging i
 ### Post-Bond Period
 Once bonds are paid off (typically 20-30 years), CDD fees should drop significantly — often by 60-80%. The remaining fee covers ongoing maintenance and administration.
 
-![Before and after comparison showing undeveloped land versus completed CDD community with infrastructure](PLACEHOLDER)
 
 ## Red Flags: When CDD Fees Become Problems
 

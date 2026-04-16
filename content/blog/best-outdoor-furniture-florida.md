@@ -23,13 +23,10 @@ schema:
 featuredImage: /images/blog/default.webp
 ---
 
-# Best Outdoor Furniture That Survives Florida Weather
-
 Living in Tampa Bay for over two decades has taught me one thing about outdoor furniture: most of it isn't built for our climate. I've watched countless homeowners drop thousands on beautiful patio sets, only to see them fade, rust, or fall apart within two years. The humidity, salt air, intense UV rays, and daily afternoon thunderstorms create a perfect storm for furniture destruction.
 
 But here's the good news — some outdoor furniture actually thrives in Florida conditions. After helping hundreds of families settle into their new Tampa Bay homes, I've learned which brands and materials stand the test of time. This guide covers the furniture that'll still look great when your neighbors are shopping for their third replacement set.
 
-![Various outdoor furniture pieces on a Florida patio with palm trees and pool in background](PLACEHOLDER)
 
 ## Why Florida Weather Destroys Most Outdoor Furniture
 
@@ -70,7 +67,6 @@ High-density polyethylene (HDPE) wicker looks like natural rattan but laughs at 
 
 316-grade stainless steel handles salt air without issues. Anything less will show rust spots within months. Perfect for modern, minimalist designs but expect to pay premium prices.
 
-![Close-up shots of different outdoor furniture materials showing weathering resistance](PLACEHOLDER)
 
 ## Top Outdoor Furniture Brands for Florida
 
@@ -122,7 +118,6 @@ Nothing beats teak for natural beauty and longevity. These tables develop charac
 
 **[Westminster Teak Dining Set]({{amazon:B08XXXXX}})** - Complete six-person set with table, chairs, and cushions. Around $4,200 but includes everything needed.
 
-![Elegant outdoor dining set on a covered Florida patio with ceiling fans](PLACEHOLDER)
 
 ## Seating Solutions for Every Space
 
@@ -150,7 +145,6 @@ Dining chairs get the most abuse — dragged across decks, stacked and stored, e
 
 **[Westminster Teak Surf Chairs]({{amazon:B08XXXXX}})** - Armless design saves space, natural teak ages beautifully. $285 each, perfect for smaller patios.
 
-![Various outdoor seating arrangements showing different styles and materials](PLACEHOLDER)
 
 ## Cushions and Fabrics That Don't Quit
 
@@ -202,7 +196,6 @@ Even in Florida, those January evenings can get chilly. Fire features extend out
 
 **[Napoleon Patio Flame]({{amazon:B08XXXXX}})** - Propane fire table doubles as regular table. Glass top, aluminum construction. Around $800.
 
-![Fire pit surrounded by outdoor furniture on a Florida evening patio setting](PLACEHOLDER)
 
 ## Maintenance Tips That Actually Work
 
@@ -240,7 +233,6 @@ Better selection, competitive prices, detailed reviews. But shipping costs for f
 
 **Shipping Reality Check:** Large dining sets cost $200-400 to ship to Tampa Bay. Factor this into price comparisons.
 
-![Outdoor furniture showroom displaying various weather-resistant pieces](PLACEHOLDER)
 
 ## Budget Planning for Quality
 
@@ -331,7 +323,6 @@ Furniture covers extend life but must breathe to prevent mold. Look for covers w
 
 Aluminum and synthetic furniture stores well in garages. Teak should stay outside to maintain proper moisture levels.
 
-![Outdoor furniture properly covered and secured for hurricane season](PLACEHOLDER)
 
 ## Frequently Asked Questions
 

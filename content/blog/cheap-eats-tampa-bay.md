@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/cheap-eats-tampa-bay.webp"
 ---
 
-# Best Cheap Eats in Tampa Bay — Under $15 Meals That Don't Suck
-
 After 23 years of helping families move to Tampa Bay, I've eaten at more strip mall gems and hole-in-the-wall spots than I care to count. Truth is, some of the best food here costs under $15 — you just need to know where to look.
 
 I'm not talking about chain restaurants or fast-casual nonsense. These are the places locals actually go, where you can feed yourself well without dropping $30 on mediocre "artisanal" whatever.
 
-![Tampa Bay food scene showing diverse local restaurants with outdoor seating and affordable meal options](PLACEHOLDER)
 
 ## Why Tampa Bay's Cheap Eats Scene Actually Rocks
 
@@ -59,7 +56,6 @@ Cash only. Cuban sandwich $7.50. The bread-to-filling ratio is perfect, and they
 
 The neighborhood looks sketchy if you're not used to it, but this place has been feeding locals since 1974.
 
-![Authentic Cuban sandwich with traditional ingredients pressed on Cuban bread](PLACEHOLDER)
 
 ## Taco Trucks and Mexican Joints Under $12
 
@@ -101,7 +97,6 @@ Vietnamese-Chinese fusion. The broken rice plates (com tam) run $11-13 and inclu
 
 Also excellent banh mi, but the real secret is the Vietnamese iced coffee for $3.50 — strong enough to power you through a Tampa afternoon.
 
-![Steaming bowl of authentic Vietnamese pho with fresh herbs and lime](PLACEHOLDER)
 
 ## Pizza That Doesn't Suck (Under $15 Per Person)
 
@@ -143,7 +138,6 @@ Lebanese family-owned. Shawarma plate $12, but the portions are massive. The chi
 
 The manousheh (Lebanese flatbread) for breakfast runs $4-6 and beats any overpriced avocado toast nonsense.
 
-![Middle Eastern mixed grill plate with lamb, chicken, rice, and fresh vegetables](PLACEHOLDER)
 
 ## Barbecue Without the Tourist Markup
 
@@ -185,7 +179,6 @@ Tom kha gai (coconut chicken soup) $11.95. This isn't watery coconut water with 
 
 Their lunch specials run $8.95-10.95 and include soup, salad, and entree. Actual value.
 
-![Steaming bowl of Thai tom kha soup with coconut milk, lemongrass, and chicken](PLACEHOLDER)
 
 ## Breakfast and Brunch Under $12
 
@@ -227,7 +220,6 @@ The grouper reuben ($13.95) — grilled grouper, sauerkraut, Swiss, thousand isl
 
 Skip the touristy Clearwater Beach location. The Dunedin spot has better service and easier parking.
 
-![Fresh grouper sandwich with lettuce and tomato on a sesame bun](PLACEHOLDER)
 
 ## Italian That Isn't Just Olive Garden
 
@@ -261,7 +253,6 @@ Tourist location, but the food trucks rotate and keep prices reasonable. Most it
 
 Great for groups where people want different cuisines.
 
-![Diverse food court scene with multiple vendors serving affordable international cuisine](PLACEHOLDER)
 
 ---
 
@@ -307,7 +298,6 @@ University area means student-friendly pricing. Lots of international options ca
 
 Beyond the nightlife, Ybor has working-class Cuban and Mexican spots that haven't been touristified yet. Just avoid the 7th Avenue strip on weekend nights.
 
-![Street view of local restaurant strip mall showing diverse affordable dining options](PLACEHOLDER)
 
 ## What to Avoid (Red Flags for Tourist Traps)
 

@@ -27,7 +27,6 @@ New Year's Eve in Tampa Bay hits different than anywhere else. While other citie
 
 After 23 years of helping families move here, I've celebrated my fair share of NYE in Tampa Bay — from intimate rooftop dinners in Hyde Park to massive street parties in Ybor City. Here's your complete guide to ringing in the new year the Tampa Bay way.
 
-![Tampa Bay skyline at night with fireworks over the water during New Year's Eve celebration](PLACEHOLDER)
 
 ## The Big Public Celebrations
 
@@ -58,7 +57,6 @@ This isn't an organized event with stages and vendors — it's more like a massi
 - Great photo ops with the skyline backdrop
 - Less crowded than Channel District madness
 
-![Families gathered on blankets at Curtis Hixon Park with Tampa skyline in background during NYE](PLACEHOLDER)
 
 ### Ybor City First Night
 
@@ -93,7 +91,6 @@ Ocean Prime in Westshore transforms into a NYE wonderland with their annual gala
 
 Expect to pay around $250-300 per person for a fixed menu that typically includes items like lobster cocktail, prime beef tenderloin, and their famous chocolate peanut butter cake. The crowd skews upscale professional — think lawyers, doctors, and successful business owners celebrating in style.
 
-![Elegant dining room at Ocean Prime decorated for New Year's Eve with champagne and formal place settings](PLACEHOLDER)
 
 ### Sparkman Wharf Pop-Up Celebrations
 
@@ -124,7 +121,6 @@ The Westshore area offers a more upscale nightlife experience for NYE. Think roo
 - **Oystercatchers** — Waterfront dining that transitions to lounge atmosphere
 - **The Salt Shack** — Casual beachside vibe despite being inland
 
-![Rooftop bar scene at The Epicurean hotel with city lights and people toasting champagne](PLACEHOLDER)
 
 ### Ybor City Bar Crawl
 
@@ -168,7 +164,6 @@ These events typically feature:
 - Waterfront terraces for fireworks viewing
 - Transportation coordination with downtown hotels
 
-![Luxury yacht club dining room with harbor views and elegant NYE decorations](PLACEHOLDER)
 
 ## Family-Friendly Options
 
@@ -216,7 +211,6 @@ Downtown Tampa parking becomes a nightmare on NYE. Expect to pay $40-60 for even
 
 **Designated Driver:** The responsible choice, but good luck finding parking.
 
-![TECO Line streetcar decorated with lights traveling through downtown Tampa on New Year's Eve](PLACEHOLDER)
 
 ## Weather and What to Wear
 

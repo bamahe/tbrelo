@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/moving-florida-from-canada.webp"
 ---
 
-# Moving to Florida from Canada — Immigration and Lifestyle Guide
-
 If you're reading this from somewhere north of the border, you've probably spent enough winters scraping ice off your windshield while dreaming of palm trees. Florida's been the Canadian escape route for decades, and for good reason — no state income tax, year-round warmth, and a Canadian expat community so established you'll find Tim Hortons in some Florida cities.
 
 But moving from Canada to Florida isn't just about packing your bags and booking a flight. There's immigration paperwork, tax implications, and lifestyle adjustments that can trip up even the most prepared relocator. After helping hundreds of Canadian families navigate this move over the past 23+ years, I've learned which details matter and which ones are just bureaucratic noise.
 
-![Canadian family standing next to moving truck with Florida license plates, house keys in hand](PLACEHOLDER)
 
 ## The Canadian Invasion of Florida (And Why It Makes Sense)
 
@@ -66,7 +63,6 @@ The 183-day rule is crucial: spend 183+ days in the US during any calendar year,
 
 ## Tax Implications: The Numbers That Actually Matter
 
-![Tax documents spread on desk with Canadian and US flags, calculator and pen nearby](PLACEHOLDER)
 
 ### US Tax Residency Tests
 
@@ -132,7 +128,6 @@ Services like Wise (formerly TransferWise) or Remitly often beat bank exchange r
 
 ## Healthcare: Navigating the American System
 
-![Doctor's office waiting room with Canadian and American health insurance brochures on table](PLACEHOLDER)
 
 ### The Reality Check
 
@@ -214,7 +209,6 @@ For a complete breakdown of moving logistics, check out our [comprehensive movin
 
 **Pro tip**: Often easier to sell Canadian vehicle and buy in Florida, especially given insurance rate differences.
 
-![Moving truck at US-Canada border crossing with customs building in background](PLACEHOLDER)
 
 ## Lifestyle Adjustments: What Nobody Tells You
 

@@ -29,7 +29,6 @@ Tampa Bay brings big-city energy with beaches 20 minutes away, while Gainesville
 
 Let me break down what actually matters for your decision.
 
-![Aerial view comparing Tampa Bay skyline with downtown skyscrapers against Gainesville's more suburban, tree-covered landscape](PLACEHOLDER)
 
 ## Size and Scale: Metro vs College Town
 
@@ -63,7 +62,6 @@ Groceries, utilities, and services generally run 15-20% higher in Tampa Bay. A b
 
 However, Tampa Bay salaries often offset this difference — more on that below.
 
-![Split image showing typical suburban neighborhoods in both cities, highlighting architectural styles and lot sizes](PLACEHOLDER)
 
 ## Job Market and Career Growth
 
@@ -111,7 +109,6 @@ Both cities sit in central/north-central Florida, so climate differences are sub
 
 Realistically, both places are hot and humid May through September. The differences won't make or break your decision.
 
-![Beach scene from Tampa Bay area showing Gulf Coast waters and recreational activities](PLACEHOLDER)
 
 ## Lifestyle and Recreation
 
@@ -184,7 +181,6 @@ Traffic exists but remains manageable. Crossing town rarely takes more than 20 m
 
 **Airports:** Gainesville Regional for small aircraft; Jacksonville (1.5 hours) or Orlando (2 hours) for major flights.
 
-![Comparison of downtown areas showing Tampa Bay's urban skyline versus Gainesville's more compact city center](PLACEHOLDER)
 
 ## Healthcare and Amenities
 
@@ -257,7 +253,6 @@ The Oaks Mall anchors traditional shopping. Butler Plaza offers big-box stores a
 
 **Local flavor:** Downtown Gainesville preserves local businesses, but selection is obviously smaller than Tampa Bay.
 
-![Cultural venues comparison showing Tampa Bay's performing arts centers alongside Gainesville's campus cultural facilities](PLACEHOLDER)
 
 ## Drawbacks: What Each City Does Poorly
 
@@ -303,7 +298,6 @@ Gainesville provides excellent value, educated community, and college town energ
 
 Neither choice is wrong — they're just different paths through Florida living.
 
-![Side-by-side lifestyle scenes showing families enjoying typical activities in both cities](PLACEHOLDER)
 
 ## Frequently Asked Questions
 

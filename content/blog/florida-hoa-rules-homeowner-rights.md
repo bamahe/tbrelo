@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/florida-hoa-rules-homeowner-rights.webp"
 ---
 
-# HOA Rules in Florida — Your Rights as a Homeowner
-
 Living in a homeowners association community in Florida isn't just about perfectly manicured lawns and shared amenities. It's about understanding a complex web of rules, regulations, and — most importantly — your rights as a homeowner. After 23 years of helping Tampa Bay families navigate HOA communities, I've seen how confusing and intimidating these associations can be.
 
 Here's what every Florida homeowner needs to know about HOA rules and your rights under state law.
 
-![Florida HOA community with palm trees, clubhouse, and residential homes showing typical managed community features](PLACEHOLDER)
 
 ## Understanding Florida's HOA Legal Framework
 
@@ -70,7 +67,6 @@ All HOA board meetings must be open to members, with limited exceptions for pers
 
 Your HOA cannot ban recording of meetings unless specifically prohibited in the governing documents. Many communities in [Pinellas County](/counties/pinellas/) have adopted policies allowing recording, which increases transparency and accountability.
 
-![HOA board meeting in progress with residents attending, showing community engagement and transparency](PLACEHOLDER)
 
 ## Financial Transparency and Reserve Requirements
 
@@ -135,7 +131,6 @@ Most HOA governing documents require approval before making exterior modificatio
 
 In my experience working with communities from Carrollwood to Brandon, the biggest conflicts arise when ARCs apply standards inconsistently or fail to respond within required timeframes.
 
-![Florida home with well-maintained landscaping and exterior showing typical HOA community standards](PLACEHOLDER)
 
 ## Enforcement Powers and Violation Procedures
 
@@ -203,7 +198,6 @@ Many Tampa Bay communities have significant seasonal resident populations, parti
 
 Successful communities establish clear communication channels and consider electronic voting options to keep seasonal residents engaged.
 
-![Florida community pool and clubhouse area showing typical HOA amenities during sunny weather](PLACEHOLDER)
 
 ## When to Get Professional Help
 

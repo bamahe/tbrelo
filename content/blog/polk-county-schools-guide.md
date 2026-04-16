@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/polk-county-schools-guide.webp"
 ---
 
-# The Complete Guide to Polk County Schools: What Tampa Bay Families Need to Know
-
 When families consider moving to the greater Tampa Bay area, Polk County often flies under the radar. That's a mistake. With affordable housing, shorter commutes to Tampa, and a school district that's been quietly improving for years, Polk County deserves serious consideration.
 
 I've worked with hundreds of families relocating to this area, and the school question always comes up. Here's what you need to know about Polk County schools — the good, the challenging, and everything in between.
 
-![Polk County school building with students walking outside during dismissal](PLACEHOLDER)
 
 ## Polk County Schools by the Numbers
 
@@ -114,7 +111,6 @@ Sports Leadership and Management Academy in Davenport combines athletics with co
 
 ## Geographic Breakdown: Schools by City
 
-![Map showing major cities and school zones across Polk County](PLACEHOLDER)
 
 ### Lakeland Schools
 
@@ -221,7 +217,6 @@ While public schools dominate, Polk County offers private options:
 
 **The Out-of-Door Academy:** With a Lakeland campus, this prestigious school offers rigorous academics but comes with a hefty price tag: $20,000+ annually.
 
-![Students participating in a science experiment in a modern Polk County classroom](PLACEHOLDER)
 
 ## Cost of Living and School Quality Connection
 

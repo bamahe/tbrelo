@@ -27,7 +27,6 @@ The days of finding decent homes under $300K in Tampa Bay are mostly behind us, 
 
 Let's cut through the noise. You're not getting waterfront in South Tampa or a golf course community in Westchase at this price point. But you can absolutely find solid neighborhoods with good bones, decent schools, and room to grow equity.
 
-![Aerial view of a typical Tampa Bay suburban neighborhood showing single-story homes with tile roofs and mature trees](PLACEHOLDER)
 
 ## The Reality Check on $400K in Tampa Bay
 
@@ -77,7 +76,6 @@ Brandon isn't what it was 15 years ago price-wise, but pockets still offer solid
 
 You'll find established neighborhoods with mature oak trees, reasonable HOA fees (under $200/month), and a genuine sense of community. Many homes need cosmetic updates, which creates negotiating room.
 
-![Street view of a Brandon neighborhood showing well-maintained homes with mature landscaping and sidewalks](PLACEHOLDER)
 
 ### Temple Terrace
 
@@ -142,7 +140,6 @@ Seffner sits right between Brandon and Plant City, offering suburban convenience
 
 Rural feel with suburban access. Large lots, privacy, and room for boats or RVs. Perfect for buyers who want space to breathe.
 
-![Single-story home in Thonotosassa showing large lot with mature trees and space for recreational vehicles](PLACEHOLDER)
 
 For more detailed information about Hillsborough County communities and market trends, check our [comprehensive county guide](/counties/hillsborough/).
 
@@ -215,7 +212,6 @@ Lakeland proper offers small-city amenities with Tampa Bay access. The northwest
 - Community amenities
 - Better school districts
 
-![Modern kitchen in a $375K home showing updated appliances, granite countertops, and open floor plan](PLACEHOLDER)
 
 ---
 

@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/hillsborough-county-schools-guide.webp"
 ---
 
-# Hillsborough County Schools Guide — Every Zone Explained
-
 You're house hunting in Tampa Bay, and the first question isn't about granite countertops or swimming pools. It's about schools. Smart move. After 23 years helping families relocate here, I've seen too many people fall in love with a house only to discover their kids would be zoned to a struggling school.
 
 Hillsborough County runs the eighth-largest school district in the nation, serving over 220,000 students across 370+ schools. That's bigger than most entire states. The good news? You've got options — if you know how to work the system.
 
-![Aerial view of a typical Hillsborough County elementary school with playground and parking areas](PLACEHOLDER)
 
 ## Understanding Hillsborough's School Zone System
 
@@ -131,7 +128,6 @@ Covering parts of [Lithia](/neighborhoods/lithia/) and rural east Hillsborough:
 
 Newsome offers small-town feel with big-city academics, plus unique programs like agricultural studies.
 
-![Students walking between classes at a modern Hillsborough County high school campus](PLACEHOLDER)
 
 ## The Magnet School Game-Changer
 
@@ -203,7 +199,6 @@ Hillsborough offers comprehensive Exceptional Student Education (ESE) services, 
 
 Always visit schools and meet ESE coordinators before deciding. The district is required to provide services, but delivery methods vary significantly.
 
-![Modern classroom with students and teacher engaged in collaborative learning](PLACEHOLDER)
 
 ## High School Graduation Requirements and Beyond
 

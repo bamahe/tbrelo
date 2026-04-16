@@ -31,7 +31,6 @@ The good news? You've got solid options. The challenging news? Tampa Bay's housi
 
 Let me walk you through what actually works for MacDill families in 2024, neighborhood by neighborhood.
 
-![Aerial view of MacDill Air Force Base with Tampa Bay skyline in background](PLACEHOLDER)
 
 ## Understanding Your BAH in the Tampa Bay Market
 
@@ -93,7 +92,6 @@ Lithia offers more established neighborhoods with larger lots and custom homes. 
 
 **Commute Reality:** Plan 40-50 minutes to MacDill during rush hours. The Crosstown Expressway (SR-618) becomes your lifeline, and traffic backups can extend your commute significantly.
 
-![Suburban neighborhood with palm trees and modern homes typical of MacDill area housing](PLACEHOLDER)
 
 ## Brandon and Valrico — The Sweet Spot for Many Military Families
 
@@ -139,7 +137,6 @@ Both areas feature mature communities with established amenities — pools, tenn
 
 **The Commute Challenge:** Expect 35-45 minutes to MacDill during rush hours. Dale Mabry becomes a parking lot during peak times, making this commute less attractive for daily base workers.
 
-![Military family moving boxes into a Florida-style home with palm trees](PLACEHOLDER)
 
 ## Rental Market Reality for Military Families
 
@@ -195,7 +192,6 @@ Tampa Bay offers numerous private school options, though tuition ranges from $8,
 - Carrollwood Day School — $12,000-$18,000 annually
 - Tampa Preparatory School — $25,000+ annually
 
-![School zone sign with children crossing in a typical Tampa Bay suburban setting](PLACEHOLDER)
 
 ---
 

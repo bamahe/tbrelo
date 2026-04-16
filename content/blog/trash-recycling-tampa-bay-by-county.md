@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/trash-recycling-tampa-bay-by-county.webp"
 ---
 
-# Setting Up Trash and Recycling in Tampa Bay — By County
-
 Moving to Tampa Bay means figuring out a lot of new systems, and trash pickup is one of those things that varies dramatically depending on which county you land in. After helping families relocate here for over two decades, I've seen people get confused by the different schedules, bin requirements, and pickup services across Hillsborough, Pinellas, and Pasco counties.
 
 Here's the straight story on how waste management works in each area — because nobody wants to be the neighbor with overflowing bins on the wrong day.
 
-![Colorful recycling and trash bins lined up on a typical Tampa Bay residential street on pickup day](PLACEHOLDER)
 
 ## How Tampa Bay Waste Management Actually Works
 
@@ -141,7 +138,6 @@ These beach towns deal with unique challenges — narrow streets, seasonal popul
 
 **Safety Harbor:** Small city charm extends to waste management — they know their routes well and are flexible with residents who might forget to put bins out.
 
-![Modern waste management truck using automated pickup system on a typical Pinellas County street](PLACEHOLDER)
 
 ## Pasco County: Growing Fast, Adapting Services
 
@@ -219,7 +215,6 @@ Florida's year-round growing season means lots of yard waste. Here's what most a
 - Coconuts (seriously — they break equipment)
 - Treated lumber or construction debris
 
-![Homeowner properly preparing yard waste bundles and recycling bins according to Tampa Bay county guidelines](PLACEHOLDER)
 
 ## Bulk Item and Special Waste Pickup
 

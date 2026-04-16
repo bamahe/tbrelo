@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/tampa-bay-waterpark-pool-guide.webp"
 ---
 
-# Tampa Bay Waterpark and Pool Guide for Families
-
 Look, Tampa Bay's heat isn't just a summer thing anymore. We're talking 85-degree days in March and humid afternoons that make you question your life choices. After 23 years of helping families move here, I've learned one thing: you need a solid water strategy, and fast.
 
 Here's your no-nonsense guide to staying cool in Tampa Bay, from world-class waterparks to neighborhood pools that locals actually use.
 
-![Families enjoying a lazy river at Adventure Island with Tampa Bay skyline in background](PLACEHOLDER)
 
 ## The Big Leagues: Theme Park Waterparks
 
@@ -54,7 +51,6 @@ While technically in Orlando, Aquatica deserves mention because it's only 75 min
 **Drive time:** 1 hour 20 minutes
 **Worth it for:** Multi-day Orlando trips
 
-![Adventure Island's signature slide complex with palm trees and blue skies](PLACEHOLDER)
 
 ## Community Pools That Don't Disappoint
 
@@ -93,7 +89,6 @@ This is the crown jewel of county pools. Olympic-sized main pool, separate divin
 **Countryside Recreation Complex**
 In Clearwater, but worth mentioning for families in North Tampa. This complex includes a lazy river — yes, really.
 
-![Modern county pool facility with families swimming and playing](PLACEHOLDER)
 
 ## Beach Day Alternatives: Natural Swimming
 
@@ -133,7 +128,6 @@ Not all community pools are created equal. After two decades of touring properti
 **HOA Pool Etiquette Reality Check**
 Every HOA has rules. Most aren't enforced until someone complains. Keep music reasonable, clean up after yourself, and don't let kids run on wet surfaces. The neighbors who live poolside have more influence than you think.
 
-![Clean, modern apartment complex pool with lounge chairs and landscaping](PLACEHOLDER)
 
 ## Private Pool Costs and Considerations
 
@@ -181,7 +175,6 @@ Massive splash playground with multiple zones for different age groups.
 **Sand Lake Park**
 Hidden gem in New Tampa. The splash pad is newer and less discovered.
 
-![Children playing in colorful splash pad with water fountains](PLACEHOLDER)
 
 ---
 
@@ -238,7 +231,6 @@ The "chlorine smell" people associate with pools? That's not chlorine — it's c
 - Cloudy or discolored water
 - Slippery pool surfaces
 
-![Pool safety equipment including life rings and first aid station](PLACEHOLDER)
 
 ## Budget-Friendly Family Strategies
 

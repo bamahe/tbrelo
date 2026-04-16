@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/snowbird-guide-tampa-bay.webp"
 ---
 
-# Tampa Bay Snowbird Guide — Part-Time Florida Living
-
 Looking to escape those brutal northern winters? Welcome to the club. Tampa Bay has become ground zero for smart snowbirds who want sunshine, culture, and zero state income tax — without completely burning bridges back home.
 
 After helping hundreds of snowbirds set up shop here over two decades, I've learned what works, what doesn't, and what nobody tells you about the infamous "six-month rule." Whether you're testing the waters or ready to make Tampa Bay your winter sanctuary, this guide covers everything from the financial fine print to finding the perfect snowbird-friendly community.
 
-![Aerial view of Tampa Bay waterfront showing luxury condos and boats during golden hour](PLACEHOLDER)
 
 ## Why Tampa Bay Attracts 300,000+ Seasonal Residents
 
@@ -73,7 +70,6 @@ Smart snowbirds keep detailed records:
 
 **Pro tip from 20+ years of helping snowbirds:** The IRS doesn't audit based on calendar days. They audit based on "center of vital interests." Having your primary doctor, CPA, and closest family ties in Florida carries more weight than counting days on a calendar.
 
-![Interior of upscale Tampa Bay condo showing floor-to-ceiling windows with water views and modern furnishing](PLACEHOLDER)
 
 ## Best Tampa Bay Areas for Snowbirds
 
@@ -143,7 +139,6 @@ After helping 200+ snowbirds navigate Tampa Bay real estate, here's what actuall
 - Utilities (seasonal): $150-300/month
 - Property management: 8-12% of rental income if renting out
 
-![Couple walking along Bayshore Boulevard with Tampa skyline in background during winter season](PLACEHOLDER)
 
 ## Florida Homestead Exemption for Snowbirds
 
@@ -211,7 +206,6 @@ Tampa Bay's sprawling geography means most snowbirds need a car strategy. Here's
 
 **Ride-sharing works** for occasional trips, but Tampa Bay's distances make this expensive for regular use. Budget $40-60 for an Uber from Tampa International to most snowbird areas.
 
-![Tampa International Airport departure terminal showing travelers with luggage during snowbird season](PLACEHOLDER)
 
 ## Seasonal Community Life and Activities
 
@@ -253,7 +247,6 @@ Smart snowbirds think beyond just avoiding state income tax. Florida offers addi
 
 **No tax on retirement income** — whether Social Security, pensions, 401(k) distributions, or IRA withdrawals. This alone saves many snowbirds $3,000-10,000 annually.
 
-![Snowbirds enjoying outdoor dining at Hyde Park restaurant with Tampa skyline visible in background](PLACEHOLDER)
 
 ## Making the Transition: Year One Success Tips
 

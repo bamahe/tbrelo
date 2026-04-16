@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/well-water-vs-city-water-tampa-bay.webp"
 ---
 
-# Well Water vs City Water in Tampa Bay: What Homebuyers Need to Know
-
 House hunting in Tampa Bay? You'll encounter two very different water scenarios: homes connected to municipal systems and properties with private wells. After 23+ years helping families relocate here, I've seen buyers make costly mistakes by not understanding the real differences.
 
 Let me break down what you need to know about well water versus city water in our market — because this decision affects everything from your monthly budget to your home's resale value.
 
-![Home water testing kit on kitchen counter with Tampa Bay home in background](PLACEHOLDER)
 
 ## The Tampa Bay Water Reality Check
 
@@ -73,7 +70,6 @@ Most Tampa Bay wells tap the Upper Floridan Aquifer at 80-200 feet deep. Your su
 
 The geology varies significantly. Properties in Lithia or eastern Brandon might hit excellent water at 100 feet. Move to the coastal areas, and you might need 150+ feet to avoid saltwater intrusion.
 
-![Cross-section diagram showing well system components and Floridan Aquifer layers](PLACEHOLDER)
 
 ### Upfront Investment
 
@@ -128,7 +124,6 @@ The Floridan Aquifer delivers generally clean water, but it's not perfect. Here'
 
 I've seen buyers walk away from $350,000 homes after discovering the well water needed $8,000 in treatment equipment. Don't be that buyer who discovers problems after closing.
 
-![Water testing laboratory technician analyzing Tampa Bay well water sample](PLACEHOLDER)
 
 ## Treatment Systems: Making Well Water Work
 
@@ -239,7 +234,6 @@ The math seems to favor municipal water, but here's what it misses: well water a
 
 **Good water pressure:** Strong, consistent flow indicates proper pump sizing.
 
-![Modern well head and treatment system in Tampa Bay garage](PLACEHOLDER)
 
 ## Making the Decision: Municipal vs Well
 
@@ -299,7 +293,6 @@ Factor well water costs into your [overall cost of living](/cost-of-living/) cal
 
 Many Tampa Bay newcomers underestimate these costs. I've seen families budget $2,000 for water treatment, then discover they need $6,000 to make their well water truly usable.
 
-![Real estate contract paperwork with water testing results on Tampa Bay kitchen table](PLACEHOLDER)
 
 ## Resale Value Impact
 

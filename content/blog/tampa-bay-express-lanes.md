@@ -25,7 +25,6 @@ featuredImage: "/images/blog/tampa-bay-express-lanes.webp"
 
 You're sitting in Tampa Bay traffic, watching cars zip by in those mysterious express lanes, wondering if that monthly toll pass is worth it. After 23 years of helping families navigate Tampa Bay, I've had this conversation hundreds of times. Let me break down everything you need to know about express lanes here — the real costs, the actual time savings, and whether they make sense for your specific commute.
 
-![Express lanes on I-275 near downtown Tampa showing toll gantries and traffic flow](PLACEHOLDER)
 
 ## What Are Tampa Bay Express Lanes?
 
@@ -61,7 +60,6 @@ Here's the part that confuses most people: express lane tolls change every few m
 
 This 21-mile stretch can cost anywhere from $2.25 to $10.50 during peak travel times. If you're commuting from Tampa to the attractions area or airport, budget $15-25 daily for round-trip express lane usage during busy periods.
 
-![Electronic toll sign showing dynamic pricing on I-275 express lanes](PLACEHOLDER)
 
 ### How to Access Express Lanes
 
@@ -126,7 +124,6 @@ I've seen clients pay $7 to sit in express lane traffic that moved just as slowl
 
 **Off-peak commuters** who work non-traditional hours. If you commute at 10 AM or 2 PM, regular lanes move fine and express lanes offer minimal advantage.
 
-![Traffic comparison showing regular lanes vs express lanes during rush hour](PLACEHOLDER)
 
 ## Breaking Down the Math: Annual Costs
 
@@ -214,7 +211,6 @@ FDOT has plans for expanding express lane networks through 2030:
 
 **I-75 express lanes** from [Brandon](/areas/brandon/) to Ellenton are being studied, which would benefit families living in [Riverview](/neighborhoods/riverview/) and [FishHawk](/neighborhoods/fishhawk/).
 
-![Future express lane construction on I-275 showing construction zones and traffic patterns](PLACEHOLDER)
 
 ## Technology and Payment Options
 

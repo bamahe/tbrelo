@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/healthcare-worker-living-tampa-bay.webp"
 ---
 
-# Living in Tampa Bay as a Nurse or Healthcare Worker
-
 Tampa Bay isn't just another place to practice healthcare — it's where your nursing career can actually thrive while you enjoy year-round sunshine, reasonable housing costs, and some of the best medical facilities in the Southeast. After 23 years of helping healthcare professionals relocate here, I've seen nurses transform both their careers and quality of life by making the move to our region.
 
 The numbers tell the story: Tampa Bay hosts over 30 major healthcare systems, including Tampa General Hospital (ranked #1 in Florida by U.S. News), Johns Hopkins All Children's Hospital, and Moffitt Cancer Center. We're talking about 50,000+ healthcare jobs across Hillsborough, Pinellas, and Pasco counties, with registered nurses earning a median of $78,000-$95,000 annually — competitive wages that stretch further thanks to Florida's lack of state income tax.
 
-![Tampa Bay skyline with major hospitals highlighted, showing the concentration of healthcare facilities](PLACEHOLDER)
 
 ## Why Tampa Bay Appeals to Healthcare Workers
 
@@ -85,7 +82,6 @@ Moffitt's where you go if oncology nursing is your calling. They're the only Nat
 **RN Starting Pay:** $66,000-$74,000  
 **Perks:** Faith-based mission, excellent work-life balance, competitive benefits
 
-![Interior of a modern hospital unit in Tampa Bay showing advanced medical equipment and patient rooms](PLACEHOLDER)
 
 ---
 
@@ -131,7 +127,6 @@ Location matters when you're working 12-hour shifts. You want short commutes, sa
 
 **Temple Terrace**: Historic charm, tree-lined streets, short commute. Homes from $200,000-$450,000.
 
-![Map showing Tampa Bay neighborhoods with commute times to major hospitals marked](PLACEHOLDER)
 
 ## Salary Ranges and Benefits Breakdown
 
@@ -191,7 +186,6 @@ Tampa Bay traffic isn't Los Angeles or Atlanta, but it's not nothing either. Sma
 
 Most nurses drive because shift work doesn't align well with limited transit schedules. Factor $300-$500 monthly for car payment, insurance, gas, and parking.
 
-![Aerial view of Tampa Bay showing major highways and hospital locations with traffic flow indicators](PLACEHOLDER)
 
 ## Cost of Living Breakdown for Healthcare Workers
 
@@ -250,7 +244,6 @@ Major employers actively support certification pursuits. Critical care (CCRN), e
 
 Moffitt Cancer Center offers some of the best oncology nursing training in the country. Johns Hopkins provides pediatric certifications that carry national recognition.
 
-![Interior of a modern nursing education classroom with simulation equipment and students](PLACEHOLDER)
 
 ## Lifestyle Perks for Off-Duty Hours
 

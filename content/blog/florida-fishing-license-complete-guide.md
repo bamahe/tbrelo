@@ -23,15 +23,12 @@ schema:
 featuredImage: "/images/blog/florida-fishing-license-complete-guide.webp"
 ---
 
-# How to Get a Florida Fishing License — Every Option Explained
-
 New to Florida and wondering if you need that fishing license? Here's the straight story from someone who's been helping Tampa Bay newcomers navigate these waters for over two decades.
 
 Florida takes its fishing licenses seriously — and for good reason. With 663 miles of beaches, thousands of freshwater lakes, and the Everglades, this state's fishing industry generates over $9 billion annually. Miss the license requirement, and you're looking at fines starting at $50, plus court costs.
 
 The good news? Getting your Florida fishing license is straightforward once you understand the system. Let me walk you through every option, every exemption, and exactly what you need to know.
 
-![Florida angler holding fishing license and tackle on Tampa Bay pier](PLACEHOLDER)
 
 ## Do You Actually Need a Florida Fishing License?
 
@@ -161,7 +158,6 @@ Call 1-888-FISH-FLORIDA (1-888-347-4356) to buy by phone.
 
 License ships within 5 business days. No temporary license issued, so this only works if you're planning ahead.
 
-![Tackle shop counter with Florida fishing license display and local fishing regulations](PLACEHOLDER)
 
 ## How Much Does a Florida Fishing License Cost?
 
@@ -255,7 +251,6 @@ Florida Marine Patrol and FWC officers don't mess around. I've watched them work
 
 **The "I didn't know" defense doesn't work.** Ignorance of licensing requirements isn't a valid excuse under Florida law.
 
-![Florida Fish and Wildlife officer checking fishing licenses at boat ramp](PLACEHOLDER)
 
 ## Pro Tips from 23 Years of Tampa Bay Living
 

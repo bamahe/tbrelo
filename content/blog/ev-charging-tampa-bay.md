@@ -23,11 +23,8 @@ schema:
 featuredImage: "/images/blog/ev-charging-tampa-bay.webp"
 ---
 
-# Electric Vehicle Charging in Tampa Bay — Complete Map
-
 Electric vehicle ownership in Tampa Bay has tripled since 2020, but finding reliable charging can still feel like a treasure hunt. After helping hundreds of families relocate here, I've mapped out every charging option worth knowing about — from the free stations hiding in plain sight to the fast chargers that'll actually get you moving.
 
-![Interactive map showing all EV charging stations across Hillsborough, Pinellas, and Pasco counties](PLACEHOLDER)
 
 ## The Current EV Landscape in Tampa Bay
 
@@ -96,7 +93,6 @@ Many upscale hotels provide free charging for guests:
 - **Grand Hyatt Tampa Bay** — Waterfront charging with harbor views
 - **Sandpearl Resort** — Clearwater Beach, valet handles everything
 
-![Free EV charging station at Whole Foods with cars plugged in](PLACEHOLDER)
 
 ---
 
@@ -149,7 +145,6 @@ Beach communities lag behind in charging infrastructure. Sandpearl Resort remain
 
 The fastest-growing EV charging area in Tampa Bay. Wesley Chapel's Shops at Wiregrass added 12 fast chargers in 2024. New Tampa and Land O' Lakes have seen rapid expansion at major shopping centers.
 
-![Modern DC fast charging station with multiple bays at a shopping center](PLACEHOLDER)
 
 ## Charging While You Work
 
@@ -184,7 +179,6 @@ Limited options. Four Level 2 stations in the main parking garage, often occupie
 **I-275 Loop:** Urban charging relies mostly on shopping centers
 **I-4 East:** Solid coverage toward Orlando with multiple fast-charging options
 
-![Airport parking garage with multiple EV charging stations](PLACEHOLDER)
 
 ## The Reality of EV Charging Costs
 

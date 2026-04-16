@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/best-coffee-roasters-tampa-bay.webp"
 ---
 
-# Best Coffee Roasters in Tampa Bay: Where Real Coffee Happens
-
 Tampa Bay's coffee scene has exploded over the past decade, and as someone who's lived here for 23 years, I've watched strip mall Starbucks get bulldozed for actual roasters who care about their craft. The coffee culture here isn't just about caffeine anymore — it's about community, quality, and supporting local businesses that actually know your name.
 
 Whether you're relocating here and need to find your new morning ritual, or you're just tired of gas station coffee, this guide covers the roasters that locals actually visit. I'm talking about places where the owner might be behind the counter, where they know the farm their beans came from, and where a cortado doesn't require three explanations.
 
-![Tampa Bay coffee roaster with bags of freshly roasted beans and brewing equipment](PLACEHOLDER)
 
 ## What Makes Tampa Bay's Coffee Scene Special
 
@@ -49,7 +46,6 @@ What to order: Start with their signature "Buddy Blend" — a medium roast that 
 
 The Hyde Park location gets crowded on weekends (it's right across from [Hyde Park Village](/neighborhoods/hyde-park/)), but their newer locations in Westchase and New Tampa have the same quality with better parking.
 
-![Buddy Brew Coffee interior showing customers at communal tables with laptops](PLACEHOLDER)
 
 ### Kahwa Coffee (Multiple Locations)
 
@@ -71,7 +67,6 @@ The space is minimal — concrete floors, exposed brick, a few tables. You're no
 
 What to order: Whatever single-origin they recommend. Their Ethiopia Yirgacheffe is legendary when they have it, but their rotating selection means there's always something interesting. The pourover takes 4-6 minutes, and it's worth the wait.
 
-![Close-up of freshly roasted coffee beans being poured into bags at a local roastery](PLACEHOLDER)
 
 ---
 
@@ -103,7 +98,6 @@ They partner with different roasters quarterly, which keeps things interesting. 
 
 What to order: The breakfast sandwich with local eggs and their rotating coffee selection. They post their current roaster on Instagram, so you know what you're getting before you drive over.
 
-![Cozy neighborhood coffee shop interior with local art on walls and regulars at the counter](PLACEHOLDER)
 
 ## St. Petersburg & Pinellas County
 
@@ -127,7 +121,6 @@ They host cupping sessions monthly where you can learn to taste coffee properly 
 
 What to order: Start with their house blend, then work your way through their single-origins. They usually have a Colombian and an Ethiopian that showcase different flavor profiles. The cold brew here is particularly good during summer months.
 
-![Converted gas station coffee shop with outdoor seating and string lights](PLACEHOLDER)
 
 ## Brandon & East Tampa
 
@@ -151,7 +144,6 @@ They understand their market — busy families, commuters, people who want good 
 
 What to order: The "Italian Roast" is their signature — darker than most specialty roasters go, but properly executed. Their iced coffee drinks are particularly good, designed to survive Florida heat without becoming watery.
 
-![Drive-through coffee window with barista handing coffee to customer in car](PLACEHOLDER)
 
 ## Plant City & East Hillsborough
 
@@ -179,7 +171,6 @@ After visiting dozens of roasters across Tampa Bay, here's what separates the go
 
 **Community Involvement:** The best local roasters are involved in their neighborhoods beyond just selling coffee. They host events, support local causes, and treat their space as a community asset.
 
-![Coffee tasting flight showing different single-origin coffees in small cups](PLACEHOLDER)
 
 ---
 
@@ -209,7 +200,6 @@ Florida's climate affects both coffee storage and consumption patterns. Summer m
 
 Hurricane season requires special mention — local roasters often serve as community gathering spots during power outages, and many have backup generators specifically to serve their neighborhoods during emergencies. It's part of being a good local business in Florida.
 
-![Barista preparing pour-over coffee with careful attention to water temperature and timing](PLACEHOLDER)
 
 ## Building Your Coffee Routine
 

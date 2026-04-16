@@ -23,13 +23,10 @@ schema:
 featuredImage: /images/blog/default.webp
 ---
 
-# Tampa Bay Seafood Guide — Grouper, Stone Crab, and Beyond
-
 Living in Tampa Bay for over two decades, I've watched tourists stumble into chain restaurants while locals know exactly where to find the real deal. Our waters produce some of the country's best seafood, and if you're not taking advantage, you're missing out on one of the biggest perks of calling this place home.
 
 Let me save you from mediocre grouper sandwiches and overpriced stone crab. Here's where locals actually eat — and what they order when they get there.
 
-![Fresh grouper and stone crab spread at a waterfront Tampa Bay restaurant](PLACEHOLDER)
 
 ## The Tampa Bay Seafood Landscape
 
@@ -55,7 +52,6 @@ Ward's has been a St. Pete institution since 1948. They crack their own stone cr
 
 Pro tip: Call ahead during peak season. They sell out of large claws by 2 PM most weekends.
 
-![Stone crab claws being cracked at Ward's Seafood Market](PLACEHOLDER)
 
 ### The Columbia Restaurant (Ybor City)
 
@@ -77,7 +73,6 @@ Frenchy's grouper sandwich consistently wins "Best in Tampa Bay" awards because 
 
 Order it blackened with a side of their coleslaw. Skip the fries — the portions are generous enough without them.
 
-![Blackened grouper sandwich with coleslaw at Frenchy's](PLACEHOLDER)
 
 ### Sandpiper Grille (Safety Harbor)
 
@@ -105,7 +100,6 @@ Our Vietnamese community transformed Tampa's seafood game. [Hillsborough County]
 
 **Seafood Palace** (8902 N 56th St, Temple Terrace) specializes in live seafood prepared Vietnamese-style. Their salt and pepper shrimp uses Gulf shrimp so fresh they're practically still jumping.
 
-![Vietnamese-style whole fried fish with herbs and rice paper](PLACEHOLDER)
 
 ### Greek Sponge Docks Legacy
 
@@ -125,7 +119,6 @@ Yes, it's expensive. Yes, it's worth it for special occasions. Armani's sits 14 
 
 Dinner reservations book weeks ahead during stone crab season. Lunch offers similar quality with more availability.
 
-![Panoramic Tampa Bay view from Armani's restaurant](PLACEHOLDER)
 
 ### The Salt Shack (St. Pete Beach)
 
@@ -167,7 +160,6 @@ This tiny market downtown serves commercial kitchens and savvy home cooks. They'
 
 Cash only. No credit cards, no exceptions.
 
-![Fresh fish display at local Tampa Bay seafood market](PLACEHOLDER)
 
 ## Seasonal Considerations
 
@@ -191,7 +183,6 @@ Combines local seafood with wine tasting. Less crowded than bigger festivals, be
 ### John's Pass Seafood Festival (October)
 Touristy but fun. Good introduction to Tampa Bay seafood variety, though quality varies by vendor.
 
-![Stone crab festival with vendors and visitors at Clearwater Beach](PLACEHOLDER)
 
 ## What to Avoid
 
@@ -223,7 +214,6 @@ The best seafood experiences here happen at family-owned places that've been ser
 
 Your taste buds (and wallet) will thank you for doing a little homework before diving in.
 
-![Sunset dinner at waterfront seafood restaurant with Tampa skyline](PLACEHOLDER)
 
 ## Frequently Asked Questions
 

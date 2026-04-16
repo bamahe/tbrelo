@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/florida-island-time-lifestyle.webp"
 ---
 
-# What 'Island Time' Means and How It Changes You
-
 You've heard the phrase tossed around by every Florida transplant who posts sunset photos on Instagram. "Living on island time now!" they caption, usually accompanied by a cocktail emoji and zero sense of irony.
 
 But here's the thing about island time in Tampa Bay — it's real, it's contagious, and it will fundamentally rewire how you think about urgency, productivity, and what actually matters in life.
 
-![Person relaxing on a hammock overlooking Tampa Bay with a sunset in the background](PLACEHOLDER)
 
 After 23 years of helping families relocate to the Tampa Bay area, I've watched thousands of Type-A personalities from New York, Chicago, and D.C. slowly transform into humans who actually know how to exist without checking their phone every 47 seconds. The change isn't instant, but it's inevitable.
 
@@ -55,7 +52,6 @@ Remember spending 20 minutes checking weather apps to plan your outfit? In Tampa
 
 This seemingly minor change cascades into everything else. You're not stressed about rain ruining outdoor plans because a 2 PM thunderstorm doesn't derail your entire day — it cools things off for 20 minutes, then life continues.
 
-![Early morning view of downtown Tampa skyline from Bayshore Boulevard with joggers and palm trees](PLACEHOLDER)
 
 ### Work Boundaries Actually Exist
 
@@ -83,7 +79,6 @@ Something shifts around month four. Maybe it's the third consecutive week of 80-
 
 You start leaving for appointments with slightly less buffer time. You stop stress-sweating about minor delays. When someone suggests meeting "around 6-ish," you don't immediately ask for clarification.
 
-![Group of friends having drinks on a rooftop bar in Tampa with the city skyline in the background](PLACEHOLDER)
 
 ### Stage 3: Full Integration (Month 9+)
 
@@ -105,7 +100,6 @@ Here's what productivity gurus don't want to admit: when you stop treating every
 
 Companies in Tampa Bay consistently rank high for employee satisfaction, and it's not just because of the weather. It's because the culture here doesn't mistake franticness for productivity.
 
-![Business meeting taking place on an outdoor patio with palm trees and water view](PLACEHOLDER)
 
 ## What Doesn't Change (And Shouldn't)
 
@@ -127,7 +121,6 @@ Traffic happens. Weather happens. Life happens. The difference between high-stre
 
 In Tampa Bay, you quickly learn that fighting afternoon thunderstorms or I-275 construction is as pointless as arguing with gravity. This acceptance extends into other areas of life, creating a more sustainable relationship with things outside your control.
 
-![Peaceful sunset scene at Bayshore Boulevard with people walking and biking along the waterfront](PLACEHOLDER)
 
 ### Embrace "Good Enough" Timing
 

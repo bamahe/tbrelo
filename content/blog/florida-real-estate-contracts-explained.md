@@ -33,7 +33,6 @@ Most states operate with a single purchase agreement format where inspection con
 
 In [Hillsborough County](/counties/hillsborough/) alone, I've seen AS-IS contracts increase from about 30% of transactions in 2019 to nearly 65% in 2024. This shift reflects our competitive market, but it also means buyers need to understand exactly what they're signing.
 
-![Real estate agent explaining contract documents to clients at a conference table](PLACEHOLDER)
 
 The stakes are real. Last month, I had a buyer lose out on three homes in Seminole Heights because they insisted on Standard contracts while competing offers came in AS-IS. On the flip side, I've seen buyers save $15,000+ on repairs by negotiating effectively with Standard contracts in less competitive neighborhoods.
 
@@ -77,7 +76,6 @@ Even AS-IS contracts include certain seller disclosures and warranties. Sellers 
 
 The inspection period also protects against truly major discoveries. If your inspector finds foundation problems, electrical hazards, or structural issues that weren't disclosed, you can still walk away — you just can't ask the seller to fix them.
 
-![Home inspector checking electrical panel during property inspection](PLACEHOLDER)
 
 ### Strategic Advantages
 
@@ -123,7 +121,6 @@ With Standard contracts, you'll typically prepare a repair request list prioriti
 
 With AS-IS contracts, use the inspection to budget for future repairs and confirm you're comfortable with the property's condition. If the inspection reveals $8,000 in needed repairs but you got the house for $15,000 under market value, you're still ahead.
 
-![Professional home inspector examining roof tiles and gutters](PLACEHOLDER)
 
 ## Market Conditions Impact
 
@@ -197,7 +194,6 @@ Suburban areas like Wesley Chapel, Valrico, or Palm Harbor show more flexibility
 
 Urban core areas — downtown Tampa, downtown St. Pete, channelside — heavily favor AS-IS contracts due to high demand and unique properties that buyers don't want to lose over repair negotiations.
 
-![Suburban neighborhood street with various home styles representing different contract preferences](PLACEHOLDER)
 
 ## Making Your Decision: Contract Strategy
 

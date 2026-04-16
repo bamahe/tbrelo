@@ -29,7 +29,6 @@ The math is simple: every item you move costs money and stress. A full-service m
 
 Let's get practical about how to downsize without losing your mind.
 
-![Family sorting through belongings in boxes and donation piles in a living room](PLACEHOLDER)
 
 ## Why Downsizing Before Moving to Florida Makes Sense
 
@@ -69,7 +68,6 @@ Forget Marie Kondo's joy philosophy — you need a system based on Florida reali
 
 The key is being ruthless about that "Definitely Moving" box. If you haven't used something in two years up north, you won't magically start using it in Tampa Bay.
 
-![Four labeled boxes showing the sorting system: "Moving," "Sell," "Donate," and "Trash"](PLACEHOLDER)
 
 ## What Sells Fast (And What Doesn't)
 
@@ -121,7 +119,6 @@ For tax purposes, document everything you donate with photos and use IRS Publica
 
 Some charities are pickier than others. Call ahead to confirm they'll take your items before loading up the SUV.
 
-![Stacked moving boxes labeled by room and priority level, with a clipboard showing inventory list](PLACEHOLDER)
 
 ## The Storage Unit Reality Check
 
@@ -181,7 +178,6 @@ If you're moving from a dedicated home office to a spare bedroom setup, your mas
 
 Cloud storage and digital files reduce the need for extensive filing systems. A smaller, more versatile workspace might serve you better.
 
-![Garage sale setup with furniture, electronics, and household items clearly priced with stickers](PLACEHOLDER)
 
 ## The Final Week: Last-Minute Purge Opportunities
 

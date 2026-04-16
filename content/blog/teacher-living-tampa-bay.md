@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/teacher-living-tampa-bay.webp"
 ---
 
-# Living in Tampa Bay as a Teacher: The Real Deal on Salaries, Schools, and Making It Work
-
 You're thinking about teaching in Tampa Bay, or maybe you're already here and wondering if you can actually afford to stay. Let me cut through the recruiting brochures and give you the straight story from someone who's helped dozens of educators find homes they can actually afford on a teacher's salary.
 
 The short version? It's challenging but absolutely doable if you know where to look and what to expect. The long version involves some math, strategic thinking about housing, and understanding which districts actually pay their people.
 
-![Teacher working with students in a bright Tampa Bay area classroom](PLACEHOLDER)
 
 ## The Tampa Bay Teacher Salary Reality Check
 
@@ -77,7 +74,6 @@ Here's what $1,250-$1,500 actually gets you:
 - Townhouses in Brandon or Clearwater: $250,000-$290,000
 - Single-family homes in Plant City or Dade City: $220,000-$270,000
 
-![Affordable townhouse community popular with Tampa Bay teachers](PLACEHOLDER)
 
 ### Teacher-Friendly Neighborhoods
 
@@ -117,7 +113,6 @@ Slightly smaller than Hillsborough but still substantial. Known for innovative p
 
 **Best For:** Teachers who want innovation and support without massive bureaucracy.
 
-![Modern Pinellas County elementary school exterior](PLACEHOLDER)
 
 ### Pasco County Schools
 
@@ -201,7 +196,6 @@ Tampa Bay districts generally invest in their teachers. Expect:
 
 The area also has strong teacher unions (FEA affiliates) that actually advocate for reasonable working conditions and pay increases.
 
-![Teachers collaborating in a professional development workshop](PLACEHOLDER)
 
 ## Family Considerations for Teaching Families
 
@@ -249,7 +243,6 @@ Successful teacher side hustles I've observed:
 
 The key is finding something that leverages your teaching skills without burning you out during the school year.
 
-![Teacher working from home on educational materials for online sale](PLACEHOLDER)
 
 ### Transportation Strategy
 

@@ -23,15 +23,12 @@ schema:
 featuredImage: "/images/blog/find-doctor-tampa-bay-after-moving.webp"
 ---
 
-# How to Find a Doctor in Tampa Bay After Moving
-
 Moving to a new city means starting over with healthcare providers, and Tampa Bay's medical landscape can feel overwhelming at first glance. After helping families relocate here for over two decades, I've watched countless newcomers struggle with this process — and I've learned the shortcuts that actually work.
 
 The good news? Tampa Bay has some of the best healthcare in Florida, with major hospital systems like Tampa General, BayHealth, and Johns Hopkins All Children's Hospital anchoring world-class care. The challenge isn't finding good doctors — it's navigating insurance networks, appointment wait times, and figuring out which practices actually accept new patients.
 
 Here's everything you need to know about finding healthcare providers in Tampa Bay, based on real experience helping families get established in their new home.
 
-![Tampa General Hospital exterior showing the main entrance with Tampa Bay skyline in background](PLACEHOLDER)
 
 ## Understanding Tampa Bay's Healthcare Landscape
 
@@ -86,7 +83,6 @@ Traffic in Tampa Bay affects healthcare access more than you might expect. A doc
 - **St. Petersburg** has great options but limited if you live in Hillsborough
 - **Brandon/Riverview** area growing rapidly with new medical facilities
 
-![Modern medical office building in Westshore Tampa area with palm trees and professional landscaping](PLACEHOLDER)
 
 ## Step 3: Specialist Care and Referrals
 
@@ -142,7 +138,6 @@ Florida's insurance landscape includes more prior authorization requirements tha
 **Concierge Medicine Growth**
 Tampa Bay has a growing concierge medicine market, particularly in affluent areas like Hyde Park, Davis Islands, and parts of St. Petersburg. These practices typically charge $150-400 monthly per patient for enhanced access and longer appointments. While not covered by insurance for the membership fee, they still bill insurance for actual medical services.
 
-![Medical professional reviewing patient charts in a modern Tampa Bay medical office with large windows overlooking water](PLACEHOLDER)
 
 ## Practical Tips for Your First Appointments
 

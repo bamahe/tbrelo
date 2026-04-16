@@ -27,7 +27,6 @@ December in Tampa Bay means holiday magic with a subtropical twist. Forget snow 
 
 Here's your complete guide to Tampa Bay's best December events, from intimate neighborhood celebrations to massive downtown spectacles.
 
-![Families enjoying outdoor holiday festivities with palm trees decorated with Christmas lights in downtown Tampa](PLACEHOLDER)
 
 ## Downtown Tampa Holiday Spectaculars
 
@@ -51,7 +50,6 @@ Every weekend in December, this converted shipping container food hall hosts an 
 
 Food options include everything from ramen to artisanal ice cream. The outdoor seating area gets busy, but there's usually space at the community tables. Free parking on weekends, which is rare for downtown Tampa.
 
-![Ice skating rink with Tampa's downtown skyline in the background during evening hours](PLACEHOLDER)
 
 ## St. Petersburg's Holiday Harbor
 
@@ -91,7 +89,6 @@ Small-town charm at its finest. This parade runs along Gulf Boulevard with local
 
 The parade typically runs the second Saturday in December starting at 10 AM. Street parking is limited, so arrive early or park at nearby Indian Rocks Beach City Hall and walk over.
 
-![Holiday parade float traveling down Gulf Boulevard with beachside buildings decorated with Christmas lights](PLACEHOLDER)
 
 ## Ybor City's Historic Holiday Charm
 
@@ -127,7 +124,6 @@ If you have base access (or know someone who does), MacDill hosts several family
 
 Events are typically free for base personnel and guests. You'll need sponsor access or military ID to enter the base. Check their Facebook page for current event schedules.
 
-![Children playing in artificial snow at an outdoor Tampa Bay shopping center with holiday decorations](PLACEHOLDER)
 
 ## Unique Tampa Bay Holiday Traditions
 
@@ -177,7 +173,6 @@ Both Tampa and Clearwater locations host special holiday wine pairing dinners fe
 
 Dinner prices range from $120-180 per person depending on wine selections. The Tampa location (1700 N Westshore Blvd) offers better city views, while Clearwater provides more intimate dining.
 
-![Elegant holiday dinner table setting overlooking Tampa Bay at sunset](PLACEHOLDER)
 
 ## Outdoor & Active Holiday Fun
 
@@ -219,7 +214,6 @@ Holiday events in Tampa Bay range from free community celebrations to upscale di
 
 The biggest expenses are usually dining and premium experiences like dinner cruises or theater shows. Many of the most memorable holiday experiences — like driving Bayshore Boulevard to see lights or walking the beaches — are completely free.
 
-![Family walking along Bayshore Boulevard at dusk with holiday lights reflected in Tampa Bay](PLACEHOLDER)
 
 ## Making the Most of Tampa Bay Holidays
 

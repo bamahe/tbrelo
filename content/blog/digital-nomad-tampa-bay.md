@@ -29,7 +29,6 @@ I've watched this transformation firsthand over my 23 years selling homes here. 
 
 Let me break down what Tampa Bay really offers digital nomads — beyond the obvious palm tree Instagram shots.
 
-![Digital nomads working from a modern coffee shop in downtown Tampa with laptops and large windows](PLACEHOLDER)
 
 ## The Internet Infrastructure Reality Check
 
@@ -62,7 +61,6 @@ Tampa Bay's coffee scene has exploded in the past five years. These aren't just 
 
 **Foundation Coffee** in the Heights has become the unofficial headquarters for Tampa's startup community. You'll overhear more pitch conversations than anywhere else in the city.
 
-![Interior of a bustling coworking cafe in Tampa with exposed brick walls, natural lighting, and people working on laptops](PLACEHOLDER)
 
 ### St. Petersburg's Digital Nomad Havens
 
@@ -94,7 +92,6 @@ Tampa Bay's coffee scene has exploded in the past five years. These aren't just 
 
 **Office Evolution** in multiple Tampa Bay locations offers virtual office services alongside coworking. Great for nomads who need a local business address.
 
-![Modern coworking space in downtown St. Petersburg with glass conference rooms and collaborative work areas](PLACEHOLDER)
 
 ## Neighborhood Deep Dives for Digital Nomads
 
@@ -161,7 +158,6 @@ Master-planned community 15 minutes from downtown Tampa. Rent drops to $1,400-1,
 
 **Total monthly burn rate: $3,500-4,800** depending on lifestyle choices.
 
-![Modern apartment complex pool area in Tampa Bay with palm trees and people working remotely on laptops](PLACEHOLDER)
 
 ---
 
@@ -209,7 +205,6 @@ The last major hurricane (Ian in 2022) caused minimal damage in Tampa Bay, but p
 
 December through April offers perfect weather for poolside zoom calls. Many apartment complexes design outdoor spaces specifically for remote workers.
 
-![Digital nomad working from a sunny poolside area at a Tampa Bay apartment complex with laptop and coffee](PLACEHOLDER)
 
 ## Community and Networking Opportunities
 
@@ -279,7 +274,6 @@ Beach access within 30 minutes from anywhere in Tampa Bay. Clearwater Beach, St.
 
 **Ybor City** maintains Tampa's historic nightlife district. Live music, craft cocktails, and the best Cuban food in America.
 
-![Tampa Bay skyline at sunset with people working on laptops at an outdoor cafe along the waterfront](PLACEHOLDER)
 
 ---
 

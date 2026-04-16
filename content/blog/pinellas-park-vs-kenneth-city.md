@@ -27,7 +27,6 @@ You're house hunting in central Pinellas County and keep seeing listings in Pine
 
 After 23 years of showing homes in both cities, I can tell you the differences matter more than you'd think. Yes, they're neighbors. Yes, they share some similarities. But the day-to-day reality of living in each place? Completely different experiences.
 
-![Aerial view comparing Pinellas Park's commercial corridors with Kenneth City's quieter residential streets](PLACEHOLDER)
 
 ## The Tale of Two Cities: Size Matters
 
@@ -49,7 +48,6 @@ The city has distinct neighborhoods with different personalities:
 - **Park Boulevard corridor**: Mixed commercial/residential, $280,000-$350,000
 - **Countryside area**: More suburban feel, $350,000-$450,000
 
-![Typical Pinellas Park single-family home with established landscaping and driveway](PLACEHOLDER)
 
 ### Kenneth City Housing Reality
 
@@ -76,7 +74,6 @@ This isn't even close. [Pinellas County](/counties/pinellas/) schools serve both
 
 If you have school-age kids, Pinellas Park wins this category hands down. The elementary school quality alone makes the difference, and you'll have more high school options including magnet programs.
 
-![Students walking near Azalea Elementary School in Pinellas Park with the school building visible](PLACEHOLDER)
 
 ## Daily Life: Infrastructure and Amenities
 
@@ -118,7 +115,6 @@ Kenneth City has a handful of small businesses along 54th Avenue North, but you'
 
 The upside? Less traffic, quieter streets, more residential feel. The downside? You're always driving somewhere else.
 
-![Busy Park Boulevard commercial district in Pinellas Park showing various shops and restaurants](PLACEHOLDER)
 
 ## Location and Transportation
 
@@ -175,7 +171,6 @@ Most crime involves property theft, domestic disputes, and the occasional drug-r
 
 Neither city will break your budget on municipal costs. The real difference is in convenience — you'll spend more on gas driving to amenities if you live in Kenneth City.
 
-![Comparison shot showing a typical Kenneth City residential street with smaller homes versus a Pinellas Park neighborhood with larger lots](PLACEHOLDER)
 
 ## Community Culture and Vibe
 
@@ -226,7 +221,6 @@ The risk is getting squeezed out by development pressure from neighboring cities
 - You want slightly shorter commutes to some job centers
 - You value quiet residential streets over commercial convenience
 
-![Side-by-side comparison showing busy Park Boulevard in Pinellas Park versus a quiet residential street in Kenneth City](PLACEHOLDER)
 
 For most relocating families, especially those with kids, Pinellas Park makes more sense. The school quality alone justifies the slightly higher housing costs, and the city amenities mean you're not constantly driving elsewhere for basic activities.
 

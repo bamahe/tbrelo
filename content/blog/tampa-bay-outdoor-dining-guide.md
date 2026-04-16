@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/tampa-bay-outdoor-dining-guide.webp"
 ---
 
-# Tampa Bay Outdoor Dining Guide — Year-Round Patio Season
-
 Living in Tampa Bay means outdoor dining isn't a seasonal treat — it's a lifestyle. While most of the country hibernates indoors from November through March, we're out here enjoying perfect 75-degree evenings on restaurant patios. After 23 years of eating my way through this area, I can tell you the outdoor dining scene here is unmatched.
 
 But not all patios are created equal. Some offer stunning water views, others nail the atmosphere, and a few manage to deliver both killer food and perfect ambiance. Here's your insider guide to the best outdoor dining experiences in Tampa Bay, broken down by what makes each spot special.
 
-![Tampa Bay waterfront restaurant patio with string lights at sunset, diners enjoying meals with water view](PLACEHOLDER)
 
 ## Why Tampa Bay Rules for Outdoor Dining
 
@@ -50,7 +47,6 @@ This isn't just dinner with a view — it's dinner inside the view. Oystercatche
 
 **Insider tip:** Request a table on the north side for the best sunset angle. Parking is $25 at the Hyatt, but it's worth it for the convenience.
 
-![Beachfront restaurant patio with tables in sand, Gulf of Mexico views, string lights overhead](PLACEHOLDER)
 
 ### The Columbia Restaurant (SandPearl Resort)
 **500 Mandalay Ave, Clearwater Beach**
@@ -77,7 +73,6 @@ The Heights Public Market inside Armature Works has multiple food vendors, but t
 
 **Best time:** Sunday afternoons when families spread out on the lawn, or Thursday evenings for the more relaxed crowd.
 
-![Tampa riverwalk restaurant patio with downtown skyline view, people dining at outdoor tables](PLACEHOLDER)
 
 ### Sparkman Wharf
 **615 Channelside Dr, Tampa**
@@ -111,7 +106,6 @@ This Italian spot on Beach Drive has sidewalk seating that's perfect for people-
 
 **What to order:** Truffle mac and cheese ($24) and any of their wood-fired pizzas ($18-26). The wine list focuses on Italian selections with reasonable markups.
 
-![St. Petersburg Beach Drive sidewalk dining with palm trees and waterfront views](PLACEHOLDER)
 
 ### Red Mesa Cantina
 **128 3rd St S, St. Petersburg**
@@ -136,7 +130,6 @@ The vintage car theme works surprisingly well outdoors, especially at their Bran
 
 **What to order:** The "Model A" burger ($18) and their craft beer selection. Kids love the vintage car decor.
 
-![Family dining on restaurant patio with vintage car themed decor and string lights](PLACEHOLDER)
 
 ## Beach Town Favorites
 
@@ -161,7 +154,6 @@ Elevated beach food in a relaxed setting. Their patio has Gulf views and a menu 
 
 **What to order:** Lobster roll ($28) and fish tacos ($18). The craft cocktail list is surprisingly sophisticated for a beach spot.
 
-![Beachside seafood restaurant patio with Gulf views, casual dining atmosphere](PLACEHOLDER)
 
 ## Seasonal Considerations and Timing
 
@@ -185,7 +177,6 @@ Most upscale spots (Columbia, Ocean Prime, Ulele) require reservations, especial
 
 **Weather backup plans:** Every restaurant listed here has indoor seating, but the experience obviously changes. Check weather forecasts and have flexibility in your plans.
 
-![Couples dining on romantic restaurant patio with waterfront views at sunset](PLACEHOLDER)
 
 ## Price Points and What to Expect
 
@@ -217,7 +208,6 @@ These ranges include appetizers, entrees, and drinks but not alcohol at upscale 
 
 **Ride services:** Uber and Lyft work well for downtown areas but can be expensive to/from beach locations, especially during peak times.
 
-![Tampa Bay restaurant patio at night with city lights and waterfront ambiance](PLACEHOLDER)
 
 ---
 

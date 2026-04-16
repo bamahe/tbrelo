@@ -27,7 +27,6 @@ You won't find Dover and Seffner splashed across glossy Tampa Bay marketing mate
 
 I've been selling homes here for over two decades, and I'll tell you straight up — Dover/Seffner isn't for everyone. But for the right buyer, it's pure gold.
 
-![Aerial view of Dover and Seffner showing rural roads, horse properties, and suburban developments](PLACEHOLDER)
 
 ## The Real Dover/Seffner Story
 
@@ -47,7 +46,6 @@ The median age sits around 38, with a healthy mix of young families, established
 
 Here's where Dover/Seffner gets interesting for buyers priced out of flashier Tampa Bay markets.
 
-![Typical Dover/Seffner neighborhoods showing mix of newer subdivisions and established homes with larger lots](PLACEHOLDER)
 
 ### Current Home Prices (2024)
 
@@ -93,7 +91,6 @@ Try finding that package in South Tampa or Carrollwood for under $600,000.
 
 Dover/Seffner falls under [Hillsborough County Schools](/counties/hillsborough/), giving residents access to the bay area's largest and most diverse district. Here's the real scoop on local schools:
 
-![Dover Elementary School building showing typical Hillsborough County school architecture](PLACEHOLDER)
 
 ### Elementary Schools
 
@@ -162,7 +159,6 @@ Most residents commute, so factor transportation carefully:
 
 The rural nature means you'll drive more for errands, but housing savings typically offset transportation costs.
 
-![Local Dover/Seffner shopping areas showing rural commercial buildings and country stores](PLACEHOLDER)
 
 ## Shopping and Dining Reality
 
@@ -199,7 +195,6 @@ Most Dover/Seffner residents cook at home more than urban counterparts, taking a
 
 Dover/Seffner's value proposition depends heavily on commuting tolerance. Here's the reality:
 
-![Major roads and highways serving Dover/Seffner area including I-4 access points](PLACEHOLDER)
 
 ### Major Routes
 
@@ -259,7 +254,6 @@ The rural setting enables activities impossible in denser areas:
 - **Youth sports leagues:** Active baseball, softball, and soccer programs
 - **Horse shows:** Regular events at local equestrian facilities
 
-![Dover/Seffner community events showing local festivals and outdoor activities](PLACEHOLDER)
 
 ## Jobs and Economy
 
@@ -307,7 +301,6 @@ Most professional workers commute to Tampa, Brandon, or Lakeland for higher-payi
 
 After 23 years selling homes here, I'll give you the unvarnished truth:
 
-![Typical Dover/Seffner street scene showing mix of rural and suburban characteristics](PLACEHOLDER)
 
 ### The Good
 
@@ -390,7 +383,6 @@ Based on current trends, expect:
 - **Commercial development:** Additional shopping and dining following residential growth
 - **Maintained character:** County zoning protects agricultural areas from overdevelopment
 
-![New residential developments in Dover/Seffner showing growth while maintaining rural character](PLACEHOLDER)
 
 ## Buying Strategy for Dover/Seffner
 

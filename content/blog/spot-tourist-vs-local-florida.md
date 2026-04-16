@@ -25,7 +25,6 @@ featuredImage: "/images/blog/spot-tourist-vs-local-florida.webp"
 
 You've been here five minutes and think you can spot the difference between a Florida tourist and a local? Think again. After 23+ years in Tampa Bay, I've watched thousands of newcomers confidently point out "obvious tourists" — only to discover they're lifelong Floridians. The truth is more nuanced than your typical "sunburn vs tan" listicle.
 
-![Wide shot of a busy Florida beach with mixed crowd of tourists and locals](PLACEHOLDER)
 
 ## The Dead Giveaways (That Aren't What You Think)
 
@@ -53,7 +52,6 @@ But here's the plot twist: **locals know which left lanes to avoid entirely.** T
 
 Watch someone navigate a Publix parking lot in July. Tourists circle endlessly hunting for the closest spot. Locals? They park under the one decent shade tree in the back corner because they understand Florida physics: walking 100 extra feet beats sitting on molten leather seats.
 
-![Aerial view of a crowded parking lot with one shaded area under trees](PLACEHOLDER)
 
 ### The Rain Response
 
@@ -71,7 +69,6 @@ The real tell: **locals have strong opinions about chain restaurants.** They'll 
 
 Tourists shop at International Plaza, locals shop at Westshore Plaza — unless it's back-to-school season, then everyone's miserable together at Brandon Town Center. But the ultimate local move? Shopping at 8 AM on Sunday because you know every tourist is either hungover or at brunch.
 
-![Interior shot of a busy Florida shopping mall with people walking around](PLACEHOLDER)
 
 ### Beach Equipment Intelligence
 
@@ -89,7 +86,6 @@ Meanwhile, that family struggling with the heat at Busch Gardens? Could be Miami
 
 Nothing reveals local status like hurricane season. Tourists evacuate for Category 1 storms. Locals throw hurricane parties for Category 2s. But true locals? They quietly stock up on water and gas when a storm is still 5 days out, avoiding the last-minute panic crowds.
 
-![Empty grocery store shelves during hurricane preparation](PLACEHOLDER)
 
 ### The Shoulder Seasons
 
@@ -119,7 +115,6 @@ Locals don't say "Tampa Bay area" — they say Hillsborough, Pinellas, or Pasco.
 
 Ask for directions and watch the response. Tourists pull out GPS apps. Locals give directions using closed restaurants as landmarks: "Turn left where the old Bennigan's used to be, then right at what used to be Circuit City."
 
-![Street view of a typical Florida intersection with palm trees and strip malls](PLACEHOLDER)
 
 ## The Subtler Signs
 

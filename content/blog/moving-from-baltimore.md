@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/moving-from-baltimore.webp"
 ---
 
-# Moving from Baltimore to Tampa Bay — The Complete Relocation Guide
-
 I've watched thousands of families make the jump from Baltimore to Tampa Bay over my 23+ years selling real estate here. The move makes sense on paper — better weather, no state income tax, lower cost of living — but the reality has more layers than most people expect.
 
 Let me walk you through what actually happens when you trade crab cakes for Cuban sandwiches and Ravens purple for Bucs red.
 
-![Aerial view comparing Baltimore's Inner Harbor to Tampa Bay's downtown skyline](PLACEHOLDER)
 
 ## Why Baltimore Residents Choose Tampa Bay
 
@@ -85,7 +82,6 @@ Here's how much you'll save annually by eliminating Maryland state income tax:
 
 Add property tax savings, and most families see $3,000-$10,000 more in their pocket annually.
 
-![Infographic showing tax savings comparison between Maryland and Florida](PLACEHOLDER)
 
 ---
 
@@ -121,7 +117,6 @@ Established suburban neighborhoods with mature trees and solid schools. Carrollw
 
 The quirky, artsy vibe translates well. Ybor has more nightlife and fewer families, but both neighborhoods celebrate their unique character. Historic homes and condos range $180,000-$350,000.
 
-![Split image showing Baltimore neighborhood street scene next to similar Tampa Bay neighborhood](PLACEHOLDER)
 
 ## School Districts: What Baltimore Parents Need to Know
 
@@ -175,7 +170,6 @@ These costs run 15-25% less than comparable Baltimore private schools.
 
 Plan for two days if you're driving a moving truck. Good overnight stops include Fayetteville, NC or Savannah, GA.
 
-![Map showing three different driving routes from Baltimore to Tampa Bay](PLACEHOLDER)
 
 ### Moving Company Costs
 
@@ -229,7 +223,6 @@ Most Baltimore transplants drive one car and ship the second vehicle.
 - **Temple Terrace:** Close to USF, $220,000-$380,000
 - **Brandon:** Suburban variety, $250,000-$450,000
 
-![Collage of different Tampa Bay neighborhood home styles](PLACEHOLDER)
 
 ### The Inspection Process
 
@@ -275,7 +268,6 @@ If you're keeping your Baltimore-based remote job, you'll need to understand:
 - **Company policies:** Some employers restrict remote work to specific states
 - **Time zone benefits:** Eastern Time Zone means no adjustment period
 
-![Modern office building in Tampa Bay business district](PLACEHOLDER)
 
 ## Cultural and Lifestyle Adjustments
 
@@ -313,7 +305,6 @@ I-275 through downtown Tampa makes I-95 around Baltimore look smooth. Rush hour 
 
 **Alternative routes:** Bayshore Boulevard, Dale Mabry Highway, and Westshore Boulevard help you avoid interstate backups.
 
-![Traffic scene showing typical Tampa Bay rush hour](PLACEHOLDER)
 
 ---
 
@@ -366,7 +357,6 @@ Florida makes registration easy — online, DMV, or mail-in options. No party af
 
 Most major Baltimore banks (Bank of America, Wells Fargo, PNC) have strong Tampa Bay presence. Regional options like Synovus and CenterState offer competitive rates and local decision-making.
 
-![Tampa Bay downtown financial district showing various bank buildings](PLACEHOLDER)
 
 ## Recreation and Entertainment
 
@@ -418,7 +408,6 @@ Tampa Bay's job growth and population increases create solid real estate investm
 
 No state income tax makes Florida retirement-friendly for pension income, 401k withdrawals, and Social Security benefits. Many Baltimore families accelerate their Tampa Bay move as retirement approaches.
 
-![Scenic waterfront view showing Tampa Bay retirement lifestyle](PLACEHOLDER)
 
 ## Common Mistakes Baltimore Transplants Make
 

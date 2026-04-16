@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/florida-home-warranty-guide.webp"
 ---
 
-# Florida Home Warranty — Worth It or Waste of Money?
-
 After 23 years selling homes across Tampa Bay, I've watched hundreds of buyers wrestle with this question at closing: "Should I get a home warranty?" The sales pitch sounds great — comprehensive coverage for appliances and systems, peace of mind, protection against expensive repairs. But here's the reality I've seen play out in countless Florida homes.
 
 Home warranties in Florida are a mixed bag at best. While they can provide some financial protection for first-time homeowners or buyers of older homes, they're not the safety net most companies make them out to be. Let me break down what you actually get versus what you pay, based on real experiences from my clients.
 
-![Home warranty contract documents next to Florida house keys and calculator](PLACEHOLDER)
 
 ## What Florida Home Warranties Actually Cover
 
@@ -108,7 +105,6 @@ Air conditioning is critical in Florida, but warranty coverage often disappoints
 - Refrigerant leaks may be covered for repair but not recharging
 - Improper sizing or installation voids coverage
 
-![HVAC technician inspecting air conditioning unit outside Florida home](PLACEHOLDER)
 
 ## Real Client Experiences: The Good, Bad, and Ugly
 
@@ -142,7 +138,6 @@ Home warranty companies typically use the lowest-bid contractors in their networ
 
 Many quality contractors won't work with warranty companies because of low reimbursement rates and payment delays. You might get service, but it's rarely the service you'd choose if paying directly.
 
-![Home warranty service contractor truck parked outside suburban Florida home](PLACEHOLDER)
 
 ## Alternative Strategies That Actually Work
 
@@ -203,7 +198,6 @@ Based on my experience helping families across [Tampa Bay counties](/counties/),
 - People who prioritize quick, quality repairs
 - Anyone buying homes with very old systems (likely won't be covered anyway)
 
-![Florida homeowner reviewing home warranty paperwork at kitchen table](PLACEHOLDER)
 
 ## Making the Decision: Questions to Ask Yourself
 

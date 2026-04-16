@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/first-florida-thunderstorm.webp"
 ---
 
-# Your First Florida Thunderstorm — What Nobody Warned You About
-
 Welcome to the lightning capital of North America, where Mother Nature puts on a daily fireworks show that makes Disney's look like birthday candles. After 23 years in Tampa Bay, I've watched countless newcomers experience their first Florida thunderstorm with a mix of awe and terror that's both hilarious and heartbreaking.
 
 Here's what nobody tells you in the relocation brochures: Florida doesn't just have thunderstorms. It has biblical events that would make Noah nervous.
 
-![Dark storm clouds forming over Tampa Bay with dramatic lightning in the background](PLACEHOLDER)
 
 ## The Numbers That'll Make You Respect Mother Nature
 
@@ -47,7 +44,6 @@ Smart Floridians hit the beach before noon, grab lunch, then retreat indoors by 
 
 I tell my [relocation clients](/moving-guide/) to schedule moving truck arrivals before 1 PM or after 7 PM during summer. Trust me on this one — unloading a 26-foot truck in a Florida thunderstorm is a character-building experience you don't need.
 
-![Flooded street in Tampa with cars driving through standing water during a thunderstorm](PLACEHOLDER)
 
 ## Lightning: It's Not Just for Show
 
@@ -65,7 +61,6 @@ Streets in South Tampa regularly flood during heavy storms, turning Bayshore Bou
 
 Here's what nobody mentions: Florida flooding isn't just about low-lying areas. I've seen Carrollwood neighborhoods — built on higher ground — deal with street flooding because the storm drains can't handle the volume. Your GPS doesn't account for the fact that Dale Mabry becomes a lake during peak storm season.
 
-![Water rushing through a storm drain with palm trees bending in strong winds](PLACEHOLDER)
 
 ---
 
@@ -103,7 +98,6 @@ Flood insurance through FEMA covers rising water but not wind-driven rain throug
 
 Document everything with photos before storms hit. I tell clients to walk around their property quarterly, taking pictures of roof lines, gutters, and exterior walls. When storm damage happens, you'll have before-and-after proof.
 
-![Person taking photos of their home's exterior before a storm with dark clouds approaching](PLACEHOLDER)
 
 ## The Kids and Pets Situation
 
@@ -119,7 +113,6 @@ The humidity skyrockets as all that rain starts evaporating. Stepping outside fe
 
 This is when you'll see Florida's community spirit. Neighbors check on neighbors, sharing generators, ice, and information. The Publix parking lot becomes an informal community center where people compare notes and share resources.
 
-![Neighbors helping each other clear fallen tree branches after a storm with sunny skies returning](PLACEHOLDER)
 
 ## The Mental Game: Embracing Storm Season
 

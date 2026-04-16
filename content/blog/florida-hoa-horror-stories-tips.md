@@ -23,8 +23,6 @@ schema:
 featuredImage: "/images/blog/florida-hoa-horror-stories-tips.webp"
 ---
 
-# Florida HOA Horror Stories — And How to Avoid Them
-
 You bought your dream home in Florida, complete with community pool and manicured landscaping. Then you painted your front door teal. Three days later, there's a violation letter in your mailbox with a $50 fine and a demand to repaint it "approved beige within 10 days."
 
 Welcome to HOA life in the Sunshine State.
@@ -33,7 +31,6 @@ After 23 years selling homes across [Tampa Bay](/counties/), I've seen HOA drama
 
 But here's the thing — HOAs aren't inherently evil. Good ones maintain property values and create genuine community. The trick is knowing what to look for and how to navigate the system without losing your sanity (or your savings account).
 
-![Suburban Florida neighborhood with HOA-maintained common areas and uniform architectural standards](PLACEHOLDER)
 
 ## The Real Cost of HOA Living in Florida
 
@@ -70,7 +67,6 @@ In Fishhawk Ranch, a military family received deployment orders and couldn't rep
 
 A Trinity community voted to install a pool using special assessment funds. After construction began, three board members' properties were deemed "too close" to the planned location. They called an emergency vote to relocate the pool, requiring another $85,000 assessment. When homeowners protested, those same board members voted to fine residents $200 for "disruptive behavior" at HOA meetings.
 
-![HOA board meeting with frustrated homeowners in a community clubhouse](PLACEHOLDER)
 
 ## Red Flags to Spot Before You Buy
 
@@ -110,7 +106,6 @@ Request 2-3 years of board meeting minutes. You'll spot patterns quickly:
 
 **Management company turnover**: Frequent changes in management companies often indicate board micromanagement or unrealistic expectations.
 
-![Stack of HOA violation notices and fine letters on a homeowner's kitchen counter](PLACEHOLDER)
 
 ## Your Rights as a Florida HOA Member
 
@@ -179,7 +174,6 @@ Call an attorney if:
 - Enforcement appears discriminatory based on protected characteristics
 - The HOA violates open meeting laws or denies document access
 
-![Florida homeowner reviewing HOA documents with a real estate attorney](PLACEHOLDER)
 
 ## Choosing HOA-Free vs. HOA Communities
 
@@ -216,7 +210,6 @@ Sometimes the only way to fix a dysfunctional HOA is from the inside. Board serv
 
 Start a homeowner newsletter or social media group focused on positive community building rather than complaints. Organize social events, neighborhood cleanups, and information sessions. When you need support against HOA overreach, you'll have established relationships.
 
-![Well-maintained Florida neighborhood street with diverse architectural styles and happy residents](PLACEHOLDER)
 
 ## The Bottom Line for Tampa Bay Buyers
 

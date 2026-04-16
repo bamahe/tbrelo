@@ -23,7 +23,6 @@ schema:
 featuredImage: "/images/blog/living-in-tarpon-springs-guide.webp"
 ---
 
-![Historic Tarpon Springs sponge docks with boats and Greek restaurants along the waterfront](PLACEHOLDER)
 
 Let me be straight with you about Tarpon Springs. After two decades of helping families relocate around Tampa Bay, I've seen plenty of buyers fall head-over-heels for this city's charm — then get surprised by what daily life actually looks like here. Don't get me wrong, Tarpon Springs has incredible character. But like that friend who looks amazing on Instagram but is chronically late to everything, there's more to the story.
 
@@ -39,7 +38,6 @@ What makes this interesting for potential residents is that you get access to bo
 
 The downside? Tourist traffic can make simple errands feel like navigating a theme park during spring break. And if you're expecting quaint seaside village vibes year-round, you'll be disappointed by strip malls and chain restaurants that dominate much of the city.
 
-![Residential neighborhood in Tarpon Springs showing typical suburban homes with palm trees](PLACEHOLDER)
 
 ## Housing Market Reality Check
 
@@ -67,7 +65,6 @@ The rental market runs $1,800-$2,500 for decent single-family homes, while water
 
 **Anclote Key Preserve Area:** Newer luxury development near the Gulf with higher-end homes and resort-style amenities. Expect HOA fees of $400+ monthly but get access to clubhouses, fitness centers, and concierge services.
 
-![Tarpon Springs sponge docks with Greek restaurants and tour boats](PLACEHOLDER)
 
 ## The Greek Culture: Real Talk
 
@@ -105,7 +102,6 @@ Tarpon Springs falls under [Pinellas County Schools](/counties/pinellas/), which
 
 The reality for families: if you're moving from high-performing school districts in other states, you'll likely need to supplement with private tutoring or extracurricular programs. The schools aren't terrible, but they're not going to wow anyone either.
 
-![Spring Bayou in Tarpon Springs with historic homes and Spanish moss trees](PLACEHOLDER)
 
 ## Getting Around: Transportation Reality
 
@@ -153,7 +149,6 @@ Tarpon Springs offers moderate cost of living compared to Tampa Bay's major citi
 
 The biggest advantage comes from lower housing costs compared to beach communities, but you'll pay premiums for convenience and tourist-driven pricing in many categories.
 
-![Gulf of Mexico coastline near Tarpon Springs with natural beaches and clear water](PLACEHOLDER)
 
 ## Recreation and Lifestyle: What You'll Actually Do
 
@@ -183,7 +178,6 @@ Tarpon Springs offers outdoor recreation that actually justifies Florida living,
 
 **Fishing** opportunities abound both inshore and offshore. Charter boats operate from the sponge docks, while shore fishing is available at various parks and access points.
 
-![Downtown Tarpon Springs street scene with shops and Greek-inspired architecture](PLACEHOLDER)
 
 ## Employment and Economy
 
@@ -230,7 +224,6 @@ Tarpon Springs enjoys typical west coast Florida weather patterns with some uniq
 
 **Wildlife:** Alligators inhabit local waterways and occasionally appear in residential areas. Manatees frequent boating areas, requiring careful navigation. Standard Florida wildlife precautions apply.
 
-![Tarpon Springs residential area showing mix of older and newer homes with mature landscaping](PLACEHOLDER)
 
 ## Healthcare and Services
 
@@ -287,7 +280,6 @@ Tarpon Springs offers a split personality for shopping and dining — authentic 
 
 **Major Retail** requires drives to Clearwater or Tampa for Target, Best Buy, and other big-box stores. Walmart and Home Depot serve basic needs locally.
 
-![Anclote River waterfront homes and docks in Tarpon Springs](PLACEHOLDER)
 
 ## The Honest Pros and Cons
 

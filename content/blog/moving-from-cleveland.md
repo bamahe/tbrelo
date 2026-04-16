@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/moving-from-cleveland.webp"
 ---
 
-# Moving from Cleveland to Tampa Bay — The Complete Relocation Guide
-
 Making the jump from Cleveland to Tampa Bay? You're not alone. As someone who's helped hundreds of Ohio families make this move over the past 23 years, I can tell you it's one of the smartest decisions you'll make. But there's more to consider than just trading snow boots for flip-flops.
 
 Let me walk you through everything you need to know about relocating from the shores of Lake Erie to the Gulf Coast of Florida.
 
-![Aerial view showing Cleveland's downtown skyline transitioning to Tampa Bay's skyline with sunshine and palm trees](PLACEHOLDER)
 
 ## Why Cleveland Residents Choose Tampa Bay
 
@@ -79,7 +76,6 @@ If you're earning $75,000 in Cleveland, here's your annual tax savings moving to
 
 That's an extra $484 per month in your pocket. Even accounting for higher insurance costs, you're still ahead by roughly $3,500 annually.
 
-![Infographic showing tax savings breakdown with dollar signs and calculator imagery](PLACEHOLDER)
 
 ## Neighborhood Matchmaker: Finding Your Tampa Bay Fit
 
@@ -114,7 +110,6 @@ Tampa's downtown has exploded with residential options — from converted histor
 Downtown Tampa condos: $300,000-$1.5M
 Downtown St. Pete condos: $225,000-$800,000
 
-![Split image showing a Cleveland Heights street scene next to a similar Tampa Bay neighborhood with palm trees](PLACEHOLDER)
 
 ---
 
@@ -151,7 +146,6 @@ Rental truck one-way from Cleveland to Tampa Bay:
 
 **Book 6-8 weeks ahead** — Florida-bound trucks are in high demand, especially October through March.
 
-![Map showing the driving route from Cleveland to Tampa Bay with key stopping points marked](PLACEHOLDER)
 
 ## Shipping Your Stuff: Professional Movers vs DIY
 
@@ -209,7 +203,6 @@ Florida's Save Our Homes amendment caps assessment increases at 3% annually on h
 
 **Homestead exemption** removes the first $50,000 of assessed value from taxation. File this immediately after closing — it can save you $500-$800 annually.
 
-![Comparative photos showing similar homes in Cleveland vs Tampa Bay with price tags visible](PLACEHOLDER)
 
 ## Schools and Family Considerations
 
@@ -266,7 +259,6 @@ Most Cleveland-based physicians have Florida counterparts. Your Cleveland Clinic
 
 **Insurance heads up:** Verify your current plan covers Florida providers. Many Ohio-specific plans don't extend here.
 
-![Modern Tampa Bay hospital exterior with palm trees and medical professionals](PLACEHOLDER)
 
 ## Lifestyle Changes to Expect
 
@@ -300,7 +292,6 @@ Join local groups:
 - Neighborhood Facebook groups
 - Pinellas Trail walking groups
 
-![People enjoying outdoor dining at a Tampa Bay waterfront restaurant with boats in background](PLACEHOLDER)
 
 ## Employment and Career Transition
 
@@ -394,7 +385,6 @@ Florida auto insurance costs 40-50% more than Ohio. Your Cleveland $80/month pol
 
 **Veterans Expressway** — Toll road connecting Tampa to northern suburbs. Worth the $2-3 daily cost for time savings.
 
-![Traffic-free scenic road through Tampa Bay area with palm trees lining both sides](PLACEHOLDER)
 
 ## Recreation and Entertainment
 
@@ -475,7 +465,6 @@ Tampa Bay's food scene has exploded:
 - **Holy Hog BBQ** (multiple locations) — Local favorite
 - **The Refinery** (Tampa Heights) — Farm-to-table Southern
 
-![Outdoor restaurant scene showing diners enjoying fresh seafood with Tampa Bay water view in background](PLACEHOLDER)
 
 ## Legal and Administrative Tasks
 

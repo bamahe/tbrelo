@@ -29,7 +29,6 @@ I've watched hundreds of relocating families launch successful businesses here o
 
 Here's your complete roadmap to starting a business in the Sunshine State, from someone who's seen what works (and what definitely doesn't).
 
-![Person working on laptop with Florida business documents and coffee cup on desk](PLACEHOLDER)
 
 ## Choose Your Business Structure
 
@@ -105,7 +104,6 @@ Florida charges a 5.5% corporate income tax on net income over $50,000. LLCs typ
 
 If you hire employees, you'll pay Florida reemployment tax (unemployment insurance). New employers typically pay 2.7% on the first $7,000 of each employee's wages. This rate adjusts based on your claims history over time.
 
-![Florida Department of Revenue building exterior with state flag](PLACEHOLDER)
 
 ## Industry-Specific Licenses and Permits
 
@@ -167,7 +165,6 @@ All Florida employers must report new hires within 20 days through the Florida N
 
 Florida follows federal minimum wage laws but adds state-specific requirements. The current Florida minimum wage is $12.00 per hour (as of 2024), rising to $15.00 by 2026. Tipped employees earn $8.98 per hour plus tips.
 
-![Modern office space in Tampa with people working at desks](PLACEHOLDER)
 
 ## Location Considerations for Your Business
 

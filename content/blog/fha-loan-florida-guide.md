@@ -27,7 +27,6 @@ Looking to buy a home in Florida but worried about that down payment? You're not
 
 Here's the real deal: FHA loans aren't just for people with perfect credit or massive savings accounts. They're designed for regular folks who want to own a home without emptying their retirement fund for a down payment.
 
-![Young couple reviewing FHA loan documents with a mortgage lender in a Florida real estate office](PLACEHOLDER)
 
 ## What Exactly Is an FHA Loan?
 
@@ -71,7 +70,6 @@ Florida offers several down payment assistance programs that stack with FHA loan
 
 **Local programs matter too.** Tampa offers the Neighborhood Lift program in select ZIP codes, providing $15,000 toward down payment and closing costs. St. Petersburg has similar programs for buyers purchasing in targeted revitalization areas.
 
-![Florida home with "Sold" sign showing FHA financing helped first-time buyers purchase their dream home](PLACEHOLDER)
 
 ## FHA Loan Limits in Florida (2024-2025)
 
@@ -128,7 +126,6 @@ Not all condos qualify for FHA financing. The entire condominium project must be
 
 This eliminates many newer condo developments and vacation rental properties. Before falling in love with that Clearwater Beach condo, verify FHA approval status.
 
-![FHA appraiser inspecting a Florida home's foundation and structural elements](PLACEHOLDER)
 
 ## Florida-Specific FHA Considerations
 
@@ -189,7 +186,6 @@ Florida's diverse population means lenders see unusual income sources regularly.
 
 From pre-approval to closing, expect 30-45 days. Florida's high transaction volume can create bottlenecks at appraisal and title company stages. Hurricane season (June-November) sometimes adds delays due to inspection scheduling challenges.
 
-![Florida family celebrating in front of their new home purchased with an FHA loan](PLACEHOLDER)
 
 ## Costs Beyond the Down Payment
 

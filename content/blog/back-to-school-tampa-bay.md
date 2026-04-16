@@ -23,11 +23,8 @@ schema:
 featuredImage: "/images/blog/back-to-school-tampa-bay.webp"
 ---
 
-# Back to School Tampa Bay — Everything Parents Need to Know
-
 August hits Tampa Bay like a freight train, and suddenly every parent realizes they've got about three weeks to figure out their back-to-school game plan. Whether you're new to the area or just need a refresher, here's everything you need to know to get your kids ready without losing your mind (or your wallet).
 
-![Parents and children shopping for school supplies at a busy Tampa Bay store during back-to-school season](PLACEHOLDER)
 
 ## School District Registration Deadlines
 
@@ -63,7 +60,6 @@ Pasco's growing fast — they've added over 5,000 students in the past three yea
 
 Here's the reality: you're going to spend $300-500 per kid on supplies, clothes, and fees. But you don't have to do it all in one weekend at Target with every other parent in Tampa Bay.
 
-![Organized display of back-to-school supplies including backpacks, notebooks, and writing materials](PLACEHOLDER)
 
 ### Best Places to Shop
 
@@ -93,7 +89,6 @@ Most teachers don't actually need 24 glue sticks and 48 pencils per kid. They're
 
 Tampa Bay's school zones can be confusing, especially if you're renting or just moved. Here's how to figure out where your kid actually goes to school.
 
-![Map showing Tampa Bay area school zones with highlighted boundaries and major roads](PLACEHOLDER)
 
 ### Finding Your Zoned School
 
@@ -124,7 +119,6 @@ Popular magnet programs like IB at Plant High or the medical academy at Hillsbor
 
 Most Tampa Bay schools require uniforms or have strict dress codes. Don't assume you know the rules — they change more often than you'd think.
 
-![Students in typical Tampa Bay school uniforms walking into a school building](PLACEHOLDER)
 
 ### Uniform Shopping
 
@@ -168,7 +162,6 @@ If you're doing car pickup, arrive 30-45 minutes early or you'll sit in line for
 - Hunter's Green Elementary (New Tampa)
 - Any school near MacDill AFB (military families mean more car riders)
 
-![Long line of cars in a school pickup zone with parents waiting to collect children](PLACEHOLDER)
 
 ## After-School Care Options
 
@@ -215,7 +208,6 @@ For kindergarten and new students:
 
 **CVS and Walgreens** accept most insurance and don't require appointments for basic immunizations.
 
-![School nurse's office with first aid supplies and health forms on display](PLACEHOLDER)
 
 ## Budget-Friendly Back-to-School Tips
 

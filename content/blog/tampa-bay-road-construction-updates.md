@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/tampa-bay-road-construction-updates.webp"
 ---
 
-# Tampa Bay Road Construction Updates — What's Being Built
-
 If you're moving to Tampa Bay or already live here, you've probably noticed we're in the middle of the biggest transportation transformation in decades. Between major highway expansions, new bridges, and transit projects, it feels like half the region is under construction. As someone who's been driving these roads since the late '90s, I can tell you — the short-term pain is worth the long-term gain.
 
 Here's what's actually being built, when it'll be done, and how it affects your daily commute.
 
-![Aerial view of Tampa Bay highway construction with cranes and work zones](PLACEHOLDER)
 
 ## Major Highway Projects Reshaping the Region
 
@@ -75,7 +72,6 @@ The Bayside Bridge connecting South Tampa to Westshore is getting a complete reb
 
 If you work in Westshore but live in [South Tampa](/neighborhoods/south-tampa/), plan an extra 10 minutes until this wraps up.
 
-![Construction crews working on the Bayside Bridge with Tampa skyline in background](PLACEHOLDER)
 
 ### Gandy Bridge Improvements
 
@@ -119,7 +115,6 @@ Continuing the extension from Thonotosassa Road to State Road 54 in Pasco County
 **Impact:** Major relief for I-75 commuters
 **Development:** Expect new shopping and housing along this corridor
 
-![Road construction equipment working on Bruce B. Downs Boulevard extension](PLACEHOLDER)
 
 ## Transit and Alternative Transportation
 
@@ -164,7 +159,6 @@ Construction typically happens during these windows:
 
 Check FL511.com or the FDOT app before leaving. I've saved countless hours by adjusting departure times by just 30 minutes.
 
-![Traffic management signs and construction barriers on a Tampa Bay highway](PLACEHOLDER)
 
 ## Completed Projects Making a Difference
 

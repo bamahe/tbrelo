@@ -25,7 +25,6 @@ featuredImage: "/images/blog/best-rain-gear-florida.webp"
 
 Look, after 23 years of showing houses in Tampa Bay, I've been caught in more Florida downpours than I care to count. One minute it's sunny, the next it's a wall of water that makes you question every life choice that brought you to this moment. But here's the thing — Florida rain isn't like rain anywhere else, and your gear needs to match that reality.
 
-![Person caught in sudden Florida downpour with inadequate umbrella](PLACEHOLDER)
 
 Florida's weather is basically bipolar. We get sunshine that could power a small city, then storms that roll in like nature's having a tantrum. In summer, it's not unusual to get drenched at 3 PM and bone dry by 4 PM. Winter brings those sneaky all-day drizzles that soak through everything. After getting soaked while showing a $800K home in [Westchase](/neighborhoods/westchase/) because I trusted a gas station umbrella, I learned my lesson.
 
@@ -49,7 +48,6 @@ December through February delivers a different beast — steady, persistent rain
 
 June through November brings the possibility of tropical systems. Even if we don't take a direct hit, the outer bands can dump 6-10 inches of rain in a day. [Hillsborough County](/counties/hillsborough/) has excellent drainage, but Mother Nature can overwhelm any system.
 
-![Florida weather map showing typical summer storm patterns](PLACEHOLDER)
 
 ## Umbrellas: Your First Line of Defense
 
@@ -95,7 +93,6 @@ When you need serious coverage — like walking clients from the parking lot to 
 
 This is overkill for most situations, but when you're dealing with sideways rain and need to keep yourself and clients dry, it's worth having. I keep one in my car specifically for house showings during storm season.
 
-![Collection of different umbrella types laid out for comparison](PLACEHOLDER)
 
 ## Rain Jackets and Ponchos
 
@@ -127,7 +124,6 @@ Affordable, lightweight, and completely waterproof. The trade-off is durability 
 
 Keep a few of these in your car, purse, and emergency kit. They're not pretty, but when you're caught in an unexpected downpour at [Curtis Hixon Park](/blog/downtown-tampa-guide/), pretty doesn't matter.
 
-![Rain jacket being tested in heavy rainfall](PLACEHOLDER)
 
 ## Rain Boots: Keeping Your Feet Happy
 
@@ -157,7 +153,6 @@ For when you need serious protection. 100% waterproof, comfortable enough for al
 
 Good quality at a reasonable price. Made in the USA, which is nice, and they hold up well to normal use. Available in fun colors and patterns if you want to embrace the "Florida rain gear" aesthetic.
 
-![Various rain boots displayed on wet pavement](PLACEHOLDER)
 
 ## Local Weather Services and Apps
 
@@ -197,7 +192,6 @@ Florida's humidity and salt air (if you're near the coast) can destroy gear quic
 
 Clean boots thoroughly after use, especially if you've walked through standing water. Florida's standing water can contain bacteria and chemicals that break down materials over time.
 
-![Rain gear storage setup in garage or closet](PLACEHOLDER)
 
 ## When to Upgrade Your Rain Gear
 
@@ -269,7 +263,6 @@ The quality approach pays off in durability, comfort, and actually staying dry.
 
 **Target/Walmart** — Budget options available, but quality varies significantly.
 
-![Local Tampa Bay store displaying rain gear selection](PLACEHOLDER)
 
 ## Frequently Asked Questions
 

@@ -27,7 +27,6 @@ Your dog *will* encounter a toad in Florida. It's not a matter of if — it's wh
 
 After 23 years helping families move to Tampa Bay, I've learned that nobody warns you about the real Florida dangers. Everyone talks about alligators and hurricanes. Meanwhile, a warty little toad sitting by your pool can be far more dangerous to your family pet than either of those.
 
-![Bufo toad (cane toad) sitting near a Florida home's pool area at dusk](PLACEHOLDER)
 
 ## Meet Florida's Most Dangerous Backyard Visitor
 
@@ -53,7 +52,6 @@ The real problem? Bufos don't run away. They sit there like a chew toy and leak 
 
 **The parotid glands:** Behind each eye, bufos have massive poison glands that look like inflated balloons. These are their weapons.
 
-![Close-up comparison showing the difference between a bufo toad and a native Florida toad](PLACEHOLDER)
 
 ## Bufo Toad Toxicity Symptoms — Every Second Counts
 
@@ -109,7 +107,6 @@ Tell them "possible bufo toad poisoning" and your ETA. They'll prep treatment.
 - Monitor breathing — if it stops, you're doing rescue breathing
 - Note the time symptoms started — vets need this info
 
-![Dog receiving emergency treatment at veterinary clinic](PLACEHOLDER)
 
 ## What Vets Do (And Why It's Expensive)
 
@@ -148,7 +145,6 @@ This is harder than it sounds. You're fighting millions of years of evolution. S
 
 **Supervised bathroom breaks:** Don't just let them out. Go with them, flashlight in hand.
 
-![Family dog on leash during evening walk in Florida neighborhood](PLACEHOLDER)
 
 ## Seasonal Patterns and High-Risk Times
 
@@ -175,7 +171,6 @@ Coming from up north? This isn't like dealing with raccoons or possums. Bufos ca
 
 The good news? Once you know what to look for and how to respond, bufo encounters become manageable. Most long-time Florida residents have a story about a close call that taught them to take this seriously.
 
-![Florida homeowner using flashlight to check backyard for toads at night](PLACEHOLDER)
 
 ## Beyond Dogs — Other Pets and Humans
 

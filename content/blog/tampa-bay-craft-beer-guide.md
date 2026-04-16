@@ -25,7 +25,6 @@ featuredImage: "/images/blog/tampa-bay-craft-beer-guide.webp"
 
 The Tampa Bay craft beer scene isn't just about drinking — it's about community, innovation, and some seriously good brewing that rivals any major city. After 23 years helping people relocate here, I've watched this region transform from a few scattered breweries to one of Florida's premier beer destinations. Whether you're moving here or just visiting, understanding our craft beer landscape helps you understand Tampa Bay culture itself.
 
-![Overview shot of multiple Tampa Bay brewery logos and tasting rooms](PLACEHOLDER)
 
 ## The Big Three: Tampa Bay's Flagship Breweries
 
@@ -51,7 +50,6 @@ Before the recent craft beer explosion, Coppertail was grinding it out in Ybor C
 
 The Unholy Trippel Belgian-style ale showcases their technical brewing skills, while their Free Dive IPA keeps things approachable. What sets Coppertail apart is their commitment to the neighborhood — they regularly host community events and their outdoor patio hosts everything from yoga classes to local band performances.
 
-![Interior shot of a Tampa Bay brewery taproom showing industrial-modern design with patrons](PLACEHOLDER)
 
 ## The New Generation: Rising Stars Worth Watching
 
@@ -73,7 +71,6 @@ For beer geeks who want to push boundaries, Angry Chair at 6550 N Nebraska Avenu
 
 **Warning:** Their high-ABV stouts and sours aren't for beginners. But if you appreciate complexity and aren't afraid of bold flavors, Angry Chair represents Tampa Bay brewing at its most adventurous.
 
-![Close-up shot of beer tasting flight with Tampa Bay brewery glasses](PLACEHOLDER)
 
 ## Neighborhood Beer Scenes: Where Locals Actually Drink
 
@@ -98,7 +95,6 @@ St. Pete's downtown brewery scene spans from **3 Daughters** near the waterfront
 
 Beyond Coppertail, Ybor City's brewery scene includes **Rock Brothers Brewing** and several beer-focused bars that pour exclusively local taps. The historic district's late-night culture means many breweries stay open past typical suburban closing times.
 
-![Outdoor brewery patio scene with string lights and Tampa Bay skyline in background](PLACEHOLDER)
 
 ## Seasonal Events and Festivals: When Tampa Bay Beer Shines
 
@@ -118,7 +114,6 @@ Usually held in November, St. Pete Beer Week features collaborative brews, speci
 
 During January's Gasparilla season, several breweries create special releases tied to Tampa's pirate festival. **Coppertail's Gasparilla Amber** and **Cigar City's Gasparilla Honey Wheat** become temporary local celebrities.
 
-![Festival scene showing beer tents and crowds at a Tampa Bay brewery event](PLACEHOLDER)
 
 ## The Economics: What You Need to Know
 
@@ -167,7 +162,6 @@ This requires planning and possibly multiple trips:
 2. **Angry Chair's** barrel-aged program (limited releases, often pre-order only)
 3. **Coppertail's** collaboration brews (usually announced a week in advance)
 
-![Beer bottles and cans from various Tampa Bay breweries arranged on a table](PLACEHOLDER)
 
 ## Food Pairings: Tampa Bay Beer Meets Local Cuisine
 

@@ -27,7 +27,6 @@ Finding the right pediatrician for your family isn't just another item on your T
 
 Tampa Bay's pediatric landscape is anchored by world-class children's hospitals, but navigating insurance networks, office cultures, and scheduling realities requires local insight. Here's what you actually need to know.
 
-![Tampa Bay pediatric office waiting room with families and children's play area](PLACEHOLDER)
 
 ## The Major Healthcare Players
 
@@ -116,7 +115,6 @@ Once kids start school, convenience becomes king. You'll need:
 
 Adolescent medicine requires different skills. Look for providers comfortable discussing mental health, substance use, and reproductive health. Some practices have teen-specific hours or providers.
 
-![Diverse group of children in a Tampa Bay pediatric clinic examination room](PLACEHOLDER)
 
 ## Insurance Deep Dive
 
@@ -212,7 +210,6 @@ MacDill Air Force Base families have unique considerations. Tricare works with m
 
 Families moving from overseas should verify vaccination records meet Florida requirements. Some pediatricians specialize in international health transitions and can help navigate documentation requirements.
 
-![Tampa Bay family walking into a modern pediatric clinic building](PLACEHOLDER)
 
 ## Red Flags to Avoid
 

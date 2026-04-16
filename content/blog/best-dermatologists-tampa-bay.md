@@ -35,7 +35,6 @@ Tampa Bay sits at the 28th parallel — the same latitude as the Sahara Desert. 
 
 The combination of year-round outdoor lifestyle and intense sun creates perfect conditions for skin damage. I've seen clients who moved here from Chicago or Boston develop more sun spots in two years than they had in the previous decade.
 
-![Dermatologist examining patient's skin with dermatoscope in modern Tampa Bay medical office](PLACEHOLDER)
 
 ### Local Environmental Factors
 
@@ -115,7 +114,6 @@ Most dermatologists accept major insurance plans, but here's what newcomers ofte
 
 Tampa Bay's competitive healthcare market means most practices accept multiple insurance plans, unlike some markets where dermatologists can afford to be selective.
 
-![Modern dermatology waiting room with educational materials about skin cancer prevention](PLACEHOLDER)
 
 ## Specialized Services Available
 
@@ -172,7 +170,6 @@ Schedule urgent appointments for:
 - New growths that bleed or itch
 - Spots that look different from surrounding skin
 
-![Close-up comparison of normal mole versus suspicious skin lesion with warning signs labeled](PLACEHOLDER)
 
 ## Preventive Care Strategies
 

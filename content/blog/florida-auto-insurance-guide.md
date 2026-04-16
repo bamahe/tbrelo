@@ -23,7 +23,6 @@ schema:
 featuredImage: "/images/blog/florida-auto-insurance-guide.webp"
 ---
 
-![Florida auto insurance documents spread on a car dashboard with Tampa Bay skyline in background](PLACEHOLDER)
 
 Moving to Florida means dealing with some unique auto insurance requirements that catch a lot of newcomers off guard. After 23 years of helping families relocate here, I've seen plenty of sticker shock when people get their first Florida insurance quotes. The state's no-fault system and mandatory Personal Injury Protection (PIP) coverage make things different — and often more expensive — than what you might be used to.
 
@@ -65,7 +64,6 @@ Florida doesn't require comprehensive or collision coverage, but your lender cer
 
 ## Understanding Florida's No-Fault System
 
-![Diagram showing how Florida's no-fault insurance works with PIP and liability coverage interactions](PLACEHOLDER)
 
 The no-fault system means your insurance company pays your medical bills and lost wages first, regardless of who caused the accident. You can only sue the other driver if your injuries meet Florida's "serious injury threshold" or your medical bills exceed your PIP limits.
 
@@ -145,7 +143,6 @@ Given Florida's higher base rates, multi-policy discounts become more valuable. 
 
 Florida allows insurance companies to use credit scores in rating, and they use them aggressively. A poor credit score can double your insurance premiums. If your credit took a hit during your relocation, shop around — different companies weight credit scores differently.
 
-![Florida auto insurance comparison chart showing different coverage levels and costs](PLACEHOLDER)
 
 ## Special Considerations for New Florida Residents
 

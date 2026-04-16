@@ -27,7 +27,6 @@ Solar panels on Florida homes have gone from rare curiosity to mainstream featur
 
 Here's what you actually need to know when you're looking at homes with solar panels in Florida. No sales pitch, just the real deal from someone who's been there when the paperwork gets interesting.
 
-![Aerial view of a typical Florida home with solar panels on the roof showing the installation across multiple roof sections](PLACEHOLDER)
 
 ## The Solar Reality Check in Florida
 
@@ -65,7 +64,6 @@ With a PPA, you buy the power the panels produce at a set rate, usually lower th
 
 **Transfer Issues:** PPAs also transfer with the home and can be just as problematic as leases for buyers who prefer simpler arrangements.
 
-![Close-up view of solar panels on a Florida home roof with visible mounting hardware and electrical connections](PLACEHOLDER)
 
 ## How Solar Affects Home Values in Tampa Bay
 
@@ -108,7 +106,6 @@ When you're buying a home with solar panels, your inspection process needs extra
 
 **For Leased Systems/PPAs:** Review the complete agreement terms, including escalation clauses, transfer requirements, maintenance responsibilities, and early termination costs. Some agreements require credit approval for transfer.
 
-![Interior shot of a modern Florida home electrical panel showing solar system integration with proper labeling and shutoffs](PLACEHOLDER)
 
 ## Insurance and Solar Panels in Florida
 
@@ -174,7 +171,6 @@ Installing solar on a 12-year-old roof means you'll likely need to remove panels
 
 Some HOAs have restrictions on solar panel placement or appearance. Verify compliance before assuming the installation will transfer to you without issues.
 
-![Wide shot of a Florida subdivision showing multiple homes with and without solar panel installations to demonstrate the variety in neighborhoods](PLACEHOLDER)
 
 ## When Solar Makes Sense vs. When It Doesn't
 

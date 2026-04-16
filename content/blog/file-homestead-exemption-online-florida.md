@@ -23,15 +23,12 @@ schema:
 featuredImage: "/images/blog/file-homestead-exemption-online-florida.webp"
 ---
 
-# How to File for Florida Homestead Exemption Online (Step by Step)
-
 Let me cut straight to the chase: filing for Florida homestead exemption online could save you thousands of dollars annually in property taxes. After helping Tampa Bay families relocate for over two decades, I've watched too many homeowners miss this crucial filing deadline and pay the price — literally.
 
 The homestead exemption reduces your property's assessed value by up to $50,000 for property tax purposes. In Hillsborough County, that translates to roughly $1,200-$1,500 in annual tax savings. In Pinellas County, you're looking at similar numbers. Miss the March 1st deadline? You're stuck paying full freight until next year.
 
 Here's everything you need to know about filing online, county by county, with the actual steps I walk my clients through every year.
 
-![Screenshot of Florida homestead exemption online filing portal showing the main application interface](PLACEHOLDER)
 
 ## What Is Florida Homestead Exemption (The Real Numbers)
 
@@ -136,7 +133,6 @@ Double-check everything:
 
 **Confirmation:** You'll receive an immediate email confirmation with application number. Screenshot this page too.
 
-![Step-by-step visual guide showing the HCPA online application process with numbered screenshots](PLACEHOLDER)
 
 ## Step-by-Step: Pinellas County Online Filing
 
@@ -222,7 +218,6 @@ Counties will email requests for additional documentation. **Response deadline:*
 
 Your November tax bill will reflect the exemption. **Double-check this** — errors happen, and it's easier to fix before you pay.
 
-![Example tax bill showing homestead exemption savings with highlighted sections explaining the reduction](PLACEHOLDER)
 
 ## Troubleshooting Common Online Issues
 

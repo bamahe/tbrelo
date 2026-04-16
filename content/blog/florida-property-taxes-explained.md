@@ -23,15 +23,12 @@ schema:
 featuredImage: "/images/blog/florida-property-taxes-explained.webp"
 ---
 
-# Florida Property Taxes Explained — County by County Breakdown
-
 If you're moving to Florida, you've probably heard the good news: no state income tax. The reality check? Property taxes here aren't exactly pocket change, and they vary wildly depending on where you plant your flag.
 
 After 23 years of helping families navigate Tampa Bay real estate, I've seen too many buyers get blindsided by their first tax bill. A $400,000 home in Hillsborough County costs you about $4,800 annually in property taxes. That same house in neighboring Pasco? You're looking at closer to $3,600. 
 
 Let me break down exactly what you're signing up for — county by county, with real numbers and zero fluff.
 
-![Florida map highlighting property tax rates by county with color-coded legend](PLACEHOLDER)
 
 ## How Florida Property Tax Actually Works
 
@@ -125,7 +122,6 @@ Agricultural area with minimal services translates to minimal taxes.
 **Bradford County: 0.58% effective rate**
 Small county north of Gainesville offers low taxes but limited job opportunities outside agriculture and small business.
 
-![Comparison chart showing property tax rates across Florida counties](PLACEHOLDER)
 
 ## What Drives Property Tax Differences
 
@@ -180,7 +176,6 @@ Here's a real example: Your $400,000 home appreciates 8% in one year (not uncomm
 
 Investment properties and vacation homes get no such protection.
 
-![Calculator showing property tax calculations with homestead exemption benefits](PLACEHOLDER)
 
 ## Understanding Your Tax Bill Timeline
 
@@ -267,7 +262,6 @@ Florida's property taxes rank middle-of-the-pack nationally, but the no-state-in
 
 The math gets even better for higher income households who save more on income tax elimination.
 
-![Side-by-side comparison of total tax burden across different states](PLACEHOLDER)
 
 ## What to Expect Moving Forward
 

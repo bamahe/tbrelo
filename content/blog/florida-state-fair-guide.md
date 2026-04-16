@@ -27,7 +27,6 @@ The Florida State Fair rolls into Tampa every February like a carnival fever dre
 
 This isn't your quaint county fair. The Florida State Fair draws 500,000+ people annually to the fairgrounds at 4800 US Highway 301 North. It's massive, overwhelming, and absolutely essential Tampa Bay experience — if you know how to navigate it.
 
-![Aerial view of Florida State Fair midway with crowds and colorful rides against Tampa skyline](PLACEHOLDER)
 
 ## When and Where: The Basics You Need
 
@@ -53,7 +52,6 @@ Here's where most people blow it — they show up at 2 PM on Saturday and circle
 
 **Pro tip:** Arrive before 11 AM or after 7 PM for easier parking. The 1-6 PM window is absolute chaos, especially weekends.
 
-![Crowded parking lot at Florida State Fair with families walking toward entrance gates](PLACEHOLDER)
 
 ## Food: The Real Reason We're Here
 
@@ -93,7 +91,6 @@ Budget $8-15 per novelty item. Half are brilliant, half are Instagram bait that 
 
 **Bottled Water:** $4-5 for a bottle you can get for $1 outside. Bring your own or use water fountains.
 
-![Vendors serving funnel cakes and turkey legs at crowded fair food court](PLACEHOLDER)
 
 ---
 
@@ -133,7 +130,6 @@ The midway operates on a ticket system, not individual ride prices. Tickets cost
 
 **Duck Pond:** Your kid will pick the one duck without a prize underneath. Guaranteed.
 
-![Ferris wheel lit up at night with Tampa city lights visible in background](PLACEHOLDER)
 
 ## Navigating the Crowds: Timing Is Everything
 
@@ -171,7 +167,6 @@ The Florida State Fair gets packed. We're talking Disney World-level crowds some
 - Expectations of healthy food
 - Your diet
 
-![Families walking through crowded fair midway with game booths and food stands](PLACEHOLDER)
 
 ## Special Events and Entertainment
 
@@ -219,7 +214,6 @@ Ways to save money:
 - Skip the games entirely
 - Buy discounted tickets online in advance
 
-![Fair entrance gate with crowds entering and colorful signage advertising attractions](PLACEHOLDER)
 
 ## Tampa Bay Context: Why This Matters
 

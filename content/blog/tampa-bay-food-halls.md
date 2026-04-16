@@ -27,7 +27,6 @@ Food halls have transformed Tampa Bay's dining scene from scattered strip malls 
 
 The best food halls here aren't just about convenience — they're about discovery. You'll find James Beard-nominated chefs slinging tacos next to third-generation family recipes, all under one roof with craft beer on tap.
 
-![Wide shot of a bustling Tampa Bay food hall with diverse vendors and diners](PLACEHOLDER)
 
 ## Armature Works (Tampa Heights)
 
@@ -57,7 +56,6 @@ Parking costs $5 on weekdays, $10 on weekends — but it's validated with purcha
 
 The space hosts regular events including live music, yoga classes, and seasonal festivals. Check their calendar before visiting — weekend events can draw 5,000+ people.
 
-![Interior shot of Armature Works showing the industrial architecture and multiple food vendors](PLACEHOLDER)
 
 ---
 
@@ -93,7 +91,6 @@ Weekday lunch sees business crowds from downtown St. Pete, while weekends draw f
 
 The food hall connects to the pier's other attractions including the Tampa Bay Watch Discovery Center and Marketplace. Budget 2-3 hours for the full experience.
 
-![Panoramic view of St. Pete Pier Food Hall with Tampa Bay in the background](PLACEHOLDER)
 
 ## Tampa Edition Food Hall (Water Street)
 
@@ -113,7 +110,6 @@ Expect higher prices but restaurant-quality execution. The marble countertops, b
 
 The location puts you in walking distance of Amalie Arena, the Tampa Theatre, and the Riverwalk, making it perfect for pre-event dining.
 
-![Interior view of Tampa Edition Food Hall showing upscale design and dining areas](PLACEHOLDER)
 
 ## Sparkman Wharf (Tampa)
 
@@ -141,7 +137,6 @@ Live music happens Thursday through Sunday evenings, with local bands and occasi
 
 Free parking fills up quickly after 5 PM and weekends. Arrive early or use rideshare services.
 
-![Outdoor view of Sparkman Wharf showing shipping container vendors and waterfront seating](PLACEHOLDER)
 
 ## The Collective (St. Petersburg)
 
@@ -185,7 +180,6 @@ Multiple food stations within the larger space offer different cuisines and serv
 
 The full-service restaurant section provides white-tablecloth dining, while the casual areas encourage laptop work and informal meetings.
 
-![Interior shot of Oxford Exchange showing the bookstore-cafe atmosphere with food stations](PLACEHOLDER)
 
 ## Westshore Food Halls and Markets
 
@@ -203,7 +197,6 @@ The mall location provides climate-controlled comfort year-round, plus shopping 
 
 The developing Citrus Park area in northwest Hillsborough County lacks a dedicated food hall but offers food truck gatherings and farmer's market events that serve similar community functions.
 
-![Food court scene showing diverse dining options and shoppers](PLACEHOLDER)
 
 ## Food Truck Rallies and Rotating Venues
 
@@ -241,7 +234,6 @@ Food hall prices typically run 20-30% higher than comparable standalone restaura
 
 Many venues offer happy hour specials 3-6 PM weekdays with discounted drinks and appetizers.
 
-![Overview shot of diners enjoying various cuisines in a busy food hall setting](PLACEHOLDER)
 
 ## The Future of Tampa Bay Food Halls
 

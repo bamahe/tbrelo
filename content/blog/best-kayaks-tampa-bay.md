@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/best-kayaks-tampa-bay.webp"
 ---
 
-# Best Kayaks for Tampa Bay Waters: A Local's Guide to Choosing the Right Boat
-
 After 23 years in Tampa Bay real estate, I've paddled these waters in everything from basic recreational kayaks to high-end fishing rigs. When clients ask about the best kayaks for our unique conditions, I tell them the same thing: Tampa Bay isn't your typical lake. We've got shallow grass flats, open bay crossings, tidal currents, and enough wind to humble any paddler.
 
 The wrong kayak here means fighting the elements instead of enjoying them. The right one opens up 400 square miles of some of Florida's best paddling waters.
 
-![Wide shot of kayakers paddling across Tampa Bay with downtown skyline in background](PLACEHOLDER)
 
 ## Why Tampa Bay Demands Different Kayaks
 
@@ -69,7 +66,6 @@ The [Ocean Kayak Prowler Big Game II]({{amazon:B07QXYZ123}}) isn't the cheapest 
 
 **Best For:** Intermediate to advanced paddlers who want one kayak for everything Tampa Bay offers.
 
-![Ocean Kayak Prowler loaded with fishing gear on a calm Tampa Bay morning](PLACEHOLDER)
 
 ## Best Budget Option: Lifetime Stealth Pro Angler 118
 
@@ -99,7 +95,6 @@ The [Hobie Tandem Island]({{amazon:B09ABCXYZ789}}) at $4,500 is an investment, b
 
 **Best For:** Couples who want to explore Tampa Bay together without relationship counseling afterward.
 
-![Couple on Hobie Tandem Island kayak with St. Petersburg skyline visible in distance](PLACEHOLDER)
 
 ## Best Fishing Platform: Native Watercraft Slayer Propel 13
 
@@ -129,7 +124,6 @@ The [Perception Pescador Pilot 12]({{amazon:B08QRSXYZ567}}) at $1,400 works perf
 
 **Best For:** Smaller paddlers, seniors, or anyone who prioritizes maneuverability over speed.
 
-![Solo paddler in Perception Pescador navigating through mangrove tunnels](PLACEHOLDER)
 
 ## Sit-On-Top vs Sit-Inside for Tampa Bay
 
@@ -167,7 +161,6 @@ In Tampa Bay, sit-on-top wins by a landslide. Here's why:
 
 **Standing Ability:** Not just for fishing. Being able to stand and stretch prevents the cramping that comes with long sits.
 
-![Close-up of kayak storage compartments filled with typical Tampa Bay gear - sunscreen, water, snacks](PLACEHOLDER)
 
 ## Local Kayak Shopping Resources
 
@@ -208,7 +201,6 @@ Your kayak choice should match where you plan to paddle most often:
 - Fishing the deep structure near shipping channels
 - Multi-day camping trips to state park islands
 
-![Aerial view showing various Tampa Bay paddling destinations with different water conditions](PLACEHOLDER)
 
 ## Safety Considerations for Tampa Bay Waters
 
@@ -253,7 +245,6 @@ Tampa Bay's subtropical climate is tough on kayaks:
 
 **Hardware Maintenance:** Stainless steel hardware resists corrosion better than standard steel in our marine environment.
 
-![Kayak being rinsed off at boat ramp with Tampa Bay in background](PLACEHOLDER)
 
 ## Making Your Decision
 

@@ -27,7 +27,6 @@ Land O' Lakes sits in that sweet spot where Tampa Bay's suburban sprawl meets ac
 
 Most people drive through on State Road 54 and see strip malls and think "generic suburbia." What they miss is the collection of distinct neighborhoods tucked away from the main roads, some of the area's top-rated schools, and a community that's managed to maintain its character despite explosive growth.
 
-![Aerial view of Land O' Lakes showing the mix of established neighborhoods and newer developments with preserved green spaces](PLACEHOLDER)
 
 Let me give you the real story about living here — the good, the challenging, and everything in between.
 
@@ -57,7 +56,6 @@ The neighborhood wraps around several small lakes and features well-maintained c
 
 **School zoning is excellent** — kids attend Sunlake High School, one of the area's top-rated schools.
 
-![Street view of a typical Arbor Greene neighborhood showing mature landscaping and diverse home styles](PLACEHOLDER)
 
 ### Heritage Harbor — Active Adult Living
 
@@ -77,7 +75,6 @@ These communities represent Land O' Lakes' continued growth, with homes starting
 
 **The catch:** These are still building out, so you might be living with construction noise and limited mature landscaping for several years.
 
-![New construction homes in one of Land O' Lakes' newer developments showing modern architecture and planned landscaping](PLACEHOLDER)
 
 ---
 
@@ -127,7 +124,6 @@ Groceries cost about 8% more than the national average, but you have good option
 
 Dining out ranges from cheap (Chipotle, local pizza joints) to moderate (Outback, Olive Garden) with limited high-end options locally. Most fine dining requires a drive to Tampa or Westchase.
 
-![Interior of a local restaurant showing the casual dining options available in Land O' Lakes](PLACEHOLDER)
 
 ## Schools — The Major Draw
 
@@ -165,7 +161,6 @@ Many families also consider options in nearby Tampa or Wesley Chapel for special
 
 Growth is straining capacity. Several schools are overcrowded, and new construction hasn't kept pace with development. Some families find themselves rezoned as new schools open, and bus routes can be long due to the area's spread-out nature.
 
-![Students outside Sunlake High School showing the modern facilities and campus environment](PLACEHOLDER)
 
 ## Getting Around — Transportation Reality
 
@@ -211,7 +206,6 @@ The area has some nice recreational trails, particularly around the lakes, but t
 
 **Saddlebrook Resort** (technically in Wesley Chapel but serves the area) offers golf, tennis, and spa services for those wanting resort-style recreation close to home.
 
-![Scenic view of one of Land O' Lakes' natural lakes with walking trail and native vegetation](PLACEHOLDER)
 
 ### Lake Activities
 
@@ -249,7 +243,6 @@ The local dining scene is growing but still limited compared to urban areas:
 
 Several urgent care centers and medical offices are scattered throughout the area, and Tampa's major medical facilities are 30-45 minutes away for specialized care.
 
-![Exterior of a local medical facility showing the healthcare options available to residents](PLACEHOLDER)
 
 ---
 
@@ -305,7 +298,6 @@ Land O' Lakes experiences typical central Florida weather — hot, humid summers
 
 **Wildlife encounters** happen regularly — alligators in lakes and ponds, various snakes (most harmless), wild turkeys, sandhill cranes, and occasional bears. It's part of living near preserved natural areas.
 
-![Wildlife scene showing some of the native animals residents might encounter in their neighborhoods](PLACEHOLDER)
 
 ## Future Development and Investment Outlook
 

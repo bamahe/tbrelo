@@ -29,7 +29,6 @@ Indian Rocks Beach whispers where Madeira Beach shouts. IRB, as locals call it, 
 
 But which one fits your relocation plans? Let's dig into what really matters when you're choosing between these two Pinellas County gems.
 
-![Aerial view comparing the quieter residential streets of Indian Rocks Beach with the bustling John's Pass area of Madeira Beach](PLACEHOLDER)
 
 ## The Vibe Check: Quiet Luxury vs. Active Fun
 
@@ -49,7 +48,6 @@ The energy here attracts a younger demographic — families with teenagers, coup
 
 But don't mistake activity for chaos. Madeira Beach manages its crowd well, with organized events, proper beach maintenance, and enough variety to keep different groups happy without stepping on each other's toes.
 
-![Side-by-side comparison showing a quiet residential street in Indian Rocks Beach versus the bustling John's Pass boardwalk in Madeira Beach](PLACEHOLDER)
 
 ## Real Estate Reality: What Your Money Actually Buys
 
@@ -99,7 +97,6 @@ Madeira Beach transforms recreation into events. The fishing scene alone support
 
 Water sports thrive here: jet ski rentals start at $90 per hour, parasailing runs $85 per person, and dolphin-watching cruises operate year-round. The active marina at John's Pass means boaters have immediate access to fuel, bait, and repairs.
 
-![Comparison of recreational activities showing serene beach reading in Indian Rocks Beach versus active water sports and fishing charters in Madeira Beach](PLACEHOLDER)
 
 ## Schools and Family Considerations
 
@@ -123,7 +120,6 @@ Madeira Beach offers more immediate entertainment for families with older childr
 
 Summer programs through the city recreation department include beach volleyball leagues, fishing clinics, and environmental education programs. The proximity to multiple water sport operators means teens can easily find part-time jobs during peak seasons.
 
-![Family-friendly activities comparison showing quiet beach play in Indian Rocks Beach versus active boardwalk fun at John's Pass in Madeira Beach](PLACEHOLDER)
 
 ## Getting Around: Transportation and Commutes
 
@@ -165,7 +161,6 @@ Utility costs vary by property type and age. Newer construction with efficient H
 
 Water and sewer services come through Pinellas County, with typical monthly costs of $45-$75 for average usage. Both communities impose impact fees for new construction that get passed to buyers through higher purchase prices.
 
-![Cost comparison infographic showing housing, utilities, and daily expenses between Indian Rocks Beach and Madeira Beach](PLACEHOLDER)
 
 ## Weather, Natural Disasters, and Insurance
 
@@ -209,7 +204,6 @@ The insurance market continues tightening, with several major carriers exiting F
 
 **Community events and social opportunities.** You want neighbors who organize block parties, participate in local festivals, and create the kind of community connections that make coastal living memorable.
 
-![Final comparison showing the serene sunset views of Indian Rocks Beach contrasted with the lively evening atmosphere at John's Pass in Madeira Beach](PLACEHOLDER)
 
 ## The Bottom Line Decision
 

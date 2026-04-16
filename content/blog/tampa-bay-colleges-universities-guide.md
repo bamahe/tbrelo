@@ -23,11 +23,8 @@ schema:
 featuredImage: "/images/blog/tampa-bay-colleges-universities-guide.webp"
 ---
 
-# USF, UT, and Tampa Bay Colleges — Guide for Families
-
 Whether your teenager is eyeing college or you're relocating for graduate school yourself, Tampa Bay's higher education landscape offers something for everyone. After 23 years of helping families move here, I've watched parents navigate everything from in-state tuition questions to finding apartments near campus. Here's your straight-talk guide to what you need to know.
 
-![Aerial view of USF Tampa campus showing the modern buildings, green spaces, and student life areas](PLACEHOLDER)
 
 ## University of South Florida — The Public Powerhouse
 
@@ -73,7 +70,6 @@ Most freshmen live on campus in traditional residence halls or the newer Straz T
 
 Downtown living means walkable restaurants, internship opportunities, and nightlife. It also means higher rent ($1,200-2,000 for a studio or one-bedroom) and city parking challenges.
 
-![University of Tampa's iconic Plant Hall with its distinctive minarets reflected in the Hillsborough River](PLACEHOLDER)
 
 ## Hillsborough Community College — The Smart Start
 
@@ -116,7 +112,6 @@ This small private college (1,500 students) focuses on liberal arts education wi
 
 Located in Westshore, this career-focused institution offers programs in culinary arts, design, and media production. While for-profit colleges require careful evaluation, the culinary program has strong industry connections locally.
 
-![Students studying at outdoor tables on a Tampa Bay area college campus with palm trees and modern buildings in the background](PLACEHOLDER)
 
 ## College Planning Strategy for Families
 

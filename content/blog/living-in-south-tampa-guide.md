@@ -27,7 +27,6 @@ South Tampa isn't just another Florida neighborhood — it's the gold standard t
 
 Let me give you the unfiltered truth about what life is really like in Tampa's most desirable area.
 
-![Aerial view of South Tampa showing tree-lined streets, upscale homes, and proximity to downtown Tampa skyline](PLACEHOLDER)
 
 ## What Defines South Tampa
 
@@ -46,7 +45,6 @@ When people say "South Tampa," they're usually talking about the 33606, 33609, a
 
 This geography matters because it puts you 10-15 minutes from downtown Tampa, 20 minutes from Tampa International Airport, and walking distance from some of the city's best restaurants and nightlife.
 
-![Map showing South Tampa boundaries and key neighborhoods with major roads and landmarks labeled](PLACEHOLDER)
 
 ## The Neighborhoods That Make South Tampa Special
 
@@ -76,7 +74,6 @@ Palma Ceia offers the South Tampa lifestyle with slightly more space and often b
 
 The Palma Ceia Golf & Country Club anchors the neighborhood, providing a social hub for families who want the country club lifestyle without leaving the city.
 
-![Street view of a typical South Tampa neighborhood showing mature oak trees, sidewalks, and well-maintained homes](PLACEHOLDER)
 
 ## Housing Market Reality Check
 
@@ -107,7 +104,6 @@ Hillsborough County property taxes will run about 1.2% of assessed value annuall
 
 Many South Tampa neighborhoods have voluntary civic associations ($100-$300 annually), but mandatory HOA fees are less common unless you're in a condo or townhome community.
 
-![Interior shot of a renovated South Tampa home showing high-end finishes and open floor plan](PLACEHOLDER)
 
 ---
 
@@ -151,7 +147,6 @@ Tuition ranges from $15K-$30K annually, but many South Tampa families see this a
 
 Here's what nobody tells you: even with great public schools, many South Tampa families still choose private education. This isn't about academics — it's about network building and social connections that extend beyond graduation.
 
-![Students walking on Plant High School campus with the iconic building in the background](PLACEHOLDER)
 
 ## Cost of Living: The Full Picture
 
@@ -210,7 +205,6 @@ The 4.5-mile continuous sidewalk along Tampa Bay isn't just exercise infrastruct
 
 **Knight's Parade:** The annual Gasparilla celebration turns Bayshore into Tampa's biggest party, but residents get front-row seats from their yards.
 
-![People jogging and walking along Bayshore Boulevard with Tampa Bay and downtown skyline in background](PLACEHOLDER)
 
 ## Transportation and Commuting
 
@@ -238,7 +232,6 @@ Street parking in Hyde Park can be nightmare during events. Many homes have driv
 
 Downtown Tampa parking runs $10-$20 for events, so factor this into your social budget.
 
-![Traffic on Kennedy Boulevard during rush hour showing typical South Tampa commute conditions](PLACEHOLDER)
 
 ## Weather and Lifestyle Considerations
 
@@ -307,7 +300,6 @@ South Tampa attracts:
 - **Traffic courtesy:** Narrow streets require patience and cooperation
 - **Support local:** Shopping and dining locally isn't just convenient, it's expected
 
-![Community event in a South Tampa park showing families and neighbors gathering](PLACEHOLDER)
 
 ## Pros and Cons: The Honest Assessment
 
@@ -365,7 +357,6 @@ The key is being honest about your budget and priorities. If you can afford Sout
 
 After 23 years of helping families relocate, I've seen both outcomes. The happiest South Tampa residents are those who buy what they can comfortably afford and embrace the neighborhood's character — narrow streets, hurricane prep, and all.
 
-![Sunset view over Tampa Bay from Bayshore Boulevard showing why people love living in South Tampa](PLACEHOLDER)
 
 ## Frequently Asked Questions
 

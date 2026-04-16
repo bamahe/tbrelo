@@ -23,15 +23,12 @@ schema:
 featuredImage: "/images/blog/first-time-homebuyer-programs-florida.webp"
 ---
 
-# First-Time Homebuyer Programs in Florida — Every Option Explained
-
 Buying your first home in Florida doesn't have to drain your savings account or require a miracle. After 23+ years of helping Tampa Bay buyers navigate these waters, I've seen countless first-time buyers discover programs that saved them tens of thousands of dollars — money they didn't even know was available.
 
 The landscape changed dramatically post-2020. With median home prices in Tampa Bay hitting $425,000 and Orlando climbing to $385,000, these programs aren't just nice-to-haves anymore. They're essential tools that can mean the difference between homeownership and another year of rent increases.
 
 Here's what actually works in 2024, minus the marketing fluff you'll find elsewhere.
 
-![Florida home with sold sign and happy family moving in](PLACEHOLDER)
 
 ## What Qualifies You as a First-Time Buyer in Florida
 
@@ -106,7 +103,6 @@ In Tampa Bay:
 
 These programs typically require 5-10 year commitments. Leave before your forgiveness period ends, and you'll repay the assistance on a prorated basis.
 
-![SHIP program application paperwork and calculator showing savings](PLACEHOLDER)
 
 ## County and City Programs
 
@@ -168,7 +164,6 @@ Popular programs often have waiting lists. Hillsborough County's AFFORD program 
 
 Some programs operate year-round but with limited funding. FHFC programs usually have funding available, but county programs can exhaust their allocation quickly.
 
-![Home keys on mortgage documents with down payment assistance paperwork](PLACEHOLDER)
 
 ---
 
@@ -244,7 +239,6 @@ From start to keys in hand, expect 3-5 months for first-time buyers using assist
 
 Rush jobs rarely work well with assistance programs. These involve multiple funding sources that need coordination. Build buffer time into your plans.
 
-![Timeline chart showing first-time buyer process from application to closing](PLACEHOLDER)
 
 ## Tips for Success
 

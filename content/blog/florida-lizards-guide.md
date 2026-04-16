@@ -39,7 +39,6 @@ They're originally from Cuba and the Bahamas but have been Florida residents sin
 
 Brown anoles eat bugs. Lots of bugs. A single anole can consume dozens of insects daily, including mosquitoes, flies, and those palmetto bugs that horrify newcomers. They're basically tiny, free pest control services with attitude.
 
-![Brown anole displaying on a fence post in a Tampa Bay backyard](PLACEHOLDER)
 
 ### Green Anoles (Anolis carolinensis)
 
@@ -77,7 +76,6 @@ Knight anoles are less common in Tampa Bay but established in some areas. They'r
 
 They prefer large trees and are excellent climbers. Unlike smaller anoles, knight anoles can deliver a noticeable bite if handled, though they're not venomous or dangerous.
 
-![Knight anole basking on a palm tree in a Florida yard](PLACEHOLDER)
 
 ## The Skink Squad
 
@@ -105,7 +103,6 @@ Different areas of Tampa Bay have slightly different lizard populations based on
 
 **Urban areas** with dense landscaping and exterior lighting create gecko paradise. The combination of hiding spots and abundant nighttime insects keeps house gecko populations thriving.
 
-![Gecko on exterior wall near outdoor lighting](PLACEHOLDER)
 
 ## Living with Your Lizard Neighbors
 
@@ -148,7 +145,6 @@ Most Florida lizards cause zero problems, but occasional issues include:
 
 **Pet interactions.** Cats may hunt lizards compulsively, creating scattered lizard parts around the house. This is more unpleasant for humans than harmful to lizard populations.
 
-![Close-up of anole doing push-ups on a patio railing](PLACEHOLDER)
 
 ## Seasonal Patterns and Behavior
 
@@ -181,7 +177,6 @@ Significantly reduced activity. Lizards enter a state called brumation — not t
 **Myth:** Lizards damage property.
 **Fact:** Small lizards cause virtually no property damage. Large iguanas can be destructive, but most Tampa Bay lizards are beneficial or neutral.
 
-![Multiple anoles sunning on a wooden fence](PLACEHOLDER)
 
 ## The Bigger Picture
 

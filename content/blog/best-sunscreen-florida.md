@@ -23,13 +23,10 @@ schema:
 featuredImage: /images/blog/default.webp
 ---
 
-# Best Sunscreen for Florida — SPF, Reef-Safe, and What Works
-
 Living in Tampa Bay for over two decades has taught me one thing: cheap sunscreen is expensive medicine. I've watched too many newcomers learn this lesson the hard way during their first summer at Clearwater Beach or a day fishing in Tampa Bay.
 
 Florida sun isn't playing games. Our UV index hits 10+ regularly, we get year-round exposure, and that gorgeous water reflects even more rays back at you. After 23 years of showing properties from St. Pete to Brandon, I've tried every sunscreen on the market — and watched clients discover which ones actually work versus which ones leave you looking like a lobster.
 
-![Various sunscreen bottles arranged on a beach towel with Tampa Bay in the background](PLACEHOLDER)
 
 ## Why Florida Demands Different Sunscreen Standards
 
@@ -60,7 +57,6 @@ After testing dozens of formulas during property showings, beach days, and famil
 
 I keep a tube in every car and recommend it to clients who'll be house hunting during summer months.
 
-![Person applying EltaMD sunscreen while standing on a dock at Davis Islands](PLACEHOLDER)
 
 ### Best for Beach Days: Neutrogena Ultra Sheer Dry-Touch SPF 100
 
@@ -88,7 +84,6 @@ This is the sunscreen in my glove compartment for unexpected outdoor situations.
 
 Key West banned chemical sunscreens in 2021, and several Florida counties are considering similar measures. Get ahead of the curve.
 
-![Family applying reef-safe sunscreen before snorkeling at Honeymoon Island](PLACEHOLDER)
 
 ### Best Spray Sunscreen: La Roche-Posay Anthelios Ultra Light SPF 60
 
@@ -116,7 +111,6 @@ Key West banned chemical sunscreens in 2021, and several Florida counties are co
 
 Not the absolute best, but reliable daily protection that won't bankrupt you.
 
-![Various budget sunscreens displayed at a Publix pharmacy in Tampa](PLACEHOLDER)
 
 ## Specialty Sunscreens for Florida Conditions
 
@@ -166,7 +160,6 @@ That's roughly 2 tablespoons total — more than most people think.
 - Use spray for quick touch-ups
 - Apply before you feel hot (you're already getting exposure)
 
-![Close-up of hands applying sunscreen with a timer showing reapplication reminder](PLACEHOLDER)
 
 ### Year-Round Protection is Non-Negotiable
 
@@ -204,7 +197,6 @@ Florida's marine ecosystems face enough pressure without adding sunscreen chemic
 - Kayaking in mangroves
 - Fishing in shallow waters
 
-![Coral reef with fish swimming near Egmont Key with reef-safe sunscreen bottle overlay](PLACEHOLDER)
 
 ---
 

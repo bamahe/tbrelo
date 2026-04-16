@@ -23,11 +23,8 @@ schema:
 featuredImage: "/images/blog/moving-from-los-angeles.webp"
 ---
 
-# Moving from Los Angeles to Tampa Bay — The Complete Relocation Guide
-
 After 23 years of helping families relocate to Tampa Bay, I've guided hundreds of Californians through this exact move. And let me tell you — the shift from LA's $2.2 million median home price to Tampa Bay's $425,000 average isn't just refreshing, it's life-changing.
 
-![Comparison split-screen showing LA skyline vs Tampa Bay waterfront](PLACEHOLDER)
 
 The numbers tell the story: you'll save roughly $180,000 on a comparable home, slash your state income taxes to zero, and trade 405 traffic for actual driveable roads. But beyond the obvious financial wins, there are cultural shifts, weather differences, and logistical hurdles you need to understand before making the jump.
 
@@ -70,7 +67,6 @@ The trade-off? Humidity from June through September. But after dealing with Sant
 
 ## Neighborhood Matching: Finding Your Tampa Bay Equivalent
 
-![Map showing Tampa Bay neighborhoods with LA comparisons](PLACEHOLDER)
 
 ### If You Love Beverly Hills → Try Hyde Park
 
@@ -130,7 +126,6 @@ Budget $800-1,200 for hotels, gas, and food for two people making the drive.
 
 ### Shipping Your Belongings
 
-![Moving truck being loaded with household items](PLACEHOLDER)
 
 **Full-Service Moving Companies**
 - **Cost**: $4,500-8,500 for a 3-bedroom home
@@ -195,7 +190,6 @@ The networking scene is less formal than LA — think happy hours instead of $50
 
 ## Schools and Family Considerations
 
-![Students in a Tampa Bay area classroom](PLACEHOLDER)
 
 ### Public School Systems Ranked
 
@@ -252,7 +246,6 @@ Tampa Bay's cultural scene is growing rapidly:
 - **Dali Museum**: World's largest collection of Salvador Dali works
 - **Morean Arts Center**: Local artists and rotating exhibitions
 
-![Tampa Bay cultural arts scene showing museum or theater](PLACEHOLDER)
 
 ---
 
@@ -326,7 +319,6 @@ Afternoon thunderstorms from May through October. Unlike California's drought cy
 - No water restrictions
 - Occasional street flooding (usually drains quickly)
 
-![Tampa Bay afternoon thunderstorm over the water](PLACEHOLDER)
 
 **Winter Weather:**
 December through February brings Tampa Bay's best weather:
@@ -387,7 +379,6 @@ Restaurant meals cost 20-30% less than LA equivalents, with larger portions and 
 - Rush hour: 7-9 AM and 4:30-6:30 PM (much shorter than LA)
 - Parking: Widely available and usually free outside downtown cores
 
-![Tampa Bay traffic flowing smoothly on modern highways](PLACEHOLDER)
 
 ## Legal and Financial Setup
 
@@ -449,7 +440,6 @@ Restaurant meals cost 20-30% less than LA equivalents, with larger portions and 
 - Get Florida driver's license and vehicle registration
 - Join local organizations and meet neighbors
 
-![Family unpacking boxes in their new Tampa Bay home](PLACEHOLDER)
 
 ## The Cultural Adjustment
 

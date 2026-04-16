@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/va-loan-tampa-bay-guide.webp"
 ---
 
-# VA Loan Home Buying in Tampa Bay — The Military Buyer's Guide
-
 Tampa Bay isn't just another real estate market — it's one of the most veteran-friendly regions in Florida. With MacDill Air Force Base anchoring our military community and over 300,000 veterans calling the area home, I've spent the better part of two decades helping service members and veterans navigate this market with their VA loan benefits.
 
 Here's what 23 years of Tampa Bay real estate has taught me about maximizing your VA loan in this market.
 
-![Aerial view of MacDill Air Force Base with Tampa Bay skyline in background](PLACEHOLDER)
 
 ## Why Tampa Bay Works for Military Buyers
 
@@ -80,7 +77,6 @@ In practical terms, you can buy a 3-bedroom, 2-bathroom home in excellent school
 
 **The sweet spot:** Subdivisions like FishHawk Ranch, Providence, and Buckhorn offer resort-style amenities, A-rated schools, and homes built after 2000. Traffic to MacDill flows against rush hour, so your commute stays reasonable.
 
-![Modern suburban home in FishHawk Ranch community with palm trees and manicured landscaping](PLACEHOLDER)
 
 ### Plant City/Lakeland Border
 
@@ -135,7 +131,6 @@ Not all agents understand VA loans. I've seen deals fall apart because agents di
 - Use experienced VA loan officers with 15-20 day closing timelines
 - Waive unnecessary contingencies (but never waive inspection)
 
-![Real estate contract signing with VA loan documents and calculator on table](PLACEHOLDER)
 
 ## VA Loan-Friendly Lenders in Tampa Bay
 
@@ -207,7 +202,6 @@ Florida has no state income tax, but property taxes vary dramatically by locatio
 
 **On a $425,000 loan:** First-time funding fee is $9,775, typically financed into the loan amount.
 
-![Calculator showing VA loan costs including funding fee and monthly payment breakdown](PLACEHOLDER)
 
 ---
 

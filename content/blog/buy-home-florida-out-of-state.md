@@ -27,7 +27,6 @@ Moving to Florida from another state? You're not alone. Florida welcomes about 1
 
 The good news: Florida's real estate infrastructure is built for remote buyers. The challenging news: you'll need to navigate everything from hurricane zones to HOA drama without the luxury of driving neighborhoods on Sunday afternoons. Here's your complete roadmap.
 
-![Real estate agent conducting virtual home tour with out-of-state buyers on video call](PLACEHOLDER)
 
 ## Why Out-of-State Buying Works in Florida
 
@@ -69,7 +68,6 @@ Every Florida home buyer must understand natural disaster risks. This isn't abou
 
 FEMA flood maps are your starting point, but recent flooding events matter more than decades-old designations. Ask your agent about neighborhood-specific flooding during recent storms like Ian, Helene, and Idalia.
 
-![Florida flood zone map with highlighted areas showing different risk levels](PLACEHOLDER)
 
 ---
 
@@ -184,7 +182,6 @@ Virtual tours have evolved significantly. Here's what to prioritize:
 - Neighborhoods with multiple homes under construction (noise, dust, traffic)
 - Properties near major development projects (check county planning websites)
 
-![Buyer reviewing virtual home tour on laptop with Florida property details](PLACEHOLDER)
 
 ## Working with the Right Professionals
 
@@ -267,7 +264,6 @@ Florida's competitive market requires strategic thinking for remote buyers:
 - Proof of funds or strong pre-approval letter
 - Earnest money deposit of 1-3% (shows seriousness)
 
-![Home inspection taking place with detailed report being prepared for remote buyer](PLACEHOLDER)
 
 ## Navigating Inspections and Due Diligence
 
@@ -430,7 +426,6 @@ Give yourself 3-6 months to truly understand your new neighborhood:
 - Discover recreational activities and cultural attractions
 - Build relationships with immediate neighbors
 
-![New homeowners receiving keys to their Florida home from real estate agent](PLACEHOLDER)
 
 ## Common Mistakes Out-of-State Buyers Make
 

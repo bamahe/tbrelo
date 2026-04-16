@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/sunpass-vs-epass-florida.webp"
 ---
 
-# SunPass vs E-Pass: Which Florida Toll Transponder Do You Need?
-
 Moving to Tampa Bay means navigating one of Florida's most toll-heavy regions. Between the Selmon Expressway, Veterans Expressway, and Suncoast Parkway, you'll rack up toll charges faster than you can say "traffic jam on I-275." The question isn't whether you need a toll transponder — it's which one.
 
 After 23 years helping families relocate here, I've seen too many newcomers get burned by choosing the wrong transponder or, worse, trying to go without one. Here's everything you need to know about SunPass vs E-Pass to make the right choice for your Tampa Bay commute.
 
-![Comparison of SunPass and E-Pass transponders showing both devices side by side](PLACEHOLDER)
 
 ## The Real Cost of Going Without a Transponder
 
@@ -73,7 +70,6 @@ You can buy SunPass transponders at:
 
 Activation is straightforward: create an account online or by phone, register your transponder number, add a payment method, and you're rolling within 24 hours.
 
-![Screenshot of SunPass website account setup process](PLACEHOLDER)
 
 ## E-Pass: Central Florida's Alternative
 
@@ -126,7 +122,6 @@ SunPass has slightly better customer service based on my clients' experiences, b
 
 If you frequently drive to Georgia, North Carolina, or other states with compatible toll systems, E-Pass+ offers better reciprocity. But for most Tampa Bay residents who primarily travel within Florida, this advantage is minimal.
 
-![Map showing SunPass and E-Pass coverage areas across Florida](PLACEHOLDER)
 
 ## Which Transponder for Your Tampa Bay Lifestyle?
 
@@ -161,7 +156,6 @@ The only exception? If you already have an active E-Pass account with a healthy 
 2. **Test the mounting:** Ensure your transponder reads properly at toll plazas
 3. **Set up auto-reload:** Avoid the hassle of manual replenishment and missed toll readings due to insufficient funds
 
-![Close-up photo of properly mounted SunPass transponder on car windshield](PLACEHOLDER)
 
 ## Common Mistakes That Cost Money
 

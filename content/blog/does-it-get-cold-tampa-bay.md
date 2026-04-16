@@ -27,7 +27,6 @@ Sure, Tampa Bay gets cold. Maybe not Minnesota cold, but cold enough to make you
 
 The short answer? Yes, Tampa Bay experiences real winter conditions — frost warnings, freeze alerts, and mornings that make you question why you thought flip-flops were appropriate footwear year-round. Our winters aren't brutal, but they're definitely present.
 
-![Tampa Bay residents bundled up in winter coats during a cold snap with palm trees in background](PLACEHOLDER)
 
 ## What "Cold" Actually Means in Tampa Bay
 
@@ -57,7 +56,6 @@ February can fool you. Some years bring our coldest nights of the season. Other 
 ### March: False Spring (Sometimes)
 March usually marks the end of freeze concerns, but not always. I've seen March mornings hit the upper 30s, just cold enough to stress out anyone who planted their tomatoes too early.
 
-![Weather map showing Tampa Bay freeze warning coverage with temperature readings](PLACEHOLDER)
 
 ## Geographic Differences Across Tampa Bay
 
@@ -92,7 +90,6 @@ The longest sustained cold period I remember lasted 8 days in January 2018, with
 
 Wind makes everything worse. A 40°F morning with 15 mph north winds feels considerably colder than a still 35°F morning. Tampa Bay's flat terrain offers little wind protection, so factor wind chill into your cold weather preparations.
 
-![Tampa Bay residents at outdoor market wearing winter clothing on a cold morning](PLACEHOLDER)
 
 ## What Triggers Cold Weather Here
 
@@ -152,7 +149,6 @@ The most heartbreaking sight after a hard freeze? Expensive tropical landscaping
 ### Recovery Patterns
 Most established tropical plants recover from brief freezes. The key word is "established." Newly planted tropicals often don't survive their first Tampa Bay freeze, which is why smart landscapers avoid planting sensitive species between October and March.
 
-![Frost-damaged tropical plants in Tampa Bay yard after freeze warning](PLACEHOLDER)
 
 ## Comparing Tampa Bay Cold to Other Florida Cities
 

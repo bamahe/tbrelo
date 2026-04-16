@@ -27,7 +27,6 @@ If you're serious about running or fitness, Tampa Bay isn't just another Sun Bel
 
 The year-round training weather, world-class trail systems, and legitimate racing scene make this more than just a pretty place to jog. We're talking about infrastructure that supports everything from casual 5K training to Boston Marathon prep.
 
-![Runners along Tampa's Bayshore Boulevard with downtown skyline in background](PLACEHOLDER)
 
 ## The Bayshore Boulevard Experience
 
@@ -57,7 +56,6 @@ Located in [Hillsborough County](/counties/hillsborough/), Flatwoods offers 20+ 
 
 Entry fee is $2 per vehicle. The trail surface is consistently maintained asphalt with bridge crossings that add welcome variety to long runs. Mile markers throughout, and the loop design means you're never more than 3.5 miles from your car.
 
-![Trail runners on the Upper Tampa Bay Trail with native Florida vegetation](PLACEHOLDER)
 
 ### Pinellas Trail
 
@@ -88,7 +86,6 @@ Tampa Bay's racing calendar runs year-round, but the premium events happen durin
 
 **Bayshore Runners Club** focuses specifically on the Bayshore Boulevard route. They know every water fountain, restroom, and optimal parking spot. Tuesday evening runs and Saturday morning long runs.
 
-![Group of runners starting their training session at Bayshore Boulevard](PLACEHOLDER)
 
 ## Neighborhood Guide for Runners
 
@@ -118,7 +115,6 @@ Pinellas Trail access plus charming downtown core for post-run refueling. Home p
 
 The waterfront Waterfront Park offers a 2-mile bayside loop that connects to the main Pinellas Trail system.
 
-![Safety Harbor waterfront running path with boats in the harbor](PLACEHOLDER)
 
 ## Training Year-Round: Weather Reality
 
@@ -164,7 +160,6 @@ The Gulf of Mexico, Tampa Bay, and numerous lakes provide year-round swimming op
 
 The region hosts 30+ CrossFit affiliates and numerous independent strength training facilities. Many runners supplement their mileage with structured strength programs, especially during summer months when running volume necessarily decreases.
 
-![Outdoor fitness class in a Tampa Bay park with city skyline visible](PLACEHOLDER)
 
 ## Real Estate Considerations
 

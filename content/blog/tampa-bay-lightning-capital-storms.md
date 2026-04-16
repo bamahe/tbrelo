@@ -31,7 +31,6 @@ Let me give you the straight story on Tampa Bay's lightning and storm patterns, 
 
 Tampa Bay averages 70-80 thunderstorm days per year, compared to the national average of 30. We typically see lightning activity from late May through early October, with peak activity between July and September. The National Weather Service records roughly 25 lightning strikes per square kilometer annually in our metro area — that's nearly double what central Florida sees just 50 miles inland.
 
-![Lightning bolt striking over Tampa Bay with downtown skyline in background during evening storm](PLACEHOLDER)
 
 Between 2019-2023, Pinellas and Hillsborough counties combined reported over 2,400 lightning-related insurance claims annually. The average claim? Around $8,500, mostly from electronics damage and minor structural issues.
 
@@ -64,7 +63,6 @@ Storm frequency drops to 1-2 days per week, mostly associated with cold fronts. 
 
 Living through Tampa Bay's lightning season isn't the dramatic disaster movie experience some people imagine. It's more like nature's daily routine that you adapt to.
 
-![Family watching lightning storm safely from covered porch with patio furniture](PLACEHOLDER)
 
 Most summer days start gorgeous — sunny, 78-82°F, low humidity. By 11 AM, temperatures hit 88-92°F. You'll notice towering white clouds building on the horizon around noon. Smart locals finish outdoor activities by 1:30 PM.
 
@@ -109,7 +107,6 @@ Most lightning injuries happen to people using corded phones, taking showers, or
 
 Unplug sensitive electronics during severe storms. Yes, it's inconvenient, but replacement costs add up quickly.
 
-![Modern Florida home with proper lightning protection and surge systems installed](PLACEHOLDER)
 
 ## The Insurance Reality
 
@@ -143,7 +140,6 @@ Summer evenings after storms are phenomenal. Clear skies, 80-85°F temperatures,
 
 The storms also create spectacular sunsets. When towering storm clouds clear to the west, they create dramatic backdrops for Gulf of Mexico sunsets. Bayshore Boulevard and the Westshore area offer front-row seats.
 
-![Beautiful post-storm sunset over Tampa Bay with clear skies and dramatic cloud formations](PLACEHOLDER)
 
 ## Storm Season and Real Estate
 

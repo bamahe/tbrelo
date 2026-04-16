@@ -23,15 +23,12 @@ schema:
 featuredImage: "/images/blog/4-point-inspection-florida.webp"
 ---
 
-# 4-Point Inspection in Florida — What It Covers and Why You Need It
-
 If you're buying a home in Florida or trying to get insurance on one you already own, you've probably heard about a "4-point inspection." This isn't some optional nice-to-have — it's often mandatory for insurance companies, especially on homes built before 1980.
 
 After 23 years selling homes across Tampa Bay, I've seen too many buyers caught off guard by 4-point inspection requirements. Some find out at the last minute their dream home needs $15,000 in electrical work before any insurance company will touch it. Others discover their "move-in ready" house has a roof that's one hurricane season away from disaster.
 
 This guide breaks down exactly what a 4-point inspection covers, when you need one, and what to expect during the process. No corporate fluff — just the facts you need to make smart decisions about Florida real estate.
 
-![Professional inspector examining electrical panel during 4-point inspection](PLACEHOLDER)
 
 ## What Is a 4-Point Inspection?
 
@@ -82,7 +79,6 @@ In Florida, your air conditioning system isn't a luxury — it's life support. T
 
 I've seen buyers walk away from otherwise perfect homes because the HVAC system was on its last legs. A $250,000 house can quickly become a $260,000 house when you factor in immediate AC replacement.
 
-![HVAC technician inspecting air conditioning unit and ductwork](PLACEHOLDER)
 
 ### Electrical System
 
@@ -136,7 +132,6 @@ Insurance companies can request a 4-point inspection during policy renewal, part
 
 Don't be surprised if your insurance company drops this requirement on you with 30-45 days notice. It's becoming increasingly common across Florida.
 
-![Insurance inspector documenting plumbing fixtures and water heater](PLACEHOLDER)
 
 ## What Happens During the Inspection
 
@@ -225,7 +220,6 @@ Budget for these common improvements:
 
 These aren't small numbers, which is why smart buyers factor potential improvements into their purchase decisions.
 
-![Electrical inspector examining main panel and wiring systems](PLACEHOLDER)
 
 ---
 

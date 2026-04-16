@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/living-tampa-bay-75k-salary.webp"
 ---
 
-# Living in Tampa Bay on a $75K Salary: Your Complete Budget Breakdown
-
 Making $75,000 a year puts you right in Tampa Bay's sweet spot — not quite entry-level anymore, but not luxury living either. After helping hundreds of relocating families navigate our market over 23 years, I can tell you this income opens up solid neighborhoods while requiring some strategic choices.
 
 Let me break down exactly what $75K looks like here, where you can afford to live, and how to make your money stretch without living like a hermit.
 
-![Aerial view of Tampa Bay showing downtown Tampa, residential neighborhoods, and the bay waters](PLACEHOLDER)
 
 ## The $75K Reality Check: Your Take-Home Numbers
 
@@ -63,7 +60,6 @@ Renting gives you more flexibility and often better locations for the money. You
 
 **Carrollwood** — Established neighborhood with tree-lined streets and homes from the $300K-400K range. Great for families, with A-rated schools and that "settled" neighborhood feel.
 
-![Modern townhome development in Westchase showing typical housing options for middle-income buyers](PLACEHOLDER)
 
 ### Apartment Living: Where to Get the Most Bang
 
@@ -114,7 +110,6 @@ Let me show you two realistic budget scenarios — one for renters, one for home
 
 **Total**: $4,800
 
-![Person reviewing budget spreadsheet with Tampa Bay area housing costs and expenses](PLACEHOLDER)
 
 ## Transportation: Your Second Biggest Expense
 
@@ -158,7 +153,6 @@ Tampa Bay has excellent healthcare systems — Tampa General, Moffitt Cancer Cen
 
 Emergency room visits run $1,500-3,000 even with insurance. Specialist visits cost $300-500 without insurance, $50-100 with decent coverage.
 
-![Modern apartment complex pool area showing typical amenities available to renters in the $1,500 range](PLACEHOLDER)
 
 ## Saving Money: Tampa Bay Life Hacks
 
@@ -213,7 +207,6 @@ Tampa Bay's tourism economy creates opportunities:
 - **Event photography**: Weddings happen year-round
 - **Consulting**: Large corporate presence needs freelance help
 
-![Family enjoying outdoor activities at a Tampa Bay park, showing affordable recreation options](PLACEHOLDER)
 
 ## The Social Scene on a Budget
 

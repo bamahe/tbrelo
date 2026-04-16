@@ -7,8 +7,6 @@ publishedAt: "2026-04-13"
 updatedAt: "2026-04-13"
 ---
 
-# Best Beach Gear for Florida — What Locals Actually Bring
-
 You can always spot the tourists at a Florida beach. They're the ones dragging six trips of stuff from their car, sitting in chairs that sink into the sand, burning through cheap sunscreen, and wrestling with an umbrella that flips inside out the moment the afternoon breeze kicks up.
 
 Locals look different. One trip from the car. A cart loaded with everything. A canopy that stays put. Chairs that don't collapse. And they're packed up and gone before the 3 PM thunderstorm rolls in.

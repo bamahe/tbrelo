@@ -27,7 +27,6 @@ After 23+ years helping military families find homes in Tampa Bay, I've learned 
 
 Tampa Bay delivers on all fronts. Between MacDill Air Force Base, two major VA hospitals, and a deeply rooted military culture, this region genuinely supports those who've served. But not every neighborhood gets it right.
 
-![Aerial view of MacDill Air Force Base with Tampa Bay skyline in background](PLACEHOLDER)
 
 ## Why Tampa Bay Works for Military Families
 
@@ -67,7 +66,6 @@ This northwest Hillsborough area developed specifically for families, with deed 
 
 **MacDill commute:** 25-30 minutes via Veterans Expressway or Dale Mabry Highway. Rush hour adds 10-15 minutes.
 
-![Modern homes in Westchase community with well-maintained landscaping](PLACEHOLDER)
 
 ### Carrollwood: Established Excellence
 
@@ -121,7 +119,6 @@ St. Pete's transformation from sleepy retirement town to vibrant urban center at
 
 **MacDill factor:** 45-60 minutes depending on traffic and bridge conditions. Many veterans accept the commute for urban amenities and lower housing costs.
 
-![St. Petersburg downtown waterfront with modern condos and marina](PLACEHOLDER)
 
 ### Clearwater: Beach Community Balance
 
@@ -155,7 +152,6 @@ Clearwater offers that Florida beach lifestyle without Miami prices or traffic. 
 
 **Reuse benefits.** Sell your home and your VA eligibility restores for the next purchase. Perfect for military families who move frequently.
 
-![VA loan documents and house keys on a table](PLACEHOLDER)
 
 ### School District Navigation
 
@@ -225,7 +221,6 @@ Most routine care can be handled at these smaller facilities, with referrals to 
 
 Factor in no state income tax, and Tampa Bay's total cost of ownership often beats other military-heavy markets.
 
-![Comparison chart showing housing costs in different military cities](PLACEHOLDER)
 
 ## Military Family Activities and Resources
 

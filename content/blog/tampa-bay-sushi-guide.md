@@ -27,7 +27,6 @@ Tampa Bay's sushi scene has exploded over the past decade. What started as a han
 
 You'll find everything from $8 California rolls to $200 omakase experiences that rival anything in Miami or New York. The key is knowing where to look and what to order when you get there.
 
-![Fresh sushi and sashimi platter at an upscale Tampa Bay restaurant](PLACEHOLDER)
 
 ## The Heavy Hitters — Tampa's Elite Sushi Scene
 
@@ -47,7 +46,6 @@ Koya has been holding down downtown St. Pete since before the renaissance made i
 
 **What to order:** The chirashi bowl is exceptional. Their salmon belly (when available) melts like butter. Skip the fancy rolls here — go traditional.
 
-![Traditional sushi counter with chef preparing fresh fish at Koya](PLACEHOLDER)
 
 ### Sushi Sho (Carrollwood)
 **Address:** 12808 N Dale Mabry Hwy, Tampa
@@ -72,7 +70,6 @@ A Hyde Park staple that's survived every restaurant trend for good reason. Consi
 
 **What to order:** Their specialty rolls are creative without being gimmicky. The South Howard roll (spicy tuna, avocado, tempura flakes) is a neighborhood favorite for a reason.
 
-![Creative specialty sushi rolls arranged on a wooden board](PLACEHOLDER)
 
 ### Sushi Inc (Multiple Locations)
 
@@ -96,7 +93,6 @@ Another strip mall gem that proves Tampa's best sushi often hides in unexpected 
 
 **What to order:** Ask what came in fresh that morning. Their seasonal specials often feature fish you won't find anywhere else in Tampa.
 
-![Interior of a traditional Japanese sushi restaurant with wooden accents](PLACEHOLDER)
 
 ## The Omakase Experience — What to Expect
 
@@ -116,7 +112,6 @@ True omakase in Tampa Bay ranges from $80-180 depending on the restaurant. Here'
 **$100-130:** Koya, Anise
 **$150-180:** Ichicoro Ane
 
-![Chef preparing omakase sushi with precise knife work and presentation](PLACEHOLDER)
 
 ## Sushi Etiquette That Actually Matters
 
@@ -151,7 +146,6 @@ Forget most of the "rules" you've read online. Here's what actually matters in T
 - **Ankimo (monkfish liver)** — "Foie gras of the sea"
 - **Blue fin tuna belly** — When available, expensive but worth it
 
-![Assorted nigiri sushi pieces showcasing different fish types and preparations](PLACEHOLDER)
 
 ## Tampa Bay Sushi by Neighborhood
 
@@ -198,7 +192,6 @@ Chef's choice, multiple courses, premium ingredients, full experience.
 ### Special Occasion: $200+ per person
 Top-tier omakase with premium sake pairings, rare fish, full VIP treatment.
 
-![Elegant omakase presentation with multiple courses arranged on a dark wooden board](PLACEHOLDER)
 
 ## The Sake Situation
 
@@ -242,7 +235,6 @@ Tampa Bay's sake selection has improved dramatically. Most serious sushi restaur
 
 **Spring:** Transitional season, good time to try seasonal specials as restaurants change their offerings.
 
-![Seasonal sushi presentation featuring fresh spring ingredients and colorful fish](PLACEHOLDER)
 
 ## The Verdict on Tampa Bay Sushi
 

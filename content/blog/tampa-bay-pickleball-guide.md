@@ -27,7 +27,6 @@ Pickleball has exploded across Tampa Bay faster than a well-placed dink shot. Wh
 
 The numbers tell the story: Tampa Bay now has over 300 dedicated pickleball courts across the metro area, with new facilities opening monthly. Whether you're house hunting and want to live near courts, or you're already here and looking to join the craze, this guide covers every major facility, league, and playing opportunity in the region.
 
-![Aerial view of multiple outdoor pickleball courts at a Tampa Bay recreation center with players actively engaged in games](PLACEHOLDER)
 
 ## Why Tampa Bay Became a Pickleball Hotbed
 
@@ -57,7 +56,6 @@ The sport's social aspect fits Tampa Bay's community-oriented culture. Most faci
 - Free play for Tampa residents
 - Draws players from Seminole Heights and Riverside Heights neighborhoods
 
-![Players of various ages enjoying pickleball at a well-maintained Tampa city park with palm trees in the background](PLACEHOLDER)
 
 ### Unincorporated Hillsborough
 
@@ -97,7 +95,6 @@ The sport's social aspect fits Tampa Bay's community-oriented culture. Most faci
 - Free for residents, $2 for non-residents
 - Good facility for intermediate players
 
-![Modern pickleball facility in St. Petersburg with multiple courts and spectator seating areas](PLACEHOLDER)
 
 ### Clearwater and Beaches
 
@@ -146,7 +143,6 @@ The sport's social aspect fits Tampa Bay's community-oriented culture. Most faci
 - Very active senior leagues
 - Multiple skill levels represented
 
-![Outdoor pickleball courts in Pasco County surrounded by Florida pine trees and natural landscaping](PLACEHOLDER)
 
 ## Private and Semi-Private Facilities
 
@@ -189,7 +185,6 @@ Many Tampa Bay country clubs have added pickleball courts for members:
 - $40 seasonal fee
 - Very social atmosphere with post-game gatherings
 
-![Tournament-style pickleball competition at a Tampa Bay facility with spectators and organized bracket play](PLACEHOLDER)
 
 ### Casual League Options
 
@@ -256,7 +251,6 @@ Heat and afternoon thunderstorms drive players to:
 
 Many outdoor leagues take summer breaks or move to indoor venues during July-September.
 
-![Early morning pickleball players at sunrise taking advantage of cooler temperatures at a Tampa Bay facility](PLACEHOLDER)
 
 ---
 

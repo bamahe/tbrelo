@@ -23,11 +23,8 @@ schema:
 featuredImage: "/images/blog/moving-from-portland.webp"
 ---
 
-# Moving from Portland OR to Tampa Bay — The Complete Relocation Guide
-
 Making the leap from Portland's misty Pacific Northwest charm to Tampa Bay's year-round sunshine? You're not alone. I've helped dozens of Portland families navigate this move over the past 23 years, and let me tell you — the differences go way beyond just the weather.
 
-![Portland Oregon skyline with Mount Hood in background contrasted with Tampa Bay waterfront](PLACEHOLDER)
 
 The culture shock is real. Portland's "keep it weird" vibe meets Florida's "sunshine and hustle" energy. But here's what most people don't realize: Tampa Bay offers something Portland can't — genuine affordability paired with actual career growth. No state income tax, housing that doesn't require selling your soul, and a job market that's exploding.
 
@@ -59,7 +56,6 @@ Here's what that looks like:
 
 That's real money. Money that stays in your pocket instead of going to Salem.
 
-![Calculator showing tax savings comparison between Oregon and Florida](PLACEHOLDER)
 
 ## Climate Reality: Beyond "It's Hot"
 
@@ -99,7 +95,6 @@ The unemployment rate tells the story: Portland hovers around 4.2%, Tampa Bay si
 
 Most Portland transplants see salary increases of 10-20% when moving to Tampa Bay, especially in healthcare, finance, and tech. The combination of lower taxes and higher pay creates real wealth-building opportunity.
 
-![Tampa Bay downtown business district with modern skyscrapers](PLACEHOLDER)
 
 ## Neighborhood Matching: Finding Your Tampa Bay Fit
 
@@ -125,7 +120,6 @@ Suburban value with good schools and family-friendly amenities. Better weather, 
 
 For detailed neighborhood breakdowns, check out our [county hub pages](/counties/hillsborough/) covering Hillsborough, Pinellas, and Pasco counties.
 
-![Comparison showing Portland neighborhood street scene next to similar Tampa Bay neighborhood](PLACEHOLDER)
 
 ## The Move Itself: Logistics and Reality
 
@@ -149,7 +143,6 @@ Budget $800-1,200 for gas, hotels, and food. Pro tip: Book hotels in advance aro
 
 Most Portland families go with pod-style moving. You load at your pace, they handle transport, you unload at your new place. Less stressful than driving a massive truck through the Rocky Mountains.
 
-![Moving truck on interstate highway with Florida welcome sign](PLACEHOLDER)
 
 ## Schools: A Pleasant Surprise
 
@@ -193,7 +186,6 @@ The school choice situation here blows Portland out of the water. Magnet program
 
 **Humidity:** July and August feel like wearing a wet blanket. But remember those Portland Februaries when you didn't see the sun for three weeks? Trade-offs.
 
-![Tampa Bay beach scene with people enjoying sunny weather year-round](PLACEHOLDER)
 
 ## Real Estate Strategy: Making Your Move Pay
 
@@ -221,7 +213,6 @@ Florida inspections focus on different issues than Oregon:
 - **HVAC systems:** More complex due to year-round use
 - **Sinkholes:** Rare but worth checking in certain areas
 
-![Real estate "For Sale" sign with Tampa Bay home in background](PLACEHOLDER)
 
 ## Healthcare: A Major Upgrade
 
@@ -284,7 +275,6 @@ Portland's food scene is legendary. Tampa Bay's is quietly excellent and rapidly
 
 The craft beer scene isn't Portland-level yet, but it's growing fast. Cigar City Brewing leads the charge, with dozens of smaller breweries popping up across the region.
 
-![Tampa Bay restaurant scene showing outdoor dining with waterfront views](PLACEHOLDER)
 
 ## Seasonal Living: Embracing the Flip
 
@@ -323,7 +313,6 @@ That's real wealth-building opportunity. Money that stays in your pocket, builds
 
 For a detailed breakdown of Tampa Bay living costs, check our comprehensive [cost of living analysis](/cost-of-living/).
 
-![Financial calculator and charts showing cost savings comparison](PLACEHOLDER)
 
 ## Making the Final Decision
 

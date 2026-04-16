@@ -27,7 +27,6 @@ Florida's motorcycle scene is incredible — 340+ days of riding weather, scenic
 
 After 23 years helping people relocate to Tampa Bay, I've seen too many new residents get blindsided by Florida's unique motorcycle regulations. Let me break down everything you need to know.
 
-![Florida motorcycle rider on scenic coastal highway with palm trees](PLACEHOLDER)
 
 ## Florida Helmet Law: The 21+ Exception
 
@@ -110,7 +109,6 @@ Motorcycles can park in regular parking spaces but cannot park:
 
 Multiple motorcycles can share a single parking space in most municipalities, though some Tampa Bay cities have specific restrictions.
 
-![Florida DMV office entrance with motorcycle parked outside](PLACEHOLDER)
 
 ## Insurance Requirements
 
@@ -179,7 +177,6 @@ Florida's DUI laws apply equally to motorcycles:
 
 DUI checkpoints are common in Tampa Bay, especially during Bike Week, Thunder Beach, and holiday weekends.
 
-![Tampa Bay motorcycle rider being stopped by police officer](PLACEHOLDER)
 
 ## Tampa Bay-Specific Considerations
 

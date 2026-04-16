@@ -27,7 +27,6 @@ I've helped dozens of families make the move from the DC metro area to Tampa Bay
 
 But before you start packing your Nats gear, let's get real about what this move actually looks like. The good, the challenging, and everything in between.
 
-![Comparison showing DC skyline and Tampa Bay waterfront homes](PLACEHOLDER)
 
 ## Why DMV Families Are Flocking to Tampa Bay
 
@@ -70,7 +69,6 @@ For a family earning $100,000 in DC (paying Virginia's 5.75% state tax):
 
 Scale that up to $200,000 income? You're looking at $230,000+ in tax savings over two decades.
 
-![Calculator showing tax savings comparison between DC and Florida](PLACEHOLDER)
 
 ## Best Tampa Bay Neighborhoods for DC Transplants
 
@@ -102,7 +100,6 @@ Mature trees, established neighborhoods, excellent schools. It's got that McLean
 
 Brand new communities with all the bells and whistles. Think Ashburn/Leesburg development patterns but with community pools, golf courses, and homes that don't cost seven figures.
 
-![Map showing Tampa Bay neighborhoods popular with DC transplants](PLACEHOLDER)
 
 ## School Districts: A+ Options Without the Property Tax Shock
 
@@ -157,7 +154,6 @@ Time zone advantages:
 ### Salary Expectations
 Local salaries run 15-25% below DC area averages, but remember — you're saving $10,000+ annually on taxes alone. A $85,000 job in Tampa Bay often nets more take-home than $100,000 in Northern Virginia.
 
-![Professional working from home office overlooking Tampa Bay](PLACEHOLDER)
 
 ## Climate: Beyond "It's Hot"
 
@@ -202,7 +198,6 @@ Based on recent client moves:
 - Hybrid approach: $4,800-6,200
 - Pod systems: $3,500-5,000
 
-![Moving truck being loaded with Tampa Bay skyline in background](PLACEHOLDER)
 
 ## Cost of Living Deep Dive
 
@@ -266,7 +261,6 @@ Let me match your DC area neighborhood to Tampa Bay equivalents:
 - New construction, family-oriented, master-planned
 - Lower cost, bigger homes, no toll roads
 
-![Side-by-side comparison of DC area neighborhood vs Tampa Bay equivalent](PLACEHOLDER)
 
 ## Timeline and Planning Your Move
 
@@ -314,7 +308,6 @@ Unlike DC's occasional Potomac interaction, Tampa Bay life revolves around water
 - **Bayshore Boulevard:** Scenic waterfront drive
 - **I-275:** Your main highway (usually better than I-4)
 
-![Tampa Bay locals enjoying waterfront lifestyle activities](PLACEHOLDER)
 
 ## The Challenges Nobody Talks About
 
@@ -350,7 +343,6 @@ Tampa Bay is growing fast, but it's not DC's international melting pot. The rest
 - Consider local investment opportunities
 - Plan visits back to DC (it's easier than you think)
 
-![New Tampa Bay residents exploring local farmers market](PLACEHOLDER)
 
 ---
 

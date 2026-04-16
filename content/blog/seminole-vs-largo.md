@@ -29,7 +29,6 @@ If you're considering mid-Pinellas for your move to Tampa Bay, Seminole and Larg
 
 I've been selling homes in both areas for over two decades, and here's what newcomers need to know: Seminole feels like an established beach community that happens to be inland. Largo feels like a growing city that happens to be near the beach. That distinction matters more than you might think.
 
-![Aerial view showing Seminole and Largo neighborhoods with their distinct layouts and proximity to each other](PLACEHOLDER)
 
 ## The Geographic Reality Check
 
@@ -59,7 +58,6 @@ The city's growth pattern created distinct pockets. Areas near the Largo Recreat
 
 Largo's condo market is more robust than Seminole's. Complexes like Bay Point and Countryside offer 55+ communities with golf courses and extensive amenities. Two-bedroom units typically run $300,000-$425,000, with HOA fees ranging from $350-$650 monthly depending on amenities.
 
-![Comparison showing typical homes in both Seminole and Largo neighborhoods, highlighting architectural differences](PLACEHOLDER)
 
 ---
 
@@ -105,7 +103,6 @@ The dining scene reflects Largo's size and diversity. You'll find everything fro
 
 Largo's recreation facilities are extensive: Highland Recreation Complex with its aquatic center and fitness facilities, Largo Golf Course (a legitimate municipal course that's well-maintained), and the Southwest Recreation Complex with tennis and basketball courts.
 
-![Community events and recreational facilities showing the different atmospheres of both cities](PLACEHOLDER)
 
 ## Shopping and Dining: Practical Considerations
 
@@ -141,7 +138,6 @@ Seminole's compact size means most errands stay within a 5-mile radius. The city
 
 Largo's larger size requires more driving for daily tasks, but the payoff is better infrastructure. The city maintains its roads well, offers more traffic signal coordination, and provides better parking at shopping centers and restaurants.
 
-![Traffic patterns and transportation infrastructure showing major roads and commute routes](PLACEHOLDER)
 
 ## Cost of Living Breakdown
 
@@ -179,7 +175,6 @@ Largo offers more structured entertainment through the Central Park Complex, whi
 
 Both cities sit within easy reach of major Tampa Bay entertainment venues. The Mahaffey Theater in St. Petersburg, Amalie Arena in Tampa, and various beach concerts are all 30-45 minutes away depending on traffic.
 
-![Recreation facilities and parks showing the outdoor lifestyle options available in both communities](PLACEHOLDER)
 
 ## Weather and Environmental Factors
 
@@ -217,7 +212,6 @@ Largo's municipal services operate more efficiently due to economies of scale. T
 
 Both cities maintain good police response times and low crime rates. Fire and EMS services are provided regionally, ensuring consistent response regardless of which city you choose.
 
-![Municipal services and infrastructure showing the quality of life amenities in both communities](PLACEHOLDER)
 
 ---
 

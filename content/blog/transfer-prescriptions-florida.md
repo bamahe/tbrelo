@@ -31,7 +31,6 @@ Florida operates under stricter pharmaceutical regulations than many states, par
 
 Most major chains — CVS, Walgreens, Publix, and Winn-Dixie — can handle standard prescription transfers electronically. But controlled substances (think Adderall, Xanax, or pain medications) follow different rules. Schedule II controlled substances cannot be transferred at all and require new prescriptions from Florida-licensed physicians.
 
-![Interior of a typical Florida pharmacy showing prescription counter and waiting area](PLACEHOLDER)
 
 ### Timeline Reality Check
 
@@ -99,7 +98,6 @@ Don't overlook Publix pharmacies. While they have fewer locations than CVS or Wa
 
 **Transfer process:** Publix can't pull prescriptions from out-of-state pharmacies electronically. You'll need to provide prescription bottles or call your previous pharmacy while at the Publix counter.
 
-![Prescription bottles and medication organizer on a kitchen counter with Florida pharmacy bag](PLACEHOLDER)
 
 ## Controlled Substances: The Complex Reality
 
@@ -161,7 +159,6 @@ Florida seniors (65+) qualify for additional prescription discounts through the 
 
 GoodRx works in Florida but compare prices carefully — sometimes insurance copays are lower than GoodRx pricing, especially for generic medications.
 
-![Senior person consulting with pharmacist at Florida pharmacy counter](PLACEHOLDER)
 
 ## Special Situations and Challenges
 

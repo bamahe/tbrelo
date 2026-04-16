@@ -29,7 +29,6 @@ After 23 years of helping families navigate this market, I've seen too many peop
 
 Let me break down the actual math, the hidden costs everyone forgets, and the Tampa Bay-specific factors that'll make or break your budget.
 
-![Family reviewing home affordability calculations with Tampa Bay neighborhood map in background](PLACEHOLDER)
 
 ## The Real Affordability Formula (Beyond the 28% Rule)
 
@@ -97,7 +96,6 @@ Spring Hill gives you the most space for your money, but you're looking at 45+ m
 
 ## The Hidden Costs That Kill Budgets
 
-![Detailed breakdown of Tampa Bay homeownership costs on calculator screen](PLACEHOLDER)
 
 ### Florida's Insurance Nightmare
 
@@ -150,7 +148,6 @@ Florida offers solid assistance:
 
 ## Income Requirements by Price Range
 
-![Chart showing income requirements for different home prices across Tampa Bay counties](PLACEHOLDER)
 
 ### $250,000-300,000 Homes
 **Required income:** $55,000-65,000
@@ -260,7 +257,6 @@ Don't just look at housing costs — Tampa Bay's [cost of living](/cost-of-livin
 
 **Bottom line:** Factor the tax savings into your calculations. A $80,000 salary in Tampa Bay often goes further than $85,000 in high-tax states.
 
-![Tampa Bay family calculating home affordability with local newspaper showing market data](PLACEHOLDER)
 
 ## Affordability Calculator Inputs (The Complete List)
 

@@ -23,9 +23,6 @@ schema:
 featuredImage: "/images/blog/college-grads-tampa-bay.webp"
 ---
 
-# Tampa Bay for Recent College Grads: Your Complete Guide to Starting Life Here
-
-![Young professionals gathering at a rooftop bar overlooking Tampa's skyline at sunset](PLACEHOLDER)
 
 Just graduated and trying to figure out where to land? Tampa Bay should be on your short list. After 23 years of helping people relocate here, I've watched this area transform into one of the best spots in the country for recent grads to launch their careers and actually afford to live while doing it.
 
@@ -78,7 +75,6 @@ Buildings like [Element](https://elementtampa.com), [Tempo](https://tempotampa.c
 
 Consider this if you're working downtown, love urban environments, and don't mind paying extra for the convenience of walking to work and weekend entertainment.
 
-![Modern apartment building with young professionals on balconies overlooking Tampa Bay](PLACEHOLDER)
 
 ## St. Pete: The Creative Alternative
 
@@ -128,7 +124,6 @@ The startup scene is smaller but growing. [Tampa Bay Wave](https://tampabaywave.
 
 Recent success stories include [Shipmonk](https://shipmonk.com) (e-commerce fulfillment) and [Whistle](https://whistle.com) (pet technology), though many promising companies get acquired before reaching major scale.
 
-![Young professionals networking at a rooftop event with Tampa's downtown skyline in the background](PLACEHOLDER)
 
 ## Networking and Social Scene
 
@@ -237,7 +232,6 @@ Perfect middle ground between touristy and local. Reasonable parking, good resta
 
 The [Tampa Bay Trail](https://tampabaytrail.com) system connects multiple counties with paved paths perfect for cycling and running.
 
-![Group of young adults playing volleyball on a Tampa Bay area beach with downtown skyline visible in the distance](PLACEHOLDER)
 
 ## Dating Scene Reality
 
@@ -304,7 +298,6 @@ While most residents drive, certain lifestyle choices make car-free living possi
 
 **Parking downtown** runs $5-15 per day, but many employers provide subsidized parking or transit benefits.
 
-![Young professional working on laptop at a waterfront cafe with Tampa Bay in the background](PLACEHOLDER)
 
 ## Building Your Social Circle
 
@@ -408,7 +401,6 @@ The key is managing expectations and choosing the right neighborhood for your li
 
 Whatever you choose, Tampa Bay offers something most metro areas can't: the ability to launch your career, maintain a social life, save money, and enjoy year-round sunshine — all without requiring a trust fund or crushing debt levels.
 
-![Aerial view of young professionals enjoying outdoor dining at Armature Works with the Tampa skyline and Hillsborough River in the background](PLACEHOLDER)
 
 ## Frequently Asked Questions
 

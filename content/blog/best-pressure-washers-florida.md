@@ -23,8 +23,6 @@ schema:
 featuredImage: /images/blog/default.webp
 ---
 
-# Best Pressure Washers for Florida Driveways and Pools: A Local's Guide to Fighting Algae, Mildew, and Pool Deck Stains
-
 Living in Tampa Bay for over two decades, I've watched countless homeowners battle the relentless assault of humidity, algae, and that greenish-black crud that seems to appear overnight on every outdoor surface. Your driveway goes from pristine to embarrassing faster than you can say "rainy season."
 
 Here's the reality: Florida's climate is beautiful for humans, brutal for anything concrete or stone. That 90% humidity? It's basically a petri dish for every organism that wants to make your pool deck its new home. I've seen $80,000 pool renovations look shabby within six months because homeowners tried to clean them with garden hoses and wishful thinking.
@@ -43,7 +41,6 @@ Tampa Bay's unique conditions create a perfect storm for surface contamination. 
 
 I've walked properties in [Westchase](/neighborhoods/westchase/) where homeowners spent $3,000 on professional pool deck resurfacing, only to see algae return within 60 days. The problem wasn't the surface — it was the maintenance approach.
 
-![Before and after comparison of a Tampa Bay driveway showing algae removal with proper pressure washing](PLACEHOLDER)
 
 ## Gas vs. Electric: What Actually Works in Florida Heat
 
@@ -124,7 +121,6 @@ When you need serious power for neglected surfaces or commercial-grade cleaning.
 
 **Best for:** Large driveways (3+ cars), severe algae buildup, or homes with extensive concrete surfaces.
 
-![Comparison shot of gas and electric pressure washers cleaning side-by-side sections of an algae-covered pool deck](PLACEHOLDER)
 
 ## Specific Cleaning Strategies for Tampa Bay Conditions
 
@@ -157,7 +153,6 @@ Pool decks face unique challenges from:
 2. **Monthly deep clean** — use pressure washer with appropriate detergent
 3. **Quarterly sealing** — especially important for travertine and natural stone
 
-![Close-up shot of textured pool deck before and after cleaning showing algae removal from surface texture](PLACEHOLDER)
 
 ## Essential Accessories for Florida Cleaning
 
@@ -185,7 +180,6 @@ Pool decks face unique challenges from:
 **Eye Protection:**
 Essential when cleaning overhead areas or dealing with chemical bounce-back.
 
-![Collection of pressure washer accessories laid out including nozzles, surface cleaner, and safety equipment](PLACEHOLDER)
 
 ## Maintenance in Florida's Climate
 
@@ -240,7 +234,6 @@ For situations beyond DIY capability, Tampa Bay has several reputable services:
 - Additional charges for stain removal or chemical treatments
 - Typical driveway cleaning: $150-$300 depending on size and condition
 
-![Professional pressure washing service working on a large Tampa Bay home's driveway and walkways](PLACEHOLDER)
 
 ## Real-World Cost Analysis
 
@@ -308,7 +301,6 @@ Florida heat makes these stains penetrate deeper:
 2. **Degreaser pre-treatment** — let soak 15+ minutes
 3. **Hot water pressure washing** — significantly more effective than cold
 
-![Before and after shots showing removal of various stain types commonly found on Florida driveways](PLACEHOLDER)
 
 ## Environmental Considerations
 

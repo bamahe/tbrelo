@@ -23,13 +23,10 @@ schema:
 featuredImage: /images/blog/default.webp
 ---
 
-# Living in Kenwood / Old Northeast St. Pete — What It's Really Like (Honest Relocation Guide)
-
 Look, I'll cut straight to it: Kenwood and Old Northeast are two of St. Pete's most coveted neighborhoods, and for good reason. After 23+ years selling real estate in Tampa Bay, I've watched these tree-lined streets transform from hidden gems into some of the hottest property markets in [Pinellas County](/counties/pinellas/). But that doesn't mean they're right for everyone.
 
 These historic neighborhoods sit just northeast of downtown St. Pete, offering walkable streets, stunning architecture, and that elusive "neighborhood feel" everyone claims to want. But they also come with premium price tags, parking challenges, and the reality of living in Florida's fastest-changing city.
 
-![Historic homes with Spanish moss-draped oak trees lining a brick street in Old Northeast St. Pete](PLACEHOLDER)
 
 ## The Real Story: What Makes These Neighborhoods Special
 
@@ -45,7 +42,6 @@ These aren't cookie-cutter subdivisions. We're talking 1920s Mediterranean Reviv
 
 But here's what the real estate photos don't show: many of these homes are 80-100+ years old. Beautiful? Absolutely. Maintenance-free? Not even close. I've seen buyers fall in love with a gorgeous 1925 Mediterranean only to discover the electrical system predates air conditioning and the plumbing has "character issues."
 
-![Mediterranean Revival home with red tile roof and arched windows surrounded by mature landscaping](PLACEHOLDER)
 
 ## Housing Market Reality Check
 
@@ -63,7 +59,6 @@ Historic homes are expensive to maintain, period. Insurance runs higher due to a
 
 Parking is another hidden cost. Many homes have single-car garages or street parking only. Monthly parking passes downtown run $100-150 if you work there regularly.
 
-![Tree-lined brick street with historic bungalows and parked cars along the curb](PLACEHOLDER)
 
 ---
 
@@ -96,7 +91,6 @@ The community feel is real but not forced. Neighbors actually talk to each other
 
 But let's be honest: it's not the most diverse area economically. The cost of entry creates a pretty homogeneous income bracket, which may or may not align with what you're looking for in a community.
 
-![Residents walking dogs along a tree-shaded sidewalk with Spanish moss overhead](PLACEHOLDER)
 
 ## Schools: The Complicated Truth
 
@@ -137,7 +131,6 @@ Street parking is free but competitive. Many homes have driveways, but not all. 
 
 Public transit exists but isn't practical for most commutes. The Central Avenue BRT is helpful for downtown connections, but Tampa commuters will be driving.
 
-![Central Avenue showing local restaurants, shops, and tree-lined streetscape with pedestrians](PLACEHOLDER)
 
 ## Weather, Environment, and Practical Concerns
 
@@ -185,7 +178,6 @@ Those beautiful mature trees also drop leaves, require occasional trimming, and 
 
 **Maintenance costs:** Everything's more expensive to fix in historic homes, and things break more often.
 
-![Weekend farmers market scene with local vendors and residents shopping for produce](PLACEHOLDER)
 
 ## The Money Talk: Total Cost of Living
 
@@ -219,7 +211,6 @@ Total monthly carrying costs often run $4,000-7,000 for a typical family, not in
 - You prefer suburban amenities like big box stores and chain restaurants within walking distance
 - You work in Tampa and want a shorter commute
 
-![Cozy outdoor dining patio at a local restaurant with string lights and tropical landscaping](PLACEHOLDER)
 
 ## The Investment Angle
 

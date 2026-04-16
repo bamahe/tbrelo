@@ -25,7 +25,6 @@ featuredImage: "/images/blog/moving-florida-senior-guide.webp"
 
 Moving to Florida isn't just about sunshine and beaches when you're 55-plus. After two decades of helping families relocate to Tampa Bay, I've learned that seniors face unique challenges that younger movers never consider. Let me walk you through what really matters.
 
-![Aerial view of Tampa Bay waterfront communities with palm trees and golf courses](PLACEHOLDER)
 
 ## Why Seniors Choose Florida (Beyond the Weather)
 
@@ -69,7 +68,6 @@ Florida's pharmacy landscape differs from other states. CVS and Walgreens domina
 
 The glossy retirement community marketing materials don't tell the whole story. Here's what 23 years of Tampa Bay real estate has taught me about senior housing options.
 
-![Interior of modern 55+ community clubhouse with accessible features and activity areas](PLACEHOLDER)
 
 ### Active Adult Communities (55+)
 
@@ -127,7 +125,6 @@ Florida has unique driving challenges that catch newcomers off-guard:
 
 **Roundabouts** — Florida loves roundabouts, especially in newer developments. If you're not comfortable with them, practice in low-traffic areas first.
 
-![Accessible Florida home exterior showing single-story design with ramp and wide doorways](PLACEHOLDER)
 
 ## Financial Planning: The Hidden Costs
 
@@ -221,7 +218,6 @@ Moving requires more lead time when you're 55-plus. Here's my recommended timeli
 - Keep important documents and medications with you
 - Plan for several days of unpacking help
 
-![Moving truck at senior-friendly Florida community with palm trees and accessible pathways](PLACEHOLDER)
 
 ---
 

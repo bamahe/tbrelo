@@ -23,13 +23,10 @@ schema:
 featuredImage: /images/blog/default.webp
 ---
 
-# Best Tampa Bay Neighborhoods for LGBTQ+ Residents
-
 After 23 years of helping folks find their perfect spot in Tampa Bay, I've seen how important it is to land in a neighborhood where you can just be yourself. The good news? This region has evolved dramatically, and we've got some genuinely welcoming communities where LGBTQ+ residents thrive.
 
 Let me break down the neighborhoods where I consistently see my LGBTQ+ clients putting down roots — places with inclusive businesses, supportive neighbors, and that indefinable vibe that makes you feel at home.
 
-![Colorful Pride flags displayed in Tampa Bay neighborhood storefronts and homes](PLACEHOLDER)
 
 ## Why Tampa Bay Works for LGBTQ+ Residents
 
@@ -51,7 +48,6 @@ St. Pete consistently ranks among the most LGBTQ+-friendly cities in the Southea
 
 The city's St. Pete Pride in June regularly draws 250,000+ people, making it one of the largest Pride celebrations in the Southeast.
 
-![Historic colorful homes in St. Petersburg's LGBTQ-friendly neighborhoods](PLACEHOLDER)
 
 ### Seminole Heights, Tampa: The Hip Alternative
 
@@ -73,7 +69,6 @@ Don't sleep on South Tampa's LGBTQ+ scene. It's more subtle than St. Pete but eq
 
 **Bayshore Boulevard** offers some of Tampa's most prestigious addresses ($800K-$3M+) with water views. Several prominent LGBTQ+ community leaders call this stretch home, and the annual Gasparilla parade route creates a natural celebration space.
 
-![Modern condos and apartments in Tampa's inclusive South Tampa neighborhoods](PLACEHOLDER)
 
 ### Ybor City: History Meets Acceptance
 
@@ -111,7 +106,6 @@ These businesses create natural community gathering spaces and economic engines 
 
 The best LGBTQ+-friendly neighborhoods offer housing options from $180K condos in Ybor to $2M+ estates in South Tampa. This diversity means community members can stay in their chosen neighborhoods as their needs and incomes change.
 
-![Diverse housing options from condos to single-family homes in LGBTQ-friendly Tampa Bay areas](PLACEHOLDER)
 
 ## Practical Considerations for LGBTQ+ Homebuyers
 
@@ -135,7 +129,6 @@ Florida state law offers limited LGBTQ+ protections, but local ordinances in Tam
 
 Working with real estate agents who understand LGBTQ+ needs makes a huge difference. Look for agents with **LGBTQ+ Real Estate Alliance** certification or clear track records serving the community. I've worked with LGBTQ+ clients for over two decades and understand the unique considerations around neighborhood selection, financing, and long-term planning.
 
-![LGBTQ-friendly real estate office and community center spaces in Tampa Bay](PLACEHOLDER)
 
 ## Neighborhoods to Consider More Carefully
 
@@ -192,7 +185,6 @@ The key is spending real time in potential neighborhoods — not just driving th
 
 Remember that Tampa Bay's market moves fast. Good homes in LGBTQ+-friendly neighborhoods often receive multiple offers, especially in the $300K-$500K range where demand stays strongest.
 
-![Tampa Bay Pride celebration with diverse crowd and colorful decorations](PLACEHOLDER)
 
 ## Getting the Most from Your Home Search
 

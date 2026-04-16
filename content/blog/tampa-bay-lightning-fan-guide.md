@@ -27,7 +27,6 @@ So you're moving to Tampa Bay and wondering what all the Lightning buzz is about
 
 After 23 years selling real estate here, I've watched this team transform from struggling expansion club to back-to-back Stanley Cup champions. More importantly, I've seen how Lightning fandom becomes part of your Tampa Bay identity faster than you can say "power play."
 
-![Tampa Bay Lightning fans celebrating outside Amalie Arena during the Stanley Cup playoffs](PLACEHOLDER)
 
 ## Why Lightning Hockey Matters in Tampa Bay
 
@@ -41,7 +40,6 @@ Amalie Arena sits right in downtown Tampa's Channel District, and it's genuinely
 
 The arena holds 19,092 for hockey, but it feels intimate. There really aren't any bad seats. I've sat in the nosebleeds and still felt connected to the action. The sightlines are excellent, and unlike some older arenas, you're not dodging support beams.
 
-![Interior view of Amalie Arena during a Tampa Bay Lightning game showing the crowd and Tesla coils](PLACEHOLDER)
 
 ## Getting Lightning Tickets: Your Complete Guide
 
@@ -75,7 +73,6 @@ Regular season single-game tickets range from $25 for upper bowl corners to $300
 4. **SeatGeek** — User-friendly app with deal ratings
 5. **Facebook Marketplace/Craigslist** — Risky but sometimes cheapest. Meet at the arena, never send money in advance
 
-![Fans tailgating in the parking lots around Amalie Arena before a Lightning game](PLACEHOLDER)
 
 ## When to Buy: Timing Your Ticket Purchases
 
@@ -107,7 +104,6 @@ Sections 113-118 and 125-130 along the sides offer the best overall view of the 
 ### Splurge Options: Club and Ice Level
 Club level includes better food and drinks. Ice level seats let you hear players talking and feel every hit against the boards. Both are worth experiencing at least once.
 
-![View from different seating sections at Amalie Arena showing the perspective from upper bowl, lower bowl, and club level](PLACEHOLDER)
 
 ## Game Day: What You Need to Know
 
@@ -139,7 +135,6 @@ This is Florida, but the arena stays cold (around 65°F). Dress in layers. Light
 
 **Jersey Etiquette:** Current players are always safe. Retired numbers (99 Gretzky is honorary, 26 St. Louis, 4 Lecavalier) are respected. Avoid wearing jerseys of players who left on bad terms.
 
-![Tampa Bay Lightning fans in team jerseys and gear cheering during a goal celebration](PLACEHOLDER)
 
 ## Understanding Lightning Culture and Traditions
 
@@ -183,7 +178,6 @@ One of the best parts of having season tickets is sitting near the same people a
 
 **Season Ticket Holder Groups:** Many sections have informal groups that coordinate tailgates, away game watch parties, and social events throughout the season.
 
-![Season ticket holders tailgating together in the parking lot before a Lightning playoff game](PLACEHOLDER)
 
 ## Making Lightning Games Part of Your Tampa Bay Life
 

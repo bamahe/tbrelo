@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/florida-humidity-protect-belongings.webp"
 ---
 
-# What Happens to Your Stuff in Florida Humidity (And How to Protect It)
-
 After 23 years helping families move to Tampa Bay, I've seen the aftermath of Florida's humidity on everything from leather couches to family photos. The good news? Most damage is preventable once you understand what you're dealing with. The bad news? Your stuff is already under attack the moment you unpack.
 
 Florida's average humidity sits around 74%, but in summer months, we're talking 80-90% regularly. That's not just uncomfortable—it's actively working against your belongings. Here's what actually happens to your stuff and the battle-tested strategies that work.
 
-![Dehumidifier running in a Florida home with moisture readings on display](PLACEHOLDER)
 
 ## The Science Behind Florida's Assault on Your Belongings
 
@@ -55,7 +52,6 @@ For valuable electronics, invest in a dedicated dehumidifier for that room. The 
 
 Never store electronics in garages or Florida rooms without climate control. I've seen families lose entire home theater systems this way.
 
-![Electronics with visible corrosion damage next to properly protected setup](PLACEHOLDER)
 
 ## Furniture: When Wood Waves Goodbye
 
@@ -95,7 +91,6 @@ For books, maintain air circulation behind bookcases—leave 2-3 inches between 
 
 Never store paper goods in garages, attics, or any unconditioned space. Florida attics reach 130°F+ with 100% humidity—a perfect mold laboratory.
 
-![Books with mold damage next to properly stored collection in climate-controlled environment](PLACEHOLDER)
 
 ## Clothing and Textiles: The Mold Magnet Challenge
 
@@ -133,7 +128,6 @@ Metal tools rust aggressively in Florida humidity. Gun safes without dehumidifie
 
 Use vapor corrosion inhibitor (VCI) products for metal storage. [Zerust products]({{amazon:B00GR05P3Y}}) create a protective atmosphere in closed containers.
 
-![Comparison showing rusted tools next to properly protected tools with VCI protection](PLACEHOLDER)
 
 ## Room-by-Room Defense Strategy
 
@@ -165,7 +159,6 @@ Consider a garage dehumidifier if you're storing valuable items. The investment 
 
 Few Tampa Bay homes have basements, but those that do face unique challenges. Underground spaces in Florida stay humid year-round. Professional waterproofing and dedicated dehumidification are essential.
 
-![Whole-house dehumidifier installation showing proper setup and moisture readings](PLACEHOLDER)
 
 ## The Seasonal Battle Plan
 

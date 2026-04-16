@@ -27,7 +27,6 @@ When you're considering a move to Tampa Bay, understanding hurricane categories 
 
 The Saffir-Simpson Hurricane Wind Scale categorizes storms from 1 to 5 based on sustained wind speeds, but there's so much more you need to know beyond just the numbers. Each category brings different risks, requires different preparations, and causes vastly different damage patterns across Tampa Bay.
 
-![Satellite view of a major hurricane approaching the Florida Gulf Coast with clear eye wall definition](PLACEHOLDER)
 
 ## Understanding the Saffir-Simpson Scale
 
@@ -83,7 +82,6 @@ Plan for 1-2 weeks without electricity. Category 2 winds cause more extensive da
 
 This extended outage timeline affects everything from gasoline availability to medical equipment operation. If anyone in your household depends on powered medical devices, Category 2 storms require serious backup planning or evacuation.
 
-![Aerial view of hurricane damage showing downed power lines, damaged roofs, and debris scattered across a Tampa Bay neighborhood](PLACEHOLDER)
 
 ## Category 3 Hurricanes: 111-129 mph Winds
 
@@ -139,7 +137,6 @@ Transportation infrastructure suffers devastating impacts. Bridges may be compro
 
 Communication systems fail completely. Cell towers fall, landline infrastructure floods, and even satellite communications can be disrupted by the storm's structure and debris clouds.
 
-![Dramatic before and after comparison photos showing the same Tampa Bay waterfront area before and after major hurricane damage](PLACEHOLDER)
 
 ## Category 5 Hurricanes: 157+ mph Winds
 
@@ -197,7 +194,6 @@ Surge damage is often total. Unlike wind damage, which might require roof repair
 
 The cleanup timelines also differ dramatically. Wind damage cleanup focuses on debris removal and structural repairs that can often begin immediately after the storm. Surge damage requires complete drying, mold remediation, and often foundation inspection before reconstruction can even begin.
 
-![Split-screen image showing wind damage to roof and upper floors alongside storm surge flooding destroying ground floor of homes](PLACEHOLDER)
 
 ## Preparing for Each Hurricane Category
 

@@ -23,11 +23,8 @@ schema:
 featuredImage: /images/blog/default.webp
 ---
 
-# Living in Hyde Park — What It's Really Like (Honest Relocation Guide)
-
 Hyde Park isn't just Tampa's most famous neighborhood — it's the gold standard that every other upscale area gets compared to. After 23+ years of selling homes here, I've watched families fall in love with tree-lined streets, then get sticker shock at the grocery bills. Let's talk about what living in Hyde Park actually means in 2024.
 
-![Historic tree-lined street in Hyde Park Tampa showing Spanish moss and elegant homes](PLACEHOLDER)
 
 ## The Real Hyde Park Story
 
@@ -55,7 +52,6 @@ I sold a 1925 Mediterranean revival on Bayshore Boulevard last year for $1.1 mil
 
 Hyde Park's top tier includes waterfront estates on Bayshore Boulevard and completely rebuilt modern homes disguised as historic architecture. These properties often feature wine cellars, infinity pools, and guest houses that cost more than most people's primary residences.
 
-![Luxury waterfront home on Bayshore Boulevard with bay views and Spanish moss](PLACEHOLDER)
 
 ### Condo Living
 
@@ -97,7 +93,6 @@ Weekend nights in SoHo? Good luck. The restaurant and bar scene draws crowds fro
 
 Hyde Park works best for people who work downtown, in Westshore, or run their own businesses. Long commutes to the suburbs make the premium location less worthwhile.
 
-![Bayshore Boulevard jogging path with downtown Tampa skyline in background](PLACEHOLDER)
 
 ## Schools: The Complicated Truth
 
@@ -145,7 +140,6 @@ SoHo transforms after dark. **The Independent** anchors the bar scene with craft
 
 Fair warning: Weekend nights in SoHo can feel like spring break for adults. If you're seeking quiet suburban evenings, this isn't your neighborhood.
 
-![SoHo district restaurants and outdoor dining with string lights at night](PLACEHOLDER)
 
 ## Recreation and Outdoor Life
 
@@ -169,7 +163,6 @@ The University of Tampa's campus includes Plant Park, featuring the iconic Plant
 
 Technically separate from Hyde Park but practically next door via Plant Avenue. Davis Islands offers yacht clubs, tennis facilities, and Peter O. Knight Airport for small aircraft. Many Hyde Park residents use Davis Islands for recreation and dining.
 
-![Hyde Park Village outdoor shopping with palm trees and Mediterranean architecture](PLACEHOLDER)
 
 ## Cost of Living Reality
 
@@ -213,7 +206,6 @@ Household incomes typically exceed $150,000 annually. Many residents work downto
 
 **Running groups** meet regularly for Bayshore Boulevard training. The Tampa Bay running community is tight-knit and welcoming to newcomers.
 
-![Gasparilla parade on Bayshore Boulevard with crowds and pirate ships](PLACEHOLDER)
 
 ## Weather and Seasonal Living
 
@@ -261,7 +253,6 @@ The **Tampa Streetcar** offers scenic rides between Hyde Park, downtown, and Ybo
 
 **Ride-sharing** works well in Hyde Park. Uber and Lyft provide reliable service, though surge pricing applies during events and weekend nights.
 
-![Tampa Streetcar passing through Hyde Park with historic buildings in background](PLACEHOLDER)
 
 ## Investment and Market Trends
 
@@ -301,7 +292,6 @@ Hyde Park home values increased 8-12% annually from 2020-2023, outpacing most Ta
 - **Public schools** may disappoint at elementary/middle levels
 - **Traffic congestion** during rush hours and events
 
-![Aerial view of Hyde Park showing tree canopy, Bayshore Boulevard, and Tampa Bay](PLACEHOLDER)
 
 ## The Bottom Line
 

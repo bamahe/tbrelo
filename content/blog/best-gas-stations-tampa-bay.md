@@ -35,7 +35,6 @@ If you're already a Costco member, their gas stations are hands-down your best b
 
 The catch? Lines. Especially on weekends and evenings, you'll wait. But here's the insider tip: hit the Costco gas at Westchase around 7 AM on weekdays. Minimal wait, maximum savings.
 
-![Costco gas station in Tampa Bay with multiple cars lined up at pumps](PLACEHOLDER)
 
 Other Tampa Bay Costco locations with gas:
 - **Westchase**: 10720 W State Road 84
@@ -72,7 +71,6 @@ RaceTrac has deep roots in Tampa Bay, even though they started in Georgia. Their
 
 The RaceTrac on Fowler Avenue near USF stays busy but moves fast. Good pit stop when you're showing homes in [New Tampa](/cities/new-tampa/) or Temple Terrace.
 
-![RaceTrac gas station showing clean pumps and convenience store front](PLACEHOLDER)
 
 ## Premium Options: When Location Matters More Than Price
 
@@ -108,7 +106,6 @@ The newest Costco in Wesley Chapel is usually less crowded than the older locati
 
 BJ's in Clearwater offers great pricing for the beaches crowd. For quick fills heading to or from the beach, the Shell and Wawa locations along Gulf to Bay Boulevard keep things moving.
 
-![Gas price comparison sign showing different station prices in Tampa Bay area](PLACEHOLDER)
 
 ## The Apps That Actually Help
 
@@ -140,7 +137,6 @@ Tesla Superchargers are popping up everywhere — there's a huge installation at
 
 If you're considering an EV for your Tampa Bay move, factor charging infrastructure into your home search. Some [Hillsborough County](/counties/hillsborough/) neighborhoods have much better charging access than others.
 
-![Electric vehicle charging station at a Tampa Bay shopping center](PLACEHOLDER)
 
 ---
 

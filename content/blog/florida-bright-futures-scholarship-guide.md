@@ -23,8 +23,6 @@ schema:
 featuredImage: "/images/blog/florida-bright-futures-scholarship-guide.webp"
 ---
 
-# Florida Bright Futures Scholarship — Saving for Your Kids
-
 Let me be straight with you: if your kid can pull decent grades and test scores in Florida, the state will pay for their college. Not a loan. Not work-study. Free money.
 
 The Florida Bright Futures Scholarship Program has been sending Florida students to college since 1997, and it's one of the best-kept secrets for families moving to Tampa Bay. While other states saddle families with crushing student debt, Florida actually rewards academic achievement with cold, hard cash.
@@ -33,7 +31,6 @@ But here's the thing — the requirements changed in 2018, and most parents I ta
 
 After helping 200+ families navigate Tampa Bay schools over two decades, I've watched this program evolve. I've seen kids miss out on $20,000+ because their parents didn't understand the fine print. And I've watched families save massive money by planning early.
 
-![Students celebrating graduation with caps in the air, representing Florida Bright Futures scholarship recipients](PLACEHOLDER)
 
 ## What Is Bright Futures (And Why Should You Care?)
 
@@ -85,7 +82,6 @@ This tier covers 75% tuition at community colleges and state colleges for studen
 
 Most Tampa Bay families I work with focus on FAS or FMS, since these apply to traditional four-year universities.
 
-![High school students studying in a library, focused on achieving academic goals for college scholarships](PLACEHOLDER)
 
 ## Course Requirements That Trip Up Families
 
@@ -170,7 +166,6 @@ Popular Tampa Bay volunteer opportunities include:
 
 Keep detailed records. I've seen students lose scholarships because they couldn't properly document their service hours.
 
-![Students volunteering at a local community center, documenting hours for Bright Futures scholarship requirements](PLACEHOLDER)
 
 ## Financial Need Component (That Most People Ignore)
 

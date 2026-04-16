@@ -23,15 +23,12 @@ schema:
 featuredImage: "/images/blog/best-ceiling-fans-florida.webp"
 ---
 
-# Best Ceiling Fans for Florida Homes — Indoor and Outdoor
-
 Living in Florida for over two decades, I've installed more ceiling fans than I care to count. Between helping clients prep homes for sale and upgrading my own properties, I've learned which fans actually move air effectively in our humid climate versus the pretty ones that barely create a breeze.
 
 Florida's unique challenges — year-round humidity, salt air near the coast, and those brutal summer months where your electric bill rivals your mortgage payment — demand ceiling fans that can handle the workload. Not all fans are created equal, especially when you're dealing with 90+ degree days and 80% humidity.
 
 Here's what actually works in Florida homes, from someone who's seen the good, bad, and ugly of fan installations across Tampa Bay.
 
-![Modern ceiling fan installation in a Florida great room with high ceilings and large windows](PLACEHOLDER)
 
 ## Why Florida Homes Need Different Ceiling Fans
 
@@ -100,7 +97,6 @@ I typically recommend these for luxury homes in Palma Ceia, Hyde Park, or waterf
 
 [Big Ass Fans Haiku 60-Inch Smart Ceiling Fan]({{amazon:B09M7K8GHX}})
 
-![Large ceiling fan in a Florida great room with vaulted ceilings and coastal decor](PLACEHOLDER)
 
 ## Best Outdoor Ceiling Fans for Florida
 
@@ -157,7 +153,6 @@ Most newer Florida homes (post-2000) have ceiling fan-rated electrical boxes, bu
 - Rooms 225-400 sq ft: 56-inch fan
 - Rooms over 400 sq ft: 60+ inch fan or multiple fans
 
-![Ceiling fan installation showing proper downrod length and clearance measurements](PLACEHOLDER)
 
 ## Energy Efficiency Features That Matter
 
@@ -213,7 +208,6 @@ Installing an indoor-rated fan in a screened porch seems logical — it's covere
 
 While changing a light fixture might be DIY-friendly, ceiling fan installation in Florida often requires permits, especially in newer communities with strict HOA requirements. Professional installation ensures proper support and electrical connections.
 
-![Professional electrician installing ceiling fan with proper electrical box and downrod](PLACEHOLDER)
 
 ## Local Installation Resources
 
@@ -239,7 +233,6 @@ Quality ceiling fans should be secured or removed during major storms. Fans with
 
 Fans within 10 feet of pool water require special GFCI protection and wet-location ratings. This significantly limits options but ensures electrical safety.
 
-![Outdoor ceiling fan properly installed in covered pool area with appropriate wet location rating](PLACEHOLDER)
 
 ## Budget-Friendly Options That Don't Suck
 
@@ -273,7 +266,6 @@ Handcrafted details and premium materials justify the higher price. These fans b
 
 Luxury fans make sense in primary suites, great rooms, or homes where ceiling fans are prominent design elements.
 
-![High-end ceiling fan with unique blade design and integrated lighting in luxury Florida home](PLACEHOLDER)
 
 ## Seasonal Fan Direction Tips
 

@@ -27,7 +27,6 @@ You walk into a Publix in Tampa for the first time, and something feels... diffe
 
 Welcome to the Publix Phenomenon — where a grocery store chain has achieved cult status that would make Apple jealous.
 
-![Interior shot of a pristine Publix store showing gleaming floors, organized aisles, and the iconic green and white branding](PLACEHOLDER)
 
 After 23 years of helping people relocate to Tampa Bay, I've watched countless newcomers experience their first Publix encounter. The reaction is always the same: wide eyes, followed by "Wait, grocery stores can be like this?" Then comes the inevitable conversion — within six months, they're planning their week around BOGO deals and defending Pub Subs like they're family heirlooms.
 
@@ -47,7 +46,6 @@ Part of it is ownership. Publix is employee-owned, which means the person baggin
 
 Ask any longtime Tampa resident about Publix service, and you'll hear stories. The deli worker who remembers your sandwich order. The produce manager who sets aside perfect avocados when they see you coming. The cashier who genuinely asks about your day and listens to the answer.
 
-![Smiling Publix employee in signature green apron helping a customer in the deli section](PLACEHOLDER)
 
 ## Pub Subs: The Sandwich That Launched a Thousand Memes
 
@@ -66,7 +64,6 @@ But chicken tender subs are just the gateway drug. The full Pub Sub menu reads l
 
 The ritual of ordering is sacred. You approach the deli counter, take a number, and wait your turn. When called, you don't just order — you collaborate. Half Italian, half five-grain bread? No problem. Extra pickles? They got you. Toasted exactly 47 seconds? They're professionals.
 
-![Close-up of a chicken tender pub sub on Italian bread with all the fixings, cut in half to show the layers](PLACEHOLDER)
 
 ## BOGO: The Art of Strategic Shopping
 
@@ -92,7 +89,6 @@ Walking past the Publix bakery requires willpower training. Fresh cookies the si
 
 This is Florida, where oranges grow in people's backyards and strawberries are harvested year-round. Publix leverages this advantage with produce sections that showcase local Florida agriculture alongside carefully curated national selections. The oranges are sweet, the strawberries actually taste like strawberries, and the avocados are ripe exactly when you need them to be.
 
-![Vibrant produce section showing perfectly arranged Florida oranges, strawberries, and tropical fruits with clear pricing signs](PLACEHOLDER)
 
 ## The Publix Premium: Why Floridians Pay More (And Don't Care)
 
@@ -110,7 +106,6 @@ Publix has become woven into Florida's cultural fabric in ways that extend far b
 
 Ask any longtime Florida resident about hurricane prep, and Publix enters the conversation immediately. Not just because you need supplies, but because Publix has earned trust during the state's most vulnerable moments. They keep stores open until the last safe moment. They reopen as soon as possible after storms pass. They coordinate with emergency responders to serve communities when other businesses are still assessing damage.
 
-![Publix store exterior with the iconic green and white signage and palm trees, representing the Florida shopping experience](PLACEHOLDER)
 
 ## The Transplant Transformation
 
@@ -142,7 +137,6 @@ The stores adapt to their communities too. The Publix in Hyde Park caters to urb
 
 Each location becomes a neighborhood hub where you run into neighbors, catch up on local news, and feel connected to your community. It's grocery shopping elevated to social experience.
 
-![Wide shot of customers shopping in a busy Publix produce section, showing the social aspect of grocery shopping there](PLACEHOLDER)
 
 ---
 

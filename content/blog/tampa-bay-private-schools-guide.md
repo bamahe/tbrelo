@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/tampa-bay-private-schools-guide.webp"
 ---
 
-# Tampa Bay Private Schools — The Complete Guide
-
 Looking at private schools in Tampa Bay? You're in for some sticker shock. But also some genuinely excellent educational options that might be worth every penny — if you know where to look.
 
 After 23 years helping families relocate here, I've walked countless parents through this decision. The Tampa Bay area has over 200 private schools ranging from $8,000 annual tuition to $35,000+. The quality varies wildly, and the "most expensive" isn't always the best fit for your kid.
 
-![Aerial view of a prestigious Tampa Bay private school campus with modern buildings and athletic fields](PLACEHOLDER)
 
 ## The Private School Landscape in Tampa Bay
 
@@ -67,7 +64,6 @@ The facilities are jaw-dropping. The new STEM building alone cost $15 million. B
 **Tuition:** $16,800-$18,200  
 **What Makes It Special:** This is where many Berkeley-bound kids get their start. Small class sizes (12:1 student-teacher ratio) and a campus that feels like a neighborhood school, but with resources most public schools can only dream about.
 
-![Students in a modern science classroom at a Tampa Bay private school conducting experiments](PLACEHOLDER)
 
 ## Excellent Mid-Tier Options
 
@@ -130,7 +126,6 @@ Football Friday nights at Jesuit are legendary in Tampa. The brotherhood aspect 
 ### Various Montessori Programs
 Scattered throughout Tampa Bay, tuition ranges from $12,000-$18,000. The philosophy either resonates with your family or it doesn't — visit before committing.
 
-![Private school students in uniforms walking across a tree-lined campus courtyard](PLACEHOLDER)
 
 ## The Real Cost Analysis
 

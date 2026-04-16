@@ -27,7 +27,6 @@ Moving to Tampa Bay means choosing between three main housing types: condos, tow
 
 The truth? There's no universal "best" choice. Your ideal housing type depends on your lifestyle, budget, timeline, and which part of Tampa Bay you're targeting. Let me break down the real pros and cons of each option with specific local examples and current market realities.
 
-![Modern condo building in downtown Tampa with waterfront views](PLACEHOLDER)
 
 ## The Tampa Bay Condo Market Reality
 
@@ -65,7 +64,6 @@ Condos in Tampa Bay range from $150,000 one-bedrooms in older St. Petersburg bui
 
 **Rental restrictions** vary by complex. Some prohibit rentals entirely, others limit lease terms or require board approval. This affects your exit strategy if you need to move.
 
-![Row of modern townhouses with small front yards and attached garages](PLACEHOLDER)
 
 ## Townhouses: The Middle Ground Option
 
@@ -107,7 +105,6 @@ Tampa Bay's townhouse market has exploded over the past decade. New communities 
 
 **Parking limitations** affect some communities. Single-car garages plus driveway space usually accommodate two vehicles, but guest parking can be scarce.
 
-![Single-family home with large front yard and mature landscaping in Tampa Bay](PLACEHOLDER)
 
 ## Single-Family Homes: Maximum Freedom, Maximum Responsibility
 
@@ -149,7 +146,6 @@ Single-family homes dominate Tampa Bay's housing stock. From $200,000 starter ho
 
 **Utility costs** run higher due to inefficient building shapes and more space to heat/cool. Older homes with poor insulation can see $300+ monthly electric bills during summer.
 
-![Aerial view showing different housing types in a Tampa Bay neighborhood](PLACEHOLDER)
 
 ## Financial Breakdown: What Each Really Costs
 
@@ -214,7 +210,6 @@ Your daily routine and long-term plans should drive your housing choice more tha
 - Plan to stay long-term (10+ years)
 - Want maximum appreciation potential
 
-![Family moving boxes into different types of Tampa Bay homes](PLACEHOLDER)
 
 ## Location Impact: How Geography Changes Everything
 
@@ -258,7 +253,6 @@ School choice policies make location less critical for school access. However, t
 
 Excellent school ratings throughout much of the county mean housing type becomes the primary decision factor rather than school access.
 
-![Comparison chart showing pros and cons of each housing type](PLACEHOLDER)
 
 ## Investment Potential: Which Appreciates Best?
 

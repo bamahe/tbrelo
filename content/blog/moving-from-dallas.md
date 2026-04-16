@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/moving-from-dallas.webp"
 ---
 
-# Moving from Dallas to Tampa Bay — The Complete Relocation Guide
-
 After two decades helping families relocate to Tampa Bay, I've seen plenty of Dallas transplants make this move. And honestly? Most of them wonder why they waited so long. The combination of no state income tax (just like Texas), better beaches, and surprisingly competitive housing costs makes Tampa Bay one of the smartest moves you can make from the Metroplex.
 
 But let's get real about what you're actually trading. Yes, you're swapping BBQ debates for Cuban sandwich arguments. You'll miss Deep Ellum but discover Ybor City. And while you might shed a tear for your beloved Cowboys, the Bucs and Lightning will give you plenty to cheer about.
 
-![Aerial comparison showing Dallas skyline transitioning to Tampa Bay waterfront with palm trees](PLACEHOLDER)
 
 ## Why Dallas Families Choose Tampa Bay
 
@@ -68,7 +65,6 @@ Here's where it gets interesting. While Miami and Orlando have gone bonkers, Tam
 - **Car Insurance**: Florida's rates are higher — budget an extra $400-600 annually
 - **Dining Out**: Comparable to Dallas suburbs, but you get Cuban, Colombian, and Greek food that actually doesn't suck
 
-![Cost comparison chart showing Dallas vs Tampa Bay expenses across categories](PLACEHOLDER)
 
 ## Tax Savings Calculator
 
@@ -117,7 +113,6 @@ Established money, quiet streets, top-tier schools. These Tampa areas have that 
 
 Hip, walkable, full of local businesses you'll actually want to support. Seminole Heights has that same neighborhood-centric culture with better weather for porch sitting.
 
-![Split image showing similar neighborhoods: Dallas historic district on left, Tampa Bay neighborhood on right](PLACEHOLDER)
 
 ---
 
@@ -157,7 +152,6 @@ Yes, hurricanes exist. But so do Texas tornadoes, hail storms, and ice storms. M
 
 Most positions pay 85-95% of Dallas salaries, but remember — no state income tax and lower property taxes often mean you're ahead financially despite slightly lower base pay.
 
-![Modern office building in Tampa Bay with professionals walking outside](PLACEHOLDER)
 
 ## School Districts: The Parent's Guide
 
@@ -192,7 +186,6 @@ Most positions pay 85-95% of Dallas salaries, but remember — no state income t
 - Pros: Interesting scenery, good food stops
 - Cons: Longer drive, Houston traffic
 
-![Map showing driving route from Dallas to Tampa Bay with major stops marked](PLACEHOLDER)
 
 ### Moving Company Costs
 
@@ -231,7 +224,6 @@ Based on 2024 rates for Dallas to Tampa Bay moves:
 
 **St. Pete Downtown**: Artistic, diverse, waterfront access. The anti-suburb option.
 
-![New construction homes in Tampa Bay master-planned community](PLACEHOLDER)
 
 ### What $400K Gets You
 
@@ -262,7 +254,6 @@ You'll miss Tex-Mex initially. Nothing here compares to quality Dallas Mexican f
 
 Dallas has that polished, corporate social scene. Tampa Bay is more laid-back, beach-casual. People boat instead of attending galas. Pool parties instead of hotel ballrooms. It takes adjustment, but most Dallas transplants prefer it after a year.
 
-![Group of friends enjoying waterfront dining in Tampa Bay](PLACEHOLDER)
 
 ---
 
@@ -322,7 +313,6 @@ If you're keeping employer insurance, verify network coverage. Some Texas-based 
 **Beach Dog Life**: Many beaches allow dogs during certain hours
 **Dog Parks**: Excellent facilities in most Tampa Bay communities
 
-![Happy family with pets at Tampa Bay waterfront park](PLACEHOLDER)
 
 ## Banking and Financial Services
 
@@ -407,7 +397,6 @@ Can be done online or at DMV when getting your license. Florida allows early vot
 - [ ] Register to vote
 - [ ] Find grocery stores, pharmacies, etc.
 
-![Family unpacking boxes in new Tampa Bay home with palm trees visible outside](PLACEHOLDER)
 
 ## Making Tampa Bay Home
 

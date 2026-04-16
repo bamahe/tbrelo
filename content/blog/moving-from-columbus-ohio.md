@@ -27,7 +27,6 @@ Moving from Columbus to Tampa Bay means swapping snow boots for flip-flops and t
 
 The numbers tell the story: Columbus families routinely save $3,000-5,000 annually on taxes alone, while enjoying weather that lets you golf in January and swim in your backyard pool year-round. But like any major relocation, success comes down to planning, timing, and understanding what you're really getting into.
 
-![Aerial view comparing Columbus skyline in winter to Tampa Bay waterfront with palm trees](PLACEHOLDER)
 
 ## Why Columbus Families Choose Tampa Bay
 
@@ -71,7 +70,6 @@ Columbus median home price hovers around $245,000, while Tampa Bay averages $385
 
 The sticker shock softens when you factor in year-round outdoor living spaces, no heating costs, and property values that historically outpace Columbus by 2-3% annually.
 
-![Side-by-side comparison of similar homes in Columbus vs Tampa Bay with price tags](PLACEHOLDER)
 
 ### Daily Living Expenses
 
@@ -97,7 +95,6 @@ The creative energy, walkable entertainment district, and urban loft living mirr
 
 Family-oriented suburbs with newer construction, excellent schools, and that "safe place to raise kids" feeling. Both offer more space for your money and community amenities that put Ohio subdivisions to shame.
 
-![Map showing Tampa Bay neighborhoods with callouts matching Columbus areas](PLACEHOLDER)
 
 ## School System Comparison
 
@@ -146,7 +143,6 @@ Tampa Bay's private school landscape offers everything from Catholic institution
 - Open Florida bank accounts
 - Research Florida homestead exemption
 
-![Timeline infographic showing key milestones for Columbus to Tampa Bay move](PLACEHOLDER)
 
 ## Transportation and Logistics
 
@@ -199,7 +195,6 @@ Tampa Bay's subtropical climate means:
 
 Most Columbus families adapt within 6-8 months, though the first summer feels intense. Invest in good air conditioning and embrace the indoor mall culture during peak heat.
 
-![Split image showing Columbus winter scene vs Tampa Bay beach in January](PLACEHOLDER)
 
 ### Social and Cultural Differences
 
@@ -231,7 +226,6 @@ Finding quality contractors, lawn services, and home maintenance providers requi
 
 **Recommended Resource:** Establish relationships early. Good contractors stay booked months ahead, especially during peak season.
 
-![Comparison of medical facilities between Columbus and Tampa Bay](PLACEHOLDER)
 
 ## Job Market Deep Dive
 
@@ -273,7 +267,6 @@ Florida's homestead exemption saves thousands annually on property taxes, but qu
 
 **Insurance Reality:** Budget $2,000-4,000 annually for homeowners insurance, plus $500-1,500 for flood coverage depending on elevation and location.
 
-![Real estate comparison showing similar homes in both cities with market statistics](PLACEHOLDER)
 
 ## Cultural and Entertainment Landscape
 
@@ -325,7 +318,6 @@ Joining activities becomes essential — the transient population means everyone
 - Participate in community events
 - Use apps like Meetup and Nextdoor
 
-![Montage showing Tampa Bay social activities and community gatherings](PLACEHOLDER)
 
 ## Financial Planning for the Move
 
@@ -396,7 +388,6 @@ That "great deal" in a flood zone or hurricane evacuation area becomes expensive
 - Consider pool or outdoor upgrades
 - Plan Ohio visits during peak summer
 
-![Calendar showing first-year milestones and activities for new Tampa Bay residents](PLACEHOLDER)
 
 ## Frequently Asked Questions
 

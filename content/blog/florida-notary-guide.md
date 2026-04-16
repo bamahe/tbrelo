@@ -23,15 +23,12 @@ schema:
 featuredImage: "/images/blog/florida-notary-guide.webp"
 ---
 
-# Florida Notary Guide — Where to Get Documents Notarized
-
 You're standing in your new Westchase kitchen, staring at a stack of documents that need notarization, and you have exactly zero idea where to find a notary in Tampa Bay. Join the club.
 
 After 23+ years of helping families relocate here, I've watched countless people scramble around town looking for notaries at the worst possible times — usually when they need to close on their house by 3 PM and it's already noon.
 
 Here's everything you need to know about getting documents notarized in the Tampa Bay area, from the cheapest options to the most convenient, plus some local insider knowledge that'll save you time and headaches.
 
-![Person signing documents at a notary table with official stamp visible](PLACEHOLDER)
 
 ## What You Need to Know About Florida Notaries
 
@@ -87,7 +84,6 @@ Hillsborough County libraries offer notary services that most people don't know 
 
 The downside? Limited hours and you can't make appointments. But if you're already running errands and need a quick notarization, libraries are goldmines.
 
-![Interior of a public library with people at service desk getting documents notarized](PLACEHOLDER)
 
 ## Mobile Notaries: When Convenience Matters
 
@@ -143,7 +139,6 @@ Real emergencies happen. Hospital paperwork at midnight, urgent business documen
 
 **Airport locations:** Tampa International Airport has notary services available during extended hours for travelers who need last-minute document certification.
 
-![Professional mobile notary with briefcase meeting client at a coffee shop](PLACEHOLDER)
 
 ## Special Situations and Considerations
 

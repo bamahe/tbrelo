@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/moving-from-raleigh-move.webp"
 ---
 
-# Moving from Raleigh NC to Tampa Bay — The Complete Relocation Guide
-
 Making the leap from North Carolina's capital city to Florida's Gulf Coast isn't just about trading Research Triangle Park for the Tampa Bay tech scene. After helping 200+ families navigate this exact move over two decades, I've seen the surprises, the wins, and the gotchas that come with swapping Carolina barbecue for Cuban sandwiches.
 
 The good news? This move makes financial sense for most people. The reality check? Tampa Bay's housing market operates differently than Raleigh's, and you'll want to understand those differences before you start house hunting.
 
-![Aerial view comparing Raleigh's tree-lined neighborhoods with Tampa Bay's waterfront communities](PLACEHOLDER)
 
 ## Why Raleigh Families Choose Tampa Bay
 
@@ -63,7 +60,6 @@ This deserves its own calculator. A Raleigh family earning $100,000 pays roughly
 
 Property taxes tell a different story. Raleigh's effective rate runs about 1.02%, while Tampa Bay averages 1.15-1.35% depending on county. On a $400K home, you'll pay roughly $1,000-1,500 more annually in property taxes here.
 
-![Side-by-side comparison of Raleigh downtown skyline and Tampa Bay downtown waterfront](PLACEHOLDER)
 
 ## Cost of Living: The Real Numbers
 
@@ -132,7 +128,6 @@ Urban high-rise living with waterfront views, walkable entertainment districts, 
 
 You'll trade Raleigh's affordable downtown parking for expensive garage fees, but gain year-round outdoor activities.
 
-![Split image showing a typical Raleigh suburban neighborhood and a Tampa Bay waterfront community](PLACEHOLDER)
 
 ## School Districts: What Raleigh Parents Need to Know
 
@@ -187,7 +182,6 @@ The most straightforward path takes 7.5-8.5 hours of driving time, but plan for 
 
 Adds about 30 minutes but avoids I-95 construction zones around Richmond and Jacksonville. Scenic route through the Blue Ridge foothills before joining I-95 in South Carolina.
 
-![Map showing the driving route from Raleigh to Tampa Bay with major stops marked](PLACEHOLDER)
 
 ### Moving Company Costs and Timing
 
@@ -269,7 +263,6 @@ Tampa Bay's healthcare sector explodes with opportunity, especially for Raleigh 
 
 **Tourism/Hospitality Tech:** Busch Gardens, theme parks, and hospitality create unique tech opportunities combining tourism expertise with digital innovation.
 
-![Collage showing Tampa Bay's diverse job sectors - tech offices, healthcare facilities, and port operations](PLACEHOLDER)
 
 ## Weather Reality: Beyond the Tourism Brochures
 
@@ -330,7 +323,6 @@ You'll trade Carolina BBQ for Cuban sandwiches, but the food scene runs deeper t
 
 **What you'll miss:** Good BBQ requires effort to find. Cookout doesn't exist here. Sweet tea isn't automatically served.
 
-![Food collage showing Cuban sandwiches, fresh Gulf seafood, and local craft beer](PLACEHOLDER)
 
 ## County-by-County Breakdown for Raleigh Transplants
 
@@ -443,7 +435,6 @@ For detailed information, visit our [Hillsborough County guide](/counties/hillsb
 - Find nearest grocery stores, pharmacy, urgent care
 - Locate closest beach for mandatory celebration visit
 
-![Timeline graphic showing the 90-day moving preparation schedule](PLACEHOLDER)
 
 ## Financial Planning: Making Your Money Work
 
@@ -511,7 +502,6 @@ Raleigh's outdoor season runs April through October. Tampa Bay's outdoor season 
 
 **Date nights:** Restaurant scenes in Hyde Park, St. Petersburg, and downtown Tampa rival anything Raleigh offers, often with water views included.
 
-![Collage showing Tampa Bay lifestyle activities - kayaking, golf, arts venues, and outdoor festivals](PLACEHOLDER)
 
 ## Potential Drawbacks: The Honest Assessment
 

@@ -27,7 +27,6 @@ Tampa Bay serves up romance year-round, but Valentine's Day demands something sp
 
 Skip the chain restaurant rush. Tampa Bay's romantic dining scene runs deeper than most people realize, with hidden gems tucked into historic neighborhoods and chef-driven spots that locals actually frequent. Whether you're planning a first date or celebrating decades together, here's where love lives in the Bay area.
 
-![Waterfront restaurant with twinkling lights and Tampa Bay skyline at sunset](PLACEHOLDER)
 
 ## Waterfront Romance — Dining with a View
 
@@ -49,7 +48,6 @@ Operating since 1905, The Columbia claims the title of Florida's oldest restaura
 
 Order the 1905 Salad (tossed tableside with theatrical flair) and paella Valenciana for two. The flamenco shows on weekends add entertainment, but Valentine's Day calls for the quieter rooms where conversation flows easier. Dinner for two runs $120-160, and the historic atmosphere beats any chain's "romantic" lighting.
 
-![Historic Spanish-style restaurant interior with ornate tile work and intimate lighting](PLACEHOLDER)
 
 ## Hyde Park Village — Sophisticated Suburban Romance
 
@@ -71,7 +69,6 @@ This Hyde Park newcomer focuses on contemporary American cuisine with French tec
 
 The wine program emphasizes smaller producers, making this perfect for couples who want to discover something new together. Expect $150-200 for two with wine.
 
-![Elegant restaurant interior with warm lighting and couples dining](PLACEHOLDER)
 
 ## Downtown Tampa — Urban Energy
 
@@ -93,7 +90,6 @@ Located within the Tampa Riverwalk, this waterfront spot combines marina views w
 
 The outdoor seating puts you right on the water, where dolphins occasionally surface during dinner. Perfect for couples who want upscale dining without stuffiness. Expect $140-180 for two.
 
-![Downtown Tampa waterfront dining with city lights reflecting on water](PLACEHOLDER)
 
 ## St. Petersburg — Artsy and Romantic
 
@@ -129,7 +125,6 @@ For couples preferring casual beach vibes over white tablecloth service, Frenchy
 
 The sunset views rival any upscale restaurant, and the laid-back atmosphere lets conversation flow naturally. Total cost for two: $60-80, leaving budget for beach walks and drinks elsewhere.
 
-![Beachfront restaurant deck with sunset views over Gulf of Mexico](PLACEHOLDER)
 
 ## Beyond Dinner — Complete Date Night Ideas
 
@@ -157,7 +152,6 @@ Tampa's 4.5-mile waterfront boulevard provides free romance with million-dollar 
 
 Perfect for pre-dinner walks, post-meal strolls, or budget-conscious couples wanting scenic backdrops for conversation. Free parking available in Hyde Park or downtown areas.
 
-![Couples walking along waterfront boulevard with city skyline in background](PLACEHOLDER)
 
 ## Making Reservations — Insider Tips
 

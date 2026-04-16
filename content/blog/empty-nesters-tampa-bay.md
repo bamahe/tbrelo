@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/empty-nesters-tampa-bay.webp"
 ---
 
-# Tampa Bay for Empty Nesters — Downsizing and Starting Over
-
 After decades of soccer practices, PTA meetings, and keeping a four-bedroom house running, empty nesters in Tampa Bay face an exciting question: what's next? I've helped hundreds of couples navigate this transition over 23 years, and here's what I've learned — this isn't just about downsizing square footage. It's about upsizing your life.
 
 The kids are launched, the mortgage is manageable (or paid off), and suddenly you're rattling around a house that feels too big, too maintenance-heavy, and too far from the fun stuff. Tampa Bay offers empty nesters something special: the chance to reinvent your lifestyle while staying in a region you already love.
 
-![Couple walking along Tampa Riverwalk at sunset with downtown skyline in background](PLACEHOLDER)
 
 ## Why Empty Nesters Choose Tampa Bay
 
@@ -77,7 +74,6 @@ Forget everything you think you know about Florida beach towns. St. Pete Beach h
 
 **Real talk:** Hurricane insurance runs $3,000-5,000 annually. Factor that into your budget alongside the $500-800 monthly HOA fees that cover building maintenance and beach access.
 
-![Modern condo interior with large windows overlooking Tampa Bay](PLACEHOLDER)
 
 ### Seminole Heights — Hip and Walkable
 
@@ -103,7 +99,6 @@ Dunedin marches to its own drummer, and empty nesters love it. The downtown stri
 
 **The Pinellas Trail connection:** This 75-mile trail system connects Dunedin to St. Petersburg, creating a car-free way to explore multiple communities. Many empty nesters use it as their primary transportation for dining and entertainment.
 
-![Empty nesters biking on the Pinellas Trail with Spanish moss trees](PLACEHOLDER)
 
 ## Condo vs. Single-Family Home: The Empty Nester Dilemma
 
@@ -147,7 +142,6 @@ Some empty nesters choose high-end rentals over ownership. In Tampa Bay's luxury
 
 **When buying wins:** You plan to stay 5+ years, want control over your environment, and prefer building equity to paying rent.
 
-![Luxury waterfront condo community with marina and palm trees](PLACEHOLDER)
 
 ## Lifestyle Perks Tampa Bay Offers Empty Nesters
 
@@ -189,7 +183,6 @@ Healthcare access becomes increasingly important as we age, and Tampa Bay delive
 
 Many empty nesters upgrade to concierge medicine for more personalized healthcare. Tampa Bay offers numerous concierge practices charging $1,500-3,000 annually for enhanced access and service.
 
-![Modern medical facility with palm trees and Tampa Bay skyline](PLACEHOLDER)
 
 ## Social Connections and Community Building
 

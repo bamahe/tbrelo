@@ -25,7 +25,6 @@ featuredImage: "/images/blog/tampa-bay-internet-providers-ranked.webp"
 
 After 23 years of helping families relocate to Tampa Bay, I've fielded countless questions about internet providers. Nothing kills the excitement of a new home like discovering your internet crawls at dial-up speeds during peak hours. Let me break down what actually works here — and what doesn't.
 
-![Comparison chart showing internet speeds and prices from major Tampa Bay providers](PLACEHOLDER)
 
 ## The Reality of Tampa Bay Internet
 
@@ -144,7 +143,6 @@ Traditional satellite (HughesNet, Viasat) remains a last resort due to data caps
 
 Some residential areas can access business-grade internet from providers like Comcast Business or Spectrum Business. Pricing starts around $100/month for 100 Mbps, but you get better customer service, service level agreements, and often more consistent speeds.
 
-![Speed test results showing actual performance during peak hours across different Tampa Bay neighborhoods](PLACEHOLDER)
 
 ## What You Actually Need: Speed Reality Check
 
@@ -218,7 +216,6 @@ You can use your own router but not your own optical network terminal (ONT).
 
 T-Mobile keeps it simple: $50/month, no contracts, no installation fees, no equipment rental. The gateway device is included but remains T-Mobile's property.
 
-![Map showing fiber availability and internet provider coverage across Tampa Bay neighborhoods](PLACEHOLDER)
 
 ## Choosing Based on Your Location
 

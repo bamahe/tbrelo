@@ -29,7 +29,6 @@ The truth is, the "best" hurricane shutters depend entirely on your specific sit
 
 Let's cut through the marketing nonsense and talk about what really matters when Category 4 winds are 48 hours out.
 
-![Different types of hurricane shutters installed on a typical Florida home showing accordion, roll-down, and panel options](PLACEHOLDER)
 
 ## Understanding Florida's Hurricane Protection Requirements
 
@@ -67,7 +66,6 @@ The best roll-down shutters I've seen in Tampa Bay come from [Rolling Shutters D
 
 For a typical 2,500 square foot home with 20 openings, you're looking at $15,000-$25,000 installed. That's real money, but I've watched these systems save homeowners from $50,000+ in window and water damage during storms like Ian and Irma.
 
-![Roll-down hurricane shutters being deployed on a Carrollwood home with the homeowner using a remote control](PLACEHOLDER)
 
 ## Accordion Hurricane Shutters: The Middle Ground
 
@@ -92,7 +90,6 @@ The [Accordion Shutter Corporation Model AS-100]({{amazon:B07DEFGHI3}}) dominate
 
 For that same 2,500 square foot home, accordion shutters typically run $6,000-$12,000 installed — about half the cost of roll-downs with 80% of the convenience.
 
-![Accordion hurricane shutters partially deployed on a Brandon home showing the folding mechanism](PLACEHOLDER)
 
 ## Storm Panels: Maximum Protection, Minimum Convenience
 
@@ -131,7 +128,6 @@ They're popular in communities like Hyde Park, Davis Islands, and St. Pete Beach
 
 The [Fenetex Bahama Shutters]({{amazon:B08MNOPQR5}}) have performed well in Tampa Bay installations I've seen, with powder-coated aluminum construction that holds up in our climate.
 
-![Bahama shutters installed on a South Tampa bungalow showing both the open position for daily use and closed position for storm protection](PLACEHOLDER)
 
 ## Colonial Shutters: Traditional Protection
 
@@ -159,7 +155,6 @@ The [Storm Stoppers Fabric System]({{amazon:B09STUVWX6}}) has impressed me most 
 
 For a full house, fabric systems typically cost $8,000-$15,000 — more than panels but less than permanent shutters, with installation times closer to panels than shutters.
 
-![Fabric hurricane protection being installed on a Temple Terrace home showing the lightweight aluminum frame and engineered fabric](PLACEHOLDER)
 
 ## Impact Windows vs. Hurricane Shutters
 
@@ -236,7 +231,6 @@ Every storm protection system requires maintenance, and Florida's climate accele
 
 The maintenance requirements alone make roll-down shutters less appealing for some homeowners. If you're not going to maintain them properly, accordion shutters or panels might serve you better long-term.
 
-![A homeowner maintaining accordion hurricane shutters by cleaning the tracks and lubricating moving parts](PLACEHOLDER)
 
 ## Insurance Discounts and Code Compliance
 

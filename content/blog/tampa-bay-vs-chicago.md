@@ -27,7 +27,6 @@ I've helped dozens of Chicago families make the jump to Tampa Bay over the past 
 
 Chicago brings world-class culture, established neighborhoods, and four distinct seasons. Tampa Bay offers year-round outdoor living, no state income tax, and a cost of living that won't crush your dreams. The question isn't which city is "better" — it's which fits your lifestyle and financial goals.
 
-![Aerial view comparing Chicago's skyline with Lake Michigan to Tampa Bay's waterfront and downtown skyline](PLACEHOLDER)
 
 ## Cost of Living Reality Check
 
@@ -71,7 +70,6 @@ The trade-off? Summers are humid. Really humid. June through September feels sti
 
 Weather impacts your lifestyle more than you realize. Chicago forces you indoors for months. Tampa Bay lets you bike, boat, and barbecue year-round.
 
-![Side-by-side comparison showing Chicago's snowy winter scene versus Tampa Bay's sunny beach weather](PLACEHOLDER)
 
 ---
 
@@ -128,7 +126,6 @@ Traffic isn't terrible by major city standards. Interstate 275 connects downtown
 
 Parking costs less and stress runs lower, but you'll need reliable transportation.
 
-![Comparison image showing Chicago's L train system versus Tampa's highway system with cars](PLACEHOLDER)
 
 ## Education: Schools That Matter
 
@@ -183,7 +180,6 @@ St. Petersburg's downtown renaissance created a legitimate arts district. The Sa
 
 Food scenes differ dramatically. Chicago offers deep-dish pizza, Italian beef, and ethnic neighborhoods with authentic cuisine. Tampa Bay excels at seafood, Cuban food, and outdoor dining year-round.
 
-![Collage showing Chicago's Millennium Park and museums alongside Tampa Bay's arts district and waterfront dining](PLACEHOLDER)
 
 ## Outdoor Recreation and Lifestyle
 
@@ -223,7 +219,6 @@ BayCare and AdventHealth operate extensive networks ensuring convenient access t
 
 Both cities provide good healthcare, but Chicago edges ahead in specialized treatment and research hospitals.
 
-![Comparison of prominent hospitals and medical facilities in both cities](PLACEHOLDER)
 
 ---
 
@@ -283,7 +278,6 @@ Choose Tampa Bay if you prefer:
 - Relaxed pace and less daily stress
 - Retirement-friendly environment
 
-![Final comparison image showing families enjoying both cities' signature activities - Chicago's urban festivals versus Tampa Bay's beach lifestyle](PLACEHOLDER)
 
 The financial math often favors Tampa Bay, especially for families and retirees. The lifestyle choice depends on your personality and priorities.
 

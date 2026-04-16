@@ -27,7 +27,6 @@ Moving to Florida means trading snow boots for flip-flops, but it also means con
 
 Florida's year-round sunshine isn't just a marketing slogan. It's a daily dose of UV radiation that demands respect. The numbers are sobering: Florida has the highest melanoma incidence rate in the country, with over 7,000 new cases diagnosed annually. That's not meant to scare you away from paradise, but it should change how you live here.
 
-![Florida beach scene showing intense sun and UV exposure with beachgoers applying sunscreen](PLACEHOLDER)
 
 ## The Florida Sun Reality Check
 
@@ -92,7 +91,6 @@ For Tampa Bay living, I recommend:
 - Seek shade during peak UV hours
 - Use UV-blocking window film in homes and cars
 
-![Person applying sunscreen on Tampa Bay beach with proper technique demonstration](PLACEHOLDER)
 
 ## Recognizing Warning Signs: The ABCDE Method
 
@@ -168,7 +166,6 @@ Having one skin cancer dramatically increases your risk of developing others. Ta
 
 Organ transplant recipients show 20-100 times higher skin cancer rates than the general population. Florida's environment compounds this risk significantly. Immunosuppressed individuals need aggressive sun protection and frequent professional monitoring.
 
-![Dermatologist examining patient for skin cancer screening in modern Tampa Bay medical office](PLACEHOLDER)
 
 ## The Economic Impact of Sun Damage
 

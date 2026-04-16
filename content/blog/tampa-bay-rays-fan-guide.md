@@ -25,7 +25,6 @@ featuredImage: "/images/blog/tampa-bay-rays-fan-guide.webp"
 
 The Tampa Bay Rays are finally getting the stadium they deserve — and it's going to change everything about baseball in the Bay Area. After decades at Tropicana Field (let's be honest, it's been a love-hate relationship), the team is building a brand new ballpark that'll open in 2028. Here's what every local and newcomer needs to know about this massive transition.
 
-![Rendering of the new Tampa Bay Rays stadium with St. Petersburg skyline in background](PLACEHOLDER)
 
 ## The New Stadium: What We Know So Far
 
@@ -47,7 +46,6 @@ If you're driving from Tampa, expect the same 20-25 minute trip across the Howar
 
 Let's give credit where it's due — Tropicana Field has been home for the Rays since 1998, and it's seen some incredible baseball. Two World Series appearances, multiple playoff runs, and more walk-off wins than you can count.
 
-![Interior view of Tropicana Field during a packed playoff game](PLACEHOLDER)
 
 But anyone who's spent time at "The Trop" knows its quirks. The catwalks that can affect fly balls. The artificial turf that's harder than concrete. The location that's tough to reach from Tampa and most of the northern suburbs.
 
@@ -71,7 +69,6 @@ For premium experiences, the Trop offers the Champions Club ($85-120 per seat) a
 
 Tuesday through Thursday games offer the best value. Weekend games, especially bobblehead nights and fireworks shows, sell out quickly.
 
-![Fans enjoying food and drinks at Tropicana Field concession area](PLACEHOLDER)
 
 ### New Stadium Expectations (2028+)
 
@@ -97,7 +94,6 @@ Current stars like Wander Franco, Randy Arozarena, and Shane McClanahan represen
 
 Manager Kevin Cash has created a culture where role players thrive and young prospects get opportunities to succeed.
 
-![Action shot of Randy Arozarena making a spectacular play in the outfield](PLACEHOLDER)
 
 ## The Food and Drink Scene
 
@@ -139,7 +135,6 @@ The entire downtown St. Pete area benefits from this kind of major development. 
 
 If you're considering buying in St. Pete, the time is now, before completion drives prices even higher. The [Pinellas County](/counties/pinellas/) market has always been strong, but this stadium project adds another layer of long-term value.
 
-![Aerial view of St. Petersburg downtown area showing current development and future stadium site](PLACEHOLDER)
 
 ## Transportation and Parking Reality Check
 
@@ -177,7 +172,6 @@ The team estimates $103 million in annual economic impact from the new stadium, 
 
 Construction alone will employ 1,500+ people over four years.
 
-![Construction workers breaking ground at the new Tampa Bay Rays stadium site](PLACEHOLDER)
 
 ## Season Schedule and Weather Considerations
 

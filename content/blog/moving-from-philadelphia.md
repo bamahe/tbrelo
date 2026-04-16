@@ -27,7 +27,6 @@ You're trading Liberty Bell for palm trees, and trust me — after 23 years help
 
 Philadelphia has charm, history, and some of the best food in America. But Tampa Bay has something Philadelphia doesn't: year-round warmth, no state income tax, and housing costs that won't make you question your life choices. Let me walk you through exactly what this move looks like — the real numbers, the best neighborhoods, and the logistics that'll save you thousands.
 
-![Aerial view comparing Philadelphia's urban skyline with Tampa Bay's waterfront and palm trees](PLACEHOLDER)
 
 ## Why Philly Residents Are Choosing Tampa Bay
 
@@ -65,7 +64,6 @@ Here's the breakdown that matters — real numbers from real families I've helpe
 
 That's $850 monthly back in your budget. Multiply by 10 years, and you're looking at over $100,000 in savings — literally a paid-off mortgage difference.
 
-![Side-by-side comparison of similar homes in Philadelphia vs Tampa Bay with price tags](PLACEHOLDER)
 
 ## Finding Your Tampa Bay Neighborhood Match
 
@@ -89,7 +87,6 @@ Working-class roots, strong cultural identity, authentic food scene. Ybor's Cuba
 ### From Manayunk → Dunedin
 Small-town charm, Main Street USA feel, great restaurants along a central strip. Dunedin's Bon Appetit Restaurant Row gives you that Main Street Manayunk energy.
 
-![Map showing Tampa Bay neighborhoods with Philadelphia neighborhood comparisons](PLACEHOLDER)
 
 ## School Districts: A Major Upgrade
 
@@ -164,7 +161,6 @@ Based on recent moves I've coordinated:
 
 **Pro tip**: Book your move for mid-month, mid-week. Avoid summer months (June-August) when half the Northeast moves to Florida.
 
-![Moving truck driving through scenic Florida landscape approaching Tampa Bay](PLACEHOLDER)
 
 ## Setting Up Your New Life
 
@@ -188,7 +184,6 @@ While PNC and Wells Fargo exist here, consider local options:
 - **CenterState Bank**: Strong commercial relationships
 - **AdventHealth Credit Union**: Great member benefits
 
-![New residents setting up their Tampa Bay home with moving boxes and Florida sunshine](PLACEHOLDER)
 
 ## Healthcare and Services
 
@@ -226,7 +221,6 @@ Missing your Philly sports leagues? Tampa Bay delivers:
 - **Sailing lessons** at Davis Islands Yacht Club
 - **Golf**: Year-round play at courses like Westchase, TPC Tampa Bay
 
-![Group of Philadelphia transplants watching Eagles game at local Tampa Bay sports bar](PLACEHOLDER)
 
 ## Food and Culture: What You'll Miss and What You'll Discover
 
@@ -256,7 +250,6 @@ Missing your Philly sports leagues? Tampa Bay delivers:
 - Afternoon thunderstorms are daily May-September
 - Tourist season affects traffic (February-April)
 
-![Tampa Bay's diverse food scene featuring Cuban sandwiches, fresh seafood, and outdoor dining](PLACEHOLDER)
 
 ## Seasonal Considerations and Hurricane Prep
 
@@ -301,7 +294,6 @@ After 23 years here, I've learned hurricane prep is mostly common sense:
 - Prepare essentials box for first few days
 - Document everything for tax purposes
 
-![Calendar showing moving timeline with important Florida relocation deadlines](PLACEHOLDER)
 
 ---
 
@@ -355,7 +347,6 @@ If you're considering this move for retirement, the numbers get even better:
 
 Check our comprehensive cost comparison for more specific budget planning. The savings compound over time — what starts as $10,000 annually becomes generational wealth over 20-30 years.
 
-![Happy family enjoying their new Tampa Bay waterfront lifestyle with palm trees and sunshine](PLACEHOLDER)
 
 ## Frequently Asked Questions
 

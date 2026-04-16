@@ -27,7 +27,6 @@ The locals' dilemma at Busch Gardens: pay tourist prices for your backyard theme
 
 Here's the straight answer: if you'll visit more than twice a year, the annual pass pays for itself. But there's more nuance to whether Busch Gardens fits into your Tampa Bay lifestyle than simple math.
 
-![Busch Gardens Tampa entrance with families walking in on a typical Florida afternoon](PLACEHOLDER)
 
 ## The Real Cost Breakdown for Tampa Bay Residents
 
@@ -56,7 +55,6 @@ Skip the marketing fluff about "world-class thrills." Here's what's legitimately
 
 **Iron Gwazi** opened as Florida's tallest hybrid coaster and lives up to the hype. The wooden structure with steel track creates a smoother ride than old-school wooden coasters while maintaining that classic out-of-control feeling.
 
-![SheiKra coaster mid-drop with riders and Tampa Bay visible in the background](PLACEHOLDER)
 
 ### The Underrated Gems
 
@@ -88,7 +86,6 @@ You live more than an hour away. Even with a pass, that drive becomes a barrier 
 
 ## Seasonal Strategy for Maximum Value
 
-![Busch Gardens during Howl-O-Scream with fog effects and Halloween decorations](PLACEHOLDER)
 
 ### Spring (March-May)
 Perfect weather, manageable crowds except Easter week. This is when annual passholders get the most bang for their buck. Lines are reasonable, temperatures hit that 75-85 sweet spot, and the park feels like it was designed for these conditions.
@@ -112,7 +109,6 @@ Theme park food prices are what they are — budget $15-20 per person per meal i
 - Take advantage of the hand stamp for lunch runs to nearby restaurants on Busch Boulevard
 - The Zambia Smokehouse has the best food-to-price ratio inside the park
 
-![Families enjoying rides at Busch Gardens on a clear Tampa Bay morning](PLACEHOLDER)
 
 ## Comparing to Orlando Parks
 
@@ -142,7 +138,6 @@ Standard parking is free with Platinum passes, $30 otherwise. The lots are massi
 **Weekends:** Rope drop (usually 10 AM) gives you 2-3 hours of reasonable lines.
 **Peak season:** Get there 15 minutes before opening. Seriously.
 
-![Annual passholders enjoying shorter lines at Busch Gardens during off-peak hours](PLACEHOLDER)
 
 ## Special Events Worth Your Time
 
@@ -169,7 +164,6 @@ Winter mornings can be genuinely cold by Florida standards (40s-50s), and those 
 
 The best weather windows are typically October-November and March-April, when temperatures stay in the 70s-80s with lower humidity and minimal rain.
 
-![Busch Gardens on a perfect spring day with blue skies and comfortable temperatures](PLACEHOLDER)
 
 ## The Bottom Line for Tampa Bay Families
 

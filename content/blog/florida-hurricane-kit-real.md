@@ -29,7 +29,6 @@ I've lived through 23 hurricane seasons in Tampa Bay. I've seen people fight ove
 
 Here's your real-world hurricane kit, based on what actually matters when the power's been out for six days and your neighbors are sharing a generator that sounds like a freight train.
 
-![Person organizing hurricane supplies in garage with labeled bins and water containers](PLACEHOLDER)
 
 ## Water: More Than You Think, Smarter Than You'd Guess
 
@@ -68,7 +67,6 @@ Let's talk generators. The 3,500-watt Honda everyone recommends costs $3,000 and
 - Multiple phone battery packs: [Anker PowerCore 26800]({{amazon:B01JIWQPMW}})
 - Solar phone chargers for extended outages
 
-![Generator setup in backyard with proper ventilation and safety equipment](PLACEHOLDER)
 
 ---
 
@@ -132,7 +130,6 @@ Plywood is cheap and heavy and takes forever to install when you're racing a sto
 - Plastic sheeting for broken windows
 - Work gloves for cleanup
 
-![Home with hurricane shutters installed and sandbags around garage](PLACEHOLDER)
 
 ## Communications: When Cell Towers Go Dark
 
@@ -182,7 +179,6 @@ Call your pharmacy two weeks before hurricane season starts. Get 90-day supplies
 - Hearing aid batteries
 - Glasses/contact lens supplies
 
-![First aid kit and medications organized in waterproof container](PLACEHOLDER)
 
 ## Tools and Safety: When Everything Breaks
 
@@ -237,7 +233,6 @@ You're far enough inland that storm surge isn't the primary concern, but you'll 
 - Test equipment annually
 - Keep inventory list updated
 
-![Organized hurricane supply storage area with labeled containers and equipment](PLACEHOLDER)
 
 ---
 

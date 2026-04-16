@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/best-smart-home-florida.webp"
 ---
 
-# Best Smart Home Devices for Florida Living
-
 Living in Florida means dealing with scorching summers, afternoon thunderstorms, and occasional hurricanes — plus the unique challenges of high humidity, salt air, and year-round growing seasons. After 23+ years of helping Tampa Bay families find homes, I've seen how the right smart home technology can make Florida living dramatically more comfortable and cost-effective.
 
 This isn't about the latest gadgets or flashy tech demos. These are the smart home devices that actually work in our climate, solve real Florida problems, and pay for themselves through energy savings or peace of mind.
 
-![Modern Florida home with smart home devices visible including video doorbell and smart lighting](PLACEHOLDER)
 
 ## Why Smart Homes Make Sense in Florida
 
@@ -66,7 +63,6 @@ The [Nest Learning Thermostat]({{amazon:B09XXTQPZX}}) learns your schedule autom
 
 **Price comparison:** Ecobee typically runs $220-250, Nest $180-220. Both offer utility rebates through Tampa Electric (TECO) and Duke Energy.
 
-![Smart thermostat display showing Florida-appropriate temperature settings with humidity readings](PLACEHOLDER)
 
 ## Smart Doorbells: See Who's There (Even During Storms)
 
@@ -120,7 +116,6 @@ The [Rachio 3 Smart Sprinkler Controller]({{amazon:B01D1NMLJU}}) integrates with
 
 **Installation tip:** Most landscape companies charge $200-300 for installation. [Luxury Landscaping Solutions](https://luxurylstampa.com) and [Ground Effects](https://groundeffectstampa.com) both specialize in smart irrigation retrofits.
 
-![Smart irrigation controller mounted on exterior wall with Florida landscaping in background](PLACEHOLDER)
 
 ### Smart Leak Detection: Prevent Mold Disasters
 
@@ -154,7 +149,6 @@ The [Philips Hue White and Color Starter Kit]({{amazon:B07354SP1C}}) offers the 
 
 **Cost analysis:** Initial investment is higher ($100-150 for starter kit), but LED longevity and energy savings make sense in our climate.
 
-![Smart LED bulbs providing ambient lighting in a Florida home interior](PLACEHOLDER)
 
 ## Smart Plugs and Power Management
 
@@ -186,7 +180,6 @@ Individual devices are useful, but integrated systems provide the best value in 
 
 **Recommendation:** Start with SmartThings for reliability, then migrate to Hubitat if you want local control.
 
-![Smart home hub device on a shelf next to router and other networking equipment](PLACEHOLDER)
 
 ## Florida-Specific Smart Home Considerations
 
@@ -244,7 +237,6 @@ Most smart home devices are designed for DIY installation, but Florida's climate
 
 **Annual savings:** Most homeowners see $600-1,200 annual savings on utilities, making payback period 18-30 months.
 
-![Smart home devices arranged on a table showing price tags and energy savings calculations](PLACEHOLDER)
 
 ## Avoiding Common Florida Smart Home Mistakes
 

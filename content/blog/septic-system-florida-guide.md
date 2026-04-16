@@ -23,8 +23,6 @@ schema:
 featuredImage: "/images/blog/septic-system-florida-guide.webp"
 ---
 
-# What to Know About Septic Systems in Florida
-
 You're house hunting in Tampa Bay and just found your dream home. Great bones, perfect neighborhood, reasonable price. Then you see those three little words in the listing that make your stomach drop: "septic system included."
 
 Before you run for the hills, take a breath. About 2.6 million Florida homes rely on septic systems — that's roughly 30% of all residences. In Tampa Bay's more rural areas like eastern [Hillsborough County](/counties/hillsborough/) or parts of [Pasco](/counties/pasco/), septic systems are actually the norm, not the exception.
@@ -44,7 +42,6 @@ In Tampa Bay specifically, you'll find septic systems most commonly in:
 - Rural Polk County properties
 - Older developments in Pinellas that haven't been converted
 
-![Aerial view of a typical Tampa Bay area home with septic system components visible in the yard](PLACEHOLDER)
 
 ## How Septic Systems Actually Work
 
@@ -95,7 +92,6 @@ Built above ground when soil conditions don't allow for traditional drain fields
 
 Most expensive option: $20,000-$35,000 for new installation
 
-![Cross-section diagram showing how septic system components work together underground](PLACEHOLDER)
 
 ## The Home Buying Process: What You Need to Know
 
@@ -166,7 +162,6 @@ When things go wrong, they go expensively wrong:
 - Distribution box repair: $500-$1,500
 - Advanced system component replacement: $2,000-$5,000
 
-![Professional septic tank pumping truck working at a residential property](PLACEHOLDER)
 
 ## County-Specific Regulations
 
@@ -226,7 +221,6 @@ Consider conversion if:
 
 Some municipalities offer low-interest loans or assessment programs that spread conversion costs over 10-20 years.
 
-![Before and after photos showing a yard during septic to sewer conversion process](PLACEHOLDER)
 
 ## Smart Buying Strategies
 

@@ -23,11 +23,8 @@ schema:
 featuredImage: "/images/blog/living-in-soho-south-howard-guide.webp"
 ---
 
-# Living in SoHo (South Howard) — What It's Really Like (Honest Relocation Guide)
-
 Let me get straight to the point: SoHo isn't for everyone. This trendy pocket of [Hyde Park in Tampa](/neighborhoods/hyde-park/) attracts young professionals with deep pockets and a taste for nightlife, but it'll cost you. If you're considering the move, you need the real story — not the marketing fluff.
 
-![Aerial view of South Howard Avenue showing the mix of historic homes, modern condos, and bustling commercial district](PLACEHOLDER)
 
 SoHo (South Howard Avenue) runs roughly from Kennedy Boulevard south to Bayshore Boulevard, bounded by Hyde Park Avenue to the west and the Hillsborough River to the east. It's Tampa's answer to a trendy urban village — think walkable streets, craft cocktails, and rent prices that'll make you question your life choices.
 
@@ -58,7 +55,6 @@ Most people living in SoHo rent apartments or own condos. The housing stock is a
 
 Popular complexes include The Columns on Bayshore (converted historic hotel), Element Music Row, and various smaller boutique buildings along Morrison Avenue and Swann Avenue.
 
-![Street view of historic apartment buildings mixed with modern condos along South Howard Avenue](PLACEHOLDER)
 
 ### Single-Family Homes: Limited but Pricey
 
@@ -90,7 +86,6 @@ Street parking is a contact sport in SoHo. Residents get permits, but good luck 
 
 Uber and Lyft are heavily used, especially for airport runs ($35-45) and getting to areas like Westshore or Brandon.
 
-![Busy South Howard Avenue street scene showing restaurants, pedestrians, and the parking challenge](PLACEHOLDER)
 
 ### Public Transit: Limited Options
 
@@ -138,7 +133,6 @@ SoHo falls within Hillsborough County Schools, specifically:
 
 **Plant High School:** Highly rated (A school, 9/10) but extremely competitive. Getting into Plant from SoHo can be challenging due to district boundaries and popularity.
 
-![Parents walking children to Gorrie Elementary School on tree-lined street](PLACEHOLDER)
 
 The reality: SoHo attracts more young professionals than families with school-age kids. If schools are a priority, consider [South Tampa neighborhoods](/neighborhoods/south-tampa/) with better zoning.
 
@@ -182,7 +176,6 @@ The boulevard offers:
 - Popular for jogging, cycling, and walking dogs
 - Free parking (though competitive during peak times)
 
-![Bayshore Boulevard linear park with joggers, cyclists, and Tampa skyline views across the bay](PLACEHOLDER)
 
 ### Hyde Park and Beyond
 
@@ -220,7 +213,6 @@ The 2017 Hurricane Irma evacuation saw SoHo largely emptied, with residents stay
 
 October through April brings Tampa's legendary weather. Windows stay open, outdoor dining thrives, and Bayshore Boulevard becomes even more popular. These months remind you why people pay premium prices to live here.
 
-![SoHo outdoor dining scene during pleasant fall weather with people enjoying sidewalk tables](PLACEHOLDER)
 
 ## Cost of Living: The Real Numbers
 
@@ -271,7 +263,6 @@ Recent projects include several 4-6 story apartment buildings along Morrison and
 
 Long-time residents and local businesses face increasing pressure from rising rents and property values. Some longtime establishments have closed, replaced by upscale restaurants and boutiques catering to newer, more affluent residents.
 
-![New modern apartment building under construction next to historic SoHo bungalow showing neighborhood transition](PLACEHOLDER)
 
 ### Infrastructure Challenges
 
@@ -328,7 +319,6 @@ You're sacrificing:
 
 If the numbers work for your budget and the lifestyle appeals, SoHo offers Tampa's closest approximation to big-city urban living. Just know what you're getting into before you sign that lease.
 
-![Evening street scene in SoHo showing the vibrant mix of diners, nightlife, and pedestrian activity that defines the neighborhood](PLACEHOLDER)
 
 ---
 

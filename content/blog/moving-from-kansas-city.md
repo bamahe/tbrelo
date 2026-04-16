@@ -23,11 +23,8 @@ schema:
 featuredImage: "/images/blog/moving-from-kansas-city.webp"
 ---
 
-# Moving from Kansas City to Tampa Bay — The Complete Relocation Guide
-
 I've helped dozens of Kansas City families make the move to Tampa Bay over my 23+ years as a REALTOR here. The transition from Missouri's heartland to Florida's Gulf Coast involves more than just swapping barbecue styles (though we'll get to that). Let me walk you through everything you need to know about relocating from KC to the Bay Area.
 
-![Aerial view comparing Kansas City skyline with downtown Tampa skyline side by side](PLACEHOLDER)
 
 The short version? You're trading four seasons for endless summer, state income tax for zero income tax, and tornado warnings for hurricane season. Most Kansas City transplants I work with are shocked by how much their money stretches here — and how quickly they forget about shoveling snow.
 
@@ -76,7 +73,6 @@ Here's the honest breakdown based on current market conditions:
 | Groceries | Baseline | +8% | Fresh seafood costs more |
 | Dining Out | Baseline | +12% | Tourist areas inflate prices |
 
-![Side-by-side comparison chart showing cost differences between Kansas City and Tampa Bay](PLACEHOLDER)
 
 The reality? If you're buying a similar home, expect to pay $150,000-200,000 more upfront. But between tax savings, no snow removal costs, and year-round outdoor activities, many families find the higher housing cost worth it.
 
@@ -108,7 +104,6 @@ Try **Hyde Park** in Tampa. Tree-lined streets, walkable to excellent restaurant
 
 **Wesley Chapel** in [Pasco County](/counties/pasco/) offers master-planned living with A-rated schools and reasonable prices. Think Olathe, but with palm trees.
 
-![Collage showing different Tampa Bay neighborhoods with architectural styles and street scenes](PLACEHOLDER)
 
 ## The Logistics of Moving 1,200 Miles
 
@@ -158,7 +153,6 @@ If moving multiple cars, consider auto transport:
 - **Accountant:** $52,000-68,000 (vs $48,000-63,000 in KC)
 - **Teacher:** $47,500 starting (vs $42,000 in KC, but consider no income tax)
 
-![Professional office buildings and medical centers in Tampa Bay area](PLACEHOLDER)
 
 ## Schools: What Kansas City Families Need to Know
 
@@ -201,7 +195,6 @@ Florida's homestead exemption removes $50,000 from your assessed value for tax p
 
 Additional exemptions exist for veterans, seniors, and disabled residents. These can significantly reduce your tax burden compared to Kansas City.
 
-![New construction homes and established neighborhoods showing different housing options in Tampa Bay](PLACEHOLDER)
 
 ---
 
@@ -262,7 +255,6 @@ You've dealt with tornadoes, ice storms, and blizzards. Hurricanes are different
 
 Budget $3,000-5,000 for complete hurricane preparation. Consider it like buying a snowblower in Kansas City — necessary equipment for the environment.
 
-![Hurricane preparation supplies and home protection measures](PLACEHOLDER)
 
 ## Healthcare System Overview
 
@@ -312,7 +304,6 @@ Florida Blue dominates the individual market. If you're keeping employer insuran
 - Explore Florida travel opportunities (Keys, Orlando, etc.)
 - Build professional network through industry meetups
 
-![Timeline infographic showing moving milestones and deadlines](PLACEHOLDER)
 
 ## Financial Planning for the Transition
 
@@ -356,7 +347,6 @@ These savings help offset higher housing costs over time.
 - **You hate humidity (it's real here)**
 - **Professional network is KC-specific**
 
-![Sunset over Tampa Bay waterfront with city skyline in background](PLACEHOLDER)
 
 The families I help relocate from Kansas City typically tell me two things six months later: they wish they'd moved sooner, and they can't imagine going back to shoveling snow. The adjustment period is real, but the lifestyle upgrade usually wins out.
 

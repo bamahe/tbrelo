@@ -27,7 +27,6 @@ Two communities separated by just a few miles and the Manatee River, yet worlds 
 
 Both sit in northern [Manatee County](/counties/manatee/) and offer compelling reasons to call them home. But the devil's in the details — and those details matter when you're deciding where to plant roots in the Tampa Bay area.
 
-![Aerial view comparing Parrish's newer developments with Ellenton's more established neighborhoods](PLACEHOLDER)
 
 ## The Tale of Two Communities
 
@@ -45,7 +44,6 @@ Ellenton sits at a steadier 4,500 residents, with modest growth averaging 2-3% a
 
 These numbers tell the story: Parrish is the boom town, Ellenton is the steady neighbor.
 
-![New construction homes in Parrish development alongside mature neighborhoods](PLACEHOLDER)
 
 ## Housing Market Reality Check
 
@@ -122,7 +120,6 @@ This is where geography matters. Both communities offer reasonable access to Tam
 
 **Edge to Ellenton** for most commutes. The slightly more central location and better highway access make a difference during rush hour.
 
-![Traffic comparison showing commute times from both communities during rush hour](PLACEHOLDER)
 
 ## Lifestyle and Amenities
 
@@ -160,7 +157,6 @@ Parrish's newer developments excel at planned recreation — miles of sidewalks,
 
 Ellenton counters with established parks like **Riverside Park** along the Manatee River and proximity to **Robinson Preserve** — 600+ acres of mangrove forests, nature trails, and observation towers.
 
-![Families enjoying outdoor activities at local parks and waterfront areas](PLACEHOLDER)
 
 ## Shopping and Dining
 
@@ -199,7 +195,6 @@ Both fall under Manatee County's millage rate of approximately 8.5 mills, but as
 
 **Bottom line**: Ellenton offers better overall value, while Parrish commands premium pricing for newer construction and amenities.
 
-![Cost comparison chart showing housing, utilities, and transportation expenses](PLACEHOLDER)
 
 ## Community Character and Culture
 
@@ -241,7 +236,6 @@ The community seems committed to managing growth while preserving character.
 
 **Long-term outlook**: Parrish will likely offer more amenities and newer everything. Ellenton will maintain its historic charm and walkable downtown character.
 
-![Future development plans and construction projects in both communities](PLACEHOLDER)
 
 ## Transportation and Infrastructure
 

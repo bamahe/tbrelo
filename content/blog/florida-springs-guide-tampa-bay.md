@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/florida-springs-guide-tampa-bay.webp"
 ---
 
-# Florida Springs 101 — Every Spring Worth Visiting from Tampa Bay
-
 Living in Tampa Bay means you're sitting pretty in the middle of Florida's spring country. While everyone else is posting beach photos, you've got access to something way cooler — literally. Crystal-clear water that stays 72°F year-round, swimming holes that look like they belong in a nature documentary, and day trips that'll make your Instagram followers seriously jealous.
 
 After 23 years of showing clients around this area, I've visited every major spring within driving distance of Tampa Bay. Some are tourist traps. Others are hidden gems. Here's the real deal on which ones deserve your time and gas money.
 
-![Aerial view of crystal clear Florida spring with visitors floating in tubes and swimming](PLACEHOLDER)
 
 ## Why Florida Springs Are Actually Amazing
 
@@ -54,7 +51,6 @@ The swimming area near the headspring is perfect for families — shallow enough
 
 **Pro tip:** Get there early. The parking lot fills up by 11 AM on weekends, and they stop letting cars in. Pack a lunch — the concession stand is overpriced and underwhelming.
 
-![Kayakers paddling through the crystal clear waters of Rainbow Springs with cypress trees overhead](PLACEHOLDER)
 
 ### Weeki Wachee Springs State Park (Spring Hill)
 
@@ -83,7 +79,6 @@ Rent tubes at the concession stand and they'll shuttle you to the put-in point. 
 
 **The real talk:** This gets absolutely packed on summer weekends. Go on a weekday if possible, or show up when they open at 8 AM. Bring water shoes — the bottom is mostly sand but there are some rocky spots. And yes, you'll see manatees. They love the warm spring water.
 
-![Families floating in tubes down the crystal clear Ichetucknee River surrounded by cypress trees](PLACEHOLDER)
 
 ## The Local Favorites — Springs Within 90 Minutes
 
@@ -126,7 +121,6 @@ This isn't really a swimming destination — it's more of a wildlife park built 
 
 The spring itself produces 45 million gallons daily and feeds the Homosassa River. There's an underwater observatory where you can watch manatees and fish swimming around the spring vent. Pretty cool for kids who might get bored at swimming-only springs.
 
-![Underwater view from observatory showing manatees swimming in the crystal clear spring water](PLACEHOLDER)
 
 ## The Hidden Gems — Springs Most People Miss
 
@@ -169,7 +163,6 @@ The spring itself produces 26,000 gallons per minute — not huge by Florida sta
 
 **What to bring:** Your own tubes, water shoes, and patience. The park limits capacity, so weekend waits can be 2+ hours during peak season.
 
-![Families with tubes preparing to float down the natural lazy river at Kelly Park surrounded by lush vegetation](PLACEHOLDER)
 
 ## Planning Your Spring Adventures
 
@@ -283,7 +276,6 @@ I've had clients who moved here from places like Chicago or Denver who become sp
 
 The smart play? Pick 2-3 springs based on your family's interests and visit them regularly rather than trying to hit every spring once. You'll learn the best spots, the optimal timing, and develop your own routines.
 
-![Sunset view over a Florida spring with cypress trees silhouetted against colorful sky](PLACEHOLDER)
 
 ---
 

@@ -27,7 +27,6 @@ Getting your Florida concealed carry permit isn't complicated, but it's definite
 
 Here's everything you need to know to get your permit without the runaround.
 
-![Person reviewing Florida concealed carry permit application paperwork at a desk](PLACEHOLDER)
 
 ## Florida's Concealed Carry Laws: The Basics
 
@@ -155,7 +154,6 @@ You can check your application status online with your reference number. The pro
 
 If something's wrong with your application, they'll send a letter requesting additional information. You have 30 days to respond or your application gets tossed.
 
-![Florida Department of Agriculture concealed carry permit card being held by someone](PLACEHOLDER)
 
 ## Renewal Process
 
@@ -236,7 +234,6 @@ Keep your hands visible, inform the officer calmly, and follow their instruction
 ### Storage Requirements
 Florida has no specific storage laws for adults, but if children could access your firearm, you could face charges if they're injured or use it unlawfully.
 
-![Florida concealed carry training class in session with instructor demonstrating proper firearm handling](PLACEHOLDER)
 
 ## Renewal and Maintaining Your Permit
 

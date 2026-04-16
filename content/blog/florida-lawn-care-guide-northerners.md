@@ -29,7 +29,6 @@ After 23 years helping relocating families navigate everything from [school dist
 
 Here's the brutal truth — everything you know about lawn care is wrong down here. Florida grass grows differently, drinks differently, and dies differently than anything you've dealt with in Pennsylvania or Michigan. But master these fundamentals, and you'll have neighbors asking for your secrets.
 
-![Comparison showing a lush green St. Augustine lawn next to a patchy, brown struggling lawn in a Florida neighborhood](PLACEHOLDER)
 
 ## Why Your Northern Lawn Skills Don't Work in Florida
 
@@ -81,7 +80,6 @@ Increasingly popular in newer developments like FishHawk Ranch and Westchase. Zo
 
 **Maintenance:** Less frequent watering and fertilization than St. Augustine, but requires professional pest management. Chinch bugs love zoysia.
 
-![Close-up shots showing the texture and blade differences between St. Augustine, Bahia, and Zoysia grass varieties](PLACEHOLDER)
 
 ## The Florida Fertilization Game Plan
 
@@ -125,7 +123,6 @@ November through May demands active irrigation management. Cool-season growth sl
 
 **Pro Tip:** Invest in a rain sensor and soil moisture sensor for your irrigation system. The $200 investment saves hundreds annually in water costs and prevents overwatering damage.
 
-![Irrigation sprinkler system watering a Florida lawn in early morning light with proper coverage pattern visible](PLACEHOLDER)
 
 ## Pest Management: The Northern Nightmare
 
@@ -169,7 +166,6 @@ Cool, wet weather in late fall and early spring triggers large patch disease. Ci
 
 **Treatment Window:** Preventive fungicide applications in October and February provide better results than curative treatments after infection appears.
 
-![Close-up of grass showing chinch bug damage, gray leaf spot, and healthy St. Augustine grass side by side for comparison](PLACEHOLDER)
 
 ## Seasonal Maintenance Calendar
 
@@ -254,7 +250,6 @@ Northern lawn products aren't formulated for Florida conditions. That 30-0-4 fer
 
 Southern-specific brands like [Lesco]({{amazon:B07H8F4NP1}}) and [Milorganite]({{amazon:B072FQZBRE}}) understand regional needs and produce better results than generic Northern formulations.
 
-![Before and after photos showing a typical Northern transplant's lawn transformation over one growing season with proper Florida care](PLACEHOLDER)
 
 ## Professional vs. DIY: Making Smart Choices
 
@@ -306,7 +301,6 @@ Quality lawns add 5-10% to property values in Tampa Bay's competitive market. Bu
 
 **Winter Planning:** $100-200 for equipment maintenance and spring preparation
 
-![Professional lawn care crew treating a large St. Augustine lawn with proper equipment and techniques](PLACEHOLDER)
 
 ## Frequently Asked Questions
 

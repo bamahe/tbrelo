@@ -27,7 +27,6 @@ Tampa Bay's food truck scene isn't just about grabbing lunch from a window — i
 
 The real magic happens when you understand the rhythm. These aren't random trucks wandering neighborhoods hoping someone's hungry. Tampa Bay food trucks operate on schedules tighter than most restaurants, with dedicated followings that track their every move through social media.
 
-![Tampa Bay food truck lined up at Curtis Hixon Waterfront Park during a typical Friday evening gathering](PLACEHOLDER)
 
 ## The Food Truck Capitals of Tampa Bay
 
@@ -54,7 +53,6 @@ Tourist areas mean consistent foot traffic, and food trucks know it. Along Gulf-
 
 **Local tip:** Skip the overpriced beachfront restaurants and hit the food trucks parked along the causeway. Same sunset views, half the price.
 
-![Korean BBQ taco being prepared inside a Tampa food truck, showing the open kitchen setup typical of quality mobile vendors](PLACEHOLDER)
 
 ## Weekly Food Truck Rallies and Regular Events
 
@@ -86,7 +84,6 @@ Brandon Regional Library parking lot transforms monthly into a community gatheri
 **Schedule:** First Friday of each month, 5 PM to 8 PM
 **Vibe:** Suburban families, authentic local crowd
 
-![Food truck rally at Curtis Hixon Park with Tampa skyline in background, showing typical Friday evening crowds](PLACEHOLDER)
 
 ## Following Your Favorites — The Social Media Game
 
@@ -106,7 +103,6 @@ Weather kills food truck schedules. Rain means cancelled events, and Florida aft
 
 **Hurricane season (June-November)** disrupts regular schedules. Many trucks take extended breaks during September and October rather than risk equipment damage.
 
-![Close-up of gourmet burger being assembled in a Tampa Bay food truck, showing the quality ingredients typical of the better mobile vendors](PLACEHOLDER)
 
 ## Neighborhood Regular Stops
 
@@ -141,7 +137,6 @@ University of South Florida attracts food trucks targeting college budgets. Look
 
 Suburban stops focus on family-friendly options and generous portions. These trucks often offer combo deals and kids' menus missing from trendier downtown operations.
 
-![Food truck parked outside Tampa brewery with customers sitting at picnic tables, showcasing the typical brewery-food truck partnership](PLACEHOLDER)
 
 ## The Best Times to Find Food Trucks
 
@@ -183,7 +178,6 @@ Food truck weddings have become a Tampa Bay trend, especially for outdoor venues
 **Permits:** Most venues handle permits, but confirm with your food truck operator
 **Menu customization:** Better trucks offer custom menu creation for private events
 
-![Food truck festival scene with multiple trucks lined up and crowds of people enjoying outdoor dining at tables](PLACEHOLDER)
 
 ## Quality Control — What Separates Good From Great
 

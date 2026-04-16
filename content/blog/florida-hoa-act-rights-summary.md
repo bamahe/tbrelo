@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/florida-hoa-act-rights-summary.webp"
 ---
 
-# Florida Homeowner's Association Act — Your Rights Summarized
-
 Moving to Florida and dealing with an HOA for the first time? Or maybe you've been here for years but never really understood what your association can and can't do? After 23 years of helping Tampa Bay families navigate homebuying, I've seen every HOA horror story and triumph you can imagine.
 
 The Florida Homeowner's Association Act isn't light reading, but it's the law that governs how your HOA operates — and knowing your rights under it can save you thousands of dollars and countless headaches. Let me break down what actually matters for homeowners in 2024.
 
-![Florida HOA board meeting with homeowners reviewing documents and financial statements](PLACEHOLDER)
 
 ## What Is the Florida Homeowner's Association Act?
 
@@ -120,7 +117,6 @@ Starting in 2024, your HOA must provide much more detailed information about res
 
 This information should be part of your [moving checklist](/moving-checklist/) review. Don't close on a home without understanding the HOA's financial health.
 
-![Stack of HOA financial documents, reserve studies, and budget reports on a desk](PLACEHOLDER)
 
 ## Enforcement and Violations: What Your HOA Can and Cannot Do
 
@@ -215,7 +211,6 @@ While HOAs can still levy special assessments, the new reserve requirements shou
 
 If your HOA tries to levy a special assessment for items that should have been reserved, you have grounds to challenge it.
 
-![HOA community pool area with maintenance equipment, showing typical items requiring reserve funding](PLACEHOLDER)
 
 ## Architectural Control and Property Modifications
 

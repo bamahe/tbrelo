@@ -27,7 +27,6 @@ Tampa Bay's running scene isn't just about pounding pavement in humid weather â€
 
 After 23 years of watching clients discover Tampa Bay, I've seen how the running community here becomes a genuine social network. These events aren't just races; they're where transplants meet their future running partners, where retirees find their new Saturday morning crew, and where competitive types discover races that actually challenge them beyond the typical flat Florida stereotype.
 
-![Runners crossing the Skyway Bridge during a Tampa Bay area marathon with water views in background](PLACEHOLDER)
 
 ## The Big Three: Tampa Bay's Signature Running Events
 
@@ -57,7 +56,6 @@ The half marathon is the most popular distance here, capped at 3,000 runners to 
 
 This race sells itself on the "small marathon feel with big race organization," and they deliver. Aid stations stock local favorites (yes, they have Publix cookies at mile 18), volunteers know the course well enough to give actual helpful splits, and the post-race festival includes local brewery options.
 
-![St. Petersburg downtown waterfront race course with runners and city skyline](PLACEHOLDER)
 
 ## Spring Racing Season (March-May)
 
@@ -85,7 +83,6 @@ The half marathon attracts about 800 runners, making it perfect for those who pr
 
 Registration rarely sells out, parking is free and abundant, and the whole event feels like a throwback to community racing. Half marathon entry runs $50-65, significantly less than the major Tampa Bay events.
 
-![Small town race start line in Plant City with runners and local community support](PLACEHOLDER)
 
 ## Summer Challenges (June-August)
 
@@ -121,7 +118,6 @@ Multiple December evening races take advantage of neighborhood holiday decoratio
 
 These are fun runs rather than competitive events. Many participants wear holiday costumes, aid stations serve hot chocolate, and finish times matter less than the social experience. Entry fees typically stay under $30.
 
-![Holiday decorated neighborhood with evening runners wearing festive costumes](PLACEHOLDER)
 
 ## Trail and Off-Road Options
 
@@ -157,7 +153,6 @@ Most Tampa Bay races are flat, but "flat" here includes bridges that feel like m
 
 Wind is often more challenging than elevation. Bayshore Boulevard races frequently deal with sustained headwinds off Tampa Bay, and coastal races in Clearwater and St. Pete can face unpredictable gusts.
 
-![Runners on Bayshore Boulevard with Tampa Bay and downtown skyline in background](PLACEHOLDER)
 
 ## Race Registration and Logistics
 
@@ -199,7 +194,6 @@ Couch to 5K programs run year-round at various Fleet Feet locations, typically l
 
 Jeff Galloway Run-Walk-Run clinics happen quarterly in the Tampa Bay area, teaching his popular interval method that many local runners use for longer distances.
 
-![Group of diverse runners training together on Tampa waterfront trail](PLACEHOLDER)
 
 ## Economic Impact and Community Benefits
 

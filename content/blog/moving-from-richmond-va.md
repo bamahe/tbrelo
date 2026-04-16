@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/moving-from-richmond-va.webp"
 ---
 
-# Moving from Richmond VA to Tampa Bay — The Complete Relocation Guide
-
 Making the jump from Richmond to Tampa Bay? You're not alone. I've helped dozens of Virginia families make this exact move over the past 23 years, and there's a reason this migration pattern keeps growing. Tampa Bay offers something Richmond can't: year-round warmth, no state income tax, and a cost of living that'll make you wonder why you waited so long.
 
 But let's be real — this isn't just about swapping snow boots for flip-flops. Moving 850 miles south means navigating new neighborhoods, understanding different market dynamics, and figuring out where you actually want to land in a metro area that stretches from Hernando County down to Sarasota.
 
-![Aerial view showing Richmond VA skyline transitioning to Tampa Bay skyline with moving truck on I-95 South](PLACEHOLDER)
 
 ## Why Richmond Families Choose Tampa Bay
 
@@ -62,7 +59,6 @@ Here's where most online calculators get it wrong — they don't account for Flo
 
 **Transportation:** Gas prices run slightly higher in Florida, but many Tampa Bay neighborhoods offer better walkability than Richmond's sprawl. Plus, no more winter tire changes or salt-induced car maintenance.
 
-![Cost comparison infographic showing Richmond VA vs Tampa Bay expenses with tax savings highlighted](PLACEHOLDER)
 
 ## Neighborhood Matching: Where Richmond Transplants Actually Land
 
@@ -92,7 +88,6 @@ Richmond's Near West End buyers often gravitate toward South Tampa neighborhoods
 
 The Bayshore Boulevard linear park system provides that same green space appeal that Near West End residents love about Maymont and the James River trail system.
 
-![Split image showing similar neighborhood characteristics between Richmond VA and Tampa Bay communities](PLACEHOLDER)
 
 ---
 
@@ -128,7 +123,6 @@ Long day, but doable. Consider breaking it up with a stop in Gainesville or Ocal
 
 **Moving Truck Considerations:** Professional movers typically charge $3,200-4,800 for a Richmond to Tampa Bay move, depending on home size and service level. DIY truck rental runs $1,200-1,800 plus gas and your time.
 
-![Map showing driving route from Richmond VA to Tampa Bay with recommended overnight stops](PLACEHOLDER)
 
 ## Job Market Deep Dive
 
@@ -160,7 +154,6 @@ Richmond's climate spoils you with four distinct seasons, beautiful fall foliage
 
 **Pollen and Allergies:** Richmond's spring pollen gets attention, but Florida's year-round growing season means something's always blooming. Oak pollen in March-April can be particularly brutal for newcomers.
 
-![Weather comparison chart showing Richmond VA seasons vs Tampa Bay's year-round warm climate](PLACEHOLDER)
 
 ## Real Estate Market Insights
 
@@ -190,7 +183,6 @@ Wesley Chapel, Land O'Lakes, and Zephyrhills attract Richmond families seeking n
 **Hernando County** — Rural Charm
 Spring Hill and Brooksville provide small-town living with access to Tampa Bay's job market. Perfect for Richmond transplants from counties like Goochland or Powhatan who prefer rural settings.
 
-![Aerial view of Tampa Bay area highlighting different counties with their characteristics](PLACEHOLDER)
 
 ---
 
@@ -236,7 +228,6 @@ Richmond's Kroger becomes Publix in Florida — higher prices but excellent serv
 
 For Richmond transplants missing specific regional chains, you'll find Wawa convenience stores throughout Tampa Bay, and Sheetz has some locations in northern Tampa Bay counties.
 
-![Checklist infographic showing essential first month tasks for Richmond to Tampa Bay relocators](PLACEHOLDER)
 
 ## Cultural Adjustments
 
@@ -272,7 +263,6 @@ Richmond's genteel Southern culture differs noticeably from Tampa Bay's more cas
 
 Richmond transplants often miss the James River trail system and Maymont Park. Tampa Bay's equivalent green spaces include the Tampa Riverwalk, Bayshore Boulevard, and numerous state parks like Hillsborough River State Park and Honeymoon Island State Park.
 
-![Community events and activities photo showing Tampa Bay lifestyle opportunities](PLACEHOLDER)
 
 ## Long-term Financial Planning
 

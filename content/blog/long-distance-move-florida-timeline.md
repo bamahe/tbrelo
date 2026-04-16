@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/long-distance-move-florida-timeline.webp"
 ---
 
-# How to Plan a Long-Distance Move to Florida — Complete Timeline
-
 Moving to Florida from another state isn't like relocating across town. After helping over 3,000 families make the leap to Tampa Bay, I've seen what separates smooth moves from complete disasters — and it almost always comes down to timing and preparation.
 
 The families who nail their Florida move start planning 8-12 weeks out. The ones calling me in a panic? They started three weeks before their lease expired. Don't be the second group.
 
-![Family reviewing moving timeline and checklist on laptop with Florida map in background](PLACEHOLDER)
 
 ## Why Florida Moves Need Extra Planning
 
@@ -78,7 +75,6 @@ For Tampa Bay moves, I recommend getting quotes around $4,500-$6,500 for a 3-bed
 
 **Schedule utility transfers**: Florida utilities require more lead time than most states. Tampa Electric wants 3-5 business days minimum. Frontier internet? Plan for 2-3 weeks, especially for new construction.
 
-![Moving truck being loaded with household items on residential street with palm trees](PLACEHOLDER)
 
 ### Week 4-6: Documentation Phase
 
@@ -134,7 +130,6 @@ The truck arrives between 8 AM and 10 AM (usually). Here's how to keep things mo
 
 The average loading time for a 3-bedroom house runs 4-6 hours. Don't schedule anything else that day.
 
-![New residents receiving keys to Florida home from real estate agent with moving boxes in background](PLACEHOLDER)
 
 ## First Week in Florida Priorities
 
@@ -164,7 +159,6 @@ Long-distance Florida moves cost more than people expect. Here's the real breakd
 
 The sticker shock hits hardest with insurance. Florida's no-fault auto insurance and hurricane risk drive up premiums significantly. A clean driving record helps, but you'll still pay more than most other states.
 
-![Florida welcome sign with moving truck in background and family excited in foreground](PLACEHOLDER)
 
 ## Common Florida Moving Mistakes
 

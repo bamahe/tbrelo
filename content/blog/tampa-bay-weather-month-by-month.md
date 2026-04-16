@@ -27,7 +27,6 @@ The weather forecast says 85 degrees and sunny. Again. If you're considering a m
 
 After 23 years of helping families relocate here, I've learned that weather expectations can make or break someone's first year in Tampa Bay. Let me give you the straight truth about what each month actually feels like, not the sanitized tourism version.
 
-![Tampa Bay skyline with dramatic clouds and palm trees showing typical weather patterns](PLACEHOLDER)
 
 ## The Tampa Bay Climate Reality Check
 
@@ -76,7 +75,6 @@ You'll notice afternoon clouds building more frequently, setting the stage for o
 
 This is prime house-hunting weather. Properties show well, inspections are comfortable, and you can actually walk neighborhoods without planning your route around shade trees. Many families target March moves to get settled before summer hits full force.
 
-![Afternoon thunderstorm building over Tampa Bay with dark clouds and lightning in the distance](PLACEHOLDER)
 
 ## April: The Gateway Month
 
@@ -130,7 +128,6 @@ Thunderstorms reach their most intense levels. These aren't gentle summer shower
 
 Your electric bill peaks in July. Running AC constantly becomes a survival expense, not a comfort choice. Many residents plan summer vacations to escape their own city's heat. The beaches offer some relief, but even there, shade becomes precious real estate.
 
-![Crystal clear morning at Tampa Bay beach with perfect weather before afternoon heat sets in](PLACEHOLDER)
 
 ## August: The Endurance Test
 
@@ -197,7 +194,6 @@ Cold fronts arrive more frequently, bringing those rare mornings when you can se
 
 December is when Tampa Bay's winter advantages become clear. While the rest of the country deals with snow and ice, you're wearing sweaters that actually feel good rather than necessary for survival.
 
-![Families enjoying outdoor activities at a Tampa Bay park during perfect winter weather with blue skies](PLACEHOLDER)
 
 ---
 

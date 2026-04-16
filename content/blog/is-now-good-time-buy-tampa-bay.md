@@ -29,7 +29,6 @@ Let me break down what's actually happening in Tampa Bay real estate right now, 
 
 ## Current Market Snapshot: January 2026
 
-![Overview of Tampa Bay housing market with homes and price trends](PLACEHOLDER)
 
 The Tampa Bay market has stabilized after the wild ride of 2021-2024. Here's where we stand:
 
@@ -63,7 +62,6 @@ However, Tampa Bay median prices still track 12% below Miami-Dade and 18% below 
 
 ## Breaking Down the Market by Area
 
-![Map showing different Tampa Bay neighborhoods with price ranges and market conditions](PLACEHOLDER)
 
 ### Hillsborough County Market Conditions
 
@@ -101,7 +99,6 @@ Remember: you marry the house, date the rate. Rates will fluctuate over time, bu
 
 ## Who Should Buy Now (And Who Should Wait)
 
-![Family looking at homes in Tampa Bay neighborhood with realtor](PLACEHOLDER)
 
 ### Buy Now If You...
 
@@ -145,7 +142,6 @@ This process takes 2-3 weeks but gives you genuine negotiating power when you fi
 
 ### Focus on Value, Not Timing the Market
 
-![Close-up of Tampa Bay home for sale sign with neighborhood in background](PLACEHOLDER)
 
 Market timing is impossible. Value identification is learnable. Look for:
 

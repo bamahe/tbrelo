@@ -27,7 +27,6 @@ Interstate 4 through Tampa Bay isn't just a highway — it's a daily psychologic
 
 Let me break down everything you need to know about navigating Tampa Bay's most critical transportation artery, from the Orlando border to the St. Petersburg connection.
 
-![Aerial view of I-4 during rush hour showing heavy traffic through downtown Tampa](PLACEHOLDER)
 
 ## The I-4 Reality Check
 
@@ -69,7 +68,6 @@ The connection between I-4 and I-75 handles massive north-south traffic plus Dis
 
 **Local Knowledge:** The right lanes consistently move faster here because truck traffic stays left to avoid the upcoming weigh station.
 
-![Heavy construction equipment working on I-4 expansion project](PLACEHOLDER)
 
 ### Downtown Tampa Core (Exits 1-7)
 
@@ -115,7 +113,6 @@ Local traffic engineers call Hillsborough Avenue (SR-580) Tampa's "service road.
 
 **Distance Penalty:** About 25% longer than I-4, but during peak congestion, often faster.
 
-![Split screen showing clear I-4 early morning versus congested afternoon rush hour](PLACEHOLDER)
 
 ---
 
@@ -183,7 +180,6 @@ When clients ask about I-4 accessibility, I'm honest about the trade-offs. Proxi
 - Condos with I-4 views often struggle with resale due to traffic concerns
 - New construction near future express lane ramps may see increased congestion
 
-![Traffic monitoring sign showing real-time travel times on I-4](PLACEHOLDER)
 
 ## Technology and Traffic Management
 

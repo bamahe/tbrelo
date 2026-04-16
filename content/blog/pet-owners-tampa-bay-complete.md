@@ -27,7 +27,6 @@ If you're relocating to Tampa Bay with your furry, feathered, or scaled family m
 
 This isn't just about finding a rental that allows pets or locating the nearest vet. Tampa Bay has evolved into a genuinely pet-centric region where dogs attend brewery happy hours, cats have their own specialized medical centers, and even exotic pets get world-class care. Let me walk you through what pet ownership really looks like here — the good, the challenging, and the surprisingly awesome.
 
-![Dogs playing at a Tampa Bay dog park with downtown skyline in background](PLACEHOLDER)
 
 ## Why Tampa Bay Rocks for Pet Owners
 
@@ -77,7 +76,6 @@ This rapidly gentrifying neighborhood has embraced pet culture wholeheartedly. I
 
 **Housing costs:** Pet-friendly apartments typically run $1,400-2,200 monthly, with houses ranging $2,200-3,800.
 
-![Happy dogs socializing at an outdoor restaurant patio in Hyde Park](PLACEHOLDER)
 
 ### St. Petersburg's Pet Paradise
 
@@ -117,7 +115,6 @@ This rapidly gentrifying neighborhood has embraced pet culture wholeheartedly. I
 
 **Training:** Group puppy classes cost $150-250 for 6-week sessions. Private training ranges $100-150 per hour. Canine Good Citizen certification is offered at multiple locations throughout the region.
 
-![Professional dog groomer working with a golden retriever in a Tampa Bay pet salon](PLACEHOLDER)
 
 ## The Dog Park Scene: Where Your Pup Makes Friends
 
@@ -165,7 +162,6 @@ Technically outside Tampa proper but worth the drive. This massive park includes
 - Less crowded than Tampa city parks
 - Beautiful bay views throughout the property
 
-![Dogs running and playing in a spacious Tampa Bay off-leash dog park](PLACEHOLDER)
 
 ## Pet-Friendly Dining and Entertainment
 
@@ -223,7 +219,6 @@ Private landlords often provide more flexibility regarding pets, but finding pet
 
 **Average costs:** Pet deposits range $500-1,000 for houses, with monthly increases of $75-150 per pet.
 
-![Family with two dogs enjoying their fenced backyard in a Tampa Bay suburban neighborhood](PLACEHOLDER)
 
 ### Buying with Pets in Mind
 
@@ -332,7 +327,6 @@ Florida's heat, hurricane risk, and active outdoor lifestyle increase emergency 
 - Hurricane-related injuries: $300-2,000
 - Toxic plant ingestion: $800-2,500
 
-![Veterinarian examining a happy dog in a modern Tampa Bay animal hospital](PLACEHOLDER)
 
 ## The Bottom Line on Pet Life in Tampa Bay
 

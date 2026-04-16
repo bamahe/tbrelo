@@ -23,11 +23,8 @@ schema:
 featuredImage: "/images/blog/tampa-international-airport-guide.webp"
 ---
 
-# Tampa International Airport Guide for New Residents
-
 Moving to Tampa Bay means you've just landed near one of the best airports in the country. After 23 years of helping families relocate here, I've seen countless clients discover that Tampa International Airport (TPA) isn't just convenient — it's actually a pleasure to use. Let me give you the insider's guide to navigating your new hometown airport like a local.
 
-![Aerial view of Tampa International Airport showing the iconic main terminal and satellite terminals](PLACEHOLDER)
 
 ## Why TPA Consistently Ranks Among America's Best Airports
 
@@ -73,7 +70,6 @@ Available at the main terminal for those who want the full-service experience. T
 
 **Pro tip from someone who's done this hundreds of times:** Book economy parking online in advance during holiday periods. It guarantees your spot and often includes small discounts.
 
-![Interior shot of TPA's main terminal showing the iconic red train system and palm trees](PLACEHOLDER)
 
 ## Airlines and Destinations: Where TPA Can Take You
 
@@ -112,7 +108,6 @@ The trains run every 2 minutes and the journey to any airside takes 2-3 minutes.
 ### Inside Each Airside
 Every airside has its own restaurants, bars, shops, and amenities. You're not stuck with limited options like at many airports. Airside C has the most dining variety, while Airside A caters well to Southwest's large passenger volume.
 
-![View of TPA's economy parking lot with shuttle bus and clear signage](PLACEHOLDER)
 
 ## Dining and Shopping: Actually Good Airport Food
 
@@ -179,7 +174,6 @@ Popular rental companies at TPA:
 ### Hotel Shuttles
 Most Tampa Bay area hotels offer free shuttle service to TPA. Call your hotel directly to arrange pickup — this service often gets overlooked but can save $20-40 compared to rideshare.
 
-![TPA's rental car center showing the automated train connection and modern facility](PLACEHOLDER)
 
 ## Travel Tips from a Local Real Estate Pro
 

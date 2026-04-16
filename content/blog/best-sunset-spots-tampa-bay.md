@@ -25,7 +25,6 @@ featuredImage: "/images/blog/best-sunset-spots-tampa-bay.webp"
 
 After 23 years of showing Tampa Bay to families from all over, I've watched thousands of sunsets from every angle this area has to offer. Some spots are pure magic. Others are Instagram traps that disappoint in person. Here's my honest ranking of where to catch the best sunset views in Tampa Bay — from the obvious crowd-pleasers to the hidden gems locals actually use.
 
-![Dramatic sunset over Tampa Bay waters with silhouetted palm trees and a couple watching from a pier](PLACEHOLDER)
 
 ## The Science of Tampa Bay Sunsets
 
@@ -43,7 +42,6 @@ Nothing beats driving the Skyway at sunset. The 190-foot elevation gives you a 3
 
 **Insider tip:** Take Exit 39 (Sunshine Skyway Rest Area) for the free viewing platform if you don't want to pay the $1.50 toll twice.
 
-![Sunshine Skyway Bridge spanning Tampa Bay with golden sunset light reflecting off the cable stays](PLACEHOLDER)
 
 ### 2. Fort De Soto Park — Multiple Perfect Angles
 
@@ -63,7 +61,6 @@ The 1,080-foot pier puts you far enough offshore that nothing blocks the view. S
 
 **Parking reality:** Beach parking lots charge $2-3 per hour and fill completely. Park at Westfield Countryside Mall and take the [Clearwater Beach trolley](https://clearwater-fl.com/government/transportation-parking/jolley-trolley) for $2.25 round trip.
 
-![Pier 60 at Clearwater Beach with crowds gathered to watch the sunset, street performers in the foreground](PLACEHOLDER)
 
 ### 4. Bayshore Boulevard Linear Park — City Skyline Drama
 
@@ -84,7 +81,6 @@ Three miles south of Clearwater Beach, Sand Key gives you the same Gulf of Mexic
 
 **Facilities:** Free parking (huge advantage), restrooms, and picnic areas. The beach faces slightly southwest, so sunsets happen over water year-round.
 
-![Sand Key Park beach with scattered beachgoers watching the sun set over the Gulf of Mexico](PLACEHOLDER)
 
 ### 6. Weedon Island Preserve — Mangrove Magic
 
@@ -112,7 +108,6 @@ At the northern end of the barrier island chain, Honeymoon Island offers sunset 
 
 **State park fees:** $8 per vehicle, but annual Florida State Parks passes pay for themselves if you visit more than three times. The park includes 4 miles of beaches, so you can explore between sunset spots.
 
-![Honeymoon Island beach with sea oats in the foreground and the sun setting over the Gulf horizon](PLACEHOLDER)
 
 ### 9. Vinoy Park, St. Petersburg — Downtown Sophistication
 
@@ -224,7 +219,6 @@ Several restaurants offer sunset viewing with dinner service:
 
 **Fishing:** The Skyway Bridge piers and various area piers offer fishing until sunset, then sunset viewing as a bonus. Bring a cooler and make it a full evening activity.
 
-![Kayakers paddling in Tampa Bay with the city skyline and colorful sunset sky in the background](PLACEHOLDER)
 
 ## Seasonal Events and Special Occasions
 

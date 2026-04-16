@@ -27,7 +27,6 @@ You're standing at a crossroads that thousands of Americans face every year: Tam
 
 Both metros are booming. Both attract professionals, retirees, and families looking for something better than where they came from. But they're fundamentally different places that appeal to different types of people. After 23 years of showing homes in Tampa Bay and countless conversations with folks who've lived in both markets, here's what you actually need to know.
 
-![Aerial view showing Tampa Bay's waterfront skyline alongside Denver's mountain backdrop](PLACEHOLDER)
 
 ## The Climate Reality Check
 
@@ -66,7 +65,6 @@ Groceries cost roughly the same in both markets. Gas runs $0.20-$0.30 cheaper in
 
 The big difference is utilities. Tampa Bay electric bills average $180-220 monthly (hello, AC costs). Denver averages $120-150, but add heating costs that Tampa Bay doesn't see.
 
-![Comparison chart showing home prices and living costs between Tampa Bay and Denver](PLACEHOLDER)
 
 ## Job Markets: Different Strengths
 
@@ -116,7 +114,6 @@ Denver offers:
 - Broncos (if that matters to you)
 - Access to world-class skiing/mountain culture
 
-![Side-by-side photos showing Tampa Bay beaches and Denver mountain recreation](PLACEHOLDER)
 
 ## Transportation and Infrastructure
 
@@ -154,7 +151,6 @@ University of South Florida (Tampa) is growing rapidly in reputation and researc
 
 Denver has more options — University of Denver (private), University of Colorado Denver, Colorado State University (nearby), plus specialized schools like Colorado School of Mines.
 
-![Photos of University of South Florida campus and Denver metro area schools](PLACEHOLDER)
 
 ## Demographics and Community Feel
 
@@ -192,7 +188,6 @@ More stable real estate market historically, though recent years have seen signi
 
 Better job mobility within the metro area. Tampa Bay's job market, while growing, is still more limited in certain professional fields.
 
-![Chart comparing long-term financial outcomes between Tampa Bay and Denver residents](PLACEHOLDER)
 
 ## Healthcare: A Critical Consideration
 
@@ -246,7 +241,6 @@ I've seen families thrive in both places and regret moving to both places. The d
 
 The good news? Both are growing, dynamic places with strong economies and reasonable quality of life. You're not choosing between good and bad — you're choosing between different types of good.
 
-![Sunset photos showing Tampa Bay's waterfront and Denver's mountain skyline](PLACEHOLDER)
 
 ## Frequently Asked Questions
 

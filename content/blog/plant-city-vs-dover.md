@@ -27,7 +27,6 @@ Two communities in east Hillsborough County keep popping up in my relocation con
 
 After 23+ years of helping families choose between these communities, I've learned the decision usually comes down to lifestyle priorities. Plant City brings more amenities and established neighborhoods. Dover delivers true rural living with larger lots and agricultural zoning. Neither is wrong — but one will fit your family better.
 
-![Aerial view comparing Plant City's historic downtown with Dover's rural farmland and scattered homes](PLACEHOLDER)
 
 ## The Geography Reality Check
 
@@ -55,7 +54,6 @@ Home prices reflect this land-heavy approach. A typical 3-bedroom on 2.5 acres r
 
 The appeal is obvious: space for horses, gardens, workshops, and whatever projects require elbow room. The downside? Limited inventory. Dover typically has 15-25 homes for sale at any time, compared to Plant City's 60-80+ listings.
 
-![Split image showing Plant City's suburban subdivisions versus Dover's rural properties with horses and open land](PLACEHOLDER)
 
 ---
 
@@ -103,7 +101,6 @@ Most Dover residents drive to Plant City, Brandon, or Tampa for serious shopping
 
 The agricultural focus does offer unique advantages. Several Dover-area farms sell directly to consumers, providing access to fresh produce, eggs, and meat that city dwellers pay premium prices for in farmers markets.
 
-![Plant City's historic downtown district with restored buildings and local shops compared to Dover's rural agricultural landscape](PLACEHOLDER)
 
 ## Commuting: The Daily Reality
 
@@ -141,7 +138,6 @@ The rural environment naturally supports horse ownership, large gardens, and out
 
 Organized recreational facilities are limited, pushing families toward Plant City, Brandon, or Tampa for structured activities like youth sports leagues or community centers.
 
-![Families enjoying outdoor activities at Plant City's parks versus Dover residents working on rural properties with horses and gardens](PLACEHOLDER)
 
 ## Cost of Living Breakdown
 
@@ -193,7 +189,6 @@ Dover's rural setting with fewer paved surfaces and more tree coverage can provi
 
 Hurricane risk remains similar for both communities, though Plant City's municipal services typically restore power and clear debris faster than county services reach Dover's more remote areas.
 
-![Comparison of weather impacts on Plant City's suburban areas versus Dover's rural agricultural landscape](PLACEHOLDER)
 
 ## Making the Decision: Key Questions
 
@@ -209,7 +204,6 @@ Consider these factors when choosing between Plant City and Dover:
 
 **Social preferences**: Do you value walkable downtown events and established communities? Plant City offers more organized social opportunities.
 
-![Side-by-side lifestyle comparison showing Plant City families at community events versus Dover families enjoying rural property activities](PLACEHOLDER)
 
 ## The Verdict: Different Appeals for Different Families
 

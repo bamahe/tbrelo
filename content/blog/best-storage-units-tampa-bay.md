@@ -27,7 +27,6 @@ Finding the right storage unit in Tampa Bay isn't just about price — it's abou
 
 Let me break down the best storage options by area, what you actually need to know about climate control (hint: more than you think), and which places I'd trust with my own belongings.
 
-![Modern self-storage facility with multiple unit sizes and security gates in Tampa Bay](PLACEHOLDER)
 
 ## Why Location Matters More Than You Think
 
@@ -56,7 +55,6 @@ The 8950 N Florida Avenue location serves New Tampa and USF area perfectly. Pric
 **Life Storage Tampa Fletcher Avenue** 
 Perfect for New Tampa residents. The 17635 N Dale Mabry Highway location offers competitive pricing and solid customer service. 10x10 climate-controlled units average $105/month. They often run first-month-free specials for new customers.
 
-![Storage unit hallway with numbered doors and good lighting in a Tampa facility](PLACEHOLDER)
 
 ### St. Petersburg
 
@@ -74,7 +72,6 @@ Local favorite at 1010 W Brandon Boulevard. Family-owned operation that actually
 **CubeSmart Brandon East**
 The 2002 E Brandon Boulevard location serves the growing Brandon corridor well. Modern facility with excellent security features. Expect to pay $95-105 for climate-controlled 10x10 units, but you're getting quality construction and reliable climate control.
 
-![Climate-controlled storage facility interior showing temperature and humidity controls](PLACEHOLDER)
 
 ### Clearwater/Safety Harbor
 
@@ -96,7 +93,6 @@ Basic but reliable option at 506 N Wheeler Street. Rock-bottom pricing with 10x1
 
 Tampa Bay's humidity will destroy your belongings faster than you think. I've seen leather furniture turn into science experiments and family photos fuse together into unrecognizable messes.
 
-![Damaged items from a non-climate-controlled storage unit showing mold and humidity damage](PLACEHOLDER)
 
 **You absolutely need climate control for:**
 - Electronics (TVs, computers, stereos)
@@ -132,7 +128,6 @@ Dark storage facilities attract trouble. Good facilities keep common areas well-
 **Gate Access Controls** 
 Your access code should work only during your reserved times. Facilities that let anyone in anytime have higher theft rates.
 
-![Security gate and keypad at storage facility entrance with good lighting](PLACEHOLDER)
 
 ## Size Guide: What You Actually Need
 
@@ -170,7 +165,6 @@ After seeing hundreds of storage horror stories, here are the warning signs that
 
 **Poor online reviews about billing practices** — storage companies that overcharge or refuse to release belongings are more common than you'd think.
 
-![Person loading boxes into a storage unit with proper organization and labeling](PLACEHOLDER)
 
 ---
 

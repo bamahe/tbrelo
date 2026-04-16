@@ -23,15 +23,12 @@ schema:
 featuredImage: "/images/blog/florida-recycling-rules-guide.webp"
 ---
 
-# Florida Recycling Rules — What Actually Gets Recycled Here
-
 Moving to Florida means learning a whole new set of recycling rules. And here's the truth nobody tells you upfront: what goes in your recycling bin varies dramatically by county, city, and even your specific waste management company.
 
 After 23+ years of helping families relocate across Tampa Bay, I've watched countless newcomers get frustrated with recycling here. The rules aren't just different from wherever you came from — they're confusing, inconsistent, and change more often than you'd expect.
 
 Let me break down what actually happens to your recycling in Florida, county by county, so you don't end up contaminating loads or worse — getting your entire street's recycling sent to the landfill.
 
-![Florida recycling bins with various items showing what's accepted and rejected](PLACEHOLDER)
 
 ## The Hard Truth About Florida Recycling
 
@@ -101,7 +98,6 @@ Pasco contracts with different companies depending on your exact location, which
 
 **The Catch:** If you live in an unincorporated area, your rules might be completely different from your neighbor in an incorporated city. I always tell clients to call their waste management company directly — don't assume.
 
-![Recycling sorting facility showing contaminated materials being separated](PLACEHOLDER)
 
 ## What Actually Gets Recycled vs. What Goes to Landfill
 
@@ -175,7 +171,6 @@ Broward has one of Florida's more comprehensive recycling programs.
 - Clean pizza boxes
 - Small metal items (bottle caps, aluminum foil)
 
-![Close-up of properly cleaned containers ready for recycling](PLACEHOLDER)
 
 ## The Real Rules Nobody Tells You
 

@@ -23,7 +23,6 @@ schema:
 featuredImage: "/images/blog/mail-forwarding-moving-florida.webp"
 ---
 
-![Person filling out USPS mail forwarding form at post office counter with Florida moving boxes in background](PLACEHOLDER)
 
 Moving to Florida means dealing with more than just palm trees and sunshine — you need to make sure your mail follows you here. After 23 years of helping families relocate to Tampa Bay, I've watched too many people miss important documents, bills, and packages because they botched their mail forwarding setup.
 
@@ -75,7 +74,6 @@ Visit any post office with PS Form 3575. Bring photo ID and proof of your old ad
 
 Complete PS Form 3575 and mail it to your local post office. This takes 7-10 business days to process — too slow if you're moving soon.
 
-![Close-up of completed USPS Form 3575 with Florida address clearly filled in](PLACEHOLDER)
 
 ## What Gets Forwarded (And What Doesn't)
 
@@ -156,7 +154,6 @@ The gap between moving and getting your mail forwarding working smoothly creates
 
 **Consider a Temporary PO Box:** If you're staying in temporary housing while house hunting in Tampa Bay, a PO Box gives you a stable address. You can forward mail from your old address to the PO Box, then later from the PO Box to your permanent Florida home.
 
-![USPS mail truck delivering packages to a Florida home with palm trees in the yard](PLACEHOLDER)
 
 ## Costs and Timeframes
 

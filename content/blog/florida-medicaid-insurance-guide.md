@@ -27,7 +27,6 @@ Moving to Florida means navigating a new healthcare landscape — and frankly, i
 
 After helping families relocate to Tampa Bay for over two decades, I've seen too many people get blindsided by Florida's healthcare quirks. Let me walk you through what you actually need to know — not the bureaucratic nonsense, but the real-world stuff that affects your wallet and your family's health.
 
-![Florida residents reviewing health insurance documents at a kitchen table with laptops and paperwork](PLACEHOLDER)
 
 ## Florida's Medicaid Reality Check
 
@@ -69,7 +68,6 @@ Average monthly premiums before subsidies for a 40-year-old non-smoker in Tampa:
 
 But here's the key — most people qualify for premium tax credits that dramatically reduce these costs. A family of four earning $65,000 annually might pay just $200-$300 monthly for a Silver plan after subsidies.
 
-![Healthcare.gov website displayed on a computer screen showing Florida marketplace options](PLACEHOLDER)
 
 ### Understanding Florida's Network Limitations
 
@@ -118,7 +116,6 @@ Short-term plans don't have to cover essential health benefits like prescription
 
 I've seen too many families get burned by these plans when serious illness strikes. They're okay as a brief bridge between jobs, but not a long-term solution for most families.
 
-![Family meeting with insurance agent or navigator in an office setting with Florida health insurance brochures on the table](PLACEHOLDER)
 
 ## Employer-Sponsored Insurance Considerations
 

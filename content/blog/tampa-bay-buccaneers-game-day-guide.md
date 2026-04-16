@@ -23,11 +23,8 @@ schema:
 featuredImage: "/images/blog/tampa-bay-buccaneers-game-day-guide.webp"
 ---
 
-# Tampa Bay Buccaneers Game Day Guide: Your Complete Playbook for Raymond James Stadium
-
 After 23 years of showing people around Tampa Bay, I've learned that nothing captures the spirit of this city quite like a Bucs game at Raymond James Stadium. Whether you're moving here and want to understand the local culture or just visiting for a game, here's everything you need to know to do game day right.
 
-![Wide shot of Raymond James Stadium exterior with pirate ship and fans tailgating in parking lots](PLACEHOLDER)
 
 ## Getting to Raymond James Stadium: Transportation That Actually Works
 
@@ -51,7 +48,6 @@ After 23 years of showing people around Tampa Bay, I've learned that nothing cap
 
 ## Pre-Game: Tailgating and Food Like a Local
 
-![Elaborate tailgate setup with Tampa Bay flags, grills, and fans in Bucs gear around RVs](PLACEHOLDER)
 
 ### Tailgating Culture at Raymond James
 
@@ -80,7 +76,6 @@ After 23 years of showing people around Tampa Bay, I've learned that nothing cap
 
 **Upper Level (300 Level):** Great views of the entire field and downtown Tampa skyline. Sections 301-351 face the field directly.
 
-![Interior view of Raymond James Stadium showing the pirate ship and packed crowd during a touchdown celebration](PLACEHOLDER)
 
 ### The Pirate Ship: More Than Just Decoration
 
@@ -110,7 +105,6 @@ The 103-foot replica pirate ship isn't just for show. It holds 96 people on two 
 
 **30 Minutes Before:** National anthem, flyovers (for military appreciation games), final crowd buildup.
 
-![Crowded concourse inside Raymond James Stadium with fans wearing Bucs jerseys walking toward their seats](PLACEHOLDER)
 
 ### Halftime Strategy
 
@@ -136,7 +130,6 @@ Even December games can hit 80°F in Tampa. Afternoon games (1 PM start) are bru
 
 Florida afternoon thunderstorms are real. The stadium has minimal covered areas in general admission. If forecasts show storms, bring a compact umbrella or poncho.
 
-![Fans in rain gear cheering under umbrellas during a weather delay at Raymond James Stadium](PLACEHOLDER)
 
 ## Family-Friendly Game Day Tips
 
@@ -170,7 +163,6 @@ Raymond James Stadium offers excellent accessibility services. Elevators access 
 
 **Standing Room Only:** $40-60 gets you in the building. You can often find empty seats by the second quarter.
 
-![Panoramic view from upper deck seats showing the entire field and Tampa skyline in the distance](PLACEHOLDER)
 
 ## Local Neighborhoods: Where Bucs Fans Actually Live
 

@@ -29,7 +29,6 @@ After helping hundreds of families relocate to both areas over the past two deca
 
 But the devil's in the details, and those details can save you from a costly mistake.
 
-![Aerial view comparing Lutz's planned communities with Odessa's more spread-out rural development](PLACEHOLDER)
 
 ## The Geographic Reality Check
 
@@ -79,7 +78,6 @@ Odessa offers a completely different housing paradigm. Instead of planned commun
 
 **Rural Subdivisions** — Smaller developments of 10-50 homes on larger lots, typically offering more privacy than Lutz's denser communities.
 
-![Comparison showing typical lot sizes - Lutz's quarter-acre lots versus Odessa's multi-acre properties](PLACEHOLDER)
 
 Construction costs in Odessa run similar to Lutz for the home itself, but site preparation for larger lots and septic systems (common in rural areas) can add $15,000-40,000 to your building budget.
 
@@ -149,7 +147,6 @@ Odessa offers space and privacy while maintaining reasonable access to urban ame
 
 **Dining Highlights** — Local gems include The Brass Tap for craft beer and pub food, Crispers for fresh casual dining, and various family-owned restaurants along SR-54
 
-![Photo showing equestrian facilities and horse pastures typical in Odessa versus Lutz's community amenities like pools and golf courses](PLACEHOLDER)
 
 ## Commuting and Transportation
 
@@ -191,7 +188,6 @@ The transportation picture clearly favors Lutz for daily commuting to Tampa's jo
 - **Lutz:** Range from $50-300/month depending on amenities
 - **Odessa:** Many properties have no HOA, those that do typically $25-100/month
 
-![Infographic comparing monthly cost breakdowns for typical families in Lutz versus Odessa](PLACEHOLDER)
 
 ## Shopping and Entertainment
 
@@ -249,7 +245,6 @@ Both areas maintain low crime rates compared to urban Tampa:
 
 **Odessa:** More informal community connections, often centered around equestrian activities and rural lifestyle interests
 
-![Photo showing community gathering in Lutz versus rural neighborhood meeting in Odessa](PLACEHOLDER)
 
 ## The Verdict: Which Fits Your Life?
 
@@ -322,7 +317,6 @@ The challenge for Odessa will be maintaining its rural character while accommoda
 
 The healthcare advantage clearly goes to Lutz, particularly for specialized care and emergency services.
 
-![Photo showing modern medical facilities accessible from both communities](PLACEHOLDER)
 
 ## Property Investment Potential
 

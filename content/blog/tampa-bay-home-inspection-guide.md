@@ -27,7 +27,6 @@ You're under contract on a Tampa Bay home. Congratulations! Now comes the inspec
 
 Here's what actually happens during a Tampa Bay home inspection, what red flags matter (and which ones don't), and how to navigate this process without losing your mind or your dream home.
 
-![Professional home inspector examining electrical panel in Tampa Bay home](PLACEHOLDER)
 
 ## What Is a Home Inspection in Tampa Bay?
 
@@ -108,7 +107,6 @@ After walking through thousands of inspections, here are the issues that actuall
 
 **Water Pressure Problems**: In Tampa Bay's flat terrain, low pressure often indicates supply line issues or well pump problems (for homes on wells in [Pasco](/counties/pasco/) and eastern Hillsborough).
 
-![Home inspector checking HVAC system in Florida home showing ductwork and equipment](PLACEHOLDER)
 
 ### HVAC Red Flags
 
@@ -166,7 +164,6 @@ Essential in Tampa Bay where 40%+ of homes have pools. Covers:
 
 Cost: $200-350. Pool repairs can easily hit $5,000-15,000.
 
-![Pool inspector examining equipment and safety features at Tampa Bay home](PLACEHOLDER)
 
 ## What NOT to Worry About
 
@@ -294,7 +291,6 @@ Based on 2024 Tampa Bay pricing:
 - Sinkholes possible in certain areas
 - Rural properties may have unique electrical setups
 
-![Home inspection report being reviewed with buyer showing detailed findings and photos](PLACEHOLDER)
 
 ## Walking Away vs. Negotiating
 

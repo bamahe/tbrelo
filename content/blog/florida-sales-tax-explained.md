@@ -23,8 +23,6 @@ schema:
 featuredImage: "/images/blog/florida-sales-tax-explained.webp"
 ---
 
-# Florida Sales Tax Explained — What's Taxed and What's Not
-
 Moving to Florida means getting familiar with a tax system that's surprisingly complex for a state with no income tax. After helping families relocate here for over two decades, I've fielded countless questions about what gets taxed and what doesn't. The short answer? Florida's sales tax isn't as straightforward as you might think.
 
 Here's what you actually need to know about Florida's sales tax structure, complete with the local quirks that'll save you money — or cost you if you're not paying attention.
@@ -41,7 +39,6 @@ In the Tampa Bay area specifically:
 
 That Pinellas premium adds up. Buy a $30,000 car in St. Petersburg versus Tampa, and you're looking at an extra $150 in taxes. Buy it in Clearwater versus New Port Richey? Same $150 difference.
 
-![Florida sales tax rate comparison map showing county-by-county breakdown across Tampa Bay region](PLACEHOLDER)
 
 ## What Gets Taxed in Florida
 
@@ -107,7 +104,6 @@ Accessories always get taxed regardless of price:
 - Belts
 - Watches
 
-![Shopping receipt showing Florida clothing tax exemption examples with items under and over $100](PLACEHOLDER)
 
 ## Florida's Clothing Sales Tax Holidays
 
@@ -175,7 +171,6 @@ Florida taxes most utilities and communication services at 2.52% plus local taxe
 
 Your first [utility bill](/utilities/) in Florida will likely be higher than expected once you factor in these taxes. A $150 electric bill becomes $165 after taxes and fees.
 
-![Sample Florida utility bill highlighting various taxes and fees that apply to electricity service](PLACEHOLDER)
 
 ## Real Estate and Rental Property
 

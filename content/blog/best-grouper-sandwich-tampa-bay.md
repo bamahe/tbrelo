@@ -23,13 +23,10 @@ schema:
 featuredImage: /images/blog/default.webp
 ---
 
-# Best Grouper Sandwich in Tampa Bay — The Definitive Ranking
-
 Look, I've lived in Tampa Bay for over two decades, and I've probably eaten more grouper sandwiches than any REALTOR should. Between showing houses and grabbing quick lunches with clients, I've sampled everything from beachside shacks to upscale bistros. The grouper sandwich isn't just food here — it's a way of life, a cultural touchstone, and honestly, a pretty solid litmus test for whether a restaurant "gets" Florida.
 
 After 23+ years of eating my way through the Bay Area (it's a tough job, but someone has to do it), here's my definitive ranking of the best grouper sandwich spots. No corporate fluff, no paid placements — just honest takes from someone who's been here long enough to remember when Ybor was actually sketchy.
 
-![Fresh grouper sandwich with crispy coating and tangy sauce on a toasted bun, served with coleslaw and pickles](PLACEHOLDER)
 
 ## What Makes a Great Grouper Sandwich
 
@@ -37,7 +34,6 @@ Before we dive into the rankings, let's establish the ground rules. A proper Tam
 
 The fish should flake easily, taste like the Gulf waters it came from, and have that sweet, mild flavor that makes grouper the king of Florida fish. The breading — whether it's traditional flour, cornmeal, or something creative — should complement, not mask. And please, for the love of all that's holy, don't serve it on some sad grocery store bun that disintegrates after two bites.
 
-![Close-up of perfectly flaky grilled grouper showing the white, tender meat](PLACEHOLDER)
 
 ## The Top 10 Grouper Sandwiches in Tampa Bay
 
@@ -73,7 +69,6 @@ The Hurricane has been a Pass-a-Grille institution since 1977, and their grouper
 
 Sitting on their deck overlooking the Gulf while eating this sandwich is peak Florida living. The sunset views don't hurt either.
 
-![Waterfront restaurant deck with diners enjoying grouper sandwiches while overlooking Tampa Bay](PLACEHOLDER)
 
 ### 4. Ozona Blue Grilling Co. — Palm Harbor
 
@@ -105,7 +100,6 @@ Yes, The Columbia is known for Spanish cuisine, but their grouper sandwich deser
 
 It's definitely on the pricier side, but you're paying for history and atmosphere along with the food. The Ybor location has been serving Tampa since 1905 — that's some serious credibility.
 
-![Historic Columbia Restaurant interior with traditional Spanish tiles and elegant dining room](PLACEHOLDER)
 
 ### 7. Sandpearl Resort — Salt Shaker — Clearwater Beach
 
@@ -127,7 +121,6 @@ Technically just outside Tampa Bay proper, but Doc Ford's Yucatan Grouper is wor
 
 The restaurant has that authentic Florida fish house vibe without feeling like a theme park version of itself. Plus, their rum selection is impressive if you want to make an afternoon of it.
 
-![Crispy plantain-crusted grouper sandwich with black bean aioli and fresh vegetables](PLACEHOLDER)
 
 ### 9. Rusty Bellies — Tarpon Springs
 
@@ -149,7 +142,6 @@ Skipper's takes a completely different approach by smoking their grouper. It's n
 
 Plus, Skipper's has live music most nights, so you can catch some local blues or folk while you eat. It's peak Tampa — unpretentious, authentic, and a little quirky.
 
-![Outdoor music venue with diners enjoying smoked grouper sandwiches while listening to live blues music](PLACEHOLDER)
 
 ## What to Look for in a Great Grouper Sandwich
 
@@ -178,7 +170,6 @@ The grouper sandwich scene varies significantly across our region. [St. Pete Bea
 
 Pinellas County beaches generally offer better sunset views with your sandwich, while Hillsborough locations might have more varied preparation styles and price points.
 
-![Map showing grouper sandwich locations across Tampa Bay with pins marking top restaurants](PLACEHOLDER)
 
 ---
 
@@ -206,7 +197,6 @@ Tourist season (December through April) means longer waits at popular spots, esp
 
 Red tide events, while increasingly rare, can temporarily affect local fishing and restaurant availability. Most established places have backup suppliers, but it's worth asking about sourcing if you're concerned.
 
-![Fresh grouper being prepared in restaurant kitchen with chef's hands filleting the fish](PLACEHOLDER)
 
 ## Beyond the Sandwich: What Makes These Places Special
 

@@ -49,7 +49,6 @@ Take Dale Mabry straight down for the scenic route, hop on Veterans Expressway f
 
 The neighborhood is split into distinct sections: Carrollwood proper (the older, established area), Carrollwood Village (newer development), and Lake Magdalene (technically separate but functionally connected). Each has its own character and price points.
 
-![Aerial view comparing Temple Terrace's tree-lined streets with USF campus visible versus Carrollwood's planned community layout with lakes and golf courses](PLACEHOLDER)
 
 ## Housing Market Reality Check
 
@@ -103,7 +102,6 @@ The area also offers excellent private school options. Carrollwood Day School (K
 
 What sets Carrollwood apart is consistency. Property values remain stable partly because parents know they can count on quality education without constantly evaluating options.
 
-![Students walking on USF campus with Temple Terrace homes in background versus Carrollwood families at a youth sports complex](PLACEHOLDER)
 
 ## Lifestyle and Recreation
 
@@ -131,7 +129,6 @@ For active families, Carrollwood Sports Complex offers youth baseball, soccer, a
 
 Shopping and dining center on Carrollwood Commons, an outdoor lifestyle center with restaurants like Seasons 52, Bonefish Grill, and local favorites like Pane Rustica Bakery. It's suburban dining done well — not groundbreaking, but consistently good with plenty of variety.
 
-![Temple Terrace Golf Course with historic homes visible versus Lake Carroll in Carrollwood with waterfront homes and boat docks](PLACEHOLDER)
 
 ## Transportation and Commuting
 
@@ -181,7 +178,6 @@ Service costs reflect the area's affluence. Landscaping, pool maintenance, and h
 
 HOA fees range from $150-400 annually for basic services up to $2,000+ annually in communities with extensive amenities. Factor these into your housing budget.
 
-![Comparison of grocery shopping options along Fowler Avenue in Temple Terrace versus Carrollwood Commons shopping center](PLACEHOLDER)
 
 ## Community Culture and Demographics
 
@@ -205,7 +201,6 @@ HOA involvement runs deep here. These aren't just regulatory bodies — they're 
 
 The result is a community that changes slowly and deliberately. New families get absorbed into existing activities and social structures rather than creating their own, which maintains consistency but can feel exclusive to outsiders.
 
-![Temple Terrace community event with diverse families at a park versus Carrollwood neighborhood barbecue with families around a lake](PLACEHOLDER)
 
 ## Real Estate Investment Potential
 
@@ -265,7 +260,6 @@ Carrollwood will feel more organized and purposeful — families loading up SUVs
 
 Both are great places to live. The question is which Saturday morning scene looks more like your life.
 
-![Side-by-side comparison showing Temple Terrace's diverse architecture and tree-lined streets versus Carrollwood's consistent planned community design with lakes and amenities](PLACEHOLDER)
 
 ## Frequently Asked Questions
 

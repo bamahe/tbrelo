@@ -27,7 +27,6 @@ If you've lived in Tampa Bay for more than five minutes, you know the drill: ste
 
 I've tested dozens of these devices across properties in [Hillsborough County](/counties/hillsborough/), from waterfront homes in Hyde Park to suburban lots in Valrico. Some work brilliantly, others are expensive paperweights. Here's what actually works in our humid, buggy paradise.
 
-![Various mosquito traps and bug zappers set up in a typical Florida backyard with palm trees and landscaping](PLACEHOLDER)
 
 ## Why Florida Yards Need Serious Mosquito Control
 
@@ -59,7 +58,6 @@ The [DynaTrap DT2000XLP]({{amazon:B07GDDML2H}}) has been my go-to recommendation
 
 **Best For:** Medium to large yards, homeowners who want set-and-forget operation.
 
-![DynaTrap mosquito trap installed in a Florida backyard setting at dusk](PLACEHOLDER)
 
 ### 2. Mosquito Magnet Executive (Most Effective)
 
@@ -89,7 +87,6 @@ Not technically a trap, but the [Thermacell MR450]({{amazon:B07H9VF3Q8}}) create
 
 **Best For:** Deck dining, pool areas, camping. Essential for waterfront homes in Davis Islands or Harbour Island where permanent installation isn't practical.
 
-![Thermacell device on a patio table with outdoor dining setup in Florida](PLACEHOLDER)
 
 ### 4. Flowtron BK-40D (Best Bug Zapper)
 
@@ -137,7 +134,6 @@ For smaller properties, the [Black Flag ZR-8000]({{amazon:B000BQRTUY}}) offers r
 **Maintenance:** Replace bulbs annually
 **Cost:** Under $60, minimal operating expenses
 
-![Bug zapper mounted on a post in a typical Florida suburban backyard](PLACEHOLDER)
 
 ## Strategic Placement for Maximum Effectiveness
 
@@ -161,7 +157,6 @@ For DIY installations, **Pinellas Pest Control Supply** (multiple locations) sto
 
 **Professional Mosquito Treatments:** Companies like **MosquitoNix** offer misting systems and monthly spraying. These work well combined with traps – the spray reduces overall populations while traps handle breakthrough insects.
 
-![Professional pest control technician installing a mosquito trap system in a Florida yard](PLACEHOLDER)
 
 ## Seasonal Considerations and Maintenance
 
@@ -187,7 +182,6 @@ Traps work best as part of comprehensive mosquito management:
 
 **Barrier Treatments:** Monthly professional spraying combined with traps can achieve 80-90% population reduction.
 
-![Integrated mosquito control setup showing traps, repellent plants, and outdoor fans in a Florida landscape](PLACEHOLDER)
 
 ## Cost-Benefit Analysis for Tampa Bay Properties
 

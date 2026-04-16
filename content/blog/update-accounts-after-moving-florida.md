@@ -27,7 +27,6 @@ Moving to Florida means more than just packing boxes and finding a new home. The
 
 Here's your complete roadmap for updating everything after your Florida move, organized by priority and urgency. Some updates can wait a few weeks. Others? You need to handle them before you even leave your old state.
 
-![Person organizing paperwork and documents on a desk with moving boxes in background](PLACEHOLDER)
 
 ## The Critical First 48 Hours: Government and Financial Updates
 
@@ -111,7 +110,6 @@ Renters insurance in Florida averages $180-$250 annually. Even if your landlord 
 
 Contact your life insurance company and any disability insurance providers. Some policies have geographic restrictions or rate adjustments based on your state of residence. It's usually a simple phone call, but don't skip it — you don't want a claim denied because your address wasn't current.
 
-![Screenshot of online banking website showing address change form](PLACEHOLDER)
 
 ## Healthcare and Medical Updates
 
@@ -175,7 +173,6 @@ Some professions have expedited processes for licensed practitioners from other 
 
 Update your address with any professional associations, trade organizations, or union memberships. This ensures you receive important communications, renewal notices, and continuing education information.
 
-![Person updating information on laptop with Florida driver's license and insurance documents nearby](PLACEHOLDER)
 
 ## Subscription Services and Digital Accounts
 
@@ -259,7 +256,6 @@ Research and apply for:
 
 Popular youth activities in Tampa Bay include little league baseball (spring training is huge here), soccer through the Tampa Bay United Soccer Club, and swimming year-round thanks to our climate.
 
-![Family reviewing paperwork and documents while sitting at kitchen table](PLACEHOLDER)
 
 ## Creating Your Personal Update Checklist
 

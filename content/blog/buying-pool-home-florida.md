@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/buying-pool-home-florida.webp"
 ---
 
-# Buying a Home with a Pool in Florida — The Complete Guide
-
 Look, I've been helping families buy homes in Tampa Bay for over two decades, and here's what I tell every client eyeing that gorgeous pool in the backyard: Yes, Florida living practically demands a pool. But no, not all pools are created equal.
 
 After walking through thousands of homes from Wesley Chapel to Safety Harbor, I've seen million-dollar pools that are money pits and $30,000 backyard oases that add serious value. The difference? Knowing what to look for before you sign on the dotted line.
 
-![Aerial view of a typical Florida backyard pool with lanai screening and tropical landscaping](PLACEHOLDER)
 
 In Florida, roughly 35% of single-family homes come with pools. That's not an accident — our 8-month swimming season and brutally hot summers make pools practically essential. But buying a home with a pool isn't like buying one with granite countertops. We're talking about a complex mechanical system that can either enhance your lifestyle or drain your wallet faster than a cracked pool shell.
 
@@ -71,7 +68,6 @@ Walk straight to the pool equipment. If the pump, filter, and heater look like t
 
 Equipment should be easily accessible but not an eyesore. I've seen too many beautiful pools with equipment shoved under decks where no technician wants to crawl.
 
-![Close-up of modern pool equipment showing pump, filter, and heater with clear labels and accessibility](PLACEHOLDER)
 
 ### Screen Enclosures and Lanais
 
@@ -141,7 +137,6 @@ Budget $300-$500 for a professional pool inspection. It's the best money you'll 
 - Minor surface staining (cosmetic issue)
 - Older pool heater (replacement coming anyway)
 
-![Before and after photos showing a neglected pool being restored to crystal clear condition](PLACEHOLDER)
 
 ## Pool Types and Features That Matter
 
@@ -245,7 +240,6 @@ Here's what 20+ years in Tampa Bay real estate has taught me: pool maintenance i
 
 **Hybrid approach:** Many homeowners handle daily skimming and let professionals manage chemicals and equipment. This reduces costs while maintaining pool health.
 
-![Homeowner testing pool water chemistry with professional testing kit and chemical balance chart](PLACEHOLDER)
 
 ### Seasonal Considerations
 

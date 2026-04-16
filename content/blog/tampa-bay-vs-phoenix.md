@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/tampa-bay-vs-phoenix.webp"
 ---
 
-# Tampa Bay vs Phoenix — Which Is Better for Relocators?
-
 Two of America's fastest-growing metro areas. Two completely different lifestyles. Tampa Bay and Phoenix both attract thousands of relocators annually, but they couldn't be more different in climate, culture, and cost of living.
 
 After 23+ years helping families navigate Tampa Bay relocations, I've worked with plenty of folks comparing these two Sun Belt powerhouses. Here's the honest breakdown of what each offers — and what you'll sacrifice by choosing one over the other.
 
-![Aerial view showing Tampa Bay's waterfront neighborhoods versus Phoenix's desert mountain backdrop](PLACEHOLDER)
 
 ## Climate Reality Check — It's Not Just About the Heat
 
@@ -82,7 +79,6 @@ This is where Tampa Bay gets expensive:
 - **Arizona**: State income tax up to 4.5%, but property taxes only 0.72%
 - **Homestead exemption**: Florida offers $50,000 exemption for primary residents
 
-![Split image showing a Tampa Bay waterfront home next to a Phoenix desert home with mountain views](PLACEHOLDER)
 
 **Winner**: Slight edge to Phoenix for overall housing costs, Tampa Bay for tax benefits.
 
@@ -145,7 +141,6 @@ This choice defines your weekend activities:
 - **Desert activities**: Off-roading, rock climbing, mountain biking
 - **Day trips**: Sedona (2 hours), Flagstaff (2.5 hours)
 
-![Collage showing Tampa Bay beach activities versus Phoenix hiking and desert recreation](PLACEHOLDER)
 
 ### Dining and Culture
 
@@ -203,7 +198,6 @@ Arizona's school funding has been challenging:
 - **Private options**: Phoenix Country Day School, Brophy College Prep
 - **Charter schools**: Arizona pioneered charter movement
 
-![Image showing families at Tampa Bay beaches compared to families hiking in Phoenix desert](PLACEHOLDER)
 
 **Winner**: Tampa Bay for school options and funding.
 
@@ -280,7 +274,6 @@ After helping hundreds of families relocate, here's my take:
 - Enjoy Southwestern culture and cuisine
 - Don't mind extreme summer heat for beautiful winters
 
-![Side-by-side lifestyle comparison showing Tampa Bay waterfront living versus Phoenix desert mountain living](PLACEHOLDER)
 
 ## Making Your Decision
 
@@ -290,7 +283,6 @@ Visit both during their challenging seasons: Tampa Bay in August, Phoenix in Jul
 
 Your lifestyle priorities should drive this decision. Water person or mountain person? That's usually the deciding factor.
 
-![Final comparison image showing both cities' skylines and defining characteristics](PLACEHOLDER)
 
 ## Frequently Asked Questions
 

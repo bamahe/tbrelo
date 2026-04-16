@@ -23,7 +23,6 @@ schema:
 featuredImage: "/images/blog/trinity-vs-odessa.webp"
 ---
 
-![Aerial view showing Trinity and Odessa neighborhoods with suburban homes and tree-lined streets](PLACEHOLDER)
 
 Two communities. One county line. Completely different vibes.
 
@@ -41,7 +40,6 @@ Here's why geography matters beyond bragging rights: **Hillsborough County means
 
 The commute difference to downtown Tampa? Trinity wins by about 10 minutes — it's roughly 25 miles to downtown versus Odessa's 28-32 miles, depending on which part of Odessa you're in.
 
-![Comparison map showing Trinity and Odessa boundaries with county lines and major roads marked](PLACEHOLDER)
 
 ---
 
@@ -77,7 +75,6 @@ Notable areas include:
 
 The big difference? **Land**. In Trinity, you're paying premium prices for smaller lots in newer neighborhoods. In Odessa, that same money often buys you more house on significantly more land.
 
-![Side-by-side photos showing typical Trinity planned community home versus Odessa home with larger lot](PLACEHOLDER)
 
 ## Schools: The Hillsborough vs Pasco Divide
 
@@ -129,7 +126,6 @@ Odessa maintains more of that "Old Florida" feel, even as development continues.
 
 The Odessa crowd tends to be either young families attracted by the value proposition or established residents who've been here 15+ years and love the slower pace.
 
-![Trinity community amenities showing modern playground and walking trails](PLACEHOLDER)
 
 ## Shopping, Dining, and Entertainment
 
@@ -177,7 +173,6 @@ Odessa residents deal with more varied road conditions — some areas have great
 
 **Bottom line for both:** Plan on 45+ minutes to reach most Tampa Bay employment centers during rush hour.
 
-![Traffic comparison showing commute routes from both Trinity and Odessa to downtown Tampa](PLACEHOLDER)
 
 ## Cost of Living Comparison
 
@@ -239,7 +234,6 @@ On a $500,000 home, that difference could mean $1,000-$2,000 annually in propert
 - Fewer new construction options
 - Longer commute times to some areas
 
-![Comparison showing Trinity's planned community layout versus Odessa's more organic development patterns](PLACEHOLDER)
 
 ---
 
@@ -283,7 +277,6 @@ Odessa's seeing more varied development — some new planned communities alongsi
 
 **Investment perspective:** Both areas should continue appreciating, though Trinity's newer infrastructure and school access might provide more consistent value growth long-term.
 
-![Future development plans showing proposed commercial and residential growth in both communities](PLACEHOLDER)
 
 ## Frequently Asked Questions
 

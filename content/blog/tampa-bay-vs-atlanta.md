@@ -25,7 +25,6 @@ featuredImage: "/images/blog/tampa-bay-vs-atlanta.webp"
 
 Looking at Tampa Bay versus Atlanta for your next move? I've been helping families make this exact decision for over two decades, and honestly, both cities have changed dramatically since the early 2000s. Let me break down what you're really getting into with each metro area.
 
-![Aerial view comparing Tampa Bay's waterfront skyline with Atlanta's downtown urban landscape](PLACEHOLDER)
 
 ## The Big Picture: Two Very Different Growth Stories
 
@@ -77,7 +76,6 @@ The trade-off? Competition is fiercer, and that corporate culture can feel suffo
 
 **Winner:** Atlanta for career growth, Tampa Bay for work-life balance.
 
-![Split image showing Tampa's downtown business district and Atlanta's corporate skyline](PLACEHOLDER)
 
 ## Traffic and Transportation: Choose Your Poison
 
@@ -111,7 +109,6 @@ The downside? Ice storms can paralyze the city, and summer humidity rivals Flori
 
 **Winner:** Tampa Bay, unless you genuinely miss seasons.
 
-![Comparison of Tampa Bay beaches and Atlanta's urban parks and greenspaces](PLACEHOLDER)
 
 ## Lifestyle and Recreation
 
@@ -155,7 +152,6 @@ University of South Florida in Tampa is growing its research reputation rapidly.
 
 **Carrollwood/Northdale:** Family-friendly suburbs with mature trees and solid schools. $300,000-$450,000.
 
-![Neighborhood comparison showing Tampa Bay suburban communities versus Atlanta's diverse residential areas](PLACEHOLDER)
 
 ### Atlanta's Diverse Options
 
@@ -211,7 +207,6 @@ University of South Florida in Tampa is growing its research reputation rapidly.
 
 **Is being near water important to your daily happiness?** Choose Tampa Bay.
 
-![Side-by-side lifestyle comparison showing Tampa Bay outdoor activities versus Atlanta urban cultural activities](PLACEHOLDER)
 
 ## The Bottom Line
 
@@ -225,7 +220,6 @@ If you're leaning toward Tampa Bay, focus your search on [Hillsborough County](/
 
 The grass always looks greener somewhere else, but sometimes it actually is. Choose based on your real priorities, not Instagram-worthy moments or what looks good on paper.
 
-![Final comparison image showing families enjoying life in both Tampa Bay and Atlanta settings](PLACEHOLDER)
 
 ## Frequently Asked Questions
 

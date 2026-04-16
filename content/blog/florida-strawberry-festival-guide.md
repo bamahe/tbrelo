@@ -25,7 +25,6 @@ featuredImage: "/images/blog/florida-strawberry-festival-guide.webp"
 
 Every March, Plant City transforms from a quiet farming town into Florida's sweetest destination. The Florida Strawberry Festival draws over 500,000 visitors during its 11-day run, making it one of the state's largest annual events. After covering this festival for clients for two decades, I've learned which days to avoid, where locals actually park, and why the strawberry shortcake line moves faster at 10 AM than 2 PM.
 
-![Aerial view of the Florida Strawberry Festival grounds showing carnival rides, food booths, and crowds of visitors](PLACEHOLDER)
 
 ## What Makes Plant City's Festival Special
 
@@ -63,7 +62,6 @@ The 2025 Florida Strawberry Festival runs February 27 through March 9. Mark your
 - **2-4 PM:** Peak chaos. Avoid unless you enjoy people-watching.
 - **6-8 PM:** Crowds thin slightly, carnival lights create great atmosphere.
 
-![Festival entrance gate with crowds of people entering and strawberry-themed decorations](PLACEHOLDER)
 
 ## Parking Like a Local
 
@@ -87,7 +85,6 @@ Here's what the festival website won't tell you: the "official" parking lots are
 
 Yes, the strawberry shortcake is mandatory. But limiting yourself to just shortcake is like going to a beach and only touching sand.
 
-![Close-up of fresh strawberry shortcake with whipped cream being served at a festival booth](PLACEHOLDER)
 
 ### The Strawberry Shortcake System
 
@@ -134,7 +131,6 @@ The real hidden gem. These aren't boring displays — they're hands-on demonstra
 
 **Antique Tractor Show:** More interesting than it sounds. These machines built Hillsborough County's agricultural economy.
 
-![Carnival rides lit up at night with festival-goers enjoying various attractions](PLACEHOLDER)
 
 ### Carnival Rides and Games
 
@@ -165,7 +161,6 @@ March weather in Plant City ranges from 45°F mornings to 82°F afternoons. Dres
 - Expensive jewelry (you're in dusty farm fields)
 - High expectations for cell service (towers get overwhelmed)
 
-![Families enjoying strawberry treats while sitting at picnic tables in the festival grounds](PLACEHOLDER)
 
 ## Getting There and Around
 
@@ -203,7 +198,6 @@ The festival provides reasonable accessibility for wheelchair users. Main pathwa
 
 Most food booths can accommodate wheelchair access, though some carnival rides have restrictions.
 
-![Agricultural exhibits showing strawberry growing demonstrations with families learning about farming](PLACEHOLDER)
 
 ## Local Business Impact and Community Connection
 

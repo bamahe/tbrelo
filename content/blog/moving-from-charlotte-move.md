@@ -23,15 +23,12 @@ schema:
 featuredImage: "/images/blog/moving-from-charlotte-move.webp"
 ---
 
-# Moving from Charlotte NC to Tampa Bay — The Complete Relocation Guide
-
 Making the jump from Charlotte to Tampa Bay? You're not alone. I've helped dozens of Charlotte families make this exact move over the past 23 years, and there's a clear pattern: they wish they'd done it sooner.
 
 Charlotte's a solid city — banking hub, decent cost of living, four seasons. But Tampa Bay offers something Charlotte can't: year-round warmth, no state income tax, and beaches that don't require a weekend road trip. Plus, your dollar stretches further here, and the job market is surprisingly diverse.
 
 Let me walk you through everything you need to know about trading Queen City for the Sunshine State.
 
-![Aerial view comparing Charlotte's skyline with downtown Tampa's waterfront skyline](PLACEHOLDER)
 
 ## Why Charlotte Residents Choose Tampa Bay
 
@@ -75,7 +72,6 @@ Unemployment sits around 3.2% across the metro — similar to Charlotte's number
 
 The headline: housing is slightly cheaper, but you'll pay more for utilities (hello, air conditioning). The state income tax savings alone makes up the difference for most families.
 
-![Split image showing Charlotte neighborhood streets vs Tampa Bay suburban neighborhoods](PLACEHOLDER)
 
 ## Neighborhood Matching: Where Charlotte Folks Land
 
@@ -133,7 +129,6 @@ College town energy, affordable apartments, diverse food scene. The area around 
 
 Add $300-500 for fuel, $150-200 for equipment rental. Summer moves cost 20-30% more due to demand.
 
-![Image showing the I-4 highway entrance with "Welcome to Florida" signs](PLACEHOLDER)
 
 ## Housing Market Deep Dive
 
@@ -185,7 +180,6 @@ Charlotte's high schools are hit-or-miss depending on district lines. Tampa Bay 
 
 Plus, Florida's Bright Futures scholarship program covers 75-100% of state college tuition for qualified students.
 
-![Image of students at a Florida high school campus with palm trees](PLACEHOLDER)
 
 ## Job Market Transition Guide
 
@@ -252,7 +246,6 @@ Charlotte's banking networking vs Tampa Bay's diverse professional groups:
 - **Tampa Bay Beaches Chamber**: Good for coastal business connections
 - **Industry-specific groups**: More variety than Charlotte due to economic diversity
 
-![Image of Tampa Bay professionals networking at a waterfront venue](PLACEHOLDER)
 
 ## County-by-County Breakdown
 
@@ -329,7 +322,6 @@ Charlotte's banking networking vs Tampa Bay's diverse professional groups:
 - **Keep important documents** with you during move
 - **Prepare cash** for tips and unexpected expenses
 
-![Image of a moving truck being loaded outside a Charlotte-style home](PLACEHOLDER)
 
 ### Professional Moving Costs
 
@@ -372,7 +364,6 @@ Add 20% to all estimates for summer moves (May-August).
 **Urgent care**: BayCare Urgent Care centers throughout region  
 **Pharmacy**: Publix pharmacy offers free antibiotics and good customer service
 
-![Image of a welcome basket with Florida oranges and Tampa Bay area guidebooks](PLACEHOLDER)
 
 ## Local Culture Integration
 
@@ -489,7 +480,6 @@ Florida's homestead exemption removes first $50,000 of assessed value from taxat
 **Mistake 3**: Expecting Charlotte's restaurant chains  
 **Reality**: Some favorites don't exist here, but local options are often better.
 
-![Image of a family unpacking boxes in their new Tampa Bay home with moving truck visible outside](PLACEHOLDER)
 
 ## Making the Decision: Is Tampa Bay Right for You?
 

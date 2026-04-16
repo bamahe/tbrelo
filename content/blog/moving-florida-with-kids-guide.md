@@ -27,7 +27,6 @@ Moving to Florida with kids feels like directing a three-ring circus while juggl
 
 Here's what 23 years of helping families relocate to Tampa Bay has taught me about making this move work for every member of your crew.
 
-![Family with luggage and moving boxes standing in front of a Florida home with palm trees](PLACEHOLDER)
 
 ## Why Moving to Florida with Kids Is Different
 
@@ -106,7 +105,6 @@ Florida middle schoolers are different from their northern counterparts. Beach c
 
 Your Minnesota kid who excelled at hockey might feel lost when everyone's talking about surfing lessons or fishing tournaments. Help them find their niche — whether it's joining the robotics team at Belcher Elementary or trying out for cross country at Indian Rocks Christian School.
 
-![Middle school students playing volleyball on a beach court with palm trees in background](PLACEHOLDER)
 
 ---
 
@@ -182,7 +180,6 @@ Toddlers don't understand "temporary." Every day in a hotel feels permanent to t
 
 Consider a [toddler travel activity book]({{amazon:B08HDQR87M}}) designed for long transitions. These can be lifesavers during the weeks when boxes are everywhere and normal toys are packed away.
 
-![Toddler playing at a Florida playground with colorful equipment and palm trees](PLACEHOLDER)
 
 ## Teenagers (Ages 16-18): Senior Year Moves and Beyond
 
@@ -234,7 +231,6 @@ Regardless of your kids' ages, some strategies consistently help Florida transit
 
 **Explore extensively.** Spend weekends discovering Florida attractions within driving distance. From Busch Gardens to Crystal Springs, shared adventures help kids feel excited about their new home.
 
-![Family exploring a Florida state park with hiking trails and a spring-fed swimming area](PLACEHOLDER)
 
 ## Managing the Emotional Transition
 

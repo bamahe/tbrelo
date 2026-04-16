@@ -27,7 +27,6 @@ Look, I'm going to give it to you straight about flood zones in Tampa Bay — be
 
 Let me cut through the marketing speak and insurance jargon. By the end of this, you'll know exactly what you're getting into, whether you're looking at that gorgeous waterfront home in [Davis Islands](/neighborhoods/davis-islands/) or that "safe" inland property in [Lutz](/neighborhoods/lutz/).
 
-![Flood zone map of Tampa Bay showing different colored zones across Hillsborough, Pinellas, and Pasco counties](PLACEHOLDER)
 
 ## What Flood Zones Actually Mean (Beyond the FEMA Maps)
 
@@ -64,7 +63,6 @@ Now let's talk about the real costs. That waterfront condo in [Bayshore](/neighb
 - **Elevation certificates:** $800-1,500 to potentially reduce premiums
 - **Mitigation requirements:** Could mean $20,000+ for proper elevation
 
-![Split image showing a beautiful waterfront home during sunny weather versus the same area during flooding](PLACEHOLDER)
 
 I had clients fall in love with a $750,000 home on [Harbour Island](/neighborhoods/harbour-island/). Gorgeous views, walking distance to downtown. The flood insurance quote? $6,400 annually. That's $533 extra per month — equivalent to a $100,000 increase in mortgage amount.
 
@@ -102,7 +100,6 @@ I've seen neighborhoods in [St. Petersburg](/counties/pinellas/) that were Zone 
 
 Hurricane Ian was our wake-up call. I watched "safe" inland areas in [Plant City](/cities/plant-city/) and [Seffner](/neighborhoods/seffner/) get significant flooding from rainfall alone. Climate scientists predict stronger, slower-moving storms — exactly the recipe for catastrophic flooding.
 
-![Before and after photos of a Tampa Bay neighborhood showing flood damage and recovery](PLACEHOLDER)
 
 ## Neighborhood-Specific Flood Realities
 
@@ -132,7 +129,6 @@ Let me walk you through what I've observed in specific Tampa Bay areas over two 
 
 **[Land O' Lakes](/neighborhoods/land-o-lakes/):** Mostly Zone X, attractive to families seeking flood-free living with good schools.
 
-![Aerial view of Tampa Bay waterfront neighborhoods during high tide showing proximity to water](PLACEHOLDER)
 
 ## The Insurance Deep Dive: What Your Agent Won't Tell You
 
@@ -189,7 +185,6 @@ After two decades of helping families navigate this decision, here's my framewor
 
 **You have young children:** Family safety and stability outweigh lifestyle amenities.
 
-![Comparison chart showing average home prices, insurance costs, and total monthly payments for flood zone vs non-flood zone properties](PLACEHOLDER)
 
 ## The Resale Reality: What Happens When You Sell
 
@@ -237,7 +232,6 @@ If you're leaning toward flood zone properties, here are ways to minimize your e
 
 **Increase deductibles:** Higher deductibles can significantly reduce premiums if you can handle the out-of-pocket risk.
 
-![Home elevation and flood mitigation features including vents, elevated utilities, and drainage systems](PLACEHOLDER)
 
 ## Technology and Monitoring: Staying Ahead of Risk
 
@@ -277,7 +271,6 @@ After 23 years in Tampa Bay real estate, here's my honest assessment: there's no
 
 Both options can be smart investments in Tampa Bay's growing market. The key is making an informed decision based on real data, not wishful thinking or fear-based marketing.
 
-![Peaceful Tampa Bay neighborhood scene showing both waterfront and inland homes coexisting](PLACEHOLDER)
 
 ---
 

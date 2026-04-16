@@ -27,7 +27,6 @@ You're considering trading Houston's endless sprawl for Tampa Bay's mix of beach
 
 Let me walk you through what you actually need to know — not the tourist brochure version, but the real deal from someone who's lived here since the Clinton administration.
 
-![Aerial view comparing Houston's downtown skyline with Tampa Bay's waterfront and bridges](PLACEHOLDER)
 
 ## Why Houston Families Choose Tampa Bay
 
@@ -61,7 +60,6 @@ The insurance jump hurts — hurricane risk is real. But most Houston families s
 
 For a deeper dive into expenses, check out our complete [cost of living breakdown](/cost-of-living/).
 
-![Split screen showing Houston's Memorial City area versus Tampa's Westshore business district](PLACEHOLDER)
 
 ## Tax Savings Calculator
 
@@ -114,7 +112,6 @@ Hip, walkable, diverse. Seminole Heights has Houston Heights vibes with craft br
 ### Katy → Carrollwood/Town 'n' Country  
 Solid middle-class neighborhoods with good schools. Carrollwood skews slightly higher-end; Town 'n' Country offers more affordable options.
 
-![Comparison of similar neighborhoods showing tree-lined streets in Houston's Memorial area versus South Tampa's Bayshore Boulevard](PLACEHOLDER)
 
 ## School Districts: The Real Story
 
@@ -153,7 +150,6 @@ Unlike Houston's limited system, Tampa Bay offers real alternatives:
 
 Most professionals still drive, but you can live car-free in downtown Tampa or St. Pete — something impossible in most of Houston.
 
-![Map showing major Tampa Bay highways and transit options compared to Houston's complex freeway system](PLACEHOLDER)
 
 ## The Moving Process: Houston to Tampa Bay
 
@@ -209,7 +205,6 @@ Book summer moves 6-8 weeks in advance. Hurricane season (June-November) can cau
 - Transfer prescriptions, medical records
 - Plan goodbye gatherings (trust me, you'll miss Houston friends)
 
-![Moving truck on Interstate 10 with Houston skyline in background transitioning to Florida scenery](PLACEHOLDER)
 
 ## Weather Reality Check
 
@@ -248,7 +243,6 @@ Tampa Bay moves slower than Houston — not sleepy, just less frantic. Business 
 
 The "Florida lifestyle" is real. Boats, beach days, and outdoor dining year-round change your priorities. Houston's work-first mentality gives way to better work-life integration.
 
-![Comparison showing Houston's business district versus Tampa's waterfront dining scene at sunset](PLACEHOLDER)
 
 ## Housing Market Navigation
 
@@ -335,7 +329,6 @@ Year-round outdoor living transforms your routine:
 
 The scene can't match Houston's size, but quality per capita is excellent. Plus, Orlando's theme parks are 90 minutes away for weekend escapes.
 
-![Tampa Bay's Bayshore Boulevard showing joggers and cyclists with downtown skyline in background](PLACEHOLDER)
 
 ## Healthcare Transition
 
@@ -384,7 +377,6 @@ Summer electric bills run $180-$280 monthly for average homes — higher than Ho
 
 Tampa Bay's internet infrastructure lags behind Houston's. Research specific address availability before committing to neighborhoods.
 
-![Comparison of Houston's Medical Center complex versus Tampa's Westshore medical district](PLACEHOLDER)
 
 ## Shopping and Retail Differences
 

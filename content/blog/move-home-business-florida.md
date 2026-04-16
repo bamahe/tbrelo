@@ -27,7 +27,6 @@ Moving your home business to Florida isn't just about packing boxes and changing
 
 Here's what actually matters when you're bringing your business to the Sunshine State.
 
-![Home office setup with Florida business documents and laptop on desk](PLACEHOLDER)
 
 ## Why Florida Makes Sense for Home Businesses
 
@@ -71,7 +70,6 @@ Corporations file Articles of Incorporation ($70 for stock corporations, $35 for
 
 Every Florida business entity needs a registered agent with a Florida street address (not a P.O. box). This person or company receives official state correspondence and legal documents. If you're a Florida resident planning to stay put, you can serve as your own registered agent. Otherwise, budget for a registered agent service.
 
-![Sunbiz.org website interface showing business registration forms](PLACEHOLDER)
 
 ## Sales Tax Registration and Requirements
 
@@ -148,7 +146,6 @@ Before choosing a home, verify internet options. [Spectrum](https://www.spectrum
 
 Florida's electric rates run $0.12-0.14 per kWh, higher than the national average but stable. Budget extra for air conditioning — your home office might add $50-100 monthly to summer electric bills.
 
-![Professional home office setup with proper lighting and Florida-appropriate climate control](PLACEHOLDER)
 
 ## Tax Considerations for Florida Home Businesses
 
@@ -224,7 +221,6 @@ Home businesses sometimes need professional meeting spaces or temporary offices.
 
 Local options include [The Centre](https://thecentretampa.com) in Tampa and [The Factory](https://thefactoryspb.com) in St. Petersburg. Rates run $150-400 monthly for part-time access, $300-600 for dedicated desks.
 
-![Networking event at Tampa Bay business organization with professionals exchanging business cards](PLACEHOLDER)
 
 ## Timeline and Action Steps
 

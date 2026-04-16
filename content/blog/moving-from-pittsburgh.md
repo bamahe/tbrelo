@@ -23,15 +23,12 @@ schema:
 featuredImage: "/images/blog/moving-from-pittsburgh.webp"
 ---
 
-# Moving from Pittsburgh to Tampa Bay — The Complete Relocation Guide
-
 I've helped hundreds of families make the move from Pittsburgh to Tampa Bay over the past 23 years, and I'll be straight with you: it's one of the most popular relocations I see. Steel City folks love what Tampa Bay offers — better weather, lower taxes, growing job market, and a cost of living that actually makes sense.
 
 But this isn't just about swapping pierogies for Cuban sandwiches (though both are excellent). This move requires real planning, especially if you're coming from neighborhoods like Shadyside, Squirrel Hill, or Mt. Lebanon and want to find something comparable here.
 
 Let me walk you through everything you need to know, from the financial benefits to finding the right neighborhood match.
 
-![Pittsburgh skyline transitioning to Tampa Bay skyline showing the contrast between the two cities](PLACEHOLDER)
 
 ## Why Pittsburgh Families Are Moving to Tampa Bay
 
@@ -76,7 +73,6 @@ Let me break down the real numbers based on current market data:
 
 ---
 
-![Detailed cost comparison infographic showing Pittsburgh vs Tampa Bay living expenses](PLACEHOLDER)
 
 ## Tax Savings Calculator: Your Pittsburgh to Florida Windfall
 
@@ -123,7 +119,6 @@ Both are experiencing major redevelopment. The Heights includes Seminole Heights
 **Try: Westshore or Channelside**
 Business districts with high-rises, urban energy, and young professional populations. Westshore serves the airport corridor, while Channelside puts you near Amalie Arena and downtown entertainment.
 
-![Map showing Pittsburgh neighborhood equivalents matched with Tampa Bay areas](PLACEHOLDER)
 
 ## The Drive Down: Pittsburgh to Tampa Bay Route Guide
 
@@ -181,7 +176,6 @@ Based on moves I've coordinated, here's realistic pricing:
 ### Hybrid Approach (Most Popular)
 Ship one car via auto transport ($1,200-$1,600), drive the other with essentials, hire movers for furniture. Total cost usually $4,500-$7,000 for 3BR households.
 
-![Moving truck on the highway with Pittsburgh and Tampa Bay distance markers](PLACEHOLDER)
 
 ## Job Market Transition: Pittsburgh Skills in Tampa Bay
 
@@ -231,7 +225,6 @@ Coming from Pittsburgh Public Schools or suburban districts like Mt. Lebanon or 
 
 **Reality Check:** Florida's school choice options (magnet programs, charter schools) give you more flexibility than Pittsburgh's traditional district boundaries.
 
-![Students walking into a modern Tampa Bay area school building](PLACEHOLDER)
 
 ## Best Times to Move: Weather and Market Timing
 
@@ -309,7 +302,6 @@ Let me show you realistic expectations based on current market conditions:
 
 **Market Tip:** Unlike Pittsburgh's older housing stock, most Tampa Bay homes built after 1990 include central air, modern electrical, and better insulation. Factor this into your comparison.
 
-![Collage showing different price point homes available in Tampa Bay neighborhoods](PLACEHOLDER)
 
 ## Lifestyle Changes: What Pittsburgh Transplants Love (And Miss)
 
@@ -378,7 +370,6 @@ Your utility bills will shift dramatically. Here's what to expect:
 - Gutter ice dam prevention
 - Driveway sealing
 
-![Modern Tampa Bay home showing typical Florida architecture and landscaping](PLACEHOLDER)
 
 ## Getting Started: Your 90-Day Moving Timeline
 
@@ -433,7 +424,6 @@ Tampa Bay traffic isn't Pittsburgh traffic, but it has its own personality:
 ### Auto Insurance Shock
 Florida has higher rates due to uninsured drivers and weather risks. Budget $2,000-$2,500/year vs Pittsburgh's $1,200-$1,600.
 
-![Tampa Bay highway system map showing major routes and traffic patterns](PLACEHOLDER)
 
 ## Healthcare: Finding Your New Medical Home
 

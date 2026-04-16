@@ -23,15 +23,12 @@ schema:
 featuredImage: "/images/blog/florida-power-outage-survival.webp"
 ---
 
-# Florida Power Outage Survival: What Happens When the AC Dies
-
 When that Florida summer heat hits 95°F with humidity that makes it feel like 110°F, and then *click* — your power goes out. Welcome to one of Florida's most dreaded scenarios. After 23 years of helping families relocate to Tampa Bay, I've seen newcomers completely unprepared for what happens when modern life suddenly stops working in paradise.
 
 Your AC dies. Your refrigerator becomes a very expensive insulated box. Your phone starts overheating. And you realize that living in Florida without electricity isn't just uncomfortable — it can be dangerous.
 
 Let me walk you through exactly how to survive Florida power outages, because if you're moving here, this will happen to you. Not if, when.
 
-![Family sitting in dark living room with flashlights and battery-powered fan during power outage](PLACEHOLDER)
 
 ## The Reality of Florida Power Outages
 
@@ -69,7 +66,6 @@ A portable generator isn't a luxury here — it's survival equipment. You need a
 
 I keep mine on the side of my house near the electrical panel, with a transfer switch installed by an electrician. Cost about $800 for the switch and installation, but I can have essentials running in under 5 minutes.
 
-![Generator setup on concrete pad beside house with proper ventilation and safety clearances](PLACEHOLDER)
 
 ### Cooling Strategy When AC Dies
 
@@ -106,7 +102,6 @@ Most areas maintain water pressure during outages, but not all. Fill bathtubs an
 - Granola bars, dried fruits
 - Baby formula (if you have infants)
 
-![Well-organized emergency food supplies and water containers arranged on kitchen counter](PLACEHOLDER)
 
 ## Room-by-Room Survival Strategy
 
@@ -159,7 +154,6 @@ Your phone becomes your lifeline, but Florida heat kills batteries fast. A phone
 **Charging strategy:**
 Car chargers work great, but don't run your car in an enclosed garage. I've seen people make this deadly mistake during extended outages.
 
-![Person checking smartphone with portable battery pack and emergency radio on table](PLACEHOLDER)
 
 ## When to Leave vs. When to Stay
 
@@ -199,7 +193,6 @@ Tampa Bay communities handle outages differently. Newer developments like Fishha
 
 Some neighborhoods have formed informal outage response groups. They share generator time, pool ice supplies, and help each other through extended outages. It's one of the better aspects of Florida living — people look out for each other when things get tough.
 
-![Neighbors sharing ice and generator power in front yard during community power outage response](PLACEHOLDER)
 
 ---
 

@@ -27,7 +27,6 @@ Let me tell you about Tampa Bay's best-kept aviation secret: St. Pete-Clearwater
 
 After 23 years of helping families relocate here, I've watched PIE transform from a sleepy regional airport into a legitimate alternative that can save you serious money and time. But like most local secrets, it comes with trade-offs you need to understand.
 
-![Exterior view of St. Pete-Clearwater International Airport terminal with parking area](PLACEHOLDER)
 
 ## Why PIE Beats Tampa International for Many Travelers
 
@@ -77,7 +76,6 @@ Allegiant Air operates about 80% of PIE's flights, which creates both opportunit
 
 **Chartered and seasonal carriers** pop up regularly, especially during snowbird season.
 
-![PIE airport security checkpoint with short lines](PLACEHOLDER)
 
 ## When PIE Makes Perfect Sense
 
@@ -157,7 +155,6 @@ No first-class service at PIE. If you need lie-flat seats for long flights, you'
 - Better weather delay accommodations
 - Frequent flyer program benefits
 
-![Allegiant Air plane on PIE airport tarmac](PLACEHOLDER)
 
 ## Getting to PIE: Your Route Options
 
@@ -216,7 +213,6 @@ Don't expect TPA's variety. Options include:
 - Pet relief area
 - Rental car counters (Hertz, Enterprise, Avis)
 
-![PIE airport gate area with passengers waiting to board](PLACEHOLDER)
 
 ## Seasonal Considerations
 

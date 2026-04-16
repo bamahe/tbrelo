@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/tampa-bay-vegan-vegetarian-guide.webp"
 ---
 
-# Tampa Bay's Best Vegan and Vegetarian Restaurants: Your Plant-Based Dining Guide
-
 After 23 years of eating my way through Tampa Bay, I've watched the plant-based dining scene explode from a handful of health food stores with sad salad bars to world-class restaurants that make carnivores question their life choices. Whether you're a lifelong vegan, trying Meatless Monday, or just want to eat something that won't put you in a food coma, Tampa Bay delivers.
 
 The numbers don't lie: our metro area now has over 80 restaurants with dedicated vegan menus, up from maybe 12 just five years ago. That growth reflects our increasingly diverse population — young professionals from the coasts, international families, and health-conscious retirees who want options beyond the traditional meat-and-potatoes fare.
 
-![Colorful array of plant-based dishes from various Tampa Bay vegan restaurants](PLACEHOLDER)
 
 ## Tampa's Vegan Restaurant Scene: The Heavy Hitters
 
@@ -51,7 +48,6 @@ Hidden in a converted warehouse in Tampa Heights, Sacred Pepper proves that vega
 
 **Price Point:** Most entrees run $12-18, making it accessible for regular dining rather than special occasions only.
 
-![Interior shot of Sacred Pepper showing industrial-chic design with hanging plants](PLACEHOLDER)
 
 ### Plant Fuel (Multiple Locations)
 **Locations:** Seminole Heights, Hyde Park, Brandon
@@ -84,7 +80,6 @@ This gastropub proves that vegan food and craft beer make perfect companions. Lo
 
 **Beer Selection:** 30 taps featuring local breweries like Green Bench and Cycle Brewing, plus carefully chosen vegan-friendly options from around the country.
 
-![Outdoor patio dining at Engine No. 9 with string lights and craft beer taps visible](PLACEHOLDER)
 
 ## Hidden Gems: The Locals-Only Spots
 
@@ -126,7 +121,6 @@ This Native American-inspired restaurant focuses on indigenous ingredients and c
 
 **What to Order:** The grilled vegetables platter ($18) features seasonal selections cooked over their signature barbacoa grill. Their three sisters salad ($14) combines corn, beans, and squash in a dish that's both historical and delicious.
 
-![Grilled vegetable platter at Ulele showing colorful seasonal produce on rustic wooden plate](PLACEHOLDER)
 
 ## Quick Bites and Fast-Casual Options
 
@@ -164,7 +158,6 @@ While primarily a seafood restaurant, their vegetarian options are extensive and
 
 **What to Order:** Bean and rice bowls ($8), grilled vegetable fajitas ($12), and fresh guacamole ($6) that's made tableside. Their corn tortillas are made fresh and completely plant-based.
 
-![Close-up of colorful veggie fajitas with grilled peppers, onions, and fresh tortillas](PLACEHOLDER)
 
 ## Desserts and Sweet Treats
 
@@ -189,7 +182,6 @@ Their "Healthy Living" sections stock hard-to-find vegan products, and many loca
 ### Trader Joe's (Multiple Locations)
 Budget-friendly vegan options include their excellent selection of plant-based frozen meals, non-dairy ice creams, and specialty products like cashew cheese.
 
-![Diverse selection of fresh produce at a Tampa Bay farmers market](PLACEHOLDER)
 
 ## Farmers Markets: Fresh and Local
 
@@ -225,7 +217,6 @@ Tampa Bay's vegan scene explodes during certain times of year:
 - Lunch portions are often identical to dinner but $3-5 cheaper
 - Indian and Mediterranean restaurants typically offer the best value for vegan dining
 
-![Overhead shot of a diverse group sharing multiple plant-based dishes at a restaurant table](PLACEHOLDER)
 
 ## What's Coming Next
 
@@ -249,7 +240,6 @@ The reality is that Tampa Bay has transformed into a legitimate destination for 
 
 As someone who's watched this market develop over two decades, I can tell you the quality and variety available now would have been unimaginable even five years ago. The stigma around plant-based dining is disappearing as fast as the food itself disappears from these restaurant tables.
 
-![Tampa Bay skyline at sunset with outdoor restaurant patios featuring plant-based dining visible in foreground](PLACEHOLDER)
 
 ## Frequently Asked Questions
 

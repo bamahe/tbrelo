@@ -23,13 +23,10 @@ schema:
 featuredImage: "/images/blog/tampa-bay-vs-jacksonville.webp"
 ---
 
-# Tampa Bay vs Jacksonville — Which Is Better for Relocators?
-
 I get this question at least twice a week: "Barrett, I'm torn between Tampa Bay and Jacksonville. What's the real story?" After 23+ years helping families relocate throughout Florida, I've seen this decision play out hundreds of times. Let me cut through the tourism board fluff and give you the straight talk.
 
 Both cities are growing like crazy — Jacksonville added 24,000+ people in 2023 alone, while Tampa Bay welcomed about 45,000 new residents. But the similarities end there. These metros couldn't be more different in personality, opportunities, and lifestyle.
 
-![Aerial view comparing Tampa's downtown skyline with waterfront against Jacksonville's riverfront skyline](PLACEHOLDER)
 
 ## The Numbers That Matter
 
@@ -99,7 +96,6 @@ Key Jacksonville areas:
 - **Ponte Vedra:** Upscale beach living
 - **Fleming Island:** New development, growing fast
 
-![Split image showing a typical Tampa Bay suburban home next to a similar Jacksonville home with pricing comparison](PLACEHOLDER)
 
 ## Weather & Natural Disasters
 
@@ -136,7 +132,6 @@ Jacksonville highlights:
 - **Arts:** Cummer Museum, Jacksonville Symphony
 - **Beaches:** Atlantic beaches, different vibe from Gulf Coast
 
-![Collage showing Tampa Bay nightlife scene, beach activities, and cultural attractions](PLACEHOLDER)
 
 ## Transportation & Getting Around
 
@@ -182,7 +177,6 @@ Notable schools:
 - **University of North Florida:** Growing reputation, beautiful campus
 - **Jacksonville University:** Private, smaller, strong programs
 
-![Students at University of South Florida campus compared to University of North Florida campus scenes](PLACEHOLDER)
 
 ## Healthcare Systems
 
@@ -224,7 +218,6 @@ Beach options:
 - **Ponte Vedra Beach:** Upscale, golf communities, less commercial
 - **Fernandina Beach:** Historic charm, Victorian downtown
 
-![Side-by-side comparison of Gulf Coast beach scene versus Atlantic Coast beach scene](PLACEHOLDER)
 
 ## Food Scene Comparison
 
@@ -262,7 +255,6 @@ Jacksonville highlights:
 **Empty Nesters (45-65)**
 **Winner: Depends on priorities** — Jacksonville for value and space, Tampa Bay for activities and dining.
 
-![Montage showing families in both cities enjoying different activities appropriate to each location](PLACEHOLDER)
 
 ## The Bottom Line Decision Framework
 
