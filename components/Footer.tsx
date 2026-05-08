@@ -73,6 +73,19 @@ export default function Footer() {
           </div>
         </div>
 
+        {/* Barrett's Network — backlinks to owned properties */}
+        <div className="mt-10 pt-8 border-t border-gray-800">
+          <h4 className="font-display font-bold text-white text-sm uppercase tracking-wider mb-4">Barrett Henry&apos;s Network</h4>
+          <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3 text-sm">
+            <a href="https://nowtb.com" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">Tampa Bay Real Estate</a>
+            <a href="https://valricoagent.com" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">Valrico Real Estate</a>
+            <a href="https://parrishagent.com" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">Parrish Real Estate</a>
+            <a href="https://valrico.blog" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">Valrico Community Blog</a>
+            <a href="https://bestbayservices.com" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">Handyman &amp; Home Services</a>
+            <a href="https://vivipm.com" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">Property Management</a>
+          </div>
+        </div>
+
         {/* Bottom Bar */}
         <div className="mt-12 pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center gap-4 text-xs">
           <p>© {new Date().getFullYear()} TB Relo. All rights reserved.</p>
