@@ -6,6 +6,7 @@ import { getContentByType } from '@/lib/content'
 import { getPageImage } from '@/lib/images'
 import { generateWebPageSchema, generateLocalBusinessSchema } from '@/lib/schema'
 import CTABox from '@/components/CTABox'
+import LeadForm from '@/components/LeadForm'
 import QuickAnswer from '@/components/QuickAnswer'
 import FAQSchema from '@/components/FAQSchema'
 
@@ -226,10 +227,10 @@ export default function HomePage() {
         ]}
       />
 
-      {/* CTA */}
-      <section className="py-16">
-        <div className="max-w-3xl mx-auto px-4">
-          <CTABox type="realtor" />
+      {/* Lead capture form */}
+      <section id="contact-form" className="py-16">
+        <div className="max-w-2xl mx-auto px-4">
+          <LeadForm />
         </div>
       </section>
     </>

@@ -5,6 +5,7 @@ import { SpeedInsights } from '@vercel/speed-insights/next'
 import { siteConfig } from '@/lib/config'
 import Header from '@/components/Header'
 import Footer from '@/components/Footer'
+import StickyCTA from '@/components/StickyCTA'
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteConfig.url),
@@ -122,6 +123,7 @@ export default function RootLayout({
           {children}
         </main>
         <Footer />
+        <StickyCTA />
         <SpeedInsights />
       </body>
     </html>

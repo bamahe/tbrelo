@@ -1,10 +1,8 @@
-import Link from 'next/link'
-import Image from 'next/image'
 import { Metadata } from 'next'
 import { getContentByType } from '@/lib/content'
 import { generateWebPageSchema } from '@/lib/schema'
-import { getPageImage } from '@/lib/images'
 import Breadcrumb from '@/components/Breadcrumb'
+import BlogSearch from '@/components/BlogSearch'
 
 // SEO metadata for the blog index page
 export const metadata: Metadata = {
@@ -41,53 +39,8 @@ export default function BlogIndex() {
           Practical guides and local insight for anyone moving to the Tampa Bay area.
         </p>
 
-        {/* Blog post list */}
-        <div className="space-y-6">
-          {posts.map(post => (
-            <Link
-              key={post.slug}
-              href={`/blog/${post.slug}/`}
-              className="group block bg-white border border-gray-200 rounded-xl overflow-hidden hover:border-brand-blue hover:shadow-lg transition-all"
-            >
-              {/* Thumbnail image */}
-              <div className="relative w-full h-40 bg-brand-sand">
-                <Image
-                  src={`/images/${getPageImage({ type: 'blog', slug: post.slug })}`}
-                  alt={post.frontmatter.title}
-                  fill
-                  className="object-cover"
-                  unoptimized
-                />
-              </div>
-              <div className="p-6">
-              <h2 className="font-display font-bold text-xl text-brand-navy group-hover:text-brand-blue transition-colors">
-                {post.frontmatter.title}
-              </h2>
-              {post.frontmatter.publishedAt && (
-                <p className="text-brand-slate text-sm mt-1">
-                  {new Date(post.frontmatter.publishedAt).toLocaleDateString('en-US', {
-                    year: 'numeric',
-                    month: 'long',
-                    day: 'numeric',
-                  })}
-                </p>
-              )}
-              {post.frontmatter.metaDescription && (
-                <p className="text-brand-slate text-sm mt-2">
-                  {post.frontmatter.metaDescription}
-                </p>
-              )}
-              </div>
-            </Link>
-          ))}
-        </div>
-
-        {/* Empty state if no posts yet */}
-        {posts.length === 0 && (
-          <p className="text-brand-slate text-center py-12">
-            No blog posts yet. Check back soon!
-          </p>
-        )}
+        {/* Searchable, filterable blog grid */}
+        <BlogSearch posts={posts} />
       </div>
     </>
   )

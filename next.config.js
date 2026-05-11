@@ -1,16 +1,11 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  // Enable static export for maximum speed + easy deployment
-  // Remove this line if you need server-side features later
-  output: 'export',
-  
-  // Clean URLs: /hillsborough instead of /hillsborough.html
+  // Server mode — needed for API routes (lead capture, FUB integration)
+  // Vercel handles this natively with serverless functions
   trailingSlash: true,
-  
-  // Image optimization
-  images: {
-    unoptimized: true, // Required for static export
-  },
+
+  // Increase static generation timeout for pages with lots of content
+  staticPageGenerationTimeout: 300,
 }
 
 module.exports = nextConfig

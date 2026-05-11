@@ -1,6 +1,6 @@
 import { Metadata } from 'next'
 import { notFound } from 'next/navigation'
-import { getContentPage, getContentSlugs } from '@/lib/content'
+import { getContentPage, getContentSlugs, getContentByType } from '@/lib/content'
 import { generateArticleSchema, generateFAQSchema } from '@/lib/schema'
 import { getPageImage, getPageImageUrl } from '@/lib/images'
 import Breadcrumb from '@/components/Breadcrumb'
@@ -8,6 +8,8 @@ import CTABox from '@/components/CTABox'
 import AdSlot from '@/components/AdSlot'
 import HeroImage from '@/components/HeroImage'
 import QASection from '@/components/QASection'
+import RelatedPosts from '@/components/RelatedPosts'
+import InlineCapture from '@/components/InlineCapture'
 
 // Generate static pages for all blog markdown files
 export function generateStaticParams() {
@@ -85,10 +87,22 @@ export default function BlogPost({ params }: { params: { slug: string } }) {
 
         <AdSlot slot="mid" />
 
+        {/* Inline lead capture — "Free Relocation Guide" */}
+        <InlineCapture />
+
         <CTABox type="realtor" />
         <CTABox type="handyman" />
 
         <AdSlot slot="bottom" />
+
+        {/* Related posts — keeps readers on site */}
+        <RelatedPosts
+          posts={getContentByType('blog')
+            .filter(p => p.slug !== params.slug)
+            .sort((a, b) => (b.frontmatter.publishedAt || '').localeCompare(a.frontmatter.publishedAt || ''))
+            .slice(0, 3)
+          }
+        />
 
         {/* Q&A Section — users can ask and answer questions */}
         <QASection blogSlug={params.slug} />
