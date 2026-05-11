@@ -5,6 +5,7 @@ import { generateWebPageSchema, generateFAQSchema } from '@/lib/schema'
 import { getPageImage, getPageImageUrl } from '@/lib/images'
 import Breadcrumb from '@/components/Breadcrumb'
 import CTABox from '@/components/CTABox'
+import InlineCapture from '@/components/InlineCapture'
 import AdSlot from '@/components/AdSlot'
 import HeroImage from '@/components/HeroImage'
 
@@ -91,6 +92,8 @@ export default function TopLevelPage({ params }: { params: { slug: string } }) {
         />
 
         <AdSlot slot="mid" />
+
+        <InlineCapture />
 
         <CTABox type="realtor" />
         <CTABox type="handyman" />

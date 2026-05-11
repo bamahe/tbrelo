@@ -4,6 +4,7 @@ import { getContentPage, getContentSlugs } from '@/lib/content'
 import { generateWebPageSchema, generateFAQSchema } from '@/lib/schema'
 import Breadcrumb from '@/components/Breadcrumb'
 import CTABox from '@/components/CTABox'
+import InlineCapture from '@/components/InlineCapture'
 import AdSlot from '@/components/AdSlot'
 import QASection from '@/components/QASection'
 
@@ -69,6 +70,8 @@ export default function QuestionPage({ params }: { params: { slug: string } }) {
         />
 
         <AdSlot slot="mid" />
+
+        <InlineCapture />
 
         <CTABox type="realtor" />
 
