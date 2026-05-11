@@ -17,6 +17,7 @@ export default function Header() {
     { label: 'Cost of Living', href: '/cost-of-living/' },
     { label: 'Blog', href: '/blog/' },
     { label: 'Q&A', href: '/questions/' },
+    { label: 'About', href: '/about/' },
     { label: 'Find a REALTOR®', href: 'https://nowtb.com', external: true },
   ]
 

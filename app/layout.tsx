@@ -80,6 +80,43 @@ export default function RootLayout({
         </Script>
       </head>
       <body className="flex flex-col min-h-screen">
+        {/* Sitewide WebSite + Organization schema for SEO/AEO */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify([
+              {
+                '@context': 'https://schema.org',
+                '@type': 'WebSite',
+                '@id': 'https://tbrelo.com/#website',
+                name: 'TB Relo — Tampa Bay Relocation Guide',
+                url: 'https://tbrelo.com',
+                description: 'Comprehensive relocation guides for Tampa Bay, Florida. Covering 8 counties, 100+ cities, cost of living, schools, and everything you need to know about moving to Tampa Bay.',
+                publisher: { '@id': 'https://tbrelo.com/#org' },
+                potentialAction: {
+                  '@type': 'SearchAction',
+                  target: { '@type': 'EntryPoint', urlTemplate: 'https://tbrelo.com/blog/?q={search_term_string}' },
+                  'query-input': 'required name=search_term_string',
+                },
+              },
+              {
+                '@context': 'https://schema.org',
+                '@type': 'Organization',
+                '@id': 'https://tbrelo.com/#org',
+                name: 'TB Relo',
+                url: 'https://tbrelo.com',
+                sameAs: [
+                  'https://nowtb.com',
+                  'https://valricoagent.com',
+                  'https://parrishagent.com',
+                  'https://www.facebook.com/BarrettHenryREALTOR/',
+                  'https://www.instagram.com/thenowteam',
+                  'https://www.youtube.com/@nowtampa',
+                ],
+              },
+            ])
+          }}
+        />
         <Header />
         <main className="flex-1">
           {children}

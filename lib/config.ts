@@ -38,13 +38,13 @@ export const siteConfig = {
   
   // AdSense
   adsense: {
-    clientId: '', // ADD YOUR ADSENSE CLIENT ID: ca-pub-XXXXXXXXXXXXXXXX
-    enabled: false, // Set to true once AdSense is approved
+    clientId: 'ca-pub-2033173419526042',
+    enabled: true,
   },
-  
+
   // Google Analytics
   analytics: {
-    gaId: '', // ADD YOUR GA4 MEASUREMENT ID: G-XXXXXXXXXX
-    enabled: false, // Set to true once GA is set up
+    gaId: 'G-TD87S02SLM',
+    enabled: true,
   },
 }
