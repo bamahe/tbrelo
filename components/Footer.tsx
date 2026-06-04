@@ -83,6 +83,7 @@ export default function Footer() {
             <a href="https://parrishagent.com" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">Parrish Real Estate</a>
             <a href="https://valrico.blog" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">Valrico Community Blog</a>
             <a href="https://bestbayservices.com" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">Handyman &amp; Home Services</a>
+            <a href="https://bestvalricohandyman.com" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">Valrico Handyman</a>
             <a href="https://vivipm.com" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">Property Management</a>
           </div>
         </div>

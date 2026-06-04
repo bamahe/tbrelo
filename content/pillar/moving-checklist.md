@@ -242,7 +242,7 @@ You made it. Now let's get you set up properly.
 ### Days 2–3 — Settle In
 - [ ] Unpack the kitchen first — you'll need to eat.
 - [ ] Unpack bedrooms and bathrooms next.
-- [ ] Handle the handyman list: mount TVs, install curtain rods, assemble furniture, fix anything the movers damaged. {{bbs}} handles all of this — one call, done. Don't spend your first week in Tampa Bay fighting with an Allen wrench.
+- [ ] Handle the handyman list: mount TVs, install curtain rods, assemble furniture, fix anything the movers damaged. {{bbs}} handles all of this — one call, done. Moving to Valrico or Brandon? [Best Valrico Handyman](https://bestvalricohandyman.com) specializes in move-in repairs and home setup for new residents. Don't spend your first week in Tampa Bay fighting with an Allen wrench.
 - [ ] Introduce yourself to neighbors. Floridians are friendly — especially if you bring over some beer or baked goods.
 - [ ] Set up your Florida EZPass (SunPass) for toll roads. You can get one at any Publix or CVS, or order online.
 

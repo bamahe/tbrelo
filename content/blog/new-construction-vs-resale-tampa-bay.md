@@ -84,7 +84,7 @@ A 20-year-old home may need a new roof ($15K–$25K), HVAC replacement ($8K–$1
 Older roofs, older construction methods, and lack of impact windows mean higher insurance premiums. A resale home with a 15-year-old shingle roof can cost $2,000–$4,000 more per year to insure than a new construction home with a new roof and impact windows.
 
 ### Dated Interiors
-Kitchens with laminate countertops and oak cabinets. Bathrooms with garden tubs and brass fixtures. Popcorn ceilings. Carpet. Unless the previous owner updated, you may be buying a home that needs $20K–$50K in cosmetic updates to feel modern.
+Kitchens with laminate countertops and oak cabinets. Bathrooms with garden tubs and brass fixtures. Popcorn ceilings. Carpet. Unless the previous owner updated, you may be buying a home that needs $20K–$50K in cosmetic updates to feel modern. For smaller updates in the Valrico and Brandon area — painting, fixture swaps, pressure washing — [Best Valrico Handyman](https://bestvalricohandyman.com) handles the move-in punch list without the overhead of a general contractor.
 
 ### Less Energy Efficient
 Older windows, older insulation, and older HVAC systems mean higher utility bills. A 1990s home without insulation upgrades can cost $100–$150 more per month in electricity compared to new construction.

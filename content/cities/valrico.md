@@ -106,7 +106,7 @@ Valrico's dining and entertainment scene is modest, but there are legitimate loc
 
 Valrico's housing stock includes everything from 1990s builds that need freshening up to 2020s new construction that's move-in ready. Either way, you'll have a list of things to handle after closing.
 
-**Home services:** {{bbs}} covers the move-in punch list — TV mounting, ceiling fan installation, pressure washing (Florida driveways get green fast), furniture assembly, and those random handyman tasks that come with any new home. Especially useful if you're coming from out of state and don't have a go-to handyman yet.
+**Home services:** {{bbs}} covers the move-in punch list — TV mounting, ceiling fan installation, pressure washing (Florida driveways get green fast), furniture assembly, and those random handyman tasks that come with any new home. Especially useful if you're coming from out of state and don't have a go-to handyman yet. For Valrico-specific service, [Best Valrico Handyman](https://bestvalricohandyman.com) focuses exclusively on the Valrico and Brandon area — repairs, painting, AC maintenance, and everything on your move-in to-do list.
 
 **Internet:** {{spectrum}} is the primary provider in Valrico. Coverage is solid in established neighborhoods. Newer developments sometimes have fiber options — ask your builder or HOA. Schedule your install early; availability windows fill up during summer moving season.
 

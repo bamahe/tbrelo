@@ -62,7 +62,7 @@ Brandon has everything from 1960s ranch-style concrete block homes to modern tow
 
 ### What kind of homes will I find in Valrico?
 
-Valrico leans toward larger single-family homes on bigger lots. You will find custom-built homes on half-acre to one-acre lots, newer subdivisions with community amenities, and some older ranchettes. Valrico has a more upscale feel overall compared to Brandon, with homes in planned communities like FishHawk sitting nearby.
+Valrico leans toward larger single-family homes on bigger lots. You will find custom-built homes on half-acre to one-acre lots, newer subdivisions with community amenities, and some older ranchettes. Valrico has a more upscale feel overall compared to Brandon, with homes in planned communities like FishHawk sitting nearby. Many older Valrico homes need move-in updates — [Best Valrico Handyman](https://bestvalricohandyman.com) handles the punch list so you can focus on settling in.
 
 ### Are there good parks and outdoor activities in the area?
 

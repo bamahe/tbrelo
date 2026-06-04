@@ -126,7 +126,7 @@ Check AC filters and replace them monthly during heavy-use months. Test smoke de
 
 ### How do I find reliable home service contractors in Tampa Bay?
 
-Ask neighbors and friends for referrals since word of mouth is still the most reliable source. Verify that contractors are licensed and insured through the Florida DBPR website. Get at least three written quotes for any major work and check reviews on Google and the BBB.
+Ask neighbors and friends for referrals since word of mouth is still the most reliable source. Verify that contractors are licensed and insured through the Florida DBPR website. Get at least three written quotes for any major work and check reviews on Google and the BBB. If you're in the Valrico or Brandon area, [Best Valrico Handyman](https://bestvalricohandyman.com) handles repairs, painting, pressure washing, and general handyman work for homeowners who need a reliable local option.
 
 ### What is the most expensive home repair in Florida?
 

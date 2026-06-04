@@ -72,7 +72,7 @@ The tradeoff: everything is planned. The HOA enforces architectural standards, l
 - Non-HOA living appeals to you
 - You want a lower price per square foot
 - You prefer the independence of an established suburb
-- You're handy and want room for a workshop, boats, or toys
+- You're handy and want room for a workshop, boats, or toys (and if you're not handy, [Best Valrico Handyman](https://bestvalricohandyman.com) covers repairs, painting, and home setup)
 - A shorter commute to Tampa matters
 - You can strategically pick a home in a good school zone
 
