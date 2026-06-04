@@ -1,0 +1,250 @@
+3:I[5878,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"Image"]
+4:I[2972,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],""]
+6:I[5143,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"default"]
+7:I[4707,[],""]
+9:I[6423,[],""]
+a:I[8003,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],""]
+b:I[7312,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"default"]
+c:I[5463,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"SpeedInsights"]
+2:Teda,[{"@context":"https://schema.org","@type":"Article","headline":"Moving to Florida from Canada — Immigration and Lifestyle Guide | TB Relo","description":"Moving to Florida from Canada. Honest guide from a Tampa Bay local with 23+ years of experience.","url":"https://tbrelo.com/blog/moving-florida-from-canada/","author":{"@type":"Person","name":"Barrett Henry","jobTitle":"REALTOR® & Broker Associate","url":"https://nowtb.com","worksFor":{"@type":"Organization","name":"REMAX Collective"},"knowsAbout":["Tampa Bay Real Estate","Florida Relocation","Residential Real Estate","Investment Property","Property Management"]},"publisher":{"@type":"Organization","name":"TB Relo","url":"https://tbrelo.com"},"datePublished":"2025-11-13T08:00:00-04:00","dateModified":"2026-04-16T08:00:00-04:00","image":{"@type":"ImageObject","url":"https://tbrelo.com/images/blog/housing.jpg"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How long can I stay in Florida as a Canadian tourist?","acceptedAnswer":{"@type":"Answer","text":"Canadian citizens can stay up to 6 months per calendar year as tourists without a visa. However, spending 183+ days in the US may trigger tax residency requirements, so most snowbirds limit stays to 4-5 months annually."}},{"@type":"Question","name":"Do I need to pay US taxes if I'm just a snowbird?","acceptedAnswer":{"@type":"Answer","text":"It depends on how many days you spend in the US. The substantial presence test can make you a US tax resident even without permanent status. Track your days carefully and consult a cross-border tax professional."}},{"@type":"Question","name":"Can I buy Florida real estate without permanent residency?","acceptedAnswer":{"@type":"Answer","text":"Yes, non-residents can buy US real estate. You'll need larger down payments (often 30-40%), face higher interest rates, and deal with FIRPTA withholding requirements when selling. Many Canadians start as cash buyers."}},{"@type":"Question","name":"What happens to my Canadian healthcare coverage?","acceptedAnswer":{"@type":"Answer","text":"Provincial health plans typically cover emergency care abroad for limited periods, but not routine care. If you become a Florida resident, you'll likely lose Canadian healthcare coverage and need US insurance."}},{"@type":"Question","name":"Should I keep my Canadian bank accounts after moving?","acceptedAnswer":{"@type":"Answer","text":"Many Canadian expats maintain some Canadian banking relationships, especially if they have ongoing income sources like pensions or rental properties in Canada. However, US tax reporting requirements make this complex."}},{"@type":"Question","name":"What's the best way to transfer money from Canada to the US?","acceptedAnswer":{"@type":"Answer","text":"Avoid traditional bank wire transfers due to poor exchange rates and high fees. Services like Wise, Remitly, or currency brokers typically offer better rates. For large amounts, consider forward contracts to lock in favorable rates."}},{"@type":"Question","name":"How does Florida's hurricane risk affect Canadian relocators?","acceptedAnswer":{"@type":"Answer","text":"Hurricane risk is real but manageable with proper preparation and insurance. Most Canadians adapt well — the risk is seasonal and predictable, unlike sudden winter storms. Modern building codes and forecasting make it less scary than media coverage suggests."}},{"@type":"Question","name":"Can I collect Canadian pension benefits while living in Florida?","acceptedAnswer":{"@type":"Answer","text":"Generally yes, thanks to the Canada-US tax treaty. Canada Pension Plan (CPP) and Old Age Security (OAS) typically continue for US residents, though there may be tax implications and specific residency requirements for some benefits."}}]}]5:T3e82,<p>If you're reading this from somewhere north of the border, you've probably spent enough winters scraping ice off your windshield while dreaming of palm trees. Florida's been the Canadian escape route for decades, and for good reason — no state income tax, year-round warmth, and a Canadian expat community so established you'll find Tim Hortons in some Florida cities.</p>
+<p>But moving from Canada to Florida isn't just about packing your bags and booking a flight. There's immigration paperwork, tax implications, and lifestyle adjustments that can trip up even the most prepared relocator. After helping hundreds of Canadian families navigate this move over the past 23+ years, I've learned which details matter and which ones are just bureaucratic noise.</p>
+<h2>The Canadian Invasion of Florida (And Why It Makes Sense)</h2>
+<p>Walk through any Florida beach town in January and you'll hear more "eh"s than a hockey game. Canadians make up the largest group of foreign-born residents in Florida, with over 150,000 permanent residents and countless more seasonal residents.</p>
+<p>The math is simple: Toronto's average January temperature hovers around 23°F (-5°C), while Tampa Bay sits comfortably at 72°F (22°C). Add in Florida's lack of state income tax versus Canada's federal rates that can hit 33% for high earners, and you've got a compelling case for relocation.</p>
+<p>The exchange rate sweetens the deal. Even when the Canadian dollar isn't at parity with the USD, Florida's lower cost of living often balances the equation. A $400,000 home in suburban Tampa Bay offers space and amenities that might cost $600,000+ in Calgary or Vancouver.</p>
+<h2>Immigration Pathways: Your Legal Route to Florida Living</h2>
+<h3>Tourist vs. Temporary vs. Permanent Status</h3>
+<p><strong>Tourist Status (B-2 Visa/ESTA)</strong>
+Most Canadians can stay in the US for up to 6 months per year as tourists without a visa. This works for snowbirds who want to escape Canadian winters but maintain primary residence up north. You cannot work, establish a business, or claim US tax residency on tourist status.</p>
+<p><strong>Temporary Work Visas</strong></p>
+<ul>
+<li><strong>TN Visa</strong>: Available under NAFTA/USMCA for specific professions. Valid for 3 years, renewable.</li>
+<li><strong>L-1 Visa</strong>: For intracompany transfers. If your Canadian employer has US operations, this might be your path.</li>
+<li><strong>H-1B Visa</strong>: Requires US employer sponsorship and lottery selection. Competitive but possible.</li>
+</ul>
+<p><strong>Permanent Residence (Green Card)</strong>
+The golden ticket for true relocation. Main pathways:</p>
+<ul>
+<li><strong>Employment-based</strong>: Requires job offer from US employer willing to sponsor</li>
+<li><strong>Family-based</strong>: Through marriage to US citizen or family member sponsorship</li>
+<li><strong>Investment-based (EB-5)</strong>: Minimum $800,000 investment creating US jobs</li>
+<li><strong>Diversity Lottery</strong>: Canada isn't eligible, so don't waste time here</li>
+</ul>
+<h3>The Snowbird Strategy</h3>
+<p>Many Canadians start as snowbirds — spending winters in Florida while maintaining Canadian residence. This requires careful tracking of days spent in each country to avoid triggering US tax residency (more on that below).</p>
+<p>The 183-day rule is crucial: spend 183+ days in the US during any calendar year, and you may become a US tax resident. Snowbirds typically spend November through March in Florida (roughly 150 days) to stay safely under this threshold.</p>
+<h2>Tax Implications: The Numbers That Actually Matter</h2>
+<h3>US Tax Residency Tests</h3>
+<p><strong>Substantial Presence Test</strong>: You're considered a US tax resident if you're present in the US for:</p>
+<ul>
+<li>183+ days in the current year, OR</li>
+<li>183+ days using this formula: (All days current year) + (1/3 days from previous year) + (1/6 days from year before that)</li>
+</ul>
+<p><strong>Example</strong>: If you spent 120 days in Florida each of the past 3 years:</p>
+<ul>
+<li>Current year: 120 days</li>
+<li>Previous year: 120 ÷ 3 = 40 days</li>
+<li>Year before: 120 ÷ 6 = 20 days</li>
+<li>Total: 180 days (you're safe)</li>
+</ul>
+<h3>The Canada-US Tax Treaty</h3>
+<p>This treaty prevents double taxation but creates compliance requirements. Key benefits:</p>
+<ul>
+<li><strong>Tie-breaker rules</strong>: Determine tax residency when you qualify in both countries</li>
+<li><strong>Foreign tax credits</strong>: Credits for taxes paid to the other country</li>
+<li><strong>Pension protection</strong>: Many Canadian pensions maintain tax advantages</li>
+</ul>
+<h3>Tax Planning Strategies</h3>
+<p><strong>Before You Move</strong>:</p>
+<ul>
+<li>Trigger capital gains in Canada while still a resident (often taxed more favorably)</li>
+<li>Consider RRSP withdrawals before US residency (US taxes these as regular income)</li>
+<li>Review investment portfolio — US doesn't recognize Tax-Free Savings Accounts (TFSAs)</li>
+</ul>
+<p><strong>After US Residency</strong>:</p>
+<ul>
+<li>Florida has no state income tax (massive advantage over most US states)</li>
+<li>Federal tax rates may be lower than combined Canadian federal/provincial rates</li>
+<li>Different investment vehicles become available (401k, IRA accounts)</li>
+</ul>
+<h2>Banking and Finance: Making the Dollar Transition</h2>
+<h3>Opening US Bank Accounts</h3>
+<p>Most major US banks will open accounts for non-residents, but requirements vary:</p>
+<ul>
+<li><strong>Minimum deposits</strong>: Often $1,000-$10,000 for non-residents</li>
+<li><strong>Documentation</strong>: Passport, Canadian address proof, sometimes US address proof</li>
+<li><strong>Credit history</strong>: You'll start from zero in the US credit system</li>
+</ul>
+<p><strong>Pro tip</strong>: Consider banks with both Canadian and US operations (TD Bank, BMO Harris) for easier transfers and relationship banking.</p>
+<h3>Building US Credit</h3>
+<p>Your Canadian credit score doesn't transfer. Start building US credit immediately:</p>
+<ul>
+<li>Secured credit cards if needed</li>
+<li>Become authorized user on spouse's US credit cards</li>
+<li>Consider credit-builder loans</li>
+<li>Pay all bills on time (utilities, phone, etc.)</li>
+</ul>
+<p>A 650+ credit score typically takes 6-12 months of consistent payments. You'll need this for competitive mortgage rates.</p>
+<h3>Currency Exchange and Transfers</h3>
+<p>Exchange rates can swing 10-20% annually, significantly impacting your purchasing power. Strategies:</p>
+<ul>
+<li><strong>Timing</strong>: Monitor CAD/USD trends, but don't try to perfectly time the market</li>
+<li><strong>Dollar-cost averaging</strong>: Transfer smaller amounts regularly rather than lump sums</li>
+<li><strong>Forward contracts</strong>: Lock in rates for future transfers</li>
+<li><strong>Multi-currency accounts</strong>: Maintain both CAD and USD balances</li>
+</ul>
+<p>Services like Wise (formerly TransferWise) or Remitly often beat bank exchange rates by 1-3%.</p>
+<h2>Healthcare: Navigating the American System</h2>
+<h3>The Reality Check</h3>
+<p>Canada's universal healthcare doesn't follow you south. In the US, you'll need private insurance or Medicare (if age-eligible and meet requirements).</p>
+<p><strong>Travel Insurance vs. Resident Coverage</strong>:</p>
+<ul>
+<li>Travel insurance covers emergencies but not routine care</li>
+<li>US resident insurance required for comprehensive coverage</li>
+<li>Costs vary dramatically: $200-$2,000+ monthly depending on age, coverage, location</li>
+</ul>
+<h3>Medicare Eligibility for Canadians</h3>
+<p>Generally, you need 10 years of US work history (40 quarters of covered employment) to qualify for premium-free Medicare Part A. Without this work history, you can buy into Medicare Part A for about $500/month (2024 rates).</p>
+<h3>Finding Healthcare Providers</h3>
+<p>Florida has excellent healthcare, particularly in major metros:</p>
+<ul>
+<li><strong>Tampa Bay</strong>: Moffitt Cancer Center (world-renowned), Tampa General Hospital</li>
+<li><strong>Miami</strong>: Jackson Health System, Baptist Health</li>
+<li><strong>Orlando</strong>: Orlando Health, AdventHealth</li>
+</ul>
+<p>Many Canadian snowbirds maintain relationships with both Canadian and Florida healthcare providers.</p>
+<h2>Real Estate: Buying Your Piece of Paradise</h2>
+<h3>Market Dynamics</h3>
+<p>Florida's real estate market moves differently than Canada's. Key differences:</p>
+<ul>
+<li><strong>Property taxes</strong>: Ongoing annual expense (1-2% of home value)</li>
+<li><strong>HOA fees</strong>: Common in Florida communities ($100-$800+ monthly)</li>
+<li><strong>Insurance</strong>: Homeowners, flood, windstorm coverage required</li>
+<li><strong>Closing costs</strong>: Typically 2-3% of purchase price</li>
+</ul>
+<p><strong>Tampa Bay market snapshot (2024)</strong>:</p>
+<ul>
+<li>Median home price: $385,000</li>
+<li>Average days on market: 35-45 days</li>
+<li>Property tax rate: 0.8-1.2% annually</li>
+<li>Popular Canadian buyer areas: Dunedin, Safety Harbor, New Port Richey</li>
+</ul>
+<h3>Homestead Exemption</h3>
+<p>Florida's homestead exemption can save Canadian permanent residents significant money:</p>
+<ul>
+<li>Up to $50,000 exemption from property taxes</li>
+<li>3% annual cap on assessed value increases</li>
+<li>Must be primary residence and you must be Florida resident</li>
+</ul>
+<h3>The FIRPTA Consideration</h3>
+<p>If you're not a US person (citizen or permanent resident), you may be subject to FIRPTA withholding when selling US real estate. This requires tax planning and proper documentation.</p>
+<h2>Practical Moving Logistics</h2>
+<h3>Shipping Household Goods</h3>
+<p><strong>Customs considerations</strong>:</p>
+<ul>
+<li>Duty-free import if moving permanently</li>
+<li>Detailed inventory required</li>
+<li>Some items restricted (certain foods, plants, medications)</li>
+<li>Professional moving companies handle customs paperwork</li>
+</ul>
+<p><strong>Cost estimates</strong> (Toronto to Tampa Bay):</p>
+<ul>
+<li>2-bedroom apartment: $4,000-$7,000</li>
+<li>3-bedroom house: $8,000-$15,000</li>
+<li>Vehicle shipping: $1,200-$2,000</li>
+</ul>
+<p>For a complete breakdown of moving logistics, check out our <a href="/moving-guide/">comprehensive moving guide</a>.</p>
+<h3>Vehicle Import/Export</h3>
+<p><strong>Importing to US</strong>:</p>
+<ul>
+<li>Vehicle must meet EPA and DOT standards</li>
+<li>25+ year old vehicles exempt from most requirements</li>
+<li>Modification costs can be substantial for non-compliant vehicles</li>
+</ul>
+<p><strong>Canadian vehicles commonly requiring modifications</strong>:</p>
+<ul>
+<li>Daytime running lights (must be defeatable)</li>
+<li>Speedometer (if metric-only)</li>
+<li>Emissions systems</li>
+</ul>
+<p><strong>Pro tip</strong>: Often easier to sell Canadian vehicle and buy in Florida, especially given insurance rate differences.</p>
+<h2>Lifestyle Adjustments: What Nobody Tells You</h2>
+<h3>Weather Reality Check</h3>
+<p>Yes, Florida is warm. It's also humid, stormy, and hurricane-prone. Canadian expectations often need calibration:</p>
+<ul>
+<li><strong>Summer humidity</strong>: 80-90% humidity is normal June-September</li>
+<li><strong>Hurricane season</strong>: June 1 - November 30 (peak: August-October)</li>
+<li><strong>Afternoon thunderstorms</strong>: Daily summer occurrence in many areas</li>
+<li><strong>"Winter"</strong>: Still shorts weather, but can dip to 40s-50s</li>
+</ul>
+<h3>Cultural Differences</h3>
+<p>Florida isn't just Canada with palm trees:</p>
+<ul>
+<li><strong>Tipping culture</strong>: Expected in restaurants (18-22%), services</li>
+<li><strong>HOA communities</strong>: Common lifestyle with rules and fees</li>
+<li><strong>Gun culture</strong>: Open carry legal, very different from Canada</li>
+<li><strong>Political climate</strong>: More conservative than most Canadian provinces</li>
+</ul>
+<h3>Finding Your Canadian Community</h3>
+<p>Canadians cluster in certain Florida areas:</p>
+<ul>
+<li><strong>West coast</strong>: Dunedin, Indian Rocks Beach, Anna Maria Island</li>
+<li><strong>Central</strong>: The Villages (massive retirement community)</li>
+<li><strong>Southeast</strong>: Delray Beach, Boca Raton</li>
+<li><strong>Southwest</strong>: Fort Myers, Naples</li>
+</ul>
+<p>These areas have Canadian clubs, familiar restaurants, and services catering to Canadian expats.</p>
+<h2>Timeline and Checklist for Your Move</h2>
+<h3>12 Months Before</h3>
+<ul>
+<li>Determine immigration pathway</li>
+<li>Consult tax professionals in both countries</li>
+<li>Research Florida locations and housing markets</li>
+<li>Begin credit building process if possible</li>
+</ul>
+<h3>6 Months Before</h3>
+<ul>
+<li>Finalize visa/immigration status</li>
+<li>Secure housing (rental or purchase)</li>
+<li>Arrange international moving quotes</li>
+<li>Open US bank accounts</li>
+</ul>
+<h3>3 Months Before</h3>
+<ul>
+<li>Purchase health insurance</li>
+<li>Transfer funds and establish US financial relationships</li>
+<li>Complete our <a href="/moving-checklist/">moving checklist</a> for detailed tasks</li>
+<li>Arrange vehicle import/sale</li>
+</ul>
+<h3>1 Month Before</h3>
+<ul>
+<li>Confirm all documentation</li>
+<li>Arrange temporary accommodations if needed</li>
+<li>Set up mail forwarding</li>
+<li>Notify Canadian institutions of address change</li>
+</ul>
+<hr>
+<p><strong>Moving to Tampa Bay?</strong> Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.</p>
+<p><a href="https://nowtb.com">Contact Barrett →</a> | <a href="tel:8137337907">(813) 733-7907</a></p>
+<hr>
+<h2>Frequently Asked Questions</h2>
+<h3>How long can I stay in Florida as a Canadian tourist?</h3>
+<p>Canadian citizens can stay up to 6 months per calendar year as tourists without a visa. However, spending 183+ days in the US may trigger tax residency requirements, so most snowbirds limit stays to 4-5 months annually.</p>
+<h3>Do I need to pay US taxes if I'm just a snowbird?</h3>
+<p>It depends on how many days you spend in the US. The substantial presence test can make you a US tax resident even without permanent status. Track your days carefully and consult a cross-border tax professional.</p>
+<h3>Can I buy Florida real estate without permanent residency?</h3>
+<p>Yes, non-residents can buy US real estate. You'll need larger down payments (often 30-40%), face higher interest rates, and deal with FIRPTA withholding requirements when selling. Many Canadians start as cash buyers.</p>
+<h3>What happens to my Canadian healthcare coverage?</h3>
+<p>Provincial health plans typically cover emergency care abroad for limited periods, but not routine care. If you become a Florida resident, you'll likely lose Canadian healthcare coverage and need US insurance.</p>
+<h3>Should I keep my Canadian bank accounts after moving?</h3>
+<p>Many Canadian expats maintain some Canadian banking relationships, especially if they have ongoing income sources like pensions or rental properties in Canada. However, US tax reporting requirements make this complex.</p>
+<h3>What's the best way to transfer money from Canada to the US?</h3>
+<p>Avoid traditional bank wire transfers due to poor exchange rates and high fees. Services like Wise, Remitly, or currency brokers typically offer better rates. For large amounts, consider forward contracts to lock in favorable rates.</p>
+<h3>How does Florida's hurricane risk affect Canadian relocators?</h3>
+<p>Hurricane risk is real but manageable with proper preparation and insurance. Most Canadians adapt well — the risk is seasonal and predictable, unlike sudden winter storms. Modern building codes and forecasting make it less scary than media coverage suggests.</p>
+<h3>Can I collect Canadian pension benefits while living in Florida?</h3>
+<p>Generally yes, thanks to the Canada-US tax treaty. Canada Pension Plan (CPP) and Old Age Security (OAS) typically continue for US residents, though there may be tax implications and specific residency requirements for some benefits.</p>
+8:["slug","moving-florida-from-canada","d"]
+0:["SZLIdUDBKVit2TP_UqbYL",[[["",{"children":["blog",{"children":[["slug","moving-florida-from-canada","d"],{"children":["__PAGE__?{\"slug\":\"moving-florida-from-canada\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","moving-florida-from-canada","d"],{"children":["__PAGE__",{},[["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","section",null,{"className":"relative w-full h-[200px] md:h-[300px] overflow-hidden bg-brand-navy","children":[["$","$L3",null,{"src":"/images/blog/housing.jpg","alt":"Moving to Florida from Canada — Immigration and Lifestyle Guide","fill":true,"className":"object-cover","unoptimized":true,"priority":true}],["$","div",null,{"className":"absolute inset-0 bg-brand-navy/60"}],["$","div",null,{"className":"relative z-10 flex flex-col items-center justify-center h-full px-4 text-center","children":[["$","h1",null,{"className":"text-white text-3xl md:text-5xl font-display font-extrabold leading-tight max-w-4xl","children":"Moving to Florida from Canada — Immigration and Lifestyle Guide"}],"$undefined"]}]]}],["$","article",null,{"className":"max-w-4xl mx-auto px-4 py-10","children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://tbrelo.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://tbrelo.com/blog/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Moving to Florida from Canada — Immigration and Lifestyle Guide\",\"item\":\"https://tbrelo.com/blog/moving-florida-from-canada/\"}]}"}}],["$","nav",null,{"aria-label":"Breadcrumb","className":"text-sm text-brand-slate mb-6","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-1","children":[["$","li","/",{"className":"flex items-center gap-1","children":[false,["$","$L4",null,{"href":"/","className":"hover:text-brand-blue transition-colors","children":"Home"}]]}],["$","li","/blog/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","$L4",null,{"href":"/blog/","className":"hover:text-brand-blue transition-colors","children":"Blog"}]]}],["$","li","/blog/moving-florida-from-canada/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","span",null,{"className":"text-brand-navy font-medium","children":"Moving to Florida from Canada — Immigration and Lifestyle Guide"}]]}]]}]}]],["$","p",null,{"className":"text-brand-slate text-sm mb-8","children":["Published ","November 13, 2025"]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$5"}}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"cta-box-primary","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-white","children":"Moving to Tampa Bay? Get a Local Expert."}],["$","p",null,{"className":"text-sm mb-4 text-white","children":"Barrett Henry is a Broker Associate with REMAX Collective and over 23 years of real estate experience. Straight talk, smart strategy, no pressure."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-blue text-white hover:bg-blue-600","children":["Contact Barrett"," →"]}],["$","a",null,{"href":"tel:8137337907","className":"text-sm text-white","children":"(813) 733-7907"}]]}]]}],["$","div",null,{"className":"cta-box","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-brand-navy","children":"Need Help Setting Up Your New Home?"}],["$","p",null,{"className":"text-sm mb-4 text-brand-slate","children":"Best Bay Services handles handyman work, home repairs, and maintenance for your new Tampa Bay home. Local, licensed, and trusted."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-navy text-white hover:bg-brand-dark","children":["Get a Quote"," →"]}],["$","a",null,{"href":"tel:8134168676","className":"text-sm text-brand-blue","children":"(813) 416-8676"}]]}]]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","$L6",null,{"blogSlug":"moving-florida-from-canada"}]]}]],null],null],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$8","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/db2729ad4a9f0783.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link",null,{"rel":"icon","href":"/favicon-32.png","type":"image/png","sizes":"32x32"}],["$","link",null,{"rel":"icon","href":"/favicon-16.png","type":"image/png","sizes":"16x16"}],["$","link",null,{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link",null,{"rel":"icon","href":"/icon-192.png","type":"image/png","sizes":"192x192"}],["$","meta",null,{"name":"google-adsense-account","content":"ca-pub-2033173419526042"}],["$","meta",null,{"name":"impact-site-verification","content":"bb623f40-9653-4312-9ca8-bf35b957a10c"}],["$","$La",null,{"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2033173419526042","strategy":"afterInteractive","crossOrigin":"anonymous"}],["$","$La",null,{"src":"https://www.googletagmanager.com/gtag/js?id=G-TD87S02SLM","strategy":"afterInteractive"}],["$","$La",null,{"id":"gtag-init","strategy":"afterInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'G-TD87S02SLM');\n          "}]]}],["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"[{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"https://tbrelo.com/#website\",\"name\":\"TB Relo — Tampa Bay Relocation Guide\",\"url\":\"https://tbrelo.com\",\"description\":\"Comprehensive relocation guides for Tampa Bay, Florida. Covering 8 counties, 100+ cities, cost of living, schools, and everything you need to know about moving to Tampa Bay.\",\"publisher\":{\"@id\":\"https://tbrelo.com/#org\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://tbrelo.com/blog/?q={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}},{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://tbrelo.com/#org\",\"name\":\"TB Relo\",\"url\":\"https://tbrelo.com\",\"sameAs\":[\"https://nowtb.com\",\"https://valricoagent.com\",\"https://parrishagent.com\",\"https://www.facebook.com/BarrettHenryREALTOR/\",\"https://www.instagram.com/thenowteam\",\"https://www.youtube.com/@nowtampa\"]}]"}}],["$","$Lb",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"max-w-2xl mx-auto px-4 py-20 text-center","children":[["$","h1",null,{"className":"text-6xl font-display font-extrabold text-brand-navy mb-4","children":"404"}],["$","p",null,{"className":"text-xl text-brand-slate mb-8","children":"This page doesn't exist. Maybe you're looking for one of these?"}],["$","div",null,{"className":"grid sm:grid-cols-2 gap-4 mb-12 text-left","children":[["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Moving Guide"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Complete guide to relocating to Tampa Bay"}]]}],["$","$L4",null,{"href":"/counties/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Explore Counties"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Browse all 8 Tampa Bay counties"}]]}],["$","$L4",null,{"href":"/cities/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Find a City"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"90+ city and neighborhood guides"}]]}],["$","$L4",null,{"href":"/blog/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Blog"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Tips, comparisons, and local insights"}]]}]]}],["$","$L4",null,{"href":"/","className":"px-8 py-4 bg-brand-blue text-white font-display font-bold rounded-lg hover:bg-blue-600 transition-colors text-lg inline-block","children":"Back to Home"}]]}],"notFoundStyles":[]}]}],["$","footer",null,{"className":"bg-brand-dark text-gray-400","children":[["$","div",null,{"className":"bg-brand-navy","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10","children":["$","div",null,{"className":"grid md:grid-cols-3 gap-8 text-center","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Buying or Selling a Home?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Barrett Henry — The NOW Team at REMAX Collective"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 733-7907"}]]}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Need a Handyman?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Best Bay Services — Tampa Bay Home Services"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 416-8676"}]]}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Property Management"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"ViVi PM — Full-Service Property Management"}]]}]]}]}]}],["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8","children":[["$","div",null,{"className":"md:col-span-2","children":[["$","div",null,{"className":"font-display font-extrabold text-2xl text-white mb-3","children":["TB",["$","span",null,{"className":"text-brand-sky","children":"Relo"}]]}],["$","p",null,{"className":"text-sm leading-relaxed","children":"Your complete guide to relocating to Tampa Bay, Florida. Covering Hillsborough, Pinellas, Pasco, Hernando, Polk, Manatee, Sarasota, and Citrus counties with honest, local insight from someone who actually lives here."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Guides"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"hover:text-white transition-colors","children":"Moving to Tampa Bay"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/cost-of-living/","className":"hover:text-white transition-colors","children":"Cost of Living"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/moving-checklist/","className":"hover:text-white transition-colors","children":"Moving Checklist"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/blog/","className":"hover:text-white transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Counties"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li","Hillsborough",{"children":["$","$L4",null,{"href":"/counties/hillsborough/","className":"hover:text-white transition-colors","children":["Hillsborough"," County"]}]}],["$","li","Pinellas",{"children":["$","$L4",null,{"href":"/counties/pinellas/","className":"hover:text-white transition-colors","children":["Pinellas"," County"]}]}],["$","li","Pasco",{"children":["$","$L4",null,{"href":"/counties/pasco/","className":"hover:text-white transition-colors","children":["Pasco"," County"]}]}],["$","li","Hernando",{"children":["$","$L4",null,{"href":"/counties/hernando/","className":"hover:text-white transition-colors","children":["Hernando"," County"]}]}],["$","li","Polk",{"children":["$","$L4",null,{"href":"/counties/polk/","className":"hover:text-white transition-colors","children":["Polk"," County"]}]}],["$","li","Manatee",{"children":["$","$L4",null,{"href":"/counties/manatee/","className":"hover:text-white transition-colors","children":["Manatee"," County"]}]}],["$","li","Sarasota",{"children":["$","$L4",null,{"href":"/counties/sarasota/","className":"hover:text-white transition-colors","children":["Sarasota"," County"]}]}],["$","li","Citrus",{"children":["$","$L4",null,{"href":"/counties/citrus/","className":"hover:text-white transition-colors","children":["Citrus"," County"]}]}]]}]]}]]}],["$","div",null,{"className":"mt-10 pt-8 border-t border-gray-800","children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Barrett Henry's Network"}],["$","div",null,{"className":"grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3 text-sm","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Tampa Bay Real Estate"}],["$","a",null,{"href":"https://valricoagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Real Estate"}],["$","a",null,{"href":"https://parrishagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Parrish Real Estate"}],["$","a",null,{"href":"https://valrico.blog","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Community Blog"}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Handyman & Home Services"}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Property Management"}]]}]]}],["$","div",null,{"className":"mt-12 pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center gap-4 text-xs","children":[["$","p",null,{"children":["© ",2026," TB Relo. All rights reserved."]}],["$","div",null,{"className":"flex gap-4","children":[["$","$L4",null,{"href":"/affiliate-disclosure/","className":"hover:text-white transition-colors","children":"Affiliate Disclosure"}],["$","$L4",null,{"href":"/privacy-policy/","className":"hover:text-white transition-colors","children":"Privacy Policy"}],["$","$L4",null,{"href":"/disclaimer/","className":"hover:text-white transition-colors","children":"Disclaimer"}]]}]]}]]}],["$","div",null,{"className":"bg-black/30 border-t border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 text-center text-xs text-gray-500","children":["Site by"," ",["$","a",null,{"href":"https://vyrabyte.com","target":"_blank","rel":"noopener noreferrer","className":"text-gray-400 hover:text-white transition-colors","children":"Vyrabyte"}]]}]}]]}],["$","$Lc",null,{}]]}]]}]],null],null],["$Ld",null]]]]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Moving to Florida from Canada — Immigration and Lifestyle Guide | TB Relo | TB Relo"}],["$","meta","3",{"name":"description","content":"Moving to Florida from Canada. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","6",{"property":"og:title","content":"Moving to Florida from Canada — Immigration and Lifestyle Guide | TB Relo | TB Relo"}],["$","meta","7",{"property":"og:description","content":"Moving to Florida from Canada. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","8",{"property":"og:image","content":"https://tbrelo.com/images/blog/housing.jpg"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"Moving to Florida from Canada — Immigration and Lifestyle Guide | TB Relo | TB Relo"}],["$","meta","13",{"name":"twitter:description","content":"Moving to Florida from Canada. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","14",{"name":"twitter:image","content":"https://tbrelo.com/images/blog/housing.jpg"}],["$","link","15",{"rel":"icon","href":"/icon.svg?ff4364d89c37c0d6","type":"image/svg+xml","sizes":"any"}]]
+1:null

@@ -1,0 +1,253 @@
+3:I[5878,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"Image"]
+4:I[2972,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],""]
+6:I[5143,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"default"]
+7:I[4707,[],""]
+9:I[6423,[],""]
+a:I[8003,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],""]
+b:I[7312,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"default"]
+c:I[5463,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"SpeedInsights"]
+2:Ta8f,[{"@context":"https://schema.org","@type":"Article","headline":"Best Sunscreen for Florida — SPF, Reef-Safe, and What Works | TB Relo","description":"Best Sunscreen for Florida. Honest guide from a Tampa Bay local with 23+ years of experience.","url":"https://tbrelo.com/blog/best-sunscreen-florida/","author":{"@type":"Person","name":"Barrett Henry","jobTitle":"REALTOR® & Broker Associate","url":"https://nowtb.com","worksFor":{"@type":"Organization","name":"REMAX Collective"},"knowsAbout":["Tampa Bay Real Estate","Florida Relocation","Residential Real Estate","Investment Property","Property Management"]},"publisher":{"@type":"Organization","name":"TB Relo","url":"https://tbrelo.com"},"datePublished":"2025-10-04T08:00:00-04:00","dateModified":"2026-04-16T08:00:00-04:00","image":{"@type":"ImageObject","url":"https://tbrelo.com/images/blog/best-sunscreen-florida.jpg"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What SPF do I really need for daily life in Florida?","acceptedAnswer":{"@type":"Answer","text":"SPF 30 is the minimum for Florida, but SPF 50 is smarter for daily use. The difference in protection is small, but it gives you buffer for imperfect application. For beach days or extended outdoor time, go SPF 70+."}},{"@type":"Question","name":"Are expensive sunscreens really better than drugstore brands?","acceptedAnswer":{"@type":"Answer","text":"Not always, but often yes for daily wear. Expensive sunscreens typically feel better under makeup, don't leave white casts, and layer well with other products. For body protection during beach days, drugstore brands work fine if you apply enough."}},{"@type":"Question","name":"How do I know if my sunscreen is truly reef-safe?","acceptedAnswer":{"@type":"Answer","text":"Look for mineral-only active ingredients: zinc oxide and titanium dioxide. Avoid oxybenzone, octinoxate, octocrylene, and homosalate. \"Reef-safe\" isn't regulated, so read ingredient lists carefully."}},{"@type":"Question","name":"Can I use the same sunscreen on my face and body?","acceptedAnswer":{"@type":"Answer","text":"You can, but facial sunscreens are formulated to feel lighter and work under makeup. Body sunscreens prioritize heavy-duty protection and may feel too heavy for daily face wear. Having separate products usually works better long-term."}},{"@type":"Question","name":"How long does sunscreen last in Florida heat?","acceptedAnswer":{"@type":"Answer","text":"Heat degrades sunscreen faster than normal. Replace annually even if unexpired, and never store in cars during summer. If your sunscreen changes texture, color, or smell, toss it immediately — it's no longer effective."}}]}]5:T392f,<p>Living in Tampa Bay for over two decades has taught me one thing: cheap sunscreen is expensive medicine. I've watched too many newcomers learn this lesson the hard way during their first summer at Clearwater Beach or a day fishing in Tampa Bay.</p>
+<p>Florida sun isn't playing games. Our UV index hits 10+ regularly, we get year-round exposure, and that gorgeous water reflects even more rays back at you. After 23 years of showing properties from St. Pete to Brandon, I've tried every sunscreen on the market — and watched clients discover which ones actually work versus which ones leave you looking like a lobster.</p>
+<h2>Why Florida Demands Different Sunscreen Standards</h2>
+<p>The Sunshine State presents unique challenges that your typical drugstore sunscreen wasn't designed for. Our humidity makes everything stick differently. Our intense UV requires higher protection. And if you're planning to enjoy our beaches or get out on Tampa Bay, you need reef-safe formulas that won't damage our marine ecosystems.</p>
+<p>Here's what I tell every client moving here: budget for good sunscreen like you budget for air conditioning. Both are non-negotiable for comfortable Florida living.</p>
+<h3>The Real SPF Numbers You Need</h3>
+<p>Forget SPF 15. In Florida, SPF 30 is your absolute minimum, and SPF 50 is where smart residents start. The difference between SPF 30 and 50 isn't huge (97% vs 98% UV protection), but when you're dealing with year-round intensity, that extra 1% matters.</p>
+<p><strong>SPF 70+ makes sense here</strong> — not because the protection is dramatically better, but because most people apply about half the recommended amount. Higher SPF gives you a buffer for real-world usage.</p>
+<h2>Top Sunscreen Picks for Florida Living</h2>
+<p>After testing dozens of formulas during property showings, beach days, and family outings, these are the sunscreens that actually perform in our climate.</p>
+<h3>Best Overall: EltaMD UV Clear Broad-Spectrum SPF 46</h3>
+<p><a href="%7B%7Bamazon:B002MSN3QQ%7D%7D">EltaMD UV Clear SPF 46</a> consistently tops dermatologist recommendations, and for good reason. This zinc oxide and octinoxate formula works brilliantly under Florida's humidity without that sticky feeling that makes you miserable by noon.</p>
+<p><strong>Why it works in Florida:</strong></p>
+<ul>
+<li>Lightweight formula that doesn't feel heavy in 85°F heat</li>
+<li>No white cast (crucial for daily wear)</li>
+<li>Works under makeup</li>
+<li>Fragrance-free (won't attract bugs)</li>
+<li>Price: Around $37 for 1.7 oz</li>
+</ul>
+<p>I keep a tube in every car and recommend it to clients who'll be house hunting during summer months.</p>
+<h3>Best for Beach Days: Neutrogena Ultra Sheer Dry-Touch SPF 100</h3>
+<p><a href="%7B%7Bamazon:B004D2DR0Q%7D%7D">Neutrogena Ultra Sheer SPF 100</a> is what locals grab for serious sun exposure — fishing trips, Busch Gardens days, or showing waterfront properties in Westchase.</p>
+<p><strong>Florida-specific benefits:</strong></p>
+<ul>
+<li>Helioplex technology handles our UV intensity</li>
+<li>Actually stays put when you sweat</li>
+<li>Fast-absorbing (important when you're rushing between showings)</li>
+<li>Affordable enough to use generously</li>
+<li>Price: Around $8 for 3 oz</li>
+</ul>
+<p>This is the sunscreen in my glove compartment for unexpected outdoor situations.</p>
+<h3>Best Reef-Safe Option: Blue Lizard Australian Sunscreen SPF 50</h3>
+<p><a href="%7B%7Bamazon:B01M8G39OW%7D%7D">Blue Lizard SPF 50</a> uses only mineral ingredients (zinc oxide and titanium dioxide), making it safe for our coral reefs and marine life. Essential if you're snorkeling at Three Rooker Island or diving around Anna Maria Island.</p>
+<p><strong>Marine-friendly features:</strong></p>
+<ul>
+<li>Zero chemical UV filters</li>
+<li>Biodegradable formula</li>
+<li>Water-resistant for 80 minutes</li>
+<li>Smart bottle changes color in UV light</li>
+<li>Price: Around $15 for 5 oz</li>
+</ul>
+<p>Key West banned chemical sunscreens in 2021, and several Florida counties are considering similar measures. Get ahead of the curve.</p>
+<h3>Best Spray Sunscreen: La Roche-Posay Anthelios Ultra Light SPF 60</h3>
+<p><a href="%7B%7Bamazon:B07D7J5Q4P%7D%7D">La Roche-Posay Anthelios Spray SPF 60</a> solves the spray sunscreen problem — most sprays provide uneven coverage, but this one actually works.</p>
+<p><strong>Why sprays work in Florida:</strong></p>
+<ul>
+<li>Quick application when you're sweating</li>
+<li>Great for backs and hard-to-reach spots</li>
+<li>Perfect for reapplication over clothes</li>
+<li>No sand sticking to greasy hands</li>
+<li>Price: Around $18 for 5 oz</li>
+</ul>
+<p><strong>Pro tip:</strong> Still apply lotion first, use spray for reapplication and touch-ups.</p>
+<h3>Best Budget Option: CeraVe Hydrating Sunscreen SPF 30</h3>
+<p><a href="%7B%7Bamazon:B07GSFVQP8%7D%7D">CeraVe Hydrating SPF 30</a> delivers solid protection without breaking the bank. When you need to stock multiple locations (car, office, beach bag), this makes financial sense.</p>
+<p><strong>Budget-friendly benefits:</strong></p>
+<ul>
+<li>Ceramides help repair sun damage</li>
+<li>Hyaluronic acid combats Florida's dehydrating effects</li>
+<li>Fragrance-free and gentle</li>
+<li>Works for sensitive skin</li>
+<li>Price: Around $13 for 5 oz</li>
+</ul>
+<p>Not the absolute best, but reliable daily protection that won't bankrupt you.</p>
+<h2>Specialty Sunscreens for Florida Conditions</h2>
+<h3>For Sensitive Skin: Vanicream Sunscreen SPF 50</h3>
+<p>Florida's combination of sun, heat, and humidity can irritate even non-sensitive skin. <a href="%7B%7Bamazon:B07H8QZHJY%7D%7D">Vanicream SPF 50</a> strips out common irritants while maintaining strong protection.</p>
+<p><strong>Gentle formula benefits:</strong></p>
+<ul>
+<li>No dyes, fragrances, or preservatives</li>
+<li>Recommended by dermatologists</li>
+<li>Non-comedogenic (won't clog pores in heat)</li>
+<li>Price: Around $12 for 4 oz</li>
+</ul>
+<h3>For Active Outdoor Life: Supergoop! Play SPF 50</h3>
+<p><a href="%7B%7Bamazon:B018FCZKDY%7D%7D">Supergoop! Play SPF 50</a> handles serious sweat and water exposure. Perfect for Tampa Bay's active lifestyle — tennis at Westshore, cycling the Upper Tampa Bay Trail, or kayaking through Weedon Island.</p>
+<p><strong>Performance features:</strong></p>
+<ul>
+<li>Broad-spectrum mineral protection</li>
+<li>Water and sweat resistant for 80 minutes</li>
+<li>Reef-safe formula</li>
+<li>Easy application even with wet hands</li>
+<li>Price: Around $22 for 3.4 oz</li>
+</ul>
+<h2>Florida-Specific Application Tips</h2>
+<h3>The 2-Tablespoon Rule Actually Matters Here</h3>
+<p>Most people use about 1/4 the recommended amount of sunscreen. In milder climates, you might get away with it. In Florida, skimping guarantees burns.</p>
+<p><strong>Proper amounts for average adult:</strong></p>
+<ul>
+<li>Face and neck: 1/2 teaspoon</li>
+<li>Each arm: 1/2 teaspoon</li>
+<li>Each leg: 1 teaspoon</li>
+<li>Front torso: 1 teaspoon</li>
+<li>Back torso: 1 teaspoon</li>
+</ul>
+<p>That's roughly 2 tablespoons total — more than most people think.</p>
+<h3>Reapplication Reality Check</h3>
+<p>"Water-resistant for 80 minutes" doesn't mean waterproof for 80 minutes. In Florida's heat and humidity, you're reapplying every hour, minimum.</p>
+<p><strong>Smart reapplication strategy:</strong></p>
+<ul>
+<li>Set phone alarms</li>
+<li>Carry travel sizes everywhere</li>
+<li>Use spray for quick touch-ups</li>
+<li>Apply before you feel hot (you're already getting exposure)</li>
+</ul>
+<h3>Year-Round Protection is Non-Negotiable</h3>
+<p>January in Tampa feels like spring elsewhere, but UV rays don't take winter breaks. I see snowbirds get burned in February because they underestimated our "winter" sun.</p>
+<p><strong>Florida UV index by season:</strong></p>
+<ul>
+<li>Summer: 9-11+ daily</li>
+<li>Winter: 4-7 (still requires protection)</li>
+<li>Spring/Fall: 7-9</li>
+<li>Cloudy days: Still 80% of UV gets through</li>
+</ul>
+<h2>Reef-Safe Requirements and Environmental Impact</h2>
+<p>Florida's marine ecosystems face enough pressure without adding sunscreen chemicals. Key West's ban on oxybenzone and octinoxate sunscreens reflects growing environmental awareness.</p>
+<h3>Ingredients to Avoid Near Water</h3>
+<p><strong>Chemical filters that harm coral:</strong></p>
+<ul>
+<li>Oxybenzone</li>
+<li>Octinoxate</li>
+<li>Octocrylene</li>
+<li>Homosalate</li>
+</ul>
+<p><strong>Reef-safe alternatives:</strong></p>
+<ul>
+<li>Zinc oxide</li>
+<li>Titanium dioxide</li>
+<li>Non-nano mineral formulas</li>
+</ul>
+<h3>Where Reef-Safe Matters Most</h3>
+<p><strong>Definitely use reef-safe sunscreen:</strong></p>
+<ul>
+<li>Any Gulf beaches</li>
+<li>Tampa Bay waters</li>
+<li>Snorkeling/diving trips</li>
+<li>Kayaking in mangroves</li>
+<li>Fishing in shallow waters</li>
+</ul>
+<hr>
+<p><strong>Moving to Tampa Bay?</strong> Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.</p>
+<p><a href="https://nowtb.com">Contact Barrett →</a> | <a href="tel:8137337907">(813) 733-7907</a></p>
+<hr>
+<h2>Special Considerations for Florida Residents</h2>
+<h3>Kids and Sunscreen</h3>
+<p>Florida kids need sunscreen daily — not just beach days. School pickup lines, soccer practices, and playground time all happen under intense sun.</p>
+<p><strong>Kid-specific recommendations:</strong></p>
+<ul>
+<li>Mineral sunscreens for under 6 months</li>
+<li>SPF 50 minimum for active kids</li>
+<li>Fun application tools (they'll actually use them)</li>
+<li>Spray sunscreens for squirmy toddlers</li>
+</ul>
+<h3>Sunscreen and Makeup</h3>
+<p>Living here means wearing sunscreen under makeup year-round. Look for formulas that layer well and don't pill under foundation.</p>
+<p><strong>Best makeup-friendly options:</strong></p>
+<ul>
+<li>EltaMD UV Clear (classic choice)</li>
+<li>La Roche-Posay Anthelios Ultra Light Fluid</li>
+<li>Supergoop! Unseen Sunscreen</li>
+</ul>
+<h3>Cost-Effective Strategies</h3>
+<p>Quality sunscreen isn't cheap, but skin cancer treatment costs infinitely more. Smart approaches to manage costs:</p>
+<p><strong>Money-saving tips:</strong></p>
+<ul>
+<li>Buy larger sizes (better per-ounce value)</li>
+<li>Stock up during sales</li>
+<li>Use store brands for body, premium for face</li>
+<li>Consider subscription services for regular delivery</li>
+</ul>
+<h2>Common Florida Sunscreen Mistakes</h2>
+<h3>Mistake 1: Waiting Until You're at the Beach</h3>
+<p>Sunscreen needs 15-30 minutes to bind with skin. Applying in the parking lot at Honeymoon Island is too late.</p>
+<h3>Mistake 2: Ignoring Cloudy Days</h3>
+<p>Florida's clouds are often thin. UV penetrates, but you feel cooler, so you stay out longer. Recipe for disaster.</p>
+<h3>Mistake 3: Forgetting Commonly Missed Spots</h3>
+<p><strong>Areas people consistently miss:</strong></p>
+<ul>
+<li>Ears and behind ears</li>
+<li>Feet and between toes</li>
+<li>Lips (use SPF lip balm)</li>
+<li>Scalp part lines</li>
+<li>Backs of hands</li>
+</ul>
+<h3>Mistake 4: Assuming Dark Skin Doesn't Need Protection</h3>
+<p>Melanin provides some natural protection (roughly SPF 4), but everyone burns in Florida sun. Darker skin also shows sun damage differently — more hyperpigmentation than redness.</p>
+<h3>Mistake 5: Using Expired Sunscreen</h3>
+<p>Florida heat degrades sunscreen faster. Check expiration dates religiously, especially on products stored in cars or garages.</p>
+<h2>Storage and Shelf Life in Florida Heat</h2>
+<p>Heat destroys sunscreen effectiveness. Your car's glove compartment in July hits 140°F+ — hot enough to break down active ingredients.</p>
+<p><strong>Proper Florida storage:</strong></p>
+<ul>
+<li>Cool, dry places indoors</li>
+<li>Not in cars during summer</li>
+<li>Replace annually (heat degrades even unexpired products)</li>
+<li>Consider insulated bags for beach trips</li>
+</ul>
+<h2>Professional Recommendations vs. Real-World Testing</h2>
+<p>Dermatologists recommend specific brands, but living here teaches you practical realities. The best sunscreen is the one you'll actually use consistently.</p>
+<p><strong>My practical hierarchy:</strong></p>
+<ol>
+<li>Daily face sunscreen (lightweight, cosmetically elegant)</li>
+<li>Heavy-duty body sunscreen (serious protection for outdoor time)</li>
+<li>Backup spray (easy reapplication)</li>
+<li>Lip protection (often forgotten)</li>
+<li>After-sun care (aloe, moisturizer)</li>
+</ol>
+<h2>Making Sunscreen Part of Your Florida Routine</h2>
+<p><strong>Morning routine additions:</strong></p>
+<ul>
+<li>Face sunscreen after moisturizer</li>
+<li>Neck and ears (often forgotten)</li>
+<li>Hands (you'll be driving in sun)</li>
+<li>Lips with SPF balm</li>
+</ul>
+<p><strong>Car essentials:</strong></p>
+<ul>
+<li>Travel-size spray</li>
+<li>Lip balm with SPF</li>
+<li>After-sun gel for emergencies</li>
+</ul>
+<p><strong>Beach bag musts:</strong></p>
+<ul>
+<li>Primary sunscreen</li>
+<li>Spray for reapplication</li>
+<li>Zinc stick for nose/shoulders</li>
+<li>Aloe gel backup</li>
+</ul>
+<p>The key to Florida sunscreen success isn't finding one perfect product — it's building a system that works with your lifestyle and keeps you protected year-round.</p>
+<h2>Frequently Asked Questions</h2>
+<h3>What SPF do I really need for daily life in Florida?</h3>
+<p>SPF 30 is the minimum for Florida, but SPF 50 is smarter for daily use. The difference in protection is small, but it gives you buffer for imperfect application. For beach days or extended outdoor time, go SPF 70+.</p>
+<h3>Are expensive sunscreens really better than drugstore brands?</h3>
+<p>Not always, but often yes for daily wear. Expensive sunscreens typically feel better under makeup, don't leave white casts, and layer well with other products. For body protection during beach days, drugstore brands work fine if you apply enough.</p>
+<h3>How do I know if my sunscreen is truly reef-safe?</h3>
+<p>Look for mineral-only active ingredients: zinc oxide and titanium dioxide. Avoid oxybenzone, octinoxate, octocrylene, and homosalate. "Reef-safe" isn't regulated, so read ingredient lists carefully.</p>
+<h3>Can I use the same sunscreen on my face and body?</h3>
+<p>You can, but facial sunscreens are formulated to feel lighter and work under makeup. Body sunscreens prioritize heavy-duty protection and may feel too heavy for daily face wear. Having separate products usually works better long-term.</p>
+<h3>How long does sunscreen last in Florida heat?</h3>
+<p>Heat degrades sunscreen faster than normal. Replace annually even if unexpired, and never store in cars during summer. If your sunscreen changes texture, color, or smell, toss it immediately — it's no longer effective.</p>
+8:["slug","best-sunscreen-florida","d"]
+0:["SZLIdUDBKVit2TP_UqbYL",[[["",{"children":["blog",{"children":[["slug","best-sunscreen-florida","d"],{"children":["__PAGE__?{\"slug\":\"best-sunscreen-florida\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","best-sunscreen-florida","d"],{"children":["__PAGE__",{},[["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","section",null,{"className":"relative w-full h-[200px] md:h-[300px] overflow-hidden bg-brand-navy","children":[["$","$L3",null,{"src":"/images/blog/best-sunscreen-florida.jpg","alt":"Best Sunscreen for Florida — SPF, Reef-Safe, and What Works","fill":true,"className":"object-cover","unoptimized":true,"priority":true}],["$","div",null,{"className":"absolute inset-0 bg-brand-navy/60"}],["$","div",null,{"className":"relative z-10 flex flex-col items-center justify-center h-full px-4 text-center","children":[["$","h1",null,{"className":"text-white text-3xl md:text-5xl font-display font-extrabold leading-tight max-w-4xl","children":"Best Sunscreen for Florida — SPF, Reef-Safe, and What Works"}],"$undefined"]}]]}],["$","article",null,{"className":"max-w-4xl mx-auto px-4 py-10","children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://tbrelo.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://tbrelo.com/blog/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Best Sunscreen for Florida — SPF, Reef-Safe, and What Works\",\"item\":\"https://tbrelo.com/blog/best-sunscreen-florida/\"}]}"}}],["$","nav",null,{"aria-label":"Breadcrumb","className":"text-sm text-brand-slate mb-6","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-1","children":[["$","li","/",{"className":"flex items-center gap-1","children":[false,["$","$L4",null,{"href":"/","className":"hover:text-brand-blue transition-colors","children":"Home"}]]}],["$","li","/blog/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","$L4",null,{"href":"/blog/","className":"hover:text-brand-blue transition-colors","children":"Blog"}]]}],["$","li","/blog/best-sunscreen-florida/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","span",null,{"className":"text-brand-navy font-medium","children":"Best Sunscreen for Florida — SPF, Reef-Safe, and What Works"}]]}]]}]}]],["$","p",null,{"className":"text-brand-slate text-sm mb-8","children":["Published ","October 4, 2025"]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$5"}}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"cta-box-primary","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-white","children":"Moving to Tampa Bay? Get a Local Expert."}],["$","p",null,{"className":"text-sm mb-4 text-white","children":"Barrett Henry is a Broker Associate with REMAX Collective and over 23 years of real estate experience. Straight talk, smart strategy, no pressure."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-blue text-white hover:bg-blue-600","children":["Contact Barrett"," →"]}],["$","a",null,{"href":"tel:8137337907","className":"text-sm text-white","children":"(813) 733-7907"}]]}]]}],["$","div",null,{"className":"cta-box","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-brand-navy","children":"Need Help Setting Up Your New Home?"}],["$","p",null,{"className":"text-sm mb-4 text-brand-slate","children":"Best Bay Services handles handyman work, home repairs, and maintenance for your new Tampa Bay home. Local, licensed, and trusted."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-navy text-white hover:bg-brand-dark","children":["Get a Quote"," →"]}],["$","a",null,{"href":"tel:8134168676","className":"text-sm text-brand-blue","children":"(813) 416-8676"}]]}]]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","$L6",null,{"blogSlug":"best-sunscreen-florida"}]]}]],null],null],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$8","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/db2729ad4a9f0783.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link",null,{"rel":"icon","href":"/favicon-32.png","type":"image/png","sizes":"32x32"}],["$","link",null,{"rel":"icon","href":"/favicon-16.png","type":"image/png","sizes":"16x16"}],["$","link",null,{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link",null,{"rel":"icon","href":"/icon-192.png","type":"image/png","sizes":"192x192"}],["$","meta",null,{"name":"google-adsense-account","content":"ca-pub-2033173419526042"}],["$","meta",null,{"name":"impact-site-verification","content":"bb623f40-9653-4312-9ca8-bf35b957a10c"}],["$","$La",null,{"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2033173419526042","strategy":"afterInteractive","crossOrigin":"anonymous"}],["$","$La",null,{"src":"https://www.googletagmanager.com/gtag/js?id=G-TD87S02SLM","strategy":"afterInteractive"}],["$","$La",null,{"id":"gtag-init","strategy":"afterInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'G-TD87S02SLM');\n          "}]]}],["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"[{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"https://tbrelo.com/#website\",\"name\":\"TB Relo — Tampa Bay Relocation Guide\",\"url\":\"https://tbrelo.com\",\"description\":\"Comprehensive relocation guides for Tampa Bay, Florida. Covering 8 counties, 100+ cities, cost of living, schools, and everything you need to know about moving to Tampa Bay.\",\"publisher\":{\"@id\":\"https://tbrelo.com/#org\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://tbrelo.com/blog/?q={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}},{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://tbrelo.com/#org\",\"name\":\"TB Relo\",\"url\":\"https://tbrelo.com\",\"sameAs\":[\"https://nowtb.com\",\"https://valricoagent.com\",\"https://parrishagent.com\",\"https://www.facebook.com/BarrettHenryREALTOR/\",\"https://www.instagram.com/thenowteam\",\"https://www.youtube.com/@nowtampa\"]}]"}}],["$","$Lb",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"max-w-2xl mx-auto px-4 py-20 text-center","children":[["$","h1",null,{"className":"text-6xl font-display font-extrabold text-brand-navy mb-4","children":"404"}],["$","p",null,{"className":"text-xl text-brand-slate mb-8","children":"This page doesn't exist. Maybe you're looking for one of these?"}],["$","div",null,{"className":"grid sm:grid-cols-2 gap-4 mb-12 text-left","children":[["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Moving Guide"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Complete guide to relocating to Tampa Bay"}]]}],["$","$L4",null,{"href":"/counties/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Explore Counties"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Browse all 8 Tampa Bay counties"}]]}],["$","$L4",null,{"href":"/cities/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Find a City"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"90+ city and neighborhood guides"}]]}],["$","$L4",null,{"href":"/blog/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Blog"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Tips, comparisons, and local insights"}]]}]]}],["$","$L4",null,{"href":"/","className":"px-8 py-4 bg-brand-blue text-white font-display font-bold rounded-lg hover:bg-blue-600 transition-colors text-lg inline-block","children":"Back to Home"}]]}],"notFoundStyles":[]}]}],["$","footer",null,{"className":"bg-brand-dark text-gray-400","children":[["$","div",null,{"className":"bg-brand-navy","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10","children":["$","div",null,{"className":"grid md:grid-cols-3 gap-8 text-center","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Buying or Selling a Home?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Barrett Henry — The NOW Team at REMAX Collective"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 733-7907"}]]}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Need a Handyman?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Best Bay Services — Tampa Bay Home Services"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 416-8676"}]]}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Property Management"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"ViVi PM — Full-Service Property Management"}]]}]]}]}]}],["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8","children":[["$","div",null,{"className":"md:col-span-2","children":[["$","div",null,{"className":"font-display font-extrabold text-2xl text-white mb-3","children":["TB",["$","span",null,{"className":"text-brand-sky","children":"Relo"}]]}],["$","p",null,{"className":"text-sm leading-relaxed","children":"Your complete guide to relocating to Tampa Bay, Florida. Covering Hillsborough, Pinellas, Pasco, Hernando, Polk, Manatee, Sarasota, and Citrus counties with honest, local insight from someone who actually lives here."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Guides"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"hover:text-white transition-colors","children":"Moving to Tampa Bay"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/cost-of-living/","className":"hover:text-white transition-colors","children":"Cost of Living"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/moving-checklist/","className":"hover:text-white transition-colors","children":"Moving Checklist"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/blog/","className":"hover:text-white transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Counties"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li","Hillsborough",{"children":["$","$L4",null,{"href":"/counties/hillsborough/","className":"hover:text-white transition-colors","children":["Hillsborough"," County"]}]}],["$","li","Pinellas",{"children":["$","$L4",null,{"href":"/counties/pinellas/","className":"hover:text-white transition-colors","children":["Pinellas"," County"]}]}],["$","li","Pasco",{"children":["$","$L4",null,{"href":"/counties/pasco/","className":"hover:text-white transition-colors","children":["Pasco"," County"]}]}],["$","li","Hernando",{"children":["$","$L4",null,{"href":"/counties/hernando/","className":"hover:text-white transition-colors","children":["Hernando"," County"]}]}],["$","li","Polk",{"children":["$","$L4",null,{"href":"/counties/polk/","className":"hover:text-white transition-colors","children":["Polk"," County"]}]}],["$","li","Manatee",{"children":["$","$L4",null,{"href":"/counties/manatee/","className":"hover:text-white transition-colors","children":["Manatee"," County"]}]}],["$","li","Sarasota",{"children":["$","$L4",null,{"href":"/counties/sarasota/","className":"hover:text-white transition-colors","children":["Sarasota"," County"]}]}],["$","li","Citrus",{"children":["$","$L4",null,{"href":"/counties/citrus/","className":"hover:text-white transition-colors","children":["Citrus"," County"]}]}]]}]]}]]}],["$","div",null,{"className":"mt-10 pt-8 border-t border-gray-800","children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Barrett Henry's Network"}],["$","div",null,{"className":"grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3 text-sm","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Tampa Bay Real Estate"}],["$","a",null,{"href":"https://valricoagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Real Estate"}],["$","a",null,{"href":"https://parrishagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Parrish Real Estate"}],["$","a",null,{"href":"https://valrico.blog","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Community Blog"}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Handyman & Home Services"}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Property Management"}]]}]]}],["$","div",null,{"className":"mt-12 pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center gap-4 text-xs","children":[["$","p",null,{"children":["© ",2026," TB Relo. All rights reserved."]}],["$","div",null,{"className":"flex gap-4","children":[["$","$L4",null,{"href":"/affiliate-disclosure/","className":"hover:text-white transition-colors","children":"Affiliate Disclosure"}],["$","$L4",null,{"href":"/privacy-policy/","className":"hover:text-white transition-colors","children":"Privacy Policy"}],["$","$L4",null,{"href":"/disclaimer/","className":"hover:text-white transition-colors","children":"Disclaimer"}]]}]]}]]}],["$","div",null,{"className":"bg-black/30 border-t border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 text-center text-xs text-gray-500","children":["Site by"," ",["$","a",null,{"href":"https://vyrabyte.com","target":"_blank","rel":"noopener noreferrer","className":"text-gray-400 hover:text-white transition-colors","children":"Vyrabyte"}]]}]}]]}],["$","$Lc",null,{}]]}]]}]],null],null],["$Ld",null]]]]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Best Sunscreen for Florida — SPF, Reef-Safe, and What Works | TB Relo | TB Relo"}],["$","meta","3",{"name":"description","content":"Best Sunscreen for Florida. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","6",{"property":"og:title","content":"Best Sunscreen for Florida — SPF, Reef-Safe, and What Works | TB Relo | TB Relo"}],["$","meta","7",{"property":"og:description","content":"Best Sunscreen for Florida. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","8",{"property":"og:image","content":"https://tbrelo.com/images/blog/best-sunscreen-florida.jpg"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"Best Sunscreen for Florida — SPF, Reef-Safe, and What Works | TB Relo | TB Relo"}],["$","meta","13",{"name":"twitter:description","content":"Best Sunscreen for Florida. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","14",{"name":"twitter:image","content":"https://tbrelo.com/images/blog/best-sunscreen-florida.jpg"}],["$","link","15",{"rel":"icon","href":"/icon.svg?ff4364d89c37c0d6","type":"image/svg+xml","sizes":"any"}]]
+1:null

@@ -1,0 +1,218 @@
+3:I[5878,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"Image"]
+4:I[2972,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],""]
+6:I[5143,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"default"]
+7:I[4707,[],""]
+9:I[6423,[],""]
+a:I[8003,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],""]
+b:I[7312,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"default"]
+c:I[5463,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"SpeedInsights"]
+2:Tda1,[{"@context":"https://schema.org","@type":"Article","headline":"Tampa Bay Road Construction Updates — What's Being Built | TB Relo","description":"Tampa Bay Road Construction Updates. Honest guide from a Tampa Bay local with 23+ years of experience.","url":"https://tbrelo.com/blog/tampa-bay-road-construction-updates/","author":{"@type":"Person","name":"Barrett Henry","jobTitle":"REALTOR® & Broker Associate","url":"https://nowtb.com","worksFor":{"@type":"Organization","name":"REMAX Collective"},"knowsAbout":["Tampa Bay Real Estate","Florida Relocation","Residential Real Estate","Investment Property","Property Management"]},"publisher":{"@type":"Organization","name":"TB Relo","url":"https://tbrelo.com"},"datePublished":"2026-02-18T08:00:00-04:00","dateModified":"2026-04-16T08:00:00-04:00","image":{"@type":"ImageObject","url":"https://tbrelo.com/images/blog/housing.jpg"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"When will the Howard Frankland Bridge construction be completely finished?","acceptedAnswer":{"@type":"Answer","text":"The new northbound span opened in 2024, and the southbound reconstruction will complete in late 2025. Once finished, you'll have six total lanes (three each direction) with proper shoulders, eliminating the decades-old bottleneck that has plagued Tampa Bay commuters."}},{"@type":"Question","name":"How long will the Gateway Expressway extension take to complete?","acceptedAnswer":{"@type":"Answer","text":"Phase 1 from Roosevelt to 49th Street completed in 2024. Phase 2 extending to US 19 in St. Petersburg will finish in late 2026. This $320 million project will cut commute times from North Pinellas to downtown St. Pete by 20-25 minutes."}},{"@type":"Question","name":"What's the best way to avoid construction delays during my daily commute?","acceptedAnswer":{"@type":"Answer","text":"Check FL511.com or the FDOT app before leaving, and learn multiple routes to your destination. Construction typically happens 9 PM to 6 AM on weeknights, with the heaviest traffic impact during 7-9 AM and 4:30-6:30 PM. Adjusting your departure time by 30 minutes can save significant time."}},{"@type":"Question","name":"Will construction affect my property value if I buy near active projects?","acceptedAnswer":{"@type":"Answer","text":"Active construction typically causes temporary 3-5% price discounts, but properties near completed transportation improvements see 8-15% premiums once projects finish. Areas near the new Howard Frankland span have seen 15% appreciation since 2023, well above the regional average."}},{"@type":"Question","name":"How do I stay updated on road construction affecting my area?","acceptedAnswer":{"@type":"Answer","text":"Sign up for FDOT District 7 email alerts, download the FL511 app for real-time traffic conditions, and follow local county construction notifications. I recommend checking these resources before your commute and signing up for project-specific alerts on routes you use regularly."}},{"@type":"Question","name":"Are there any major transit projects coming besides road construction?","acceptedAnswer":{"@type":"Answer","text":"HART's NetBus rapid transit system launches on Dale Mabry in 2025 with Fletcher Avenue service in 2026. Hillsborough County is planning a $12 billion transportation referendum for 2026 that could include light rail connecting Tampa, Temple Terrace, and Brandon, plus enhanced bus service throughout the region."}}]}]5:T41a0,<p>If you're moving to Tampa Bay or already live here, you've probably noticed we're in the middle of the biggest transportation transformation in decades. Between major highway expansions, new bridges, and transit projects, it feels like half the region is under construction. As someone who's been driving these roads since the late '90s, I can tell you — the short-term pain is worth the long-term gain.</p>
+<p>Here's what's actually being built, when it'll be done, and how it affects your daily commute.</p>
+<h2>Major Highway Projects Reshaping the Region</h2>
+<h3>I-275 Howard Frankland Bridge Replacement</h3>
+<p>The big one everyone's talking about. The new northbound Howard Frankland Bridge opened in 2024, and now FDOT is reconstructing the southbound span. This $865 million project will completely replace the 1959 bridge that's been a bottleneck for decades.</p>
+<p><strong>Timeline:</strong> Southbound bridge replacement completion by late 2025
+<strong>Impact:</strong> Expect 10-15 minute delays during peak hours until completion
+<strong>Long-term benefit:</strong> Six lanes total (three each direction) with 12-foot shoulders</p>
+<p>The old bridge carried 175,000 vehicles daily — well beyond its 100,000-vehicle design capacity. Once complete, you'll actually enjoy crossing Tampa Bay instead of white-knuckling through traffic.</p>
+<h3>I-4 Ultimate Project Completion</h3>
+<p>While most of I-4 Ultimate is done, final touches continue through downtown Tampa and the connection to I-275. The remaining work focuses on finishing touches and landscape improvements.</p>
+<p><strong>Current status:</strong> 95% complete as of early 2025
+<strong>Final completion:</strong> Summer 2025
+<strong>Key improvement:</strong> Express lanes from Kirkman Road to I-275</p>
+<p>The express lanes have already cut my downtown Tampa to Disney commute from 90 minutes to 65 minutes during peak times.</p>
+<h3>Gateway Expressway Extension</h3>
+<p>This one's huge for North Pinellas County. The Gateway Expressway currently ends at Roosevelt Boulevard, but FDOT is extending it to US 19 in St. Petersburg.</p>
+<p><strong>Phase 1:</strong> Roosevelt to 49th Street — completed 2024
+<strong>Phase 2:</strong> 49th Street to US 19 — completion scheduled late 2026
+<strong>Cost:</strong> $320 million total</p>
+<p>For families in <a href="/cities/clearwater/">Clearwater</a> or <a href="/cities/safety-harbor/">Safety Harbor</a>, this will slash commute times to downtown St. Pete by 20-25 minutes.</p>
+<h2>Bridge Projects You Need to Know</h2>
+<h3>Bayside Bridge Reconstruction</h3>
+<p>The Bayside Bridge connecting South Tampa to Westshore is getting a complete rebuild. This isn't just a repair — it's a total reconstruction with wider lanes and better pedestrian access.</p>
+<p><strong>Current status:</strong> Bridge remains open with lane restrictions
+<strong>Completion:</strong> Fall 2025
+<strong>Investment:</strong> $45 million</p>
+<p>If you work in Westshore but live in <a href="/neighborhoods/south-tampa/">South Tampa</a>, plan an extra 10 minutes until this wraps up.</p>
+<h3>Gandy Bridge Improvements</h3>
+<p>The Gandy Bridge is getting major rehabilitation work, including deck replacement and structural upgrades. At 94 years old, this bridge connects Tampa directly to St. Petersburg and carries 70,000 vehicles daily.</p>
+<p><strong>Timeline:</strong> 18-month project, completion mid-2026
+<strong>Traffic impact:</strong> Frequent lane closures, especially weeknight work
+<strong>Alternative routes:</strong> Howard Frankland or Courtney Campbell</p>
+<h3>Memorial Causeway Enhancement</h3>
+<p>Clearwater's Memorial Causeway is undergoing a $28 million improvement project focusing on the drawbridge mechanism and roadway surface.</p>
+<p><strong>Duration:</strong> 14 months (started January 2025)
+<strong>Main challenge:</strong> Beach traffic during summer months
+<strong>Benefit:</strong> Reduced bridge openings and smoother traffic flow</p>
+<h2>Local Road Construction Hotspots</h2>
+<h3>Dale Mabry Highway Expansion</h3>
+<p>From Henderson Boulevard to Waters Avenue, Dale Mabry is being widened from four to six lanes. This stretch has been a nightmare during rush hour for years.</p>
+<p><strong>Timeline:</strong> Completion spring 2026
+<strong>Current impact:</strong> One lane each direction during peak construction hours
+<strong>Long-term relief:</strong> 40% reduction in travel time through this corridor</p>
+<h3>Westshore Boulevard Improvements</h3>
+<p>The stretch from Kennedy to Gandy is getting complete reconstruction with dedicated turn lanes and improved traffic signals.</p>
+<p><strong>Project cost:</strong> $18 million
+<strong>Duration:</strong> 20 months (completion late 2025)
+<strong>Key benefit:</strong> Better access to Westshore business district</p>
+<h3>Bruce B. Downs Boulevard Extension</h3>
+<p>Continuing the extension from Thonotosassa Road to State Road 54 in Pasco County. This opens up new development areas in <a href="/cities/wesley-chapel/">Wesley Chapel</a> and eastern Hillsborough.</p>
+<p><strong>Phase completion:</strong> Early 2026
+<strong>Impact:</strong> Major relief for I-75 commuters
+<strong>Development:</strong> Expect new shopping and housing along this corridor</p>
+<h2>Transit and Alternative Transportation</h2>
+<h3>HART Bus Rapid Transit</h3>
+<p>The HART NetBus rapid transit system is expanding with dedicated bus lanes along major corridors.</p>
+<p><strong>Phase 1:</strong> Dale Mabry corridor — operational 2025
+<strong>Phase 2:</strong> Fletcher Avenue — completion 2026
+<strong>Features:</strong> 15-minute frequency, dedicated lanes, enhanced stations</p>
+<h3>SkyConnect Expansion Planning</h3>
+<p>While not under active construction, Tampa International Airport's SkyConnect is being studied for extension to Westshore business district and potentially downtown Tampa.</p>
+<p><strong>Study completion:</strong> Late 2025
+<strong>Potential construction start:</strong> 2027
+<strong>Investment estimate:</strong> $400-500 million</p>
+<h3>Pinellas Trail Extensions</h3>
+<p>New connections are being built to link the Pinellas Trail to downtown St. Petersburg and Clearwater Beach.</p>
+<p><strong>St. Pete connection:</strong> Opens summer 2025
+<strong>Clearwater Beach spur:</strong> Completion fall 2026
+<strong>Usage impact:</strong> Expected 30% increase in trail usage</p>
+<h2>How Construction Affects Your Commute</h2>
+<h3>Best Alternative Routes During Peak Construction</h3>
+<p><strong>From South Tampa to Downtown:</strong> Take Bayshore Boulevard to Platt Street instead of Dale Mabry
+<strong>Clearwater to Tampa:</strong> Use Courtney Campbell instead of Howard Frankland during afternoon rush
+<strong>Wesley Chapel to Tampa:</strong> SR-56 to I-275 often faster than I-75 during construction</p>
+<h3>Timing Your Travel</h3>
+<p>Construction typically happens during these windows:</p>
+<ul>
+<li><strong>Heavy work:</strong> 9 PM to 6 AM weeknights</li>
+<li><strong>Weekend closures:</strong> Friday 10 PM to Monday 5 AM</li>
+<li><strong>Peak impact hours:</strong> 7-9 AM and 4:30-6:30 PM</li>
+</ul>
+<p>Check FL511.com or the FDOT app before leaving. I've saved countless hours by adjusting departure times by just 30 minutes.</p>
+<h2>Completed Projects Making a Difference</h2>
+<h3>Selmon Expressway Extension</h3>
+<p>The Selmon extension to Gandy Boulevard opened in 2024 and has been a game-changer for South Tampa residents working downtown.</p>
+<p><strong>Result:</strong> 15-20 minute time savings during rush hour
+<strong>Usage:</strong> 25,000 vehicles daily (above projections)
+<strong>Benefit:</strong> Reduced pressure on Bayshore and Dale Mabry</p>
+<h3>I-275 at Malfunction Junction</h3>
+<p>The infamous "Malfunction Junction" where I-275 meets I-4 downtown got a complete rebuild. The new configuration eliminated most of the dangerous weaving.</p>
+<p><strong>Accident reduction:</strong> 45% fewer crashes since completion
+<strong>Traffic flow:</strong> 25% improvement in peak-hour speeds
+<strong>Design life:</strong> Built to last 50+ years</p>
+<h2>What's Coming After 2026</h2>
+<h3>Long-Range Transportation Planning</h3>
+<p><strong>Hillsborough County</strong> is planning a $12 billion transportation referendum for 2026, focusing on:</p>
+<ul>
+<li>Light rail connecting Tampa, Temple Terrace, and Brandon</li>
+<li>Express bus service to major employment centers</li>
+<li>Complete streets with bike lanes and sidewalks</li>
+</ul>
+<p><strong>Pinellas County</strong> continues studying:</p>
+<ul>
+<li>Light rail along major corridors</li>
+<li>Enhanced bus rapid transit</li>
+<li>Additional trail connections</li>
+</ul>
+<h3>Future Highway Projects</h3>
+<p><strong>I-75 Widening:</strong> From SR-54 to I-4 — potential start 2027
+<strong>US-41 Improvements:</strong> Through South Tampa — planning phase
+<strong>SR-60 Enhancement:</strong> Clearwater to Tampa — environmental studies underway</p>
+<hr>
+<p><strong>Moving to Tampa Bay?</strong> Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.</p>
+<p><a href="https://nowtb.com">Contact Barrett →</a> | <a href="tel:8137337907">(813) 733-7907</a></p>
+<hr>
+<h2>Planning Your Move Around Construction</h2>
+<h3>Best Neighborhoods for Construction Avoidance</h3>
+<p>If you're moving here and want to minimize construction headaches:</p>
+<p><strong>Low-impact areas:</strong></p>
+<ul>
+<li><a href="/neighborhoods/hyde-park/">Hyde Park</a> — central location, multiple route options</li>
+<li><a href="/cities/st-petersburg/">Downtown St. Petersburg</a> — walkable, less car-dependent</li>
+<li><a href="/neighborhoods/seminole-heights/">Seminole Heights</a> — good access to completed projects</li>
+</ul>
+<p><strong>Higher-impact areas:</strong></p>
+<ul>
+<li>Westshore (until Bayside Bridge completes)</li>
+<li>North Pinellas (until Gateway extension finishes)</li>
+<li>Eastern Hillsborough (ongoing development-related construction)</li>
+</ul>
+<h3>Home Buying Considerations</h3>
+<p>When looking at properties, consider:</p>
+<ul>
+<li><strong>Proximity to completed projects</strong> like the new Howard Frankland span</li>
+<li><strong>Multiple route options</strong> to avoid being trapped by single construction projects</li>
+<li><strong>Future development patterns</strong> along new road corridors</li>
+</ul>
+<p>I always tell my buyers: temporary construction inconvenience often means you're buying in an area that's improving. Properties near major transportation improvements typically see 8-12% higher appreciation rates.</p>
+<h2>Construction Impact on Property Values</h2>
+<h3>Positive Long-Term Effects</h3>
+<p><strong>Near completed projects:</strong></p>
+<ul>
+<li>Howard Frankland corridor: 15% price appreciation since 2023</li>
+<li>Selmon extension area: 12% above regional average</li>
+<li>I-4 Ultimate corridor: 10% premium for easy highway access</li>
+</ul>
+<p><strong>Near active construction:</strong></p>
+<ul>
+<li>Temporary 3-5% discount during heavy construction phases</li>
+<li>8-15% premium once projects complete</li>
+<li>Faster sales times post-completion</li>
+</ul>
+<h3>Investment Opportunities</h3>
+<p>Smart investors are buying near:</p>
+<ul>
+<li>Gateway Expressway extension route</li>
+<li>Planned transit corridors</li>
+<li>Bruce B. Downs extension area</li>
+</ul>
+<p>The key is timing — buy during construction when prices are temporarily depressed, then benefit from the completed infrastructure.</p>
+<h2>Real Talk on Living Through Construction</h2>
+<p>Having lived through Tampa's explosive growth, here's what I tell every client:</p>
+<p><strong>Yes, it's frustrating.</strong> Some mornings you'll leave 20 minutes early and still be late.</p>
+<p><strong>Yes, it's worth it.</strong> The infrastructure we're building now will serve this region for decades.</p>
+<p><strong>Be flexible.</strong> Download traffic apps, learn multiple routes, and adjust your schedule when possible.</p>
+<p><strong>Think long-term.</strong> These projects are driven by Tampa Bay's continued population growth — we're expecting another 400,000 residents by 2030.</p>
+<p>The traffic you're sitting in today? That's the sound of a region investing in its future. And property values consistently reflect that investment.</p>
+<h2>Staying Informed</h2>
+<h3>Best Resources for Real-Time Updates</h3>
+<p><strong>FDOT District 7 website:</strong> Real-time construction updates and detour maps
+<strong>FL511 app:</strong> Live traffic conditions and incident reports<br>
+<strong>Local news traffic reports:</strong> I recommend FOX 13's traffic team for morning commute planning
+<strong>HART app:</strong> Real-time bus schedules and service alerts</p>
+<h3>Construction Notification Services</h3>
+<p>Sign up for:</p>
+<ul>
+<li>FDOT project email alerts for your regular routes</li>
+<li>County construction notifications for local projects</li>
+<li>City alerts if you live in incorporated areas</li>
+</ul>
+<p>I get notifications for all major projects affecting my clients' commutes. It's part of knowing the market — and it helps me advise buyers on timing their purchases.</p>
+<hr>
+<p><strong>Need help navigating Tampa Bay's changing landscape?</strong> Barrett Henry knows every neighborhood, every project, and every shortcut.</p>
+<p><a href="https://nowtb.com">Contact Barrett →</a> | <a href="tel:8137337907">(813) 733-7907</a></p>
+<hr>
+<h2>The Bottom Line</h2>
+<p>Tampa Bay's construction boom represents the largest infrastructure investment in the region's history. While the short-term inconvenience is real, we're building the transportation network that will support 4+ million residents.</p>
+<p>For newcomers, my advice is simple: embrace the chaos. Learn alternative routes, be patient with timing, and remember that you're moving to a region that's actively improving itself.</p>
+<p>For current residents: hang in there. The worst of the Howard Frankland and I-4 work is behind us, and the remaining projects will wrap up by 2026.</p>
+<p>For investors: construction creates both challenges and opportunities. The key is understanding which projects create lasting value and which are just temporary fixes.</p>
+<p>After 23 years of helping families navigate Tampa Bay real estate, I can tell you that today's construction zones become tomorrow's most desirable neighborhoods. The region's commitment to infrastructure improvement is exactly why Tampa Bay continues to attract families, businesses, and investment.</p>
+<p>Plan accordingly, stay informed, and remember — we're building something special here.</p>
+<h2>Frequently Asked Questions</h2>
+<h3>When will the Howard Frankland Bridge construction be completely finished?</h3>
+<p>The new northbound span opened in 2024, and the southbound reconstruction will complete in late 2025. Once finished, you'll have six total lanes (three each direction) with proper shoulders, eliminating the decades-old bottleneck that has plagued Tampa Bay commuters.</p>
+<h3>How long will the Gateway Expressway extension take to complete?</h3>
+<p>Phase 1 from Roosevelt to 49th Street completed in 2024. Phase 2 extending to US 19 in St. Petersburg will finish in late 2026. This $320 million project will cut commute times from North Pinellas to downtown St. Pete by 20-25 minutes.</p>
+<h3>What's the best way to avoid construction delays during my daily commute?</h3>
+<p>Check FL511.com or the FDOT app before leaving, and learn multiple routes to your destination. Construction typically happens 9 PM to 6 AM on weeknights, with the heaviest traffic impact during 7-9 AM and 4:30-6:30 PM. Adjusting your departure time by 30 minutes can save significant time.</p>
+<h3>Will construction affect my property value if I buy near active projects?</h3>
+<p>Active construction typically causes temporary 3-5% price discounts, but properties near completed transportation improvements see 8-15% premiums once projects finish. Areas near the new Howard Frankland span have seen 15% appreciation since 2023, well above the regional average.</p>
+<h3>How do I stay updated on road construction affecting my area?</h3>
+<p>Sign up for FDOT District 7 email alerts, download the FL511 app for real-time traffic conditions, and follow local county construction notifications. I recommend checking these resources before your commute and signing up for project-specific alerts on routes you use regularly.</p>
+<h3>Are there any major transit projects coming besides road construction?</h3>
+<p>HART's NetBus rapid transit system launches on Dale Mabry in 2025 with Fletcher Avenue service in 2026. Hillsborough County is planning a $12 billion transportation referendum for 2026 that could include light rail connecting Tampa, Temple Terrace, and Brandon, plus enhanced bus service throughout the region.</p>
+8:["slug","tampa-bay-road-construction-updates","d"]
+0:["SZLIdUDBKVit2TP_UqbYL",[[["",{"children":["blog",{"children":[["slug","tampa-bay-road-construction-updates","d"],{"children":["__PAGE__?{\"slug\":\"tampa-bay-road-construction-updates\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","tampa-bay-road-construction-updates","d"],{"children":["__PAGE__",{},[["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","section",null,{"className":"relative w-full h-[200px] md:h-[300px] overflow-hidden bg-brand-navy","children":[["$","$L3",null,{"src":"/images/blog/housing.jpg","alt":"Tampa Bay Road Construction Updates — What's Being Built","fill":true,"className":"object-cover","unoptimized":true,"priority":true}],["$","div",null,{"className":"absolute inset-0 bg-brand-navy/60"}],["$","div",null,{"className":"relative z-10 flex flex-col items-center justify-center h-full px-4 text-center","children":[["$","h1",null,{"className":"text-white text-3xl md:text-5xl font-display font-extrabold leading-tight max-w-4xl","children":"Tampa Bay Road Construction Updates — What's Being Built"}],"$undefined"]}]]}],["$","article",null,{"className":"max-w-4xl mx-auto px-4 py-10","children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://tbrelo.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://tbrelo.com/blog/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Tampa Bay Road Construction Updates — What's Being Built\",\"item\":\"https://tbrelo.com/blog/tampa-bay-road-construction-updates/\"}]}"}}],["$","nav",null,{"aria-label":"Breadcrumb","className":"text-sm text-brand-slate mb-6","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-1","children":[["$","li","/",{"className":"flex items-center gap-1","children":[false,["$","$L4",null,{"href":"/","className":"hover:text-brand-blue transition-colors","children":"Home"}]]}],["$","li","/blog/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","$L4",null,{"href":"/blog/","className":"hover:text-brand-blue transition-colors","children":"Blog"}]]}],["$","li","/blog/tampa-bay-road-construction-updates/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","span",null,{"className":"text-brand-navy font-medium","children":"Tampa Bay Road Construction Updates — What's Being Built"}]]}]]}]}]],["$","p",null,{"className":"text-brand-slate text-sm mb-8","children":["Published ","February 18, 2026"]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$5"}}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"cta-box-primary","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-white","children":"Moving to Tampa Bay? Get a Local Expert."}],["$","p",null,{"className":"text-sm mb-4 text-white","children":"Barrett Henry is a Broker Associate with REMAX Collective and over 23 years of real estate experience. Straight talk, smart strategy, no pressure."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-blue text-white hover:bg-blue-600","children":["Contact Barrett"," →"]}],["$","a",null,{"href":"tel:8137337907","className":"text-sm text-white","children":"(813) 733-7907"}]]}]]}],["$","div",null,{"className":"cta-box","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-brand-navy","children":"Need Help Setting Up Your New Home?"}],["$","p",null,{"className":"text-sm mb-4 text-brand-slate","children":"Best Bay Services handles handyman work, home repairs, and maintenance for your new Tampa Bay home. Local, licensed, and trusted."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-navy text-white hover:bg-brand-dark","children":["Get a Quote"," →"]}],["$","a",null,{"href":"tel:8134168676","className":"text-sm text-brand-blue","children":"(813) 416-8676"}]]}]]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","$L6",null,{"blogSlug":"tampa-bay-road-construction-updates"}]]}]],null],null],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$8","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/db2729ad4a9f0783.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link",null,{"rel":"icon","href":"/favicon-32.png","type":"image/png","sizes":"32x32"}],["$","link",null,{"rel":"icon","href":"/favicon-16.png","type":"image/png","sizes":"16x16"}],["$","link",null,{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link",null,{"rel":"icon","href":"/icon-192.png","type":"image/png","sizes":"192x192"}],["$","meta",null,{"name":"google-adsense-account","content":"ca-pub-2033173419526042"}],["$","meta",null,{"name":"impact-site-verification","content":"bb623f40-9653-4312-9ca8-bf35b957a10c"}],["$","$La",null,{"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2033173419526042","strategy":"afterInteractive","crossOrigin":"anonymous"}],["$","$La",null,{"src":"https://www.googletagmanager.com/gtag/js?id=G-TD87S02SLM","strategy":"afterInteractive"}],["$","$La",null,{"id":"gtag-init","strategy":"afterInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'G-TD87S02SLM');\n          "}]]}],["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"[{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"https://tbrelo.com/#website\",\"name\":\"TB Relo — Tampa Bay Relocation Guide\",\"url\":\"https://tbrelo.com\",\"description\":\"Comprehensive relocation guides for Tampa Bay, Florida. Covering 8 counties, 100+ cities, cost of living, schools, and everything you need to know about moving to Tampa Bay.\",\"publisher\":{\"@id\":\"https://tbrelo.com/#org\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://tbrelo.com/blog/?q={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}},{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://tbrelo.com/#org\",\"name\":\"TB Relo\",\"url\":\"https://tbrelo.com\",\"sameAs\":[\"https://nowtb.com\",\"https://valricoagent.com\",\"https://parrishagent.com\",\"https://www.facebook.com/BarrettHenryREALTOR/\",\"https://www.instagram.com/thenowteam\",\"https://www.youtube.com/@nowtampa\"]}]"}}],["$","$Lb",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"max-w-2xl mx-auto px-4 py-20 text-center","children":[["$","h1",null,{"className":"text-6xl font-display font-extrabold text-brand-navy mb-4","children":"404"}],["$","p",null,{"className":"text-xl text-brand-slate mb-8","children":"This page doesn't exist. Maybe you're looking for one of these?"}],["$","div",null,{"className":"grid sm:grid-cols-2 gap-4 mb-12 text-left","children":[["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Moving Guide"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Complete guide to relocating to Tampa Bay"}]]}],["$","$L4",null,{"href":"/counties/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Explore Counties"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Browse all 8 Tampa Bay counties"}]]}],["$","$L4",null,{"href":"/cities/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Find a City"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"90+ city and neighborhood guides"}]]}],["$","$L4",null,{"href":"/blog/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Blog"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Tips, comparisons, and local insights"}]]}]]}],["$","$L4",null,{"href":"/","className":"px-8 py-4 bg-brand-blue text-white font-display font-bold rounded-lg hover:bg-blue-600 transition-colors text-lg inline-block","children":"Back to Home"}]]}],"notFoundStyles":[]}]}],["$","footer",null,{"className":"bg-brand-dark text-gray-400","children":[["$","div",null,{"className":"bg-brand-navy","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10","children":["$","div",null,{"className":"grid md:grid-cols-3 gap-8 text-center","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Buying or Selling a Home?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Barrett Henry — The NOW Team at REMAX Collective"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 733-7907"}]]}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Need a Handyman?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Best Bay Services — Tampa Bay Home Services"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 416-8676"}]]}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Property Management"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"ViVi PM — Full-Service Property Management"}]]}]]}]}]}],["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8","children":[["$","div",null,{"className":"md:col-span-2","children":[["$","div",null,{"className":"font-display font-extrabold text-2xl text-white mb-3","children":["TB",["$","span",null,{"className":"text-brand-sky","children":"Relo"}]]}],["$","p",null,{"className":"text-sm leading-relaxed","children":"Your complete guide to relocating to Tampa Bay, Florida. Covering Hillsborough, Pinellas, Pasco, Hernando, Polk, Manatee, Sarasota, and Citrus counties with honest, local insight from someone who actually lives here."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Guides"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"hover:text-white transition-colors","children":"Moving to Tampa Bay"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/cost-of-living/","className":"hover:text-white transition-colors","children":"Cost of Living"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/moving-checklist/","className":"hover:text-white transition-colors","children":"Moving Checklist"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/blog/","className":"hover:text-white transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Counties"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li","Hillsborough",{"children":["$","$L4",null,{"href":"/counties/hillsborough/","className":"hover:text-white transition-colors","children":["Hillsborough"," County"]}]}],["$","li","Pinellas",{"children":["$","$L4",null,{"href":"/counties/pinellas/","className":"hover:text-white transition-colors","children":["Pinellas"," County"]}]}],["$","li","Pasco",{"children":["$","$L4",null,{"href":"/counties/pasco/","className":"hover:text-white transition-colors","children":["Pasco"," County"]}]}],["$","li","Hernando",{"children":["$","$L4",null,{"href":"/counties/hernando/","className":"hover:text-white transition-colors","children":["Hernando"," County"]}]}],["$","li","Polk",{"children":["$","$L4",null,{"href":"/counties/polk/","className":"hover:text-white transition-colors","children":["Polk"," County"]}]}],["$","li","Manatee",{"children":["$","$L4",null,{"href":"/counties/manatee/","className":"hover:text-white transition-colors","children":["Manatee"," County"]}]}],["$","li","Sarasota",{"children":["$","$L4",null,{"href":"/counties/sarasota/","className":"hover:text-white transition-colors","children":["Sarasota"," County"]}]}],["$","li","Citrus",{"children":["$","$L4",null,{"href":"/counties/citrus/","className":"hover:text-white transition-colors","children":["Citrus"," County"]}]}]]}]]}]]}],["$","div",null,{"className":"mt-10 pt-8 border-t border-gray-800","children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Barrett Henry's Network"}],["$","div",null,{"className":"grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3 text-sm","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Tampa Bay Real Estate"}],["$","a",null,{"href":"https://valricoagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Real Estate"}],["$","a",null,{"href":"https://parrishagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Parrish Real Estate"}],["$","a",null,{"href":"https://valrico.blog","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Community Blog"}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Handyman & Home Services"}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Property Management"}]]}]]}],["$","div",null,{"className":"mt-12 pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center gap-4 text-xs","children":[["$","p",null,{"children":["© ",2026," TB Relo. All rights reserved."]}],["$","div",null,{"className":"flex gap-4","children":[["$","$L4",null,{"href":"/affiliate-disclosure/","className":"hover:text-white transition-colors","children":"Affiliate Disclosure"}],["$","$L4",null,{"href":"/privacy-policy/","className":"hover:text-white transition-colors","children":"Privacy Policy"}],["$","$L4",null,{"href":"/disclaimer/","className":"hover:text-white transition-colors","children":"Disclaimer"}]]}]]}]]}],["$","div",null,{"className":"bg-black/30 border-t border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 text-center text-xs text-gray-500","children":["Site by"," ",["$","a",null,{"href":"https://vyrabyte.com","target":"_blank","rel":"noopener noreferrer","className":"text-gray-400 hover:text-white transition-colors","children":"Vyrabyte"}]]}]}]]}],["$","$Lc",null,{}]]}]]}]],null],null],["$Ld",null]]]]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Tampa Bay Road Construction Updates — What's Being Built | TB Relo | TB Relo"}],["$","meta","3",{"name":"description","content":"Tampa Bay Road Construction Updates. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","6",{"property":"og:title","content":"Tampa Bay Road Construction Updates — What's Being Built | TB Relo | TB Relo"}],["$","meta","7",{"property":"og:description","content":"Tampa Bay Road Construction Updates. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","8",{"property":"og:image","content":"https://tbrelo.com/images/blog/housing.jpg"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"Tampa Bay Road Construction Updates — What's Being Built | TB Relo | TB Relo"}],["$","meta","13",{"name":"twitter:description","content":"Tampa Bay Road Construction Updates. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","14",{"name":"twitter:image","content":"https://tbrelo.com/images/blog/housing.jpg"}],["$","link","15",{"rel":"icon","href":"/icon.svg?ff4364d89c37c0d6","type":"image/svg+xml","sizes":"any"}]]
+1:null

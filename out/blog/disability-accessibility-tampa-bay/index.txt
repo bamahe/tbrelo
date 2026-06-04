@@ -1,0 +1,247 @@
+3:I[5878,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"Image"]
+4:I[2972,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],""]
+6:I[5143,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"default"]
+7:I[4707,[],""]
+9:I[6423,[],""]
+a:I[8003,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],""]
+b:I[7312,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"default"]
+c:I[5463,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"SpeedInsights"]
+2:T10e2,[{"@context":"https://schema.org","@type":"Article","headline":"Moving to Tampa Bay with a Disability — Accessibility Guide | TB Relo","description":"Moving to Tampa Bay with a Disability. Honest guide from a Tampa Bay local with 23+ years of experience.","url":"https://tbrelo.com/blog/disability-accessibility-tampa-bay/","author":{"@type":"Person","name":"Barrett Henry","jobTitle":"REALTOR® & Broker Associate","url":"https://nowtb.com","worksFor":{"@type":"Organization","name":"REMAX Collective"},"knowsAbout":["Tampa Bay Real Estate","Florida Relocation","Residential Real Estate","Investment Property","Property Management"]},"publisher":{"@type":"Organization","name":"TB Relo","url":"https://tbrelo.com"},"datePublished":"2026-01-22T08:00:00-04:00","dateModified":"2026-04-16T08:00:00-04:00","image":{"@type":"ImageObject","url":"https://tbrelo.com/images/blog/housing.jpg"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What's the average cost difference for accessible housing in Tampa Bay?","acceptedAnswer":{"@type":"Answer","text":"Accessible homes typically cost 10-15% more than comparable standard properties, with starter accessible homes ranging from $280K-$350K. However, this premium often saves money long-term by reducing modification costs and ensuring features work properly from day one."}},{"@type":"Question","name":"Which Tampa Bay counties offer the best accessibility services?","acceptedAnswer":{"@type":"Answer","text":"Hillsborough County leads in accessibility initiatives and has the most comprehensive transit options, while Pinellas County excels in beach accessibility programs and has excellent specialized medical facilities. Pasco County offers newer construction with better universal design but fewer specialized services."}},{"@type":"Question","name":"Are there grants available for home accessibility modifications?","acceptedAnswer":{"@type":"Answer","text":"Yes, several programs exist including VA SAH grants up to $101,754 for qualifying veterans, USDA Rural Development grants for certain areas, and various state and nonprofit programs. Tax credits are also available for accessibility improvements, making modifications more affordable."}},{"@type":"Question","name":"How accessible is Tampa Bay's public transportation system?","acceptedAnswer":{"@type":"Answer","text":"Both HART and PSTA systems are fully ADA compliant with wheelchair lifts, accessible stations, and specialized door-to-door services (HARTPlus and DART). The newer BRT lines offer particularly good accessibility with level boarding platforms and frequent service."}},{"@type":"Question","name":"What should I look for when viewing potentially accessible homes?","acceptedAnswer":{"@type":"Answer","text":"Focus on zero-step entries, 32+ inch door clearances, accessible bathrooms with grab bar reinforcement, single-story living or elevator access, and adequate parking within 50 feet of entrances. Don't forget to check hallway widths (36+ inches) and turning spaces in key areas."}},{"@type":"Question","name":"Which neighborhoods have the best combination of accessibility and medical care access?","acceptedAnswer":{"@type":"Answer","text":"New Tampa/Wesley Chapel offers the newest accessible housing stock near AdventHealth, while South Tampa provides proximity to Tampa General Hospital and specialized care facilities. St. Petersburg downtown combines good transit access with Johns Hopkins All Children's Hospital nearby."}},{"@type":"Question","name":"Can HOAs or condo associations prevent accessibility modifications?","acceptedAnswer":{"@type":"Answer","text":"No, HOAs and condo associations cannot prohibit medically necessary accessibility modifications under federal fair housing laws. They must allow reasonable accommodations, though some modifications may require following proper procedures and obtaining permits."}},{"@type":"Question","name":"What's the best time of year to move to Tampa Bay with mobility considerations?","acceptedAnswer":{"@type":"Answer","text":"Fall through spring offers the most comfortable weather for moving and adjusting to the area. Avoid summer months (June-September) when heat and humidity can be challenging for those with temperature regulation issues or certain medical conditions."}}]}]5:T46b9,<p>Moving to a new area is challenging enough without worrying about accessibility. After 23 years helping Tampa Bay families relocate, I've worked with many people navigating disabilities — from veterans adjusting to mobility changes to families with special needs kids to retirees planning for aging in place.</p>
+<p>The good news? Tampa Bay has made significant strides in accessibility, though like anywhere, some areas shine while others lag behind. Here's what you need to know about finding truly accessible housing and communities in our region.</p>
+<h2>Understanding Tampa Bay's Accessibility Landscape</h2>
+<p>Tampa Bay spans multiple counties, each with different building standards, transit systems, and accessibility resources. <a href="/counties/hillsborough/">Hillsborough County</a> leads in many accessibility initiatives, while <a href="/counties/pinellas/">Pinellas County</a> offers excellent beach access programs. <a href="/counties/pasco/">Pasco County</a> has newer developments with better universal design, but fewer specialized services.</p>
+<p>The region's flat terrain works in your favor — minimal elevation changes compared to hilly areas elsewhere. Most neighborhoods built after 1990 have better sidewalk networks and ADA-compliant public spaces, though older areas like Hyde Park or Safety Harbor might require more careful navigation.</p>
+<h3>Climate Considerations for Mobility</h3>
+<p>Florida's year-round warmth means you can use mobility equipment outdoors consistently. However, summer humidity can be challenging for those with temperature regulation issues or certain medications. Most newer buildings have excellent climate control, but older properties might lack adequate ventilation.</p>
+<p>Hurricane season requires special planning if you depend on medical equipment or have evacuation challenges. Hillsborough and Pinellas counties maintain special needs registries for emergency services — register within 30 days of moving.</p>
+<h2>Most Accessible Tampa Bay Neighborhoods</h2>
+<h3>New Tampa/Wesley Chapel Area</h3>
+<p>This rapidly growing region offers the newest housing stock with the best universal design features. Developments like Meadow Pointe and Seven Oaks were built with accessibility in mind — wider doorways, zero-step entries, and accessible bathrooms are common even in standard homes.</p>
+<p><strong>Key advantages:</strong></p>
+<ul>
+<li>AdventHealth Wesley Chapel provides specialized care</li>
+<li>Tampa Premium Outlets features excellent accessibility</li>
+<li>Newer sidewalks with proper curb cuts</li>
+<li>Many single-story homes with attached garages</li>
+</ul>
+<p><strong>Price range:</strong> $350K-$650K for accessible single-family homes</p>
+<h3>South Tampa (Selective Areas)</h3>
+<p>While historic South Tampa presents challenges, newer developments near MacDill Air Force Base offer excellent accessibility. The proximity to Tampa General Hospital and specialized medical facilities makes this area attractive for those needing regular care.</p>
+<p>Hyde Park and Bayshore Boulevard require careful property selection — many historic homes lack accessibility features, but some have been thoughtfully renovated.</p>
+<p><strong>Key advantages:</strong></p>
+<ul>
+<li>Top-tier medical facilities within 10 minutes</li>
+<li>Accessible dining options on South Howard</li>
+<li>Bayshore Boulevard's accessible walkway</li>
+<li>Multiple physical therapy and rehabilitation centers</li>
+</ul>
+<p><strong>Price range:</strong> $450K-$850K for accessible properties</p>
+<h3>St. Petersburg Downtown and Surrounding Areas</h3>
+<p>Downtown St. Pete has invested heavily in accessibility improvements. The BRT (Bus Rapid Transit) system features fully accessible stations, and many downtown buildings have been retrofitted with ramps and accessible entrances.</p>
+<p>The Grand Central District offers accessible loft-style condos, while the Edge District features newer construction with universal design elements.</p>
+<p><strong>Key advantages:</strong></p>
+<ul>
+<li>Extensive accessible public transit</li>
+<li>Johns Hopkins All Children's Hospital</li>
+<li>Accessible waterfront parks and museums</li>
+<li>Growing selection of accessible restaurants</li>
+</ul>
+<p><strong>Price range:</strong> $280K-$520K for accessible condos and townhomes</p>
+<h3>Clearwater/Dunedin Corridor</h3>
+<p>This area combines accessibility with coastal living. Clearwater Beach offers beach wheelchairs and accessible boardwalks, while Dunedin's Main Street has been renovated with accessibility in mind.</p>
+<p>Many active adult communities here feature accessible amenities, though they're primarily 55+ focused.</p>
+<p><strong>Key advantages:</strong></p>
+<ul>
+<li>Accessible beach programs</li>
+<li>BayCare's Morton Plant Hospital</li>
+<li>Accessible Pinellas Trail access points</li>
+<li>Multiple accessible recreational facilities</li>
+</ul>
+<p><strong>Price range:</strong> $320K-$575K for accessible homes</p>
+<h2>Housing Features to Prioritize</h2>
+<h3>Essential Accessibility Features</h3>
+<p>When viewing properties, focus on these non-negotiable elements:</p>
+<p><strong>Entry and Exit:</strong></p>
+<ul>
+<li>Zero-step or ramped entrances</li>
+<li>Doors with 32+ inch clearances</li>
+<li>Lever-style door handles</li>
+<li>Accessible parking within 50 feet of entrance</li>
+</ul>
+<p><strong>Interior Layout:</strong></p>
+<ul>
+<li>Single-story living or accessible elevator</li>
+<li>36-inch minimum hallway widths</li>
+<li>Accessible bathroom on main floor</li>
+<li>Kitchen with varied counter heights</li>
+</ul>
+<p><strong>Bathroom Specifications:</strong></p>
+<ul>
+<li>Roll-in showers or accessible tubs</li>
+<li>Grab bar reinforcement in walls</li>
+<li>Accessible vanity heights</li>
+<li>Adequate turning radius (60-inch diameter)</li>
+</ul>
+<h3>Future-Proofing Considerations</h3>
+<p>Even if you don't need full accessibility now, consider features that support aging in place:</p>
+<ul>
+<li>Owners suite on main floor</li>
+<li>Wide doorways throughout</li>
+<li>Blocking in walls for future grab bars</li>
+<li>Step-free entries to outdoor spaces</li>
+<li>Accessible laundry location</li>
+</ul>
+<h2>ADA Compliance and Local Building Standards</h2>
+<h3>Understanding Current Standards</h3>
+<p>Florida follows ADA guidelines for public accommodations, but residential requirements vary by jurisdiction. New construction must meet basic accessibility standards, but older homes (pre-1991) often lack these features.</p>
+<p><strong>Hillsborough County</strong> requires accessibility features in new construction and major renovations:</p>
+<ul>
+<li>At least one accessible entrance</li>
+<li>Accessible route through main floor</li>
+<li>One accessible bathroom per floor with bathrooms</li>
+</ul>
+<p><strong>Pinellas County</strong> has similar standards plus additional requirements for coastal properties regarding emergency egress.</p>
+<h3>Renovation Rights and Requirements</h3>
+<p>If you're buying a fixer-upper, know your rights regarding accessibility modifications:</p>
+<ul>
+<li>HOAs cannot prohibit medically necessary modifications</li>
+<li>Condo associations must allow reasonable accommodations</li>
+<li>Some modifications may require permits, but not approval</li>
+<li>Tax credits available for accessibility improvements</li>
+</ul>
+<h2>Transportation and Mobility Options</h2>
+<h3>Public Transit Accessibility</h3>
+<p><strong>HART (Hillsborough Area Regional Transit):</strong>
+All buses are wheelchair accessible with functioning lifts and tie-downs. The new BRT lines offer level boarding platforms. However, service frequency can be limited in suburban areas.</p>
+<p><strong>PSTA (Pinellas Suncoast Transit Authority):</strong>
+Excellent accessibility with real-time tracking apps. The SunRunner BRT provides frequent service along major corridors with accessible stations every half-mile.</p>
+<p><strong>Specialized Transportation:</strong></p>
+<ul>
+<li>HART HARTPlus: Door-to-door service for qualifying individuals</li>
+<li>PSTA DART: Demand-response service in Pinellas</li>
+<li>Private medical transport services widely available</li>
+</ul>
+<h3>Ride-Sharing and Taxi Services</h3>
+<p>Uber and Lyft offer wheelchair-accessible vehicle options, though availability varies by location and time. Traditional taxi companies like United Cab maintain accessible fleets with advance booking.</p>
+<p>For regular medical appointments, consider establishing relationships with specialized medical transport companies — rates are often better than ride-sharing for recurring trips.</p>
+<h2>Healthcare and Support Services</h2>
+<h3>Major Medical Centers</h3>
+<p><strong>Tampa General Hospital:</strong> Level 1 trauma center with comprehensive rehabilitation services. Their Physical Medicine &#x26; Rehabilitation department offers specialized programs for spinal cord injuries, brain injuries, and complex medical conditions.</p>
+<p><strong>AdventHealth Tampa:</strong> Strong rehabilitation and therapy services with multiple locations across the metro area. Their Rehab Institute provides inpatient and outpatient services.</p>
+<p><strong>Johns Hopkins All Children's Hospital:</strong> Pediatric specialty care with extensive therapy and support services for families with special needs children.</p>
+<p><strong>BayCare System:</strong> Multiple locations throughout Pinellas County offering rehabilitation services, with Morton Plant Hospital providing comprehensive care.</p>
+<h3>Specialized Services and Support</h3>
+<p><strong>Independent Living Centers:</strong></p>
+<ul>
+<li>Coalition for Independent Living Options (CILO) serves the entire Tampa Bay region</li>
+<li>Provides advocacy, peer support, and transition services</li>
+<li>Assistance with housing searches and accessibility modifications</li>
+</ul>
+<p><strong>Equipment and Supply:</strong></p>
+<ul>
+<li>Multiple DME (Durable Medical Equipment) providers</li>
+<li>Assistive technology specialists</li>
+<li>Home modification contractors familiar with accessibility requirements</li>
+</ul>
+<p><strong>Support Groups and Recreation:</strong></p>
+<ul>
+<li>Paralyzed Veterans of America Chapter 23</li>
+<li>United Spinal Association Tampa Bay</li>
+<li>Adaptive sports programs through city recreation departments</li>
+</ul>
+<h2>Recreation and Community Life</h2>
+<h3>Accessible Parks and Beaches</h3>
+<p><strong>Clearwater Beach:</strong> Beach wheelchairs available free of charge, accessible boardwalk, and adapted fishing areas. The beach access ramps are well-maintained and extend to the water's edge.</p>
+<p><strong>Tampa Riverwalk:</strong> Fully accessible 2.6-mile pathway connecting downtown attractions. Multiple accessible parking areas and restrooms along the route.</p>
+<p><strong>Weedon Island Preserve:</strong> Accessible boardwalks and observation areas with excellent wildlife viewing opportunities.</p>
+<p><strong>Vinoy Park:</strong> Accessible playground equipment, walking paths, and waterfront access in downtown St. Petersburg.</p>
+<h3>Cultural and Entertainment Venues</h3>
+<p>Most major venues offer accessibility features:</p>
+<p><strong>Amalie Arena:</strong> Multiple wheelchair seating areas, accessible parking, and assisted listening devices available.</p>
+<p><strong>Ruth Eckerd Hall:</strong> Excellent accessibility with multiple seating options and assistive technology.</p>
+<p><strong>Tampa Theatre:</strong> Historic venue with added accessibility features including elevator access to all seating levels.</p>
+<p><strong>Museums:</strong> MOAS (Museum of Arts and Sciences), Tampa Museum of Art, and Dali Museum all offer comprehensive accessibility.</p>
+<h2>Cost Considerations and Financial Resources</h2>
+<h3>Housing Costs for Accessible Properties</h3>
+<p>Expect to pay a premium for truly accessible homes — typically 10-15% more than comparable standard properties. However, this investment often pays off in reduced modification costs and better resale value.</p>
+<p><strong>Accessible Home Price Ranges (2024):</strong></p>
+<ul>
+<li>Starter accessible homes: $280K-$350K</li>
+<li>Move-up accessible properties: $400K-$600K</li>
+<li>Luxury accessible homes: $650K+</li>
+</ul>
+<h3>Financial Assistance Programs</h3>
+<p><strong>VA Benefits:</strong> Veterans with service-connected disabilities may qualify for Specially Adapted Housing (SAH) grants up to $101,754 or Special Housing Adaptation (SHA) grants up to $20,387.</p>
+<p><strong>USDA Rural Development:</strong> Offers grants and loans for accessibility modifications in qualifying rural areas of Pasco and eastern Hillsborough counties.</p>
+<p><strong>State and Local Programs:</strong></p>
+<ul>
+<li>Florida Housing Finance Corporation accessibility programs</li>
+<li>Local nonprofit organizations offering modification assistance</li>
+<li>Tax credits for accessibility improvements</li>
+</ul>
+<p><strong>Insurance Considerations:</strong>
+Some accessibility features may increase homeowners insurance costs, while others (like grab bars and ramps) might reduce liability concerns. Discuss coverage with your agent before making modifications.</p>
+<h2>Choosing the Right Real Estate Professional</h2>
+<p>Look for agents with specific experience in accessible housing. Key questions to ask:</p>
+<ul>
+<li>Have they worked with clients with disabilities before?</li>
+<li>Do they understand ADA requirements and universal design principles?</li>
+<li>Can they identify accessible features during showings?</li>
+<li>Do they have relationships with accessibility contractors?</li>
+</ul>
+<p>Many agents claim to understand accessibility but lack practical experience. Ask for references from previous clients with similar needs.</p>
+<hr>
+<p><strong>Moving to Tampa Bay?</strong> Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.</p>
+<p><a href="https://nowtb.com">Contact Barrett →</a> | <a href="tel:8137337907">(813) 733-7907</a></p>
+<hr>
+<h2>Making Your Move: Practical Steps</h2>
+<h3>Pre-Move Planning</h3>
+<p><strong>6 Months Before:</strong></p>
+<ul>
+<li>Research neighborhoods and accessibility features</li>
+<li>Contact Independent Living Centers for local resources</li>
+<li>Begin medical provider research and transition planning</li>
+<li>Start accessibility modification budgeting</li>
+</ul>
+<p><strong>3 Months Before:</strong></p>
+<ul>
+<li>Schedule property visits with accessibility focus</li>
+<li>Connect with local disability services</li>
+<li>Research school districts if you have special needs children</li>
+<li>Begin utility transfer and accessibility notification process</li>
+</ul>
+<p><strong>1 Month Before:</strong></p>
+<ul>
+<li>Register for emergency services special needs programs</li>
+<li>Schedule accessibility modifications for new home</li>
+<li>Arrange specialized moving services if needed</li>
+<li>Connect with local support groups and resources</li>
+</ul>
+<h3>Moving Day Considerations</h3>
+<ul>
+<li>Hire movers experienced with accessibility equipment</li>
+<li>Plan for equipment setup and testing</li>
+<li>Ensure accessibility modifications are complete before move-in</li>
+<li>Have backup plans for essential medical equipment</li>
+</ul>
+<h2>Frequently Asked Questions</h2>
+<h3>What's the average cost difference for accessible housing in Tampa Bay?</h3>
+<p>Accessible homes typically cost 10-15% more than comparable standard properties, with starter accessible homes ranging from $280K-$350K. However, this premium often saves money long-term by reducing modification costs and ensuring features work properly from day one.</p>
+<h3>Which Tampa Bay counties offer the best accessibility services?</h3>
+<p>Hillsborough County leads in accessibility initiatives and has the most comprehensive transit options, while Pinellas County excels in beach accessibility programs and has excellent specialized medical facilities. Pasco County offers newer construction with better universal design but fewer specialized services.</p>
+<h3>Are there grants available for home accessibility modifications?</h3>
+<p>Yes, several programs exist including VA SAH grants up to $101,754 for qualifying veterans, USDA Rural Development grants for certain areas, and various state and nonprofit programs. Tax credits are also available for accessibility improvements, making modifications more affordable.</p>
+<h3>How accessible is Tampa Bay's public transportation system?</h3>
+<p>Both HART and PSTA systems are fully ADA compliant with wheelchair lifts, accessible stations, and specialized door-to-door services (HARTPlus and DART). The newer BRT lines offer particularly good accessibility with level boarding platforms and frequent service.</p>
+<h3>What should I look for when viewing potentially accessible homes?</h3>
+<p>Focus on zero-step entries, 32+ inch door clearances, accessible bathrooms with grab bar reinforcement, single-story living or elevator access, and adequate parking within 50 feet of entrances. Don't forget to check hallway widths (36+ inches) and turning spaces in key areas.</p>
+<h3>Which neighborhoods have the best combination of accessibility and medical care access?</h3>
+<p>New Tampa/Wesley Chapel offers the newest accessible housing stock near AdventHealth, while South Tampa provides proximity to Tampa General Hospital and specialized care facilities. St. Petersburg downtown combines good transit access with Johns Hopkins All Children's Hospital nearby.</p>
+<h3>Can HOAs or condo associations prevent accessibility modifications?</h3>
+<p>No, HOAs and condo associations cannot prohibit medically necessary accessibility modifications under federal fair housing laws. They must allow reasonable accommodations, though some modifications may require following proper procedures and obtaining permits.</p>
+<h3>What's the best time of year to move to Tampa Bay with mobility considerations?</h3>
+<p>Fall through spring offers the most comfortable weather for moving and adjusting to the area. Avoid summer months (June-September) when heat and humidity can be challenging for those with temperature regulation issues or certain medical conditions.</p>
+8:["slug","disability-accessibility-tampa-bay","d"]
+0:["SZLIdUDBKVit2TP_UqbYL",[[["",{"children":["blog",{"children":[["slug","disability-accessibility-tampa-bay","d"],{"children":["__PAGE__?{\"slug\":\"disability-accessibility-tampa-bay\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","disability-accessibility-tampa-bay","d"],{"children":["__PAGE__",{},[["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","section",null,{"className":"relative w-full h-[200px] md:h-[300px] overflow-hidden bg-brand-navy","children":[["$","$L3",null,{"src":"/images/blog/housing.jpg","alt":"Moving to Tampa Bay with a Disability — Accessibility Guide","fill":true,"className":"object-cover","unoptimized":true,"priority":true}],["$","div",null,{"className":"absolute inset-0 bg-brand-navy/60"}],["$","div",null,{"className":"relative z-10 flex flex-col items-center justify-center h-full px-4 text-center","children":[["$","h1",null,{"className":"text-white text-3xl md:text-5xl font-display font-extrabold leading-tight max-w-4xl","children":"Moving to Tampa Bay with a Disability — Accessibility Guide"}],"$undefined"]}]]}],["$","article",null,{"className":"max-w-4xl mx-auto px-4 py-10","children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://tbrelo.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://tbrelo.com/blog/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Moving to Tampa Bay with a Disability — Accessibility Guide\",\"item\":\"https://tbrelo.com/blog/disability-accessibility-tampa-bay/\"}]}"}}],["$","nav",null,{"aria-label":"Breadcrumb","className":"text-sm text-brand-slate mb-6","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-1","children":[["$","li","/",{"className":"flex items-center gap-1","children":[false,["$","$L4",null,{"href":"/","className":"hover:text-brand-blue transition-colors","children":"Home"}]]}],["$","li","/blog/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","$L4",null,{"href":"/blog/","className":"hover:text-brand-blue transition-colors","children":"Blog"}]]}],["$","li","/blog/disability-accessibility-tampa-bay/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","span",null,{"className":"text-brand-navy font-medium","children":"Moving to Tampa Bay with a Disability — Accessibility Guide"}]]}]]}]}]],["$","p",null,{"className":"text-brand-slate text-sm mb-8","children":["Published ","January 22, 2026"]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$5"}}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"cta-box-primary","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-white","children":"Moving to Tampa Bay? Get a Local Expert."}],["$","p",null,{"className":"text-sm mb-4 text-white","children":"Barrett Henry is a Broker Associate with REMAX Collective and over 23 years of real estate experience. Straight talk, smart strategy, no pressure."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-blue text-white hover:bg-blue-600","children":["Contact Barrett"," →"]}],["$","a",null,{"href":"tel:8137337907","className":"text-sm text-white","children":"(813) 733-7907"}]]}]]}],["$","div",null,{"className":"cta-box","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-brand-navy","children":"Need Help Setting Up Your New Home?"}],["$","p",null,{"className":"text-sm mb-4 text-brand-slate","children":"Best Bay Services handles handyman work, home repairs, and maintenance for your new Tampa Bay home. Local, licensed, and trusted."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-navy text-white hover:bg-brand-dark","children":["Get a Quote"," →"]}],["$","a",null,{"href":"tel:8134168676","className":"text-sm text-brand-blue","children":"(813) 416-8676"}]]}]]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","$L6",null,{"blogSlug":"disability-accessibility-tampa-bay"}]]}]],null],null],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$8","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/db2729ad4a9f0783.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link",null,{"rel":"icon","href":"/favicon-32.png","type":"image/png","sizes":"32x32"}],["$","link",null,{"rel":"icon","href":"/favicon-16.png","type":"image/png","sizes":"16x16"}],["$","link",null,{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link",null,{"rel":"icon","href":"/icon-192.png","type":"image/png","sizes":"192x192"}],["$","meta",null,{"name":"google-adsense-account","content":"ca-pub-2033173419526042"}],["$","meta",null,{"name":"impact-site-verification","content":"bb623f40-9653-4312-9ca8-bf35b957a10c"}],["$","$La",null,{"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2033173419526042","strategy":"afterInteractive","crossOrigin":"anonymous"}],["$","$La",null,{"src":"https://www.googletagmanager.com/gtag/js?id=G-TD87S02SLM","strategy":"afterInteractive"}],["$","$La",null,{"id":"gtag-init","strategy":"afterInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'G-TD87S02SLM');\n          "}]]}],["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"[{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"https://tbrelo.com/#website\",\"name\":\"TB Relo — Tampa Bay Relocation Guide\",\"url\":\"https://tbrelo.com\",\"description\":\"Comprehensive relocation guides for Tampa Bay, Florida. Covering 8 counties, 100+ cities, cost of living, schools, and everything you need to know about moving to Tampa Bay.\",\"publisher\":{\"@id\":\"https://tbrelo.com/#org\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://tbrelo.com/blog/?q={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}},{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://tbrelo.com/#org\",\"name\":\"TB Relo\",\"url\":\"https://tbrelo.com\",\"sameAs\":[\"https://nowtb.com\",\"https://valricoagent.com\",\"https://parrishagent.com\",\"https://www.facebook.com/BarrettHenryREALTOR/\",\"https://www.instagram.com/thenowteam\",\"https://www.youtube.com/@nowtampa\"]}]"}}],["$","$Lb",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"max-w-2xl mx-auto px-4 py-20 text-center","children":[["$","h1",null,{"className":"text-6xl font-display font-extrabold text-brand-navy mb-4","children":"404"}],["$","p",null,{"className":"text-xl text-brand-slate mb-8","children":"This page doesn't exist. Maybe you're looking for one of these?"}],["$","div",null,{"className":"grid sm:grid-cols-2 gap-4 mb-12 text-left","children":[["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Moving Guide"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Complete guide to relocating to Tampa Bay"}]]}],["$","$L4",null,{"href":"/counties/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Explore Counties"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Browse all 8 Tampa Bay counties"}]]}],["$","$L4",null,{"href":"/cities/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Find a City"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"90+ city and neighborhood guides"}]]}],["$","$L4",null,{"href":"/blog/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Blog"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Tips, comparisons, and local insights"}]]}]]}],["$","$L4",null,{"href":"/","className":"px-8 py-4 bg-brand-blue text-white font-display font-bold rounded-lg hover:bg-blue-600 transition-colors text-lg inline-block","children":"Back to Home"}]]}],"notFoundStyles":[]}]}],["$","footer",null,{"className":"bg-brand-dark text-gray-400","children":[["$","div",null,{"className":"bg-brand-navy","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10","children":["$","div",null,{"className":"grid md:grid-cols-3 gap-8 text-center","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Buying or Selling a Home?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Barrett Henry — The NOW Team at REMAX Collective"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 733-7907"}]]}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Need a Handyman?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Best Bay Services — Tampa Bay Home Services"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 416-8676"}]]}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Property Management"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"ViVi PM — Full-Service Property Management"}]]}]]}]}]}],["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8","children":[["$","div",null,{"className":"md:col-span-2","children":[["$","div",null,{"className":"font-display font-extrabold text-2xl text-white mb-3","children":["TB",["$","span",null,{"className":"text-brand-sky","children":"Relo"}]]}],["$","p",null,{"className":"text-sm leading-relaxed","children":"Your complete guide to relocating to Tampa Bay, Florida. Covering Hillsborough, Pinellas, Pasco, Hernando, Polk, Manatee, Sarasota, and Citrus counties with honest, local insight from someone who actually lives here."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Guides"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"hover:text-white transition-colors","children":"Moving to Tampa Bay"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/cost-of-living/","className":"hover:text-white transition-colors","children":"Cost of Living"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/moving-checklist/","className":"hover:text-white transition-colors","children":"Moving Checklist"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/blog/","className":"hover:text-white transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Counties"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li","Hillsborough",{"children":["$","$L4",null,{"href":"/counties/hillsborough/","className":"hover:text-white transition-colors","children":["Hillsborough"," County"]}]}],["$","li","Pinellas",{"children":["$","$L4",null,{"href":"/counties/pinellas/","className":"hover:text-white transition-colors","children":["Pinellas"," County"]}]}],["$","li","Pasco",{"children":["$","$L4",null,{"href":"/counties/pasco/","className":"hover:text-white transition-colors","children":["Pasco"," County"]}]}],["$","li","Hernando",{"children":["$","$L4",null,{"href":"/counties/hernando/","className":"hover:text-white transition-colors","children":["Hernando"," County"]}]}],["$","li","Polk",{"children":["$","$L4",null,{"href":"/counties/polk/","className":"hover:text-white transition-colors","children":["Polk"," County"]}]}],["$","li","Manatee",{"children":["$","$L4",null,{"href":"/counties/manatee/","className":"hover:text-white transition-colors","children":["Manatee"," County"]}]}],["$","li","Sarasota",{"children":["$","$L4",null,{"href":"/counties/sarasota/","className":"hover:text-white transition-colors","children":["Sarasota"," County"]}]}],["$","li","Citrus",{"children":["$","$L4",null,{"href":"/counties/citrus/","className":"hover:text-white transition-colors","children":["Citrus"," County"]}]}]]}]]}]]}],["$","div",null,{"className":"mt-10 pt-8 border-t border-gray-800","children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Barrett Henry's Network"}],["$","div",null,{"className":"grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3 text-sm","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Tampa Bay Real Estate"}],["$","a",null,{"href":"https://valricoagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Real Estate"}],["$","a",null,{"href":"https://parrishagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Parrish Real Estate"}],["$","a",null,{"href":"https://valrico.blog","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Community Blog"}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Handyman & Home Services"}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Property Management"}]]}]]}],["$","div",null,{"className":"mt-12 pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center gap-4 text-xs","children":[["$","p",null,{"children":["© ",2026," TB Relo. All rights reserved."]}],["$","div",null,{"className":"flex gap-4","children":[["$","$L4",null,{"href":"/affiliate-disclosure/","className":"hover:text-white transition-colors","children":"Affiliate Disclosure"}],["$","$L4",null,{"href":"/privacy-policy/","className":"hover:text-white transition-colors","children":"Privacy Policy"}],["$","$L4",null,{"href":"/disclaimer/","className":"hover:text-white transition-colors","children":"Disclaimer"}]]}]]}]]}],["$","div",null,{"className":"bg-black/30 border-t border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 text-center text-xs text-gray-500","children":["Site by"," ",["$","a",null,{"href":"https://vyrabyte.com","target":"_blank","rel":"noopener noreferrer","className":"text-gray-400 hover:text-white transition-colors","children":"Vyrabyte"}]]}]}]]}],["$","$Lc",null,{}]]}]]}]],null],null],["$Ld",null]]]]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Moving to Tampa Bay with a Disability — Accessibility Guide | TB Relo | TB Relo"}],["$","meta","3",{"name":"description","content":"Moving to Tampa Bay with a Disability. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","6",{"property":"og:title","content":"Moving to Tampa Bay with a Disability — Accessibility Guide | TB Relo | TB Relo"}],["$","meta","7",{"property":"og:description","content":"Moving to Tampa Bay with a Disability. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","8",{"property":"og:image","content":"https://tbrelo.com/images/blog/housing.jpg"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"Moving to Tampa Bay with a Disability — Accessibility Guide | TB Relo | TB Relo"}],["$","meta","13",{"name":"twitter:description","content":"Moving to Tampa Bay with a Disability. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","14",{"name":"twitter:image","content":"https://tbrelo.com/images/blog/housing.jpg"}],["$","link","15",{"rel":"icon","href":"/icon.svg?ff4364d89c37c0d6","type":"image/svg+xml","sizes":"any"}]]
+1:null

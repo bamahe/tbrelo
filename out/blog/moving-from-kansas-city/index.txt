@@ -1,0 +1,326 @@
+3:I[5878,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"Image"]
+4:I[2972,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],""]
+6:I[5143,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"default"]
+7:I[4707,[],""]
+9:I[6423,[],""]
+a:I[8003,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],""]
+b:I[7312,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"default"]
+c:I[5463,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"SpeedInsights"]
+2:T152a,[{"@context":"https://schema.org","@type":"Article","headline":"Moving from Kansas City to Tampa Bay — The Complete Relocation Guide | TB Relo","description":"Moving from Kansas City to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience.","url":"https://tbrelo.com/blog/moving-from-kansas-city/","author":{"@type":"Person","name":"Barrett Henry","jobTitle":"REALTOR® & Broker Associate","url":"https://nowtb.com","worksFor":{"@type":"Organization","name":"REMAX Collective"},"knowsAbout":["Tampa Bay Real Estate","Florida Relocation","Residential Real Estate","Investment Property","Property Management"]},"publisher":{"@type":"Organization","name":"TB Relo","url":"https://tbrelo.com"},"datePublished":"2024-08-13T08:00:00-04:00","dateModified":"2026-04-15T08:00:00-04:00","image":{"@type":"ImageObject","url":"https://tbrelo.com/images/blog/housing.jpg"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much money should I save for moving from Kansas City to Tampa Bay?","acceptedAnswer":{"@type":"Answer","text":"Plan for $15,000-25,000 in moving expenses and initial setup costs. This covers professional movers ($5,000-7,000), temporary lodging, utility deposits, and unexpected expenses. Having 6 months of expenses saved helps cushion the transition period while you establish income and adjust to higher housing costs."}},{"@type":"Question","name":"What's the job market like for Kansas City transplants in Tampa Bay?","acceptedAnswer":{"@type":"Answer","text":"Tampa Bay's job market is strong, especially in healthcare, finance, technology, and logistics. Many skills transfer directly from Kansas City's economy. Starting salaries often match or exceed KC levels, and with no state income tax, your take-home pay typically increases even with similar gross wages."}},{"@type":"Question","name":"How do Tampa Bay schools compare to Kansas City area schools?","acceptedAnswer":{"@type":"Answer","text":"Top districts in Tampa Bay (like parts of Hillsborough, Pinellas, and Pasco counties) offer excellent schools comparable to Blue Valley or Park Hill districts. However, school quality varies significantly by neighborhood. Research specific schools using Florida's A-F rating system, and consider private options if needed."}},{"@type":"Question","name":"Is hurricane risk really that serious compared to Kansas City tornado risk?","acceptedAnswer":{"@type":"Answer","text":"Hurricanes provide 5-7 days advance warning versus 30 minutes for tornadoes, making them more manageable despite being larger storms. Major hurricanes directly hitting Tampa Bay occur roughly every 20-25 years. Proper preparation and insurance make hurricane risk very manageable for most residents."}},{"@type":"Question","name":"What neighborhoods feel most like Kansas City suburbs?","acceptedAnswer":{"@type":"Answer","text":"Westchase, Wesley Chapel, and parts of Brandon offer the master-planned suburban feel similar to Overland Park or Lee's Summit. For urban character like Brookside or Crossroads, try Seminole Heights in Tampa or downtown St. Petersburg. Hyde Park captures the upscale feel of Prairie Village or Leawood."}},{"@type":"Question","name":"How much will my property taxes change moving to Florida?","acceptedAnswer":{"@type":"Answer","text":"Florida's property tax rates average 0.9% versus Missouri's 1.5%, but home values are higher in Tampa Bay. On a $400,000 Florida home with homestead exemption, expect $3,200/year in property taxes. However, you'll save significantly on state income taxes, often offsetting the difference."}},{"@type":"Question","name":"What's the real cost difference for daily expenses like groceries and gas?","acceptedAnswer":{"@type":"Answer","text":"Groceries run about 8% higher than Kansas City, mainly due to fresh seafood and produce costs. Gas prices are typically $0.20-0.30 higher per gallon. Dining out costs more in tourist areas but remains reasonable in residential neighborhoods. Overall, daily expenses are manageable with proper budgeting."}},{"@type":"Question","name":"How hard is it to make friends and build community coming from Kansas City?","acceptedAnswer":{"@type":"Answer","text":"Tampa Bay attracts many transplants, making it easier to connect with others in similar situations. Join neighborhood associations, professional organizations, or recreational leagues. The outdoor lifestyle and year-round activities provide more social opportunities than Kansas City's seasonal limitations."}},{"@type":"Question","name":"Should I rent first or buy immediately when moving from Kansas City?","acceptedAnswer":{"@type":"Answer","text":"Consider renting for 6-12 months to learn neighborhoods and understand the market. This is especially wise if you're unfamiliar with hurricane zones, flood risks, or commute patterns. Renting allows you to find the right area before committing to a mortgage in an unfamiliar market."}},{"@type":"Question","name":"What Kansas City things will I miss most, and what compensates for them?","acceptedAnswer":{"@type":"Answer","text":"You'll miss Kansas City barbecue, Chiefs games, and moderate housing costs. Tampa Bay compensates with year-round outdoor activities, no snow removal, diverse dining scenes, professional sports, and significant tax savings. Most transplants say the lifestyle improvements outweigh what they leave behind."}}]}]5:T5718,<p>I've helped dozens of Kansas City families make the move to Tampa Bay over my 23+ years as a REALTOR here. The transition from Missouri's heartland to Florida's Gulf Coast involves more than just swapping barbecue styles (though we'll get to that). Let me walk you through everything you need to know about relocating from KC to the Bay Area.</p>
+<p>The short version? You're trading four seasons for endless summer, state income tax for zero income tax, and tornado warnings for hurricane season. Most Kansas City transplants I work with are shocked by how much their money stretches here — and how quickly they forget about shoveling snow.</p>
+<h2>Why Kansas City Residents Choose Tampa Bay</h2>
+<h3>The Tax Advantage Is Real</h3>
+<p>Kansas City residents pay Missouri state income tax up to 5.4%, plus Kansas City's 1% earnings tax if you work within city limits. That's potentially 6.4% of your income disappearing before you see it. Florida? Zero state income tax. Period.</p>
+<p>For a Kansas City household earning $85,000 annually, that's roughly $5,400 back in your pocket every year. Over a decade, that's a new car or a nice down payment on a Florida home.</p>
+<h3>Weather That Actually Makes Sense</h3>
+<p>Let's be honest about Kansas City weather. You've got maybe four months of genuinely pleasant conditions — late spring and early fall if you're lucky. The rest is either sweltering humidity with no relief or arctic blasts that make you question your life choices.</p>
+<p>Tampa Bay gives you 12 months of shorts weather. Our "winter" means 70°F highs and 50°F lows. No ice scrapers. No snow tires. No wondering if your pipes will freeze. The daily afternoon thunderstorm in summer is refreshing, not the week-long gray drizzle you get in KC.</p>
+<h3>Career Opportunities Beyond Agriculture and Manufacturing</h3>
+<p>While Kansas City has its strengths — logistics, healthcare, finance — Tampa Bay offers more diverse industries. We're home to major healthcare systems, tech companies, financial services, and tourism. MacDill Air Force Base brings defense contractors. The Port of Tampa creates logistics jobs. And our proximity to Disney World means constant hospitality opportunities.</p>
+<p>Starting salaries might look similar, but remember — you're keeping more of what you earn here.</p>
+<h2>Cost of Living Reality Check: Kansas City vs Tampa Bay</h2>
+<p>Here's the honest breakdown based on current market conditions:</p>
+<h3>Housing Costs Comparison</h3>
+<table>
+<thead>
+<tr>
+<th>Category</th>
+<th>Kansas City</th>
+<th>Tampa Bay</th>
+<th>Difference</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Median Home Price</td>
+<td>$245,000</td>
+<td>$425,000</td>
+<td>+$180,000</td>
+</tr>
+<tr>
+<td>Average Rent (2BR)</td>
+<td>$1,200</td>
+<td>$1,850</td>
+<td>+$650/month</td>
+</tr>
+<tr>
+<td>Property Tax Rate</td>
+<td>1.5%</td>
+<td>0.9%</td>
+<td>-$1,470/year*</td>
+</tr>
+<tr>
+<td>Homeowner's Insurance</td>
+<td>$1,800/year</td>
+<td>$3,500/year</td>
+<td>+$1,700/year</td>
+</tr>
+</tbody>
+</table>
+<p>*Based on median home prices</p>
+<h3>The Full Picture</h3>
+<table>
+<thead>
+<tr>
+<th>Expense</th>
+<th>Kansas City</th>
+<th>Tampa Bay</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>State Income Tax</td>
+<td>Up to 6.4%</td>
+<td>0%</td>
+<td>Huge savings for higher earners</td>
+</tr>
+<tr>
+<td>Gasoline</td>
+<td>$3.20/gal</td>
+<td>$3.45/gal</td>
+<td>Minimal difference</td>
+</tr>
+<tr>
+<td>Utilities (monthly)</td>
+<td>$165</td>
+<td>$185</td>
+<td>AC vs heating costs</td>
+</tr>
+<tr>
+<td>Groceries</td>
+<td>Baseline</td>
+<td>+8%</td>
+<td>Fresh seafood costs more</td>
+</tr>
+<tr>
+<td>Dining Out</td>
+<td>Baseline</td>
+<td>+12%</td>
+<td>Tourist areas inflate prices</td>
+</tr>
+</tbody>
+</table>
+<p>The reality? If you're buying a similar home, expect to pay $150,000-200,000 more upfront. But between tax savings, no snow removal costs, and year-round outdoor activities, many families find the higher housing cost worth it.</p>
+<hr>
+<p><strong>Moving to Tampa Bay?</strong> Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.</p>
+<p><a href="https://nowtb.com">Contact Barrett →</a> | <a href="tel:8137337907">(813) 733-7907</a></p>
+<hr>
+<h2>Neighborhood Matching: Finding Your Tampa Bay Equivalent</h2>
+<h3>If You Loved Prairie Village or Leawood...</h3>
+<p>Try <strong>Hyde Park</strong> in Tampa. Tree-lined streets, walkable to excellent restaurants, premium housing stock. Homes run $600,000-1.2M, but you get historic charm three miles from downtown Tampa. Bayshore Boulevard is your Country Club Plaza equivalent — upscale shopping and dining with better weather.</p>
+<p><strong>Westchase</strong> in <a href="/counties/hillsborough/">Hillsborough County</a> offers newer construction suburban living similar to Overland Park. Excellent schools, family-friendly, master-planned community feel. Homes range $350,000-650,000.</p>
+<h3>If You Appreciated Brookside or Midtown...</h3>
+<p><strong>Seminole Heights</strong> in Tampa captures that funky, artsy vibe. Craft breweries, independent restaurants, walkable neighborhoods with character. Home prices $280,000-450,000. It's gentrifying fast, so buy now if this appeals to you.</p>
+<p><strong>St. Petersburg's Grand Central District</strong> offers urban living with personality. Art galleries, craft coffee, walkable streets. Condos start around $200,000, houses $350,000+.</p>
+<h3>If You Lived in Lee's Summit or Blue Springs...</h3>
+<p><strong>Riverview</strong> or <strong>Lithia</strong> give you that suburban family feel with better schools and no state income tax. New construction dominates, with homes $320,000-550,000. You'll get more space and amenities than comparable KC suburbs.</p>
+<p><strong>Wesley Chapel</strong> in <a href="/counties/pasco/">Pasco County</a> offers master-planned living with A-rated schools and reasonable prices. Think Olathe, but with palm trees.</p>
+<h2>The Logistics of Moving 1,200 Miles</h2>
+<h3>Driving Route: I-70 to I-75 South</h3>
+<p>The most direct route runs 1,180 miles and takes roughly 18 hours of driving time. Break it into two days:</p>
+<p><strong>Day 1:</strong> Kansas City to Nashville (540 miles, 8 hours)
+<strong>Day 2:</strong> Nashville to Tampa Bay (640 miles, 10 hours)</p>
+<p>Stop in Nashville for the night — avoid driving I-75 through Georgia mountains in darkness. Fill up in Missouri before entering Illinois to save on gas taxes.</p>
+<h3>Professional Moving Costs</h3>
+<p>For a 3-bedroom Kansas City home to Tampa Bay:</p>
+<ul>
+<li><strong>Full-service movers:</strong> $4,500-7,200</li>
+<li><strong>U-Haul truck rental:</strong> $2,800-3,500 (including gas, insurance, equipment)</li>
+<li><strong>Moving containers (PODS/U-Pack):</strong> $3,200-4,800</li>
+<li><strong>Hybrid service:</strong> $3,800-5,500</li>
+</ul>
+<p>Book early. Summer moves cost 20-30% more due to demand.</p>
+<h3>Shipping Your Vehicles</h3>
+<p>If moving multiple cars, consider auto transport:</p>
+<ul>
+<li><strong>Open trailer:</strong> $900-1,200 per vehicle</li>
+<li><strong>Enclosed transport:</strong> $1,300-1,800 per vehicle</li>
+<li><strong>Drive yourself:</strong> $200 in gas, 2 days, wear on vehicle</li>
+</ul>
+<h2>Employment and Industry Landscape</h2>
+<h3>Major Employers Making the Transition Easy</h3>
+<p><strong>Healthcare:</strong> Tampa General Hospital, BayCare Health System, Johns Hopkins All Children's Hospital. If you worked at Saint Luke's or Research Medical Center, you'll find similar opportunities here.</p>
+<p><strong>Financial Services:</strong> Raymond James (headquartered in St. Pete), Wells Fargo, JPMorgan Chase have major operations here. Salaries often match or exceed Kansas City levels.</p>
+<p><strong>Technology:</strong> Sykes, Tech Data, ConnectWise lead a growing tech sector. Remote work is common, making the transition easier.</p>
+<p><strong>Logistics:</strong> Port of Tampa, Amazon fulfillment centers, FedEx/UPS hubs. Your Kansas City logistics experience translates directly.</p>
+<h3>Starting Salary Expectations</h3>
+<ul>
+<li><strong>Registered Nurse:</strong> $65,000-78,000 (vs $62,000-72,000 in KC)</li>
+<li><strong>Software Developer:</strong> $75,000-95,000 (similar to KC)</li>
+<li><strong>Accountant:</strong> $52,000-68,000 (vs $48,000-63,000 in KC)</li>
+<li><strong>Teacher:</strong> $47,500 starting (vs $42,000 in KC, but consider no income tax)</li>
+</ul>
+<h2>Schools: What Kansas City Families Need to Know</h2>
+<h3>Public School Reality</h3>
+<p>Florida uses A-F school grades. Target A and B schools for elementary, B and above for middle/high school. Top districts:</p>
+<ul>
+<li><strong>Hillsborough County:</strong> Northeast areas (Westchase, New Tampa)</li>
+<li><strong>Pinellas County:</strong> Indian Rocks Beach, Belcher Elementary areas</li>
+<li><strong>Pasco County:</strong> Wesley Chapel, Land O' Lakes</li>
+<li><strong>Polk County:</strong> Lakeland Highlands area</li>
+</ul>
+<h3>Private School Options</h3>
+<p>If your kids attended Pembroke Hill or Barstow, consider:</p>
+<ul>
+<li><strong>Tampa Preparatory School:</strong> $28,000/year, excellent college prep</li>
+<li><strong>Berkeley Preparatory School:</strong> $30,000/year, top-tier academics</li>
+<li><strong>Shorecrest Preparatory School:</strong> St. Pete location, $25,000/year</li>
+</ul>
+<p>Tuition runs 20-30% higher than comparable KC private schools, but financial aid availability is similar.</p>
+<h2>Housing Market Strategy for KC Transplants</h2>
+<h3>Timing Your Purchase</h3>
+<p><strong>Best buying season:</strong> July-September. Tourist season ends, inventory increases, sellers get motivated. Avoid December-March when snowbirds inflate demand.</p>
+<p><strong>Price negotiation:</strong> Expect 2-5% wiggle room in most markets. New construction offers more flexibility on upgrades than price reductions.</p>
+<h3>Neighborhood Red Flags</h3>
+<p>Avoid areas with frequent flooding. Get flood maps for any property you're considering. Hurricane evacuation zones aren't deal-breakers, but understand your risk level.</p>
+<p>Properties built before 1992 may need hurricane retrofitting. Budget $15,000-25,000 for windows, doors, and roof improvements.</p>
+<h3>Property Tax Advantages</h3>
+<p>Florida's homestead exemption removes $50,000 from your assessed value for tax purposes. On a $400,000 home, you're taxed on $350,000. Apply immediately after closing.</p>
+<p>Additional exemptions exist for veterans, seniors, and disabled residents. These can significantly reduce your tax burden compared to Kansas City.</p>
+<hr>
+<p><strong>Moving to Tampa Bay?</strong> Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.</p>
+<p><a href="https://nowtb.com">Contact Barrett →</a> | <a href="tel:8137337907">(813) 733-7907</a></p>
+<hr>
+<h2>Cultural Adjustments: Beyond the Weather</h2>
+<h3>Food Scene Differences</h3>
+<p>You'll miss Kansas City barbecue. I won't lie about that. But Tampa Bay offers compensation: fresh Gulf seafood, Cuban sandwiches, and a growing craft beer scene that rivals KC's.</p>
+<p><strong>What you'll find:</strong> The Columbia Restaurant (Spanish cuisine since 1905), Bern's Steak House (wine cellar with 500,000 bottles), fantastic Mexican food thanks to our Hispanic population.</p>
+<p><strong>What you'll miss:</strong> Joe's Kansas City Bar-B-Que, LC's Bar-B-Q, that specific Kansas City burnt ends style. Some transplants have LC's ship frozen burnt ends monthly.</p>
+<h3>Sports Culture Shock</h3>
+<p>No more Chiefs Kingdom. You're entering Lightning, Bucs, and Rays territory. The good news? Professional hockey and baseball tickets cost less than Arrowhead parking.</p>
+<p><strong>Tampa Bay Lightning:</strong> Stanley Cup champions, passionate fanbase, Amalie Arena downtown
+<strong>Tampa Bay Buccaneers:</strong> Tom Brady brought Super Bowl excitement back to Tampa
+<strong>Tampa Bay Rays:</strong> Tropicana Field isn't Kauffman Stadium, but tickets start at $10</p>
+<p>College football means USF Bulls or drive to Gainesville for the Gators. Nothing matches SEC passion.</p>
+<h3>Traffic Patterns</h3>
+<p>Kansas City's rush hour is adorable compared to Tampa Bay. I-275, I-4, and US-19 become parking lots. Plan accordingly:</p>
+<ul>
+<li><strong>Morning rush:</strong> 7:00-9:30 AM</li>
+<li><strong>Evening rush:</strong> 4:00-7:00 PM</li>
+<li><strong>Beach traffic:</strong> Friday afternoons, Sunday evenings April-October</li>
+<li><strong>Tourist season:</strong> Slower everything December-April</li>
+</ul>
+<p>Consider living close to work or embracing remote options. That hour commute in Kansas City becomes 90 minutes here during rush hour.</p>
+<h2>Hurricane Preparedness for Midwest Transplants</h2>
+<h3>Reality vs. Perception</h3>
+<p>You've dealt with tornadoes, ice storms, and blizzards. Hurricanes are different — more predictable, longer lasting, but with better warning systems.</p>
+<p><strong>Hurricane season:</strong> June 1-November 30, peak activity August-October
+<strong>Direct hits:</strong> Major hurricanes hit Tampa Bay roughly once every 20-25 years
+<strong>Preparation time:</strong> Usually 5-7 days advance warning vs. 30 minutes for tornadoes</p>
+<h3>Essential Supplies</h3>
+<ul>
+<li><strong>Generator:</strong> 7,500-10,000 watts for whole house backup</li>
+<li><strong>Hurricane shutters or plywood:</strong> Protect windows from flying debris</li>
+<li><strong>Water storage:</strong> 1 gallon per person per day, minimum 7 days</li>
+<li><strong>Non-perishable food:</strong> 7-10 days worth per household member</li>
+<li><strong>Cash:</strong> ATMs fail when power goes out</li>
+</ul>
+<p>Budget $3,000-5,000 for complete hurricane preparation. Consider it like buying a snowblower in Kansas City — necessary equipment for the environment.</p>
+<h2>Healthcare System Overview</h2>
+<h3>Major Health Networks</h3>
+<p><strong>Tampa General Hospital:</strong> Level 1 trauma center, nationally ranked specialties
+<strong>BayCare Health System:</strong> Multiple locations, good for routine care
+<strong>Johns Hopkins All Children's Hospital:</strong> Pediatric specialists, St. Petersburg location
+<strong>Moffitt Cancer Center:</strong> World-renowned cancer treatment and research</p>
+<h3>Insurance Considerations</h3>
+<p>Florida Blue dominates the individual market. If you're keeping employer insurance, verify network coverage includes Tampa Bay providers. Many national insurers have limited networks here.</p>
+<p><strong>Medicare Advantage:</strong> Popular among retirees, extensive options compared to Kansas City</p>
+<h2>Year One Timeline and Checklist</h2>
+<h3>Before You Move</h3>
+<p><strong>90 days out:</strong></p>
+<ul>
+<li>Research neighborhoods, get pre-approved for mortgage</li>
+<li>Start job hunting if not transferring</li>
+<li>Schedule home sale in KC for optimal timing</li>
+</ul>
+<p><strong>30 days out:</strong></p>
+<ul>
+<li>Book movers, arrange utility transfers</li>
+<li>Register kids for school if moving during academic year</li>
+<li>Change voter registration, update insurance policies</li>
+</ul>
+<h3>First 30 Days in Florida</h3>
+<p><strong>Week 1:</strong></p>
+<ul>
+<li>Apply for Florida driver's license (required within 30 days)</li>
+<li>Register vehicles, update voter registration</li>
+<li>Open local bank accounts</li>
+</ul>
+<p><strong>Week 2-4:</strong></p>
+<ul>
+<li>File homestead exemption if you bought property</li>
+<li>Find new healthcare providers, transfer prescriptions</li>
+<li>Explore neighborhoods, identify essential services</li>
+</ul>
+<h3>Months 2-12</h3>
+<ul>
+<li>Join community organizations, meet neighbors</li>
+<li>Establish hurricane preparation routine</li>
+<li>Explore Florida travel opportunities (Keys, Orlando, etc.)</li>
+<li>Build professional network through industry meetups</li>
+</ul>
+<h2>Financial Planning for the Transition</h2>
+<h3>Tax Savings Calculation</h3>
+<p>For Kansas City residents earning $75,000+, the tax benefits are substantial:</p>
+<p><strong>Missouri taxes saved annually:</strong></p>
+<ul>
+<li>$75,000 income: ~$3,600/year</li>
+<li>$100,000 income: ~$5,200/year</li>
+<li>$150,000 income: ~$8,100/year</li>
+</ul>
+<p><strong>Kansas City earnings tax saved:</strong> 1% of income if you worked within city limits</p>
+<p>These savings help offset higher housing costs over time.</p>
+<h3>Cost Adjustment Strategies</h3>
+<p><strong>Housing:</strong> Consider condos or townhomes initially. Tampa Bay's condo market offers more value than Kansas City's limited options.</p>
+<p><strong>Transportation:</strong> One car households work in walkable neighborhoods like downtown St. Pete or Hyde Park. Uber/Lyft coverage is extensive.</p>
+<p><strong>Entertainment:</strong> Beach access is free. State parks cost $5/vehicle. Many outdoor activities replace expensive indoor entertainment.</p>
+<h2>Making the Final Decision</h2>
+<h3>Green Flags for KC to Tampa Bay</h3>
+<ul>
+<li><strong>You're tired of extreme weather seasons</strong></li>
+<li><strong>State income tax bothers you</strong></li>
+<li><strong>You want year-round outdoor activities</strong></li>
+<li><strong>Beach lifestyle appeals to you</strong></li>
+<li><strong>You can work remotely or transfer jobs</strong></li>
+<li><strong>You're ready for cultural diversity</strong></li>
+</ul>
+<h3>Potential Deal Breakers</h3>
+<ul>
+<li><strong>You love four distinct seasons</strong></li>
+<li><strong>Family ties keep you in the Midwest</strong></li>
+<li><strong>Higher housing costs strain your budget</strong></li>
+<li><strong>You hate humidity (it's real here)</strong></li>
+<li><strong>Professional network is KC-specific</strong></li>
+</ul>
+<p>The families I help relocate from Kansas City typically tell me two things six months later: they wish they'd moved sooner, and they can't imagine going back to shoveling snow. The adjustment period is real, but the lifestyle upgrade usually wins out.</p>
+<p>For detailed <a href="/cost-of-living/">cost of living</a> comparisons and specific neighborhood recommendations based on your situation, I'm here to help navigate your transition from the heartland to the Gulf Coast.</p>
+<hr>
+<p><strong>Moving to Tampa Bay?</strong> Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.</p>
+<p><a href="https://nowtb.com">Contact Barrett →</a> | <a href="tel:8137337907">(813) 733-7907</a></p>
+<hr>
+<h2>Frequently Asked Questions</h2>
+<h3>How much money should I save for moving from Kansas City to Tampa Bay?</h3>
+<p>Plan for $15,000-25,000 in moving expenses and initial setup costs. This covers professional movers ($5,000-7,000), temporary lodging, utility deposits, and unexpected expenses. Having 6 months of expenses saved helps cushion the transition period while you establish income and adjust to higher housing costs.</p>
+<h3>What's the job market like for Kansas City transplants in Tampa Bay?</h3>
+<p>Tampa Bay's job market is strong, especially in healthcare, finance, technology, and logistics. Many skills transfer directly from Kansas City's economy. Starting salaries often match or exceed KC levels, and with no state income tax, your take-home pay typically increases even with similar gross wages.</p>
+<h3>How do Tampa Bay schools compare to Kansas City area schools?</h3>
+<p>Top districts in Tampa Bay (like parts of Hillsborough, Pinellas, and Pasco counties) offer excellent schools comparable to Blue Valley or Park Hill districts. However, school quality varies significantly by neighborhood. Research specific schools using Florida's A-F rating system, and consider private options if needed.</p>
+<h3>Is hurricane risk really that serious compared to Kansas City tornado risk?</h3>
+<p>Hurricanes provide 5-7 days advance warning versus 30 minutes for tornadoes, making them more manageable despite being larger storms. Major hurricanes directly hitting Tampa Bay occur roughly every 20-25 years. Proper preparation and insurance make hurricane risk very manageable for most residents.</p>
+<h3>What neighborhoods feel most like Kansas City suburbs?</h3>
+<p>Westchase, Wesley Chapel, and parts of Brandon offer the master-planned suburban feel similar to Overland Park or Lee's Summit. For urban character like Brookside or Crossroads, try Seminole Heights in Tampa or downtown St. Petersburg. Hyde Park captures the upscale feel of Prairie Village or Leawood.</p>
+<h3>How much will my property taxes change moving to Florida?</h3>
+<p>Florida's property tax rates average 0.9% versus Missouri's 1.5%, but home values are higher in Tampa Bay. On a $400,000 Florida home with homestead exemption, expect $3,200/year in property taxes. However, you'll save significantly on state income taxes, often offsetting the difference.</p>
+<h3>What's the real cost difference for daily expenses like groceries and gas?</h3>
+<p>Groceries run about 8% higher than Kansas City, mainly due to fresh seafood and produce costs. Gas prices are typically $0.20-0.30 higher per gallon. Dining out costs more in tourist areas but remains reasonable in residential neighborhoods. Overall, daily expenses are manageable with proper budgeting.</p>
+<h3>How hard is it to make friends and build community coming from Kansas City?</h3>
+<p>Tampa Bay attracts many transplants, making it easier to connect with others in similar situations. Join neighborhood associations, professional organizations, or recreational leagues. The outdoor lifestyle and year-round activities provide more social opportunities than Kansas City's seasonal limitations.</p>
+<h3>Should I rent first or buy immediately when moving from Kansas City?</h3>
+<p>Consider renting for 6-12 months to learn neighborhoods and understand the market. This is especially wise if you're unfamiliar with hurricane zones, flood risks, or commute patterns. Renting allows you to find the right area before committing to a mortgage in an unfamiliar market.</p>
+<h3>What Kansas City things will I miss most, and what compensates for them?</h3>
+<p>You'll miss Kansas City barbecue, Chiefs games, and moderate housing costs. Tampa Bay compensates with year-round outdoor activities, no snow removal, diverse dining scenes, professional sports, and significant tax savings. Most transplants say the lifestyle improvements outweigh what they leave behind.</p>
+8:["slug","moving-from-kansas-city","d"]
+0:["SZLIdUDBKVit2TP_UqbYL",[[["",{"children":["blog",{"children":[["slug","moving-from-kansas-city","d"],{"children":["__PAGE__?{\"slug\":\"moving-from-kansas-city\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","moving-from-kansas-city","d"],{"children":["__PAGE__",{},[["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","section",null,{"className":"relative w-full h-[200px] md:h-[300px] overflow-hidden bg-brand-navy","children":[["$","$L3",null,{"src":"/images/blog/housing.jpg","alt":"Moving from Kansas City to Tampa Bay — The Complete Relocation Guide","fill":true,"className":"object-cover","unoptimized":true,"priority":true}],["$","div",null,{"className":"absolute inset-0 bg-brand-navy/60"}],["$","div",null,{"className":"relative z-10 flex flex-col items-center justify-center h-full px-4 text-center","children":[["$","h1",null,{"className":"text-white text-3xl md:text-5xl font-display font-extrabold leading-tight max-w-4xl","children":"Moving from Kansas City to Tampa Bay — The Complete Relocation Guide"}],"$undefined"]}]]}],["$","article",null,{"className":"max-w-4xl mx-auto px-4 py-10","children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://tbrelo.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://tbrelo.com/blog/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Moving from Kansas City to Tampa Bay — The Complete Relocation Guide\",\"item\":\"https://tbrelo.com/blog/moving-from-kansas-city/\"}]}"}}],["$","nav",null,{"aria-label":"Breadcrumb","className":"text-sm text-brand-slate mb-6","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-1","children":[["$","li","/",{"className":"flex items-center gap-1","children":[false,["$","$L4",null,{"href":"/","className":"hover:text-brand-blue transition-colors","children":"Home"}]]}],["$","li","/blog/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","$L4",null,{"href":"/blog/","className":"hover:text-brand-blue transition-colors","children":"Blog"}]]}],["$","li","/blog/moving-from-kansas-city/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","span",null,{"className":"text-brand-navy font-medium","children":"Moving from Kansas City to Tampa Bay — The Complete Relocation Guide"}]]}]]}]}]],["$","p",null,{"className":"text-brand-slate text-sm mb-8","children":["Published ","August 13, 2024"]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$5"}}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"cta-box-primary","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-white","children":"Moving to Tampa Bay? Get a Local Expert."}],["$","p",null,{"className":"text-sm mb-4 text-white","children":"Barrett Henry is a Broker Associate with REMAX Collective and over 23 years of real estate experience. Straight talk, smart strategy, no pressure."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-blue text-white hover:bg-blue-600","children":["Contact Barrett"," →"]}],["$","a",null,{"href":"tel:8137337907","className":"text-sm text-white","children":"(813) 733-7907"}]]}]]}],["$","div",null,{"className":"cta-box","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-brand-navy","children":"Need Help Setting Up Your New Home?"}],["$","p",null,{"className":"text-sm mb-4 text-brand-slate","children":"Best Bay Services handles handyman work, home repairs, and maintenance for your new Tampa Bay home. Local, licensed, and trusted."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-navy text-white hover:bg-brand-dark","children":["Get a Quote"," →"]}],["$","a",null,{"href":"tel:8134168676","className":"text-sm text-brand-blue","children":"(813) 416-8676"}]]}]]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","$L6",null,{"blogSlug":"moving-from-kansas-city"}]]}]],null],null],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$8","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/db2729ad4a9f0783.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link",null,{"rel":"icon","href":"/favicon-32.png","type":"image/png","sizes":"32x32"}],["$","link",null,{"rel":"icon","href":"/favicon-16.png","type":"image/png","sizes":"16x16"}],["$","link",null,{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link",null,{"rel":"icon","href":"/icon-192.png","type":"image/png","sizes":"192x192"}],["$","meta",null,{"name":"google-adsense-account","content":"ca-pub-2033173419526042"}],["$","meta",null,{"name":"impact-site-verification","content":"bb623f40-9653-4312-9ca8-bf35b957a10c"}],["$","$La",null,{"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2033173419526042","strategy":"afterInteractive","crossOrigin":"anonymous"}],["$","$La",null,{"src":"https://www.googletagmanager.com/gtag/js?id=G-TD87S02SLM","strategy":"afterInteractive"}],["$","$La",null,{"id":"gtag-init","strategy":"afterInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'G-TD87S02SLM');\n          "}]]}],["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"[{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"https://tbrelo.com/#website\",\"name\":\"TB Relo — Tampa Bay Relocation Guide\",\"url\":\"https://tbrelo.com\",\"description\":\"Comprehensive relocation guides for Tampa Bay, Florida. Covering 8 counties, 100+ cities, cost of living, schools, and everything you need to know about moving to Tampa Bay.\",\"publisher\":{\"@id\":\"https://tbrelo.com/#org\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://tbrelo.com/blog/?q={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}},{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://tbrelo.com/#org\",\"name\":\"TB Relo\",\"url\":\"https://tbrelo.com\",\"sameAs\":[\"https://nowtb.com\",\"https://valricoagent.com\",\"https://parrishagent.com\",\"https://www.facebook.com/BarrettHenryREALTOR/\",\"https://www.instagram.com/thenowteam\",\"https://www.youtube.com/@nowtampa\"]}]"}}],["$","$Lb",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"max-w-2xl mx-auto px-4 py-20 text-center","children":[["$","h1",null,{"className":"text-6xl font-display font-extrabold text-brand-navy mb-4","children":"404"}],["$","p",null,{"className":"text-xl text-brand-slate mb-8","children":"This page doesn't exist. Maybe you're looking for one of these?"}],["$","div",null,{"className":"grid sm:grid-cols-2 gap-4 mb-12 text-left","children":[["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Moving Guide"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Complete guide to relocating to Tampa Bay"}]]}],["$","$L4",null,{"href":"/counties/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Explore Counties"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Browse all 8 Tampa Bay counties"}]]}],["$","$L4",null,{"href":"/cities/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Find a City"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"90+ city and neighborhood guides"}]]}],["$","$L4",null,{"href":"/blog/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Blog"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Tips, comparisons, and local insights"}]]}]]}],["$","$L4",null,{"href":"/","className":"px-8 py-4 bg-brand-blue text-white font-display font-bold rounded-lg hover:bg-blue-600 transition-colors text-lg inline-block","children":"Back to Home"}]]}],"notFoundStyles":[]}]}],["$","footer",null,{"className":"bg-brand-dark text-gray-400","children":[["$","div",null,{"className":"bg-brand-navy","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10","children":["$","div",null,{"className":"grid md:grid-cols-3 gap-8 text-center","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Buying or Selling a Home?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Barrett Henry — The NOW Team at REMAX Collective"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 733-7907"}]]}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Need a Handyman?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Best Bay Services — Tampa Bay Home Services"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 416-8676"}]]}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Property Management"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"ViVi PM — Full-Service Property Management"}]]}]]}]}]}],["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8","children":[["$","div",null,{"className":"md:col-span-2","children":[["$","div",null,{"className":"font-display font-extrabold text-2xl text-white mb-3","children":["TB",["$","span",null,{"className":"text-brand-sky","children":"Relo"}]]}],["$","p",null,{"className":"text-sm leading-relaxed","children":"Your complete guide to relocating to Tampa Bay, Florida. Covering Hillsborough, Pinellas, Pasco, Hernando, Polk, Manatee, Sarasota, and Citrus counties with honest, local insight from someone who actually lives here."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Guides"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"hover:text-white transition-colors","children":"Moving to Tampa Bay"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/cost-of-living/","className":"hover:text-white transition-colors","children":"Cost of Living"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/moving-checklist/","className":"hover:text-white transition-colors","children":"Moving Checklist"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/blog/","className":"hover:text-white transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Counties"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li","Hillsborough",{"children":["$","$L4",null,{"href":"/counties/hillsborough/","className":"hover:text-white transition-colors","children":["Hillsborough"," County"]}]}],["$","li","Pinellas",{"children":["$","$L4",null,{"href":"/counties/pinellas/","className":"hover:text-white transition-colors","children":["Pinellas"," County"]}]}],["$","li","Pasco",{"children":["$","$L4",null,{"href":"/counties/pasco/","className":"hover:text-white transition-colors","children":["Pasco"," County"]}]}],["$","li","Hernando",{"children":["$","$L4",null,{"href":"/counties/hernando/","className":"hover:text-white transition-colors","children":["Hernando"," County"]}]}],["$","li","Polk",{"children":["$","$L4",null,{"href":"/counties/polk/","className":"hover:text-white transition-colors","children":["Polk"," County"]}]}],["$","li","Manatee",{"children":["$","$L4",null,{"href":"/counties/manatee/","className":"hover:text-white transition-colors","children":["Manatee"," County"]}]}],["$","li","Sarasota",{"children":["$","$L4",null,{"href":"/counties/sarasota/","className":"hover:text-white transition-colors","children":["Sarasota"," County"]}]}],["$","li","Citrus",{"children":["$","$L4",null,{"href":"/counties/citrus/","className":"hover:text-white transition-colors","children":["Citrus"," County"]}]}]]}]]}]]}],["$","div",null,{"className":"mt-10 pt-8 border-t border-gray-800","children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Barrett Henry's Network"}],["$","div",null,{"className":"grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3 text-sm","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Tampa Bay Real Estate"}],["$","a",null,{"href":"https://valricoagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Real Estate"}],["$","a",null,{"href":"https://parrishagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Parrish Real Estate"}],["$","a",null,{"href":"https://valrico.blog","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Community Blog"}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Handyman & Home Services"}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Property Management"}]]}]]}],["$","div",null,{"className":"mt-12 pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center gap-4 text-xs","children":[["$","p",null,{"children":["© ",2026," TB Relo. All rights reserved."]}],["$","div",null,{"className":"flex gap-4","children":[["$","$L4",null,{"href":"/affiliate-disclosure/","className":"hover:text-white transition-colors","children":"Affiliate Disclosure"}],["$","$L4",null,{"href":"/privacy-policy/","className":"hover:text-white transition-colors","children":"Privacy Policy"}],["$","$L4",null,{"href":"/disclaimer/","className":"hover:text-white transition-colors","children":"Disclaimer"}]]}]]}]]}],["$","div",null,{"className":"bg-black/30 border-t border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 text-center text-xs text-gray-500","children":["Site by"," ",["$","a",null,{"href":"https://vyrabyte.com","target":"_blank","rel":"noopener noreferrer","className":"text-gray-400 hover:text-white transition-colors","children":"Vyrabyte"}]]}]}]]}],["$","$Lc",null,{}]]}]]}]],null],null],["$Ld",null]]]]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Moving from Kansas City to Tampa Bay — The Complete Relocation Guide | TB Relo | TB Relo"}],["$","meta","3",{"name":"description","content":"Moving from Kansas City to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","6",{"property":"og:title","content":"Moving from Kansas City to Tampa Bay — The Complete Relocation Guide | TB Relo | TB Relo"}],["$","meta","7",{"property":"og:description","content":"Moving from Kansas City to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","8",{"property":"og:image","content":"https://tbrelo.com/images/blog/housing.jpg"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"Moving from Kansas City to Tampa Bay — The Complete Relocation Guide | TB Relo | TB Relo"}],["$","meta","13",{"name":"twitter:description","content":"Moving from Kansas City to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","14",{"name":"twitter:image","content":"https://tbrelo.com/images/blog/housing.jpg"}],["$","link","15",{"rel":"icon","href":"/icon.svg?ff4364d89c37c0d6","type":"image/svg+xml","sizes":"any"}]]
+1:null

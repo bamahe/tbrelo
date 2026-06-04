@@ -1,0 +1,252 @@
+3:I[5878,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"Image"]
+4:I[2972,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],""]
+6:I[5143,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"default"]
+7:I[4707,[],""]
+9:I[6423,[],""]
+a:I[8003,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],""]
+b:I[7312,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"default"]
+c:I[5463,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"SpeedInsights"]
+2:Te7c,[{"@context":"https://schema.org","@type":"Article","headline":"How to Get a Florida Real ID — Complete Guide | TB Relo","description":"How to Get a Florida Real ID. Honest guide from a Tampa Bay local with 23+ years of experience.","url":"https://tbrelo.com/blog/florida-real-id-guide/","author":{"@type":"Person","name":"Barrett Henry","jobTitle":"REALTOR® & Broker Associate","url":"https://nowtb.com","worksFor":{"@type":"Organization","name":"REMAX Collective"},"knowsAbout":["Tampa Bay Real Estate","Florida Relocation","Residential Real Estate","Investment Property","Property Management"]},"publisher":{"@type":"Organization","name":"TB Relo","url":"https://tbrelo.com"},"datePublished":"2025-06-30T08:00:00-04:00","dateModified":"2026-04-16T08:00:00-04:00","image":{"@type":"ImageObject","url":"https://tbrelo.com/images/blog/housing.jpg"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Can I get a Real ID if I just moved to Florida?","acceptedAnswer":{"@type":"Answer","text":"Yes, you can get a Real ID when you get your initial Florida driver's license. You'll need the same documents plus proof of Florida residency. New residents have 30 days after establishing residency to get a Florida license, so plan accordingly."}},{"@type":"Question","name":"What if my name is different on some documents?","acceptedAnswer":{"@type":"Answer","text":"You'll need official name change documentation like a marriage certificate or divorce decree with a raised seal. The DMV needs to verify the connection between all names on your documents. Court orders for legal name changes also work."}},{"@type":"Question","name":"Do I need a Real ID if I already have a passport?","acceptedAnswer":{"@type":"Answer","text":"No, a valid U.S. passport works for domestic flights and federal buildings. However, many people prefer having one document that works for both driving and flying rather than carrying a passport for domestic travel."}},{"@type":"Question","name":"Can I renew my regular license online and skip the Real ID?","acceptedAnswer":{"@type":"Answer","text":"Yes, Florida allows online renewals for regular licenses if you meet eligibility requirements. However, you'll eventually need to visit the DMV in person if you want to upgrade to Real ID later."}},{"@type":"Question","name":"What happens if my Real ID gets lost or stolen?","acceptedAnswer":{"@type":"Answer","text":"You can replace a lost Real ID at any Florida DMV office. You'll need to bring identity documents again and pay the replacement fee. The process is similar to the original application but typically faster."}},{"@type":"Question","name":"Are there any Real ID exemptions for seniors or disabled persons?","acceptedAnswer":{"@type":"Answer","text":"The Real ID requirements apply to all ages and abilities. However, Florida DMV offices accommodate disabilities with accessible facilities and services. Active military personnel may use military IDs instead of Real ID for federal facilities."}},{"@type":"Question","name":"Can I use a Real ID from another state in Florida?","acceptedAnswer":{"@type":"Answer","text":"Yes, Real IDs from any state work for federal purposes nationwide. However, if you establish Florida residency, you still need to get a Florida license within 30 days for driving purposes."}},{"@type":"Question","name":"How do I know if my documents will be accepted?","acceptedAnswer":{"@type":"Answer","text":"Check Florida DMV's official document list at flhsmv.gov or call the DMV office before visiting. When in doubt, bring extra documents rather than risk a wasted trip. Original documents or certified copies only — photocopies don't work."}}]}]5:T3baa,<p>The clock is ticking on Florida's Real ID rollout, and if you're new to Tampa Bay — or just procrastinated like the rest of us — you need to get this sorted before October 1, 2025. After that date, your regular Florida driver's license won't cut it for domestic flights or federal buildings.</p>
+<p>I've helped hundreds of relocating families navigate Florida's bureaucracy over the past 23 years, and the Real ID process trips up more people than you'd expect. The good news? Once you know what documents to bring and where to go, it's straightforward. The bad news? One missing paper means another trip to the DMV.</p>
+<h2>What Exactly Is a Florida Real ID?</h2>
+<p>A Real ID looks almost identical to your regular Florida driver's license, except for a small star in the upper right corner. That star means the license meets federal security standards established after 9/11.</p>
+<p>Starting October 1, 2025, you'll need either a Real ID or a passport to:</p>
+<ul>
+<li>Board domestic flights within the United States</li>
+<li>Enter federal facilities (like VA hospitals, Social Security offices, or military bases)</li>
+<li>Access nuclear power plants</li>
+</ul>
+<p>Your regular Florida license will still work for driving, buying alcohol, and every other normal ID function. But if you fly domestically even once a year, getting the Real ID upgrade makes sense.</p>
+<p>The cost is the same as a regular license renewal — $48 for eight years. No additional fees for the Real ID designation itself.</p>
+<h2>Documents You'll Need (The Make-or-Break List)</h2>
+<p>Here's where people mess up. Florida requires specific documents in specific categories, and substitutions usually don't work. Print this list and gather everything before you go.</p>
+<h3>Identity Documents (Need 1)</h3>
+<ul>
+<li>Certified U.S. birth certificate with raised seal</li>
+<li>Valid U.S. passport or passport card</li>
+<li>Certificate of Naturalization</li>
+<li>Certificate of Citizenship</li>
+</ul>
+<p><strong>Tampa Bay Reality Check:</strong> Birth certificates from other states often take 2-3 weeks to arrive by mail. Order early if you need a replacement.</p>
+<h3>Social Security Documents (Need 1)</h3>
+<ul>
+<li>Social Security card (original or certified copy)</li>
+<li>W-2 form with full SSN visible</li>
+<li>Pay stub with full SSN and employer information</li>
+<li>1099 form with full SSN</li>
+</ul>
+<h3>Two Proofs of Florida Residency (Need 2)</h3>
+<p>This is where new residents get stuck. Both documents must show your current Florida address:</p>
+<p><strong>Utility bills</strong> (electric, gas, water, cable, internet) — not cell phone bills
+<strong>Bank statements</strong> from the last 60 days
+<strong>Mortgage documents or lease agreement</strong>
+<strong>Florida voter registration card</strong>
+<strong>Florida vehicle registration</strong>
+<strong>Homeowner's or renter's insurance policy</strong></p>
+<p>The documents must be dated within the last 60 days, except for mortgage/lease agreements and insurance policies.</p>
+<h3>Name Change Documentation (If Applicable)</h3>
+<p>If your name on any document doesn't match your current legal name:</p>
+<ul>
+<li>Marriage certificate with raised seal</li>
+<li>Divorce decree with raised seal</li>
+<li>Court order for legal name change</li>
+</ul>
+<h2>Step-by-Step Application Process</h2>
+<h3>Step 1: Gather Your Documents</h3>
+<p>Don't skip this. Seriously. I've watched people drive to three different DMV locations only to discover they're missing one piece of paper. Use the checklist above and physically put all documents in a folder.</p>
+<h3>Step 2: Complete the Application Online (Optional but Smart)</h3>
+<p>Visit GoRenew.com and start your application online. You'll still need to visit the DMV in person, but pre-filling the paperwork saves time. The system will give you a confirmation number — write it down.</p>
+<h3>Step 3: Choose Your DMV Location Strategically</h3>
+<p>Not all Florida DMV offices are created equal. In Tampa Bay, here are your best bets:</p>
+<p><strong>Fastest Service:</strong></p>
+<ul>
+<li>Carrollwood (13420 N Florida Ave) — usually shorter waits</li>
+<li>South Tampa (5550 W Waters Ave) — newer facility, efficient staff</li>
+</ul>
+<p><strong>Avoid if Possible:</strong></p>
+<ul>
+<li>Downtown Tampa locations during lunch hours</li>
+<li>Any DMV office on Mondays or Fridays</li>
+</ul>
+<p><strong>Pro Tip:</strong> Check wait times at MyDMV.com before leaving home. Some locations post current wait times online.</p>
+<h3>Step 4: Visit the DMV</h3>
+<p>Arrive early — ideally when they open at 7:30 AM. Bring:</p>
+<ul>
+<li>All your documents (originals, not copies)</li>
+<li>Your current driver's license</li>
+<li>Payment method (cash, check, or money order — many don't take cards)</li>
+<li>Reading glasses if you need them for the eye test</li>
+</ul>
+<p>The process involves:</p>
+<ol>
+<li>Document review (they'll check everything matches)</li>
+<li>Eye exam</li>
+<li>New photo</li>
+<li>Payment</li>
+<li>Temporary paper license (your Real ID arrives by mail in 7-10 business days)</li>
+</ol>
+<h2>Common Mistakes That Cost You Time</h2>
+<h3>Mistake #1: Bringing Photocopies</h3>
+<p>Florida DMV needs original documents or certified copies. Regular photocopies won't work, even if they're notarized.</p>
+<h3>Mistake #2: Expired Utility Bills</h3>
+<p>That electric bill from three months ago? Useless. Residency documents must be dated within 60 days of your visit.</p>
+<h3>Mistake #3: Assuming Your Birth Certificate Is Valid</h3>
+<p>Hospital certificates don't count. You need the official birth certificate issued by the state vital records office with a raised seal.</p>
+<h3>Mistake #4: Not Checking Your Current License Status</h3>
+<p>If your license is suspended or you have outstanding tickets, resolve those first. The DMV can't issue a Real ID until your driving record is clean.</p>
+<h3>Mistake #5: Bringing Only Electronic Documents</h3>
+<p>Screenshots of bank statements or utility bills don't work. Print official paper copies or bring original mailed statements.</p>
+<hr>
+<p><strong>Moving to Tampa Bay?</strong> Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.</p>
+<p><a href="https://nowtb.com">Contact Barrett →</a> | <a href="tel:8137337907">(813) 733-7907</a></p>
+<hr>
+<h2>Special Situations for New Florida Residents</h2>
+<h3>Moving From Another State</h3>
+<p>If you're relocating to Tampa Bay from out-of-state, you can get your Real ID when you get your Florida license. You have 30 days after establishing Florida residency to get a Florida license.</p>
+<p>Required documents remain the same, plus you'll need to surrender your out-of-state license. Some states allow you to keep your old license with a hole punched through it for personal records.</p>
+<h3>Active Military Personnel</h3>
+<p>Military families stationed in Tampa Bay (MacDill AFB is a major presence here) can use military orders as proof of residency. You'll still need the identity and Social Security documents, but military housing paperwork works for residency proof.</p>
+<h3>College Students</h3>
+<p>Students at USF, UT, or other Tampa Bay universities can use dorm contracts or off-campus lease agreements for residency proof. A utility bill in your name (even if it's internet or cable) helps as your second residency document.</p>
+<h2>Tampa Bay DMV Office Locations and Tips</h2>
+<h3>Hillsborough County Offices</h3>
+<p><strong>Carrollwood DMV</strong>
+13420 N Florida Ave, Tampa</p>
+<ul>
+<li>Best times: Tuesday-Thursday, 7:30-9:00 AM</li>
+<li>Parking: Large lot, but fills up after 10 AM</li>
+</ul>
+<p><strong>South Tampa DMV</strong>
+5550 W Waters Ave, Tampa</p>
+<ul>
+<li>Newer facility with better organization</li>
+<li>Avoid lunch hours (11:30 AM - 1:30 PM)</li>
+</ul>
+<p><strong>Brandon DMV</strong>
+2003 W Brandon Blvd, Brandon</p>
+<ul>
+<li>Serves eastern Hillsborough residents</li>
+<li>Less crowded than downtown locations</li>
+</ul>
+<h3>Pinellas County Offices</h3>
+<p><strong>Clearwater DMV</strong>
+2575 Countryside Blvd, Clearwater</p>
+<ul>
+<li>Large facility serving central Pinellas</li>
+<li>Best for Clearwater, Safety Harbor, Palm Harbor residents</li>
+</ul>
+<p><strong>St. Petersburg DMV</strong>
+11801 4th St N, St. Petersburg</p>
+<ul>
+<li>Convenient for downtown St. Pete residents</li>
+<li>Can get busy during tourist season</li>
+</ul>
+<h3>Pasco County Options</h3>
+<p><strong>New Port Richey DMV</strong>
+5537 Marine Pkwy, New Port Richey</p>
+<ul>
+<li>Serves west Pasco residents</li>
+<li>Generally shorter waits than Tampa locations</li>
+</ul>
+<p><strong>Dade City DMV</strong>
+14236 6th St, Dade City</p>
+<ul>
+<li>Smallest office but fastest service</li>
+<li>Worth the drive if you live in north Tampa Bay</li>
+</ul>
+<h2>Real ID vs. Passport: Which Should You Get?</h2>
+<p>This question comes up constantly. Here's the practical breakdown:</p>
+<p><strong>Get a Real ID if:</strong></p>
+<ul>
+<li>You fly domestically 1-2 times per year</li>
+<li>You don't have a current passport</li>
+<li>You want one document for both driving and flying</li>
+<li>You're not planning international travel</li>
+</ul>
+<p><strong>Get a Passport instead if:</strong></p>
+<ul>
+<li>You travel internationally</li>
+<li>You don't want to deal with DMV bureaucracy</li>
+<li>You already have a valid driver's license</li>
+<li>You prefer federal documents over state documents</li>
+</ul>
+<p><strong>Get both if:</strong></p>
+<ul>
+<li>You travel frequently (domestic and international)</li>
+<li>You want backup identification</li>
+<li>You can afford both ($48 for Real ID + $130 for passport book)</li>
+</ul>
+<p>Many Tampa Bay residents choose the Real ID for convenience, especially since we have excellent international flight options from Tampa International Airport.</p>
+<h2>Timeline and Planning Tips</h2>
+<h3>How Long Does It Take?</h3>
+<ul>
+<li><strong>DMV visit:</strong> 1-3 hours depending on location and time</li>
+<li><strong>Processing time:</strong> 7-10 business days for your Real ID to arrive by mail</li>
+<li><strong>Total time from decision to card in hand:</strong> 2-3 weeks</li>
+</ul>
+<h3>Plan Ahead for These Situations</h3>
+<p><strong>Upcoming travel:</strong> Apply at least 3 weeks before any domestic flight
+<strong>License expiration:</strong> Don't wait until your current license expires
+<strong>Moving season:</strong> Tampa Bay's busy moving season (May-August) means longer DMV waits</p>
+<h3>Document Gathering Timeline</h3>
+<ul>
+<li><strong>Birth certificate replacement:</strong> 2-3 weeks if ordering from another state</li>
+<li><strong>Social Security card replacement:</strong> 1-2 weeks</li>
+<li><strong>Bank statements:</strong> Request current statements online or wait for next monthly statement</li>
+</ul>
+<h2>Cost Breakdown</h2>
+<p>The Real ID itself doesn't cost extra, but here are the potential expenses:</p>
+<ul>
+<li><strong>Florida Real ID license:</strong> $48 (8-year term = $6 per year)</li>
+<li><strong>Birth certificate replacement:</strong> $15-25 depending on state</li>
+<li><strong>Social Security card replacement:</strong> Free (but only 3 replacements per year, 10 lifetime)</li>
+<li><strong>Certified marriage/divorce documents:</strong> $10-20 per copy</li>
+<li><strong>Time off work:</strong> Varies (budget 3-4 hours for the DMV trip)</li>
+</ul>
+<p><strong>Total typical cost for new residents:</strong> $50-100 depending on which documents you need to replace.</p>
+<h2>What Happens After October 1, 2025?</h2>
+<p>Starting October 1, 2025, TSA will require Real ID or passport for domestic flights. Here's what that means practically:</p>
+<p><strong>If you forget your Real ID:</strong></p>
+<ul>
+<li>You can still fly with a passport</li>
+<li>TSA has alternative ID procedures (but expect major delays)</li>
+<li>Some alternative documents work (voter registration + utility bill) but verification takes time</li>
+</ul>
+<p><strong>For federal buildings:</strong></p>
+<ul>
+<li>Real ID or passport required for entry</li>
+<li>Work badges might provide access for employees</li>
+<li>Veterans affairs, Social Security offices, IRS offices all affected</li>
+</ul>
+<p><strong>Regular daily life:</strong></p>
+<ul>
+<li>Your current Florida license still works for driving, banking, alcohol purchases</li>
+<li>State and local government buildings typically accept regular licenses</li>
+<li>Private businesses (bars, stores, banks) accept regular licenses</li>
+</ul>
+<p>The federal government hasn't announced plans for additional restrictions beyond these initial requirements, but having Real ID future-proofs your identification needs.</p>
+<hr>
+<p><strong>Moving to Tampa Bay?</strong> Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.</p>
+<p><a href="https://nowtb.com">Contact Barrett →</a> | <a href="tel:8137337907">(813) 733-7907</a></p>
+<hr>
+<h2>Frequently Asked Questions</h2>
+<h3>Can I get a Real ID if I just moved to Florida?</h3>
+<p>Yes, you can get a Real ID when you get your initial Florida driver's license. You'll need the same documents plus proof of Florida residency. New residents have 30 days after establishing residency to get a Florida license, so plan accordingly.</p>
+<h3>What if my name is different on some documents?</h3>
+<p>You'll need official name change documentation like a marriage certificate or divorce decree with a raised seal. The DMV needs to verify the connection between all names on your documents. Court orders for legal name changes also work.</p>
+<h3>Do I need a Real ID if I already have a passport?</h3>
+<p>No, a valid U.S. passport works for domestic flights and federal buildings. However, many people prefer having one document that works for both driving and flying rather than carrying a passport for domestic travel.</p>
+<h3>Can I renew my regular license online and skip the Real ID?</h3>
+<p>Yes, Florida allows online renewals for regular licenses if you meet eligibility requirements. However, you'll eventually need to visit the DMV in person if you want to upgrade to Real ID later.</p>
+<h3>What happens if my Real ID gets lost or stolen?</h3>
+<p>You can replace a lost Real ID at any Florida DMV office. You'll need to bring identity documents again and pay the replacement fee. The process is similar to the original application but typically faster.</p>
+<h3>Are there any Real ID exemptions for seniors or disabled persons?</h3>
+<p>The Real ID requirements apply to all ages and abilities. However, Florida DMV offices accommodate disabilities with accessible facilities and services. Active military personnel may use military IDs instead of Real ID for federal facilities.</p>
+<h3>Can I use a Real ID from another state in Florida?</h3>
+<p>Yes, Real IDs from any state work for federal purposes nationwide. However, if you establish Florida residency, you still need to get a Florida license within 30 days for driving purposes.</p>
+<h3>How do I know if my documents will be accepted?</h3>
+<p>Check Florida DMV's official document list at flhsmv.gov or call the DMV office before visiting. When in doubt, bring extra documents rather than risk a wasted trip. Original documents or certified copies only — photocopies don't work.</p>
+8:["slug","florida-real-id-guide","d"]
+0:["SZLIdUDBKVit2TP_UqbYL",[[["",{"children":["blog",{"children":[["slug","florida-real-id-guide","d"],{"children":["__PAGE__?{\"slug\":\"florida-real-id-guide\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","florida-real-id-guide","d"],{"children":["__PAGE__",{},[["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","section",null,{"className":"relative w-full h-[200px] md:h-[300px] overflow-hidden bg-brand-navy","children":[["$","$L3",null,{"src":"/images/blog/housing.jpg","alt":"How to Get a Florida Real ID — Complete Guide","fill":true,"className":"object-cover","unoptimized":true,"priority":true}],["$","div",null,{"className":"absolute inset-0 bg-brand-navy/60"}],["$","div",null,{"className":"relative z-10 flex flex-col items-center justify-center h-full px-4 text-center","children":[["$","h1",null,{"className":"text-white text-3xl md:text-5xl font-display font-extrabold leading-tight max-w-4xl","children":"How to Get a Florida Real ID — Complete Guide"}],"$undefined"]}]]}],["$","article",null,{"className":"max-w-4xl mx-auto px-4 py-10","children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://tbrelo.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://tbrelo.com/blog/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"How to Get a Florida Real ID — Complete Guide\",\"item\":\"https://tbrelo.com/blog/florida-real-id-guide/\"}]}"}}],["$","nav",null,{"aria-label":"Breadcrumb","className":"text-sm text-brand-slate mb-6","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-1","children":[["$","li","/",{"className":"flex items-center gap-1","children":[false,["$","$L4",null,{"href":"/","className":"hover:text-brand-blue transition-colors","children":"Home"}]]}],["$","li","/blog/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","$L4",null,{"href":"/blog/","className":"hover:text-brand-blue transition-colors","children":"Blog"}]]}],["$","li","/blog/florida-real-id-guide/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","span",null,{"className":"text-brand-navy font-medium","children":"How to Get a Florida Real ID — Complete Guide"}]]}]]}]}]],["$","p",null,{"className":"text-brand-slate text-sm mb-8","children":["Published ","June 30, 2025"]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$5"}}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"cta-box-primary","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-white","children":"Moving to Tampa Bay? Get a Local Expert."}],["$","p",null,{"className":"text-sm mb-4 text-white","children":"Barrett Henry is a Broker Associate with REMAX Collective and over 23 years of real estate experience. Straight talk, smart strategy, no pressure."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-blue text-white hover:bg-blue-600","children":["Contact Barrett"," →"]}],["$","a",null,{"href":"tel:8137337907","className":"text-sm text-white","children":"(813) 733-7907"}]]}]]}],["$","div",null,{"className":"cta-box","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-brand-navy","children":"Need Help Setting Up Your New Home?"}],["$","p",null,{"className":"text-sm mb-4 text-brand-slate","children":"Best Bay Services handles handyman work, home repairs, and maintenance for your new Tampa Bay home. Local, licensed, and trusted."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-navy text-white hover:bg-brand-dark","children":["Get a Quote"," →"]}],["$","a",null,{"href":"tel:8134168676","className":"text-sm text-brand-blue","children":"(813) 416-8676"}]]}]]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","$L6",null,{"blogSlug":"florida-real-id-guide"}]]}]],null],null],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$8","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/db2729ad4a9f0783.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link",null,{"rel":"icon","href":"/favicon-32.png","type":"image/png","sizes":"32x32"}],["$","link",null,{"rel":"icon","href":"/favicon-16.png","type":"image/png","sizes":"16x16"}],["$","link",null,{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link",null,{"rel":"icon","href":"/icon-192.png","type":"image/png","sizes":"192x192"}],["$","meta",null,{"name":"google-adsense-account","content":"ca-pub-2033173419526042"}],["$","meta",null,{"name":"impact-site-verification","content":"bb623f40-9653-4312-9ca8-bf35b957a10c"}],["$","$La",null,{"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2033173419526042","strategy":"afterInteractive","crossOrigin":"anonymous"}],["$","$La",null,{"src":"https://www.googletagmanager.com/gtag/js?id=G-TD87S02SLM","strategy":"afterInteractive"}],["$","$La",null,{"id":"gtag-init","strategy":"afterInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'G-TD87S02SLM');\n          "}]]}],["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"[{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"https://tbrelo.com/#website\",\"name\":\"TB Relo — Tampa Bay Relocation Guide\",\"url\":\"https://tbrelo.com\",\"description\":\"Comprehensive relocation guides for Tampa Bay, Florida. Covering 8 counties, 100+ cities, cost of living, schools, and everything you need to know about moving to Tampa Bay.\",\"publisher\":{\"@id\":\"https://tbrelo.com/#org\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://tbrelo.com/blog/?q={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}},{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://tbrelo.com/#org\",\"name\":\"TB Relo\",\"url\":\"https://tbrelo.com\",\"sameAs\":[\"https://nowtb.com\",\"https://valricoagent.com\",\"https://parrishagent.com\",\"https://www.facebook.com/BarrettHenryREALTOR/\",\"https://www.instagram.com/thenowteam\",\"https://www.youtube.com/@nowtampa\"]}]"}}],["$","$Lb",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"max-w-2xl mx-auto px-4 py-20 text-center","children":[["$","h1",null,{"className":"text-6xl font-display font-extrabold text-brand-navy mb-4","children":"404"}],["$","p",null,{"className":"text-xl text-brand-slate mb-8","children":"This page doesn't exist. Maybe you're looking for one of these?"}],["$","div",null,{"className":"grid sm:grid-cols-2 gap-4 mb-12 text-left","children":[["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Moving Guide"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Complete guide to relocating to Tampa Bay"}]]}],["$","$L4",null,{"href":"/counties/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Explore Counties"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Browse all 8 Tampa Bay counties"}]]}],["$","$L4",null,{"href":"/cities/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Find a City"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"90+ city and neighborhood guides"}]]}],["$","$L4",null,{"href":"/blog/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Blog"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Tips, comparisons, and local insights"}]]}]]}],["$","$L4",null,{"href":"/","className":"px-8 py-4 bg-brand-blue text-white font-display font-bold rounded-lg hover:bg-blue-600 transition-colors text-lg inline-block","children":"Back to Home"}]]}],"notFoundStyles":[]}]}],["$","footer",null,{"className":"bg-brand-dark text-gray-400","children":[["$","div",null,{"className":"bg-brand-navy","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10","children":["$","div",null,{"className":"grid md:grid-cols-3 gap-8 text-center","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Buying or Selling a Home?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Barrett Henry — The NOW Team at REMAX Collective"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 733-7907"}]]}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Need a Handyman?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Best Bay Services — Tampa Bay Home Services"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 416-8676"}]]}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Property Management"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"ViVi PM — Full-Service Property Management"}]]}]]}]}]}],["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8","children":[["$","div",null,{"className":"md:col-span-2","children":[["$","div",null,{"className":"font-display font-extrabold text-2xl text-white mb-3","children":["TB",["$","span",null,{"className":"text-brand-sky","children":"Relo"}]]}],["$","p",null,{"className":"text-sm leading-relaxed","children":"Your complete guide to relocating to Tampa Bay, Florida. Covering Hillsborough, Pinellas, Pasco, Hernando, Polk, Manatee, Sarasota, and Citrus counties with honest, local insight from someone who actually lives here."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Guides"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"hover:text-white transition-colors","children":"Moving to Tampa Bay"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/cost-of-living/","className":"hover:text-white transition-colors","children":"Cost of Living"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/moving-checklist/","className":"hover:text-white transition-colors","children":"Moving Checklist"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/blog/","className":"hover:text-white transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Counties"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li","Hillsborough",{"children":["$","$L4",null,{"href":"/counties/hillsborough/","className":"hover:text-white transition-colors","children":["Hillsborough"," County"]}]}],["$","li","Pinellas",{"children":["$","$L4",null,{"href":"/counties/pinellas/","className":"hover:text-white transition-colors","children":["Pinellas"," County"]}]}],["$","li","Pasco",{"children":["$","$L4",null,{"href":"/counties/pasco/","className":"hover:text-white transition-colors","children":["Pasco"," County"]}]}],["$","li","Hernando",{"children":["$","$L4",null,{"href":"/counties/hernando/","className":"hover:text-white transition-colors","children":["Hernando"," County"]}]}],["$","li","Polk",{"children":["$","$L4",null,{"href":"/counties/polk/","className":"hover:text-white transition-colors","children":["Polk"," County"]}]}],["$","li","Manatee",{"children":["$","$L4",null,{"href":"/counties/manatee/","className":"hover:text-white transition-colors","children":["Manatee"," County"]}]}],["$","li","Sarasota",{"children":["$","$L4",null,{"href":"/counties/sarasota/","className":"hover:text-white transition-colors","children":["Sarasota"," County"]}]}],["$","li","Citrus",{"children":["$","$L4",null,{"href":"/counties/citrus/","className":"hover:text-white transition-colors","children":["Citrus"," County"]}]}]]}]]}]]}],["$","div",null,{"className":"mt-10 pt-8 border-t border-gray-800","children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Barrett Henry's Network"}],["$","div",null,{"className":"grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3 text-sm","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Tampa Bay Real Estate"}],["$","a",null,{"href":"https://valricoagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Real Estate"}],["$","a",null,{"href":"https://parrishagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Parrish Real Estate"}],["$","a",null,{"href":"https://valrico.blog","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Community Blog"}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Handyman & Home Services"}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Property Management"}]]}]]}],["$","div",null,{"className":"mt-12 pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center gap-4 text-xs","children":[["$","p",null,{"children":["© ",2026," TB Relo. All rights reserved."]}],["$","div",null,{"className":"flex gap-4","children":[["$","$L4",null,{"href":"/affiliate-disclosure/","className":"hover:text-white transition-colors","children":"Affiliate Disclosure"}],["$","$L4",null,{"href":"/privacy-policy/","className":"hover:text-white transition-colors","children":"Privacy Policy"}],["$","$L4",null,{"href":"/disclaimer/","className":"hover:text-white transition-colors","children":"Disclaimer"}]]}]]}]]}],["$","div",null,{"className":"bg-black/30 border-t border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 text-center text-xs text-gray-500","children":["Site by"," ",["$","a",null,{"href":"https://vyrabyte.com","target":"_blank","rel":"noopener noreferrer","className":"text-gray-400 hover:text-white transition-colors","children":"Vyrabyte"}]]}]}]]}],["$","$Lc",null,{}]]}]]}]],null],null],["$Ld",null]]]]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"How to Get a Florida Real ID — Complete Guide | TB Relo | TB Relo"}],["$","meta","3",{"name":"description","content":"How to Get a Florida Real ID. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","6",{"property":"og:title","content":"How to Get a Florida Real ID — Complete Guide | TB Relo | TB Relo"}],["$","meta","7",{"property":"og:description","content":"How to Get a Florida Real ID. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","8",{"property":"og:image","content":"https://tbrelo.com/images/blog/housing.jpg"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"How to Get a Florida Real ID — Complete Guide | TB Relo | TB Relo"}],["$","meta","13",{"name":"twitter:description","content":"How to Get a Florida Real ID. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","14",{"name":"twitter:image","content":"https://tbrelo.com/images/blog/housing.jpg"}],["$","link","15",{"rel":"icon","href":"/icon.svg?ff4364d89c37c0d6","type":"image/svg+xml","sizes":"any"}]]
+1:null

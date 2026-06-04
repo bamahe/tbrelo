@@ -1,0 +1,222 @@
+3:I[5878,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"Image"]
+4:I[2972,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],""]
+6:I[5143,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"default"]
+7:I[4707,[],""]
+9:I[6423,[],""]
+a:I[8003,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],""]
+b:I[7312,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"default"]
+c:I[5463,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"SpeedInsights"]
+2:T101a,[{"@context":"https://schema.org","@type":"Article","headline":"Florida Property Taxes Explained — County by County Breakdown | TB Relo","description":"Florida Property Taxes Explained. Honest guide from a Tampa Bay local with 23+ years of experience.","url":"https://tbrelo.com/blog/florida-property-taxes-explained/","author":{"@type":"Person","name":"Barrett Henry","jobTitle":"REALTOR® & Broker Associate","url":"https://nowtb.com","worksFor":{"@type":"Organization","name":"REMAX Collective"},"knowsAbout":["Tampa Bay Real Estate","Florida Relocation","Residential Real Estate","Investment Property","Property Management"]},"publisher":{"@type":"Organization","name":"TB Relo","url":"https://tbrelo.com"},"datePublished":"2024-11-03T08:00:00-04:00","dateModified":"2026-04-15T08:00:00-04:00","image":{"@type":"ImageObject","url":"https://tbrelo.com/images/blog/finance.jpg"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much are property taxes in Florida compared to other states?","acceptedAnswer":{"@type":"Answer","text":"Florida ranks 27th nationally in property tax rates with an average effective rate of 0.89%. While not the lowest, the absence of state income tax often makes Florida's total tax burden more attractive than states with lower property taxes but significant income taxes."}},{"@type":"Question","name":"What is Florida's homestead exemption and how much can I save?","acceptedAnswer":{"@type":"Answer","text":"Florida's homestead exemption reduces your home's assessed value by up to $50,000 for tax purposes on your primary residence. This typically saves homeowners $600-800 annually depending on local millage rates. You must apply by March 1st following the year you establish residency."}},{"@type":"Question","name":"Which Florida county has the lowest property taxes?","acceptedAnswer":{"@type":"Answer","text":"Union County has Florida's lowest property tax rate at approximately 0.48% effective rate. However, this rural county offers limited services and job opportunities. Among major metropolitan areas, Pasco County offers relatively low rates around 0.90%."}},{"@type":"Question","name":"Can I appeal my Florida property tax assessment?","acceptedAnswer":{"@type":"Answer","text":"Yes, you can appeal your assessment until the first Monday in July each year. About 60% of appeals result in some reduction, typically 5-15%. You'll need comparable sales data or evidence of assessment errors to build a strong case."}},{"@type":"Question","name":"Do I pay property taxes on investment properties in Florida?","acceptedAnswer":{"@type":"Answer","text":"Investment properties and vacation homes pay the full property tax without homestead exemption benefits. They also don't receive the 3% annual assessment increase cap that protects homesteaded properties, making them subject to full market value fluctuations."}},{"@type":"Question","name":"When are Florida property taxes due and can I get discounts?","acceptedAnswer":{"@type":"Answer","text":"Florida property taxes are due by March 31st each year, but early payment discounts are available: 4% in November, 3% in December, 2% in January, and 1% in February. Taxes become delinquent April 1st with penalties and interest added."}},{"@type":"Question","name":"How do special districts affect my property tax bill?","acceptedAnswer":{"@type":"Answer","text":"Special districts for services like fire protection, water management, or community development add separate millage rates to your tax bill. These can add $500-1,200+ annually depending on your location and available services. Always ask about special districts when buying property."}},{"@type":"Question","name":"What happens to my property taxes if home values increase rapidly?","acceptedAnswer":{"@type":"Answer","text":"Homesteaded properties benefit from the \"Save Our Homes\" amendment, capping annual assessment increases at 3% or inflation, whichever is lower. Non-homesteaded properties face full market value increases. This protection can save thousands annually during hot real estate markets."}}]}]5:T429e,<p>If you're moving to Florida, you've probably heard the good news: no state income tax. The reality check? Property taxes here aren't exactly pocket change, and they vary wildly depending on where you plant your flag.</p>
+<p>After 23 years of helping families navigate Tampa Bay real estate, I've seen too many buyers get blindsided by their first tax bill. A $400,000 home in Hillsborough County costs you about $4,800 annually in property taxes. That same house in neighboring Pasco? You're looking at closer to $3,600.</p>
+<p>Let me break down exactly what you're signing up for — county by county, with real numbers and zero fluff.</p>
+<h2>How Florida Property Tax Actually Works</h2>
+<p>Florida's property tax system operates on something called millage rates. One mill equals $1 for every $1,000 of assessed property value. Sounds simple enough, but here's where it gets interesting.</p>
+<p>Your total tax bill combines several different millage rates:</p>
+<ul>
+<li>County general fund</li>
+<li>School district</li>
+<li>City/municipality (if applicable)</li>
+<li>Special districts (fire, water, library, etc.)</li>
+</ul>
+<p>The state caps most millage rates, but counties can still vary significantly in their total effective rates.</p>
+<h3>The Homestead Exemption Game-Changer</h3>
+<p>Here's the part that trips up newcomers: Florida's homestead exemption can slash your tax bill by $50,000 off your assessed value. On a $400,000 home, that exemption saves you roughly $600-800 annually depending on your county's millage rate.</p>
+<p>But you have to file for it by March 1st of the year after you establish residency. Miss that deadline? You're paying full freight until the next year.</p>
+<p>The exemption only applies to your primary residence — no dice on investment properties or vacation homes.</p>
+<h2>Tampa Bay Area Property Tax Breakdown</h2>
+<p>Let me walk you through what property taxes actually cost in our corner of Florida, using real 2024 numbers.</p>
+<h3>Hillsborough County</h3>
+<p><strong>Effective tax rate: 1.20%</strong>
+<strong>Average annual tax on $400K home: $4,800</strong></p>
+<p><a href="/counties/hillsborough/">Hillsborough County</a> hits right around the state average, but you're getting solid value. The school system ranks among Florida's best, infrastructure gets regular investment, and services are generally reliable.</p>
+<p>Popular areas and their typical tax bills:</p>
+<ul>
+<li><strong>South Tampa</strong>: $6,000-12,000 on homes ranging $500K-$1M+</li>
+<li><strong>Westchase</strong>: $4,500-7,000 on homes typically $375K-$575K</li>
+<li><strong>Brandon</strong>: $3,800-5,500 on homes typically $315K-$460K</li>
+</ul>
+<h3>Pinellas County</h3>
+<p><strong>Effective tax rate: 1.05%</strong>
+<strong>Average annual tax on $400K home: $4,200</strong></p>
+<p>Pinellas runs leaner than Hillsborough, partly because it's fully developed with no room for sprawl. Less infrastructure expansion means lower tax needs, but also means less flexibility for growth.</p>
+<p>Expect these ranges:</p>
+<ul>
+<li><strong>Clearwater Beach</strong>: $8,000-15,000+ on beachfront condos and homes</li>
+<li><strong>St. Petersburg downtown</strong>: $4,500-8,500 depending on property type</li>
+<li><strong>Dunedin</strong>: $4,000-6,500 on typical single-family homes</li>
+</ul>
+<h3>Pasco County</h3>
+<p><strong>Effective tax rate: 0.90%</strong>
+<strong>Average annual tax on $400K home: $3,600</strong></p>
+<p>Pasco delivers the Tampa Bay area's lowest property taxes, making it attractive for retirees and families stretching their housing dollars. The trade-off? Longer commutes to Tampa and St. Pete job centers.</p>
+<p>Typical scenarios:</p>
+<ul>
+<li><strong>Wesley Chapel</strong>: $3,200-5,500 on newer construction</li>
+<li><strong>New Port Richey</strong>: $2,800-4,200 on established neighborhoods</li>
+<li><strong>Land O' Lakes</strong>: $3,500-5,800 on family-friendly communities</li>
+</ul>
+<hr>
+<p><strong>Moving to Tampa Bay?</strong> Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.</p>
+<p><a href="https://nowtb.com">Contact Barrett →</a> | <a href="tel:8137337907">(813) 733-7907</a></p>
+<hr>
+<h2>Florida's Highest and Lowest Property Tax Counties</h2>
+<h3>The Heavy Hitters</h3>
+<p><strong>Monroe County (Keys): 1.28% effective rate</strong>
+Living in paradise costs extra. The Florida Keys combine high property values with significant infrastructure challenges — everything from hurricane prep to maintaining roads on barrier islands.</p>
+<p><strong>Alachua County (Gainesville): 1.25% effective rate</strong>
+Home to University of Florida, Alachua maintains extensive public services and educational infrastructure that push tax rates up.</p>
+<p><strong>Brevard County (Space Coast): 1.18% effective rate</strong>
+NASA's backyard brings federal jobs and high property values, but also demands robust public services and infrastructure.</p>
+<h3>The Bargain Counties</h3>
+<p><strong>Union County: 0.48% effective rate</strong>
+Rural north Florida keeps costs low, but you're trading urban amenities for tax savings.</p>
+<p><strong>Glades County: 0.52% effective rate</strong>
+Agricultural area with minimal services translates to minimal taxes.</p>
+<p><strong>Bradford County: 0.58% effective rate</strong>
+Small county north of Gainesville offers low taxes but limited job opportunities outside agriculture and small business.</p>
+<h2>What Drives Property Tax Differences</h2>
+<h3>Local Government Spending Philosophy</h3>
+<p>Counties like Miami-Dade and Broward maintain extensive services — multiple library systems, robust public transportation, comprehensive parks and recreation. All of that costs money, reflected in higher millage rates.</p>
+<p>Rural counties often operate bare-bones services, keeping taxes low but limiting amenities.</p>
+<h3>School District Quality and Spending</h3>
+<p>Florida school funding ties directly to property taxes. Counties with highly-rated school systems typically carry higher tax burdens.</p>
+<p>Hillsborough's schools rank in Florida's top tier, partly funded through property taxes around 1.2%. Compare that to rural counties with 0.6% rates and significantly lower school performance.</p>
+<h3>Infrastructure Age and Geography</h3>
+<p>Coastal counties face constant infrastructure challenges — salt air, hurricane damage, beach erosion. These ongoing costs show up in tax bills.</p>
+<p>Established areas with aging water, sewer, and road systems require more maintenance dollars than newer developments built to modern standards.</p>
+<h3>Special Districts and Municipal Services</h3>
+<p>This is where tax bills can really surprise you. Special districts for:</p>
+<ul>
+<li>Fire and rescue services</li>
+<li>Water management</li>
+<li>Library systems</li>
+<li>Hospital districts</li>
+<li>Community development districts (CDDs)</li>
+</ul>
+<p>Each adds its own millage rate. In some Tampa Bay suburbs, special district taxes can add $800-1,200 annually to your bill.</p>
+<h2>Property Assessment: The Other Half of the Equation</h2>
+<p>Florida caps annual assessment increases at 3% for homesteaded properties, but market reality often exceeds that limit on non-homesteaded properties.</p>
+<h3>How Assessment Actually Works</h3>
+<p>County property appraisers assess all properties annually as of January 1st. They consider:</p>
+<ul>
+<li>Recent comparable sales</li>
+<li>Property improvements</li>
+<li>Market conditions</li>
+<li>Physical condition</li>
+</ul>
+<p>If you disagree with your assessment, you have until the first Monday in July to file an appeal.</p>
+<h3>Save Our Homes Amendment Protection</h3>
+<p>This constitutional amendment limits annual assessment increases to 3% or the Consumer Price Index, whichever is lower — but only for homesteaded properties.</p>
+<p>Here's a real example: Your $400,000 home appreciates 8% in one year (not uncommon in Florida's hot markets). Without homestead exemption, your tax bill jumps 8%. With homestead protection, your assessed value can only increase 3%, significantly limiting your tax increase.</p>
+<p>Investment properties and vacation homes get no such protection.</p>
+<h2>Understanding Your Tax Bill Timeline</h2>
+<h3>January 1: Assessment Date</h3>
+<p>Your property gets valued as of this date, regardless of when you bought it during the year.</p>
+<h3>July: TRIM Notices Mailed</h3>
+<p>"Truth in Millage" notices show your proposed taxes based on current year assessments and proposed millage rates.</p>
+<h3>September-October: Public Hearings</h3>
+<p>Counties and municipalities hold public hearings on their budgets and millage rates. You can attend and voice concerns.</p>
+<h3>November: Tax Bills Mailed</h3>
+<p>Final tax bills typically arrive in November.</p>
+<h3>Payment Deadlines</h3>
+<ul>
+<li>November payment: 4% discount</li>
+<li>December payment: 3% discount</li>
+<li>January payment: 2% discount</li>
+<li>February payment: 1% discount</li>
+<li>March payment: No discount</li>
+<li>April 1: Becomes delinquent with penalties</li>
+</ul>
+<p>Smart buyers pay in November for maximum savings.</p>
+<h2>Strategic Tax Planning for Florida Homeowners</h2>
+<h3>Timing Your Purchase</h3>
+<p>Closing in January? You're responsible for the full year's taxes even though you only owned the property 11 months. Closing in December? You might only owe one month of taxes for that year.</p>
+<p>Most closings prorate taxes between buyer and seller, but the timing still affects your first full year of ownership.</p>
+<h3>Improvement Timing Strategies</h3>
+<p>Major improvements after January 1st won't affect that year's assessment. Planning a kitchen remodel or pool installation? Consider timing it after assessment date to delay the tax impact one year.</p>
+<h3>Appeal Process Reality Check</h3>
+<p>About 60% of Florida property tax appeals result in some reduction, but don't expect miracles. Successful appeals typically reduce assessments 5-15%, not the 30-40% reductions some homeowners hope for.</p>
+<p>Your best bet for appeal success:</p>
+<ul>
+<li>Legitimate comparable sales data</li>
+<li>Property damage or issues not reflected in assessment</li>
+<li>Factual errors in property details (wrong square footage, bedroom count, etc.)</li>
+</ul>
+<hr>
+<p><strong>Moving to Tampa Bay?</strong> Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.</p>
+<p><a href="https://nowtb.com">Contact Barrett →</a> | <a href="tel:8137337907">(813) 733-7907</a></p>
+<hr>
+<h2>Impact on Your Home Buying Budget</h2>
+<h3>The Monthly Reality Check</h3>
+<p>When calculating affordability, remember that property taxes represent roughly 10-15% of your total monthly housing cost in Florida. On a $400,000 home with a $320,000 mortgage:</p>
+<ul>
+<li>Principal and interest: ~$2,100/month</li>
+<li>Property taxes: ~$400/month</li>
+<li>Insurance: ~$200-400/month</li>
+<li>HOA (if applicable): $50-300/month</li>
+</ul>
+<p>That $400 monthly tax bill might not sound like much, but over a 30-year mortgage, you're paying $144,000 in property taxes.</p>
+<h3>Escrow Account Considerations</h3>
+<p>Most lenders require tax and insurance escrow on loans exceeding 80% loan-to-value. Your lender estimates annual taxes and insurance, then collects 1/12th monthly.</p>
+<p>Here's the catch: Lenders often overestimate to avoid shortfalls, meaning your monthly payment might run $50-100 higher than actual costs.</p>
+<p>You can request escrow analysis reviews if you think estimates run too high.</p>
+<h2>Comparing Florida to Other States</h2>
+<p>Florida's property taxes rank middle-of-the-pack nationally, but the no-state-income-tax advantage often more than compensates.</p>
+<p><strong>Quick comparison for a $75,000 household income:</strong></p>
+<ul>
+<li><strong>Florida</strong>: $4,800 property tax, $0 state income tax = $4,800 total</li>
+<li><strong>North Carolina</strong>: $3,200 property tax, $3,750 state income tax = $6,950 total</li>
+<li><strong>New York</strong>: $8,500 property tax, $4,200 state income tax = $12,700 total</li>
+</ul>
+<p>The math gets even better for higher income households who save more on income tax elimination.</p>
+<h2>What to Expect Moving Forward</h2>
+<h3>Market-Driven Assessment Increases</h3>
+<p>Florida's population growth continues driving property values up. Even with homestead protection capping increases at 3%, your tax bill will likely climb annually.</p>
+<p>Budget for 3-5% annual increases in your property tax line item.</p>
+<h3>Infrastructure Investment Needs</h3>
+<p>Florida's explosive growth demands massive infrastructure investment. New roads, expanded water treatment, additional schools — all funded through property taxes.</p>
+<p>Counties are increasingly turning to special assessments and new districts to fund growth-related infrastructure.</p>
+<h3>Climate Change Considerations</h3>
+<p>Coastal counties face increasing costs from sea-level rise and more frequent severe weather. These expenses will inevitably show up in tax bills as infrastructure adaptation costs mount.</p>
+<h2>Making the Property Tax Decision</h2>
+<p>Your property tax rate shouldn't be the only factor in choosing where to live, but it deserves serious consideration in your overall <a href="/cost-of-living/">cost of living</a> calculations.</p>
+<h3>When Lower Taxes Make Sense</h3>
+<p>Consider higher-tax counties if you:</p>
+<ul>
+<li>Have school-age children (better schools often justify higher taxes)</li>
+<li>Rely heavily on public services and amenities</li>
+<li>Want shorter commutes to major job centers</li>
+<li>Value infrastructure quality and maintenance</li>
+</ul>
+<h3>When Tax Savings Matter More</h3>
+<p>Lower-tax counties make sense if you:</p>
+<ul>
+<li>Are retired or have steady remote income</li>
+<li>Don't need extensive public services</li>
+<li>Are comfortable with longer commutes</li>
+<li>Want to maximize your housing dollar</li>
+</ul>
+<p>The key is matching your lifestyle priorities with tax and service trade-offs.</p>
+<p>Property taxes represent a long-term commitment — not just for the first year, but for as long as you own the home. Choose wisely, file your homestead exemption on time, and budget for annual increases.</p>
+<p>Your wallet will thank you for doing the homework upfront.</p>
+<h2>Frequently Asked Questions</h2>
+<h3>How much are property taxes in Florida compared to other states?</h3>
+<p>Florida ranks 27th nationally in property tax rates with an average effective rate of 0.89%. While not the lowest, the absence of state income tax often makes Florida's total tax burden more attractive than states with lower property taxes but significant income taxes.</p>
+<h3>What is Florida's homestead exemption and how much can I save?</h3>
+<p>Florida's homestead exemption reduces your home's assessed value by up to $50,000 for tax purposes on your primary residence. This typically saves homeowners $600-800 annually depending on local millage rates. You must apply by March 1st following the year you establish residency.</p>
+<h3>Which Florida county has the lowest property taxes?</h3>
+<p>Union County has Florida's lowest property tax rate at approximately 0.48% effective rate. However, this rural county offers limited services and job opportunities. Among major metropolitan areas, Pasco County offers relatively low rates around 0.90%.</p>
+<h3>Can I appeal my Florida property tax assessment?</h3>
+<p>Yes, you can appeal your assessment until the first Monday in July each year. About 60% of appeals result in some reduction, typically 5-15%. You'll need comparable sales data or evidence of assessment errors to build a strong case.</p>
+<h3>Do I pay property taxes on investment properties in Florida?</h3>
+<p>Investment properties and vacation homes pay the full property tax without homestead exemption benefits. They also don't receive the 3% annual assessment increase cap that protects homesteaded properties, making them subject to full market value fluctuations.</p>
+<h3>When are Florida property taxes due and can I get discounts?</h3>
+<p>Florida property taxes are due by March 31st each year, but early payment discounts are available: 4% in November, 3% in December, 2% in January, and 1% in February. Taxes become delinquent April 1st with penalties and interest added.</p>
+<h3>How do special districts affect my property tax bill?</h3>
+<p>Special districts for services like fire protection, water management, or community development add separate millage rates to your tax bill. These can add $500-1,200+ annually depending on your location and available services. Always ask about special districts when buying property.</p>
+<h3>What happens to my property taxes if home values increase rapidly?</h3>
+<p>Homesteaded properties benefit from the "Save Our Homes" amendment, capping annual assessment increases at 3% or inflation, whichever is lower. Non-homesteaded properties face full market value increases. This protection can save thousands annually during hot real estate markets.</p>
+8:["slug","florida-property-taxes-explained","d"]
+0:["SZLIdUDBKVit2TP_UqbYL",[[["",{"children":["blog",{"children":[["slug","florida-property-taxes-explained","d"],{"children":["__PAGE__?{\"slug\":\"florida-property-taxes-explained\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","florida-property-taxes-explained","d"],{"children":["__PAGE__",{},[["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","section",null,{"className":"relative w-full h-[200px] md:h-[300px] overflow-hidden bg-brand-navy","children":[["$","$L3",null,{"src":"/images/blog/finance.jpg","alt":"Florida Property Taxes Explained — County by County Breakdown","fill":true,"className":"object-cover","unoptimized":true,"priority":true}],["$","div",null,{"className":"absolute inset-0 bg-brand-navy/60"}],["$","div",null,{"className":"relative z-10 flex flex-col items-center justify-center h-full px-4 text-center","children":[["$","h1",null,{"className":"text-white text-3xl md:text-5xl font-display font-extrabold leading-tight max-w-4xl","children":"Florida Property Taxes Explained — County by County Breakdown"}],"$undefined"]}]]}],["$","article",null,{"className":"max-w-4xl mx-auto px-4 py-10","children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://tbrelo.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://tbrelo.com/blog/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Florida Property Taxes Explained — County by County Breakdown\",\"item\":\"https://tbrelo.com/blog/florida-property-taxes-explained/\"}]}"}}],["$","nav",null,{"aria-label":"Breadcrumb","className":"text-sm text-brand-slate mb-6","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-1","children":[["$","li","/",{"className":"flex items-center gap-1","children":[false,["$","$L4",null,{"href":"/","className":"hover:text-brand-blue transition-colors","children":"Home"}]]}],["$","li","/blog/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","$L4",null,{"href":"/blog/","className":"hover:text-brand-blue transition-colors","children":"Blog"}]]}],["$","li","/blog/florida-property-taxes-explained/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","span",null,{"className":"text-brand-navy font-medium","children":"Florida Property Taxes Explained — County by County Breakdown"}]]}]]}]}]],["$","p",null,{"className":"text-brand-slate text-sm mb-8","children":["Published ","November 3, 2024"]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$5"}}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"cta-box-primary","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-white","children":"Moving to Tampa Bay? Get a Local Expert."}],["$","p",null,{"className":"text-sm mb-4 text-white","children":"Barrett Henry is a Broker Associate with REMAX Collective and over 23 years of real estate experience. Straight talk, smart strategy, no pressure."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-blue text-white hover:bg-blue-600","children":["Contact Barrett"," →"]}],["$","a",null,{"href":"tel:8137337907","className":"text-sm text-white","children":"(813) 733-7907"}]]}]]}],["$","div",null,{"className":"cta-box","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-brand-navy","children":"Need Help Setting Up Your New Home?"}],["$","p",null,{"className":"text-sm mb-4 text-brand-slate","children":"Best Bay Services handles handyman work, home repairs, and maintenance for your new Tampa Bay home. Local, licensed, and trusted."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-navy text-white hover:bg-brand-dark","children":["Get a Quote"," →"]}],["$","a",null,{"href":"tel:8134168676","className":"text-sm text-brand-blue","children":"(813) 416-8676"}]]}]]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","$L6",null,{"blogSlug":"florida-property-taxes-explained"}]]}]],null],null],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$8","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/db2729ad4a9f0783.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link",null,{"rel":"icon","href":"/favicon-32.png","type":"image/png","sizes":"32x32"}],["$","link",null,{"rel":"icon","href":"/favicon-16.png","type":"image/png","sizes":"16x16"}],["$","link",null,{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link",null,{"rel":"icon","href":"/icon-192.png","type":"image/png","sizes":"192x192"}],["$","meta",null,{"name":"google-adsense-account","content":"ca-pub-2033173419526042"}],["$","meta",null,{"name":"impact-site-verification","content":"bb623f40-9653-4312-9ca8-bf35b957a10c"}],["$","$La",null,{"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2033173419526042","strategy":"afterInteractive","crossOrigin":"anonymous"}],["$","$La",null,{"src":"https://www.googletagmanager.com/gtag/js?id=G-TD87S02SLM","strategy":"afterInteractive"}],["$","$La",null,{"id":"gtag-init","strategy":"afterInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'G-TD87S02SLM');\n          "}]]}],["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"[{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"https://tbrelo.com/#website\",\"name\":\"TB Relo — Tampa Bay Relocation Guide\",\"url\":\"https://tbrelo.com\",\"description\":\"Comprehensive relocation guides for Tampa Bay, Florida. Covering 8 counties, 100+ cities, cost of living, schools, and everything you need to know about moving to Tampa Bay.\",\"publisher\":{\"@id\":\"https://tbrelo.com/#org\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://tbrelo.com/blog/?q={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}},{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://tbrelo.com/#org\",\"name\":\"TB Relo\",\"url\":\"https://tbrelo.com\",\"sameAs\":[\"https://nowtb.com\",\"https://valricoagent.com\",\"https://parrishagent.com\",\"https://www.facebook.com/BarrettHenryREALTOR/\",\"https://www.instagram.com/thenowteam\",\"https://www.youtube.com/@nowtampa\"]}]"}}],["$","$Lb",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"max-w-2xl mx-auto px-4 py-20 text-center","children":[["$","h1",null,{"className":"text-6xl font-display font-extrabold text-brand-navy mb-4","children":"404"}],["$","p",null,{"className":"text-xl text-brand-slate mb-8","children":"This page doesn't exist. Maybe you're looking for one of these?"}],["$","div",null,{"className":"grid sm:grid-cols-2 gap-4 mb-12 text-left","children":[["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Moving Guide"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Complete guide to relocating to Tampa Bay"}]]}],["$","$L4",null,{"href":"/counties/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Explore Counties"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Browse all 8 Tampa Bay counties"}]]}],["$","$L4",null,{"href":"/cities/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Find a City"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"90+ city and neighborhood guides"}]]}],["$","$L4",null,{"href":"/blog/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Blog"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Tips, comparisons, and local insights"}]]}]]}],["$","$L4",null,{"href":"/","className":"px-8 py-4 bg-brand-blue text-white font-display font-bold rounded-lg hover:bg-blue-600 transition-colors text-lg inline-block","children":"Back to Home"}]]}],"notFoundStyles":[]}]}],["$","footer",null,{"className":"bg-brand-dark text-gray-400","children":[["$","div",null,{"className":"bg-brand-navy","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10","children":["$","div",null,{"className":"grid md:grid-cols-3 gap-8 text-center","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Buying or Selling a Home?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Barrett Henry — The NOW Team at REMAX Collective"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 733-7907"}]]}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Need a Handyman?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Best Bay Services — Tampa Bay Home Services"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 416-8676"}]]}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Property Management"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"ViVi PM — Full-Service Property Management"}]]}]]}]}]}],["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8","children":[["$","div",null,{"className":"md:col-span-2","children":[["$","div",null,{"className":"font-display font-extrabold text-2xl text-white mb-3","children":["TB",["$","span",null,{"className":"text-brand-sky","children":"Relo"}]]}],["$","p",null,{"className":"text-sm leading-relaxed","children":"Your complete guide to relocating to Tampa Bay, Florida. Covering Hillsborough, Pinellas, Pasco, Hernando, Polk, Manatee, Sarasota, and Citrus counties with honest, local insight from someone who actually lives here."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Guides"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"hover:text-white transition-colors","children":"Moving to Tampa Bay"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/cost-of-living/","className":"hover:text-white transition-colors","children":"Cost of Living"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/moving-checklist/","className":"hover:text-white transition-colors","children":"Moving Checklist"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/blog/","className":"hover:text-white transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Counties"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li","Hillsborough",{"children":["$","$L4",null,{"href":"/counties/hillsborough/","className":"hover:text-white transition-colors","children":["Hillsborough"," County"]}]}],["$","li","Pinellas",{"children":["$","$L4",null,{"href":"/counties/pinellas/","className":"hover:text-white transition-colors","children":["Pinellas"," County"]}]}],["$","li","Pasco",{"children":["$","$L4",null,{"href":"/counties/pasco/","className":"hover:text-white transition-colors","children":["Pasco"," County"]}]}],["$","li","Hernando",{"children":["$","$L4",null,{"href":"/counties/hernando/","className":"hover:text-white transition-colors","children":["Hernando"," County"]}]}],["$","li","Polk",{"children":["$","$L4",null,{"href":"/counties/polk/","className":"hover:text-white transition-colors","children":["Polk"," County"]}]}],["$","li","Manatee",{"children":["$","$L4",null,{"href":"/counties/manatee/","className":"hover:text-white transition-colors","children":["Manatee"," County"]}]}],["$","li","Sarasota",{"children":["$","$L4",null,{"href":"/counties/sarasota/","className":"hover:text-white transition-colors","children":["Sarasota"," County"]}]}],["$","li","Citrus",{"children":["$","$L4",null,{"href":"/counties/citrus/","className":"hover:text-white transition-colors","children":["Citrus"," County"]}]}]]}]]}]]}],["$","div",null,{"className":"mt-10 pt-8 border-t border-gray-800","children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Barrett Henry's Network"}],["$","div",null,{"className":"grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3 text-sm","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Tampa Bay Real Estate"}],["$","a",null,{"href":"https://valricoagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Real Estate"}],["$","a",null,{"href":"https://parrishagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Parrish Real Estate"}],["$","a",null,{"href":"https://valrico.blog","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Community Blog"}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Handyman & Home Services"}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Property Management"}]]}]]}],["$","div",null,{"className":"mt-12 pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center gap-4 text-xs","children":[["$","p",null,{"children":["© ",2026," TB Relo. All rights reserved."]}],["$","div",null,{"className":"flex gap-4","children":[["$","$L4",null,{"href":"/affiliate-disclosure/","className":"hover:text-white transition-colors","children":"Affiliate Disclosure"}],["$","$L4",null,{"href":"/privacy-policy/","className":"hover:text-white transition-colors","children":"Privacy Policy"}],["$","$L4",null,{"href":"/disclaimer/","className":"hover:text-white transition-colors","children":"Disclaimer"}]]}]]}]]}],["$","div",null,{"className":"bg-black/30 border-t border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 text-center text-xs text-gray-500","children":["Site by"," ",["$","a",null,{"href":"https://vyrabyte.com","target":"_blank","rel":"noopener noreferrer","className":"text-gray-400 hover:text-white transition-colors","children":"Vyrabyte"}]]}]}]]}],["$","$Lc",null,{}]]}]]}]],null],null],["$Ld",null]]]]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Florida Property Taxes Explained — County by County Breakdown | TB Relo | TB Relo"}],["$","meta","3",{"name":"description","content":"Florida Property Taxes Explained. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","6",{"property":"og:title","content":"Florida Property Taxes Explained — County by County Breakdown | TB Relo | TB Relo"}],["$","meta","7",{"property":"og:description","content":"Florida Property Taxes Explained. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","8",{"property":"og:image","content":"https://tbrelo.com/images/blog/finance.jpg"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"Florida Property Taxes Explained — County by County Breakdown | TB Relo | TB Relo"}],["$","meta","13",{"name":"twitter:description","content":"Florida Property Taxes Explained. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","14",{"name":"twitter:image","content":"https://tbrelo.com/images/blog/finance.jpg"}],["$","link","15",{"rel":"icon","href":"/icon.svg?ff4364d89c37c0d6","type":"image/svg+xml","sizes":"any"}]]
+1:null

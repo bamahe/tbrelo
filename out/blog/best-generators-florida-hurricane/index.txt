@@ -1,0 +1,237 @@
+3:I[5878,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"Image"]
+4:I[2972,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],""]
+6:I[5143,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"default"]
+7:I[4707,[],""]
+9:I[6423,[],""]
+a:I[8003,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],""]
+b:I[7312,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"default"]
+c:I[5463,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"SpeedInsights"]
+2:Td09,[{"@context":"https://schema.org","@type":"Article","headline":"Best Portable Generators for Florida Hurricane Season | TB Relo","description":"Best Portable Generators for Florida Hurricane Season. Honest guide from a Tampa Bay local with 23+ years of experience.","url":"https://tbrelo.com/blog/best-generators-florida-hurricane/","author":{"@type":"Person","name":"Barrett Henry","jobTitle":"REALTOR® & Broker Associate","url":"https://nowtb.com","worksFor":{"@type":"Organization","name":"REMAX Collective"},"knowsAbout":["Tampa Bay Real Estate","Florida Relocation","Residential Real Estate","Investment Property","Property Management"]},"publisher":{"@type":"Organization","name":"TB Relo","url":"https://tbrelo.com"},"datePublished":"2025-09-14T08:00:00-04:00","dateModified":"2026-04-16T08:00:00-04:00","image":{"@type":"ImageObject","url":"https://tbrelo.com/images/blog/weather.jpg"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How long will a portable generator run during a typical Florida power outage?","acceptedAnswer":{"@type":"Answer","text":"Runtime depends on load and tank size, but expect 6-12 hours per tank of gas for most portable generators. A Honda EU2200i running essential loads (fridge, lights, fans) typically gets 8 hours per gallon. For extended outages like Hurricane Ian's two-week blackouts, you'll need significant fuel storage or a natural gas whole-house unit."}},{"@type":"Question","name":"Do I need a transfer switch for my portable generator in Florida?","acceptedAnswer":{"@type":"Answer","text":"Not legally required for portable generators using extension cords, but highly recommended for safety and convenience. A manual transfer switch costs $300-800 installed and eliminates dangerous extension cord runs through windows. For whole-house generators, automatic transfer switches are mandatory and included in installation costs."}},{"@type":"Question","name":"What's the best fuel type for hurricane season in Tampa Bay?","acceptedAnswer":{"@type":"Answer","text":"Propane wins for reliability — it stores indefinitely and stays available when gas stations lose power. However, gasoline generators are cheaper upfront and deliver more power per dollar. Dual-fuel units like the Champion 3500 give you both options, which proved crucial during recent hurricanes when fuel supplies were disrupted."}},{"@type":"Question","name":"How much does whole-house generator installation cost in Tampa Bay?","acceptedAnswer":{"@type":"Answer","text":"Budget $8,000-$15,000 total for a quality 20-22kW system including equipment, installation, permits, and electrical work. Hillsborough and Pinellas counties require permits ($200-500), professional electrical work ($2,000-4,000), and often gas line modifications ($1,000-2,000). Installation takes 1-2 days once permits are approved."}},{"@type":"Question","name":"Can I run my central air conditioning on a portable generator?","acceptedAnswer":{"@type":"Answer","text":"Most portable generators can't handle central AC startup surge, which can be 3-4 times the running wattage. A 3-ton AC unit needs 15,000-20,000 watts to start reliably. However, window units (8,000-12,000 BTU) will run on larger portables like the DuroMax 7000iH, providing adequate cooling for bedrooms during outages."}}]}]5:T4817,<p>When Hurricane Ian knocked out power to 2.7 million Floridians in 2022, I watched neighbors scramble for generators at Home Depot — only to find empty shelves. After 23 years of helping Tampa Bay families prepare for hurricane season, I've learned the hard truth: waiting until a storm's in the Gulf is too late.</p>
+<p>Your generator choice depends on what you actually need to power. Running a few lights and keeping your phone charged? A 2000-watt inverter generator will do. Need to keep your whole Clearwater ranch house comfortable? You're looking at a serious investment in a whole-house system.</p>
+<p>Let me break down the best options for Florida's unique hurricane challenges — from our sticky 90-degree "cold fronts" during outages to the reality that power might be out for two weeks, not two days.</p>
+<h2>Understanding Florida's Power Outage Reality</h2>
+<p>Tampa Electric (TECO) and Duke Energy have gotten better at restoration, but physics is physics. When Hurricane Irma hit in 2017, some Polk County residents went 12 days without power. In Hurricane Ian's path, parts of Fort Myers were dark for three weeks.</p>
+<p>The difference between a generator that keeps your family comfortable versus one that barely runs your refrigerator comes down to understanding watts, runtime, and Florida's specific challenges:</p>
+<p><strong>Heat kills generators faster here.</strong> That Honda EU2200i that runs 8 hours in Colorado? Expect 6 hours in 95-degree Tampa humidity.</p>
+<p><strong>Extension cords become crucial.</strong> Most Florida homes weren't built with generators in mind. You'll be running cords through windows and around lanai screens.</p>
+<p><strong>Fuel availability matters more than fuel type.</strong> I've seen gas stations with no power (and therefore no pumps) after hurricanes. Propane becomes gold.</p>
+<h2>Best Portable Inverter Generators (2000-4000 Watts)</h2>
+<h3>Honda EU2200i Companion - $1,249</h3>
+<p><a href="%7B%7Bamazon:B077G7BLPX%7D%7D">Honda EU2200i Companion</a></p>
+<p>This is the gold standard for a reason. At 47 pounds, it's manageable for most adults, runs whisper-quiet at 48-57 decibels, and delivers clean power perfect for your electronics.</p>
+<p><strong>What it'll run:</strong> Refrigerator, a few lights, phone chargers, laptop, small window AC unit (not simultaneously with everything else)</p>
+<p><strong>Runtime:</strong> 3.2-8.2 hours on a gallon of gas, depending on load</p>
+<p><strong>Florida reality check:</strong> The "Companion" model has a 30-amp outlet that lets you parallel with another EU2200i for double the power. Smart for couples who each want to handle a lighter generator.</p>
+<p>I've watched this thing run for 6 hours straight in August heat while powering a Pinellas Park family's essentials. The inverter technology means clean power — your expensive electronics stay safe.</p>
+<h3>Champion 3500-Watt Dual Fuel - $529</h3>
+<p><a href="%7B%7Bamazon:B07K6QBQZX%7D%7D">Champion 3500-Watt Dual Fuel</a></p>
+<p>Here's your budget champion with a crucial Florida advantage: runs on gasoline OR propane. When gas stations have no power, those blue propane tanks from Walmart become your lifeline.</p>
+<p><strong>What it'll run:</strong> Refrigerator, lights, fans, TV, microwave, small AC window unit</p>
+<p><strong>Runtime:</strong> 10 hours on gasoline, 14.5 hours on propane at 25% load</p>
+<p><strong>The catch:</strong> Louder than the Honda at 68 decibels. Your Seminole Heights neighbors will know you have power.</p>
+<p>For families on a budget who need real power, this delivers. The dual-fuel capability saved my client in New Tampa during Ian — they grabbed six propane tanks when their gas ran out.</p>
+<h3>Generac GP3500iO - $699</h3>
+<p><a href="%7B%7Bamazon:B08R3QNQFW%7D%7D">Generac GP3500iO</a></p>
+<p>Generac's answer to Honda's dominance. Clean inverter power with more watts than the EU2200i, plus CO-SENSE technology that shuts down if carbon monoxide builds up.</p>
+<p><strong>What it'll run:</strong> Similar to Champion 3500, but with cleaner power for sensitive electronics</p>
+<p><strong>Runtime:</strong> 10.75 hours at 25% load</p>
+<p><strong>Florida advantage:</strong> That CO-SENSE feature matters when you're running generators near your house during a storm. Carbon monoxide doesn't care how expensive your generator was.</p>
+<h2>Mid-Range Powerhouses (5000-7000 Watts)</h2>
+<h3>DuroMax XP7000iH Hybrid - $899</h3>
+<p><a href="%7B%7Bamazon:B08XXXX%7D%7D">DuroMax XP7000iH Hybrid</a></p>
+<p>This beast bridges the gap between portable and serious backup power. Hybrid technology combines inverter clean power with traditional generator muscle.</p>
+<p><strong>What it'll run:</strong> Refrigerator, freezer, lights throughout the house, multiple fans, TV, internet router, coffee maker, even a small central AC unit</p>
+<p><strong>Runtime:</strong> 8 hours on gasoline, 11 hours on propane at 50% load</p>
+<p><strong>Weight reality:</strong> At 132 pounds, this isn't something you're casually moving around. But for Brandon families with larger homes, it's the sweet spot.</p>
+<h3>Honda EU7000iS - $4,499</h3>
+<p><a href="%7B%7Bamazon:B07NXXXXX%7D%7D">Honda EU7000iS</a></p>
+<p>The Cadillac of portable generators. Yes, it's expensive. Yes, it's worth it if you can afford it.</p>
+<p><strong>What it'll run:</strong> Almost everything except large central air. Think whole-house power minus the big energy hogs</p>
+<p><strong>Runtime:</strong> 16.1 hours at 25% load with the optional extended tank</p>
+<p><strong>Why it's worth it:</strong> Whisper quiet at 52-58 decibels, electric start, fuel gauge, and Honda's legendary reliability. This thing will outlast your mortgage.</p>
+<p>I've seen 15-year-old Honda generators still starting on the first pull. That reliability premium pays off when Hurricane Charlie's grandson visits.</p>
+<h2>Whole House Generator Solutions</h2>
+<h3>Generac Guardian 22kW - $4,899 (plus installation)</h3>
+<p><a href="%7B%7Bamazon:B07XXXXX%7D%7D">Generac Guardian 22kW</a></p>
+<p>This isn't portable — it's permanently installed with an automatic transfer switch. When power goes out, it kicks on in 10 seconds. When power returns, it shuts off automatically.</p>
+<p><strong>What it'll run:</strong> Everything. Central air, pool pump, every light, every outlet. Life continues normally.</p>
+<p><strong>Fuel:</strong> Natural gas (preferred) or propane</p>
+<p><strong>Installation reality:</strong> Budget $3,000-$5,000 for professional installation in Tampa Bay. Requires permits, electrical work, and often gas line modifications.</p>
+<p>For Westchase or Fishhawk Ranch families who want zero interruption to their lifestyle, this is the answer. I've toured homes where you couldn't tell the power was out except for checking your neighbors' dark windows.</p>
+<h3>Kohler 20RESAL - $5,299</h3>
+<p><a href="%7B%7Bamazon:B07XXXXX%7D%7D">Kohler 20RESAL</a></p>
+<p>Generac's premium competitor. Quieter operation and arguably better build quality, but similar performance and much higher price.</p>
+<p><strong>The difference:</strong> Better sound dampening, premium materials, more advanced diagnostics. Whether that's worth the extra cost depends on your budget and priorities.</p>
+<h2>What Size Generator Do You Actually Need?</h2>
+<p>Most people buy too small or way too big. Here's how to size correctly for Florida living:</p>
+<h3>Essential Load Calculation (Lights, Fridge, Fans, Phones)</h3>
+<ul>
+<li>Refrigerator: 600-800 watts running, 2400 watts starting</li>
+<li>LED lights (10): 100 watts</li>
+<li>Ceiling fans (3): 225 watts</li>
+<li>Phone chargers/internet: 100 watts</li>
+<li><strong>Total needed:</strong> 2000-2500 watts with surge capacity</li>
+</ul>
+<h3>Comfortable Load (Add Window AC, TV, Coffee)</h3>
+<ul>
+<li>Above essentials: 2500 watts</li>
+<li>Window AC (8,000 BTU): 1200 watts</li>
+<li>TV and cable box: 200 watts</li>
+<li>Coffee maker: 1500 watts</li>
+<li><strong>Total needed:</strong> 4000-5000 watts</li>
+</ul>
+<h3>Luxury Load (Central Air, Pool Pump, Normal Life)</h3>
+<ul>
+<li>3-ton central air: 5000-6000 watts</li>
+<li>Pool pump: 1500 watts</li>
+<li>Electric water heater: 4500 watts</li>
+<li>Washer/dryer: 3000 watts</li>
+<li><strong>Total needed:</strong> 15,000+ watts (whole house territory)</li>
+</ul>
+<h2>Fuel Types: Gas vs. Propane vs. Diesel</h2>
+<h3>Gasoline: Most Common, Most Problems</h3>
+<p><strong>Pros:</strong> Available everywhere, works with most generators, cheapest fuel
+<strong>Cons:</strong> Degrades quickly in Florida heat, gas stations lose power first, storage challenges</p>
+<p>Store gasoline with <a href="%7B%7Bamazon:B000B68V6I%7D%7D">STA-BIL Fuel Stabilizer</a> and rotate your supply every 3-6 months. Five-gallon cans are manageable; 20-gallon drums are better for extended outages.</p>
+<h3>Propane: The Florida Hurricane Champion</h3>
+<p><strong>Pros:</strong> Stores indefinitely, burns cleaner, still available when gas runs out
+<strong>Cons:</strong> Lower power output, need multiple tanks for extended runtime</p>
+<p>Those standard 20-pound BBQ tanks give you 8-15 hours of runtime depending on load. Stock up on 6-8 tanks for a serious hurricane.</p>
+<h3>Natural Gas: Whole House Gold Standard</h3>
+<p><strong>Pros:</strong> Unlimited supply (unless lines break), automatic operation, no fuel storage
+<strong>Cons:</strong> Requires professional installation, limited to permanent generators</p>
+<p>If you have natural gas service from Peoples Gas or TECO, this eliminates fuel worries entirely.</p>
+<h2>Critical Safety Considerations for Florida</h2>
+<h3>Carbon Monoxide Kills Quietly</h3>
+<p>Every hurricane season brings CO deaths from improperly placed generators. The gas is odorless and deadly.</p>
+<p><strong>Non-negotiable rules:</strong></p>
+<ul>
+<li>Never run generators in garages, carports, or near windows</li>
+<li>Maintain 15+ feet from your house and neighbors'</li>
+<li>Install battery-powered <a href="%7B%7Bamazon:B07XXXXX%7D">CO detectors</a> throughout your home</li>
+<li>Point exhaust away from your house and neighbors</li>
+</ul>
+<h3>Electrical Safety in Humid Conditions</h3>
+<p>Florida's humidity turns minor electrical issues into major hazards.</p>
+<p><strong>Must-haves:</strong></p>
+<ul>
+<li><a href="%7B%7Bamazon:B07XXXXX%7D">GFCI extension cords</a> for all connections</li>
+<li>Generator covers for rain protection (never enclosed covers)</li>
+<li>Proper grounding per manufacturer specs</li>
+<li>Transfer switch for anything wired to your house</li>
+</ul>
+<h3>Heat Management</h3>
+<p>Generators work harder in Florida heat. Expect:</p>
+<ul>
+<li>Reduced runtime in 90+ degree weather</li>
+<li>More frequent oil changes</li>
+<li>Need for generator shades/canopies</li>
+<li>Extra cooling airflow requirements</li>
+</ul>
+<h2>Maintenance That Actually Matters in Florida</h2>
+<h3>Monthly Tasks (Hurricane Season)</h3>
+<ul>
+<li>Start and run for 30 minutes under load</li>
+<li>Check oil level and condition</li>
+<li>Test with your actual hurricane loads</li>
+<li>Verify fuel stabilizer in gasoline</li>
+<li>Check propane connections for leaks</li>
+</ul>
+<h3>Pre-Hurricane Checklist</h3>
+<ul>
+<li>Fresh oil change (use synthetic in heat)</li>
+<li>New spark plug if over 100 hours</li>
+<li>Clean air filter (our dust and pollen clogs them fast)</li>
+<li>Full fuel tank plus extra supply</li>
+<li>Test all extension cords and connections</li>
+</ul>
+<h3>Post-Hurricane Care</h3>
+<ul>
+<li>Let engine cool completely before refueling</li>
+<li>Check for storm debris in cooling vents</li>
+<li>Clean and dry thoroughly if wet</li>
+<li>Run dry before storage (fuel system longevity)</li>
+</ul>
+<h2>Local Installation and Service Options</h2>
+<p>For whole-house generators, you need licensed pros. Here are Tampa Bay's reliable installers:</p>
+<p><strong>Hillsborough County:</strong></p>
+<ul>
+<li>Power Plus Electric (Brandon) - (813) 659-7978</li>
+<li>Hoffman Electrical (Tampa) - (813) 258-4600</li>
+</ul>
+<p><strong>Pinellas County:</strong></p>
+<ul>
+<li>Bay Area Generator Service (Clearwater) - (727) 447-5845</li>
+<li>Coastal Electrical Solutions (St. Pete) - (727) 822-6666</li>
+</ul>
+<p><strong>Pasco County:</strong></p>
+<ul>
+<li>Trinity Electric (New Port Richey) - (727) 376-5846</li>
+</ul>
+<p>Permits are required for permanent installations. Budget 2-4 weeks for permitting and installation during non-hurricane season.</p>
+<h2>Budget Planning: What You'll Really Spend</h2>
+<h3>Entry Level ($500-$800)</h3>
+<ul>
+<li>Champion 3500 dual fuel + accessories</li>
+<li>Extension cords, covers, oil, fuel cans</li>
+<li>Enough for essentials during outages</li>
+</ul>
+<h3>Mid-Range ($1,500-$3,000)</h3>
+<ul>
+<li>Honda EU2200i + parallel kit OR DuroMax 7000iH</li>
+<li>Professional-grade accessories</li>
+<li>Comfortable hurricane survival</li>
+</ul>
+<h3>Whole House ($8,000-$15,000)</h3>
+<ul>
+<li>20-22kW generator + installation + permits</li>
+<li>Automatic transfer switch, gas lines, electrical work</li>
+<li>Complete lifestyle protection</li>
+</ul>
+<p>Remember: buying during hurricane season costs 20-30% more. Buy in spring when prices are normal and selection is good.</p>
+<hr>
+<p><strong>Moving to Tampa Bay?</strong> Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.</p>
+<p><a href="https://nowtb.com">Contact Barrett →</a> | <a href="tel:8137337907">(813) 733-7907</a></p>
+<hr>
+<h2>My Top Recommendations by Situation</h2>
+<h3>Best for Most Tampa Bay Families: Honda EU2200i</h3>
+<p>Reliable, quiet, handles essentials. Buy two if your budget allows — the parallel capability effectively doubles your power for bigger homes.</p>
+<h3>Best Value: Champion 3500 Dual Fuel</h3>
+<p>Half the price of comparable Honda, with the crucial advantage of propane backup. Perfect for families who need real power on a budget.</p>
+<h3>Best for Serious Preparedness: DuroMax XP7000iH</h3>
+<p>Bridges portable and whole-house capability. Heavy but manageable, powerful enough for most homes' needs during extended outages.</p>
+<h3>Best for Set-and-Forget: Generac Guardian 22kW</h3>
+<p>Yes, it's expensive upfront. But automatic operation means you're never scrambling in the dark, and your home value gets a boost too.</p>
+<h2>When to Buy (Timing Matters in Florida)</h2>
+<p><strong>Best time:</strong> February through May. Selection is best, prices are normal, and you have time to learn your equipment.</p>
+<p><strong>Worst time:</strong> June through November. Limited selection, inflated prices, and you're buying under pressure.</p>
+<p><strong>Pro tip:</strong> Many Tampa Bay families buy after a hurricane passes but before the next season. Insurance adjusters are still around, the experience is fresh, and you have 8-10 months to get comfortable with your investment.</p>
+<h2>The Reality Check: What Won't Work</h2>
+<h3>Solar Generators for Whole-House Backup</h3>
+<p>Those battery-powered "solar generators" work great for camping. For hurricane season? A $2,000 Jackery will run your fridge for maybe 8 hours. Do the math.</p>
+<h3>Tiny Inverter Generators for Big Houses</h3>
+<p>That cute Honda EU1000i won't start your refrigerator. Physics doesn't negotiate.</p>
+<h3>Cheap Amazon Brands</h3>
+<p>Yes, that 8000-watt generator for $299 looks tempting. When it dies on day three of a power outage, you'll understand why Honda costs more.</p>
+<h3>DIY Electrical Connections</h3>
+<p>Florida electrical code exists for good reasons. Backfeeding power into your house without proper transfer equipment can kill utility workers restoring your power.</p>
+<h2>Final Thoughts: Choose Based on Your Real Needs</h2>
+<p>After helping hundreds of Tampa Bay families through hurricane seasons, I've learned that the "best" generator is the one you actually buy, maintain, and know how to use safely.</p>
+<p>A well-maintained Champion 3500 that you've practiced with beats a Honda EU7000iS sitting in your garage with old gas and a dead battery.</p>
+<p>Start with your realistic needs, buy quality equipment within your budget, and practice before you need it. Hurricane season in Florida is a when, not if proposition.</p>
+<p>The generator that keeps your family safe and comfortable during the next Hurricane Ian, Irma, or Charlie is the one sitting ready in your garage — not the one you plan to buy "next season."</p>
+<h2>Frequently Asked Questions</h2>
+<h3>How long will a portable generator run during a typical Florida power outage?</h3>
+<p>Runtime depends on load and tank size, but expect 6-12 hours per tank of gas for most portable generators. A Honda EU2200i running essential loads (fridge, lights, fans) typically gets 8 hours per gallon. For extended outages like Hurricane Ian's two-week blackouts, you'll need significant fuel storage or a natural gas whole-house unit.</p>
+<h3>Do I need a transfer switch for my portable generator in Florida?</h3>
+<p>Not legally required for portable generators using extension cords, but highly recommended for safety and convenience. A manual transfer switch costs $300-800 installed and eliminates dangerous extension cord runs through windows. For whole-house generators, automatic transfer switches are mandatory and included in installation costs.</p>
+<h3>What's the best fuel type for hurricane season in Tampa Bay?</h3>
+<p>Propane wins for reliability — it stores indefinitely and stays available when gas stations lose power. However, gasoline generators are cheaper upfront and deliver more power per dollar. Dual-fuel units like the Champion 3500 give you both options, which proved crucial during recent hurricanes when fuel supplies were disrupted.</p>
+<h3>How much does whole-house generator installation cost in Tampa Bay?</h3>
+<p>Budget $8,000-$15,000 total for a quality 20-22kW system including equipment, installation, permits, and electrical work. Hillsborough and Pinellas counties require permits ($200-500), professional electrical work ($2,000-4,000), and often gas line modifications ($1,000-2,000). Installation takes 1-2 days once permits are approved.</p>
+<h3>Can I run my central air conditioning on a portable generator?</h3>
+<p>Most portable generators can't handle central AC startup surge, which can be 3-4 times the running wattage. A 3-ton AC unit needs 15,000-20,000 watts to start reliably. However, window units (8,000-12,000 BTU) will run on larger portables like the DuroMax 7000iH, providing adequate cooling for bedrooms during outages.</p>
+8:["slug","best-generators-florida-hurricane","d"]
+0:["SZLIdUDBKVit2TP_UqbYL",[[["",{"children":["blog",{"children":[["slug","best-generators-florida-hurricane","d"],{"children":["__PAGE__?{\"slug\":\"best-generators-florida-hurricane\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","best-generators-florida-hurricane","d"],{"children":["__PAGE__",{},[["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","section",null,{"className":"relative w-full h-[200px] md:h-[300px] overflow-hidden bg-brand-navy","children":[["$","$L3",null,{"src":"/images/blog/weather.jpg","alt":"Best Portable Generators for Florida Hurricane Season","fill":true,"className":"object-cover","unoptimized":true,"priority":true}],["$","div",null,{"className":"absolute inset-0 bg-brand-navy/60"}],["$","div",null,{"className":"relative z-10 flex flex-col items-center justify-center h-full px-4 text-center","children":[["$","h1",null,{"className":"text-white text-3xl md:text-5xl font-display font-extrabold leading-tight max-w-4xl","children":"Best Portable Generators for Florida Hurricane Season"}],"$undefined"]}]]}],["$","article",null,{"className":"max-w-4xl mx-auto px-4 py-10","children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://tbrelo.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://tbrelo.com/blog/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Best Portable Generators for Florida Hurricane Season\",\"item\":\"https://tbrelo.com/blog/best-generators-florida-hurricane/\"}]}"}}],["$","nav",null,{"aria-label":"Breadcrumb","className":"text-sm text-brand-slate mb-6","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-1","children":[["$","li","/",{"className":"flex items-center gap-1","children":[false,["$","$L4",null,{"href":"/","className":"hover:text-brand-blue transition-colors","children":"Home"}]]}],["$","li","/blog/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","$L4",null,{"href":"/blog/","className":"hover:text-brand-blue transition-colors","children":"Blog"}]]}],["$","li","/blog/best-generators-florida-hurricane/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","span",null,{"className":"text-brand-navy font-medium","children":"Best Portable Generators for Florida Hurricane Season"}]]}]]}]}]],["$","p",null,{"className":"text-brand-slate text-sm mb-8","children":["Published ","September 14, 2025"]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$5"}}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"cta-box-primary","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-white","children":"Moving to Tampa Bay? Get a Local Expert."}],["$","p",null,{"className":"text-sm mb-4 text-white","children":"Barrett Henry is a Broker Associate with REMAX Collective and over 23 years of real estate experience. Straight talk, smart strategy, no pressure."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-blue text-white hover:bg-blue-600","children":["Contact Barrett"," →"]}],["$","a",null,{"href":"tel:8137337907","className":"text-sm text-white","children":"(813) 733-7907"}]]}]]}],["$","div",null,{"className":"cta-box","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-brand-navy","children":"Need Help Setting Up Your New Home?"}],["$","p",null,{"className":"text-sm mb-4 text-brand-slate","children":"Best Bay Services handles handyman work, home repairs, and maintenance for your new Tampa Bay home. Local, licensed, and trusted."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-navy text-white hover:bg-brand-dark","children":["Get a Quote"," →"]}],["$","a",null,{"href":"tel:8134168676","className":"text-sm text-brand-blue","children":"(813) 416-8676"}]]}]]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","$L6",null,{"blogSlug":"best-generators-florida-hurricane"}]]}]],null],null],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$8","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/db2729ad4a9f0783.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link",null,{"rel":"icon","href":"/favicon-32.png","type":"image/png","sizes":"32x32"}],["$","link",null,{"rel":"icon","href":"/favicon-16.png","type":"image/png","sizes":"16x16"}],["$","link",null,{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link",null,{"rel":"icon","href":"/icon-192.png","type":"image/png","sizes":"192x192"}],["$","meta",null,{"name":"google-adsense-account","content":"ca-pub-2033173419526042"}],["$","meta",null,{"name":"impact-site-verification","content":"bb623f40-9653-4312-9ca8-bf35b957a10c"}],["$","$La",null,{"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2033173419526042","strategy":"afterInteractive","crossOrigin":"anonymous"}],["$","$La",null,{"src":"https://www.googletagmanager.com/gtag/js?id=G-TD87S02SLM","strategy":"afterInteractive"}],["$","$La",null,{"id":"gtag-init","strategy":"afterInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'G-TD87S02SLM');\n          "}]]}],["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"[{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"https://tbrelo.com/#website\",\"name\":\"TB Relo — Tampa Bay Relocation Guide\",\"url\":\"https://tbrelo.com\",\"description\":\"Comprehensive relocation guides for Tampa Bay, Florida. Covering 8 counties, 100+ cities, cost of living, schools, and everything you need to know about moving to Tampa Bay.\",\"publisher\":{\"@id\":\"https://tbrelo.com/#org\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://tbrelo.com/blog/?q={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}},{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://tbrelo.com/#org\",\"name\":\"TB Relo\",\"url\":\"https://tbrelo.com\",\"sameAs\":[\"https://nowtb.com\",\"https://valricoagent.com\",\"https://parrishagent.com\",\"https://www.facebook.com/BarrettHenryREALTOR/\",\"https://www.instagram.com/thenowteam\",\"https://www.youtube.com/@nowtampa\"]}]"}}],["$","$Lb",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"max-w-2xl mx-auto px-4 py-20 text-center","children":[["$","h1",null,{"className":"text-6xl font-display font-extrabold text-brand-navy mb-4","children":"404"}],["$","p",null,{"className":"text-xl text-brand-slate mb-8","children":"This page doesn't exist. Maybe you're looking for one of these?"}],["$","div",null,{"className":"grid sm:grid-cols-2 gap-4 mb-12 text-left","children":[["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Moving Guide"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Complete guide to relocating to Tampa Bay"}]]}],["$","$L4",null,{"href":"/counties/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Explore Counties"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Browse all 8 Tampa Bay counties"}]]}],["$","$L4",null,{"href":"/cities/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Find a City"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"90+ city and neighborhood guides"}]]}],["$","$L4",null,{"href":"/blog/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Blog"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Tips, comparisons, and local insights"}]]}]]}],["$","$L4",null,{"href":"/","className":"px-8 py-4 bg-brand-blue text-white font-display font-bold rounded-lg hover:bg-blue-600 transition-colors text-lg inline-block","children":"Back to Home"}]]}],"notFoundStyles":[]}]}],["$","footer",null,{"className":"bg-brand-dark text-gray-400","children":[["$","div",null,{"className":"bg-brand-navy","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10","children":["$","div",null,{"className":"grid md:grid-cols-3 gap-8 text-center","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Buying or Selling a Home?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Barrett Henry — The NOW Team at REMAX Collective"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 733-7907"}]]}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Need a Handyman?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Best Bay Services — Tampa Bay Home Services"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 416-8676"}]]}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Property Management"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"ViVi PM — Full-Service Property Management"}]]}]]}]}]}],["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8","children":[["$","div",null,{"className":"md:col-span-2","children":[["$","div",null,{"className":"font-display font-extrabold text-2xl text-white mb-3","children":["TB",["$","span",null,{"className":"text-brand-sky","children":"Relo"}]]}],["$","p",null,{"className":"text-sm leading-relaxed","children":"Your complete guide to relocating to Tampa Bay, Florida. Covering Hillsborough, Pinellas, Pasco, Hernando, Polk, Manatee, Sarasota, and Citrus counties with honest, local insight from someone who actually lives here."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Guides"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"hover:text-white transition-colors","children":"Moving to Tampa Bay"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/cost-of-living/","className":"hover:text-white transition-colors","children":"Cost of Living"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/moving-checklist/","className":"hover:text-white transition-colors","children":"Moving Checklist"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/blog/","className":"hover:text-white transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Counties"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li","Hillsborough",{"children":["$","$L4",null,{"href":"/counties/hillsborough/","className":"hover:text-white transition-colors","children":["Hillsborough"," County"]}]}],["$","li","Pinellas",{"children":["$","$L4",null,{"href":"/counties/pinellas/","className":"hover:text-white transition-colors","children":["Pinellas"," County"]}]}],["$","li","Pasco",{"children":["$","$L4",null,{"href":"/counties/pasco/","className":"hover:text-white transition-colors","children":["Pasco"," County"]}]}],["$","li","Hernando",{"children":["$","$L4",null,{"href":"/counties/hernando/","className":"hover:text-white transition-colors","children":["Hernando"," County"]}]}],["$","li","Polk",{"children":["$","$L4",null,{"href":"/counties/polk/","className":"hover:text-white transition-colors","children":["Polk"," County"]}]}],["$","li","Manatee",{"children":["$","$L4",null,{"href":"/counties/manatee/","className":"hover:text-white transition-colors","children":["Manatee"," County"]}]}],["$","li","Sarasota",{"children":["$","$L4",null,{"href":"/counties/sarasota/","className":"hover:text-white transition-colors","children":["Sarasota"," County"]}]}],["$","li","Citrus",{"children":["$","$L4",null,{"href":"/counties/citrus/","className":"hover:text-white transition-colors","children":["Citrus"," County"]}]}]]}]]}]]}],["$","div",null,{"className":"mt-10 pt-8 border-t border-gray-800","children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Barrett Henry's Network"}],["$","div",null,{"className":"grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3 text-sm","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Tampa Bay Real Estate"}],["$","a",null,{"href":"https://valricoagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Real Estate"}],["$","a",null,{"href":"https://parrishagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Parrish Real Estate"}],["$","a",null,{"href":"https://valrico.blog","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Community Blog"}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Handyman & Home Services"}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Property Management"}]]}]]}],["$","div",null,{"className":"mt-12 pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center gap-4 text-xs","children":[["$","p",null,{"children":["© ",2026," TB Relo. All rights reserved."]}],["$","div",null,{"className":"flex gap-4","children":[["$","$L4",null,{"href":"/affiliate-disclosure/","className":"hover:text-white transition-colors","children":"Affiliate Disclosure"}],["$","$L4",null,{"href":"/privacy-policy/","className":"hover:text-white transition-colors","children":"Privacy Policy"}],["$","$L4",null,{"href":"/disclaimer/","className":"hover:text-white transition-colors","children":"Disclaimer"}]]}]]}]]}],["$","div",null,{"className":"bg-black/30 border-t border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 text-center text-xs text-gray-500","children":["Site by"," ",["$","a",null,{"href":"https://vyrabyte.com","target":"_blank","rel":"noopener noreferrer","className":"text-gray-400 hover:text-white transition-colors","children":"Vyrabyte"}]]}]}]]}],["$","$Lc",null,{}]]}]]}]],null],null],["$Ld",null]]]]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Best Portable Generators for Florida Hurricane Season | TB Relo | TB Relo"}],["$","meta","3",{"name":"description","content":"Best Portable Generators for Florida Hurricane Season. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","6",{"property":"og:title","content":"Best Portable Generators for Florida Hurricane Season | TB Relo | TB Relo"}],["$","meta","7",{"property":"og:description","content":"Best Portable Generators for Florida Hurricane Season. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","8",{"property":"og:image","content":"https://tbrelo.com/images/blog/weather.jpg"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"Best Portable Generators for Florida Hurricane Season | TB Relo | TB Relo"}],["$","meta","13",{"name":"twitter:description","content":"Best Portable Generators for Florida Hurricane Season. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","14",{"name":"twitter:image","content":"https://tbrelo.com/images/blog/weather.jpg"}],["$","link","15",{"rel":"icon","href":"/icon.svg?ff4364d89c37c0d6","type":"image/svg+xml","sizes":"any"}]]
+1:null

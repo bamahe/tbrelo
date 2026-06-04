@@ -1,0 +1,239 @@
+3:I[5878,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"Image"]
+4:I[2972,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],""]
+6:I[5143,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"default"]
+7:I[4707,[],""]
+9:I[6423,[],""]
+a:I[8003,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],""]
+b:I[7312,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"default"]
+c:I[5463,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"SpeedInsights"]
+2:T113e,[{"@context":"https://schema.org","@type":"Article","headline":"Florida Homeowner's Association Act — Your Rights Summarized | TB Relo","description":"Florida Homeowner's Association Act. Honest guide from a Tampa Bay local with 23+ years of experience.","url":"https://tbrelo.com/blog/florida-hoa-act-rights-summary/","author":{"@type":"Person","name":"Barrett Henry","jobTitle":"REALTOR® & Broker Associate","url":"https://nowtb.com","worksFor":{"@type":"Organization","name":"REMAX Collective"},"knowsAbout":["Tampa Bay Real Estate","Florida Relocation","Residential Real Estate","Investment Property","Property Management"]},"publisher":{"@type":"Organization","name":"TB Relo","url":"https://tbrelo.com"},"datePublished":"2025-07-13T08:00:00-04:00","dateModified":"2026-04-16T08:00:00-04:00","image":{"@type":"ImageObject","url":"https://tbrelo.com/images/blog/housing.jpg"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Can my HOA prevent me from renting out my home?","acceptedAnswer":{"@type":"Answer","text":"HOAs can restrict rentals, but any rental restrictions must be clearly stated in your governing documents that were recorded before you purchased. They cannot retroactively ban rentals that were previously allowed. However, they can regulate the rental process, require tenant screening, and charge reasonable fees for rental applications."}},{"@type":"Question","name":"What happens if my HOA doesn't maintain required reserves?","acceptedAnswer":{"@type":"Answer","text":"If your HOA fails to maintain legally required reserves, they're violating Florida law. You can file a complaint with the state, and the association may face fines. More importantly, inadequate reserves often lead to special assessments when major repairs are needed, so this directly affects your wallet."}},{"@type":"Question","name":"Can I get copies of HOA records electronically?","acceptedAnswer":{"@type":"Answer","text":"Yes, Florida law requires HOAs to provide records in the format you request if they maintain them electronically. They cannot force you to review paper copies if electronic versions exist. However, they can charge reasonable fees for providing electronic copies, typically much less than photocopying costs."}},{"@type":"Question","name":"How long does my HOA have to respond to violation notices?","acceptedAnswer":{"@type":"Answer","text":"You have at least 14 days to cure most violations after receiving written notice. For some violations like architectural issues, you may have longer depending on what's needed to fix the problem. The HOA cannot fine you during this cure period, and they must give you a hearing opportunity before imposing any fines."}},{"@type":"Question","name":"Can my HOA charge late fees on assessments?","acceptedAnswer":{"@type":"Answer","text":"Yes, but late fees must be reasonable and clearly outlined in your governing documents. Florida law doesn't set specific limits on late fees, but courts have ruled that excessive late fees may be unenforceable. Typical late fees range from $25-100 depending on assessment amounts."}},{"@type":"Question","name":"What's the difference between assessments and fines?","acceptedAnswer":{"@type":"Answer","text":"Assessments are fees charged to all homeowners for community expenses and are liens against your property if unpaid. Fines are penalties for rule violations and cannot exceed $1,000 per violation or $5,000 total. Your HOA can foreclose for unpaid assessments but not for unpaid fines alone."}},{"@type":"Question","name":"Can I attend HOA board meetings virtually?","acceptedAnswer":{"@type":"Answer","text":"Florida law requires HOA meetings to be open to members but doesn't specify the format. Many associations now offer virtual or hybrid meeting options, especially after COVID-19. Check your governing documents and recent board policies, as practices vary by community."}},{"@type":"Question","name":"What should I do if I think my HOA is violating Florida law?","acceptedAnswer":{"@type":"Answer","text":"Start by documenting the violation and reviewing your governing documents to confirm the issue. Try addressing it directly with the board in writing. If that fails, you can file a complaint with the Division of Florida Condominiums, Timeshares, and Mobile Homes, or consult with an attorney who specializes in community association law."}}]}]5:T4bb5,<p>Moving to Florida and dealing with an HOA for the first time? Or maybe you've been here for years but never really understood what your association can and can't do? After 23 years of helping Tampa Bay families navigate homebuying, I've seen every HOA horror story and triumph you can imagine.</p>
+<p>The Florida Homeowner's Association Act isn't light reading, but it's the law that governs how your HOA operates — and knowing your rights under it can save you thousands of dollars and countless headaches. Let me break down what actually matters for homeowners in 2024.</p>
+<h2>What Is the Florida Homeowner's Association Act?</h2>
+<p>The Florida Homeowner's Association Act (Chapter 720 of Florida Statutes) is the rulebook for how HOAs must operate in our state. Think of it as the constitution for your neighborhood association. Every HOA in Florida — from your 50-unit condo conversion in South Tampa to those massive master-planned communities in Wesley Chapel — must follow these rules.</p>
+<p>The law covers everything from how board elections work to what information your HOA must share with you. It's been updated multiple times, with major changes in 2022 and 2023 following the Surfside tragedy and ongoing concerns about HOA transparency.</p>
+<p>Here's what's different about Florida compared to other states: our law is actually pretty homeowner-friendly, especially after recent updates. The challenge is that many residents don't know their rights, and some HOA boards either don't know the rules or choose to ignore them.</p>
+<h2>Recent Changes: SB 4D and What It Means for You</h2>
+<p>Senate Bill 4D, passed in 2022, made the biggest changes to Florida HOA law in decades. If you're living in a community built before 2010, these changes probably affect you directly.</p>
+<h3>Structural Integrity Reserve Studies</h3>
+<p>The biggest change? HOAs with buildings three stories or taller built before 2008 must now conduct structural integrity reserve studies. This includes many mid-rise condos along Westshore Boulevard, older communities in Clearwater, and pretty much every beachfront condo from Redington to Indian Rocks.</p>
+<p>Your HOA must hire a licensed engineer to evaluate:</p>
+<ul>
+<li>The building's structural integrity</li>
+<li>Major components like roofing, load-bearing walls, and foundations</li>
+<li>How much money needs to be set aside for future repairs</li>
+</ul>
+<p>The first studies were due by December 31, 2024. If your HOA hasn't completed this yet, they're in violation of state law.</p>
+<h3>Reserve Fund Requirements</h3>
+<p>Gone are the days when HOAs could "waive reserves" and kick the can down the road. Starting in 2025, associations cannot waive reserves for structural components. Your monthly fees might go up, but you'll avoid those surprise $50,000 special assessments that have blindsided so many Florida homeowners.</p>
+<h2>Your Core Rights Under Florida HOA Law</h2>
+<h3>Access to Records</h3>
+<p>Your HOA cannot operate like a secret society. Florida law gives you broad access to association records, and I mean broad. You can inspect:</p>
+<ul>
+<li>Financial records including bank statements</li>
+<li>Contracts with vendors</li>
+<li>Board meeting minutes</li>
+<li>Architectural control records</li>
+<li>Insurance policies</li>
+<li>Reserve study reports</li>
+</ul>
+<p>The HOA must make these available within 10 business days of your written request. They can charge you reasonable copying fees (typically 25-50 cents per page), but they cannot charge you just to look at the records.</p>
+<p>One exception: you cannot access other owners' personal information like social security numbers or addresses. But financial information? Vendor contracts? Board communications? All fair game.</p>
+<h3>Meeting Access and Participation</h3>
+<p>Every HOA board meeting must be open to all members, with rare exceptions for discussions about litigation or personnel matters. The HOA must:</p>
+<ul>
+<li>Post meeting notices at least 48 hours in advance</li>
+<li>Allow you to speak during designated member comment periods</li>
+<li>Keep detailed minutes of all meetings</li>
+<li>Make meeting minutes available within 30 days</li>
+</ul>
+<p>I've seen HOA boards try to shut down member participation or hold secret meetings. This is illegal in Florida, full stop.</p>
+<h3>Voting Rights</h3>
+<p>Your voting rights are protected by both your community's governing documents and state law. Key protections include:</p>
+<ul>
+<li>You cannot be required to vote in person if you prefer to vote by proxy</li>
+<li>The HOA must provide at least 14 days' notice for any vote requiring membership approval</li>
+<li>You have the right to inspect the official membership list before elections</li>
+<li>Recalls of board members must follow specific procedures outlined in the law</li>
+</ul>
+<h2>Financial Transparency Requirements</h2>
+<p>This is where many HOAs get themselves into legal trouble. Florida requires extensive financial transparency, and the rules got stricter after SB 4D.</p>
+<h3>Annual Financial Reporting</h3>
+<p>HOAs with annual budgets over $300,000 must provide audited financial statements. Smaller associations can provide reviewed financial statements or, in some cases, compiled statements. But here's the key: whatever financial statement your HOA prepares must be made available to all members.</p>
+<p>Your HOA must also provide:</p>
+<ul>
+<li>Annual budget summaries showing where your money goes</li>
+<li>Reserve fund balances and planned expenditures</li>
+<li>Any changes to regular assessments or special assessments</li>
+<li>Detailed explanations of any reserves being waived (though this is becoming much more restricted)</li>
+</ul>
+<h3>Reserve Fund Disclosures</h3>
+<p>Starting in 2024, your HOA must provide much more detailed information about reserves. When you're buying a home, you should receive:</p>
+<ul>
+<li>Current reserve balances for each component</li>
+<li>Anticipated major expenditures over the next three years</li>
+<li>Any recent special assessments and their purposes</li>
+<li>Results of the most recent reserve study (if required)</li>
+</ul>
+<p>This information should be part of your <a href="/moving-checklist/">moving checklist</a> review. Don't close on a home without understanding the HOA's financial health.</p>
+<h2>Enforcement and Violations: What Your HOA Can and Cannot Do</h2>
+<p>HOAs have enforcement powers, but they're not unlimited. Florida law requires due process, even for minor violations like leaving your garbage can out too long.</p>
+<h3>The Violation Process</h3>
+<p>Before your HOA can fine you, they must:</p>
+<ol>
+<li>Send written notice of the violation with at least 14 days to cure it</li>
+<li>Provide opportunity for you to be heard by the board or a violation committee</li>
+<li>Follow progressive enforcement if outlined in your governing documents</li>
+</ol>
+<p>They cannot fine you without giving you a chance to respond. I've seen associations try to issue "drive-by fines" for first-time violations. This violates Florida law.</p>
+<h3>Fine Limitations</h3>
+<p>Your HOA cannot fine you more than $1,000 for any single violation, and aggregate fines cannot exceed $5,000. However, they can fine you $1,000 per day for continuing violations if your governing documents allow it.</p>
+<p>More importantly: your HOA cannot fine you for violations that aren't clearly spelled out in your covenants, conditions, and restrictions (CC&#x26;Rs) or community rules. They can't make up new rules and immediately start fining people.</p>
+<h3>Lien and Foreclosure Rights</h3>
+<p>This is serious business. Your HOA can place a lien on your property for unpaid assessments, and in extreme cases, they can foreclose. However, Florida law provides some homeowner protections:</p>
+<ul>
+<li>The HOA must provide 30 days' written notice before filing a lien</li>
+<li>You have the right to dispute liens through the community association dispute resolution process</li>
+<li>Foreclosure is only allowed for delinquent assessments, not fines</li>
+</ul>
+<h2>Election and Board Service Rules</h2>
+<p>HOA board elections in Florida must follow specific procedures designed to prevent the kind of shenanigans that give associations bad reputations.</p>
+<h3>Candidate Eligibility</h3>
+<p>Any member in good standing can run for the board unless they:</p>
+<ul>
+<li>Are more than 90 days delinquent in assessments</li>
+<li>Have been convicted of a felony involving theft, embezzlement, or other financial crimes</li>
+<li>Are related to another board member (some communities restrict this)</li>
+</ul>
+<p>Your governing documents may have additional requirements, but they cannot be more restrictive than state law allows.</p>
+<h3>Election Procedures</h3>
+<p>Florida law requires:</p>
+<ul>
+<li>At least 60 days' notice of elections</li>
+<li>Opportunity for candidates to distribute campaign materials</li>
+<li>Secret ballot voting</li>
+<li>Independent vote counting (not done by current board members)</li>
+</ul>
+<p>I've seen communities where the same three people have been on the board for 20 years because nobody else knows they can run. Get involved. Your community needs engaged homeowners.</p>
+<h2>Dispute Resolution: Your Options When Things Go Wrong</h2>
+<p>When your HOA violates Florida law or overreaches its authority, you have several options for recourse.</p>
+<h3>Internal Dispute Resolution</h3>
+<p>Start with your HOA's internal procedures. Most associations have grievance processes outlined in their governing documents. While these aren't always satisfactory, you typically need to exhaust internal remedies before pursuing external options.</p>
+<h3>State Division of Condominiums</h3>
+<p>Wait, this says "condominiums," but it applies to HOAs too. The Division of Florida Condominiums, Timeshares, and Mobile Homes handles complaints about homeowner associations. They can:</p>
+<ul>
+<li>Investigate violations of Florida law</li>
+<li>Issue binding arbitration decisions</li>
+<li>Impose fines on associations that violate the law</li>
+</ul>
+<p>Filing a complaint is free and can be done online. Response times vary, but I've seen effective results when HOAs are clearly violating transparency or procedural requirements.</p>
+<h3>Civil Court</h3>
+<p>For serious violations or monetary damages, you may need to file a lawsuit. Florida courts can order HOAs to comply with the law and award attorney's fees to prevailing homeowners in many cases.</p>
+<h2>Reserve Requirements and Special Assessments</h2>
+<p>This is probably the area where recent law changes affect the most Florida homeowners. If you live in an older community, understanding these rules could save you tens of thousands of dollars.</p>
+<h3>What Must Be Reserved</h3>
+<p>Florida law requires HOAs to maintain reserves for:</p>
+<ul>
+<li>Roof replacement and major repairs</li>
+<li>Building painting and waterproofing</li>
+<li>Pavement resurfacing</li>
+<li>Pool resurfacing and equipment replacement</li>
+</ul>
+<p>For buildings three stories or taller built before 2008, structural components must also be reserved, and these reserves cannot be waived.</p>
+<h3>Special Assessment Protections</h3>
+<p>While HOAs can still levy special assessments, the new reserve requirements should dramatically reduce surprise assessments for routine maintenance items. Your HOA cannot ignore obvious maintenance needs and then hit you with emergency assessments when things fail.</p>
+<p>If your HOA tries to levy a special assessment for items that should have been reserved, you have grounds to challenge it.</p>
+<h2>Architectural Control and Property Modifications</h2>
+<p>Want to paint your front door a different color or install solar panels? Your HOA has some say, but Florida law limits their authority in several important ways.</p>
+<h3>Solar Panel Rights</h3>
+<p>Florida's Solar Rights Act prevents HOAs from prohibiting solar panel installation, though they can regulate placement and appearance. Your HOA cannot:</p>
+<ul>
+<li>Completely ban solar panels</li>
+<li>Require you to use specific contractors or equipment brands</li>
+<li>Charge unreasonable fees for architectural review</li>
+</ul>
+<p>They can require panels to be placed on rear-facing roof slopes or require screening that doesn't significantly reduce efficiency.</p>
+<h3>Architectural Review Process</h3>
+<p>Your HOA must have clear, published standards for architectural modifications. They cannot:</p>
+<ul>
+<li>Take longer than 30 days to respond to complete applications</li>
+<li>Apply different standards to different homeowners</li>
+<li>Deny reasonable requests without specific, documented reasons</li>
+</ul>
+<p>The review process should be in your community's architectural guidelines. If it's not clearly documented, you have grounds to challenge arbitrary denials.</p>
+<h2>Insurance and Liability Issues</h2>
+<p>Florida's insurance market is challenging right now, and HOA insurance requirements affect every homeowner in the community.</p>
+<h3>HOA Insurance Responsibilities</h3>
+<p>Your association must maintain:</p>
+<ul>
+<li>General liability insurance covering common areas</li>
+<li>Property insurance on community buildings and amenities</li>
+<li>Directors and officers insurance protecting board members</li>
+<li>Workers compensation if the HOA has employees</li>
+</ul>
+<p>Understanding what your HOA covers helps you determine what homeowner's insurance you need. Many Tampa Bay residents are overinsured because they don't understand their HOA's coverage.</p>
+<h3>Your Insurance Obligations</h3>
+<p>Most HOAs require homeowners to maintain adequate liability and property insurance. However, they cannot require you to:</p>
+<ul>
+<li>Use specific insurance companies</li>
+<li>Maintain coverage limits that are unreasonably high</li>
+<li>Name the HOA as an additional insured on your policy (unless your governing documents specifically require it)</li>
+</ul>
+<h2>What Recent Court Cases Tell Us</h2>
+<p>Florida courts have been busy interpreting the new HOA laws, and several recent decisions clarify homeowner rights.</p>
+<p>The Florida Supreme Court has consistently held that HOA powers are limited to what's specifically granted in governing documents and state law. Associations cannot simply do whatever they think is "good for the community."</p>
+<p>Recent appellate court decisions have also strengthened homeowner rights regarding:</p>
+<ul>
+<li>Access to electronic records and communications</li>
+<li>Limits on HOA authority over utility connections and <a href="/utilities/">services</a></li>
+<li>Requirements for specific disclosure of all fees and assessments</li>
+</ul>
+<hr>
+<p><strong>Moving to Tampa Bay?</strong> Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.</p>
+<p><a href="https://nowtb.com">Contact Barrett →</a> | <a href="tel:8137337907">(813) 733-7907</a></p>
+<hr>
+<h2>Practical Tips for New Florida Homeowners</h2>
+<p>If you're buying in an HOA community, here's what I tell my clients:</p>
+<p><strong>Before You Buy:</strong></p>
+<ul>
+<li>Request the last three years of financial statements</li>
+<li>Review recent board meeting minutes for ongoing issues</li>
+<li>Ask about planned capital improvements and their funding</li>
+<li>Understand what the HOA covers versus what you'll need to insure</li>
+</ul>
+<p><strong>After You Move In:</strong></p>
+<ul>
+<li>Attend at least one board meeting to understand the community dynamics</li>
+<li>Read your governing documents — yes, all of them</li>
+<li>Sign up for HOA communications and stay informed about community issues</li>
+<li>Consider running for the board if you want to make a difference</li>
+</ul>
+<h2>Looking Forward: What's Coming Next</h2>
+<p>The Florida legislature continues to refine HOA law based on lessons learned from recent changes. Expect continued focus on:</p>
+<ul>
+<li>Expanded reserve requirements for more types of communities</li>
+<li>Stronger penalties for HOAs that violate transparency requirements</li>
+<li>Additional protections for homeowners facing foreclosure</li>
+<li>Clearer rules about HOA authority over emerging technologies</li>
+</ul>
+<p>The trend is clearly toward more homeowner protection and HOA accountability. Understanding your rights under current law positions you well for whatever changes come next.</p>
+<h2>Frequently Asked Questions</h2>
+<h3>Can my HOA prevent me from renting out my home?</h3>
+<p>HOAs can restrict rentals, but any rental restrictions must be clearly stated in your governing documents that were recorded before you purchased. They cannot retroactively ban rentals that were previously allowed. However, they can regulate the rental process, require tenant screening, and charge reasonable fees for rental applications.</p>
+<h3>What happens if my HOA doesn't maintain required reserves?</h3>
+<p>If your HOA fails to maintain legally required reserves, they're violating Florida law. You can file a complaint with the state, and the association may face fines. More importantly, inadequate reserves often lead to special assessments when major repairs are needed, so this directly affects your wallet.</p>
+<h3>Can I get copies of HOA records electronically?</h3>
+<p>Yes, Florida law requires HOAs to provide records in the format you request if they maintain them electronically. They cannot force you to review paper copies if electronic versions exist. However, they can charge reasonable fees for providing electronic copies, typically much less than photocopying costs.</p>
+<h3>How long does my HOA have to respond to violation notices?</h3>
+<p>You have at least 14 days to cure most violations after receiving written notice. For some violations like architectural issues, you may have longer depending on what's needed to fix the problem. The HOA cannot fine you during this cure period, and they must give you a hearing opportunity before imposing any fines.</p>
+<h3>Can my HOA charge late fees on assessments?</h3>
+<p>Yes, but late fees must be reasonable and clearly outlined in your governing documents. Florida law doesn't set specific limits on late fees, but courts have ruled that excessive late fees may be unenforceable. Typical late fees range from $25-100 depending on assessment amounts.</p>
+<h3>What's the difference between assessments and fines?</h3>
+<p>Assessments are fees charged to all homeowners for community expenses and are liens against your property if unpaid. Fines are penalties for rule violations and cannot exceed $1,000 per violation or $5,000 total. Your HOA can foreclose for unpaid assessments but not for unpaid fines alone.</p>
+<h3>Can I attend HOA board meetings virtually?</h3>
+<p>Florida law requires HOA meetings to be open to members but doesn't specify the format. Many associations now offer virtual or hybrid meeting options, especially after COVID-19. Check your governing documents and recent board policies, as practices vary by community.</p>
+<h3>What should I do if I think my HOA is violating Florida law?</h3>
+<p>Start by documenting the violation and reviewing your governing documents to confirm the issue. Try addressing it directly with the board in writing. If that fails, you can file a complaint with the Division of Florida Condominiums, Timeshares, and Mobile Homes, or consult with an attorney who specializes in community association law.</p>
+8:["slug","florida-hoa-act-rights-summary","d"]
+0:["SZLIdUDBKVit2TP_UqbYL",[[["",{"children":["blog",{"children":[["slug","florida-hoa-act-rights-summary","d"],{"children":["__PAGE__?{\"slug\":\"florida-hoa-act-rights-summary\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","florida-hoa-act-rights-summary","d"],{"children":["__PAGE__",{},[["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","section",null,{"className":"relative w-full h-[200px] md:h-[300px] overflow-hidden bg-brand-navy","children":[["$","$L3",null,{"src":"/images/blog/housing.jpg","alt":"Florida Homeowner's Association Act — Your Rights Summarized","fill":true,"className":"object-cover","unoptimized":true,"priority":true}],["$","div",null,{"className":"absolute inset-0 bg-brand-navy/60"}],["$","div",null,{"className":"relative z-10 flex flex-col items-center justify-center h-full px-4 text-center","children":[["$","h1",null,{"className":"text-white text-3xl md:text-5xl font-display font-extrabold leading-tight max-w-4xl","children":"Florida Homeowner's Association Act — Your Rights Summarized"}],"$undefined"]}]]}],["$","article",null,{"className":"max-w-4xl mx-auto px-4 py-10","children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://tbrelo.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://tbrelo.com/blog/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Florida Homeowner's Association Act — Your Rights Summarized\",\"item\":\"https://tbrelo.com/blog/florida-hoa-act-rights-summary/\"}]}"}}],["$","nav",null,{"aria-label":"Breadcrumb","className":"text-sm text-brand-slate mb-6","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-1","children":[["$","li","/",{"className":"flex items-center gap-1","children":[false,["$","$L4",null,{"href":"/","className":"hover:text-brand-blue transition-colors","children":"Home"}]]}],["$","li","/blog/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","$L4",null,{"href":"/blog/","className":"hover:text-brand-blue transition-colors","children":"Blog"}]]}],["$","li","/blog/florida-hoa-act-rights-summary/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","span",null,{"className":"text-brand-navy font-medium","children":"Florida Homeowner's Association Act — Your Rights Summarized"}]]}]]}]}]],["$","p",null,{"className":"text-brand-slate text-sm mb-8","children":["Published ","July 13, 2025"]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$5"}}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"cta-box-primary","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-white","children":"Moving to Tampa Bay? Get a Local Expert."}],["$","p",null,{"className":"text-sm mb-4 text-white","children":"Barrett Henry is a Broker Associate with REMAX Collective and over 23 years of real estate experience. Straight talk, smart strategy, no pressure."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-blue text-white hover:bg-blue-600","children":["Contact Barrett"," →"]}],["$","a",null,{"href":"tel:8137337907","className":"text-sm text-white","children":"(813) 733-7907"}]]}]]}],["$","div",null,{"className":"cta-box","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-brand-navy","children":"Need Help Setting Up Your New Home?"}],["$","p",null,{"className":"text-sm mb-4 text-brand-slate","children":"Best Bay Services handles handyman work, home repairs, and maintenance for your new Tampa Bay home. Local, licensed, and trusted."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-navy text-white hover:bg-brand-dark","children":["Get a Quote"," →"]}],["$","a",null,{"href":"tel:8134168676","className":"text-sm text-brand-blue","children":"(813) 416-8676"}]]}]]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","$L6",null,{"blogSlug":"florida-hoa-act-rights-summary"}]]}]],null],null],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$8","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/db2729ad4a9f0783.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link",null,{"rel":"icon","href":"/favicon-32.png","type":"image/png","sizes":"32x32"}],["$","link",null,{"rel":"icon","href":"/favicon-16.png","type":"image/png","sizes":"16x16"}],["$","link",null,{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link",null,{"rel":"icon","href":"/icon-192.png","type":"image/png","sizes":"192x192"}],["$","meta",null,{"name":"google-adsense-account","content":"ca-pub-2033173419526042"}],["$","meta",null,{"name":"impact-site-verification","content":"bb623f40-9653-4312-9ca8-bf35b957a10c"}],["$","$La",null,{"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2033173419526042","strategy":"afterInteractive","crossOrigin":"anonymous"}],["$","$La",null,{"src":"https://www.googletagmanager.com/gtag/js?id=G-TD87S02SLM","strategy":"afterInteractive"}],["$","$La",null,{"id":"gtag-init","strategy":"afterInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'G-TD87S02SLM');\n          "}]]}],["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"[{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"https://tbrelo.com/#website\",\"name\":\"TB Relo — Tampa Bay Relocation Guide\",\"url\":\"https://tbrelo.com\",\"description\":\"Comprehensive relocation guides for Tampa Bay, Florida. Covering 8 counties, 100+ cities, cost of living, schools, and everything you need to know about moving to Tampa Bay.\",\"publisher\":{\"@id\":\"https://tbrelo.com/#org\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://tbrelo.com/blog/?q={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}},{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://tbrelo.com/#org\",\"name\":\"TB Relo\",\"url\":\"https://tbrelo.com\",\"sameAs\":[\"https://nowtb.com\",\"https://valricoagent.com\",\"https://parrishagent.com\",\"https://www.facebook.com/BarrettHenryREALTOR/\",\"https://www.instagram.com/thenowteam\",\"https://www.youtube.com/@nowtampa\"]}]"}}],["$","$Lb",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"max-w-2xl mx-auto px-4 py-20 text-center","children":[["$","h1",null,{"className":"text-6xl font-display font-extrabold text-brand-navy mb-4","children":"404"}],["$","p",null,{"className":"text-xl text-brand-slate mb-8","children":"This page doesn't exist. Maybe you're looking for one of these?"}],["$","div",null,{"className":"grid sm:grid-cols-2 gap-4 mb-12 text-left","children":[["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Moving Guide"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Complete guide to relocating to Tampa Bay"}]]}],["$","$L4",null,{"href":"/counties/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Explore Counties"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Browse all 8 Tampa Bay counties"}]]}],["$","$L4",null,{"href":"/cities/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Find a City"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"90+ city and neighborhood guides"}]]}],["$","$L4",null,{"href":"/blog/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Blog"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Tips, comparisons, and local insights"}]]}]]}],["$","$L4",null,{"href":"/","className":"px-8 py-4 bg-brand-blue text-white font-display font-bold rounded-lg hover:bg-blue-600 transition-colors text-lg inline-block","children":"Back to Home"}]]}],"notFoundStyles":[]}]}],["$","footer",null,{"className":"bg-brand-dark text-gray-400","children":[["$","div",null,{"className":"bg-brand-navy","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10","children":["$","div",null,{"className":"grid md:grid-cols-3 gap-8 text-center","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Buying or Selling a Home?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Barrett Henry — The NOW Team at REMAX Collective"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 733-7907"}]]}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Need a Handyman?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Best Bay Services — Tampa Bay Home Services"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 416-8676"}]]}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Property Management"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"ViVi PM — Full-Service Property Management"}]]}]]}]}]}],["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8","children":[["$","div",null,{"className":"md:col-span-2","children":[["$","div",null,{"className":"font-display font-extrabold text-2xl text-white mb-3","children":["TB",["$","span",null,{"className":"text-brand-sky","children":"Relo"}]]}],["$","p",null,{"className":"text-sm leading-relaxed","children":"Your complete guide to relocating to Tampa Bay, Florida. Covering Hillsborough, Pinellas, Pasco, Hernando, Polk, Manatee, Sarasota, and Citrus counties with honest, local insight from someone who actually lives here."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Guides"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"hover:text-white transition-colors","children":"Moving to Tampa Bay"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/cost-of-living/","className":"hover:text-white transition-colors","children":"Cost of Living"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/moving-checklist/","className":"hover:text-white transition-colors","children":"Moving Checklist"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/blog/","className":"hover:text-white transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Counties"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li","Hillsborough",{"children":["$","$L4",null,{"href":"/counties/hillsborough/","className":"hover:text-white transition-colors","children":["Hillsborough"," County"]}]}],["$","li","Pinellas",{"children":["$","$L4",null,{"href":"/counties/pinellas/","className":"hover:text-white transition-colors","children":["Pinellas"," County"]}]}],["$","li","Pasco",{"children":["$","$L4",null,{"href":"/counties/pasco/","className":"hover:text-white transition-colors","children":["Pasco"," County"]}]}],["$","li","Hernando",{"children":["$","$L4",null,{"href":"/counties/hernando/","className":"hover:text-white transition-colors","children":["Hernando"," County"]}]}],["$","li","Polk",{"children":["$","$L4",null,{"href":"/counties/polk/","className":"hover:text-white transition-colors","children":["Polk"," County"]}]}],["$","li","Manatee",{"children":["$","$L4",null,{"href":"/counties/manatee/","className":"hover:text-white transition-colors","children":["Manatee"," County"]}]}],["$","li","Sarasota",{"children":["$","$L4",null,{"href":"/counties/sarasota/","className":"hover:text-white transition-colors","children":["Sarasota"," County"]}]}],["$","li","Citrus",{"children":["$","$L4",null,{"href":"/counties/citrus/","className":"hover:text-white transition-colors","children":["Citrus"," County"]}]}]]}]]}]]}],["$","div",null,{"className":"mt-10 pt-8 border-t border-gray-800","children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Barrett Henry's Network"}],["$","div",null,{"className":"grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3 text-sm","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Tampa Bay Real Estate"}],["$","a",null,{"href":"https://valricoagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Real Estate"}],["$","a",null,{"href":"https://parrishagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Parrish Real Estate"}],["$","a",null,{"href":"https://valrico.blog","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Community Blog"}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Handyman & Home Services"}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Property Management"}]]}]]}],["$","div",null,{"className":"mt-12 pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center gap-4 text-xs","children":[["$","p",null,{"children":["© ",2026," TB Relo. All rights reserved."]}],["$","div",null,{"className":"flex gap-4","children":[["$","$L4",null,{"href":"/affiliate-disclosure/","className":"hover:text-white transition-colors","children":"Affiliate Disclosure"}],["$","$L4",null,{"href":"/privacy-policy/","className":"hover:text-white transition-colors","children":"Privacy Policy"}],["$","$L4",null,{"href":"/disclaimer/","className":"hover:text-white transition-colors","children":"Disclaimer"}]]}]]}]]}],["$","div",null,{"className":"bg-black/30 border-t border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 text-center text-xs text-gray-500","children":["Site by"," ",["$","a",null,{"href":"https://vyrabyte.com","target":"_blank","rel":"noopener noreferrer","className":"text-gray-400 hover:text-white transition-colors","children":"Vyrabyte"}]]}]}]]}],["$","$Lc",null,{}]]}]]}]],null],null],["$Ld",null]]]]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Florida Homeowner's Association Act — Your Rights Summarized | TB Relo | TB Relo"}],["$","meta","3",{"name":"description","content":"Florida Homeowner's Association Act. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","6",{"property":"og:title","content":"Florida Homeowner's Association Act — Your Rights Summarized | TB Relo | TB Relo"}],["$","meta","7",{"property":"og:description","content":"Florida Homeowner's Association Act. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","8",{"property":"og:image","content":"https://tbrelo.com/images/blog/housing.jpg"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"Florida Homeowner's Association Act — Your Rights Summarized | TB Relo | TB Relo"}],["$","meta","13",{"name":"twitter:description","content":"Florida Homeowner's Association Act. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","14",{"name":"twitter:image","content":"https://tbrelo.com/images/blog/housing.jpg"}],["$","link","15",{"rel":"icon","href":"/icon.svg?ff4364d89c37c0d6","type":"image/svg+xml","sizes":"any"}]]
+1:null

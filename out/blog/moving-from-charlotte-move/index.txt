@@ -1,0 +1,452 @@
+3:I[5878,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"Image"]
+4:I[2972,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],""]
+6:I[5143,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"default"]
+7:I[4707,[],""]
+9:I[6423,[],""]
+a:I[8003,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],""]
+b:I[7312,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"default"]
+c:I[5463,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"SpeedInsights"]
+2:T129e,[{"@context":"https://schema.org","@type":"Article","headline":"Moving from Charlotte NC to Tampa Bay — The Complete Relocation Guide | TB Relo","description":"Moving from Charlotte NC to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience.","url":"https://tbrelo.com/blog/moving-from-charlotte-move/","author":{"@type":"Person","name":"Barrett Henry","jobTitle":"REALTOR® & Broker Associate","url":"https://nowtb.com","worksFor":{"@type":"Organization","name":"REMAX Collective"},"knowsAbout":["Tampa Bay Real Estate","Florida Relocation","Residential Real Estate","Investment Property","Property Management"]},"publisher":{"@type":"Organization","name":"TB Relo","url":"https://tbrelo.com"},"datePublished":"2024-08-05T08:00:00-04:00","dateModified":"2026-04-15T08:00:00-04:00","image":{"@type":"ImageObject","url":"https://tbrelo.com/images/blog/housing.jpg"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much will my electric bill increase moving from Charlotte to Tampa Bay?","acceptedAnswer":{"@type":"Answer","text":"Expect $80-120 monthly increase during summer months (May-October) due to air conditioning needs. Annual utility costs average $165/month in Tampa Bay vs $145/month in Charlotte, with the biggest difference being cooling costs."}},{"@type":"Question","name":"Can I keep my North Carolina job while living in Florida?","acceptedAnswer":{"@type":"Answer","text":"Many Charlotte employers allow remote work, but verify tax implications. You'll become a Florida resident for tax purposes, which benefits you (no state income tax), but your employer may need to adjust payroll withholdings and compliance."}},{"@type":"Question","name":"How do hurricane risks compare to Charlotte's ice storms?","acceptedAnswer":{"@type":"Answer","text":"Tampa Bay hasn't had a direct major hurricane hit since 1921, though preparation is essential. Unlike Charlotte's unpredictable ice storms that shut down the city, hurricanes provide 5-7 days warning and most residents evacuate inland rather than north."}},{"@type":"Question","name":"Will my Charlotte home sale proceeds go further in Tampa Bay?","acceptedAnswer":{"@type":"Answer","text":"Generally yes. Median home prices are 7% lower in Tampa Bay, and your North Carolina sale proceeds aren't subject to Florida taxes. However, factor in higher homeowner's insurance costs ($600-900 annually more than Charlotte)."}},{"@type":"Question","name":"What's the job market like for Bank of America or Wells Fargo experience?","acceptedAnswer":{"@type":"Answer","text":"Strong. Raymond James, Synovus, and growing fintech companies actively recruit Charlotte banking talent. Salaries may be 5-10% lower, but no state income tax often results in higher take-home pay overall."}},{"@type":"Question","name":"How do Tampa Bay schools compare to Charlotte-Mecklenburg schools?","acceptedAnswer":{"@type":"Answer","text":"Tampa Bay offers more consistency across districts. Hillsborough, Pinellas, and Pasco counties all have multiple A-rated schools, while Charlotte-Mecklenburg quality varies significantly by area. Florida's Bright Futures scholarship program also provides better college funding opportunities."}},{"@type":"Question","name":"Is the cost of living really lower in Tampa Bay?","acceptedAnswer":{"@type":"Answer","text":"Mixed results. Housing is 7% cheaper, but utilities run 14% higher. Groceries are similar, dining out slightly higher. The big winner is no state income tax — that 5.25% savings covers most other increased costs for middle-income families."}},{"@type":"Question","name":"How long should I plan for the Charlotte to Tampa Bay move?","acceptedAnswer":{"@type":"Answer","text":"Physical move takes 8-9 hours driving. Plan 6-8 weeks total timeline for house hunting, offer negotiations, and logistics coordination. Schedule house-hunting trip 4-6 weeks before desired move date to allow time for mortgage processing."}},{"@type":"Question","name":"What neighborhoods match Charlotte's Myers Park or Dilworth character?","acceptedAnswer":{"@type":"Answer","text":"Hyde Park matches Myers Park's historic elegance and walkability, while Seminole Heights captures Dilworth's artsy, eclectic vibe. Both offer similar price points and proximity to downtown areas, just with palm trees instead of oak trees."}},{"@type":"Question","name":"Do I need a car in Tampa Bay like I do in Charlotte?","acceptedAnswer":{"@type":"Answer","text":"Yes, Tampa Bay is car-dependent like Charlotte. Public transit exists but isn't comprehensive. However, distances are often shorter — most errands are within 15 minutes vs Charlotte's sprawl. Budget for toll roads ($50-80 monthly) that don't exist in Charlotte."}}]}]5:T6b6f,<p>Making the jump from Charlotte to Tampa Bay? You're not alone. I've helped dozens of Charlotte families make this exact move over the past 23 years, and there's a clear pattern: they wish they'd done it sooner.</p>
+<p>Charlotte's a solid city — banking hub, decent cost of living, four seasons. But Tampa Bay offers something Charlotte can't: year-round warmth, no state income tax, and beaches that don't require a weekend road trip. Plus, your dollar stretches further here, and the job market is surprisingly diverse.</p>
+<p>Let me walk you through everything you need to know about trading Queen City for the Sunshine State.</p>
+<h2>Why Charlotte Residents Choose Tampa Bay</h2>
+<h3>The Weather Factor</h3>
+<p>Let's be honest — Charlotte winters aren't brutal, but they're not beach weather either. Tampa Bay gives you 361 days of sunshine annually. While Charlotte averages 41 inches of snow and ice storms that shut down the city, Tampa's "winter" means 75-degree afternoons and windows open.</p>
+<p>I've had clients tell me they haven't owned a heavy coat in five years since moving here. Try saying that in Charlotte.</p>
+<h3>Tax Benefits That Add Up Fast</h3>
+<p>Here's where the math gets interesting. North Carolina hits you with a 5.25% state income tax. Florida? Zero. For a Charlotte family earning $100,000, that's $5,250 back in your pocket annually — $26,250 over five years.</p>
+<p>Property taxes are comparable, but Florida's homestead exemption is more generous. Plus, no tax on retirement income means your 401k and pension go further here.</p>
+<h3>Job Market Reality Check</h3>
+<p>Charlotte's banking sector is solid, but Tampa Bay's economy is more diversified. We've got:</p>
+<ul>
+<li><strong>Tech growth</strong>: Companies like ReliaQuest, ConnectWise, and KnowBe4 are hiring</li>
+<li><strong>Healthcare boom</strong>: Tampa General, BayCare, Johns Hopkins All Children's</li>
+<li><strong>Finance</strong>: Raymond James, Synovus, growing fintech sector</li>
+<li><strong>Maritime/logistics</strong>: Port Tampa Bay is expanding</li>
+<li><strong>Tourism/hospitality</strong>: Always hiring, especially post-COVID recovery</li>
+</ul>
+<p>Unemployment sits around 3.2% across the metro — similar to Charlotte's numbers, but with more industry variety.</p>
+<h2>Cost of Living Breakdown: Charlotte vs Tampa Bay</h2>
+<table>
+<thead>
+<tr>
+<th>Category</th>
+<th>Charlotte</th>
+<th>Tampa Bay</th>
+<th>Difference</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Median Home Price</td>
+<td>$425,000</td>
+<td>$395,000</td>
+<td>-7%</td>
+</tr>
+<tr>
+<td>Rent (2BR)</td>
+<td>$1,650</td>
+<td>$1,850</td>
+<td>+12%</td>
+</tr>
+<tr>
+<td>Groceries</td>
+<td>$380/month</td>
+<td>$395/month</td>
+<td>+4%</td>
+</tr>
+<tr>
+<td>Utilities</td>
+<td>$145/month</td>
+<td>$165/month</td>
+<td>+14%</td>
+</tr>
+<tr>
+<td>Gas</td>
+<td>$3.15/gallon</td>
+<td>$3.25/gallon</td>
+<td>+3%</td>
+</tr>
+<tr>
+<td>Dining Out</td>
+<td>$55/meal (2 people)</td>
+<td>$58/meal (2 people)</td>
+<td>+5%</td>
+</tr>
+<tr>
+<td>State Income Tax</td>
+<td>5.25%</td>
+<td>0%</td>
+<td>-100%</td>
+</tr>
+</tbody>
+</table>
+<p><em>Data reflects 2024 averages for family of four</em></p>
+<p>The headline: housing is slightly cheaper, but you'll pay more for utilities (hello, air conditioning). The state income tax savings alone makes up the difference for most families.</p>
+<h2>Neighborhood Matching: Where Charlotte Folks Land</h2>
+<h3>From Myers Park → Hyde Park</h3>
+<p>Myers Park's tree-lined elegance translates perfectly to Hyde Park. Both offer historic character, walkable streets, and proximity to downtown. Hyde Park homes range $650K-$1.2M, similar to Myers Park pricing, but you get the Bayshore Boulevard waterfront and better restaurant scene.</p>
+<h3>From Dilworth → Seminole Heights</h3>
+<p>Creative, artsy, slightly edgy — Seminole Heights captures Dilworth's vibe. Bungalows starting around $350K, craft breweries, local art scene. Both neighborhoods have that "up-and-coming for 15 years" feel that locals love.</p>
+<h3>From SouthPark → Westchase</h3>
+<p>Suburban family life with excellent schools and shopping. Westchase offers the same master-planned community feel as SouthPark, with homes from $400K-$800K and A-rated schools like Westchase Elementary and Alonso High School.</p>
+<h3>From Ballantyne → FishHawk</h3>
+<p>New construction, family-focused, golf courses, and chain restaurants. FishHawk Ranch delivers the same suburban lifestyle as Ballantyne, just with palm trees instead of pine trees.</p>
+<h3>From University City → USF Area</h3>
+<p>College town energy, affordable apartments, diverse food scene. The area around University of South Florida mirrors University City's mix of students, young professionals, and ethnic restaurants.</p>
+<hr>
+<p><strong>Moving to Tampa Bay?</strong> Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.</p>
+<p><a href="https://nowtb.com">Contact Barrett →</a> | <a href="tel:8137337907">(813) 733-7907</a></p>
+<hr>
+<h2>Your Moving Route: Charlotte to Tampa Bay</h2>
+<h3>The Drive Down</h3>
+<p><strong>Distance</strong>: 545 miles<br>
+<strong>Drive Time</strong>: 8-9 hours<br>
+<strong>Best Route</strong>: I-77 South → I-26 East → I-95 South → I-4 West</p>
+<p><strong>Key Stops</strong>:</p>
+<ul>
+<li><strong>Columbia, SC</strong> (2 hours): Stretch break, grab Bojangles</li>
+<li><strong>Savannah, GA</strong> (4.5 hours): Historic downtown, great lunch spot</li>
+<li><strong>Jacksonville, FL</strong> (6.5 hours): Final major city before Tampa Bay</li>
+</ul>
+<p><strong>Pro Tips</strong>:</p>
+<ul>
+<li>Leave Charlotte early morning to hit Tampa by evening</li>
+<li>I-95 through Georgia can bottleneck — consider I-75 alternative</li>
+<li>Download offline maps; cell service gets spotty in rural South Carolina</li>
+</ul>
+<h3>Moving Truck Considerations</h3>
+<p><strong>U-Haul 26-foot truck</strong>: $2,400-$3,200 depending on season<br>
+<strong>Budget Truck</strong>: $2,100-$2,800<br>
+<strong>Penske</strong>: $2,600-$3,400</p>
+<p>Add $300-500 for fuel, $150-200 for equipment rental. Summer moves cost 20-30% more due to demand.</p>
+<h2>Housing Market Deep Dive</h2>
+<h3>What Your Charlotte Home Budget Gets You</h3>
+<p><strong>$300K in Charlotte</strong> = $275K-$325K in Tampa Bay<br>
+Expect: 3BR/2BA, 1,400 sq ft, decent neighborhood, needs some updates</p>
+<p><strong>$500K in Charlotte</strong> = $450K-$550K in Tampa Bay<br>
+Expect: 4BR/3BA, 2,200 sq ft, move-in ready, good schools, pool possible</p>
+<p><strong>$800K in Charlotte</strong> = $750K-$900K in Tampa Bay<br>
+Expect: 4-5BR/3-4BA, 3,000+ sq ft, premium location, water access possible</p>
+<h3>Market Timing Strategy</h3>
+<p>Tampa Bay's market moves faster than Charlotte's. Average days on market: 28 vs Charlotte's 35. Cash offers are common (35% of sales vs 28% in Charlotte).</p>
+<p><strong>Best buying seasons</strong>:</p>
+<ul>
+<li><strong>October-December</strong>: More inventory, less competition</li>
+<li><strong>January-March</strong>: Snowbird season creates urgency</li>
+<li><strong>Avoid summer</strong>: Hurricane season makes some buyers skittish</li>
+</ul>
+<h3>Property Taxes and Homestead</h3>
+<p>Florida's homestead exemption removes $50,000 from assessed value (vs North Carolina's minimal homestead protection). On a $400K home, that's roughly $750 annual savings.</p>
+<p>But budget for higher homeowner's insurance — $1,800-$2,500 annually vs Charlotte's $1,200-$1,600. Hurricane coverage is required but worth it.</p>
+<h2>School Comparison: What to Expect</h2>
+<h3>Elementary Focus</h3>
+<p>Charlotte-Mecklenburg has solid elementary programs, but Tampa Bay offers more variety:</p>
+<p><strong><a href="/counties/hillsborough/">Hillsborough County</a></strong>: Westchase Elementary (A-rated), Hunter's Green Elementary (A-rated), similar to Charlotte's top elementary schools</p>
+<p><strong><a href="/counties/pinellas/">Pinellas County</a></strong>: Indian Rocks Elementary (A+), Countryside Elementary (A), generally stronger than Mecklenburg averages</p>
+<p><strong><a href="/counties/pasco/">Pasco County</a></strong>: Zephyrhills Christian Academy, Countryside Montessori — more private school options per capita than Charlotte</p>
+<h3>High School Reality</h3>
+<p>Charlotte's high schools are hit-or-miss depending on district lines. Tampa Bay offers more consistent quality:</p>
+<ul>
+<li><strong>Alonso High</strong> (Hillsborough): IB program, strong athletics</li>
+<li><strong>Northeast High</strong> (Pinellas): Performing arts magnet</li>
+<li><strong>Land O' Lakes High</strong> (Pasco): New facilities, growing reputation</li>
+</ul>
+<p>Plus, Florida's Bright Futures scholarship program covers 75-100% of state college tuition for qualified students.</p>
+<h2>Job Market Transition Guide</h2>
+<h3>Banking and Finance</h3>
+<p>Charlotte's Bank of America and Wells Fargo experience translates well. Tampa Bay opportunities:</p>
+<ul>
+<li><strong>Raymond James</strong>: Wealth management, similar culture to Charlotte banks</li>
+<li><strong>Synovus Bank</strong>: Growing presence, competitive packages</li>
+<li><strong>Fintech startups</strong>: Growing sector in downtown Tampa</li>
+</ul>
+<p>Expected salary adjustment: -5% to +10% depending on role and company.</p>
+<h3>Technology Sector</h3>
+<p>Charlotte's emerging tech scene vs Tampa Bay's established hub:</p>
+<p><strong>Tampa Bay advantages</strong>:</p>
+<ul>
+<li>No state income tax effectively increases take-home 5-8%</li>
+<li>Lower cost of living means salary goes further</li>
+<li>Established companies: ReliaQuest, KnowBe4, ConnectWise all hiring</li>
+</ul>
+<p><strong>Growth sectors</strong>: Cybersecurity, healthcare IT, fintech, maritime technology</p>
+<h3>Healthcare Opportunities</h3>
+<p>Tampa Bay's healthcare market dwarfs Charlotte's:</p>
+<ul>
+<li><strong>Tampa General Hospital</strong>: Level 1 trauma center, major employer</li>
+<li><strong>Johns Hopkins All Children's</strong>: National reputation</li>
+<li><strong>BayCare Health System</strong>: 15 hospitals across region</li>
+</ul>
+<p>Nursing, medical tech, and healthcare admin roles are abundant.</p>
+<hr>
+<p><strong>Ready to make the move?</strong> Barrett has the local connections and market knowledge to make your transition smooth.</p>
+<p><a href="https://nowtb.com">Schedule Your Consultation →</a> | <a href="tel:8137337907">(813) 733-7907</a></p>
+<hr>
+<h2>Lifestyle Adjustments: What's Different</h2>
+<h3>Climate Adaptation</h3>
+<p><strong>Summer survival</strong>: May through October means 85-95°F with humidity. Your electric bill will jump $80-120 monthly. Budget accordingly and invest in a good HVAC system.</p>
+<p><strong>Hurricane season</strong>: June-November. Unlike Charlotte's occasional ice storms, hurricanes require preparation but rarely directly impact Tampa Bay. Last major hurricane was 1921.</p>
+<p><strong>No seasons</strong>: This sounds great until you realize December feels like May. Some Charlotte transplants miss fall colors and Christmas snow. Plan trips back to North Carolina for seasonal fixes.</p>
+<h3>Driving Culture</h3>
+<p>Tampa Bay traffic moves differently than Charlotte:</p>
+<ul>
+<li><strong>I-275</strong>: More congested than I-77, but shorter distances</li>
+<li><strong>Beach traffic</strong>: Friday afternoons to barrier islands get brutal</li>
+<li><strong>Toll roads</strong>: Veterans Expressway, Crosstown — budget $50-80 monthly</li>
+<li><strong>Parking</strong>: Downtown Tampa meters vs Charlotte's free downtown parking</li>
+</ul>
+<h3>Social Scene</h3>
+<p>Charlotte's banking networking vs Tampa Bay's diverse professional groups:</p>
+<ul>
+<li><strong>Young Professionals of Tampa Bay</strong>: Active networking</li>
+<li><strong>Tampa Bay Beaches Chamber</strong>: Good for coastal business connections</li>
+<li><strong>Industry-specific groups</strong>: More variety than Charlotte due to economic diversity</li>
+</ul>
+<h2>County-by-County Breakdown</h2>
+<h3><a href="/counties/hillsborough/">Hillsborough County</a> — The Urban Core</h3>
+<p><strong>Best for</strong>: Young professionals, urban lifestyle lovers, job seekers<br>
+<strong>Population</strong>: 1.5M (vs Charlotte metro's 2.6M)<br>
+<strong>Median income</strong>: $63,000<br>
+<strong>Top employers</strong>: Tampa General, Verizon, Raymond James</p>
+<p><strong>Neighborhoods to consider</strong>:</p>
+<ul>
+<li><strong>Downtown Tampa</strong>: Condos $300K-$600K, walkable, nightlife</li>
+<li><strong>Westchase</strong>: Family suburbs, $400K-$700K homes</li>
+<li><strong>Carrollwood</strong>: Established area, $250K-$500K range</li>
+</ul>
+<h3><a href="/counties/pinellas/">Pinellas County</a> — Beach Living</h3>
+<p><strong>Best for</strong>: Beach lovers, retirees, snowbird lifestyle<br>
+<strong>Population</strong>: 980K<br>
+<strong>Median income</strong>: $58,000<br>
+<strong>Unique factor</strong>: Every resident within 10 minutes of water</p>
+<p><strong>Neighborhoods to consider</strong>:</p>
+<ul>
+<li><strong>St. Petersburg</strong>: Arts district revival, $200K-$800K range</li>
+<li><strong>Clearwater</strong>: Tourist hub, condos $250K-$500K</li>
+<li><strong>Safety Harbor</strong>: Small town charm, $300K-$600K</li>
+</ul>
+<h3><a href="/counties/pasco/">Pasco County</a> — Value and Growth</h3>
+<p><strong>Best for</strong>: Families, first-time buyers, space seekers<br>
+<strong>Population</strong>: 570K (fastest growing in Florida)<br>
+<strong>Median income</strong>: $55,000<br>
+<strong>Value proposition</strong>: Most house for your dollar</p>
+<p><strong>Hot areas</strong>:</p>
+<ul>
+<li><strong>Wesley Chapel</strong>: New everything, $350K-$650K</li>
+<li><strong>Land O' Lakes</strong>: Established family area, $300K-$550K</li>
+<li><strong>New Port Richey</strong>: Affordable starter homes, $180K-$350K</li>
+</ul>
+<h2>Moving Timeline and Costs</h2>
+<h3>8 Weeks Before</h3>
+<ul>
+<li><strong>Research neighborhoods</strong> via online tours and local Facebook groups</li>
+<li><strong>Get pre-approved</strong> for mortgage (Florida lenders understand market better)</li>
+<li><strong>Schedule house-hunting trip</strong> — plan 3-4 day weekend</li>
+<li><strong>Research moving companies</strong> — get 3 quotes minimum</li>
+</ul>
+<h3>6 Weeks Before</h3>
+<ul>
+<li><strong>Make offer</strong> if you found the right house</li>
+<li><strong>Arrange temporary housing</strong> if needed (extended stays average $85-120/night)</li>
+<li><strong>Notify Charlotte employer</strong> of relocation timeline</li>
+<li><strong>Research Florida car registration</strong> requirements</li>
+</ul>
+<h3>4 Weeks Before</h3>
+<ul>
+<li><strong>Book moving truck</strong> or professional movers</li>
+<li><strong>Start utility transfers</strong> — Florida utilities require deposits for new residents</li>
+<li><strong>Update voter registration</strong> — Florida's elections matter more than you think</li>
+<li><strong>Research homeowner's insurance</strong> — get quotes before closing</li>
+</ul>
+<h3>2 Weeks Before</h3>
+<ul>
+<li><strong>Forward mail</strong> through USPS</li>
+<li><strong>Transfer prescriptions</strong> — find new pharmacy and doctors</li>
+<li><strong>Update bank accounts</strong> with new address</li>
+<li><strong>Plan travel route</strong> and overnight stops if needed</li>
+</ul>
+<h3>Moving Week</h3>
+<ul>
+<li><strong>Confirm all services</strong> are scheduled for new home</li>
+<li><strong>Pack essentials box</strong> for first few days (including phone chargers)</li>
+<li><strong>Keep important documents</strong> with you during move</li>
+<li><strong>Prepare cash</strong> for tips and unexpected expenses</li>
+</ul>
+<h3>Professional Moving Costs</h3>
+<p><strong>Full-service movers</strong> (Charlotte to Tampa Bay):</p>
+<ul>
+<li><strong>2BR apartment</strong>: $3,200-$4,500</li>
+<li><strong>3BR house</strong>: $4,800-$6,800</li>
+<li><strong>4BR+ house</strong>: $6,500-$9,200</li>
+</ul>
+<p><strong>DIY truck rental</strong>:</p>
+<ul>
+<li><strong>26-foot U-Haul</strong>: $2,400-$3,200 + fuel</li>
+<li><strong>ABF U-Pack</strong>: $2,800-$3,900 (they drive)</li>
+<li><strong>PODS container</strong>: $3,100-$4,200 (includes storage)</li>
+</ul>
+<p>Add 20% to all estimates for summer moves (May-August).</p>
+<h2>First Month Essentials</h2>
+<h3>Immediate Priorities</h3>
+<ol>
+<li><strong>Florida driver's license</strong>: Required within 30 days, bring birth certificate and SSN card</li>
+<li><strong>Voter registration</strong>: Can do online, takes 5 minutes</li>
+<li><strong>Car registration</strong>: Bring title, insurance proof, VIN verification</li>
+<li><strong>Homestead exemption</strong>: File by March 1st for next year's tax benefits</li>
+</ol>
+<h3>Banking and Utilities</h3>
+<p><strong>Major banks with good Tampa Bay coverage</strong>:</p>
+<ul>
+<li><strong>Regions Bank</strong>: Strong local presence, good business banking</li>
+<li><strong>SunTrust/Truist</strong>: Merger created larger footprint</li>
+<li><strong>Navy Federal</strong>: Excellent if you qualify for membership</li>
+</ul>
+<p><strong>Utility companies</strong>:</p>
+<ul>
+<li><strong>Electric</strong>: Tampa Electric (TECO) or Duke Energy</li>
+<li><strong>Water</strong>: Usually county or city-managed</li>
+<li><strong>Internet</strong>: Frontier, Spectrum, Verizon Fios available most areas</li>
+</ul>
+<h3>Healthcare Setup</h3>
+<p><strong>Primary care</strong>: AdventHealth and BayCare have extensive networks<br>
+<strong>Urgent care</strong>: BayCare Urgent Care centers throughout region<br>
+<strong>Pharmacy</strong>: Publix pharmacy offers free antibiotics and good customer service</p>
+<h2>Local Culture Integration</h2>
+<h3>Food Scene Differences</h3>
+<p>Charlotte's barbecue vs Tampa Bay's diverse flavors:</p>
+<p><strong>Must-try Tampa Bay specialties</strong>:</p>
+<ul>
+<li><strong>Cuban sandwich</strong>: Original from Ybor City (try Columbia Restaurant)</li>
+<li><strong>Grouper sandwich</strong>: Fresh local fish, everywhere has their version</li>
+<li><strong>Deviled crab</strong>: Unique to Tampa Bay area</li>
+<li><strong>Key lime pie</strong>: Real deal, not the fake green stuff</li>
+</ul>
+<p><strong>Grocery differences</strong>:</p>
+<ul>
+<li><strong>Publix dominates</strong>: Like Harris Teeter but with better subs</li>
+<li><strong>Fresh seafood</strong>: Much better selection and prices than Charlotte</li>
+<li><strong>Hispanic markets</strong>: Larger selection, great produce prices</li>
+</ul>
+<h3>Sports Culture</h3>
+<p>Swapping Charlotte teams for Tampa Bay:</p>
+<p><strong>Professional teams</strong>:</p>
+<ul>
+<li><strong>Tampa Bay Buccaneers</strong> (NFL): Tom Brady brought new energy</li>
+<li><strong>Tampa Bay Lightning</strong> (NHL): Recent Stanley Cup champions, great fanbase</li>
+<li><strong>Tampa Bay Rays</strong> (MLB): Smaller following but loyal fans</li>
+</ul>
+<p><strong>College sports</strong>: USF Bulls growing program, but many residents still follow SEC teams from home states.</p>
+<h3>Entertainment Differences</h3>
+<p><strong>Charlotte</strong>: Banking city, early bedtimes, limited weekend options<br>
+<strong>Tampa Bay</strong>: Tourism economy, later nightlife, beach activities year-round</p>
+<p><strong>Tampa Bay advantages</strong>:</p>
+<ul>
+<li><strong>Ybor City</strong>: Historic nightlife district, live music</li>
+<li><strong>Beach bars</strong>: Sunset dining at Opal Sands, Salt Shack</li>
+<li><strong>Professional theater</strong>: Straz Center rivals Charlotte's offerings</li>
+<li><strong>Spring training</strong>: Yankees and Pirates have facilities here</li>
+</ul>
+<h2>Long-term Financial Planning</h2>
+<h3>State Tax Impact Calculator</h3>
+<p><strong>Annual Income: $75,000</strong></p>
+<ul>
+<li>North Carolina taxes: $3,937</li>
+<li>Florida taxes: $0</li>
+<li><strong>Annual savings: $3,937</strong></li>
+</ul>
+<p><strong>Annual Income: $100,000</strong></p>
+<ul>
+<li>North Carolina taxes: $5,250</li>
+<li>Florida taxes: $0</li>
+<li><strong>Annual savings: $5,250</strong></li>
+</ul>
+<p><strong>Annual Income: $150,000</strong></p>
+<ul>
+<li>North Carolina taxes: $7,875</li>
+<li>Florida taxes: $0</li>
+<li><strong>Annual savings: $7,875</strong></li>
+</ul>
+<h3>Homestead Exemption Benefits</h3>
+<p>Florida's homestead exemption removes first $50,000 of assessed value from taxation. On a $400,000 home:</p>
+<ul>
+<li><strong>Taxable value</strong>: $350,000 (vs $400,000 in Charlotte)</li>
+<li><strong>Annual tax savings</strong>: ~$750-$1,000 depending on millage rates</li>
+<li><strong>Additional protection</strong>: Homestead protects equity from creditors</li>
+</ul>
+<h3>Retirement Advantages</h3>
+<p><strong>No tax on retirement income</strong> means your 401k, pension, and IRA withdrawals aren't taxed at state level. For retirees, this can mean $2,000-$8,000 annually depending on retirement income.</p>
+<p><strong>Property tax portability</strong>: If you move within Florida, you can transfer some homestead benefits to new home.</p>
+<hr>
+<p><strong>Questions about Tampa Bay neighborhoods?</strong> Barrett knows every street, every school district, every hidden gem.</p>
+<p><a href="https://nowtb.com">Get Your Market Analysis →</a> | <a href="tel:8137337907">(813) 733-7907</a></p>
+<hr>
+<h2>Common Mistakes to Avoid</h2>
+<h3>House Hunting Errors</h3>
+<p><strong>Mistake 1</strong>: Looking only at beach properties first visit<br>
+<strong>Reality</strong>: Beach homes are 30-50% premium. See inland options first to calibrate budget.</p>
+<p><strong>Mistake 2</strong>: Underestimating flood zones<br>
+<strong>Reality</strong>: Review FEMA maps carefully. Flood insurance can add $500-$2,500 annually.</p>
+<p><strong>Mistake 3</strong>: Ignoring HOA fees<br>
+<strong>Reality</strong>: Many communities have $200-$600 monthly HOAs. Factor into housing budget.</p>
+<h3>Employment Transition</h3>
+<p><strong>Mistake 1</strong>: Assuming Charlotte salary translates directly<br>
+<strong>Reality</strong>: Some roles pay less, but no state income tax often compensates.</p>
+<p><strong>Mistake 2</strong>: Not networking before arriving<br>
+<strong>Reality</strong>: Tampa Bay's smaller professional community values relationships. Start connecting online early.</p>
+<p><strong>Mistake 3</strong>: Overlooking growing industries<br>
+<strong>Reality</strong>: Maritime, cybersecurity, and healthcare IT are booming but under-publicized.</p>
+<h3>Lifestyle Adjustment</h3>
+<p><strong>Mistake 1</strong>: Underestimating summer utility costs<br>
+<strong>Reality</strong>: Budget $200-$350 monthly for air conditioning May through October.</p>
+<p><strong>Mistake 2</strong>: Not preparing for hurricane season<br>
+<strong>Reality</strong>: Have evacuation plan and emergency supplies. Most hurricanes miss Tampa Bay, but preparation is required.</p>
+<p><strong>Mistake 3</strong>: Expecting Charlotte's restaurant chains<br>
+<strong>Reality</strong>: Some favorites don't exist here, but local options are often better.</p>
+<h2>Making the Decision: Is Tampa Bay Right for You?</h2>
+<h3>Tampa Bay is Great If You:</h3>
+<ul>
+<li>Want year-round warm weather and outdoor activities</li>
+<li>Value no state income tax and lower overall tax burden</li>
+<li>Enjoy diverse cultural offerings and food scenes</li>
+<li>Prefer beach access within 30 minutes of anywhere</li>
+<li>Like smaller city feel with big city amenities</li>
+<li>Want better job market diversity than Charlotte offers</li>
+</ul>
+<h3>Stay in Charlotte If You:</h3>
+<ul>
+<li>Love four seasons and fall colors</li>
+<li>Prefer established corporate headquarters (banking focus)</li>
+<li>Want lower homeowner's insurance costs</li>
+<li>Enjoy mountain proximity for weekend trips</li>
+<li>Like predictable weather patterns</li>
+<li>Value Charlotte's specific cultural offerings</li>
+</ul>
+<h3>The Bottom Line</h3>
+<p>Most Charlotte families I've helped relocate don't regret the move. The combination of tax savings, lifestyle improvement, and economic opportunity outweighs the adjustment period.</p>
+<p>The key is having realistic expectations and proper preparation. Tampa Bay isn't perfect — summer heat, hurricane awareness, and tourist crowds have their challenges. But for most Charlotte residents, those trade-offs are worth year-round golf, beach sunsets, and keeping more of their paycheck.</p>
+<h2>Frequently Asked Questions</h2>
+<h3>How much will my electric bill increase moving from Charlotte to Tampa Bay?</h3>
+<p>Expect $80-120 monthly increase during summer months (May-October) due to air conditioning needs. Annual utility costs average $165/month in Tampa Bay vs $145/month in Charlotte, with the biggest difference being cooling costs.</p>
+<h3>Can I keep my North Carolina job while living in Florida?</h3>
+<p>Many Charlotte employers allow remote work, but verify tax implications. You'll become a Florida resident for tax purposes, which benefits you (no state income tax), but your employer may need to adjust payroll withholdings and compliance.</p>
+<h3>How do hurricane risks compare to Charlotte's ice storms?</h3>
+<p>Tampa Bay hasn't had a direct major hurricane hit since 1921, though preparation is essential. Unlike Charlotte's unpredictable ice storms that shut down the city, hurricanes provide 5-7 days warning and most residents evacuate inland rather than north.</p>
+<h3>Will my Charlotte home sale proceeds go further in Tampa Bay?</h3>
+<p>Generally yes. Median home prices are 7% lower in Tampa Bay, and your North Carolina sale proceeds aren't subject to Florida taxes. However, factor in higher homeowner's insurance costs ($600-900 annually more than Charlotte).</p>
+<h3>What's the job market like for Bank of America or Wells Fargo experience?</h3>
+<p>Strong. Raymond James, Synovus, and growing fintech companies actively recruit Charlotte banking talent. Salaries may be 5-10% lower, but no state income tax often results in higher take-home pay overall.</p>
+<h3>How do Tampa Bay schools compare to Charlotte-Mecklenburg schools?</h3>
+<p>Tampa Bay offers more consistency across districts. Hillsborough, Pinellas, and Pasco counties all have multiple A-rated schools, while Charlotte-Mecklenburg quality varies significantly by area. Florida's Bright Futures scholarship program also provides better college funding opportunities.</p>
+<h3>Is the cost of living really lower in Tampa Bay?</h3>
+<p>Mixed results. Housing is 7% cheaper, but utilities run 14% higher. Groceries are similar, dining out slightly higher. The big winner is no state income tax — that 5.25% savings covers most other increased costs for middle-income families.</p>
+<h3>How long should I plan for the Charlotte to Tampa Bay move?</h3>
+<p>Physical move takes 8-9 hours driving. Plan 6-8 weeks total timeline for house hunting, offer negotiations, and logistics coordination. Schedule house-hunting trip 4-6 weeks before desired move date to allow time for mortgage processing.</p>
+<h3>What neighborhoods match Charlotte's Myers Park or Dilworth character?</h3>
+<p>Hyde Park matches Myers Park's historic elegance and walkability, while Seminole Heights captures Dilworth's artsy, eclectic vibe. Both offer similar price points and proximity to downtown areas, just with palm trees instead of oak trees.</p>
+<h3>Do I need a car in Tampa Bay like I do in Charlotte?</h3>
+<p>Yes, Tampa Bay is car-dependent like Charlotte. Public transit exists but isn't comprehensive. However, distances are often shorter — most errands are within 15 minutes vs Charlotte's sprawl. Budget for toll roads ($50-80 monthly) that don't exist in Charlotte.</p>
+8:["slug","moving-from-charlotte-move","d"]
+0:["SZLIdUDBKVit2TP_UqbYL",[[["",{"children":["blog",{"children":[["slug","moving-from-charlotte-move","d"],{"children":["__PAGE__?{\"slug\":\"moving-from-charlotte-move\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","moving-from-charlotte-move","d"],{"children":["__PAGE__",{},[["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","section",null,{"className":"relative w-full h-[200px] md:h-[300px] overflow-hidden bg-brand-navy","children":[["$","$L3",null,{"src":"/images/blog/housing.jpg","alt":"Moving from Charlotte NC to Tampa Bay — The Complete Relocation Guide","fill":true,"className":"object-cover","unoptimized":true,"priority":true}],["$","div",null,{"className":"absolute inset-0 bg-brand-navy/60"}],["$","div",null,{"className":"relative z-10 flex flex-col items-center justify-center h-full px-4 text-center","children":[["$","h1",null,{"className":"text-white text-3xl md:text-5xl font-display font-extrabold leading-tight max-w-4xl","children":"Moving from Charlotte NC to Tampa Bay — The Complete Relocation Guide"}],"$undefined"]}]]}],["$","article",null,{"className":"max-w-4xl mx-auto px-4 py-10","children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://tbrelo.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://tbrelo.com/blog/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Moving from Charlotte NC to Tampa Bay — The Complete Relocation Guide\",\"item\":\"https://tbrelo.com/blog/moving-from-charlotte-move/\"}]}"}}],["$","nav",null,{"aria-label":"Breadcrumb","className":"text-sm text-brand-slate mb-6","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-1","children":[["$","li","/",{"className":"flex items-center gap-1","children":[false,["$","$L4",null,{"href":"/","className":"hover:text-brand-blue transition-colors","children":"Home"}]]}],["$","li","/blog/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","$L4",null,{"href":"/blog/","className":"hover:text-brand-blue transition-colors","children":"Blog"}]]}],["$","li","/blog/moving-from-charlotte-move/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","span",null,{"className":"text-brand-navy font-medium","children":"Moving from Charlotte NC to Tampa Bay — The Complete Relocation Guide"}]]}]]}]}]],["$","p",null,{"className":"text-brand-slate text-sm mb-8","children":["Published ","August 5, 2024"]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$5"}}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"cta-box-primary","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-white","children":"Moving to Tampa Bay? Get a Local Expert."}],["$","p",null,{"className":"text-sm mb-4 text-white","children":"Barrett Henry is a Broker Associate with REMAX Collective and over 23 years of real estate experience. Straight talk, smart strategy, no pressure."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-blue text-white hover:bg-blue-600","children":["Contact Barrett"," →"]}],["$","a",null,{"href":"tel:8137337907","className":"text-sm text-white","children":"(813) 733-7907"}]]}]]}],["$","div",null,{"className":"cta-box","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-brand-navy","children":"Need Help Setting Up Your New Home?"}],["$","p",null,{"className":"text-sm mb-4 text-brand-slate","children":"Best Bay Services handles handyman work, home repairs, and maintenance for your new Tampa Bay home. Local, licensed, and trusted."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-navy text-white hover:bg-brand-dark","children":["Get a Quote"," →"]}],["$","a",null,{"href":"tel:8134168676","className":"text-sm text-brand-blue","children":"(813) 416-8676"}]]}]]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","$L6",null,{"blogSlug":"moving-from-charlotte-move"}]]}]],null],null],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$8","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/db2729ad4a9f0783.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link",null,{"rel":"icon","href":"/favicon-32.png","type":"image/png","sizes":"32x32"}],["$","link",null,{"rel":"icon","href":"/favicon-16.png","type":"image/png","sizes":"16x16"}],["$","link",null,{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link",null,{"rel":"icon","href":"/icon-192.png","type":"image/png","sizes":"192x192"}],["$","meta",null,{"name":"google-adsense-account","content":"ca-pub-2033173419526042"}],["$","meta",null,{"name":"impact-site-verification","content":"bb623f40-9653-4312-9ca8-bf35b957a10c"}],["$","$La",null,{"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2033173419526042","strategy":"afterInteractive","crossOrigin":"anonymous"}],["$","$La",null,{"src":"https://www.googletagmanager.com/gtag/js?id=G-TD87S02SLM","strategy":"afterInteractive"}],["$","$La",null,{"id":"gtag-init","strategy":"afterInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'G-TD87S02SLM');\n          "}]]}],["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"[{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"https://tbrelo.com/#website\",\"name\":\"TB Relo — Tampa Bay Relocation Guide\",\"url\":\"https://tbrelo.com\",\"description\":\"Comprehensive relocation guides for Tampa Bay, Florida. Covering 8 counties, 100+ cities, cost of living, schools, and everything you need to know about moving to Tampa Bay.\",\"publisher\":{\"@id\":\"https://tbrelo.com/#org\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://tbrelo.com/blog/?q={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}},{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://tbrelo.com/#org\",\"name\":\"TB Relo\",\"url\":\"https://tbrelo.com\",\"sameAs\":[\"https://nowtb.com\",\"https://valricoagent.com\",\"https://parrishagent.com\",\"https://www.facebook.com/BarrettHenryREALTOR/\",\"https://www.instagram.com/thenowteam\",\"https://www.youtube.com/@nowtampa\"]}]"}}],["$","$Lb",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"max-w-2xl mx-auto px-4 py-20 text-center","children":[["$","h1",null,{"className":"text-6xl font-display font-extrabold text-brand-navy mb-4","children":"404"}],["$","p",null,{"className":"text-xl text-brand-slate mb-8","children":"This page doesn't exist. Maybe you're looking for one of these?"}],["$","div",null,{"className":"grid sm:grid-cols-2 gap-4 mb-12 text-left","children":[["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Moving Guide"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Complete guide to relocating to Tampa Bay"}]]}],["$","$L4",null,{"href":"/counties/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Explore Counties"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Browse all 8 Tampa Bay counties"}]]}],["$","$L4",null,{"href":"/cities/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Find a City"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"90+ city and neighborhood guides"}]]}],["$","$L4",null,{"href":"/blog/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Blog"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Tips, comparisons, and local insights"}]]}]]}],["$","$L4",null,{"href":"/","className":"px-8 py-4 bg-brand-blue text-white font-display font-bold rounded-lg hover:bg-blue-600 transition-colors text-lg inline-block","children":"Back to Home"}]]}],"notFoundStyles":[]}]}],["$","footer",null,{"className":"bg-brand-dark text-gray-400","children":[["$","div",null,{"className":"bg-brand-navy","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10","children":["$","div",null,{"className":"grid md:grid-cols-3 gap-8 text-center","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Buying or Selling a Home?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Barrett Henry — The NOW Team at REMAX Collective"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 733-7907"}]]}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Need a Handyman?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Best Bay Services — Tampa Bay Home Services"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 416-8676"}]]}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Property Management"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"ViVi PM — Full-Service Property Management"}]]}]]}]}]}],["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8","children":[["$","div",null,{"className":"md:col-span-2","children":[["$","div",null,{"className":"font-display font-extrabold text-2xl text-white mb-3","children":["TB",["$","span",null,{"className":"text-brand-sky","children":"Relo"}]]}],["$","p",null,{"className":"text-sm leading-relaxed","children":"Your complete guide to relocating to Tampa Bay, Florida. Covering Hillsborough, Pinellas, Pasco, Hernando, Polk, Manatee, Sarasota, and Citrus counties with honest, local insight from someone who actually lives here."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Guides"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"hover:text-white transition-colors","children":"Moving to Tampa Bay"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/cost-of-living/","className":"hover:text-white transition-colors","children":"Cost of Living"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/moving-checklist/","className":"hover:text-white transition-colors","children":"Moving Checklist"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/blog/","className":"hover:text-white transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Counties"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li","Hillsborough",{"children":["$","$L4",null,{"href":"/counties/hillsborough/","className":"hover:text-white transition-colors","children":["Hillsborough"," County"]}]}],["$","li","Pinellas",{"children":["$","$L4",null,{"href":"/counties/pinellas/","className":"hover:text-white transition-colors","children":["Pinellas"," County"]}]}],["$","li","Pasco",{"children":["$","$L4",null,{"href":"/counties/pasco/","className":"hover:text-white transition-colors","children":["Pasco"," County"]}]}],["$","li","Hernando",{"children":["$","$L4",null,{"href":"/counties/hernando/","className":"hover:text-white transition-colors","children":["Hernando"," County"]}]}],["$","li","Polk",{"children":["$","$L4",null,{"href":"/counties/polk/","className":"hover:text-white transition-colors","children":["Polk"," County"]}]}],["$","li","Manatee",{"children":["$","$L4",null,{"href":"/counties/manatee/","className":"hover:text-white transition-colors","children":["Manatee"," County"]}]}],["$","li","Sarasota",{"children":["$","$L4",null,{"href":"/counties/sarasota/","className":"hover:text-white transition-colors","children":["Sarasota"," County"]}]}],["$","li","Citrus",{"children":["$","$L4",null,{"href":"/counties/citrus/","className":"hover:text-white transition-colors","children":["Citrus"," County"]}]}]]}]]}]]}],["$","div",null,{"className":"mt-10 pt-8 border-t border-gray-800","children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Barrett Henry's Network"}],["$","div",null,{"className":"grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3 text-sm","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Tampa Bay Real Estate"}],["$","a",null,{"href":"https://valricoagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Real Estate"}],["$","a",null,{"href":"https://parrishagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Parrish Real Estate"}],["$","a",null,{"href":"https://valrico.blog","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Community Blog"}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Handyman & Home Services"}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Property Management"}]]}]]}],["$","div",null,{"className":"mt-12 pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center gap-4 text-xs","children":[["$","p",null,{"children":["© ",2026," TB Relo. All rights reserved."]}],["$","div",null,{"className":"flex gap-4","children":[["$","$L4",null,{"href":"/affiliate-disclosure/","className":"hover:text-white transition-colors","children":"Affiliate Disclosure"}],["$","$L4",null,{"href":"/privacy-policy/","className":"hover:text-white transition-colors","children":"Privacy Policy"}],["$","$L4",null,{"href":"/disclaimer/","className":"hover:text-white transition-colors","children":"Disclaimer"}]]}]]}]]}],["$","div",null,{"className":"bg-black/30 border-t border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 text-center text-xs text-gray-500","children":["Site by"," ",["$","a",null,{"href":"https://vyrabyte.com","target":"_blank","rel":"noopener noreferrer","className":"text-gray-400 hover:text-white transition-colors","children":"Vyrabyte"}]]}]}]]}],["$","$Lc",null,{}]]}]]}]],null],null],["$Ld",null]]]]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Moving from Charlotte NC to Tampa Bay — The Complete Relocation Guide | TB Relo | TB Relo"}],["$","meta","3",{"name":"description","content":"Moving from Charlotte NC to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","6",{"property":"og:title","content":"Moving from Charlotte NC to Tampa Bay — The Complete Relocation Guide | TB Relo | TB Relo"}],["$","meta","7",{"property":"og:description","content":"Moving from Charlotte NC to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","8",{"property":"og:image","content":"https://tbrelo.com/images/blog/housing.jpg"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"Moving from Charlotte NC to Tampa Bay — The Complete Relocation Guide | TB Relo | TB Relo"}],["$","meta","13",{"name":"twitter:description","content":"Moving from Charlotte NC to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","14",{"name":"twitter:image","content":"https://tbrelo.com/images/blog/housing.jpg"}],["$","link","15",{"rel":"icon","href":"/icon.svg?ff4364d89c37c0d6","type":"image/svg+xml","sizes":"any"}]]
+1:null

@@ -1,0 +1,283 @@
+3:I[5878,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"Image"]
+4:I[2972,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],""]
+6:I[5143,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"default"]
+7:I[4707,[],""]
+9:I[6423,[],""]
+a:I[8003,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],""]
+b:I[7312,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"default"]
+c:I[5463,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"SpeedInsights"]
+2:Td69,[{"@context":"https://schema.org","@type":"Article","headline":"How to Get a Florida Fishing License — Every Option Explained | TB Relo","description":"How to Get a Florida Fishing License. Honest guide from a Tampa Bay local with 23+ years of experience.","url":"https://tbrelo.com/blog/florida-fishing-license-complete-guide/","author":{"@type":"Person","name":"Barrett Henry","jobTitle":"REALTOR® & Broker Associate","url":"https://nowtb.com","worksFor":{"@type":"Organization","name":"REMAX Collective"},"knowsAbout":["Tampa Bay Real Estate","Florida Relocation","Residential Real Estate","Investment Property","Property Management"]},"publisher":{"@type":"Organization","name":"TB Relo","url":"https://tbrelo.com"},"datePublished":"2025-07-07T08:00:00-04:00","dateModified":"2026-04-16T08:00:00-04:00","image":{"@type":"ImageObject","url":"https://tbrelo.com/images/blog/outdoors.jpg"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Can I fish in Florida with an out-of-state license?","acceptedAnswer":{"@type":"Answer","text":"Only for saltwater shore fishing, and only if your home state license is current and valid. Boat fishing or any freshwater fishing requires a Florida license regardless of what other licenses you hold."}},{"@type":"Question","name":"How long does it take to get my physical license after buying online?","acceptedAnswer":{"@type":"Answer","text":"Florida mails physical licenses within 10-14 business days of online purchase. Your temporary printout is completely valid until the physical license arrives, so don't wait to start fishing."}},{"@type":"Question","name":"Do I need a separate license for my kids?","acceptedAnswer":{"@type":"Answer","text":"Children under 16 fish free without any license in Florida. Once they turn 16, they need their own license with no exceptions or grace periods."}},{"@type":"Question","name":"Can I buy a license as a gift for someone else?","acceptedAnswer":{"@type":"Answer","text":"Yes, but you'll need their personal information including Social Security number, birth date, and mailing address. The license will be issued in their name, not yours, so make sure all details are accurate."}},{"@type":"Question","name":"What happens if my license expires while I'm on a fishing trip?","acceptedAnswer":{"@type":"Answer","text":"You're immediately fishing illegally and subject to fines. Florida licenses expire exactly 365 days from purchase, not at year-end, so check your dates before any fishing trip."}},{"@type":"Question","name":"Do I need a license to fish from a private dock?","acceptedAnswer":{"@type":"Answer","text":"Yes, if you're fishing Florida waters. It doesn't matter if you're on private property — the fish belong to the state, and the licensing requirement follows the fish, not the location."}},{"@type":"Question","name":"Can I get a refund if I buy the wrong license type?","acceptedAnswer":{"@type":"Answer","text":"Florida doesn't offer refunds on fishing licenses, but you can often upgrade by paying the difference. Double-check your needs before purchasing to avoid this headache."}},{"@type":"Question","name":"Is there a lifetime fishing license option in Florida?","acceptedAnswer":{"@type":"Answer","text":"No, Florida discontinued lifetime licenses in 2009. All current licenses are annual or short-term only, with no exceptions for any age group or residency status."}}]}]5:T3f93,<p>New to Florida and wondering if you need that fishing license? Here's the straight story from someone who's been helping Tampa Bay newcomers navigate these waters for over two decades.</p>
+<p>Florida takes its fishing licenses seriously — and for good reason. With 663 miles of beaches, thousands of freshwater lakes, and the Everglades, this state's fishing industry generates over $9 billion annually. Miss the license requirement, and you're looking at fines starting at $50, plus court costs.</p>
+<p>The good news? Getting your Florida fishing license is straightforward once you understand the system. Let me walk you through every option, every exemption, and exactly what you need to know.</p>
+<h2>Do You Actually Need a Florida Fishing License?</h2>
+<p><strong>Short answer:</strong> Probably yes, but there are exceptions.</p>
+<p><strong>For saltwater fishing:</strong> You need either a Florida saltwater fishing license OR a valid fishing license from another state (but only for shore fishing). If you're on a boat, Florida license required.</p>
+<p><strong>For freshwater fishing:</strong> Florida freshwater license required, period. No out-of-state reciprocity here.</p>
+<h3>Who Gets a Free Pass</h3>
+<p>You don't need a license if you're:</p>
+<ul>
+<li>Under 16 years old</li>
+<li>Florida resident 65+ with proof of age and residency</li>
+<li>Active military on leave (with valid military ID)</li>
+<li>Fishing from a licensed charter boat or pier (license included in fees)</li>
+<li>Fishing in a free fishing pond (some county parks have these)</li>
+<li>Florida resident with a permanent disability certificate</li>
+</ul>
+<p><strong>Important note:</strong> "Resident" means you've lived in Florida for 6+ months. New transplants pay non-resident rates until you hit that mark.</p>
+<h2>Types of Florida Fishing Licenses</h2>
+<p>Florida offers more license combinations than a Starbucks menu. Here's what actually matters:</p>
+<h3>Saltwater Licenses</h3>
+<p><strong>Resident Saltwater Annual:</strong> $17</p>
+<ul>
+<li>Valid for 365 days from purchase</li>
+<li>Covers all saltwater species from shore or boat</li>
+<li>Includes snook permit (normally $10 separate)</li>
+</ul>
+<p><strong>Non-Resident Saltwater Annual:</strong> $47</p>
+<ul>
+<li>Same coverage as resident version</li>
+<li>Worth it if you're fishing more than 6 days per year</li>
+</ul>
+<p><strong>Non-Resident Saltwater 3-Day:</strong> $17</p>
+<ul>
+<li>Perfect for vacation fishing</li>
+<li>Starts the day you first use it, not purchase date</li>
+</ul>
+<p><strong>Non-Resident Saltwater 7-Day:</strong> $30</p>
+<ul>
+<li>Sweet spot for week-long visits</li>
+<li>Popular with snowbirds testing the waters</li>
+</ul>
+<h3>Freshwater Licenses</h3>
+<p><strong>Resident Freshwater Annual:</strong> $17</p>
+<ul>
+<li>Covers all Florida lakes, rivers, streams</li>
+<li>Bass, panfish, catfish — the works</li>
+</ul>
+<p><strong>Non-Resident Freshwater Annual:</strong> $47</p>
+<ul>
+<li>Same waters, higher price</li>
+<li>Includes all freshwater gamefish</li>
+</ul>
+<p><strong>Non-Resident Freshwater 3-Day:</strong> $17
+<strong>Non-Resident Freshwater 7-Day:</strong> $30</p>
+<h3>Combination Licenses (The Smart Money Choice)</h3>
+<p><strong>Resident Saltwater/Freshwater Combo:</strong> $32</p>
+<ul>
+<li>$2 savings over buying separately</li>
+<li>Most popular choice for year-round anglers</li>
+</ul>
+<p><strong>Non-Resident Saltwater/Freshwater Combo:</strong> $79</p>
+<ul>
+<li>$15 savings over separate licenses</li>
+<li>No-brainer if you fish both</li>
+</ul>
+<h3>Special Add-On Permits</h3>
+<p>Some species require additional stamps:</p>
+<p><strong>Snook Permit:</strong> $10 (free with saltwater license)
+<strong>Lobster Permit:</strong> $5 resident / $10 non-resident
+<strong>Tarpon Tag:</strong> $51.50 resident / $151.50 non-resident (only if keeping fish)</p>
+<h2>Where to Buy Your Florida Fishing License</h2>
+<h3>Online (Fastest Option)</h3>
+<p>Visit <a href="https://MyFWC.com/License">MyFWC.com/License</a> — Florida's official licensing portal.</p>
+<p><strong>Process takes 3 minutes:</strong></p>
+<ol>
+<li>Create account with email/password</li>
+<li>Enter personal info (driver's license number speeds this up)</li>
+<li>Choose license type</li>
+<li>Pay with credit/debit card</li>
+<li>Print temporary license immediately</li>
+</ol>
+<p>Your permanent license arrives by mail in 10-14 days, but that printout is 100% valid. I keep mine laminated in my tackle box.</p>
+<p><strong>Pro tip:</strong> The website gets slammed Friday nights and Saturday mornings. Hit it Tuesday afternoon for zero wait times.</p>
+<h3>Tax Collector Offices</h3>
+<p>Every Florida county has multiple tax collector locations selling licenses. In <a href="/counties/hillsborough/">Hillsborough County</a>, there are 12 offices including the main downtown Tampa location at 1301 E 9th Avenue.</p>
+<p><strong>What to bring:</strong></p>
+<ul>
+<li>Photo ID (driver's license, passport, etc.)</li>
+<li>Cash or card (most accept both)</li>
+<li>Proof of Florida residency if claiming resident rates</li>
+</ul>
+<p><strong>Hours vary by location</strong> — most close by 5 PM weekdays, limited Saturday hours. Call ahead.</p>
+<h3>Sporting Goods Stores</h3>
+<p>Dick's Sporting Goods, Bass Pro Shops, and local tackle shops sell licenses through Florida's system.</p>
+<p><strong>Tampa Bay locations that issue licenses:</strong></p>
+<ul>
+<li>Bass Pro Shops (Brandon) — 1017 Providence Lakes Blvd</li>
+<li>Dick's Sporting Goods (multiple locations)</li>
+<li>Tackle Shack (Safety Harbor) — 1103 Main Street</li>
+<li>The Bait Bucket (St. Pete) — 4635 4th Street N</li>
+</ul>
+<p><strong>Store advantage:</strong> Staff can answer local fishing questions while processing your license. The guys at Tackle Shack know Tampa Bay like the back of their hand.</p>
+<p><strong>Store disadvantage:</strong> Lines during peak fishing season (March-May, September-November).</p>
+<h3>Phone Purchase</h3>
+<p>Call 1-888-FISH-FLORIDA (1-888-347-4356) to buy by phone.</p>
+<p><strong>Requirements:</strong></p>
+<ul>
+<li>Credit card</li>
+<li>Social security number</li>
+<li>Mailing address</li>
+<li>Know exactly which license you want (they won't walk you through options)</li>
+</ul>
+<p>License ships within 5 business days. No temporary license issued, so this only works if you're planning ahead.</p>
+<h2>How Much Does a Florida Fishing License Cost?</h2>
+<p>Here's the complete 2024 pricing breakdown:</p>
+<h3>Annual Licenses</h3>
+<ul>
+<li>Resident Freshwater: $17</li>
+<li>Non-Resident Freshwater: $47</li>
+<li>Resident Saltwater: $17</li>
+<li>Non-Resident Saltwater: $47</li>
+<li>Resident Combo: $32</li>
+<li>Non-Resident Combo: $79</li>
+</ul>
+<h3>Short-Term Licenses</h3>
+<ul>
+<li>Non-Resident 3-Day (Fresh or Salt): $17</li>
+<li>Non-Resident 7-Day (Fresh or Salt): $30</li>
+</ul>
+<h3>Add-On Permits</h3>
+<ul>
+<li>Snook: $10 (free with saltwater license)</li>
+<li>Lobster: $5 resident / $10 non-resident</li>
+<li>Tarpon tag: $51.50 resident / $151.50 non-resident</li>
+</ul>
+<p><strong>Processing fees:</strong> Online purchases include a $2.50 convenience fee. Store purchases may add $1-2 depending on location.</p>
+<h3>When Resident Rates Kick In</h3>
+<p>You qualify for resident rates after living in Florida for 6 consecutive months. The Fish and Wildlife Commission defines "living in Florida" as having a permanent address here — not just owning property.</p>
+<p><strong>Proof of residency includes:</strong></p>
+<ul>
+<li>Florida driver's license or ID card</li>
+<li>Florida voter registration</li>
+<li>Florida vehicle registration</li>
+<li>Utility bills showing 6+ months at Florida address</li>
+<li>Bank statements with Florida address</li>
+</ul>
+<h2>Online vs. In-Person: Which Route to Take?</h2>
+<h3>Choose Online When:</h3>
+<ul>
+<li>You know exactly which license you want</li>
+<li>You're comfortable with temporary paper licenses</li>
+<li>You want to fish this weekend (instant access)</li>
+<li>You hate waiting in lines</li>
+</ul>
+<h3>Choose In-Person When:</h3>
+<ul>
+<li>You have questions about regulations</li>
+<li>You want to buy tackle at the same time</li>
+<li>You prefer plastic licenses immediately</li>
+<li>You're paying with cash</li>
+</ul>
+<h3>The Hybrid Approach (My Recommendation)</h3>
+<p>Buy online for immediate access, then swing by a local tackle shop for gear and local advice. Best of both worlds.</p>
+<h2>Special Situations and Exemptions</h2>
+<h3>Military Personnel</h3>
+<p>Active duty military get some breaks:</p>
+<ul>
+<li><strong>On leave:</strong> No license required with valid military ID</li>
+<li><strong>Stationed in Florida:</strong> Qualify for resident rates immediately</li>
+<li><strong>Veterans:</strong> Standard residency rules apply</li>
+</ul>
+<h3>Seniors (65+)</h3>
+<p>Florida residents 65+ fish free with proof of age and residency. Non-residents still pay full price regardless of age.</p>
+<h3>Disabled Anglers</h3>
+<p>Florida residents with permanent disabilities can obtain free licenses through the FWC Disabled Person Permit program. Requires medical certification.</p>
+<h3>Charter Boats and Guided Trips</h3>
+<p>When you book a charter or guided trip, the captain's license covers all passengers. This applies to:</p>
+<ul>
+<li>Deep sea charters</li>
+<li>Inshore guides</li>
+<li>Party boats</li>
+<li>Licensed fishing piers</li>
+</ul>
+<p><strong>Exception:</strong> If you keep fish from a charter, some species (like tarpon) may require individual permits.</p>
+<h2>What Happens If You Fish Without a License?</h2>
+<p>Florida Marine Patrol and FWC officers don't mess around. I've watched them work the docks in downtown Tampa — they check licenses regularly.</p>
+<p><strong>First offense fines:</strong></p>
+<ul>
+<li>Fishing without a license: $50 + court costs (~$200 total)</li>
+<li>Wrong license type (freshwater license in saltwater): $50 + court costs</li>
+<li>Expired license: $50 + court costs</li>
+</ul>
+<p><strong>Multiple violations:</strong> Fines increase, and you can lose fishing privileges.</p>
+<p><strong>The "I didn't know" defense doesn't work.</strong> Ignorance of licensing requirements isn't a valid excuse under Florida law.</p>
+<h2>Pro Tips from 23 Years of Tampa Bay Living</h2>
+<h3>Timing Your Purchase</h3>
+<p>Buy your annual license in March or April when you'll get the most use. Florida's prime fishing runs March through November.</p>
+<h3>Keep Digital and Physical Copies</h3>
+<p>Screenshot your temporary license and keep it on your phone. Also carry the physical license once it arrives. I've seen phones die at the worst moments.</p>
+<h3>Check Regulations, Not Just Licensing</h3>
+<p>Having a license doesn't mean anything goes. Florida has:</p>
+<ul>
+<li>Size limits (red drum must be 18-27 inches)</li>
+<li>Bag limits (5 red drum per person per day)</li>
+<li>Season closures (grouper closes in January-April)</li>
+<li>Gear restrictions (circle hooks required for certain species)</li>
+</ul>
+<p>Download the FWC app for current regulations.</p>
+<h3>Best Tampa Bay Spots for New License Holders</h3>
+<p><strong>Saltwater (license required):</strong></p>
+<ul>
+<li>Skyway Fishing Pier — $4 entry includes shore license</li>
+<li>Ballast Point Park — free fishing, great for families</li>
+<li>Weedon Island Preserve — kayak fishing paradise</li>
+</ul>
+<p><strong>Freshwater (license required):</strong></p>
+<ul>
+<li>Lettuce Lake Park — bass and bluegill</li>
+<li>Lake Park in Lutz — stocked with catfish</li>
+<li>Hillsborough River — rent kayaks at Canoe Escape</li>
+</ul>
+<h2>The Moving Checklist Connection</h2>
+<p>Getting your fishing license is just one item on your Florida relocation list. While you're handling this, knock out other essentials like <a href="/moving-checklist/">updating your voter registration</a> and <a href="/utilities/">setting up utilities</a>.</p>
+<p><strong>Smart sequence:</strong></p>
+<ol>
+<li>Get Florida driver's license (establishes residency)</li>
+<li>Register to vote (additional residency proof)</li>
+<li>Buy fishing license at resident rates</li>
+<li>Start exploring your new fishing grounds</li>
+</ol>
+<hr>
+<p><strong>Moving to Tampa Bay?</strong> Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.</p>
+<p><a href="https://nowtb.com">Contact Barrett →</a> | <a href="tel:8137337907">(813) 733-7907</a></p>
+<hr>
+<h2>Making the Most of Your New License</h2>
+<h3>Start Local, Think Seasonal</h3>
+<p>Tampa Bay offers year-round fishing, but species move with the seasons:</p>
+<p><strong>Spring (March-May):</strong> Tarpon season begins, snook get active
+<strong>Summer (June-August):</strong> Offshore grouper and snapper, inshore trout<br>
+<strong>Fall (September-November):</strong> Redfish spawn, best all-around fishing
+<strong>Winter (December-February):</strong> Sheepshead around structures, bass in lakes</p>
+<h3>Connect with the Community</h3>
+<p>Florida's fishing community is incredibly welcoming. Join local Facebook groups like "Tampa Bay Fishing" or "Hillsborough County Fishing" for real-time reports and tips.</p>
+<h3>Consider a Fishing Kayak</h3>
+<p>Tampa Bay's shallow flats are perfect for kayak fishing. Launch from Weedon Island, Picnic Island, or E.G. Simmons Park for some of the best redfish and trout action on the Gulf Coast.</p>
+<p>The <a href="%7B%7Bamazon:B08XXXXXX%7D%7D">Perception Pescador Pro 12.0</a> is popular with Tampa Bay anglers — stable enough for beginners, feature-rich for experts.</p>
+<h2>Beyond the Basics: Advanced Licensing Considerations</h2>
+<h3>Upgrading Mid-Year</h3>
+<p>Already have a freshwater license but want to add saltwater? You can upgrade by paying the difference. The combo license costs $32 for residents — if you paid $17 for freshwater, pay another $15 to add saltwater.</p>
+<h3>Out-of-State Property Owners</h3>
+<p>Own a vacation home in Florida but live elsewhere? You're still a non-resident until you establish 6 months of continuous Florida residency. Weekend trips don't count toward the 180-day requirement.</p>
+<h3>Business Licenses</h3>
+<p>Running fishing charters or guides services requires commercial licenses with different fees and requirements. That's beyond scope here, but FWC's website has details.</p>
+<h2>Frequently Asked Questions</h2>
+<h3>Can I fish in Florida with an out-of-state license?</h3>
+<p>Only for saltwater shore fishing, and only if your home state license is current and valid. Boat fishing or any freshwater fishing requires a Florida license regardless of what other licenses you hold.</p>
+<h3>How long does it take to get my physical license after buying online?</h3>
+<p>Florida mails physical licenses within 10-14 business days of online purchase. Your temporary printout is completely valid until the physical license arrives, so don't wait to start fishing.</p>
+<h3>Do I need a separate license for my kids?</h3>
+<p>Children under 16 fish free without any license in Florida. Once they turn 16, they need their own license with no exceptions or grace periods.</p>
+<h3>Can I buy a license as a gift for someone else?</h3>
+<p>Yes, but you'll need their personal information including Social Security number, birth date, and mailing address. The license will be issued in their name, not yours, so make sure all details are accurate.</p>
+<h3>What happens if my license expires while I'm on a fishing trip?</h3>
+<p>You're immediately fishing illegally and subject to fines. Florida licenses expire exactly 365 days from purchase, not at year-end, so check your dates before any fishing trip.</p>
+<h3>Do I need a license to fish from a private dock?</h3>
+<p>Yes, if you're fishing Florida waters. It doesn't matter if you're on private property — the fish belong to the state, and the licensing requirement follows the fish, not the location.</p>
+<h3>Can I get a refund if I buy the wrong license type?</h3>
+<p>Florida doesn't offer refunds on fishing licenses, but you can often upgrade by paying the difference. Double-check your needs before purchasing to avoid this headache.</p>
+<h3>Is there a lifetime fishing license option in Florida?</h3>
+<p>No, Florida discontinued lifetime licenses in 2009. All current licenses are annual or short-term only, with no exceptions for any age group or residency status.</p>
+8:["slug","florida-fishing-license-complete-guide","d"]
+0:["SZLIdUDBKVit2TP_UqbYL",[[["",{"children":["blog",{"children":[["slug","florida-fishing-license-complete-guide","d"],{"children":["__PAGE__?{\"slug\":\"florida-fishing-license-complete-guide\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","florida-fishing-license-complete-guide","d"],{"children":["__PAGE__",{},[["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","section",null,{"className":"relative w-full h-[200px] md:h-[300px] overflow-hidden bg-brand-navy","children":[["$","$L3",null,{"src":"/images/blog/outdoors.jpg","alt":"How to Get a Florida Fishing License — Every Option Explained","fill":true,"className":"object-cover","unoptimized":true,"priority":true}],["$","div",null,{"className":"absolute inset-0 bg-brand-navy/60"}],["$","div",null,{"className":"relative z-10 flex flex-col items-center justify-center h-full px-4 text-center","children":[["$","h1",null,{"className":"text-white text-3xl md:text-5xl font-display font-extrabold leading-tight max-w-4xl","children":"How to Get a Florida Fishing License — Every Option Explained"}],"$undefined"]}]]}],["$","article",null,{"className":"max-w-4xl mx-auto px-4 py-10","children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://tbrelo.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://tbrelo.com/blog/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"How to Get a Florida Fishing License — Every Option Explained\",\"item\":\"https://tbrelo.com/blog/florida-fishing-license-complete-guide/\"}]}"}}],["$","nav",null,{"aria-label":"Breadcrumb","className":"text-sm text-brand-slate mb-6","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-1","children":[["$","li","/",{"className":"flex items-center gap-1","children":[false,["$","$L4",null,{"href":"/","className":"hover:text-brand-blue transition-colors","children":"Home"}]]}],["$","li","/blog/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","$L4",null,{"href":"/blog/","className":"hover:text-brand-blue transition-colors","children":"Blog"}]]}],["$","li","/blog/florida-fishing-license-complete-guide/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","span",null,{"className":"text-brand-navy font-medium","children":"How to Get a Florida Fishing License — Every Option Explained"}]]}]]}]}]],["$","p",null,{"className":"text-brand-slate text-sm mb-8","children":["Published ","July 7, 2025"]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$5"}}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"cta-box-primary","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-white","children":"Moving to Tampa Bay? Get a Local Expert."}],["$","p",null,{"className":"text-sm mb-4 text-white","children":"Barrett Henry is a Broker Associate with REMAX Collective and over 23 years of real estate experience. Straight talk, smart strategy, no pressure."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-blue text-white hover:bg-blue-600","children":["Contact Barrett"," →"]}],["$","a",null,{"href":"tel:8137337907","className":"text-sm text-white","children":"(813) 733-7907"}]]}]]}],["$","div",null,{"className":"cta-box","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-brand-navy","children":"Need Help Setting Up Your New Home?"}],["$","p",null,{"className":"text-sm mb-4 text-brand-slate","children":"Best Bay Services handles handyman work, home repairs, and maintenance for your new Tampa Bay home. Local, licensed, and trusted."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-navy text-white hover:bg-brand-dark","children":["Get a Quote"," →"]}],["$","a",null,{"href":"tel:8134168676","className":"text-sm text-brand-blue","children":"(813) 416-8676"}]]}]]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","$L6",null,{"blogSlug":"florida-fishing-license-complete-guide"}]]}]],null],null],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$8","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/db2729ad4a9f0783.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link",null,{"rel":"icon","href":"/favicon-32.png","type":"image/png","sizes":"32x32"}],["$","link",null,{"rel":"icon","href":"/favicon-16.png","type":"image/png","sizes":"16x16"}],["$","link",null,{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link",null,{"rel":"icon","href":"/icon-192.png","type":"image/png","sizes":"192x192"}],["$","meta",null,{"name":"google-adsense-account","content":"ca-pub-2033173419526042"}],["$","meta",null,{"name":"impact-site-verification","content":"bb623f40-9653-4312-9ca8-bf35b957a10c"}],["$","$La",null,{"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2033173419526042","strategy":"afterInteractive","crossOrigin":"anonymous"}],["$","$La",null,{"src":"https://www.googletagmanager.com/gtag/js?id=G-TD87S02SLM","strategy":"afterInteractive"}],["$","$La",null,{"id":"gtag-init","strategy":"afterInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'G-TD87S02SLM');\n          "}]]}],["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"[{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"https://tbrelo.com/#website\",\"name\":\"TB Relo — Tampa Bay Relocation Guide\",\"url\":\"https://tbrelo.com\",\"description\":\"Comprehensive relocation guides for Tampa Bay, Florida. Covering 8 counties, 100+ cities, cost of living, schools, and everything you need to know about moving to Tampa Bay.\",\"publisher\":{\"@id\":\"https://tbrelo.com/#org\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://tbrelo.com/blog/?q={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}},{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://tbrelo.com/#org\",\"name\":\"TB Relo\",\"url\":\"https://tbrelo.com\",\"sameAs\":[\"https://nowtb.com\",\"https://valricoagent.com\",\"https://parrishagent.com\",\"https://www.facebook.com/BarrettHenryREALTOR/\",\"https://www.instagram.com/thenowteam\",\"https://www.youtube.com/@nowtampa\"]}]"}}],["$","$Lb",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"max-w-2xl mx-auto px-4 py-20 text-center","children":[["$","h1",null,{"className":"text-6xl font-display font-extrabold text-brand-navy mb-4","children":"404"}],["$","p",null,{"className":"text-xl text-brand-slate mb-8","children":"This page doesn't exist. Maybe you're looking for one of these?"}],["$","div",null,{"className":"grid sm:grid-cols-2 gap-4 mb-12 text-left","children":[["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Moving Guide"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Complete guide to relocating to Tampa Bay"}]]}],["$","$L4",null,{"href":"/counties/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Explore Counties"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Browse all 8 Tampa Bay counties"}]]}],["$","$L4",null,{"href":"/cities/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Find a City"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"90+ city and neighborhood guides"}]]}],["$","$L4",null,{"href":"/blog/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Blog"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Tips, comparisons, and local insights"}]]}]]}],["$","$L4",null,{"href":"/","className":"px-8 py-4 bg-brand-blue text-white font-display font-bold rounded-lg hover:bg-blue-600 transition-colors text-lg inline-block","children":"Back to Home"}]]}],"notFoundStyles":[]}]}],["$","footer",null,{"className":"bg-brand-dark text-gray-400","children":[["$","div",null,{"className":"bg-brand-navy","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10","children":["$","div",null,{"className":"grid md:grid-cols-3 gap-8 text-center","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Buying or Selling a Home?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Barrett Henry — The NOW Team at REMAX Collective"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 733-7907"}]]}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Need a Handyman?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Best Bay Services — Tampa Bay Home Services"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 416-8676"}]]}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Property Management"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"ViVi PM — Full-Service Property Management"}]]}]]}]}]}],["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8","children":[["$","div",null,{"className":"md:col-span-2","children":[["$","div",null,{"className":"font-display font-extrabold text-2xl text-white mb-3","children":["TB",["$","span",null,{"className":"text-brand-sky","children":"Relo"}]]}],["$","p",null,{"className":"text-sm leading-relaxed","children":"Your complete guide to relocating to Tampa Bay, Florida. Covering Hillsborough, Pinellas, Pasco, Hernando, Polk, Manatee, Sarasota, and Citrus counties with honest, local insight from someone who actually lives here."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Guides"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"hover:text-white transition-colors","children":"Moving to Tampa Bay"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/cost-of-living/","className":"hover:text-white transition-colors","children":"Cost of Living"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/moving-checklist/","className":"hover:text-white transition-colors","children":"Moving Checklist"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/blog/","className":"hover:text-white transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Counties"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li","Hillsborough",{"children":["$","$L4",null,{"href":"/counties/hillsborough/","className":"hover:text-white transition-colors","children":["Hillsborough"," County"]}]}],["$","li","Pinellas",{"children":["$","$L4",null,{"href":"/counties/pinellas/","className":"hover:text-white transition-colors","children":["Pinellas"," County"]}]}],["$","li","Pasco",{"children":["$","$L4",null,{"href":"/counties/pasco/","className":"hover:text-white transition-colors","children":["Pasco"," County"]}]}],["$","li","Hernando",{"children":["$","$L4",null,{"href":"/counties/hernando/","className":"hover:text-white transition-colors","children":["Hernando"," County"]}]}],["$","li","Polk",{"children":["$","$L4",null,{"href":"/counties/polk/","className":"hover:text-white transition-colors","children":["Polk"," County"]}]}],["$","li","Manatee",{"children":["$","$L4",null,{"href":"/counties/manatee/","className":"hover:text-white transition-colors","children":["Manatee"," County"]}]}],["$","li","Sarasota",{"children":["$","$L4",null,{"href":"/counties/sarasota/","className":"hover:text-white transition-colors","children":["Sarasota"," County"]}]}],["$","li","Citrus",{"children":["$","$L4",null,{"href":"/counties/citrus/","className":"hover:text-white transition-colors","children":["Citrus"," County"]}]}]]}]]}]]}],["$","div",null,{"className":"mt-10 pt-8 border-t border-gray-800","children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Barrett Henry's Network"}],["$","div",null,{"className":"grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3 text-sm","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Tampa Bay Real Estate"}],["$","a",null,{"href":"https://valricoagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Real Estate"}],["$","a",null,{"href":"https://parrishagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Parrish Real Estate"}],["$","a",null,{"href":"https://valrico.blog","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Community Blog"}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Handyman & Home Services"}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Property Management"}]]}]]}],["$","div",null,{"className":"mt-12 pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center gap-4 text-xs","children":[["$","p",null,{"children":["© ",2026," TB Relo. All rights reserved."]}],["$","div",null,{"className":"flex gap-4","children":[["$","$L4",null,{"href":"/affiliate-disclosure/","className":"hover:text-white transition-colors","children":"Affiliate Disclosure"}],["$","$L4",null,{"href":"/privacy-policy/","className":"hover:text-white transition-colors","children":"Privacy Policy"}],["$","$L4",null,{"href":"/disclaimer/","className":"hover:text-white transition-colors","children":"Disclaimer"}]]}]]}]]}],["$","div",null,{"className":"bg-black/30 border-t border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 text-center text-xs text-gray-500","children":["Site by"," ",["$","a",null,{"href":"https://vyrabyte.com","target":"_blank","rel":"noopener noreferrer","className":"text-gray-400 hover:text-white transition-colors","children":"Vyrabyte"}]]}]}]]}],["$","$Lc",null,{}]]}]]}]],null],null],["$Ld",null]]]]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"How to Get a Florida Fishing License — Every Option Explained | TB Relo | TB Relo"}],["$","meta","3",{"name":"description","content":"How to Get a Florida Fishing License. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","6",{"property":"og:title","content":"How to Get a Florida Fishing License — Every Option Explained | TB Relo | TB Relo"}],["$","meta","7",{"property":"og:description","content":"How to Get a Florida Fishing License. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","8",{"property":"og:image","content":"https://tbrelo.com/images/blog/outdoors.jpg"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"How to Get a Florida Fishing License — Every Option Explained | TB Relo | TB Relo"}],["$","meta","13",{"name":"twitter:description","content":"How to Get a Florida Fishing License. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","14",{"name":"twitter:image","content":"https://tbrelo.com/images/blog/outdoors.jpg"}],["$","link","15",{"rel":"icon","href":"/icon.svg?ff4364d89c37c0d6","type":"image/svg+xml","sizes":"any"}]]
+1:null

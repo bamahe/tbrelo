@@ -1,0 +1,281 @@
+3:I[5878,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"Image"]
+4:I[2972,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],""]
+6:I[5143,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"default"]
+7:I[4707,[],""]
+9:I[6423,[],""]
+a:I[8003,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],""]
+b:I[7312,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"default"]
+c:I[5463,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"SpeedInsights"]
+2:T13ca,[{"@context":"https://schema.org","@type":"Article","headline":"Moving from San Francisco to Tampa Bay — The Complete Relocation Guide | TB Relo","description":"Moving from San Francisco to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience.","url":"https://tbrelo.com/blog/moving-from-san-francisco/","author":{"@type":"Person","name":"Barrett Henry","jobTitle":"REALTOR® & Broker Associate","url":"https://nowtb.com","worksFor":{"@type":"Organization","name":"REMAX Collective"},"knowsAbout":["Tampa Bay Real Estate","Florida Relocation","Residential Real Estate","Investment Property","Property Management"]},"publisher":{"@type":"Organization","name":"TB Relo","url":"https://tbrelo.com"},"datePublished":"2024-08-02T08:00:00-04:00","dateModified":"2026-04-15T08:00:00-04:00","image":{"@type":"ImageObject","url":"https://tbrelo.com/images/blog/housing.jpg"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much money should I save for the move from San Francisco to Tampa Bay?","acceptedAnswer":{"@type":"Answer","text":"Plan for $15,000-25,000 total moving costs including professional movers, temporary housing, travel expenses, and first month's expenses in Tampa Bay. Having 6 months of expenses saved is smart since you'll be establishing new routines and potentially job hunting."}},{"@type":"Question","name":"What's the job market like in Tampa Bay compared to San Francisco?","acceptedAnswer":{"@type":"Answer","text":"Tampa Bay's tech scene is growing but smaller than SF's. Expect 20-30% lower salaries, but no state income tax and dramatically lower cost of living often result in higher take-home pay. Remote work for SF companies is increasingly common and offers the best of both worlds."}},{"@type":"Question","name":"Are there any tax implications I should know about when moving from California to Florida?","acceptedAnswer":{"@type":"Answer","text":"Florida has no state income tax, which saves most people $10,000-40,000 annually depending on income level. You'll need to establish Florida residency properly to avoid California's aggressive residency audits. Consult a tax professional familiar with CA-FL relocations."}},{"@type":"Question","name":"How does Tampa Bay's hurricane risk compare to San Francisco's earthquake risk?","acceptedAnswer":{"@type":"Answer","text":"Tampa Bay sits in a geographically protected area and hasn't had a direct major hurricane hit since 1921. Most storms track north or south of the bay. Preparation and insurance are key. Many residents feel it's more manageable than earthquake risk since you get 5-7 days warning."}},{"@type":"Question","name":"What neighborhoods should San Francisco residents consider in Tampa Bay?","acceptedAnswer":{"@type":"Answer","text":"Hyde Park and Seminole Heights offer walkable urban living similar to SF neighborhoods. Westchase and Carrollwood work well for tech professionals wanting suburban amenities. Davis Islands provides waterfront living reminiscent of Marina District but affordable."}},{"@type":"Question","name":"How long does it take to drive from San Francisco to Tampa Bay?","acceptedAnswer":{"@type":"Answer","text":"The drive is 2,876 miles and takes 42 hours of actual driving time. Most people complete it in 4-5 days with overnight stops. Popular routes go through either I-80 to I-76 to I-70 or I-80 to I-10 straight across."}},{"@type":"Question","name":"What's the cost difference for housing between San Francisco and Tampa Bay?","acceptedAnswer":{"@type":"Answer","text":"Median home prices are $1.3 million in SF vs $425,000 in Tampa Bay. Rent for a 1-bedroom averages $4,800 in SF vs $1,800 in Tampa Bay. Most people can upgrade significantly in size and amenities while spending less money."}},{"@type":"Question","name":"How does Tampa Bay's food scene compare to San Francisco's?","acceptedAnswer":{"@type":"Answer","text":"Tampa Bay's restaurant scene has exploded in recent years with James Beard nominees and incredible Latin food. While not as diverse as SF's scene, the quality is excellent and prices are much more reasonable. You can get great meals without planning weeks ahead or spending $200+ per person."}},{"@type":"Question","name":"What should I know about Tampa Bay's public transportation?","acceptedAnswer":{"@type":"Answer","text":"Public transit is limited compared to SF's system. You'll need a car for daily life. However, traffic is manageable, parking is free most places, and commute times are dramatically shorter. Most residents find the car-dependent lifestyle worth it for the space and convenience."}},{"@type":"Question","name":"How do I establish Florida residency when moving from California?","acceptedAnswer":{"@type":"Answer","text":"Get a Florida driver's license within 30 days, register to vote, register vehicles, and establish a domicile with intent to remain permanently. Keep detailed records of your move date and residency establishment since California aggressively audits high earners claiming non-residency."}}]}]5:T4ec3,<p>You're staring at your $4,800 rent statement for a 1-bedroom in SOMA, wondering if there's a better way to live. Spoiler alert: there is, and it's 2,876 miles southeast in Tampa Bay.</p>
+<p>After 23 years helping people relocate here — including dozens of former Bay Area residents — I can tell you the move from San Francisco to Tampa Bay isn't just about escaping California's costs. It's about rediscovering what your money can actually buy you.</p>
+<h2>Why San Francisco Residents Are Choosing Tampa Bay</h2>
+<h3>The Numbers That Matter</h3>
+<p>Let's cut through the fluff and talk real numbers. A median home in San Francisco runs $1.3 million. That same money buys you a waterfront estate in <a href="/neighborhoods/westchase/">Westchase</a> with a pool, 4-car garage, and enough left over for a boat.</p>
+<p>Your $180,000 tech salary in SF? It goes further here than $280,000 does there. No state income tax means you keep an extra $15,000+ annually right off the top.</p>
+<h3>Beyond the Cost Savings</h3>
+<p>Sure, the money part is obvious. But my SF transplant clients consistently mention three things that surprised them:</p>
+<p><strong>The airport situation is actually better.</strong> TPA gets you direct flights to major cities without the SFO nightmare factor. Plus, you can park for a week without taking out a second mortgage.</p>
+<p><strong>The food scene doesn't suck.</strong> Yeah, I said it. Tampa's restaurant scene has exploded. We've got James Beard nominees, incredible Latin food, and you can get a table without planning three weeks ahead.</p>
+<p><strong>The commute thing is real.</strong> Remember when you could drive from downtown to the beach in 20 minutes? That's actually possible here.</p>
+<hr>
+<p><strong>Moving to Tampa Bay?</strong> Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.</p>
+<p><a href="https://nowtb.com">Contact Barrett →</a> | <a href="tel:8137337907">(813) 733-7907</a></p>
+<hr>
+<h2>Cost of Living: The Reality Check</h2>
+<h3>Housing Comparison Table</h3>
+<table>
+<thead>
+<tr>
+<th>Housing Type</th>
+<th>San Francisco</th>
+<th>Tampa Bay</th>
+<th>Annual Savings</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1-bed apartment</td>
+<td>$4,800/mo</td>
+<td>$1,800/mo</td>
+<td>$36,000</td>
+</tr>
+<tr>
+<td>3-bed house</td>
+<td>$8,500/mo</td>
+<td>$3,200/mo</td>
+<td>$63,600</td>
+</tr>
+<tr>
+<td>Luxury condo</td>
+<td>$12,000/mo</td>
+<td>$4,500/mo</td>
+<td>$90,000</td>
+</tr>
+<tr>
+<td>Median home purchase</td>
+<td>$1,300,000</td>
+<td>$425,000</td>
+<td>$875,000</td>
+</tr>
+</tbody>
+</table>
+<h3>The Real Daily Costs</h3>
+<p><strong>Gasoline:</strong> SF averages $5.89/gallon vs Tampa's $3.45. If you drive 15,000 miles annually, that's $1,100 in your pocket.</p>
+<p><strong>Dining out:</strong> A decent dinner for two runs $180+ in SF. Same quality meal in Tampa? $75-90.</p>
+<p><strong>Utilities:</strong> Your PG&#x26;E nightmares are over. TECO averages $140/month for a 2,000 sq ft home vs $280+ in the Bay Area.</p>
+<p><strong>Parking:</strong> Free. Everywhere. I know, it's weird at first.</p>
+<h3>Tax Savings Calculator</h3>
+<p>Here's what no state income tax means for different salary levels:</p>
+<ul>
+<li>$100k salary: Save $9,300 annually</li>
+<li>$150k salary: Save $15,900 annually</li>
+<li>$200k salary: Save $23,100 annually</li>
+<li>$300k salary: Save $37,200 annually</li>
+</ul>
+<p><em>Note: These calculations assume California's top marginal rate of 13.3% and don't include potential SALT deduction limitations.</em></p>
+<h2>Finding Your Tampa Bay Neighborhood Match</h2>
+<h3>For Techies: Westchase &#x26; Carrollwood</h3>
+<p>If you lived in SOMA or Mission Bay, <a href="/neighborhoods/westchase/">Westchase</a> gives you that planned community vibe with actual space. Think corporate housing, but you own it and there's a pool in your backyard.</p>
+<p><strong>Westchase highlights:</strong></p>
+<ul>
+<li>Median home: $485,000 (4-bed, 3-bath with pool)</li>
+<li>15 minutes to downtown Tampa</li>
+<li>Top-rated schools (A-rated Westchase Elementary)</li>
+<li>Golf course community with resort-style amenities</li>
+</ul>
+<p><strong>Carrollwood</strong> works if you prefer older Florida charm. Established neighborhoods with mature oak trees, varied architectural styles, and prices starting around $350,000.</p>
+<h3>For Marina District Refugees: Davis Islands &#x26; Harbour Island</h3>
+<p>Miss that waterfront lifestyle? <a href="/neighborhoods/davis-islands/">Davis Islands</a> delivers yacht club living with Tampa Bay views. Homes start around $750,000, but you're getting deep-water docks and downtown skyline views.</p>
+<p><strong>Harbour Island</strong> offers high-rise condo living reminiscent of your old Embarcadero setup, but you can actually afford the mortgage payments.</p>
+<h3>For Castro/Mission Crowd: Hyde Park &#x26; Seminole Heights</h3>
+<p><strong>Hyde Park</strong> serves up walkable urban living with SoHo (South Howard) as your entertainment district. Think Valencia Street, but with parking and reasonable drink prices.</p>
+<p><strong>Seminole Heights</strong> channels Mission District energy — craft breweries, food trucks, vintage shops — but your rent won't require three roommates.</p>
+<h3>For Family-Focused: Brandon &#x26; Fishhawk Ranch</h3>
+<p>Left Sunset District for family reasons? <a href="/neighborhoods/brandon/">Brandon</a> offers suburban family life with A-rated schools and home prices starting around $375,000.</p>
+<p><strong>Fishhawk Ranch</strong> gives you master-planned community living with resort amenities, but you can actually use them because they're not packed with 40,000 other residents.</p>
+<h2>The Logistics: Making Your Move Happen</h2>
+<h3>Driving Route: I-80 to I-10 to I-75</h3>
+<p>The most straightforward route runs 2,876 miles and takes about 42 hours of actual driving. Plan for 4-5 days with stops.</p>
+<p><strong>Key stops:</strong></p>
+<ul>
+<li>Sacramento, CA (fuel up before Nevada)</li>
+<li>Salt Lake City, UT (decent overnight stop)</li>
+<li>Denver, CO (if you take I-76 north route)</li>
+<li>San Antonio, TX (BBQ mandatory)</li>
+<li>New Orleans, LA (if you take I-10 all the way)</li>
+</ul>
+<p><strong>Pro tip:</strong> Ship your car if you're flying down house-hunting. It's $1,200-1,800 and saves wear on your vehicle.</p>
+<h3>Shipping Costs Breakdown</h3>
+<p><strong>Full-service movers (door-to-door):</strong></p>
+<ul>
+<li>1-bedroom: $3,800-5,200</li>
+<li>2-bedroom: $5,500-7,800</li>
+<li>3-bedroom: $8,200-12,000</li>
+<li>4+ bedroom: $12,000-18,000</li>
+</ul>
+<p><strong>Hybrid options:</strong></p>
+<ul>
+<li>Pod services (U-Pack, PODS): $4,500-8,000</li>
+<li>Freight trailers: $3,200-6,500</li>
+<li>Drive yourself (U-Haul 26'): $4,800+ in gas and rental fees</li>
+</ul>
+<p><strong>What affects your cost:</strong></p>
+<ul>
+<li>Summer moves cost 20-30% more</li>
+<li>Elevator buildings add $200-500</li>
+<li>Long-carry fees (over 100 feet)</li>
+<li>Storage needs in transit</li>
+</ul>
+<h3>Timing Your Move</h3>
+<p><strong>Best months:</strong> October through April. You'll avoid hurricane season, summer heat, and peak moving prices.</p>
+<p><strong>Worst months:</strong> June through September. Hurricane season, oppressive humidity, and higher moving costs.</p>
+<p><strong>School considerations:</strong> If you have kids, aim for arrival by mid-July to handle enrollment and registration before August start dates.</p>
+<h2>Job Market Reality Check</h2>
+<h3>Tech Scene Comparison</h3>
+<p>Tampa Bay isn't Silicon Valley, but it's not trying to be. What we have is growing tech presence without the unicorn startup hysteria.</p>
+<p><strong>Major tech employers:</strong></p>
+<ul>
+<li>JPMorgan Chase Technology Center (4,000+ employees)</li>
+<li>Tech Data Corporation</li>
+<li>Raymond James Financial</li>
+<li>Citi Technology Center</li>
+<li>Growing number of fintech startups</li>
+</ul>
+<p><strong>Salary expectations:</strong> Expect 20-30% lower base salaries, but remember — no state income tax and dramatically lower cost of living means higher take-home pay.</p>
+<h3>Remote Work Advantage</h3>
+<p>If you're keeping your SF job remotely, you're hitting the jackpot. SF salary with Tampa expenses? That's the dream scenario I see happening more often.</p>
+<p><strong>Tax considerations:</strong> You'll need to understand California's "source state" rules. Generally, if you're a Florida resident working remotely for a CA company, you don't pay CA income tax on that income. Consult a tax professional for your specific situation.</p>
+<h2>Schools &#x26; Education</h2>
+<h3>Top-Rated School Districts</h3>
+<p><strong>Hillsborough County</strong> consistently ranks in Florida's top 10 districts:</p>
+<ul>
+<li>Westchase Elementary: A-rated</li>
+<li>Wilson Middle: A-rated</li>
+<li>Plant High School: A-rated (and gorgeous campus)</li>
+</ul>
+<p><strong>Pasco County</strong> offers excellent suburban school options:</p>
+<ul>
+<li>Seven Springs Elementary: A-rated</li>
+<li>Paul R. Smith Middle: A-rated</li>
+<li>Ridgewood High: A-rated</li>
+</ul>
+<h3>Private School Options</h3>
+<p>If you're used to SF's competitive private school scene, Tampa offers quality options without the $40K+ annual fees:</p>
+<ul>
+<li>Berkeley Preparatory School: $28,000/year, top-tier college prep</li>
+<li>Academy of the Holy Names: $18,500/year, all-girls Catholic</li>
+<li>Tampa Preparatory School: $26,000/year, small class sizes</li>
+</ul>
+<h2>Healthcare Transition</h2>
+<h3>Major Hospital Systems</h3>
+<p><strong>Tampa General Hospital</strong> — Level 1 trauma center, nationally ranked in multiple specialties. Think UCSF quality without the billing nightmares.</p>
+<p><strong>Moffitt Cancer Center</strong> — World-renowned cancer treatment and research facility. Consistently ranked in top 10 nationally.</p>
+<p><strong>BayCare Health System</strong> — Regional network with locations throughout Tampa Bay.</p>
+<h3>Finding New Doctors</h3>
+<p><strong>Insurance considerations:</strong> Most major insurers have solid networks here. If you have Kaiser, you'll need to switch — they don't operate in Florida.</p>
+<p><strong>Specialist availability:</strong> You won't wait three months for a dermatologist appointment here. Seriously.</p>
+<h2>Weather: The Honest Truth</h2>
+<h3>What to Expect</h3>
+<p><strong>Summer (June-September):</strong> Hot, humid, daily afternoon thunderstorms. Highs in low 90s, feels like 105°F with humidity. You'll live in AC.</p>
+<p><strong>Fall (October-December):</strong> Perfect. 70s-80s, lower humidity, occasional cold front. This is why people move here.</p>
+<p><strong>Winter (January-March):</strong> Mild, dry. 60s-70s during the day, can drop to 40s at night. You might need a light jacket.</p>
+<p><strong>Spring (April-May):</strong> Warm, increasingly humid. 80s during the day, perfect for outdoor activities.</p>
+<h3>Hurricane Reality</h3>
+<p>Yes, hurricanes are a thing. But Tampa Bay sits in a geographically protected area. We haven't had a direct major hurricane hit since 1921. Most storms track north or south of us.</p>
+<p><strong>Preparation is key:</strong> Hurricane windows, insurance, and evacuation plans are standard practice. It's not the constant terror SF makes it seem.</p>
+<h2>Cultural Adjustments</h2>
+<h3>Food Scene Discoveries</h3>
+<p><strong>Cuban food everywhere.</strong> Seriously. Your neighborhood will have at least three Cuban restaurants, and they're all good.</p>
+<p><strong>Grouper is your new salmon.</strong> Fresh Gulf seafood is incredible and reasonably priced.</p>
+<p><strong>BBQ culture.</strong> You'll develop opinions about dry rub vs. sauce. It's inevitable.</p>
+<h3>Entertainment Differences</h3>
+<p><strong>Live music:</strong> Venues like Jannus Live, MidFlorida Credit Union Amphitheatre, and Amalie Arena bring major acts without SF venue prices.</p>
+<p><strong>Sports teams:</strong> Bucs (NFL), Lightning (NHL), Rays (MLB). Season tickets are actually attainable.</p>
+<p><strong>Beaches:</strong> You can drive to the beach in 20-45 minutes from anywhere in Tampa Bay. Clearwater, St. Pete Beach, Indian Rocks Beach — all consistently rated among America's best.</p>
+<h3>Social Scene</h3>
+<p>Tampa Bay's social scene is different from SF's. It's more family-oriented, less pretentious, and significantly more affordable. You can actually afford to go out regularly.</p>
+<p><strong>Networking:</strong> Tampa Bay Young Professionals, various tech meetups, and industry associations are active but not cutthroat.</p>
+<hr>
+<p><strong>Moving to Tampa Bay?</strong> Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.</p>
+<p><a href="https://nowtb.com">Contact Barrett →</a> | <a href="tel:8137337907">(813) 733-7907</a></p>
+<hr>
+<h2>Your First 90 Days Action Plan</h2>
+<h3>Before You Move</h3>
+<ol>
+<li><strong>Research flood zones</strong> — Use FEMA flood maps to understand insurance requirements</li>
+<li><strong>Set up utilities</strong> — TECO (electric), Tampa Bay Water, Spectrum/Frontier (internet)</li>
+<li><strong>Register vehicle</strong> — You have 30 days to get Florida plates and registration</li>
+<li><strong>Find temporary housing</strong> — Extended stays or corporate housing for house hunting</li>
+</ol>
+<h3>Month 1: Essential Setup</h3>
+<p><strong>Week 1:</strong></p>
+<ul>
+<li>Establish Florida residency (voter registration, driver's license)</li>
+<li>Open accounts with local banks (Raymond James Bank, Grow Financial)</li>
+<li>Find healthcare providers</li>
+</ul>
+<p><strong>Week 2-3:</strong></p>
+<ul>
+<li>School enrollment if you have kids</li>
+<li>Explore neighborhoods seriously</li>
+<li>Connect utilities at permanent residence</li>
+</ul>
+<p><strong>Week 4:</strong></p>
+<ul>
+<li>Join local organizations/meetups</li>
+<li>Establish new routines</li>
+<li>Find your go-to restaurants and services</li>
+</ul>
+<h3>Month 2-3: Getting Established</h3>
+<ul>
+<li>Homeowners/renters insurance with hurricane coverage</li>
+<li>Find your preferred grocery stores (Publix is king here)</li>
+<li>Discover your favorite beaches</li>
+<li>Plan first hurricane season if moving before October</li>
+</ul>
+<h2>Banking and Financial Services</h2>
+<h3>Local Banking Options</h3>
+<p><strong>Raymond James Bank</strong> — Headquartered here, excellent private client services, understands relocating professionals.</p>
+<p><strong>Grow Financial Credit Union</strong> — Local credit union with competitive rates and good customer service.</p>
+<p><strong>SunTrust/Truist</strong> — Major regional presence with full services.</p>
+<h3>Investment Services</h3>
+<p>Tampa Bay is Raymond James' headquarters, so you'll have access to top-tier financial advisory services. Many former SF residents appreciate having local expertise in tax-advantaged strategies specific to Florida residency.</p>
+<h2>Insurance Considerations</h2>
+<h3>Auto Insurance</h3>
+<p>Florida requires Personal Injury Protection (PIP) coverage, which California doesn't. Your rates might actually decrease due to lower theft rates and claim frequencies.</p>
+<h3>Homeowners Insurance</h3>
+<p><strong>Hurricane/windstorm coverage is mandatory</strong> if you have a mortgage. Expect $2,000-4,000 annually for a $400,000 home, depending on location and wind zone.</p>
+<p><strong>Flood insurance</strong> is separate and recommended even outside flood zones. Annual flooding from summer storms is more common than hurricanes.</p>
+<h3>Health Insurance</h3>
+<p>If you're keeping employer coverage, verify network providers in Tampa Bay. If buying individual coverage, Florida's marketplace offers competitive options from major insurers.</p>
+<h2>Final Thoughts: Making the Leap</h2>
+<p>Moving from San Francisco to Tampa Bay isn't just a relocation — it's a lifestyle reset. You're trading fog for sunshine, $4,000 rents for homeownership, and 90-minute commutes for 20-minute drives to the beach.</p>
+<p>Will you miss parts of SF? Absolutely. The cultural diversity, the food scene's depth, the walkability, the intellectual energy — these are real losses.</p>
+<p>But here's what my clients tell me after two years: They can't imagine going back to paying $7,000/month for the privilege of living in a 900-square-foot apartment.</p>
+<p>Tampa Bay gives you space to breathe, financially and literally. Your money goes further, your commute disappears, and you remember what it feels like to not stress about basic living expenses.</p>
+<p>Is it perfect? No. But it's a damn good place to build a life that doesn't require six roommates and a trust fund.</p>
+<h2>Frequently Asked Questions</h2>
+<h3>How much money should I save for the move from San Francisco to Tampa Bay?</h3>
+<p>Plan for $15,000-25,000 total moving costs including professional movers, temporary housing, travel expenses, and first month's expenses in Tampa Bay. Having 6 months of expenses saved is smart since you'll be establishing new routines and potentially job hunting.</p>
+<h3>What's the job market like in Tampa Bay compared to San Francisco?</h3>
+<p>Tampa Bay's tech scene is growing but smaller than SF's. Expect 20-30% lower salaries, but no state income tax and dramatically lower cost of living often result in higher take-home pay. Remote work for SF companies is increasingly common and offers the best of both worlds.</p>
+<h3>Are there any tax implications I should know about when moving from California to Florida?</h3>
+<p>Florida has no state income tax, which saves most people $10,000-40,000 annually depending on income level. You'll need to establish Florida residency properly to avoid California's aggressive residency audits. Consult a tax professional familiar with CA-FL relocations.</p>
+<h3>How does Tampa Bay's hurricane risk compare to San Francisco's earthquake risk?</h3>
+<p>Tampa Bay sits in a geographically protected area and hasn't had a direct major hurricane hit since 1921. Most storms track north or south of the bay. Preparation and insurance are key. Many residents feel it's more manageable than earthquake risk since you get 5-7 days warning.</p>
+<h3>What neighborhoods should San Francisco residents consider in Tampa Bay?</h3>
+<p>Hyde Park and Seminole Heights offer walkable urban living similar to SF neighborhoods. Westchase and Carrollwood work well for tech professionals wanting suburban amenities. Davis Islands provides waterfront living reminiscent of Marina District but affordable.</p>
+<h3>How long does it take to drive from San Francisco to Tampa Bay?</h3>
+<p>The drive is 2,876 miles and takes 42 hours of actual driving time. Most people complete it in 4-5 days with overnight stops. Popular routes go through either I-80 to I-76 to I-70 or I-80 to I-10 straight across.</p>
+<h3>What's the cost difference for housing between San Francisco and Tampa Bay?</h3>
+<p>Median home prices are $1.3 million in SF vs $425,000 in Tampa Bay. Rent for a 1-bedroom averages $4,800 in SF vs $1,800 in Tampa Bay. Most people can upgrade significantly in size and amenities while spending less money.</p>
+<h3>How does Tampa Bay's food scene compare to San Francisco's?</h3>
+<p>Tampa Bay's restaurant scene has exploded in recent years with James Beard nominees and incredible Latin food. While not as diverse as SF's scene, the quality is excellent and prices are much more reasonable. You can get great meals without planning weeks ahead or spending $200+ per person.</p>
+<h3>What should I know about Tampa Bay's public transportation?</h3>
+<p>Public transit is limited compared to SF's system. You'll need a car for daily life. However, traffic is manageable, parking is free most places, and commute times are dramatically shorter. Most residents find the car-dependent lifestyle worth it for the space and convenience.</p>
+<h3>How do I establish Florida residency when moving from California?</h3>
+<p>Get a Florida driver's license within 30 days, register to vote, register vehicles, and establish a domicile with intent to remain permanently. Keep detailed records of your move date and residency establishment since California aggressively audits high earners claiming non-residency.</p>
+8:["slug","moving-from-san-francisco","d"]
+0:["SZLIdUDBKVit2TP_UqbYL",[[["",{"children":["blog",{"children":[["slug","moving-from-san-francisco","d"],{"children":["__PAGE__?{\"slug\":\"moving-from-san-francisco\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","moving-from-san-francisco","d"],{"children":["__PAGE__",{},[["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","section",null,{"className":"relative w-full h-[200px] md:h-[300px] overflow-hidden bg-brand-navy","children":[["$","$L3",null,{"src":"/images/blog/housing.jpg","alt":"Moving from San Francisco to Tampa Bay — The Complete Relocation Guide","fill":true,"className":"object-cover","unoptimized":true,"priority":true}],["$","div",null,{"className":"absolute inset-0 bg-brand-navy/60"}],["$","div",null,{"className":"relative z-10 flex flex-col items-center justify-center h-full px-4 text-center","children":[["$","h1",null,{"className":"text-white text-3xl md:text-5xl font-display font-extrabold leading-tight max-w-4xl","children":"Moving from San Francisco to Tampa Bay — The Complete Relocation Guide"}],"$undefined"]}]]}],["$","article",null,{"className":"max-w-4xl mx-auto px-4 py-10","children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://tbrelo.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://tbrelo.com/blog/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Moving from San Francisco to Tampa Bay — The Complete Relocation Guide\",\"item\":\"https://tbrelo.com/blog/moving-from-san-francisco/\"}]}"}}],["$","nav",null,{"aria-label":"Breadcrumb","className":"text-sm text-brand-slate mb-6","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-1","children":[["$","li","/",{"className":"flex items-center gap-1","children":[false,["$","$L4",null,{"href":"/","className":"hover:text-brand-blue transition-colors","children":"Home"}]]}],["$","li","/blog/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","$L4",null,{"href":"/blog/","className":"hover:text-brand-blue transition-colors","children":"Blog"}]]}],["$","li","/blog/moving-from-san-francisco/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","span",null,{"className":"text-brand-navy font-medium","children":"Moving from San Francisco to Tampa Bay — The Complete Relocation Guide"}]]}]]}]}]],["$","p",null,{"className":"text-brand-slate text-sm mb-8","children":["Published ","August 2, 2024"]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$5"}}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"cta-box-primary","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-white","children":"Moving to Tampa Bay? Get a Local Expert."}],["$","p",null,{"className":"text-sm mb-4 text-white","children":"Barrett Henry is a Broker Associate with REMAX Collective and over 23 years of real estate experience. Straight talk, smart strategy, no pressure."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-blue text-white hover:bg-blue-600","children":["Contact Barrett"," →"]}],["$","a",null,{"href":"tel:8137337907","className":"text-sm text-white","children":"(813) 733-7907"}]]}]]}],["$","div",null,{"className":"cta-box","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-brand-navy","children":"Need Help Setting Up Your New Home?"}],["$","p",null,{"className":"text-sm mb-4 text-brand-slate","children":"Best Bay Services handles handyman work, home repairs, and maintenance for your new Tampa Bay home. Local, licensed, and trusted."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-navy text-white hover:bg-brand-dark","children":["Get a Quote"," →"]}],["$","a",null,{"href":"tel:8134168676","className":"text-sm text-brand-blue","children":"(813) 416-8676"}]]}]]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","$L6",null,{"blogSlug":"moving-from-san-francisco"}]]}]],null],null],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$8","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/db2729ad4a9f0783.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link",null,{"rel":"icon","href":"/favicon-32.png","type":"image/png","sizes":"32x32"}],["$","link",null,{"rel":"icon","href":"/favicon-16.png","type":"image/png","sizes":"16x16"}],["$","link",null,{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link",null,{"rel":"icon","href":"/icon-192.png","type":"image/png","sizes":"192x192"}],["$","meta",null,{"name":"google-adsense-account","content":"ca-pub-2033173419526042"}],["$","meta",null,{"name":"impact-site-verification","content":"bb623f40-9653-4312-9ca8-bf35b957a10c"}],["$","$La",null,{"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2033173419526042","strategy":"afterInteractive","crossOrigin":"anonymous"}],["$","$La",null,{"src":"https://www.googletagmanager.com/gtag/js?id=G-TD87S02SLM","strategy":"afterInteractive"}],["$","$La",null,{"id":"gtag-init","strategy":"afterInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'G-TD87S02SLM');\n          "}]]}],["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"[{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"https://tbrelo.com/#website\",\"name\":\"TB Relo — Tampa Bay Relocation Guide\",\"url\":\"https://tbrelo.com\",\"description\":\"Comprehensive relocation guides for Tampa Bay, Florida. Covering 8 counties, 100+ cities, cost of living, schools, and everything you need to know about moving to Tampa Bay.\",\"publisher\":{\"@id\":\"https://tbrelo.com/#org\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://tbrelo.com/blog/?q={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}},{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://tbrelo.com/#org\",\"name\":\"TB Relo\",\"url\":\"https://tbrelo.com\",\"sameAs\":[\"https://nowtb.com\",\"https://valricoagent.com\",\"https://parrishagent.com\",\"https://www.facebook.com/BarrettHenryREALTOR/\",\"https://www.instagram.com/thenowteam\",\"https://www.youtube.com/@nowtampa\"]}]"}}],["$","$Lb",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"max-w-2xl mx-auto px-4 py-20 text-center","children":[["$","h1",null,{"className":"text-6xl font-display font-extrabold text-brand-navy mb-4","children":"404"}],["$","p",null,{"className":"text-xl text-brand-slate mb-8","children":"This page doesn't exist. Maybe you're looking for one of these?"}],["$","div",null,{"className":"grid sm:grid-cols-2 gap-4 mb-12 text-left","children":[["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Moving Guide"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Complete guide to relocating to Tampa Bay"}]]}],["$","$L4",null,{"href":"/counties/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Explore Counties"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Browse all 8 Tampa Bay counties"}]]}],["$","$L4",null,{"href":"/cities/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Find a City"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"90+ city and neighborhood guides"}]]}],["$","$L4",null,{"href":"/blog/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Blog"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Tips, comparisons, and local insights"}]]}]]}],["$","$L4",null,{"href":"/","className":"px-8 py-4 bg-brand-blue text-white font-display font-bold rounded-lg hover:bg-blue-600 transition-colors text-lg inline-block","children":"Back to Home"}]]}],"notFoundStyles":[]}]}],["$","footer",null,{"className":"bg-brand-dark text-gray-400","children":[["$","div",null,{"className":"bg-brand-navy","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10","children":["$","div",null,{"className":"grid md:grid-cols-3 gap-8 text-center","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Buying or Selling a Home?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Barrett Henry — The NOW Team at REMAX Collective"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 733-7907"}]]}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Need a Handyman?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Best Bay Services — Tampa Bay Home Services"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 416-8676"}]]}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Property Management"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"ViVi PM — Full-Service Property Management"}]]}]]}]}]}],["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8","children":[["$","div",null,{"className":"md:col-span-2","children":[["$","div",null,{"className":"font-display font-extrabold text-2xl text-white mb-3","children":["TB",["$","span",null,{"className":"text-brand-sky","children":"Relo"}]]}],["$","p",null,{"className":"text-sm leading-relaxed","children":"Your complete guide to relocating to Tampa Bay, Florida. Covering Hillsborough, Pinellas, Pasco, Hernando, Polk, Manatee, Sarasota, and Citrus counties with honest, local insight from someone who actually lives here."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Guides"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"hover:text-white transition-colors","children":"Moving to Tampa Bay"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/cost-of-living/","className":"hover:text-white transition-colors","children":"Cost of Living"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/moving-checklist/","className":"hover:text-white transition-colors","children":"Moving Checklist"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/blog/","className":"hover:text-white transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Counties"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li","Hillsborough",{"children":["$","$L4",null,{"href":"/counties/hillsborough/","className":"hover:text-white transition-colors","children":["Hillsborough"," County"]}]}],["$","li","Pinellas",{"children":["$","$L4",null,{"href":"/counties/pinellas/","className":"hover:text-white transition-colors","children":["Pinellas"," County"]}]}],["$","li","Pasco",{"children":["$","$L4",null,{"href":"/counties/pasco/","className":"hover:text-white transition-colors","children":["Pasco"," County"]}]}],["$","li","Hernando",{"children":["$","$L4",null,{"href":"/counties/hernando/","className":"hover:text-white transition-colors","children":["Hernando"," County"]}]}],["$","li","Polk",{"children":["$","$L4",null,{"href":"/counties/polk/","className":"hover:text-white transition-colors","children":["Polk"," County"]}]}],["$","li","Manatee",{"children":["$","$L4",null,{"href":"/counties/manatee/","className":"hover:text-white transition-colors","children":["Manatee"," County"]}]}],["$","li","Sarasota",{"children":["$","$L4",null,{"href":"/counties/sarasota/","className":"hover:text-white transition-colors","children":["Sarasota"," County"]}]}],["$","li","Citrus",{"children":["$","$L4",null,{"href":"/counties/citrus/","className":"hover:text-white transition-colors","children":["Citrus"," County"]}]}]]}]]}]]}],["$","div",null,{"className":"mt-10 pt-8 border-t border-gray-800","children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Barrett Henry's Network"}],["$","div",null,{"className":"grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3 text-sm","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Tampa Bay Real Estate"}],["$","a",null,{"href":"https://valricoagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Real Estate"}],["$","a",null,{"href":"https://parrishagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Parrish Real Estate"}],["$","a",null,{"href":"https://valrico.blog","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Community Blog"}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Handyman & Home Services"}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Property Management"}]]}]]}],["$","div",null,{"className":"mt-12 pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center gap-4 text-xs","children":[["$","p",null,{"children":["© ",2026," TB Relo. All rights reserved."]}],["$","div",null,{"className":"flex gap-4","children":[["$","$L4",null,{"href":"/affiliate-disclosure/","className":"hover:text-white transition-colors","children":"Affiliate Disclosure"}],["$","$L4",null,{"href":"/privacy-policy/","className":"hover:text-white transition-colors","children":"Privacy Policy"}],["$","$L4",null,{"href":"/disclaimer/","className":"hover:text-white transition-colors","children":"Disclaimer"}]]}]]}]]}],["$","div",null,{"className":"bg-black/30 border-t border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 text-center text-xs text-gray-500","children":["Site by"," ",["$","a",null,{"href":"https://vyrabyte.com","target":"_blank","rel":"noopener noreferrer","className":"text-gray-400 hover:text-white transition-colors","children":"Vyrabyte"}]]}]}]]}],["$","$Lc",null,{}]]}]]}]],null],null],["$Ld",null]]]]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Moving from San Francisco to Tampa Bay — The Complete Relocation Guide | TB Relo | TB Relo"}],["$","meta","3",{"name":"description","content":"Moving from San Francisco to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","6",{"property":"og:title","content":"Moving from San Francisco to Tampa Bay — The Complete Relocation Guide | TB Relo | TB Relo"}],["$","meta","7",{"property":"og:description","content":"Moving from San Francisco to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","8",{"property":"og:image","content":"https://tbrelo.com/images/blog/housing.jpg"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"Moving from San Francisco to Tampa Bay — The Complete Relocation Guide | TB Relo | TB Relo"}],["$","meta","13",{"name":"twitter:description","content":"Moving from San Francisco to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","14",{"name":"twitter:image","content":"https://tbrelo.com/images/blog/housing.jpg"}],["$","link","15",{"rel":"icon","href":"/icon.svg?ff4364d89c37c0d6","type":"image/svg+xml","sizes":"any"}]]
+1:null

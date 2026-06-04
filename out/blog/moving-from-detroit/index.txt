@@ -1,0 +1,462 @@
+3:I[5878,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"Image"]
+4:I[2972,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],""]
+6:I[5143,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"default"]
+7:I[4707,[],""]
+9:I[6423,[],""]
+a:I[8003,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],""]
+b:I[7312,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"default"]
+c:I[5463,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"SpeedInsights"]
+2:T13c9,[{"@context":"https://schema.org","@type":"Article","headline":"Moving from Detroit to Tampa Bay — The Complete Relocation Guide | TB Relo","description":"Moving from Detroit to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience.","url":"https://tbrelo.com/blog/moving-from-detroit/","author":{"@type":"Person","name":"Barrett Henry","jobTitle":"REALTOR® & Broker Associate","url":"https://nowtb.com","worksFor":{"@type":"Organization","name":"REMAX Collective"},"knowsAbout":["Tampa Bay Real Estate","Florida Relocation","Residential Real Estate","Investment Property","Property Management"]},"publisher":{"@type":"Organization","name":"TB Relo","url":"https://tbrelo.com"},"datePublished":"2024-07-06T08:00:00-04:00","dateModified":"2026-04-15T08:00:00-04:00","image":{"@type":"ImageObject","url":"https://tbrelo.com/images/blog/housing.jpg"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much money should I have saved before moving from Detroit to Tampa Bay?","acceptedAnswer":{"@type":"Answer","text":"Plan for $15,000-25,000 in moving expenses and transition costs. This covers moving company, temporary housing, utility deposits, and 2-3 months of expenses while you settle in. If you're buying immediately, ensure you have closing costs plus 6 months of payments saved."}},{"@type":"Question","name":"Will my Michigan teaching/nursing license transfer to Florida?","acceptedAnswer":{"@type":"Answer","text":"Most professional licenses have reciprocity agreements. Teachers need to complete Florida's professional development requirements. Nurses can often transfer with minimal additional requirements. Healthcare professionals generally find easier pathways than in many other states."}},{"@type":"Question","name":"What's the best time of year to move to Tampa Bay?","acceptedAnswer":{"@type":"Answer","text":"October through March offers the best weather for moving and house hunting. Avoid June-August (hottest weather and hurricane season) and December-February (peak snowbird season driving up temporary housing costs). Fall moves also align well with school calendars."}},{"@type":"Question","name":"How do Tampa Bay property taxes compare to Detroit's?","acceptedAnswer":{"@type":"Answer","text":"Tampa Bay property taxes average 0.8-1.2% annually versus Detroit's 2.5-3.5%. On a $400,000 home, you'll pay about $4,000 annually here versus $12,000+ in Detroit. Plus, Florida's Homestead Exemption can reduce your taxable value by up to $50,000."}},{"@type":"Question","name":"Can I find a job in Tampa Bay before moving from Detroit?","acceptedAnswer":{"@type":"Answer","text":"Absolutely. Tampa Bay's job market is strong in healthcare, finance, tech, and service industries. Many employers hire remotely first. LinkedIn, Indeed, and company websites are your best resources. Consider timing your move during your industry's busy hiring seasons."}},{"@type":"Question","name":"What should I know about Florida homeowner's insurance?","acceptedAnswer":{"@type":"Answer","text":"Expect to pay $1,500-3,000 annually versus Michigan's $800-1,500. However, you'll save thousands on heating costs. Wind/hurricane coverage is standard. Flood insurance is separate and only required in flood zones. Shop around — rates vary significantly between companies."}},{"@type":"Question","name":"Is Tampa Bay traffic worse than Detroit?","acceptedAnswer":{"@type":"Answer","text":"Tampa Bay has traffic congestion, but it's generally more manageable than Detroit's I-94/I-75 corridors. Rush hour is typically 7-9 AM and 4:30-6:30 PM. The difference: year-round motorcycle/convertible weather makes commuting more pleasant, and road salt damage isn't destroying your car."}},{"@type":"Question","name":"How do I establish Florida residency for tax purposes?","acceptedAnswer":{"@type":"Answer","text":"File for Homestead Exemption by March 1st after purchasing. Get a Florida driver's license within 30 days of moving. Register to vote. Establish a local bank account. Keep documentation showing intent to make Florida your permanent home. Consult a tax professional for complex situations."}},{"@type":"Question","name":"What's the real story on hurricanes in Tampa Bay?","acceptedAnswer":{"@type":"Answer","text":"Tampa Bay hasn't had a direct major hurricane hit since 1921. Modern building codes require hurricane-resistant construction. Most \"hurricane events\" result in power outages and minor damage. Insurance covers wind damage, and the community is well-prepared with evacuation routes and emergency management."}},{"@type":"Question","name":"Should I rent or buy immediately after moving from Detroit?","acceptedAnswer":{"@type":"Answer","text":"If you're confident about the area and have stable employment, buying makes sense given Florida's homestead exemption and property appreciation. If you're unsure about neighborhoods or job stability, rent for 6-12 months first. Many Detroit transplants successfully buy immediately after a thorough house-hunting trip."}}]}]5:T65d5,<p>If you're reading this from your house in Detroit, staring out at another gray January morning, I get it. After 23 years of helping families make this exact move, I've seen the same pattern: Michigan winters that seem to last forever, property taxes that sting, and that nagging feeling that life might be better somewhere warmer.</p>
+<p>Tampa Bay isn't just Florida's best-kept secret anymore — it's become the destination for smart relocations from the Rust Belt. And coming from Detroit? You're going to love what we've built down here.</p>
+<p>Let me walk you through exactly what this move looks like, from the financial reality to finding your perfect neighborhood. No fluff, just the straight story from someone who's helped hundreds of Detroit families make Tampa Bay home.</p>
+<h2>The Money Talk — What This Move Actually Costs</h2>
+<h3>Cost of Living Comparison: Detroit vs Tampa Bay</h3>
+<p>Here's the breakdown that matters, based on 2024 numbers:</p>
+<table>
+<thead>
+<tr>
+<th>Category</th>
+<th>Detroit</th>
+<th>Tampa Bay</th>
+<th>Difference</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Median Home Price</td>
+<td>$285,000</td>
+<td>$425,000</td>
+<td>+$140,000</td>
+</tr>
+<tr>
+<td>Property Taxes (Annual)</td>
+<td>$4,200</td>
+<td>$3,400</td>
+<td>-$800</td>
+</tr>
+<tr>
+<td>State Income Tax</td>
+<td>4.25%</td>
+<td>0%</td>
+<td>Save $4,250 on $100k income</td>
+</tr>
+<tr>
+<td>Utilities (Monthly)</td>
+<td>$165</td>
+<td>$140</td>
+<td>-$25</td>
+</tr>
+<tr>
+<td>Gas (Per Gallon)</td>
+<td>$3.45</td>
+<td>$3.35</td>
+<td>-$0.10</td>
+</tr>
+<tr>
+<td>Groceries (Monthly for family of 4)</td>
+<td>$650</td>
+<td>$680</td>
+<td>+$30</td>
+</tr>
+<tr>
+<td>Home Insurance</td>
+<td>$1,200</td>
+<td>$1,800</td>
+<td>+$600</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Bottom Line:</strong> A household making $100,000 typically saves $3,500-4,500 annually after the move, even with higher housing costs. That's before factoring in the lifestyle upgrade of year-round outdoor living.</p>
+<h3>Tax Savings Calculator</h3>
+<p>Here's what no state income tax means for your wallet:</p>
+<ul>
+<li><strong>$50,000 income:</strong> Save $2,125 annually</li>
+<li><strong>$75,000 income:</strong> Save $3,188 annually</li>
+<li><strong>$100,000 income:</strong> Save $4,250 annually</li>
+<li><strong>$150,000 income:</strong> Save $6,375 annually</li>
+</ul>
+<p>Add in lower property taxes, and a Detroit family making $100k saves roughly $5,000 per year. That's a nice vacation fund, or faster mortgage payoff, or simply breathing room.</p>
+<hr>
+<p><strong>Moving to Tampa Bay?</strong> Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.</p>
+<p><a href="https://nowtb.com">Contact Barrett →</a> | <a href="tel:8137337907">(813) 733-7907</a></p>
+<hr>
+<h2>Housing Market Reality Check</h2>
+<h3>What Detroit Money Buys in Tampa Bay</h3>
+<p>Your Detroit home equity stretches differently here, depending on where you land:</p>
+<p><strong>$300k Detroit House → Tampa Bay Options:</strong></p>
+<ul>
+<li><strong>Pinellas Park:</strong> 3BR/2BA, 1,600 sq ft, updated kitchen - $385k</li>
+<li><strong>Brandon:</strong> 4BR/3BA, 2,200 sq ft, pool, newer build - $415k</li>
+<li><strong>New Port Richey:</strong> 3BR/2BA, 1,800 sq ft, quarter-acre lot - $350k</li>
+<li><strong>Riverview:</strong> 4BR/2.5BA, 2,400 sq ft, community amenities - $425k</li>
+</ul>
+<p><strong>$400k+ Detroit House → Premium Options:</strong></p>
+<ul>
+<li><strong>South Tampa (Hyde Park):</strong> 3BR/2BA historic bungalow - $650k</li>
+<li><strong>St. Petersburg (Old Northeast):</strong> 3BR/2BA, walkable downtown - $575k</li>
+<li><strong>Westchase:</strong> 4BR/3BA, 2,800 sq ft, A-rated schools - $625k</li>
+<li><strong>Carrollwood:</strong> 4BR/2.5BA, 2,600 sq ft, established community - $550k</li>
+</ul>
+<p>The key difference? Everything comes with a pool or pool-ready yard. Your heating bills disappear. And your property appreciates year-round, not just during the brief "good months."</p>
+<h3>Neighborhood Matching Guide</h3>
+<p>Based on what Detroit families tell me they miss (and want to improve):</p>
+<p><strong>If you loved Detroit's Corktown → Try Tampa Heights</strong><br>
+Urban revival, walkable dining, historic charm, young professionals. Home prices: $450k-650k.</p>
+<p><strong>If you were in Birmingham/Bloomfield → Consider Westchase</strong><br>
+Excellent schools, family-focused, newer construction, community amenities. Home prices: $500k-750k.</p>
+<p><strong>If Ferndale was your vibe → Explore Seminole Heights</strong><br>
+Eclectic, artsy, great local restaurants, diverse community. Home prices: $350k-550k.</p>
+<p><strong>If you lived in Plymouth/Canton → Look at Brandon</strong><br>
+Family suburbs, good schools, chain restaurants, easy commutes. Home prices: $350k-500k.</p>
+<p><strong>If Downtown Detroit was home → Downtown St. Pete wins</strong><br>
+Waterfront living, cultural scene, walkable everything, actual year-round vibrancy. Condos: $300k-800k.</p>
+<h2>The Weather Upgrade (It's Not Just About Heat)</h2>
+<p>Let's be honest about what you're escaping and what you're gaining:</p>
+<h3>Detroit Weather Reality:</h3>
+<ul>
+<li><strong>October-April:</strong> Mostly gray, often brutal</li>
+<li><strong>Heating Season:</strong> 6+ months of furnace bills</li>
+<li><strong>Outdoor Activities:</strong> Limited to maybe 4-5 decent months</li>
+<li><strong>Seasonal Depression:</strong> Real and common</li>
+</ul>
+<h3>Tampa Bay Weather Advantage:</h3>
+<ul>
+<li><strong>Year-Round Outdoor Season:</strong> Golf in January, beach in December</li>
+<li><strong>Sunshine:</strong> 246 sunny days vs Detroit's 183</li>
+<li><strong>Hurricane Season:</strong> June-November, but most years you'll never notice</li>
+<li><strong>No Snow Days:</strong> Ever. Your schedule stays your schedule.</li>
+</ul>
+<p>The psychological shift is huge. When December hits and you're wearing shorts to Christmas dinner on the beach, you'll understand why people never move back.</p>
+<h2>Employment and Industry Landscape</h2>
+<h3>Detroit vs Tampa Bay Job Markets</h3>
+<p><strong>Detroit's Strengths:</strong></p>
+<ul>
+<li>Automotive industry (but increasingly automated)</li>
+<li>Manufacturing (location-dependent)</li>
+<li>Healthcare systems</li>
+<li>Average salary: $52,000</li>
+</ul>
+<p><strong>Tampa Bay's Advantages:</strong></p>
+<ul>
+<li>Growing tech sector (Microsoft, Amazon, Connected Health)</li>
+<li>Financial services (Raymond James, Tech Data)</li>
+<li>Healthcare boom (aging population = opportunity)</li>
+<li>Tourism/hospitality (recession-resistant)</li>
+<li>Average salary: $54,000</li>
+<li><strong>No state income tax means your paycheck goes further</strong></li>
+</ul>
+<h3>Major Employers Hiring Detroit Transplants:</h3>
+<p><strong>Technology:</strong></p>
+<ul>
+<li><strong>Microsoft:</strong> Large Tampa presence, remote-friendly</li>
+<li><strong>Amazon:</strong> Distribution and cloud services</li>
+<li><strong>JPMorgan Chase:</strong> Major operations center</li>
+<li><strong>Verizon:</strong> Customer service and tech roles</li>
+</ul>
+<p><strong>Healthcare:</strong></p>
+<ul>
+<li><strong>Tampa General Hospital:</strong> Always hiring experienced staff</li>
+<li><strong>BayCare Health:</strong> Regional network with growth opportunities</li>
+<li><strong>Moffitt Cancer Center:</strong> Research and clinical positions</li>
+</ul>
+<p><strong>Traditional Industries:</strong></p>
+<ul>
+<li><strong>Publix:</strong> Retail and corporate (Lakeland HQ)</li>
+<li><strong>Raymond James:</strong> Financial services</li>
+<li><strong>Lockheed Martin:</strong> Defense contracting</li>
+</ul>
+<p>The job market here is diversified enough that single-industry crashes (hello, 2008 Detroit) don't devastate the entire region.</p>
+<h2>Getting Your Stuff Here — Shipping and Moving Costs</h2>
+<h3>Moving Company Options (Detroit to Tampa Bay)</h3>
+<p><strong>Full-Service Movers:</strong></p>
+<ul>
+<li><strong>Cost Range:</strong> $4,500-8,500 for 3BR house</li>
+<li><strong>Timeline:</strong> 3-7 days door-to-door</li>
+<li><strong>Best For:</strong> Families with valuable/fragile items</li>
+</ul>
+<p><strong>Hybrid Moving (Most Popular):</strong></p>
+<ul>
+<li><strong>Cost Range:</strong> $2,800-4,200</li>
+<li><strong>You pack, they load/transport</strong></li>
+<li><strong>Timeline:</strong> 5-10 days</li>
+<li><strong>Best For:</strong> Budget-conscious with time to pack</li>
+</ul>
+<p><strong>DIY Container Services:</strong></p>
+<ul>
+<li><strong>PODS/U-Haul:</strong> $2,200-3,500</li>
+<li><strong>You load, they transport</strong></li>
+<li><strong>Timeline:</strong> 7-14 days flexible</li>
+<li><strong>Best For:</strong> Flexible timeline, maximum control</li>
+</ul>
+<p><strong>Pro Tip:</strong> Book between October-January for best rates. Summer is peak season (college moves, snowbird season) and prices jump 20-30%.</p>
+<h3>What NOT to Move</h3>
+<p>Save money and headaches by leaving these in Detroit:</p>
+<ul>
+<li><strong>Lawn mowers/snow equipment:</strong> Different grass, no snow</li>
+<li><strong>Heavy winter clothing:</strong> Keep some, but you won't need much</li>
+<li><strong>Old appliances:</strong> Different humidity requires different considerations</li>
+<li><strong>Pool chemicals:</strong> Hazmat shipping restrictions</li>
+</ul>
+<h3>Car Shipping vs Driving</h3>
+<p><strong>Driving Route (Most Common):</strong></p>
+<ul>
+<li><strong>Distance:</strong> 1,100 miles</li>
+<li><strong>Time:</strong> 16-18 hours driving time</li>
+<li><strong>Route:</strong> I-75 South straight shot</li>
+<li><strong>Hotel Night:</strong> Macon, GA area</li>
+<li><strong>Total Cost:</strong> $300-400 gas + hotel</li>
+</ul>
+<p><strong>Car Shipping:</strong></p>
+<ul>
+<li><strong>Open Transport:</strong> $800-1,200</li>
+<li><strong>Enclosed Transport:</strong> $1,100-1,600</li>
+<li><strong>Timeline:</strong> 5-10 days</li>
+<li><strong>Best For:</strong> Multiple cars or luxury vehicles</li>
+</ul>
+<p>Most families drive one car down and ship the second. It's an adventure and saves money.</p>
+<h2>The Drive Down — I-75 South Adventure</h2>
+<h3>The Route Everyone Takes</h3>
+<p><strong>Detroit → Tampa Bay via I-75:</strong></p>
+<ol>
+<li><strong>Detroit to Cincinnati:</strong> 4 hours (bathroom break in Monroe)</li>
+<li><strong>Cincinnati to Lexington:</strong> 1.5 hours (beautiful Kentucky countryside)</li>
+<li><strong>Lexington to Knoxville:</strong> 3 hours (mountains start here)</li>
+<li><strong>Knoxville to Macon:</strong> 4 hours (overnight stop recommended)</li>
+<li><strong>Macon to Tampa Bay:</strong> 4.5 hours (welcome to Florida!)</li>
+</ol>
+<h3>Smart Stops Along the Way</h3>
+<p><strong>Lexington, KY:</strong> Keeneland Race Track (if timing works)
+<strong>Knoxville, TN:</strong> Sunsphere and downtown if you have time
+<strong>Macon, GA:</strong> Perfect overnight stop, decent hotel options
+<strong>Ocala, FL:</strong> You're almost home, grab lunch and stretch</p>
+<p><strong>Florida Border Psychology:</strong> When you cross from Georgia into Florida and see those palm trees, something clicks. You made it. You're about to be a Florida resident.</p>
+<h2>School Systems — A Pleasant Surprise</h2>
+<h3>County-by-County School Quality</h3>
+<p>Coming from Detroit Public Schools? Every Tampa Bay county will feel like an upgrade. Here's the realistic breakdown:</p>
+<p><strong><a href="/counties/hillsborough/">Hillsborough County</a>:</strong></p>
+<ul>
+<li><strong>Overall Grade:</strong> B</li>
+<li><strong>Top Elementary:</strong> Roosevelt Elementary (A-rated)</li>
+<li><strong>Top Middle:</strong> Carrollwood Day School area (A-rated)</li>
+<li><strong>Top High:</strong> Plant High School, King High School</li>
+<li><strong>Average Test Scores:</strong> Above state average</li>
+</ul>
+<p><strong><a href="/counties/pinellas/">Pinellas County</a>:</strong></p>
+<ul>
+<li><strong>Overall Grade:</strong> B+</li>
+<li><strong>Standout Schools:</strong> Dunedin Elementary, Safety Harbor Middle</li>
+<li><strong>High Schools:</strong> Indian Rocks Christian, Northeast High</li>
+<li><strong>Advantage:</strong> Smaller county, easier navigation</li>
+</ul>
+<p><strong><a href="/counties/pasco/">Pasco County</a>:</strong></p>
+<ul>
+<li><strong>Overall Grade:</strong> B+</li>
+<li><strong>Growth Areas:</strong> Wesley Chapel, Land O'Lakes</li>
+<li><strong>New Schools:</strong> Rapid construction keeping up with growth</li>
+<li><strong>Value Play:</strong> Newer schools, lower home prices</li>
+</ul>
+<p>The difference from Detroit? Consistent funding, parental involvement, and teachers who aren't burned out. Your kids will notice immediately.</p>
+<hr>
+<p><strong>Moving to Tampa Bay?</strong> Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.</p>
+<p><a href="https://nowtb.com">Contact Barrett →</a> | <a href="tel:8137337907">(813) 733-7907</a></p>
+<hr>
+<h2>Healthcare — World-Class and Accessible</h2>
+<h3>Major Hospital Systems</h3>
+<p><strong>Tampa General Hospital:</strong></p>
+<ul>
+<li>Level 1 trauma center</li>
+<li>Nationally ranked specialties</li>
+<li>Downtown Tampa location</li>
+</ul>
+<p><strong>BayCare Health System:</strong></p>
+<ul>
+<li>Network of community hospitals</li>
+<li>Excellent urgent care coverage</li>
+<li>Morton Plant in Clearwater (top-rated)</li>
+</ul>
+<p><strong>Moffitt Cancer Center:</strong></p>
+<ul>
+<li>World-renowned cancer treatment</li>
+<li>Research hospital affiliation</li>
+<li>Insurance accepted widely</li>
+</ul>
+<p><strong>AdventHealth:</strong></p>
+<ul>
+<li>Faith-based care network</li>
+<li>Strong cardiac programs</li>
+<li>Multiple locations</li>
+</ul>
+<p>Coming from Detroit's healthcare landscape, you'll find shorter wait times, more specialists accepting new patients, and generally less bureaucratic hassle.</p>
+<h3>Specialist Availability</h3>
+<p>What takes months in Detroit often takes weeks here:</p>
+<ul>
+<li><strong>Dermatology:</strong> 2-4 week waits (sun = skin care priority)</li>
+<li><strong>Cardiology:</strong> 1-3 weeks typically</li>
+<li><strong>Orthopedics:</strong> Sports medicine excellence due to pro teams</li>
+<li><strong>Mental Health:</strong> Growing network, telehealth options</li>
+</ul>
+<h2>Recreation and Lifestyle Upgrade</h2>
+<h3>What You Gain</h3>
+<p><strong>Beach Access:</strong></p>
+<ul>
+<li><strong>Gulf Beaches:</strong> Clearwater, Indian Rocks, Madeira Beach</li>
+<li><strong>Bay Beaches:</strong> Bayshore Boulevard, Davis Islands</li>
+<li><strong>State Parks:</strong> Honeymoon Island, Fort De Soto</li>
+<li><strong>Drive Time:</strong> 30 minutes max from anywhere</li>
+</ul>
+<p><strong>Year-Round Outdoor Activities:</strong></p>
+<ul>
+<li><strong>Golf:</strong> Play 12 months, courses everywhere</li>
+<li><strong>Fishing:</strong> Inshore, offshore, freshwater lakes</li>
+<li><strong>Boating:</strong> Tampa Bay is a boater's paradise</li>
+<li><strong>Cycling:</strong> Pinellas Trail, Bayshore Boulevard</li>
+<li><strong>Tennis:</strong> Outdoor courts usable 350+ days per year</li>
+</ul>
+<p><strong>Professional Sports:</strong></p>
+<ul>
+<li><strong>Tampa Bay Buccaneers:</strong> Raymond James Stadium</li>
+<li><strong>Tampa Bay Lightning:</strong> Amalie Arena downtown</li>
+<li><strong>Tampa Bay Rays:</strong> Tropicana Field St. Pete</li>
+<li><strong>Orlando Teams:</strong> 90 minutes to Magic, Solar Bears</li>
+</ul>
+<h3>Cultural Scene</h3>
+<p><strong>Tampa:</strong></p>
+<ul>
+<li><strong>Tampa Theatre:</strong> Historic venue, film festivals</li>
+<li><strong>Straz Center:</strong> Broadway shows, symphony</li>
+<li><strong>Ybor City:</strong> Historic nightlife district</li>
+<li><strong>Armature Works:</strong> Food hall and events</li>
+</ul>
+<p><strong>St. Petersburg:</strong></p>
+<ul>
+<li><strong>Salvador Dalí Museum:</strong> World-class art</li>
+<li><strong>Mahaffey Theater:</strong> Touring shows</li>
+<li><strong>Downtown:</strong> Saturday Morning Market, festivals</li>
+<li><strong>Beach Drive:</strong> Waterfront dining and culture</li>
+</ul>
+<h2>Timeline and Planning Your Move</h2>
+<h3>6 Months Before</h3>
+<ul>
+<li><strong>Research neighborhoods online</strong></li>
+<li><strong>Connect with a local REALTOR</strong> (hint, hint)</li>
+<li><strong>Start decluttering/selling items</strong></li>
+<li><strong>Research school districts if you have kids</strong></li>
+</ul>
+<h3>3 Months Before</h3>
+<ul>
+<li><strong>Schedule house-hunting trip</strong></li>
+<li><strong>Get pre-approved for mortgage</strong></li>
+<li><strong>Research moving companies, get quotes</strong></li>
+<li><strong>Start job searching if needed</strong></li>
+</ul>
+<h3>1 Month Before</h3>
+<ul>
+<li><strong>Finalize moving company</strong></li>
+<li><strong>Change address with USPS</strong></li>
+<li><strong>Transfer prescriptions</strong></li>
+<li><strong>Research auto insurance (rates often drop)</strong></li>
+</ul>
+<h3>Moving Week</h3>
+<ul>
+<li><strong>Final walkthrough of new home</strong></li>
+<li><strong>Coordinate utility connections</strong></li>
+<li><strong>Stock up on basics for first week</strong></li>
+<li><strong>Register to vote (become a Floridian)</strong></li>
+</ul>
+<h3>First Month After Arrival</h3>
+<ul>
+<li><strong>Get Florida driver's license</strong> (you have 30 days)</li>
+<li><strong>Register vehicles</strong> (lower registration fees)</li>
+<li><strong>Find new healthcare providers</strong></li>
+<li><strong>Explore your new neighborhood</strong></li>
+<li><strong>Update voter registration</strong></li>
+</ul>
+<h2>The Hidden Benefits Nobody Mentions</h2>
+<h3>Financial Perks Beyond Taxes</h3>
+<p><strong>Homestead Exemption:</strong> Up to $50,000 off your property's assessed value for tax purposes. File by March 1st after establishing residency.</p>
+<p><strong>Auto Insurance:</strong> Most Detroit transplants see 15-25% lower rates. No salt roads = less vehicle damage.</p>
+<p><strong>Utility Savings:</strong> No heating bills 8 months of the year. Even with AC costs, most families save $100-200 monthly.</p>
+<p><strong>Outdoor Dining:</strong> Year-round patios mean more affordable entertainment options.</p>
+<h3>Quality of Life Improvements</h3>
+<p><strong>Commute Times:</strong> Tampa Bay traffic exists, but it's not Detroit's I-75 or I-94 nightmare.</p>
+<p><strong>Airport Access:</strong> Tampa International Airport is consistently rated top 5 in the US for efficiency.</p>
+<p><strong>Diversity:</strong> Tampa Bay's growth has created a surprisingly diverse cultural scene.</p>
+<p><strong>Aging in Place:</strong> When retirement comes, you're already in the perfect climate.</p>
+<h2>Common Concerns (And The Reality)</h2>
+<h3>"But What About Hurricanes?"</h3>
+<p><strong>The Truth:</strong> Since 1900, Tampa Bay has had fewer major hurricanes than Detroit has had major blizzards in the last 20 years. Modern building codes and early warning systems make this a manageable risk.</p>
+<p><strong>Smart Preparation:</strong></p>
+<ul>
+<li>Insurance covers wind damage</li>
+<li>Most "hurricane days" are just windy rainy days</li>
+<li>Evacuation routes are well-marked and tested</li>
+<li>Community preparedness is excellent</li>
+</ul>
+<h3>"Florida Man" Stereotypes</h3>
+<p><strong>The Reality:</strong> Tampa Bay has a highly educated population. The University of South Florida, major corporate headquarters, and influx of northern transplants create a sophisticated metro area.</p>
+<h3>"It's Too Hot in Summer"</h3>
+<p><strong>The Truth:</strong> July/August are hot (similar humidity to Detroit summers). But you have AC everywhere, pools everywhere, and beaches everywhere. Detroit summers are great for 3 months. Tampa Bay summers are manageable for 3 months.</p>
+<h3>Housing Market Concerns</h3>
+<p><strong>Appreciation:</strong> Tampa Bay real estate has outperformed national averages for 15+ years. Your investment grows while you live in paradise.</p>
+<p><strong>Insurance:</strong> Yes, it costs more. But consider what you save on heating, snow removal, and winter damage.</p>
+<h2>Making the Social Connection</h2>
+<h3>Finding Your Tribe</h3>
+<p><strong>Detroit Transplant Groups:</strong></p>
+<ul>
+<li><strong>Facebook:</strong> "Detroit Transplants Tampa Bay" (active community)</li>
+<li><strong>Meetup:</strong> Michigan in Florida groups</li>
+<li><strong>Sports Bars:</strong> Hattricks for Lions games, plenty of Tigers fans</li>
+</ul>
+<p><strong>Professional Networks:</strong></p>
+<ul>
+<li><strong>Tampa Bay Young Professionals</strong></li>
+<li><strong>Industry-specific groups</strong> (strong healthcare, tech, finance networks)</li>
+<li><strong>Volunteer opportunities</strong> (abundant year-round)</li>
+</ul>
+<p><strong>Neighborhood Integration:</strong></p>
+<ul>
+<li><strong>HOA events</strong> (most communities have active social calendars)</li>
+<li><strong>Beach cleanups and community events</strong></li>
+<li><strong>Local festivals</strong> (Gasparilla, Manatee Festival, dozens more)</li>
+</ul>
+<p>The Tampa Bay transplant community is massive and welcoming. You'll find Detroit connections everywhere, plus make new friends who chose paradise too.</p>
+<hr>
+<p><strong>Moving to Tampa Bay?</strong> Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.</p>
+<p><a href="https://nowtb.com">Contact Barrett →</a> | <a href="tel:8137337907">(813) 733-7907</a></p>
+<hr>
+<h2>Your Next Steps</h2>
+<p>Here's exactly what to do if this move makes sense for you:</p>
+<ol>
+<li><strong>Run the numbers</strong> using our <a href="/cost-of-living/">cost of living calculator</a> with your specific situation</li>
+<li><strong>Plan a house-hunting trip</strong> for January-March (perfect weather, clearer inventory picture)</li>
+<li><strong>Connect with a REALTOR who knows both markets</strong> and can guide Detroit-specific concerns</li>
+<li><strong>Start the mortgage pre-approval process</strong> (Florida lenders understand out-of-state buyers)</li>
+<li><strong>Research your target neighborhoods</strong> using local resources, not just Zillow</li>
+</ol>
+<p>The families I've helped make this move successfully all say the same thing: "We should have done this years ago." The combination of financial benefits, lifestyle upgrade, and year-round outdoor living creates a quality of life that's hard to match anywhere else.</p>
+<p>Tampa Bay isn't perfect — nowhere is. But for Detroit families ready for a change, it's pretty close to ideal. The winters alone make it worth the move. Everything else is just bonus.</p>
+<h2>Frequently Asked Questions</h2>
+<h3>How much money should I have saved before moving from Detroit to Tampa Bay?</h3>
+<p>Plan for $15,000-25,000 in moving expenses and transition costs. This covers moving company, temporary housing, utility deposits, and 2-3 months of expenses while you settle in. If you're buying immediately, ensure you have closing costs plus 6 months of payments saved.</p>
+<h3>Will my Michigan teaching/nursing license transfer to Florida?</h3>
+<p>Most professional licenses have reciprocity agreements. Teachers need to complete Florida's professional development requirements. Nurses can often transfer with minimal additional requirements. Healthcare professionals generally find easier pathways than in many other states.</p>
+<h3>What's the best time of year to move to Tampa Bay?</h3>
+<p>October through March offers the best weather for moving and house hunting. Avoid June-August (hottest weather and hurricane season) and December-February (peak snowbird season driving up temporary housing costs). Fall moves also align well with school calendars.</p>
+<h3>How do Tampa Bay property taxes compare to Detroit's?</h3>
+<p>Tampa Bay property taxes average 0.8-1.2% annually versus Detroit's 2.5-3.5%. On a $400,000 home, you'll pay about $4,000 annually here versus $12,000+ in Detroit. Plus, Florida's Homestead Exemption can reduce your taxable value by up to $50,000.</p>
+<h3>Can I find a job in Tampa Bay before moving from Detroit?</h3>
+<p>Absolutely. Tampa Bay's job market is strong in healthcare, finance, tech, and service industries. Many employers hire remotely first. LinkedIn, Indeed, and company websites are your best resources. Consider timing your move during your industry's busy hiring seasons.</p>
+<h3>What should I know about Florida homeowner's insurance?</h3>
+<p>Expect to pay $1,500-3,000 annually versus Michigan's $800-1,500. However, you'll save thousands on heating costs. Wind/hurricane coverage is standard. Flood insurance is separate and only required in flood zones. Shop around — rates vary significantly between companies.</p>
+<h3>Is Tampa Bay traffic worse than Detroit?</h3>
+<p>Tampa Bay has traffic congestion, but it's generally more manageable than Detroit's I-94/I-75 corridors. Rush hour is typically 7-9 AM and 4:30-6:30 PM. The difference: year-round motorcycle/convertible weather makes commuting more pleasant, and road salt damage isn't destroying your car.</p>
+<h3>How do I establish Florida residency for tax purposes?</h3>
+<p>File for Homestead Exemption by March 1st after purchasing. Get a Florida driver's license within 30 days of moving. Register to vote. Establish a local bank account. Keep documentation showing intent to make Florida your permanent home. Consult a tax professional for complex situations.</p>
+<h3>What's the real story on hurricanes in Tampa Bay?</h3>
+<p>Tampa Bay hasn't had a direct major hurricane hit since 1921. Modern building codes require hurricane-resistant construction. Most "hurricane events" result in power outages and minor damage. Insurance covers wind damage, and the community is well-prepared with evacuation routes and emergency management.</p>
+<h3>Should I rent or buy immediately after moving from Detroit?</h3>
+<p>If you're confident about the area and have stable employment, buying makes sense given Florida's homestead exemption and property appreciation. If you're unsure about neighborhoods or job stability, rent for 6-12 months first. Many Detroit transplants successfully buy immediately after a thorough house-hunting trip.</p>
+8:["slug","moving-from-detroit","d"]
+0:["SZLIdUDBKVit2TP_UqbYL",[[["",{"children":["blog",{"children":[["slug","moving-from-detroit","d"],{"children":["__PAGE__?{\"slug\":\"moving-from-detroit\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","moving-from-detroit","d"],{"children":["__PAGE__",{},[["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","section",null,{"className":"relative w-full h-[200px] md:h-[300px] overflow-hidden bg-brand-navy","children":[["$","$L3",null,{"src":"/images/blog/housing.jpg","alt":"Moving from Detroit to Tampa Bay — The Complete Relocation Guide","fill":true,"className":"object-cover","unoptimized":true,"priority":true}],["$","div",null,{"className":"absolute inset-0 bg-brand-navy/60"}],["$","div",null,{"className":"relative z-10 flex flex-col items-center justify-center h-full px-4 text-center","children":[["$","h1",null,{"className":"text-white text-3xl md:text-5xl font-display font-extrabold leading-tight max-w-4xl","children":"Moving from Detroit to Tampa Bay — The Complete Relocation Guide"}],"$undefined"]}]]}],["$","article",null,{"className":"max-w-4xl mx-auto px-4 py-10","children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://tbrelo.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://tbrelo.com/blog/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Moving from Detroit to Tampa Bay — The Complete Relocation Guide\",\"item\":\"https://tbrelo.com/blog/moving-from-detroit/\"}]}"}}],["$","nav",null,{"aria-label":"Breadcrumb","className":"text-sm text-brand-slate mb-6","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-1","children":[["$","li","/",{"className":"flex items-center gap-1","children":[false,["$","$L4",null,{"href":"/","className":"hover:text-brand-blue transition-colors","children":"Home"}]]}],["$","li","/blog/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","$L4",null,{"href":"/blog/","className":"hover:text-brand-blue transition-colors","children":"Blog"}]]}],["$","li","/blog/moving-from-detroit/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","span",null,{"className":"text-brand-navy font-medium","children":"Moving from Detroit to Tampa Bay — The Complete Relocation Guide"}]]}]]}]}]],["$","p",null,{"className":"text-brand-slate text-sm mb-8","children":["Published ","July 6, 2024"]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$5"}}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"cta-box-primary","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-white","children":"Moving to Tampa Bay? Get a Local Expert."}],["$","p",null,{"className":"text-sm mb-4 text-white","children":"Barrett Henry is a Broker Associate with REMAX Collective and over 23 years of real estate experience. Straight talk, smart strategy, no pressure."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-blue text-white hover:bg-blue-600","children":["Contact Barrett"," →"]}],["$","a",null,{"href":"tel:8137337907","className":"text-sm text-white","children":"(813) 733-7907"}]]}]]}],["$","div",null,{"className":"cta-box","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-brand-navy","children":"Need Help Setting Up Your New Home?"}],["$","p",null,{"className":"text-sm mb-4 text-brand-slate","children":"Best Bay Services handles handyman work, home repairs, and maintenance for your new Tampa Bay home. Local, licensed, and trusted."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-navy text-white hover:bg-brand-dark","children":["Get a Quote"," →"]}],["$","a",null,{"href":"tel:8134168676","className":"text-sm text-brand-blue","children":"(813) 416-8676"}]]}]]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","$L6",null,{"blogSlug":"moving-from-detroit"}]]}]],null],null],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$8","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/db2729ad4a9f0783.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link",null,{"rel":"icon","href":"/favicon-32.png","type":"image/png","sizes":"32x32"}],["$","link",null,{"rel":"icon","href":"/favicon-16.png","type":"image/png","sizes":"16x16"}],["$","link",null,{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link",null,{"rel":"icon","href":"/icon-192.png","type":"image/png","sizes":"192x192"}],["$","meta",null,{"name":"google-adsense-account","content":"ca-pub-2033173419526042"}],["$","meta",null,{"name":"impact-site-verification","content":"bb623f40-9653-4312-9ca8-bf35b957a10c"}],["$","$La",null,{"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2033173419526042","strategy":"afterInteractive","crossOrigin":"anonymous"}],["$","$La",null,{"src":"https://www.googletagmanager.com/gtag/js?id=G-TD87S02SLM","strategy":"afterInteractive"}],["$","$La",null,{"id":"gtag-init","strategy":"afterInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'G-TD87S02SLM');\n          "}]]}],["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"[{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"https://tbrelo.com/#website\",\"name\":\"TB Relo — Tampa Bay Relocation Guide\",\"url\":\"https://tbrelo.com\",\"description\":\"Comprehensive relocation guides for Tampa Bay, Florida. Covering 8 counties, 100+ cities, cost of living, schools, and everything you need to know about moving to Tampa Bay.\",\"publisher\":{\"@id\":\"https://tbrelo.com/#org\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://tbrelo.com/blog/?q={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}},{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://tbrelo.com/#org\",\"name\":\"TB Relo\",\"url\":\"https://tbrelo.com\",\"sameAs\":[\"https://nowtb.com\",\"https://valricoagent.com\",\"https://parrishagent.com\",\"https://www.facebook.com/BarrettHenryREALTOR/\",\"https://www.instagram.com/thenowteam\",\"https://www.youtube.com/@nowtampa\"]}]"}}],["$","$Lb",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"max-w-2xl mx-auto px-4 py-20 text-center","children":[["$","h1",null,{"className":"text-6xl font-display font-extrabold text-brand-navy mb-4","children":"404"}],["$","p",null,{"className":"text-xl text-brand-slate mb-8","children":"This page doesn't exist. Maybe you're looking for one of these?"}],["$","div",null,{"className":"grid sm:grid-cols-2 gap-4 mb-12 text-left","children":[["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Moving Guide"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Complete guide to relocating to Tampa Bay"}]]}],["$","$L4",null,{"href":"/counties/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Explore Counties"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Browse all 8 Tampa Bay counties"}]]}],["$","$L4",null,{"href":"/cities/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Find a City"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"90+ city and neighborhood guides"}]]}],["$","$L4",null,{"href":"/blog/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Blog"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Tips, comparisons, and local insights"}]]}]]}],["$","$L4",null,{"href":"/","className":"px-8 py-4 bg-brand-blue text-white font-display font-bold rounded-lg hover:bg-blue-600 transition-colors text-lg inline-block","children":"Back to Home"}]]}],"notFoundStyles":[]}]}],["$","footer",null,{"className":"bg-brand-dark text-gray-400","children":[["$","div",null,{"className":"bg-brand-navy","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10","children":["$","div",null,{"className":"grid md:grid-cols-3 gap-8 text-center","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Buying or Selling a Home?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Barrett Henry — The NOW Team at REMAX Collective"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 733-7907"}]]}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Need a Handyman?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Best Bay Services — Tampa Bay Home Services"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 416-8676"}]]}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Property Management"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"ViVi PM — Full-Service Property Management"}]]}]]}]}]}],["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8","children":[["$","div",null,{"className":"md:col-span-2","children":[["$","div",null,{"className":"font-display font-extrabold text-2xl text-white mb-3","children":["TB",["$","span",null,{"className":"text-brand-sky","children":"Relo"}]]}],["$","p",null,{"className":"text-sm leading-relaxed","children":"Your complete guide to relocating to Tampa Bay, Florida. Covering Hillsborough, Pinellas, Pasco, Hernando, Polk, Manatee, Sarasota, and Citrus counties with honest, local insight from someone who actually lives here."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Guides"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"hover:text-white transition-colors","children":"Moving to Tampa Bay"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/cost-of-living/","className":"hover:text-white transition-colors","children":"Cost of Living"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/moving-checklist/","className":"hover:text-white transition-colors","children":"Moving Checklist"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/blog/","className":"hover:text-white transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Counties"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li","Hillsborough",{"children":["$","$L4",null,{"href":"/counties/hillsborough/","className":"hover:text-white transition-colors","children":["Hillsborough"," County"]}]}],["$","li","Pinellas",{"children":["$","$L4",null,{"href":"/counties/pinellas/","className":"hover:text-white transition-colors","children":["Pinellas"," County"]}]}],["$","li","Pasco",{"children":["$","$L4",null,{"href":"/counties/pasco/","className":"hover:text-white transition-colors","children":["Pasco"," County"]}]}],["$","li","Hernando",{"children":["$","$L4",null,{"href":"/counties/hernando/","className":"hover:text-white transition-colors","children":["Hernando"," County"]}]}],["$","li","Polk",{"children":["$","$L4",null,{"href":"/counties/polk/","className":"hover:text-white transition-colors","children":["Polk"," County"]}]}],["$","li","Manatee",{"children":["$","$L4",null,{"href":"/counties/manatee/","className":"hover:text-white transition-colors","children":["Manatee"," County"]}]}],["$","li","Sarasota",{"children":["$","$L4",null,{"href":"/counties/sarasota/","className":"hover:text-white transition-colors","children":["Sarasota"," County"]}]}],["$","li","Citrus",{"children":["$","$L4",null,{"href":"/counties/citrus/","className":"hover:text-white transition-colors","children":["Citrus"," County"]}]}]]}]]}]]}],["$","div",null,{"className":"mt-10 pt-8 border-t border-gray-800","children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Barrett Henry's Network"}],["$","div",null,{"className":"grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3 text-sm","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Tampa Bay Real Estate"}],["$","a",null,{"href":"https://valricoagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Real Estate"}],["$","a",null,{"href":"https://parrishagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Parrish Real Estate"}],["$","a",null,{"href":"https://valrico.blog","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Community Blog"}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Handyman & Home Services"}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Property Management"}]]}]]}],["$","div",null,{"className":"mt-12 pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center gap-4 text-xs","children":[["$","p",null,{"children":["© ",2026," TB Relo. All rights reserved."]}],["$","div",null,{"className":"flex gap-4","children":[["$","$L4",null,{"href":"/affiliate-disclosure/","className":"hover:text-white transition-colors","children":"Affiliate Disclosure"}],["$","$L4",null,{"href":"/privacy-policy/","className":"hover:text-white transition-colors","children":"Privacy Policy"}],["$","$L4",null,{"href":"/disclaimer/","className":"hover:text-white transition-colors","children":"Disclaimer"}]]}]]}]]}],["$","div",null,{"className":"bg-black/30 border-t border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 text-center text-xs text-gray-500","children":["Site by"," ",["$","a",null,{"href":"https://vyrabyte.com","target":"_blank","rel":"noopener noreferrer","className":"text-gray-400 hover:text-white transition-colors","children":"Vyrabyte"}]]}]}]]}],["$","$Lc",null,{}]]}]]}]],null],null],["$Ld",null]]]]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Moving from Detroit to Tampa Bay — The Complete Relocation Guide | TB Relo | TB Relo"}],["$","meta","3",{"name":"description","content":"Moving from Detroit to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","6",{"property":"og:title","content":"Moving from Detroit to Tampa Bay — The Complete Relocation Guide | TB Relo | TB Relo"}],["$","meta","7",{"property":"og:description","content":"Moving from Detroit to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","8",{"property":"og:image","content":"https://tbrelo.com/images/blog/housing.jpg"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"Moving from Detroit to Tampa Bay — The Complete Relocation Guide | TB Relo | TB Relo"}],["$","meta","13",{"name":"twitter:description","content":"Moving from Detroit to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","14",{"name":"twitter:image","content":"https://tbrelo.com/images/blog/housing.jpg"}],["$","link","15",{"rel":"icon","href":"/icon.svg?ff4364d89c37c0d6","type":"image/svg+xml","sizes":"any"}]]
+1:null

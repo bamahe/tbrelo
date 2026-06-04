@@ -6,7 +6,7 @@ export const siteConfig = {
   name: 'TB Relo',
   tagline: 'Your Complete Guide to Moving to Tampa Bay',
   url: 'https://tbrelo.com',
-  description: 'Comprehensive relocation guides for Tampa Bay, Florida. Covering 8 counties, 100+ cities, cost of living, moving logistics, neighborhoods, schools, and everything you need to know about moving to the Tampa Bay area.',
+  description: 'Tampa Bay relocation guides covering 8 counties, 100+ cities, cost of living, neighborhoods, schools, and everything you need for your move to Florida.',
   
   // Barrett's contact info (for CTAs)
   contact: {

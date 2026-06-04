@@ -1,0 +1,232 @@
+3:I[5878,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"Image"]
+4:I[2972,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],""]
+6:I[5143,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"default"]
+7:I[4707,[],""]
+9:I[6423,[],""]
+a:I[8003,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],""]
+b:I[7312,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"default"]
+c:I[5463,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"SpeedInsights"]
+2:Tcb9,[{"@context":"https://schema.org","@type":"Article","headline":"St. Pete-Clearwater Airport — The Local Secret | TB Relo","description":"St. Pete-Clearwater Airport. Honest guide from a Tampa Bay local with 23+ years of experience.","url":"https://tbrelo.com/blog/st-pete-clearwater-airport-guide/","author":{"@type":"Person","name":"Barrett Henry","jobTitle":"REALTOR® & Broker Associate","url":"https://nowtb.com","worksFor":{"@type":"Organization","name":"REMAX Collective"},"knowsAbout":["Tampa Bay Real Estate","Florida Relocation","Residential Real Estate","Investment Property","Property Management"]},"publisher":{"@type":"Organization","name":"TB Relo","url":"https://tbrelo.com"},"datePublished":"2026-02-05T08:00:00-04:00","dateModified":"2026-04-16T08:00:00-04:00","image":{"@type":"ImageObject","url":"https://tbrelo.com/images/blog/housing.jpg"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Is St. Pete-Clearwater Airport really cheaper than Tampa International?","acceptedAnswer":{"@type":"Answer","text":"Yes, PIE consistently offers lower base fares, often $50-200 less than TPA for the same destinations. However, factor in Allegiant's additional fees for bags, seats, and other services when comparing total costs. The savings are real but require smart packing and realistic expectations about service levels."}},{"@type":"Question","name":"How long does it take to get through security at PIE?","acceptedAnswer":{"@type":"Answer","text":"Security at PIE typically takes 5-15 minutes during normal operations, compared to 30-60 minutes at TPA during peak times. The smaller terminal and fewer passengers create a much more relaxed experience, though you should still arrive 90 minutes early for buffer time."}},{"@type":"Question","name":"What happens if my Allegiant flight gets cancelled at PIE?","acceptedAnswer":{"@type":"Answer","text":"This is PIE's biggest weakness. With limited flight frequency, a cancelled Tuesday flight might not have a replacement until Thursday or Friday. Allegiant provides hotel vouchers for weather delays but rebooking options are limited compared to major airlines at TPA."}},{"@type":"Question","name":"Can I get to PIE using public transportation?","acceptedAnswer":{"@type":"Answer","text":"Public transit to PIE is extremely limited. PSTA bus service exists but requires multiple transfers and takes 60+ minutes from most locations. The airport is really designed for car access, with rental cars and rideshares being the most practical alternatives to driving yourself."}},{"@type":"Question","name":"Does PIE have TSA PreCheck and Clear?","acceptedAnswer":{"@type":"Answer","text":"PIE offers TSA PreCheck but does not currently have Clear service. Given the shorter security lines, Clear wouldn't provide the same time savings it offers at busier airports like TPA anyway."}},{"@type":"Question","name":"What rental car companies operate at PIE?","acceptedAnswer":{"@type":"Answer","text":"PIE hosts Hertz, Enterprise, Avis, and Budget rental car counters directly in the terminal. Rates are competitive with other Tampa Bay locations, and the pickup process is much faster than at TPA due to shorter lines and closer parking locations."}}]}]5:T39db,<p>Let me tell you about Tampa Bay's best-kept aviation secret: St. Pete-Clearwater International Airport (PIE). While everyone fights traffic to get to Tampa International, smart locals are quietly saving hundreds of dollars and skipping the crowds at this smaller, more convenient option.</p>
+<p>After 23 years of helping families relocate here, I've watched PIE transform from a sleepy regional airport into a legitimate alternative that can save you serious money and time. But like most local secrets, it comes with trade-offs you need to understand.</p>
+<h2>Why PIE Beats Tampa International for Many Travelers</h2>
+<h3>The Numbers Don't Lie</h3>
+<p>PIE consistently offers flights that cost $50-200 less than the same routes from Tampa International (TPA). I've seen clients book round-trip flights to Chicago for $89 on Allegiant when the same dates were $289 on Southwest from TPA.</p>
+<p>The airport handles about 2 million passengers annually compared to TPA's 25 million. Translation? You're walking through security in 10 minutes instead of standing in line for 45 minutes during peak times.</p>
+<h3>Location Advantages</h3>
+<p>PIE sits perfectly positioned for anyone living in:</p>
+<ul>
+<li><strong>Pinellas County</strong> — 15-20 minutes from most locations</li>
+<li><strong>Western Hillsborough</strong> — Often faster than driving to TPA</li>
+<li><strong>Pasco County coastal areas</strong> — 20-30 minutes vs. 60+ to TPA</li>
+<li><strong>Hernando County</strong> — Surprisingly convenient via US-19</li>
+</ul>
+<p>If you're in <a href="/cities/clearwater/">Clearwater</a>, <a href="/cities/st-petersburg/">St. Petersburg</a>, or <a href="/cities/largo/">Largo</a>, PIE is your obvious choice. But even from <a href="/cities/tampa/">Tampa</a>, the drive can be quicker depending on your location and the time of day.</p>
+<h3>Parking That Won't Break the Bank</h3>
+<p>Economy parking runs $6 per day compared to TPA's $12. Premium covered parking is $9 daily. The walk from any parking spot to the terminal is under 5 minutes — no shuttle buses required.</p>
+<h2>The Airlines and Routes Reality Check</h2>
+<h3>Allegiant Dominates (And That's the Point)</h3>
+<p>Allegiant Air operates about 80% of PIE's flights, which creates both opportunities and limitations:</p>
+<p><strong>The Good:</strong></p>
+<ul>
+<li>Ultra-low base fares to 60+ destinations</li>
+<li>Direct flights to vacation spots TPA doesn't serve</li>
+<li>Less crowded planes</li>
+<li>Often the only nonstop option to smaller cities</li>
+</ul>
+<p><strong>The Reality:</strong></p>
+<ul>
+<li>Limited schedule flexibility (many routes fly 2-3 times per week)</li>
+<li>Extra fees for everything (carry-ons, seat selection, snacks)</li>
+<li>Older planes with tighter seats</li>
+<li>Weather delays can create bigger problems with fewer backup options</li>
+</ul>
+<h3>Other Airlines at PIE</h3>
+<p><strong>Sun Country Airlines</strong> serves Minneapolis and several seasonal destinations with slightly more traditional service.</p>
+<p><strong>Avelo Airlines</strong> recently added routes to the Northeast, offering another low-cost option.</p>
+<p><strong>Chartered and seasonal carriers</strong> pop up regularly, especially during snowbird season.</p>
+<h2>When PIE Makes Perfect Sense</h2>
+<h3>Business Trips to Allegiant Cities</h3>
+<p>Flying to Las Vegas, Phoenix, Indianapolis, or Grand Rapids for work? PIE often offers the only nonstop service, saving you connection time and potential delays.</p>
+<h3>Vacation Travel</h3>
+<p>PIE excels for leisure trips where schedule flexibility isn't crucial:</p>
+<ul>
+<li><strong>Las Vegas</strong>: Multiple daily flights, often $99 round-trip</li>
+<li><strong>Asheville, NC</strong>: Direct access to the Blue Ridge Mountains</li>
+<li><strong>Myrtle Beach</strong>: Beach vacation without connecting flights</li>
+<li><strong>Key West</strong>: Skip the drive down US-1</li>
+</ul>
+<h3>Snowbird Travel</h3>
+<p>Northern retirees living in Tampa Bay love PIE for returning home. Direct flights to cities like:</p>
+<ul>
+<li>Grand Rapids, Michigan</li>
+<li>Peoria, Illinois</li>
+<li>Fargo, North Dakota</li>
+<li>Bismarck, North Dakota</li>
+</ul>
+<p>These routes rarely exist from major airports.</p>
+<h3>When You Live on the Right Side of the Bay</h3>
+<p>Anyone west of the <a href="/traffic-guide/">Howard Frankland Bridge</a> should seriously consider PIE first. The time savings alone often justify any minor fare difference.</p>
+<h2>When to Skip PIE</h2>
+<h3>Time-Sensitive Business Travel</h3>
+<p>If your meeting absolutely cannot be moved and weather's threatening, book through TPA. Allegiant's limited schedule means a cancelled Tuesday flight might not have a replacement until Thursday.</p>
+<h3>International Connections</h3>
+<p>PIE has zero international service. You'll connect through larger airports anyway, so start at TPA for better connection options.</p>
+<h3>Last-Minute Travel</h3>
+<p>Allegiant's advance-purchase model means last-minute fares can exceed TPA prices significantly.</p>
+<h3>Premium Cabin Requirements</h3>
+<p>No first-class service at PIE. If you need lie-flat seats for long flights, you're looking at connections anyway.</p>
+<h2>The Real Cost Breakdown</h2>
+<h3>Base Fare Comparison (Sample Routes, 2024)</h3>
+<p><strong>Chicago (Midway)</strong></p>
+<ul>
+<li>PIE/Allegiant: $89-149 round-trip</li>
+<li>TPA/Southwest: $189-289 round-trip</li>
+</ul>
+<p><strong>Las Vegas</strong></p>
+<ul>
+<li>PIE/Allegiant: $99-179 round-trip</li>
+<li>TPA/Southwest: $229-349 round-trip</li>
+</ul>
+<p><strong>Phoenix</strong></p>
+<ul>
+<li>PIE/Allegiant: $109-189 round-trip</li>
+<li>TPA/American: $279-429 round-trip</li>
+</ul>
+<h3>Hidden Costs to Consider</h3>
+<p><strong>Allegiant's À La Carte Pricing:</strong></p>
+<ul>
+<li>Carry-on bag: $35-75 each way</li>
+<li>Checked bag: $30-50 each way</li>
+<li>Seat selection: $5-40 each way</li>
+<li>Priority boarding: $9-19 each way</li>
+</ul>
+<p><strong>Factor in these costs</strong> when comparing total trip expenses. A $89 base fare can become $200+ with bags and seats.</p>
+<p><strong>TPA Premium Services:</strong></p>
+<ul>
+<li>TSA PreCheck lanes</li>
+<li>More dining options</li>
+<li>Better weather delay accommodations</li>
+<li>Frequent flyer program benefits</li>
+</ul>
+<h2>Getting to PIE: Your Route Options</h2>
+<h3>From Tampa</h3>
+<p><strong>Fastest Route</strong>: Gandy Bridge to 4th Street N to Roosevelt Boulevard — 25-35 minutes depending on traffic</p>
+<p><strong>Alternative</strong>: Howard Frankland to I-275 to Roosevelt Boulevard — 30-40 minutes but more predictable</p>
+<h3>From St. Petersburg</h3>
+<p><strong>Direct</strong>: 4th Street N to Roosevelt Boulevard — 15-20 minutes</p>
+<p><strong>Scenic</strong>: Gandy Boulevard (avoid during rush hour) — 20-25 minutes</p>
+<h3>From Clearwater</h3>
+<p><strong>Fastest</strong>: Gulf-to-Bay Boulevard to US-19 to Roosevelt Boulevard — 15-20 minutes</p>
+<p><strong>Alternative</strong>: Ulmerton Road eastbound — similar timing but heavier traffic</p>
+<h3>From North Tampa/Wesley Chapel</h3>
+<p><strong>Most Direct</strong>: I-275 to Roosevelt Boulevard — 35-45 minutes</p>
+<p><strong>Rush Hour Alternative</strong>: Dale Mabry to Gandy to 4th Street — potentially faster during peak times</p>
+<h3>Parking Pro Tips</h3>
+<p><strong>Economy Lot</strong>: Walk from any spot takes under 5 minutes. No shuttles, no stress.</p>
+<p><strong>Premium Parking</strong>: Worth the $3 upgrade for covered spaces near the terminal.</p>
+<p><strong>Off-Site Options</strong>: Several private lots offer $4-5 daily rates with shuttle service, but the convenience factor diminishes.</p>
+<h2>PIE's Terminal: What to Expect</h2>
+<h3>Size and Layout</h3>
+<p>The terminal is refreshingly simple — one level, easy navigation, impossible to get lost. You can see your gate from the security checkpoint.</p>
+<h3>Dining and Shopping</h3>
+<p>Don't expect TPA's variety. Options include:</p>
+<ul>
+<li><strong>Grille Works</strong>: Decent airport restaurant with local favorites</li>
+<li><strong>News &#x26; Gifts</strong>: Standard airport retail</li>
+<li><strong>Subway</strong>: Quick grab-and-go option</li>
+<li><strong>Starbucks</strong>: Your caffeine fix</li>
+</ul>
+<h3>Amenities</h3>
+<ul>
+<li>Free WiFi throughout</li>
+<li>Charging stations at every gate</li>
+<li>Clean, modern restrooms</li>
+<li>Nursing mothers' room</li>
+<li>Pet relief area</li>
+<li>Rental car counters (Hertz, Enterprise, Avis)</li>
+</ul>
+<h2>Seasonal Considerations</h2>
+<h3>Winter (Peak Season)</h3>
+<p>November through April brings:</p>
+<ul>
+<li>Higher fares on popular routes</li>
+<li>More flight options to northern cities</li>
+<li>Busier terminal (but still manageable)</li>
+<li>Better on-time performance</li>
+</ul>
+<h3>Summer (Value Season)</h3>
+<p>May through October offers:</p>
+<ul>
+<li>Rock-bottom fares to many destinations</li>
+<li>Reduced flight frequency</li>
+<li>More weather-related delays</li>
+<li>Nearly empty terminal</li>
+</ul>
+<h3>Hurricane Season Reality</h3>
+<p>PIE shuts down faster than TPA during storm threats due to limited aircraft rotation. Plan accordingly if traveling during hurricane season.</p>
+<h2>Insider Tips from 23 Years of Local Experience</h2>
+<h3>Booking Strategy</h3>
+<p><strong>Book Early</strong>: Allegiant's lowest fares disappear quickly. 6-8 weeks advance booking usually nets the best deals.</p>
+<p><strong>Tuesday/Wednesday Travel</strong>: Midweek flights cost significantly less and face fewer delays.</p>
+<p><strong>Avoid Holiday Weekends</strong>: PIE's limited schedule creates bottlenecks during peak travel times.</p>
+<h3>Airport Day Strategy</h3>
+<p><strong>Arrive 90 Minutes Early</strong>: Even though security moves fast, give yourself buffer time for parking and check-in.</p>
+<p><strong>Pack Light</strong>: Allegiant's baggage fees add up quickly. Master the personal item game.</p>
+<p><strong>Bring Snacks</strong>: Food options are limited and overpriced.</p>
+<p><strong>Download Entertainment</strong>: Free WiFi is decent, but bring offline options for the flight.</p>
+<h3>Weather Backup Plans</h3>
+<p>Always have a Plan B during summer thunderstorm season. Allegiant's limited rebooking options can strand you for days.</p>
+<hr>
+<p><strong>Moving to Tampa Bay?</strong> Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.</p>
+<p><a href="https://nowtb.com">Contact Barrett →</a> | <a href="tel:8137337907">(813) 733-7907</a></p>
+<hr>
+<h2>PIE vs. TPA: The Final Verdict</h2>
+<h3>Choose PIE When:</h3>
+<ul>
+<li>You live in Pinellas County or western Hillsborough</li>
+<li>Price matters more than schedule flexibility</li>
+<li>You're traveling to an Allegiant destination</li>
+<li>You hate crowded airports</li>
+<li>Your trip dates are flexible</li>
+</ul>
+<h3>Choose TPA When:</h3>
+<ul>
+<li>You need schedule flexibility</li>
+<li>You're traveling internationally</li>
+<li>You require premium cabin service</li>
+<li>Weather might affect your plans</li>
+<li>You value extensive dining/shopping options</li>
+</ul>
+<h3>The Sweet Spot</h3>
+<p>Many Tampa Bay residents use PIE for leisure travel and TPA for business trips. It's not an either/or decision — it's about matching the right airport to the right trip.</p>
+<h2>Future of PIE</h2>
+<p>The airport continues expanding, with new airlines expressing interest and additional routes launching regularly. However, it will likely remain a low-cost, leisure-focused operation rather than challenging TPA as the region's primary hub.</p>
+<p><strong>Recent developments include:</strong></p>
+<ul>
+<li>Terminal expansion completed in 2023</li>
+<li>Additional parking added</li>
+<li>New airline partnerships in negotiation</li>
+<li>Improved ground transportation options</li>
+</ul>
+<h2>Making PIE Work for Your Tampa Bay Lifestyle</h2>
+<p>If you're relocating to Tampa Bay, factor PIE into your housing decision. Living in <a href="/cities/seminole/">Seminole</a>, <a href="/cities/indian-rocks-beach/">Indian Rocks Beach</a>, or even <a href="/cities/safety-harbor/">Safety Harbor</a> suddenly makes more sense when you consider PIE access for vacation travel.</p>
+<p>The airport represents something many relocating families value: choice. You're not locked into one expensive, crowded airport. You have options that can save money and stress.</p>
+<p><strong>Bottom line</strong>: PIE isn't perfect, but it's perfectly suited for specific travel needs. Learn to use it strategically, and you'll wonder why more people haven't discovered Tampa Bay's best-kept aviation secret.</p>
+<p>For current flight schedules and pricing, check the airport's website or your preferred booking platform. Routes and airlines change seasonally, so always verify before planning trips around PIE availability.</p>
+<h2>Frequently Asked Questions</h2>
+<h3>Is St. Pete-Clearwater Airport really cheaper than Tampa International?</h3>
+<p>Yes, PIE consistently offers lower base fares, often $50-200 less than TPA for the same destinations. However, factor in Allegiant's additional fees for bags, seats, and other services when comparing total costs. The savings are real but require smart packing and realistic expectations about service levels.</p>
+<h3>How long does it take to get through security at PIE?</h3>
+<p>Security at PIE typically takes 5-15 minutes during normal operations, compared to 30-60 minutes at TPA during peak times. The smaller terminal and fewer passengers create a much more relaxed experience, though you should still arrive 90 minutes early for buffer time.</p>
+<h3>What happens if my Allegiant flight gets cancelled at PIE?</h3>
+<p>This is PIE's biggest weakness. With limited flight frequency, a cancelled Tuesday flight might not have a replacement until Thursday or Friday. Allegiant provides hotel vouchers for weather delays but rebooking options are limited compared to major airlines at TPA.</p>
+<h3>Can I get to PIE using public transportation?</h3>
+<p>Public transit to PIE is extremely limited. PSTA bus service exists but requires multiple transfers and takes 60+ minutes from most locations. The airport is really designed for car access, with rental cars and rideshares being the most practical alternatives to driving yourself.</p>
+<h3>Does PIE have TSA PreCheck and Clear?</h3>
+<p>PIE offers TSA PreCheck but does not currently have Clear service. Given the shorter security lines, Clear wouldn't provide the same time savings it offers at busier airports like TPA anyway.</p>
+<h3>What rental car companies operate at PIE?</h3>
+<p>PIE hosts Hertz, Enterprise, Avis, and Budget rental car counters directly in the terminal. Rates are competitive with other Tampa Bay locations, and the pickup process is much faster than at TPA due to shorter lines and closer parking locations.</p>
+8:["slug","st-pete-clearwater-airport-guide","d"]
+0:["SZLIdUDBKVit2TP_UqbYL",[[["",{"children":["blog",{"children":[["slug","st-pete-clearwater-airport-guide","d"],{"children":["__PAGE__?{\"slug\":\"st-pete-clearwater-airport-guide\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","st-pete-clearwater-airport-guide","d"],{"children":["__PAGE__",{},[["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","section",null,{"className":"relative w-full h-[200px] md:h-[300px] overflow-hidden bg-brand-navy","children":[["$","$L3",null,{"src":"/images/blog/housing.jpg","alt":"St. Pete-Clearwater Airport — The Local Secret","fill":true,"className":"object-cover","unoptimized":true,"priority":true}],["$","div",null,{"className":"absolute inset-0 bg-brand-navy/60"}],["$","div",null,{"className":"relative z-10 flex flex-col items-center justify-center h-full px-4 text-center","children":[["$","h1",null,{"className":"text-white text-3xl md:text-5xl font-display font-extrabold leading-tight max-w-4xl","children":"St. Pete-Clearwater Airport — The Local Secret"}],"$undefined"]}]]}],["$","article",null,{"className":"max-w-4xl mx-auto px-4 py-10","children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://tbrelo.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://tbrelo.com/blog/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"St. Pete-Clearwater Airport — The Local Secret\",\"item\":\"https://tbrelo.com/blog/st-pete-clearwater-airport-guide/\"}]}"}}],["$","nav",null,{"aria-label":"Breadcrumb","className":"text-sm text-brand-slate mb-6","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-1","children":[["$","li","/",{"className":"flex items-center gap-1","children":[false,["$","$L4",null,{"href":"/","className":"hover:text-brand-blue transition-colors","children":"Home"}]]}],["$","li","/blog/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","$L4",null,{"href":"/blog/","className":"hover:text-brand-blue transition-colors","children":"Blog"}]]}],["$","li","/blog/st-pete-clearwater-airport-guide/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","span",null,{"className":"text-brand-navy font-medium","children":"St. Pete-Clearwater Airport — The Local Secret"}]]}]]}]}]],["$","p",null,{"className":"text-brand-slate text-sm mb-8","children":["Published ","February 5, 2026"]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$5"}}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"cta-box-primary","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-white","children":"Moving to Tampa Bay? Get a Local Expert."}],["$","p",null,{"className":"text-sm mb-4 text-white","children":"Barrett Henry is a Broker Associate with REMAX Collective and over 23 years of real estate experience. Straight talk, smart strategy, no pressure."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-blue text-white hover:bg-blue-600","children":["Contact Barrett"," →"]}],["$","a",null,{"href":"tel:8137337907","className":"text-sm text-white","children":"(813) 733-7907"}]]}]]}],["$","div",null,{"className":"cta-box","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-brand-navy","children":"Need Help Setting Up Your New Home?"}],["$","p",null,{"className":"text-sm mb-4 text-brand-slate","children":"Best Bay Services handles handyman work, home repairs, and maintenance for your new Tampa Bay home. Local, licensed, and trusted."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-navy text-white hover:bg-brand-dark","children":["Get a Quote"," →"]}],["$","a",null,{"href":"tel:8134168676","className":"text-sm text-brand-blue","children":"(813) 416-8676"}]]}]]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","$L6",null,{"blogSlug":"st-pete-clearwater-airport-guide"}]]}]],null],null],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$8","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/db2729ad4a9f0783.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link",null,{"rel":"icon","href":"/favicon-32.png","type":"image/png","sizes":"32x32"}],["$","link",null,{"rel":"icon","href":"/favicon-16.png","type":"image/png","sizes":"16x16"}],["$","link",null,{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link",null,{"rel":"icon","href":"/icon-192.png","type":"image/png","sizes":"192x192"}],["$","meta",null,{"name":"google-adsense-account","content":"ca-pub-2033173419526042"}],["$","meta",null,{"name":"impact-site-verification","content":"bb623f40-9653-4312-9ca8-bf35b957a10c"}],["$","$La",null,{"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2033173419526042","strategy":"afterInteractive","crossOrigin":"anonymous"}],["$","$La",null,{"src":"https://www.googletagmanager.com/gtag/js?id=G-TD87S02SLM","strategy":"afterInteractive"}],["$","$La",null,{"id":"gtag-init","strategy":"afterInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'G-TD87S02SLM');\n          "}]]}],["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"[{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"https://tbrelo.com/#website\",\"name\":\"TB Relo — Tampa Bay Relocation Guide\",\"url\":\"https://tbrelo.com\",\"description\":\"Comprehensive relocation guides for Tampa Bay, Florida. Covering 8 counties, 100+ cities, cost of living, schools, and everything you need to know about moving to Tampa Bay.\",\"publisher\":{\"@id\":\"https://tbrelo.com/#org\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://tbrelo.com/blog/?q={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}},{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://tbrelo.com/#org\",\"name\":\"TB Relo\",\"url\":\"https://tbrelo.com\",\"sameAs\":[\"https://nowtb.com\",\"https://valricoagent.com\",\"https://parrishagent.com\",\"https://www.facebook.com/BarrettHenryREALTOR/\",\"https://www.instagram.com/thenowteam\",\"https://www.youtube.com/@nowtampa\"]}]"}}],["$","$Lb",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"max-w-2xl mx-auto px-4 py-20 text-center","children":[["$","h1",null,{"className":"text-6xl font-display font-extrabold text-brand-navy mb-4","children":"404"}],["$","p",null,{"className":"text-xl text-brand-slate mb-8","children":"This page doesn't exist. Maybe you're looking for one of these?"}],["$","div",null,{"className":"grid sm:grid-cols-2 gap-4 mb-12 text-left","children":[["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Moving Guide"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Complete guide to relocating to Tampa Bay"}]]}],["$","$L4",null,{"href":"/counties/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Explore Counties"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Browse all 8 Tampa Bay counties"}]]}],["$","$L4",null,{"href":"/cities/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Find a City"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"90+ city and neighborhood guides"}]]}],["$","$L4",null,{"href":"/blog/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Blog"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Tips, comparisons, and local insights"}]]}]]}],["$","$L4",null,{"href":"/","className":"px-8 py-4 bg-brand-blue text-white font-display font-bold rounded-lg hover:bg-blue-600 transition-colors text-lg inline-block","children":"Back to Home"}]]}],"notFoundStyles":[]}]}],["$","footer",null,{"className":"bg-brand-dark text-gray-400","children":[["$","div",null,{"className":"bg-brand-navy","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10","children":["$","div",null,{"className":"grid md:grid-cols-3 gap-8 text-center","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Buying or Selling a Home?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Barrett Henry — The NOW Team at REMAX Collective"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 733-7907"}]]}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Need a Handyman?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Best Bay Services — Tampa Bay Home Services"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 416-8676"}]]}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Property Management"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"ViVi PM — Full-Service Property Management"}]]}]]}]}]}],["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8","children":[["$","div",null,{"className":"md:col-span-2","children":[["$","div",null,{"className":"font-display font-extrabold text-2xl text-white mb-3","children":["TB",["$","span",null,{"className":"text-brand-sky","children":"Relo"}]]}],["$","p",null,{"className":"text-sm leading-relaxed","children":"Your complete guide to relocating to Tampa Bay, Florida. Covering Hillsborough, Pinellas, Pasco, Hernando, Polk, Manatee, Sarasota, and Citrus counties with honest, local insight from someone who actually lives here."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Guides"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"hover:text-white transition-colors","children":"Moving to Tampa Bay"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/cost-of-living/","className":"hover:text-white transition-colors","children":"Cost of Living"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/moving-checklist/","className":"hover:text-white transition-colors","children":"Moving Checklist"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/blog/","className":"hover:text-white transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Counties"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li","Hillsborough",{"children":["$","$L4",null,{"href":"/counties/hillsborough/","className":"hover:text-white transition-colors","children":["Hillsborough"," County"]}]}],["$","li","Pinellas",{"children":["$","$L4",null,{"href":"/counties/pinellas/","className":"hover:text-white transition-colors","children":["Pinellas"," County"]}]}],["$","li","Pasco",{"children":["$","$L4",null,{"href":"/counties/pasco/","className":"hover:text-white transition-colors","children":["Pasco"," County"]}]}],["$","li","Hernando",{"children":["$","$L4",null,{"href":"/counties/hernando/","className":"hover:text-white transition-colors","children":["Hernando"," County"]}]}],["$","li","Polk",{"children":["$","$L4",null,{"href":"/counties/polk/","className":"hover:text-white transition-colors","children":["Polk"," County"]}]}],["$","li","Manatee",{"children":["$","$L4",null,{"href":"/counties/manatee/","className":"hover:text-white transition-colors","children":["Manatee"," County"]}]}],["$","li","Sarasota",{"children":["$","$L4",null,{"href":"/counties/sarasota/","className":"hover:text-white transition-colors","children":["Sarasota"," County"]}]}],["$","li","Citrus",{"children":["$","$L4",null,{"href":"/counties/citrus/","className":"hover:text-white transition-colors","children":["Citrus"," County"]}]}]]}]]}]]}],["$","div",null,{"className":"mt-10 pt-8 border-t border-gray-800","children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Barrett Henry's Network"}],["$","div",null,{"className":"grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3 text-sm","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Tampa Bay Real Estate"}],["$","a",null,{"href":"https://valricoagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Real Estate"}],["$","a",null,{"href":"https://parrishagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Parrish Real Estate"}],["$","a",null,{"href":"https://valrico.blog","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Community Blog"}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Handyman & Home Services"}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Property Management"}]]}]]}],["$","div",null,{"className":"mt-12 pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center gap-4 text-xs","children":[["$","p",null,{"children":["© ",2026," TB Relo. All rights reserved."]}],["$","div",null,{"className":"flex gap-4","children":[["$","$L4",null,{"href":"/affiliate-disclosure/","className":"hover:text-white transition-colors","children":"Affiliate Disclosure"}],["$","$L4",null,{"href":"/privacy-policy/","className":"hover:text-white transition-colors","children":"Privacy Policy"}],["$","$L4",null,{"href":"/disclaimer/","className":"hover:text-white transition-colors","children":"Disclaimer"}]]}]]}]]}],["$","div",null,{"className":"bg-black/30 border-t border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 text-center text-xs text-gray-500","children":["Site by"," ",["$","a",null,{"href":"https://vyrabyte.com","target":"_blank","rel":"noopener noreferrer","className":"text-gray-400 hover:text-white transition-colors","children":"Vyrabyte"}]]}]}]]}],["$","$Lc",null,{}]]}]]}]],null],null],["$Ld",null]]]]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"St. Pete-Clearwater Airport — The Local Secret | TB Relo | TB Relo"}],["$","meta","3",{"name":"description","content":"St. Pete-Clearwater Airport. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","6",{"property":"og:title","content":"St. Pete-Clearwater Airport — The Local Secret | TB Relo | TB Relo"}],["$","meta","7",{"property":"og:description","content":"St. Pete-Clearwater Airport. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","8",{"property":"og:image","content":"https://tbrelo.com/images/blog/housing.jpg"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"St. Pete-Clearwater Airport — The Local Secret | TB Relo | TB Relo"}],["$","meta","13",{"name":"twitter:description","content":"St. Pete-Clearwater Airport. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","14",{"name":"twitter:image","content":"https://tbrelo.com/images/blog/housing.jpg"}],["$","link","15",{"rel":"icon","href":"/icon.svg?ff4364d89c37c0d6","type":"image/svg+xml","sizes":"any"}]]
+1:null

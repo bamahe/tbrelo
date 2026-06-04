@@ -1,0 +1,353 @@
+3:I[5878,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"Image"]
+4:I[2972,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],""]
+6:I[5143,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"default"]
+7:I[4707,[],""]
+9:I[6423,[],""]
+a:I[8003,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],""]
+b:I[7312,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"default"]
+c:I[5463,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"SpeedInsights"]
+2:T1124,[{"@context":"https://schema.org","@type":"Article","headline":"Pasco County Schools Guide | TB Relo","description":"Pasco County Schools Guide. Honest guide from a Tampa Bay local with 23+ years of experience.","url":"https://tbrelo.com/blog/pasco-county-schools-guide/","author":{"@type":"Person","name":"Barrett Henry","jobTitle":"REALTOR® & Broker Associate","url":"https://nowtb.com","worksFor":{"@type":"Organization","name":"REMAX Collective"},"knowsAbout":["Tampa Bay Real Estate","Florida Relocation","Residential Real Estate","Investment Property","Property Management"]},"publisher":{"@type":"Organization","name":"TB Relo","url":"https://tbrelo.com"},"datePublished":"2026-04-01T08:00:00-04:00","dateModified":"2026-04-16T08:00:00-04:00","image":{"@type":"ImageObject","url":"https://tbrelo.com/images/blog/housing.jpg"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How do I find out which schools my home is zoned for?","acceptedAnswer":{"@type":"Answer","text":"Use Pasco County's online school boundary tool at pasco.k12.fl.us/boundary. Enter your exact address to see elementary, middle, and high school assignments. Keep in mind that zones can change as new schools open, but existing students are typically grandfathered into their current schools."}},{"@type":"Question","name":"Can my child attend a school outside our assigned zone?","acceptedAnswer":{"@type":"Answer","text":"Yes, through Controlled Open Enrollment, which opens applications in January for the following school year. Popular schools fill quickly and maintain waiting lists. You can also apply for magnet programs or specialty academies that serve students district-wide regardless of address."}},{"@type":"Question","name":"What makes Pasco County schools different from neighboring districts?","acceptedAnswer":{"@type":"Answer","text":"Pasco consistently earns \"A\" grades from the state and outperforms state averages on standardized tests. The district invests heavily in new facilities and technology while offering specialized programs like International Baccalaureate and career academies. Students can graduate with college credits and industry certifications at no extra cost."}},{"@type":"Question","name":"How do Pasco County school zones affect home values?","acceptedAnswer":{"@type":"Answer","text":"Homes in A-rated school zones typically sell 15-25% faster and maintain values better during market downturns. Even if you don't have school-age children, school quality significantly impacts resale value and attracts broader buyer pools when you sell."}},{"@type":"Question","name":"What special programs are available for gifted students?","acceptedAnswer":{"@type":"Answer","text":"Pasco offers gifted programs starting in elementary school, with specialized magnet schools and programs at secondary levels. High-achieving students can access Advanced Placement courses, International Baccalaureate programs, and dual enrollment opportunities with local colleges to earn college credit while in high school."}},{"@type":"Question","name":"How does transportation work in Pasco County schools?","acceptedAnswer":{"@type":"Answer","text":"Bus service is provided free for students living more than two miles from their assigned school. However, many families in newer developments prefer driving due to convenience and traffic patterns. Check bus routes and timing when house hunting, as pickup times can be very early in sprawling suburban areas."}},{"@type":"Question","name":"What should I know about school safety in Pasco County?","acceptedAnswer":{"@type":"Answer","text":"All schools have controlled access entry, security cameras, and emergency communication systems. Secondary schools have resource officers, and the district has expanded mental health services significantly. Schools conduct regular safety drills and maintain updated emergency plans coordinated with local law enforcement."}},{"@type":"Question","name":"When is the best time to move for school considerations?","acceptedAnswer":{"@type":"Answer","text":"November through February is ideal for touring schools and planning enrollment. This timing allows you to apply for choice programs and magnet schools, which typically have January deadlines. Summer moves work well for new student registration and getting settled before the school year starts."}}]}]5:T68cf,<p>Pasco County sits just north of Tampa and has transformed from a sleepy rural district into one of Florida's most dynamic school systems. With over 200,000 students, it's the seventh-largest district in the state — and frankly, one of the smartest moves for families priced out of Hillsborough County.</p>
+<p>I've walked countless families through Pasco schools over the past two decades. The district consistently outperforms state averages, offers genuine innovation in education, and delivers this quality at a fraction of what you'd pay for private school. Plus, you're getting brand-new facilities in many areas as growth explodes.</p>
+<p>Here's what you actually need to know about Pasco County schools — the good, the challenging, and the strategic moves that matter most for your family's future.</p>
+<h2>Why Pasco County Schools Stand Out</h2>
+<h3>Academic Performance That Delivers</h3>
+<p>Pasco earned an "A" grade from the Florida Department of Education for 2023-2024 — one of only 16 districts statewide to achieve this. The district's graduation rate sits at 89.3%, well above Florida's 86.9% average.</p>
+<p>More impressive? Pasco students consistently score above state averages on standardized tests:</p>
+<ul>
+<li>Reading: 58% proficient vs. 53% statewide</li>
+<li>Math: 61% proficient vs. 56% statewide</li>
+<li>Science: 59% proficient vs. 53% statewide</li>
+</ul>
+<p>These aren't just numbers on paper. I see the results when my clients' kids thrive here, often outpacing what they achieved in previous districts.</p>
+<h3>Innovation Beyond the Buzzwords</h3>
+<p>Pasco doesn't just talk about 21st-century learning — they actually implement it. The district runs specialized programs that would cost thousands in private schools:</p>
+<p><strong>STEM Academies</strong>: Seven high schools offer focused Science, Technology, Engineering, and Math tracks with industry partnerships.</p>
+<p><strong>International Baccalaureate Programs</strong>: Available at multiple schools, giving students college credit and global perspectives.</p>
+<p><strong>Career Academies</strong>: Students graduate with industry certifications in fields like healthcare, engineering, and digital media.</p>
+<p><strong>Dual Enrollment</strong>: Partnerships with Pasco-Hernando State College and University of South Florida let high schoolers earn college credits for free.</p>
+<h3>New Schools for Growing Communities</h3>
+<p>Here's where Pasco shines — they're actually building schools to match population growth. Unlike some districts that pack kids into aging buildings, Pasco opened several new facilities in recent years:</p>
+<ul>
+<li><strong>Bexley Elementary</strong> (2022): Serving the booming Wesley Chapel area</li>
+<li><strong>Longleaf Elementary</strong> (2021): Brand-new facility in Land O' Lakes</li>
+<li><strong>Multiple renovation projects</strong>: Older schools getting complete technology and facility upgrades</li>
+</ul>
+<p>When you're house hunting in new developments like Epperson or Starkey Ranch, you're not gambling on future school capacity. The infrastructure is being built alongside the homes.</p>
+<hr>
+<p><strong>Moving to Tampa Bay?</strong> Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.</p>
+<p><a href="https://nowtb.com">Contact Barrett →</a> | <a href="tel:8137337907">(813) 733-7907</a></p>
+<hr>
+<h2>Understanding Pasco County School Zones</h2>
+<h3>How Zoning Actually Works</h3>
+<p>Pasco County uses traditional geographic zoning — your home address determines your assigned schools. Unlike choice-heavy districts, most students attend their zoned school unless they apply for specialized programs or magnet schools.</p>
+<p>The district provides an online <a href="https://www.pasco.k12.fl.us/boundary">school boundary tool</a> where you can enter any address and see assigned schools. I use this constantly with clients because school zones directly impact home values and family planning.</p>
+<p><strong>Key zoning realities:</strong></p>
+<ul>
+<li>Elementary, middle, and high school zones don't always align geographically</li>
+<li>New developments sometimes get temporary assignments until permanent schools open</li>
+<li>Zone lines can shift as new schools open, but existing students typically get grandfathered</li>
+</ul>
+<h3>High-Demand Zones to Know</h3>
+<p>Certain Pasco school zones consistently drive home buying decisions. These schools maintain waiting lists and see homes sell faster when they hit the market:</p>
+<p><strong>Land O' Lakes High School Zone</strong></p>
+<ul>
+<li>Consistently rated A-grade</li>
+<li>Serves upscale communities like Connerton and Cross Creek Ranch</li>
+<li>Strong college prep programs and athletics</li>
+<li>Home values: $450K-$650K median</li>
+</ul>
+<p><strong>Wesley Chapel High School Zone</strong></p>
+<ul>
+<li>Newer school (opened 2020) with state-of-the-art facilities</li>
+<li>Serves rapidly growing Wesley Chapel area</li>
+<li>Advanced placement courses and STEM focus</li>
+<li>Home values: $400K-$580K median</li>
+</ul>
+<p><strong>Ridgewood High School Zone</strong></p>
+<ul>
+<li>Established reputation in New Port Richey area</li>
+<li>Strong arts and athletics programs</li>
+<li>More affordable entry point: $280K-$420K median</li>
+</ul>
+<h3>Transfer and Choice Options</h3>
+<p>While zoning determines your assigned school, Pasco offers several ways to attend schools outside your zone:</p>
+<p><strong>Controlled Open Enrollment</strong>: Apply to attend any district school with available space. Applications open in January for the following school year, and popular schools fill quickly.</p>
+<p><strong>Magnet Programs</strong>: Specialized programs that draw students district-wide:</p>
+<ul>
+<li><strong>Academy of Engineering</strong> at Anclote High School</li>
+<li><strong>Medical Academy</strong> at Gulf High School</li>
+<li><strong>International Baccalaureate</strong> at multiple locations</li>
+</ul>
+<p><strong>Hardship Transfers</strong>: For families with documented childcare, transportation, or work-related needs.</p>
+<p>The key? Apply early and have backup plans. Popular schools maintain lengthy waiting lists.</p>
+<h2>Top Elementary Schools in Pasco County</h2>
+<h3>Highly Rated Elementary Schools</h3>
+<p><strong>Chasco Elementary School (A-rated)</strong></p>
+<ul>
+<li>Location: Port Richey area</li>
+<li>Known for: Strong reading programs and community involvement</li>
+<li>Student population: ~750</li>
+<li>Notable: Consistently high test scores despite serving diverse economic backgrounds</li>
+</ul>
+<p><strong>Longleaf Elementary School (A-rated)</strong></p>
+<ul>
+<li>Location: Land O' Lakes</li>
+<li>Known for: Brand-new facility and technology integration</li>
+<li>Student population: ~850</li>
+<li>Notable: Opened 2021 with modern design and outdoor learning spaces</li>
+</ul>
+<p><strong>Wesley Chapel Elementary School (A-rated)</strong></p>
+<ul>
+<li>Location: Wesley Chapel</li>
+<li>Known for: STEM focus and parent involvement</li>
+<li>Student population: ~900</li>
+<li>Notable: Serves master-planned communities with high expectations</li>
+</ul>
+<p><strong>Sunray Elementary School (A-rated)</strong></p>
+<ul>
+<li>Location: New Port Richey</li>
+<li>Known for: Arts integration and gifted programs</li>
+<li>Student population: ~680</li>
+<li>Notable: Strong track record of academic achievement</li>
+</ul>
+<h3>What Makes These Schools Special</h3>
+<p>The top elementary schools in Pasco share common characteristics that parents actually notice:</p>
+<p><strong>Parental Involvement</strong>: Schools with active PTAs and volunteer programs consistently outperform others. You'll see this in fundraising success, after-school programs, and overall school culture.</p>
+<p><strong>Technology Integration</strong>: Not just having devices, but actually using them meaningfully. Students learn coding basics, digital citizenship, and creative tools.</p>
+<p><strong>Reading Focus</strong>: Pasco's elementary schools emphasize early literacy with intervention programs for struggling readers and acceleration for advanced students.</p>
+<p><strong>Wraparound Services</strong>: Many schools offer before/after-care programs, making them practical for working families.</p>
+<h2>Middle and High School Standouts</h2>
+<h3>Top Middle Schools</h3>
+<p><strong>Paul R. Smith Middle School (A-rated)</strong></p>
+<ul>
+<li>Location: Land O' Lakes area</li>
+<li>Enrollment: ~1,400 students</li>
+<li>Strengths: Advanced academic programs, strong arts department</li>
+<li>Notable programs: Pre-engineering tracks, competitive robotics team</li>
+</ul>
+<p><strong>John Long Middle School (A-rated)</strong></p>
+<ul>
+<li>Location: Wesley Chapel</li>
+<li>Enrollment: ~1,200 students</li>
+<li>Strengths: STEM focus, high test scores</li>
+<li>Notable programs: Technology integration, leadership development</li>
+</ul>
+<p><strong>Crews Lake Middle School (A-rated)</strong></p>
+<ul>
+<li>Location: Spring Hill area</li>
+<li>Enrollment: ~1,100 students</li>
+<li>Strengths: Balanced academics and arts programs</li>
+<li>Notable programs: Band and chorus programs, student government</li>
+</ul>
+<h3>Exceptional High Schools</h3>
+<p><strong>Land O' Lakes High School (A-rated)</strong></p>
+<ul>
+<li>Enrollment: ~2,800 students</li>
+<li>Graduation rate: 94%</li>
+<li>Strengths: College prep, strong AP program offering 25+ courses</li>
+<li>Athletics: Competitive in multiple sports, excellent facilities</li>
+<li>Notable: Consistently sends 75%+ of graduates to four-year universities</li>
+</ul>
+<p><strong>Wesley Chapel High School (A-rated)</strong></p>
+<ul>
+<li>Enrollment: ~2,400 students</li>
+<li>Graduation rate: 91%</li>
+<li>Strengths: Modern facilities, technology integration</li>
+<li>Athletics: Newer programs building strong traditions</li>
+<li>Notable: Opened 2020 with innovative design and learning spaces</li>
+</ul>
+<p><strong>Pasco High School (B-rated)</strong></p>
+<ul>
+<li>Enrollment: ~2,200 students</li>
+<li>Graduation rate: 87%</li>
+<li>Strengths: Established programs, strong community connections</li>
+<li>Athletics: Historic programs with devoted alumni support</li>
+<li>Notable: One of the district's oldest schools with deep local roots</li>
+</ul>
+<h3>Specialized Programs Worth Knowing</h3>
+<p><strong>International Baccalaureate (IB) Programs</strong>
+Available at select high schools, IB offers rigorous international curriculum leading to college credit. Students graduate with recognized credentials for universities worldwide.</p>
+<p><strong>Career and Technical Education (CTE)</strong>
+Pasco operates several career academies where students earn industry certifications alongside their diploma:</p>
+<ul>
+<li><strong>Healthcare Academy</strong>: Certifications in medical assisting, pharmacy tech</li>
+<li><strong>Engineering Academy</strong>: CAD design, robotics, manufacturing technology</li>
+<li><strong>Digital Media Academy</strong>: Video production, graphic design, web development</li>
+</ul>
+<p><strong>Dual Enrollment Opportunities</strong>
+High school students can take college courses through partnerships with:</p>
+<ul>
+<li>Pasco-Hernando State College</li>
+<li>University of South Florida</li>
+<li>Saint Leo University</li>
+</ul>
+<p>These programs let students graduate high school with significant college credits, saving thousands in tuition costs.</p>
+<h2>School Safety and Support Services</h2>
+<h3>Safety Measures That Matter</h3>
+<p>Pasco County takes school safety seriously with multi-layered approaches:</p>
+<p><strong>Physical Security</strong>: All schools have controlled access entry, security cameras, and emergency communication systems. Many newer schools feature advanced design elements that enhance natural surveillance.</p>
+<p><strong>Personnel</strong>: Trained security personnel and resource officers at secondary schools, with roving patrols covering elementary schools.</p>
+<p><strong>Mental Health Support</strong>: The district employs school psychologists, counselors, and social workers. They've expanded mental health services significantly since 2020.</p>
+<p><strong>Emergency Preparedness</strong>: Regular drills, updated emergency plans, and coordination with local law enforcement and emergency services.</p>
+<h3>Special Needs and ESE Services</h3>
+<p>Pasco provides comprehensive Exceptional Student Education (ESE) services:</p>
+<p><strong>Learning Support</strong>: Specialized instruction for students with learning disabilities, autism spectrum disorders, and intellectual disabilities.</p>
+<p><strong>Gifted Programs</strong>: Advanced academic opportunities starting in elementary school, including specialized magnet programs.</p>
+<p><strong>Speech and Language Services</strong>: Therapy services available at all school levels.</p>
+<p><strong>Transition Services</strong>: Programs helping special needs students prepare for post-secondary education or employment.</p>
+<p>The district maintains inclusion classrooms where appropriate while also offering specialized settings for students who need them.</p>
+<h3>Technology and Digital Learning</h3>
+<p><strong>Device Programs</strong>: All students receive district-issued devices (typically Chromebooks or tablets) for classroom and home use.</p>
+<p><strong>Digital Curriculum</strong>: Online learning platforms that allow flexible pacing and personalized instruction.</p>
+<p><strong>Internet Access</strong>: The district provides internet access solutions for families who need connectivity at home.</p>
+<p><strong>Tech Support</strong>: Student tech teams and help desk services keep devices functioning and teach troubleshooting skills.</p>
+<h2>Choosing the Right Area for Your Family</h2>
+<h3>Best Neighborhoods for School Access</h3>
+<p><strong>Land O' Lakes/Lutz Border</strong></p>
+<ul>
+<li>School quality: Exceptional elementary through high school options</li>
+<li>Home prices: $450K-$750K range</li>
+<li>Commute access: Easy access to Tampa via I-275</li>
+<li>Family amenities: Parks, shopping, family activities</li>
+<li>Consider: Higher property taxes but strong resale values</li>
+</ul>
+<p><strong>Wesley Chapel</strong></p>
+<ul>
+<li>School quality: Newer schools with modern programs</li>
+<li>Home prices: $380K-$650K range</li>
+<li>Growth factor: Rapidly expanding with new amenities</li>
+<li>Shopping/dining: Premium outlets, diverse restaurant options</li>
+<li>Consider: Some areas still building out infrastructure</li>
+</ul>
+<p><strong>New Port Richey/Trinity</strong></p>
+<ul>
+<li>School quality: Solid established schools with character</li>
+<li>Home prices: $280K-$450K range</li>
+<li>Value proposition: More affordable entry point to good schools</li>
+<li>Established feel: Mature neighborhoods with community character</li>
+<li>Consider: Some schools in older buildings, but strong programs</li>
+</ul>
+<p><strong>Spring Hill (Southern Portion)</strong></p>
+<ul>
+<li>School quality: Good schools serving growing population</li>
+<li>Home prices: $320K-$500K range</li>
+<li>Nature access: Close to nature preserves and outdoor activities</li>
+<li>Commuter friendly: Reasonable drive to Tampa or St. Pete</li>
+<li>Consider: Verify specific school assignments as boundaries shift</li>
+</ul>
+<h3>Strategic Considerations for School Choice</h3>
+<p><strong>Timing Your Move</strong></p>
+<ul>
+<li><strong>Best months</strong>: November through February for school tours and enrollment planning</li>
+<li><strong>Application deadlines</strong>: Magnet and choice programs typically require January applications</li>
+<li><strong>New student registration</strong>: Can happen year-round but summer is ideal for planning</li>
+</ul>
+<p><strong>Resale Value Planning</strong>
+Even if your kids will graduate before you move, school quality dramatically affects home values. Properties in A-rated school zones typically:</p>
+<ul>
+<li>Sell 15-25% faster than similar homes in lower-rated zones</li>
+<li>Maintain values better during market downturns</li>
+<li>Attract broader buyer pools including investors and families</li>
+</ul>
+<p><strong>Growth Considerations</strong>
+Pasco County continues rapid expansion. When evaluating areas, consider:</p>
+<ul>
+<li>Planned school construction and capacity</li>
+<li>Transportation and traffic patterns as areas develop</li>
+<li>Future commercial and infrastructure development</li>
+<li>Impact on school boundaries as new schools open</li>
+</ul>
+<hr>
+<p><strong>Moving to Tampa Bay?</strong> Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.</p>
+<p><a href="https://nowtb.com">Contact Barrett →</a> | <a href="tel:8137337907">(813) 733-7907</a></p>
+<hr>
+<h2>Navigating School Registration and Enrollment</h2>
+<h3>Required Documentation</h3>
+<p>When enrolling your child in Pasco County schools, you'll need:</p>
+<p><strong>Proof of Residence</strong>: Utility bills, lease agreement, or closing documents from your home purchase. The district is strict about verifying actual residence within school boundaries.</p>
+<p><strong>Student Records</strong>: Official transcripts and immunization records from previous schools. Florida requires specific vaccinations, so check requirements early.</p>
+<p><strong>Birth Certificate</strong>: Official copy, not photocopies or hospital certificates.</p>
+<p><strong>Custody Documentation</strong>: If applicable, court orders or custody agreements.</p>
+<p><strong>ESE Documentation</strong>: If your child receives special services, bring current IEPs or 504 plans.</p>
+<h3>Enrollment Process Tips</h3>
+<p><strong>Visit Schools Before Deciding</strong>: Even within highly-rated zones, individual schools have different cultures and programs. Schedule tours and meet with administrators.</p>
+<p><strong>Apply for Choice Programs Early</strong>: Magnet programs, IB tracks, and career academies fill quickly. Applications typically open in January for the following school year.</p>
+<p><strong>Consider Transportation</strong>: Pasco provides bus service for students living more than two miles from their assigned school. Check routes and timing as part of your home search.</p>
+<p><strong>Plan for Extracurriculars</strong>: Popular sports and activities may require tryouts or early registration. Factor this into your timeline.</p>
+<h3>Transition Support</h3>
+<p>Pasco County offers several programs to help new students adjust:</p>
+<p><strong>New Student Orientation</strong>: Most schools offer programs to introduce students to campus, schedules, and expectations.</p>
+<p><strong>Peer Mentoring</strong>: Many middle and high schools pair new students with established student mentors.</p>
+<p><strong>Parent Information Sessions</strong>: Regular sessions covering everything from technology policies to graduation requirements.</p>
+<p><strong>Academic Planning</strong>: Counselors work with transfer students to ensure proper course placement and credit transfer.</p>
+<h2>Cost Considerations and Financial Planning</h2>
+<h3>School-Related Expenses to Budget</h3>
+<p><strong>Registration Fees</strong>: Typically $25-50 per student annually, covering insurance and activity fees.</p>
+<p><strong>Technology Fees</strong>: Usually $15-25 per student to support device programs and tech infrastructure.</p>
+<p><strong>Athletics and Activities</strong>: Sports participation fees range from $75-150 per sport, plus equipment costs.</p>
+<p><strong>Advanced Programs</strong>: Some specialized programs require additional fees for materials, testing, or certification.</p>
+<p><strong>Transportation</strong>: Bus service is free for eligible students, but many families prefer driving for convenience.</p>
+<h3>Property Tax Impact</h3>
+<p>Pasco County's millage rate for schools affects your annual property taxes:</p>
+<ul>
+<li>Current school millage: Approximately 7.5 mills</li>
+<li>On a $400K home: Roughly $1,500 annually in school taxes</li>
+<li>Compared to neighboring counties: Moderate, but factor into total cost of ownership</li>
+</ul>
+<h3>Hidden Savings</h3>
+<p><strong>Free Programs</strong>: Many services that cost thousands privately are free in Pasco schools:</p>
+<ul>
+<li>Advanced Placement courses (typical private cost: $3,000+ per course)</li>
+<li>Dual enrollment college credits (typical cost: $1,000+ per credit hour)</li>
+<li>Career certifications (typical cost: $2,000-5,000 per certification)</li>
+<li>ESE services (typical private cost: $15,000-30,000 annually)</li>
+</ul>
+<p><strong>Fundraising Benefits</strong>: Active PTAs and booster clubs significantly enhance programs without increasing taxes. Strong school communities often provide resources that feel like private school amenities.</p>
+<h2>Future Growth and Development</h2>
+<h3>Planned School Construction</h3>
+<p>Pasco County continues investing in new schools to meet population growth:</p>
+<p><strong>Upcoming Elementary Schools</strong>: Three new elementary schools planned for 2025-2027 in high-growth areas including Wesley Chapel and Starkey Ranch.</p>
+<p><strong>Middle School Expansion</strong>: One new middle school planned for central Pasco to relieve overcrowding.</p>
+<p><strong>High School Planning</strong>: Long-term plans include a new high school to serve eastern Pasco County's rapid development.</p>
+<h3>Technology and Innovation Trends</h3>
+<p><strong>Digital Learning Evolution</strong>: Continued expansion of online and hybrid learning options, accelerated by pandemic innovations that proved successful.</p>
+<p><strong>Career Preparation</strong>: Increased partnerships with local employers and universities to create direct pathways from high school to careers.</p>
+<p><strong>Mental Health Focus</strong>: Expanded counseling and wellness programs responding to student needs identified in recent years.</p>
+<h3>Demographic and Enrollment Trends</h3>
+<p><strong>Population Growth</strong>: Pasco County adds approximately 3,000-4,000 new students annually, primarily in southern areas near Tampa.</p>
+<p><strong>Diversity Increases</strong>: The district serves increasingly diverse populations as Tampa Bay attracts residents from across the country and internationally.</p>
+<p><strong>Economic Integration</strong>: Growth includes families across economic spectrums, creating schools that serve diverse communities while maintaining high standards.</p>
+<h2>Making Your Decision</h2>
+<h3>Questions to Ask During School Visits</h3>
+<p><strong>Academic Programs</strong>: What advanced courses are offered? How do students perform on standardized tests compared to state averages?</p>
+<p><strong>Support Services</strong>: What resources exist for struggling students? How about acceleration for advanced learners?</p>
+<p><strong>School Culture</strong>: What's the disciplinary philosophy? How does the school handle conflicts or behavioral issues?</p>
+<p><strong>Communication</strong>: How does the school communicate with parents? What technology platforms are used?</p>
+<p><strong>Extracurriculars</strong>: What activities are available? What's the level of student participation?</p>
+<h3>Red Flags to Watch For</h3>
+<p><strong>Declining Enrollment</strong>: Schools losing students may indicate underlying issues or boundary changes.</p>
+<p><strong>High Teacher Turnover</strong>: Excessive staff changes can indicate management problems or resource limitations.</p>
+<p><strong>Limited Course Offerings</strong>: Especially at the high school level, limited AP or advanced courses may impact college preparation.</p>
+<p><strong>Facility Conditions</strong>: While older buildings aren't necessarily problematic, poor maintenance may indicate budget or priority issues.</p>
+<p><strong>Parent Complaints</strong>: Pay attention to patterns of concerns rather than isolated complaints.</p>
+<h2>Frequently Asked Questions</h2>
+<h3>How do I find out which schools my home is zoned for?</h3>
+<p>Use Pasco County's online school boundary tool at pasco.k12.fl.us/boundary. Enter your exact address to see elementary, middle, and high school assignments. Keep in mind that zones can change as new schools open, but existing students are typically grandfathered into their current schools.</p>
+<h3>Can my child attend a school outside our assigned zone?</h3>
+<p>Yes, through Controlled Open Enrollment, which opens applications in January for the following school year. Popular schools fill quickly and maintain waiting lists. You can also apply for magnet programs or specialty academies that serve students district-wide regardless of address.</p>
+<h3>What makes Pasco County schools different from neighboring districts?</h3>
+<p>Pasco consistently earns "A" grades from the state and outperforms state averages on standardized tests. The district invests heavily in new facilities and technology while offering specialized programs like International Baccalaureate and career academies. Students can graduate with college credits and industry certifications at no extra cost.</p>
+<h3>How do Pasco County school zones affect home values?</h3>
+<p>Homes in A-rated school zones typically sell 15-25% faster and maintain values better during market downturns. Even if you don't have school-age children, school quality significantly impacts resale value and attracts broader buyer pools when you sell.</p>
+<h3>What special programs are available for gifted students?</h3>
+<p>Pasco offers gifted programs starting in elementary school, with specialized magnet schools and programs at secondary levels. High-achieving students can access Advanced Placement courses, International Baccalaureate programs, and dual enrollment opportunities with local colleges to earn college credit while in high school.</p>
+<h3>How does transportation work in Pasco County schools?</h3>
+<p>Bus service is provided free for students living more than two miles from their assigned school. However, many families in newer developments prefer driving due to convenience and traffic patterns. Check bus routes and timing when house hunting, as pickup times can be very early in sprawling suburban areas.</p>
+<h3>What should I know about school safety in Pasco County?</h3>
+<p>All schools have controlled access entry, security cameras, and emergency communication systems. Secondary schools have resource officers, and the district has expanded mental health services significantly. Schools conduct regular safety drills and maintain updated emergency plans coordinated with local law enforcement.</p>
+<h3>When is the best time to move for school considerations?</h3>
+<p>November through February is ideal for touring schools and planning enrollment. This timing allows you to apply for choice programs and magnet schools, which typically have January deadlines. Summer moves work well for new student registration and getting settled before the school year starts.</p>
+8:["slug","pasco-county-schools-guide","d"]
+0:["SZLIdUDBKVit2TP_UqbYL",[[["",{"children":["blog",{"children":[["slug","pasco-county-schools-guide","d"],{"children":["__PAGE__?{\"slug\":\"pasco-county-schools-guide\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","pasco-county-schools-guide","d"],{"children":["__PAGE__",{},[["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","section",null,{"className":"relative w-full h-[200px] md:h-[300px] overflow-hidden bg-brand-navy","children":[["$","$L3",null,{"src":"/images/blog/housing.jpg","alt":"Pasco County Schools Guide","fill":true,"className":"object-cover","unoptimized":true,"priority":true}],["$","div",null,{"className":"absolute inset-0 bg-brand-navy/60"}],["$","div",null,{"className":"relative z-10 flex flex-col items-center justify-center h-full px-4 text-center","children":[["$","h1",null,{"className":"text-white text-3xl md:text-5xl font-display font-extrabold leading-tight max-w-4xl","children":"Pasco County Schools Guide"}],"$undefined"]}]]}],["$","article",null,{"className":"max-w-4xl mx-auto px-4 py-10","children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://tbrelo.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://tbrelo.com/blog/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Pasco County Schools Guide\",\"item\":\"https://tbrelo.com/blog/pasco-county-schools-guide/\"}]}"}}],["$","nav",null,{"aria-label":"Breadcrumb","className":"text-sm text-brand-slate mb-6","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-1","children":[["$","li","/",{"className":"flex items-center gap-1","children":[false,["$","$L4",null,{"href":"/","className":"hover:text-brand-blue transition-colors","children":"Home"}]]}],["$","li","/blog/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","$L4",null,{"href":"/blog/","className":"hover:text-brand-blue transition-colors","children":"Blog"}]]}],["$","li","/blog/pasco-county-schools-guide/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","span",null,{"className":"text-brand-navy font-medium","children":"Pasco County Schools Guide"}]]}]]}]}]],["$","p",null,{"className":"text-brand-slate text-sm mb-8","children":["Published ","April 1, 2026"]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$5"}}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"cta-box-primary","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-white","children":"Moving to Tampa Bay? Get a Local Expert."}],["$","p",null,{"className":"text-sm mb-4 text-white","children":"Barrett Henry is a Broker Associate with REMAX Collective and over 23 years of real estate experience. Straight talk, smart strategy, no pressure."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-blue text-white hover:bg-blue-600","children":["Contact Barrett"," →"]}],["$","a",null,{"href":"tel:8137337907","className":"text-sm text-white","children":"(813) 733-7907"}]]}]]}],["$","div",null,{"className":"cta-box","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-brand-navy","children":"Need Help Setting Up Your New Home?"}],["$","p",null,{"className":"text-sm mb-4 text-brand-slate","children":"Best Bay Services handles handyman work, home repairs, and maintenance for your new Tampa Bay home. Local, licensed, and trusted."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-navy text-white hover:bg-brand-dark","children":["Get a Quote"," →"]}],["$","a",null,{"href":"tel:8134168676","className":"text-sm text-brand-blue","children":"(813) 416-8676"}]]}]]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","$L6",null,{"blogSlug":"pasco-county-schools-guide"}]]}]],null],null],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$8","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/db2729ad4a9f0783.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link",null,{"rel":"icon","href":"/favicon-32.png","type":"image/png","sizes":"32x32"}],["$","link",null,{"rel":"icon","href":"/favicon-16.png","type":"image/png","sizes":"16x16"}],["$","link",null,{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link",null,{"rel":"icon","href":"/icon-192.png","type":"image/png","sizes":"192x192"}],["$","meta",null,{"name":"google-adsense-account","content":"ca-pub-2033173419526042"}],["$","meta",null,{"name":"impact-site-verification","content":"bb623f40-9653-4312-9ca8-bf35b957a10c"}],["$","$La",null,{"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2033173419526042","strategy":"afterInteractive","crossOrigin":"anonymous"}],["$","$La",null,{"src":"https://www.googletagmanager.com/gtag/js?id=G-TD87S02SLM","strategy":"afterInteractive"}],["$","$La",null,{"id":"gtag-init","strategy":"afterInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'G-TD87S02SLM');\n          "}]]}],["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"[{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"https://tbrelo.com/#website\",\"name\":\"TB Relo — Tampa Bay Relocation Guide\",\"url\":\"https://tbrelo.com\",\"description\":\"Comprehensive relocation guides for Tampa Bay, Florida. Covering 8 counties, 100+ cities, cost of living, schools, and everything you need to know about moving to Tampa Bay.\",\"publisher\":{\"@id\":\"https://tbrelo.com/#org\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://tbrelo.com/blog/?q={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}},{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://tbrelo.com/#org\",\"name\":\"TB Relo\",\"url\":\"https://tbrelo.com\",\"sameAs\":[\"https://nowtb.com\",\"https://valricoagent.com\",\"https://parrishagent.com\",\"https://www.facebook.com/BarrettHenryREALTOR/\",\"https://www.instagram.com/thenowteam\",\"https://www.youtube.com/@nowtampa\"]}]"}}],["$","$Lb",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"max-w-2xl mx-auto px-4 py-20 text-center","children":[["$","h1",null,{"className":"text-6xl font-display font-extrabold text-brand-navy mb-4","children":"404"}],["$","p",null,{"className":"text-xl text-brand-slate mb-8","children":"This page doesn't exist. Maybe you're looking for one of these?"}],["$","div",null,{"className":"grid sm:grid-cols-2 gap-4 mb-12 text-left","children":[["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Moving Guide"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Complete guide to relocating to Tampa Bay"}]]}],["$","$L4",null,{"href":"/counties/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Explore Counties"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Browse all 8 Tampa Bay counties"}]]}],["$","$L4",null,{"href":"/cities/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Find a City"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"90+ city and neighborhood guides"}]]}],["$","$L4",null,{"href":"/blog/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Blog"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Tips, comparisons, and local insights"}]]}]]}],["$","$L4",null,{"href":"/","className":"px-8 py-4 bg-brand-blue text-white font-display font-bold rounded-lg hover:bg-blue-600 transition-colors text-lg inline-block","children":"Back to Home"}]]}],"notFoundStyles":[]}]}],["$","footer",null,{"className":"bg-brand-dark text-gray-400","children":[["$","div",null,{"className":"bg-brand-navy","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10","children":["$","div",null,{"className":"grid md:grid-cols-3 gap-8 text-center","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Buying or Selling a Home?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Barrett Henry — The NOW Team at REMAX Collective"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 733-7907"}]]}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Need a Handyman?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Best Bay Services — Tampa Bay Home Services"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 416-8676"}]]}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Property Management"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"ViVi PM — Full-Service Property Management"}]]}]]}]}]}],["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8","children":[["$","div",null,{"className":"md:col-span-2","children":[["$","div",null,{"className":"font-display font-extrabold text-2xl text-white mb-3","children":["TB",["$","span",null,{"className":"text-brand-sky","children":"Relo"}]]}],["$","p",null,{"className":"text-sm leading-relaxed","children":"Your complete guide to relocating to Tampa Bay, Florida. Covering Hillsborough, Pinellas, Pasco, Hernando, Polk, Manatee, Sarasota, and Citrus counties with honest, local insight from someone who actually lives here."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Guides"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"hover:text-white transition-colors","children":"Moving to Tampa Bay"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/cost-of-living/","className":"hover:text-white transition-colors","children":"Cost of Living"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/moving-checklist/","className":"hover:text-white transition-colors","children":"Moving Checklist"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/blog/","className":"hover:text-white transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Counties"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li","Hillsborough",{"children":["$","$L4",null,{"href":"/counties/hillsborough/","className":"hover:text-white transition-colors","children":["Hillsborough"," County"]}]}],["$","li","Pinellas",{"children":["$","$L4",null,{"href":"/counties/pinellas/","className":"hover:text-white transition-colors","children":["Pinellas"," County"]}]}],["$","li","Pasco",{"children":["$","$L4",null,{"href":"/counties/pasco/","className":"hover:text-white transition-colors","children":["Pasco"," County"]}]}],["$","li","Hernando",{"children":["$","$L4",null,{"href":"/counties/hernando/","className":"hover:text-white transition-colors","children":["Hernando"," County"]}]}],["$","li","Polk",{"children":["$","$L4",null,{"href":"/counties/polk/","className":"hover:text-white transition-colors","children":["Polk"," County"]}]}],["$","li","Manatee",{"children":["$","$L4",null,{"href":"/counties/manatee/","className":"hover:text-white transition-colors","children":["Manatee"," County"]}]}],["$","li","Sarasota",{"children":["$","$L4",null,{"href":"/counties/sarasota/","className":"hover:text-white transition-colors","children":["Sarasota"," County"]}]}],["$","li","Citrus",{"children":["$","$L4",null,{"href":"/counties/citrus/","className":"hover:text-white transition-colors","children":["Citrus"," County"]}]}]]}]]}]]}],["$","div",null,{"className":"mt-10 pt-8 border-t border-gray-800","children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Barrett Henry's Network"}],["$","div",null,{"className":"grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3 text-sm","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Tampa Bay Real Estate"}],["$","a",null,{"href":"https://valricoagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Real Estate"}],["$","a",null,{"href":"https://parrishagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Parrish Real Estate"}],["$","a",null,{"href":"https://valrico.blog","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Community Blog"}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Handyman & Home Services"}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Property Management"}]]}]]}],["$","div",null,{"className":"mt-12 pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center gap-4 text-xs","children":[["$","p",null,{"children":["© ",2026," TB Relo. All rights reserved."]}],["$","div",null,{"className":"flex gap-4","children":[["$","$L4",null,{"href":"/affiliate-disclosure/","className":"hover:text-white transition-colors","children":"Affiliate Disclosure"}],["$","$L4",null,{"href":"/privacy-policy/","className":"hover:text-white transition-colors","children":"Privacy Policy"}],["$","$L4",null,{"href":"/disclaimer/","className":"hover:text-white transition-colors","children":"Disclaimer"}]]}]]}]]}],["$","div",null,{"className":"bg-black/30 border-t border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 text-center text-xs text-gray-500","children":["Site by"," ",["$","a",null,{"href":"https://vyrabyte.com","target":"_blank","rel":"noopener noreferrer","className":"text-gray-400 hover:text-white transition-colors","children":"Vyrabyte"}]]}]}]]}],["$","$Lc",null,{}]]}]]}]],null],null],["$Ld",null]]]]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Pasco County Schools Guide | TB Relo | TB Relo"}],["$","meta","3",{"name":"description","content":"Pasco County Schools Guide. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","6",{"property":"og:title","content":"Pasco County Schools Guide | TB Relo | TB Relo"}],["$","meta","7",{"property":"og:description","content":"Pasco County Schools Guide. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","8",{"property":"og:image","content":"https://tbrelo.com/images/blog/housing.jpg"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"Pasco County Schools Guide | TB Relo | TB Relo"}],["$","meta","13",{"name":"twitter:description","content":"Pasco County Schools Guide. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","14",{"name":"twitter:image","content":"https://tbrelo.com/images/blog/housing.jpg"}],["$","link","15",{"rel":"icon","href":"/icon.svg?ff4364d89c37c0d6","type":"image/svg+xml","sizes":"any"}]]
+1:null

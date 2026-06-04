@@ -1,0 +1,345 @@
+3:I[5878,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"Image"]
+4:I[2972,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],""]
+6:I[5143,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"default"]
+7:I[4707,[],""]
+9:I[6423,[],""]
+a:I[8003,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],""]
+b:I[7312,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"default"]
+c:I[5463,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"SpeedInsights"]
+2:Te3c,[{"@context":"https://schema.org","@type":"Article","headline":"Florida Bright Futures Scholarship — Saving for Your Kids | TB Relo","description":"Florida Bright Futures Scholarship. Honest guide from a Tampa Bay local with 23+ years of experience.","url":"https://tbrelo.com/blog/florida-bright-futures-scholarship-guide/","author":{"@type":"Person","name":"Barrett Henry","jobTitle":"REALTOR® & Broker Associate","url":"https://nowtb.com","worksFor":{"@type":"Organization","name":"REMAX Collective"},"knowsAbout":["Tampa Bay Real Estate","Florida Relocation","Residential Real Estate","Investment Property","Property Management"]},"publisher":{"@type":"Organization","name":"TB Relo","url":"https://tbrelo.com"},"datePublished":"2026-04-12T08:00:00-04:00","dateModified":"2026-04-16T08:00:00-04:00","image":{"@type":"ImageObject","url":"https://tbrelo.com/images/blog/housing.jpg"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Can students use Bright Futures at private Florida colleges?","acceptedAnswer":{"@type":"Answer","text":"No, Bright Futures only covers tuition at Florida public universities, state colleges, and community colleges. Private institutions like University of Tampa or Florida Institute of Technology don't participate in the program."}},{"@type":"Question","name":"What happens if my student changes majors in college?","acceptedAnswer":{"@type":"Answer","text":"Students can change majors without losing Bright Futures as long as they maintain required GPA and credit hour completion. The scholarship follows the student, not the specific degree program."}},{"@type":"Question","name":"Do AP test scores affect Bright Futures eligibility?","acceptedAnswer":{"@type":"Answer","text":"No, AP exam scores don't count toward Bright Futures requirements. However, AP courses receive +1.0 GPA weighting, so taking AP classes (regardless of exam performance) can boost the weighted GPA calculation."}},{"@type":"Question","name":"Can homeschool students qualify for Bright Futures?","acceptedAnswer":{"@type":"Answer","text":"Yes, homeschool students can qualify by meeting the same academic requirements. They must take SAT/ACT tests, document community service, and complete required coursework through accredited programs or dual enrollment."}},{"@type":"Question","name":"What if my family moves out of Florida during college?","acceptedAnswer":{"@type":"Answer","text":"Students who establish Florida residency and graduate from a Florida high school maintain Bright Futures eligibility even if parents relocate. However, the student must remain enrolled continuously at a Florida public institution."}},{"@type":"Question","name":"Is there a deadline to use Bright Futures after high school graduation?","acceptedAnswer":{"@type":"Answer","text":"Students must begin using Bright Futures within two years of high school graduation. The scholarship can't be \"saved\" for later use or deferred indefinitely."}},{"@type":"Question","name":"Can students who don't initially qualify apply later?","acceptedAnswer":{"@type":"Answer","text":"No, Bright Futures applications are only accepted during senior year of high school. Students who don't meet requirements by graduation cannot apply in subsequent years, even if they later meet the criteria."}},{"@type":"Question","name":"Does Bright Futures cover summer classes?","acceptedAnswer":{"@type":"Answer","text":"Yes, Bright Futures can be used for summer term enrollment at Florida public institutions. This can help students graduate early or maintain full-time status while taking lighter fall/spring loads."}}]}]5:T5ed7,<p>Let me be straight with you: if your kid can pull decent grades and test scores in Florida, the state will pay for their college. Not a loan. Not work-study. Free money.</p>
+<p>The Florida Bright Futures Scholarship Program has been sending Florida students to college since 1997, and it's one of the best-kept secrets for families moving to Tampa Bay. While other states saddle families with crushing student debt, Florida actually rewards academic achievement with cold, hard cash.</p>
+<p>But here's the thing — the requirements changed in 2018, and most parents I talk to are working with outdated information. Some think it's impossible to qualify. Others assume their kid is a shoo-in and get blindsided senior year.</p>
+<p>After helping 200+ families navigate Tampa Bay schools over two decades, I've watched this program evolve. I've seen kids miss out on $20,000+ because their parents didn't understand the fine print. And I've watched families save massive money by planning early.</p>
+<h2>What Is Bright Futures (And Why Should You Care?)</h2>
+<p>The Florida Bright Futures Scholarship Program is merit-based funding that covers tuition and fees at Florida public universities and colleges. Depending on your student's achievements, they could receive anywhere from 75% to 100% of tuition costs.</p>
+<p>For context: in-state tuition at University of Florida runs about $6,400 per year. Florida State? Same ballpark. University of South Florida right here in Tampa? Around $6,350 annually. A full Bright Futures scholarship essentially makes college free at these schools.</p>
+<p>Compare that to out-of-state families paying $28,000+ per year at UF, and you start to understand why establishing Florida residency before high school matters.</p>
+<p>The program has three tiers:</p>
+<ul>
+<li><strong>Florida Academic Scholars (FAS)</strong>: 100% tuition + $300 per semester for books</li>
+<li><strong>Florida Medallion Scholars (FMS)</strong>: 75% tuition coverage</li>
+<li><strong>Gold Seal CAPE Scholars</strong>: 75% tuition for career/technical programs</li>
+</ul>
+<p>Each tier has specific GPA, test score, and course requirements. Miss one component, and you could drop from 100% coverage to 75% — or nothing at all.</p>
+<h2>The Three Scholarship Tiers Explained</h2>
+<h3>Florida Academic Scholars (FAS) — The Full Ride</h3>
+<p>This is the top tier, covering 100% of tuition and fees plus $300 per semester for textbooks. For a four-year degree at a Florida public university, we're talking about $25,000+ in total value.</p>
+<p><strong>Requirements for FAS:</strong></p>
+<ul>
+<li>3.5 weighted GPA in core academic courses</li>
+<li>1330+ SAT score OR 29+ ACT score</li>
+<li>100+ community service hours</li>
+<li>Complete specific high school coursework (more on this below)</li>
+</ul>
+<p>The GPA calculation only includes core academic classes: English, math, science, social studies, and world languages. Electives like art, music, or PE don't count — which can actually help students who struggle in those areas but excel academically.</p>
+<h3>Florida Medallion Scholars (FMS) — Still Excellent</h3>
+<p>The middle tier covers 75% of tuition and fees. At USF, that's still about $4,750 per year in savings, totaling roughly $19,000 over four years.</p>
+<p><strong>Requirements for FMS:</strong></p>
+<ul>
+<li>3.0 weighted GPA in core academic courses</li>
+<li>1210+ SAT score OR 25+ ACT score</li>
+<li>75+ community service hours</li>
+<li>Complete required coursework</li>
+</ul>
+<h3>Gold Seal CAPE Scholars — For Career Programs</h3>
+<p>This tier covers 75% tuition at community colleges and state colleges for students completing career and technical education programs.</p>
+<p><strong>Requirements:</strong></p>
+<ul>
+<li>3.0 weighted GPA in core courses</li>
+<li>Industry certification in specific career areas</li>
+<li>Complete career-themed coursework</li>
+</ul>
+<p>Most Tampa Bay families I work with focus on FAS or FMS, since these apply to traditional four-year universities.</p>
+<h2>Course Requirements That Trip Up Families</h2>
+<p>Here's where families get caught off-guard: Bright Futures requires specific high school coursework, and not every school offers everything you need.</p>
+<p><strong>Required courses for all tiers:</strong></p>
+<ul>
+<li>4 credits English (must include substantial writing)</li>
+<li>4 credits mathematics (Algebra II or higher)</li>
+<li>3 credits natural science (2 must include lab components)</li>
+<li>3 credits social studies</li>
+<li>2 credits world language (same language)</li>
+<li>2 credits additional core academic courses</li>
+</ul>
+<p><strong>For Academic Scholars (FAS) only:</strong></p>
+<ul>
+<li>1 additional credit each in English, math, science, social studies, or world language</li>
+</ul>
+<p>The world language requirement catches many families. Your student needs two consecutive years of the same language — not one year of Spanish and one year of French.</p>
+<p>The math requirement is particularly strict. Business Math doesn't count. Your kid needs real mathematics: Algebra I, Geometry, Algebra II, and then something higher like Pre-Calculus, Statistics, or Calculus.</p>
+<p>When I'm helping families choose between <a href="/counties/hillsborough/">Hillsborough County schools</a> versus <a href="/counties/pinellas/">Pinellas County schools</a>, course availability becomes a major factor. Some smaller high schools simply don't offer enough AP or dual enrollment options to hit the higher GPA requirements.</p>
+<h2>GPA Calculations — It's Not What You Think</h2>
+<p>The Bright Futures GPA calculation is different from your student's overall high school GPA. This trips up nearly every parent I talk to.</p>
+<p><strong>Only core academic courses count:</strong></p>
+<ul>
+<li>English</li>
+<li>Mathematics</li>
+<li>Natural Sciences</li>
+<li>Social Studies</li>
+<li>World Languages</li>
+</ul>
+<p><strong>Weighted points are added for:</strong></p>
+<ul>
+<li>AP courses: +1.0 point</li>
+<li>IB courses: +1.0 point</li>
+<li>AICE courses: +1.0 point</li>
+<li>Dual enrollment courses: +0.5 points</li>
+</ul>
+<p>So an A in AP Biology becomes a 5.0 instead of 4.0. A B in dual enrollment English becomes a 3.5 instead of 3.0.</p>
+<p>This is why I always tell parents: your kid can get a C in PE, art, or band without it affecting Bright Futures eligibility. But a C in Chemistry? That hurts.</p>
+<p><strong>Real example:</strong> Sarah had a 3.2 overall GPA at Plant High School but a 3.6 Bright Futures GPA because she struggled in electives but excelled in core academics. She qualified for FAS and saved her family $25,000.</p>
+<h2>Test Scores — SAT vs ACT Strategy</h2>
+<p>Students can use either SAT or ACT scores, and some kids naturally perform better on one test versus the other.</p>
+<p><strong>For FAS (100% tuition):</strong></p>
+<ul>
+<li>SAT: 1330+ (Evidence-Based Reading/Writing + Math only)</li>
+<li>ACT: 29+ (composite score)</li>
+</ul>
+<p><strong>For FMS (75% tuition):</strong></p>
+<ul>
+<li>SAT: 1210+</li>
+<li>ACT: 25+</li>
+</ul>
+<p>The SAT score only uses two sections — Reading/Writing and Math. The optional Essay section doesn't count. For ACT, all four sections (English, Math, Reading, Science) factor into the composite score.</p>
+<p>Most Tampa Bay students I work with take both tests at least once. The score difference can be dramatic. I've seen kids score 1180 on SAT but 26 on ACT — missing FMS on one test but qualifying on the other.</p>
+<p><strong>Pro tip:</strong> Take the PSAT as early as sophomore year. It's practice for the real thing and can identify which test format works better for your student.</p>
+<h2>Community Service Requirements</h2>
+<p>Every tier requires volunteer hours, and they must be completed during high school (grades 9-12).</p>
+<ul>
+<li><strong>FAS:</strong> 100 hours minimum</li>
+<li><strong>FMS:</strong> 75 hours minimum</li>
+<li><strong>Gold Seal:</strong> 30 hours minimum</li>
+</ul>
+<p>The hours must be documented with an official organization. Random acts of kindness don't count. Your student needs verifiable volunteer work with nonprofits, schools, religious organizations, or government agencies.</p>
+<p><strong>Smart strategy:</strong> Start freshman year and spread it out. Twenty-five hours per year is manageable. Trying to cram 100 hours into senior year creates unnecessary stress.</p>
+<p>Popular Tampa Bay volunteer opportunities include:</p>
+<ul>
+<li>Tampa General Hospital youth volunteers</li>
+<li>Humane Society of Tampa Bay</li>
+<li>Local food banks (Metropolitan Ministries, Feeding Tampa Bay)</li>
+<li>Habitat for Humanity</li>
+<li>Public library tutoring programs</li>
+</ul>
+<p>Keep detailed records. I've seen students lose scholarships because they couldn't properly document their service hours.</p>
+<h2>Financial Need Component (That Most People Ignore)</h2>
+<p>Here's something most families don't realize: Bright Futures considers family income, but not the way you'd expect.</p>
+<p>The program uses your FAFSA (Free Application for Federal Student Aid) Expected Family Contribution (EFC). If your family's EFC is too high, you might qualify academically but receive reduced funding.</p>
+<p><strong>Income limits vary by family size, but rough guidelines:</strong></p>
+<ul>
+<li>Family of 4: $100,000+ household income may reduce awards</li>
+<li>Higher incomes don't disqualify completely but can lower the amount</li>
+</ul>
+<p>This is why I tell families to complete the FAFSA every year, even if you think you won't qualify for need-based aid. The Bright Futures calculation requires it.</p>
+<h2>When and How to Apply</h2>
+<p><strong>Timeline that actually works:</strong></p>
+<ul>
+<li><strong>Freshman/Sophomore year:</strong> Focus on course planning and GPA</li>
+<li><strong>Junior year:</strong> Take PSAT, start SAT/ACT prep, begin community service</li>
+<li><strong>Senior year, October:</strong> Submit FAFSA</li>
+<li><strong>Senior year, December 1:</strong> Submit Bright Futures application (deadline)</li>
+<li><strong>Senior year, spring:</strong> Take final SAT/ACT if needed</li>
+</ul>
+<p>The application opens October 1st of senior year and closes December 1st. No exceptions. No extensions. Miss that deadline, and you've lost potentially $25,000.</p>
+<p><strong>Required documents:</strong></p>
+<ul>
+<li>Official high school transcript</li>
+<li>SAT or ACT scores</li>
+<li>Community service documentation</li>
+<li>FAFSA completion</li>
+</ul>
+<p>Submit everything early. Don't wait until November 30th and hope the website doesn't crash.</p>
+<h2>Renewal Requirements — Keep Your Money</h2>
+<p>Getting the scholarship is only half the battle. You have to keep it.</p>
+<p><strong>Annual renewal requirements:</strong></p>
+<ul>
+<li>Maintain required GPA at your college/university</li>
+<li>Complete minimum credit hours per year</li>
+<li>Stay enrolled in an eligible program</li>
+</ul>
+<p><strong>FAS renewal:</strong> 3.0+ college GPA
+<strong>FMS renewal:</strong> 2.75+ college GPA</p>
+<p>Students get some flexibility — if they drop below the required GPA one semester, they get a "grace period" to bring it back up. But lose the scholarship completely, and it's gone forever.</p>
+<p>The credit hour requirement matters too. Students must complete at least 12 credit hours per academic year to maintain eligibility. Taking light course loads to boost GPA can backfire.</p>
+<h2>Tampa Bay School Districts — Which Help Most?</h2>
+<p>After two decades in Tampa Bay real estate, I've seen which school districts best prepare students for Bright Futures success.</p>
+<p><strong>Hillsborough County</strong> offers the most variety:</p>
+<ul>
+<li>Plant High School: Excellent AP program, strong college counseling</li>
+<li>King High School: IB program that works well for Bright Futures</li>
+<li>Newsome High School: Competitive academics, high scholarship rates</li>
+<li><a href="/counties/hillsborough/">Read our full Hillsborough schools guide</a></li>
+</ul>
+<p><strong>Pinellas County</strong> has consistent quality:</p>
+<ul>
+<li>Indian Rocks Christian School: Small classes, personalized attention</li>
+<li>Northeast High School: Strong dual enrollment partnerships</li>
+<li>Clearwater High School: Solid college prep programs</li>
+<li><a href="/counties/pinellas/">Explore Pinellas County schools</a></li>
+</ul>
+<p><strong>Pasco County</strong> is rapidly improving:</p>
+<ul>
+<li>Land O' Lakes High School: New facilities, growing AP offerings</li>
+<li>Wiregrass Ranch High School: High achieving student body</li>
+</ul>
+<p>The key is finding schools with robust course offerings. Small schools might have great teachers but lack advanced math or science courses your student needs.</p>
+<h2>Private vs Public Schools for Bright Futures</h2>
+<p>Private school families often ask if their investment improves Bright Futures chances. The honest answer: it depends.</p>
+<p><strong>Private school advantages:</strong></p>
+<ul>
+<li>Smaller classes often mean better individual attention</li>
+<li>More flexibility in course scheduling</li>
+<li>Often stronger college counseling programs</li>
+</ul>
+<p><strong>Public school advantages:</strong></p>
+<ul>
+<li>Free access to AP and dual enrollment courses</li>
+<li>More diverse course offerings at larger schools</li>
+<li>Built-in guidance counselors familiar with state requirements</li>
+</ul>
+<p>I've seen Bright Futures scholars from both. The determining factors are usually the individual student's motivation and whether the school offers required coursework.</p>
+<p>Academy at the Lakes (private) and Plant High School (public) both send lots of kids to college with Bright Futures. Berkeley Prep and King High School IB program have similar success rates.</p>
+<p>Choose based on fit, not scholarship strategy alone.</p>
+<h2>Dual Enrollment — Free College Credits Plus GPA Boost</h2>
+<p>One of the smartest moves Tampa Bay families make is dual enrollment through local colleges. Students earn college credit while still in high school, and those courses get weighted for Bright Futures GPA calculations.</p>
+<p><strong>Popular dual enrollment partners:</strong></p>
+<ul>
+<li>University of South Florida (limited seats, competitive)</li>
+<li>Hillsborough Community College (most accessible)</li>
+<li>St. Petersburg College</li>
+<li>Pasco-Hernando State College</li>
+</ul>
+<p>Dual enrollment courses receive +0.5 GPA weighting for Bright Futures. An A in dual enrollment English becomes a 4.5 instead of 4.0.</p>
+<p><strong>Strategy:</strong> Use dual enrollment strategically. If your student struggles with high school chemistry but excels in English, take dual enrollment composition courses to boost that Bright Futures GPA.</p>
+<h2>Out-of-State Families — Timing Matters</h2>
+<p>Families relocating to Tampa Bay often ask about Bright Futures eligibility. The rules are strict but fair.</p>
+<p><strong>Residency requirements:</strong></p>
+<ul>
+<li>Student must be Florida resident for at least one year before high school graduation</li>
+<li>Parent/guardian must establish legal Florida residency</li>
+<li>Student must complete high school at a Florida school</li>
+</ul>
+<p><strong>Smart timing:</strong> Move before junior year. This gives your student two full years to establish residency and complete Florida coursework requirements.</p>
+<p>I worked with a family from Ohio who moved to <a href="/cities/wesley-chapel/">Wesley Chapel</a> in 2022. Their daughter was a sophomore, and they specifically timed the move to maximize Bright Futures eligibility. She's now on track for FAS at University of Florida — saving them $25,000+ compared to out-of-state tuition.</p>
+<h2>The Real Cost Savings Breakdown</h2>
+<p>Let's talk actual numbers, because this is where Bright Futures becomes life-changing money.</p>
+<p><strong>University of South Florida (4-year totals):</strong></p>
+<ul>
+<li>Full tuition without scholarship: $25,400</li>
+<li>With FAS (100%): $0 tuition + $2,400 book stipend</li>
+<li>With FMS (75%): $6,350 tuition cost</li>
+<li>Net savings: $19,000 to $27,800</li>
+</ul>
+<p><strong>University of Florida (4-year totals):</strong></p>
+<ul>
+<li>Full tuition without scholarship: $25,600</li>
+<li>With FAS: $0 tuition + $2,400 books</li>
+<li>With FMS: $6,400 tuition cost</li>
+<li>Net savings: $19,200 to $28,000</li>
+</ul>
+<p><strong>Florida State University (4-year totals):</strong></p>
+<ul>
+<li>Full tuition without scholarship: $25,200</li>
+<li>With FAS: $0 tuition + $2,400 books</li>
+<li>With FMS: $6,300 tuition cost</li>
+<li>Net savings: $18,900 to $27,600</li>
+</ul>
+<p>These numbers don't include room and board, but they represent pure tuition savings. For many Tampa Bay families, Bright Futures makes the difference between college debt and graduating debt-free.</p>
+<h2>Common Mistakes That Cost Money</h2>
+<p>Over 23 years, I've watched families make the same expensive mistakes:</p>
+<p><strong>Mistake #1: Wrong GPA calculation</strong>
+Parents use overall GPA instead of core academic GPA. A student might have a 3.2 overall but 3.6 in core courses — qualifying for more money.</p>
+<p><strong>Mistake #2: Ignoring course requirements</strong>
+Taking "easy" math courses that don't meet requirements. Your kid needs Algebra II minimum, not Business Math.</p>
+<p><strong>Mistake #3: Poor test prep timing</strong>
+Waiting until spring of senior year to take SAT/ACT seriously. Start junior year with realistic prep time.</p>
+<p><strong>Mistake #4: Documentation problems</strong>
+Losing track of community service hours or using non-qualifying organizations. Keep detailed records from day one.</p>
+<p><strong>Mistake #5: Missing deadlines</strong>
+The December 1st application deadline is firm. No sob stories, no extensions.</p>
+<p><strong>Mistake #6: Not completing FAFSA</strong>
+Even wealthy families need FAFSA for Bright Futures consideration. Complete it every year.</p>
+<h2>Beyond Bright Futures — Stacking Scholarships</h2>
+<p>Smart families don't stop at Bright Futures. Florida offers additional merit aid that stacks with Bright Futures:</p>
+<p><strong>Florida Student Assistance Grant (FSAG):</strong> Need-based aid up to $2,610 annually
+<strong>Florida Resident Access Grant (FRAG):</strong> Additional aid for eligible students
+<strong>University-specific scholarships:</strong> Many schools offer merit aid on top of Bright Futures</p>
+<p>I've seen students combine Bright Futures with university scholarships to cover room and board too. The University of South Florida, for example, offers additional merit scholarships for high-achieving in-state students.</p>
+<p>The key is applying broadly and early. Most scholarship deadlines fall between December and February of senior year.</p>
+<hr>
+<p><strong>Moving to Tampa Bay?</strong> Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.</p>
+<p><a href="https://nowtb.com">Contact Barrett →</a> | <a href="tel:8137337907">(813) 733-7907</a></p>
+<hr>
+<h2>Planning Early — Freshman Year Strategy</h2>
+<p>The families who maximize Bright Futures success start planning freshman year. Here's the timeline that actually works:</p>
+<p><strong>Freshman Year:</strong></p>
+<ul>
+<li>Meet with school counselor to plan four-year course sequence</li>
+<li>Start community service (spread 100 hours over four years)</li>
+<li>Focus on strong grades in core academic subjects</li>
+<li>Consider foreign language sequence carefully</li>
+</ul>
+<p><strong>Sophomore Year:</strong></p>
+<ul>
+<li>Take PSAT for practice and baseline scores</li>
+<li>Continue community service documentation</li>
+<li>Add challenging courses (Pre-AP, honors) if grades support it</li>
+<li>Begin thinking about dual enrollment opportunities</li>
+</ul>
+<p><strong>Junior Year:</strong></p>
+<ul>
+<li>Take PSAT (National Merit consideration)</li>
+<li>Begin serious SAT/ACT prep</li>
+<li>Take first official SAT/ACT in spring</li>
+<li>Increase rigor with AP or dual enrollment courses</li>
+<li>Complete majority of community service hours</li>
+</ul>
+<p><strong>Senior Year:</strong></p>
+<ul>
+<li>Complete FAFSA in October</li>
+<li>Submit Bright Futures application by December 1</li>
+<li>Retake SAT/ACT if needed (final scores by March)</li>
+<li>Maintain grades through graduation</li>
+</ul>
+<p>This timeline prevents the senior year panic I see too often.</p>
+<h2>Special Circumstances and Appeals</h2>
+<p>Bright Futures does allow appeals for special circumstances, but the bar is high.</p>
+<p><strong>Appealable situations:</strong></p>
+<ul>
+<li>Documented learning disabilities affecting test performance</li>
+<li>Family crisis impacting academic performance</li>
+<li>School error in transcript calculation</li>
+<li>Military deployment affecting community service opportunities</li>
+</ul>
+<p><strong>Non-appealable situations:</strong></p>
+<ul>
+<li>"My kid is a bad test taker"</li>
+<li>"We didn't know about the requirements"</li>
+<li>"They're a late bloomer academically"</li>
+</ul>
+<p>Appeals must include substantial documentation and are rarely successful. Better to plan proactively than hope for exceptions.</p>
+<h2>The Bottom Line for Tampa Bay Families</h2>
+<p>Florida Bright Futures represents one of the best college funding opportunities in America. With proper planning, your student can graduate from a quality state university debt-free.</p>
+<p>The requirements aren't impossible, but they're specific. A 3.5 weighted GPA in core courses, 1330 SAT score, and 100 community service hours will net your family $25,000+ in tuition savings.</p>
+<p>For families considering Tampa Bay relocation, establishing residency before junior year maximizes eligibility. The combination of no state income tax, quality schools, and Bright Futures makes Florida particularly attractive for families with college-bound kids.</p>
+<p>Start planning early, stay organized, and don't assume anything. The families who treat Bright Futures like a serious financial strategy — not just a nice bonus — consistently save the most money.</p>
+<h2>Frequently Asked Questions</h2>
+<h3>Can students use Bright Futures at private Florida colleges?</h3>
+<p>No, Bright Futures only covers tuition at Florida public universities, state colleges, and community colleges. Private institutions like University of Tampa or Florida Institute of Technology don't participate in the program.</p>
+<h3>What happens if my student changes majors in college?</h3>
+<p>Students can change majors without losing Bright Futures as long as they maintain required GPA and credit hour completion. The scholarship follows the student, not the specific degree program.</p>
+<h3>Do AP test scores affect Bright Futures eligibility?</h3>
+<p>No, AP exam scores don't count toward Bright Futures requirements. However, AP courses receive +1.0 GPA weighting, so taking AP classes (regardless of exam performance) can boost the weighted GPA calculation.</p>
+<h3>Can homeschool students qualify for Bright Futures?</h3>
+<p>Yes, homeschool students can qualify by meeting the same academic requirements. They must take SAT/ACT tests, document community service, and complete required coursework through accredited programs or dual enrollment.</p>
+<h3>What if my family moves out of Florida during college?</h3>
+<p>Students who establish Florida residency and graduate from a Florida high school maintain Bright Futures eligibility even if parents relocate. However, the student must remain enrolled continuously at a Florida public institution.</p>
+<h3>Is there a deadline to use Bright Futures after high school graduation?</h3>
+<p>Students must begin using Bright Futures within two years of high school graduation. The scholarship can't be "saved" for later use or deferred indefinitely.</p>
+<h3>Can students who don't initially qualify apply later?</h3>
+<p>No, Bright Futures applications are only accepted during senior year of high school. Students who don't meet requirements by graduation cannot apply in subsequent years, even if they later meet the criteria.</p>
+<h3>Does Bright Futures cover summer classes?</h3>
+<p>Yes, Bright Futures can be used for summer term enrollment at Florida public institutions. This can help students graduate early or maintain full-time status while taking lighter fall/spring loads.</p>
+8:["slug","florida-bright-futures-scholarship-guide","d"]
+0:["SZLIdUDBKVit2TP_UqbYL",[[["",{"children":["blog",{"children":[["slug","florida-bright-futures-scholarship-guide","d"],{"children":["__PAGE__?{\"slug\":\"florida-bright-futures-scholarship-guide\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","florida-bright-futures-scholarship-guide","d"],{"children":["__PAGE__",{},[["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","section",null,{"className":"relative w-full h-[200px] md:h-[300px] overflow-hidden bg-brand-navy","children":[["$","$L3",null,{"src":"/images/blog/housing.jpg","alt":"Florida Bright Futures Scholarship — Saving for Your Kids","fill":true,"className":"object-cover","unoptimized":true,"priority":true}],["$","div",null,{"className":"absolute inset-0 bg-brand-navy/60"}],["$","div",null,{"className":"relative z-10 flex flex-col items-center justify-center h-full px-4 text-center","children":[["$","h1",null,{"className":"text-white text-3xl md:text-5xl font-display font-extrabold leading-tight max-w-4xl","children":"Florida Bright Futures Scholarship — Saving for Your Kids"}],"$undefined"]}]]}],["$","article",null,{"className":"max-w-4xl mx-auto px-4 py-10","children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://tbrelo.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://tbrelo.com/blog/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Florida Bright Futures Scholarship — Saving for Your Kids\",\"item\":\"https://tbrelo.com/blog/florida-bright-futures-scholarship-guide/\"}]}"}}],["$","nav",null,{"aria-label":"Breadcrumb","className":"text-sm text-brand-slate mb-6","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-1","children":[["$","li","/",{"className":"flex items-center gap-1","children":[false,["$","$L4",null,{"href":"/","className":"hover:text-brand-blue transition-colors","children":"Home"}]]}],["$","li","/blog/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","$L4",null,{"href":"/blog/","className":"hover:text-brand-blue transition-colors","children":"Blog"}]]}],["$","li","/blog/florida-bright-futures-scholarship-guide/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","span",null,{"className":"text-brand-navy font-medium","children":"Florida Bright Futures Scholarship — Saving for Your Kids"}]]}]]}]}]],["$","p",null,{"className":"text-brand-slate text-sm mb-8","children":["Published ","April 12, 2026"]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$5"}}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"cta-box-primary","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-white","children":"Moving to Tampa Bay? Get a Local Expert."}],["$","p",null,{"className":"text-sm mb-4 text-white","children":"Barrett Henry is a Broker Associate with REMAX Collective and over 23 years of real estate experience. Straight talk, smart strategy, no pressure."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-blue text-white hover:bg-blue-600","children":["Contact Barrett"," →"]}],["$","a",null,{"href":"tel:8137337907","className":"text-sm text-white","children":"(813) 733-7907"}]]}]]}],["$","div",null,{"className":"cta-box","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-brand-navy","children":"Need Help Setting Up Your New Home?"}],["$","p",null,{"className":"text-sm mb-4 text-brand-slate","children":"Best Bay Services handles handyman work, home repairs, and maintenance for your new Tampa Bay home. Local, licensed, and trusted."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-navy text-white hover:bg-brand-dark","children":["Get a Quote"," →"]}],["$","a",null,{"href":"tel:8134168676","className":"text-sm text-brand-blue","children":"(813) 416-8676"}]]}]]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","$L6",null,{"blogSlug":"florida-bright-futures-scholarship-guide"}]]}]],null],null],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$8","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/db2729ad4a9f0783.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link",null,{"rel":"icon","href":"/favicon-32.png","type":"image/png","sizes":"32x32"}],["$","link",null,{"rel":"icon","href":"/favicon-16.png","type":"image/png","sizes":"16x16"}],["$","link",null,{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link",null,{"rel":"icon","href":"/icon-192.png","type":"image/png","sizes":"192x192"}],["$","meta",null,{"name":"google-adsense-account","content":"ca-pub-2033173419526042"}],["$","meta",null,{"name":"impact-site-verification","content":"bb623f40-9653-4312-9ca8-bf35b957a10c"}],["$","$La",null,{"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2033173419526042","strategy":"afterInteractive","crossOrigin":"anonymous"}],["$","$La",null,{"src":"https://www.googletagmanager.com/gtag/js?id=G-TD87S02SLM","strategy":"afterInteractive"}],["$","$La",null,{"id":"gtag-init","strategy":"afterInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'G-TD87S02SLM');\n          "}]]}],["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"[{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"https://tbrelo.com/#website\",\"name\":\"TB Relo — Tampa Bay Relocation Guide\",\"url\":\"https://tbrelo.com\",\"description\":\"Comprehensive relocation guides for Tampa Bay, Florida. Covering 8 counties, 100+ cities, cost of living, schools, and everything you need to know about moving to Tampa Bay.\",\"publisher\":{\"@id\":\"https://tbrelo.com/#org\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://tbrelo.com/blog/?q={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}},{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://tbrelo.com/#org\",\"name\":\"TB Relo\",\"url\":\"https://tbrelo.com\",\"sameAs\":[\"https://nowtb.com\",\"https://valricoagent.com\",\"https://parrishagent.com\",\"https://www.facebook.com/BarrettHenryREALTOR/\",\"https://www.instagram.com/thenowteam\",\"https://www.youtube.com/@nowtampa\"]}]"}}],["$","$Lb",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"max-w-2xl mx-auto px-4 py-20 text-center","children":[["$","h1",null,{"className":"text-6xl font-display font-extrabold text-brand-navy mb-4","children":"404"}],["$","p",null,{"className":"text-xl text-brand-slate mb-8","children":"This page doesn't exist. Maybe you're looking for one of these?"}],["$","div",null,{"className":"grid sm:grid-cols-2 gap-4 mb-12 text-left","children":[["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Moving Guide"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Complete guide to relocating to Tampa Bay"}]]}],["$","$L4",null,{"href":"/counties/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Explore Counties"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Browse all 8 Tampa Bay counties"}]]}],["$","$L4",null,{"href":"/cities/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Find a City"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"90+ city and neighborhood guides"}]]}],["$","$L4",null,{"href":"/blog/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Blog"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Tips, comparisons, and local insights"}]]}]]}],["$","$L4",null,{"href":"/","className":"px-8 py-4 bg-brand-blue text-white font-display font-bold rounded-lg hover:bg-blue-600 transition-colors text-lg inline-block","children":"Back to Home"}]]}],"notFoundStyles":[]}]}],["$","footer",null,{"className":"bg-brand-dark text-gray-400","children":[["$","div",null,{"className":"bg-brand-navy","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10","children":["$","div",null,{"className":"grid md:grid-cols-3 gap-8 text-center","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Buying or Selling a Home?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Barrett Henry — The NOW Team at REMAX Collective"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 733-7907"}]]}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Need a Handyman?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Best Bay Services — Tampa Bay Home Services"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 416-8676"}]]}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Property Management"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"ViVi PM — Full-Service Property Management"}]]}]]}]}]}],["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8","children":[["$","div",null,{"className":"md:col-span-2","children":[["$","div",null,{"className":"font-display font-extrabold text-2xl text-white mb-3","children":["TB",["$","span",null,{"className":"text-brand-sky","children":"Relo"}]]}],["$","p",null,{"className":"text-sm leading-relaxed","children":"Your complete guide to relocating to Tampa Bay, Florida. Covering Hillsborough, Pinellas, Pasco, Hernando, Polk, Manatee, Sarasota, and Citrus counties with honest, local insight from someone who actually lives here."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Guides"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"hover:text-white transition-colors","children":"Moving to Tampa Bay"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/cost-of-living/","className":"hover:text-white transition-colors","children":"Cost of Living"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/moving-checklist/","className":"hover:text-white transition-colors","children":"Moving Checklist"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/blog/","className":"hover:text-white transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Counties"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li","Hillsborough",{"children":["$","$L4",null,{"href":"/counties/hillsborough/","className":"hover:text-white transition-colors","children":["Hillsborough"," County"]}]}],["$","li","Pinellas",{"children":["$","$L4",null,{"href":"/counties/pinellas/","className":"hover:text-white transition-colors","children":["Pinellas"," County"]}]}],["$","li","Pasco",{"children":["$","$L4",null,{"href":"/counties/pasco/","className":"hover:text-white transition-colors","children":["Pasco"," County"]}]}],["$","li","Hernando",{"children":["$","$L4",null,{"href":"/counties/hernando/","className":"hover:text-white transition-colors","children":["Hernando"," County"]}]}],["$","li","Polk",{"children":["$","$L4",null,{"href":"/counties/polk/","className":"hover:text-white transition-colors","children":["Polk"," County"]}]}],["$","li","Manatee",{"children":["$","$L4",null,{"href":"/counties/manatee/","className":"hover:text-white transition-colors","children":["Manatee"," County"]}]}],["$","li","Sarasota",{"children":["$","$L4",null,{"href":"/counties/sarasota/","className":"hover:text-white transition-colors","children":["Sarasota"," County"]}]}],["$","li","Citrus",{"children":["$","$L4",null,{"href":"/counties/citrus/","className":"hover:text-white transition-colors","children":["Citrus"," County"]}]}]]}]]}]]}],["$","div",null,{"className":"mt-10 pt-8 border-t border-gray-800","children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Barrett Henry's Network"}],["$","div",null,{"className":"grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3 text-sm","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Tampa Bay Real Estate"}],["$","a",null,{"href":"https://valricoagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Real Estate"}],["$","a",null,{"href":"https://parrishagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Parrish Real Estate"}],["$","a",null,{"href":"https://valrico.blog","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Community Blog"}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Handyman & Home Services"}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Property Management"}]]}]]}],["$","div",null,{"className":"mt-12 pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center gap-4 text-xs","children":[["$","p",null,{"children":["© ",2026," TB Relo. All rights reserved."]}],["$","div",null,{"className":"flex gap-4","children":[["$","$L4",null,{"href":"/affiliate-disclosure/","className":"hover:text-white transition-colors","children":"Affiliate Disclosure"}],["$","$L4",null,{"href":"/privacy-policy/","className":"hover:text-white transition-colors","children":"Privacy Policy"}],["$","$L4",null,{"href":"/disclaimer/","className":"hover:text-white transition-colors","children":"Disclaimer"}]]}]]}]]}],["$","div",null,{"className":"bg-black/30 border-t border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 text-center text-xs text-gray-500","children":["Site by"," ",["$","a",null,{"href":"https://vyrabyte.com","target":"_blank","rel":"noopener noreferrer","className":"text-gray-400 hover:text-white transition-colors","children":"Vyrabyte"}]]}]}]]}],["$","$Lc",null,{}]]}]]}]],null],null],["$Ld",null]]]]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Florida Bright Futures Scholarship — Saving for Your Kids | TB Relo | TB Relo"}],["$","meta","3",{"name":"description","content":"Florida Bright Futures Scholarship. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","6",{"property":"og:title","content":"Florida Bright Futures Scholarship — Saving for Your Kids | TB Relo | TB Relo"}],["$","meta","7",{"property":"og:description","content":"Florida Bright Futures Scholarship. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","8",{"property":"og:image","content":"https://tbrelo.com/images/blog/housing.jpg"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"Florida Bright Futures Scholarship — Saving for Your Kids | TB Relo | TB Relo"}],["$","meta","13",{"name":"twitter:description","content":"Florida Bright Futures Scholarship. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","14",{"name":"twitter:image","content":"https://tbrelo.com/images/blog/housing.jpg"}],["$","link","15",{"rel":"icon","href":"/icon.svg?ff4364d89c37c0d6","type":"image/svg+xml","sizes":"any"}]]
+1:null

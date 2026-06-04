@@ -104,7 +104,7 @@ The reality is that Seffner residents live in Seffner but eat, shop, and play in
 
 Seffner's older housing stock means you're more likely to need some work done on a home — either before move-in or shortly after.
 
-**Home services:** Older homes mean older plumbing, electrical panels that might need updating, lanais that need screening, and general wear that comes with houses built in the '70s, '80s, and '90s. {{bbs}} handles handyman work, repairs, and home maintenance throughout the Seffner area. Get an inspection, make a list, and knock it out before you're fully unpacked.
+**Home services:** Older homes mean older plumbing, electrical panels that might need updating, lanais that need screening, and general wear that comes with houses built in the '70s, '80s, and '90s. {{bbs}} handles handyman work, repairs, and home maintenance throughout the Seffner area. For homes on the south side of Seffner near the Brandon-Valrico corridor, [Best Valrico Handyman](https://bestvalricohandyman.com) also serves the area — TV mounting, painting, pressure washing, and general repairs. Get an inspection, make a list, and knock it out before you're fully unpacked.
 
 **Internet:** {{spectrum}} covers Seffner with solid speeds in most neighborhoods. Some of the more rural pockets north of I-4 may have slower options — verify before closing, especially if you work from home.
 

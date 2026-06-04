@@ -1,0 +1,426 @@
+3:I[5878,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"Image"]
+4:I[2972,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],""]
+6:I[5143,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"default"]
+7:I[4707,[],""]
+9:I[6423,[],""]
+a:I[8003,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],""]
+b:I[7312,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"default"]
+c:I[5463,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"SpeedInsights"]
+2:Tf8e,[{"@context":"https://schema.org","@type":"Article","headline":"Florida VPK Program Explained — Free Preschool for 4-Year-Olds | TB Relo","description":"Florida VPK Program Explained. Honest guide from a Tampa Bay local with 23+ years of experience.","url":"https://tbrelo.com/blog/florida-vpk-program-explained/","author":{"@type":"Person","name":"Barrett Henry","jobTitle":"REALTOR® & Broker Associate","url":"https://nowtb.com","worksFor":{"@type":"Organization","name":"REMAX Collective"},"knowsAbout":["Tampa Bay Real Estate","Florida Relocation","Residential Real Estate","Investment Property","Property Management"]},"publisher":{"@type":"Organization","name":"TB Relo","url":"https://tbrelo.com"},"datePublished":"2026-04-05T08:00:00-04:00","dateModified":"2026-04-16T08:00:00-04:00","image":{"@type":"ImageObject","url":"https://tbrelo.com/images/blog/housing.jpg"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Can my child attend VPK if we just moved to Florida?","acceptedAnswer":{"@type":"Answer","text":"Yes, as long as your child meets age requirements and you can prove Florida residency. You'll need documents like a lease agreement, utility bills, or voter registration. The Family Portal accepts applications year-round, though late enrollment depends on provider availability."}},{"@type":"Question","name":"What happens if my child turns 4 after September 1st?","acceptedAnswer":{"@type":"Answer","text":"Children must be 4 by September 1st to participate in that year's VPK program. If your child has a late birthday, they'll need to wait until the following year when they're 5. Some parents choose private preschool for the gap year."}},{"@type":"Question","name":"Can I use VPK at any provider I want?","acceptedAnswer":{"@type":"Answer","text":"You can apply to any licensed VPK provider in Florida, but acceptance depends on available space. Popular programs fill quickly, so apply early and consider multiple options. Geographic proximity often influences placement priority."}},{"@type":"Question","name":"What if my child has special needs or developmental delays?","acceptedAnswer":{"@type":"Answer","text":"All VPK providers must accept children with disabilities and provide reasonable accommodations. If your child receives Early Steps services, coordinate with their team about VPK placement. Some districts offer specialized VPK classrooms for children with more significant needs."}},{"@type":"Question","name":"Is VPK really completely free?","acceptedAnswer":{"@type":"Answer","text":"The 540 hours of instruction are free, but some providers charge additional fees for registration, supplies, or extended day care. Public school programs typically have fewer extra costs than private providers. Ask about all potential fees during enrollment."}},{"@type":"Question","name":"Can my child do VPK twice if they're not ready for kindergarten?","acceptedAnswer":{"@type":"Answer","text":"No, each child gets one year of VPK eligibility. If you feel your child needs another year before kindergarten, you'd need to pay for private preschool or delay kindergarten entry. Discuss options with your pediatrician and VPK teachers."}},{"@type":"Question","name":"How do I know if a VPK program is high quality?","acceptedAnswer":{"@type":"Answer","text":"Look for Gold Seal designation, which indicates enhanced quality standards. Visit programs to observe teacher interactions, classroom environment, and learning activities. Ask about teacher qualifications, curriculum, and kindergarten readiness outcomes."}},{"@type":"Question","name":"What should my child know before starting VPK?","acceptedAnswer":{"@type":"Answer","text":"Most VPK programs don't require specific academic skills, but basic independence helps: using the bathroom alone, following simple instructions, sharing toys, and communicating needs. Focus on social skills and emotional readiness rather than academic preparation."}}]}]5:T546c,<p>If you're moving to Florida with a 4-year-old, you just hit the educational lottery. The Voluntary Prekindergarten (VPK) program gives every eligible child 540 hours of free preschool education. No income limits. No waiting lists. Just free, quality early education that prepares your kid for kindergarten.</p>
+<p>After 23 years helping families relocate to Tampa Bay, I've seen the relief on parents' faces when they discover VPK. One less massive expense to worry about during a move. But like any government program, VPK has rules, deadlines, and quirks you need to understand.</p>
+<h2>What Is Florida's VPK Program?</h2>
+<p>Florida's Voluntary Prekindergarten program launched in 2005 after voters approved a constitutional amendment. The state funds 540 hours of free prekindergarten education for every 4-year-old child, regardless of family income.</p>
+<p>Here's what makes VPK different from typical daycare:</p>
+<ul>
+<li><strong>Educational focus</strong>: Curriculum must meet state standards</li>
+<li><strong>Teacher requirements</strong>: VPK instructors need specific training and credentials</li>
+<li><strong>School readiness</strong>: Programs emphasize literacy, math basics, and social skills</li>
+<li><strong>Assessment tracking</strong>: Kids are evaluated on developmental milestones</li>
+</ul>
+<p>The program serves about 180,000 children annually across Florida. In Hillsborough County alone, over 15,000 kids participate each year through roughly 400 providers.</p>
+<h2>VPK Eligibility Requirements</h2>
+<p>Your child qualifies for VPK if they:</p>
+<ul>
+<li>Turn 4 years old by September 1st of the program year</li>
+<li>Have not yet entered kindergarten</li>
+<li>Are legal residents of Florida</li>
+</ul>
+<p>That's it. No income requirements, no lengthy applications, no bureaucratic hoops. If your 4-year-old lives in Florida, they're eligible.</p>
+<p><strong>Important timing note</strong>: Children who turn 4 after September 1st must wait until the following year to participate. So a child born September 15th would start VPK the year they turn 5, not 4.</p>
+<h2>Two VPK Schedule Options</h2>
+<p>Florida offers two distinct VPK formats to accommodate different family needs:</p>
+<h3>School-Year Program (540 Hours)</h3>
+<ul>
+<li><strong>Duration</strong>: August/September through May/June</li>
+<li><strong>Schedule</strong>: 3 hours per day, typically 180 school days</li>
+<li><strong>Best for</strong>: Families wanting a traditional preschool experience</li>
+<li><strong>Locations</strong>: Public schools, private schools, licensed childcare centers</li>
+</ul>
+<h3>Summer Program (300 Hours)</h3>
+<ul>
+<li><strong>Duration</strong>: 6-8 weeks during summer months</li>
+<li><strong>Schedule</strong>: 6 hours per day, Monday-Friday</li>
+<li><strong>Best for</strong>: Working parents needing full-day coverage</li>
+<li><strong>Locations</strong>: Primarily licensed childcare centers</li>
+</ul>
+<p>Most families choose the school-year option, but the summer program works well if you need longer daily hours or missed the regular enrollment period.</p>
+<h2>VPK Enrollment Process and Deadlines</h2>
+<h3>Registration Timeline</h3>
+<ul>
+<li><strong>Open enrollment</strong>: Begins February 1st each year</li>
+<li><strong>Priority deadline</strong>: April 30th for guaranteed placement</li>
+<li><strong>Late enrollment</strong>: May 1st through July 31st (space permitting)</li>
+<li><strong>Classes begin</strong>: Late August or early September</li>
+</ul>
+<h3>How to Enroll</h3>
+<p><strong>Step 1: Create your Family Portal account</strong>
+Visit familyservices.floridaearlylearning.gov and register. You'll need:</p>
+<ul>
+<li>Child's birth certificate</li>
+<li>Proof of Florida residency (utility bill, lease agreement, etc.)</li>
+<li>Social Security card (if available)</li>
+</ul>
+<p><strong>Step 2: Complete the application</strong>
+The online form takes about 10 minutes. You'll select your preferred providers and schedule option.</p>
+<p><strong>Step 3: Receive your Certificate of Eligibility</strong>
+Once approved, you'll get a certificate to present to your chosen provider.</p>
+<p><strong>Step 4: Contact providers directly</strong>
+Call your preferred VPK sites to confirm enrollment and ask about waiting lists.</p>
+<p><strong>Pro tip</strong>: Don't wait until April. Popular providers fill up quickly, especially in desirable neighborhoods like South Tampa, Westchase, and Brandon.</p>
+<h2>Types of VPK Providers</h2>
+<h3>Public School Districts</h3>
+<p>Every school district in Florida offers VPK programs. In Tampa Bay, you'll find VPK classes at:</p>
+<p><strong>Hillsborough County Schools</strong></p>
+<ul>
+<li>Over 80 elementary schools offer VPK</li>
+<li>Transportation typically provided</li>
+<li>Seamless transition to kindergarten</li>
+<li>Programs run 2.5-3 hours daily</li>
+</ul>
+<p><strong>Pinellas County Schools</strong></p>
+<ul>
+<li>VPK available at most elementary schools</li>
+<li>Some magnet programs include VPK</li>
+<li>Strong literacy focus</li>
+<li>Extended day options at select schools</li>
+</ul>
+<p><strong>Pasco County Schools</strong></p>
+<ul>
+<li>Growing VPK program across the district</li>
+<li>New facilities in Wesley Chapel and Land O'Lakes</li>
+<li>Bilingual options available</li>
+</ul>
+<h3>Private Schools and Childcare Centers</h3>
+<p>Licensed private providers must meet the same educational standards as public schools. Popular chains in Tampa Bay include:</p>
+<ul>
+<li><strong>Bright Horizons</strong>: Locations in Westshore, Brandon, Wesley Chapel</li>
+<li><strong>Goddard School</strong>: Multiple Tampa Bay locations</li>
+<li><strong>Primrose Schools</strong>: South Tampa, Carrollwood, Riverview</li>
+<li><strong>Local centers</strong>: Hundreds of independent providers</li>
+</ul>
+<p>Private providers often offer:</p>
+<ul>
+<li>Extended hours (7 AM - 6 PM)</li>
+<li>Before/after VPK care</li>
+<li>Summer programs</li>
+<li>More flexible scheduling</li>
+</ul>
+<h3>Faith-Based Programs</h3>
+<p>Many churches and religious organizations offer VPK:</p>
+<ul>
+<li>Christ the King Catholic School (South Tampa)</li>
+<li>Trinity Presbyterian School (Clearwater)</li>
+<li>Temple Terrace Presbyterian School</li>
+<li>Academy Prep Center (St. Petersburg)</li>
+</ul>
+<p>These programs combine state-approved curriculum with faith-based values and often have strong community connections.</p>
+<h2>What Your Child Will Learn</h2>
+<p>VPK isn't glorified daycare. The Florida Department of Education mandates specific learning standards across four domains:</p>
+<h3>Language and Literacy</h3>
+<ul>
+<li>Letter recognition and sounds</li>
+<li>Vocabulary development</li>
+<li>Story comprehension</li>
+<li>Early writing skills</li>
+<li>Rhyming and wordplay</li>
+</ul>
+<h3>Mathematical Thinking</h3>
+<ul>
+<li>Number recognition 1-20</li>
+<li>Basic counting and patterns</li>
+<li>Shape identification</li>
+<li>Measurement concepts</li>
+<li>Simple problem-solving</li>
+</ul>
+<h3>Scientific Inquiry</h3>
+<ul>
+<li>Observation and exploration</li>
+<li>Cause and effect understanding</li>
+<li>Nature and environment awareness</li>
+<li>Basic science vocabulary</li>
+</ul>
+<h3>Social Studies</h3>
+<ul>
+<li>Community helpers</li>
+<li>Family and cultural awareness</li>
+<li>Rules and cooperation</li>
+<li>Geographic concepts</li>
+</ul>
+<h3>Creative Arts</h3>
+<ul>
+<li>Music and movement</li>
+<li>Art exploration</li>
+<li>Dramatic play</li>
+<li>Creative expression</li>
+</ul>
+<h3>Physical Development</h3>
+<ul>
+<li>Fine motor skills (cutting, writing)</li>
+<li>Gross motor activities</li>
+<li>Health and safety awareness</li>
+<li>Self-care independence</li>
+</ul>
+<p>Teachers use play-based learning to make these concepts engaging. Don't expect worksheets and drilling — good VPK programs teach through games, songs, stories, and hands-on activities.</p>
+<h2>VPK Program Quality and Standards</h2>
+<p>Not all VPK programs are created equal. Florida uses a Quality Rating and Improvement System (QRIS) to help parents identify high-performing providers.</p>
+<h3>Gold Seal Quality Care</h3>
+<p>The highest designation for early learning programs. Gold Seal providers must:</p>
+<ul>
+<li>Meet enhanced staff qualification requirements</li>
+<li>Undergo additional quality assessments</li>
+<li>Demonstrate superior educational outcomes</li>
+<li>Maintain lower child-to-teacher ratios</li>
+</ul>
+<p>Look for the Gold Seal logo when researching providers. These programs consistently produce better kindergarten readiness results.</p>
+<h3>Teacher Qualifications</h3>
+<p>VPK instructors must have:</p>
+<ul>
+<li>High school diploma or equivalent</li>
+<li>40-hour prekindergarten training course</li>
+<li>10 annual training hours</li>
+<li>Background screening clearance</li>
+</ul>
+<p>Better programs employ teachers with:</p>
+<ul>
+<li>Associate or bachelor's degrees in early childhood education</li>
+<li>Child Development Associate (CDA) credentials</li>
+<li>Years of preschool teaching experience</li>
+</ul>
+<h3>Class Size Limits</h3>
+<ul>
+<li>Maximum 20 children per class</li>
+<li>At least one instructor and one assistant per class</li>
+<li>Lower ratios (10:1 or 12:1) in higher-quality programs</li>
+</ul>
+<h2>Choosing the Right VPK Provider</h2>
+<p>With hundreds of options across Tampa Bay, picking the right provider feels overwhelming. Here's how to narrow your search:</p>
+<h3>Location and Logistics</h3>
+<ul>
+<li><strong>Proximity to home</strong>: Keep drive times under 15 minutes</li>
+<li><strong>Transportation</strong>: Public school programs often provide buses</li>
+<li><strong>Schedule fit</strong>: Consider work hours and family routines</li>
+<li><strong>Extended care</strong>: Available before/after VPK hours?</li>
+</ul>
+<h3>Educational Approach</h3>
+<p>Visit potential providers and ask:</p>
+<ul>
+<li>How do you prepare children for kindergarten?</li>
+<li>What curriculum do you follow?</li>
+<li>How do you assess child progress?</li>
+<li>Can I see a typical daily schedule?</li>
+<li>How do you handle behavioral issues?</li>
+</ul>
+<h3>Facility and Environment</h3>
+<p>Look for:</p>
+<ul>
+<li>Clean, safe, well-organized classrooms</li>
+<li>Age-appropriate toys and learning materials</li>
+<li>Outdoor play areas</li>
+<li>Proper licensing displayed</li>
+<li>Happy, engaged children</li>
+</ul>
+<h3>Communication and Involvement</h3>
+<p>Quality programs:</p>
+<ul>
+<li>Provide regular progress updates</li>
+<li>Welcome parent volunteers</li>
+<li>Host family events</li>
+<li>Maintain open communication</li>
+<li>Share photos and daily reports</li>
+</ul>
+<p><strong>Red flags</strong>: High teacher turnover, unlicensed staff, poor communication, chaotic environments, or programs that seem more focused on childcare than education.</p>
+<h2>VPK in Major Tampa Bay Areas</h2>
+<h3>Tampa (Hillsborough County)</h3>
+<p>Popular VPK neighborhoods include:</p>
+<ul>
+<li><strong>Hyde Park</strong>: Hyde Park Elementary, Academy Prep</li>
+<li><strong>South Tampa</strong>: Christ the King, multiple private centers</li>
+<li><strong>Westchase</strong>: Hunters Green Elementary, private providers</li>
+<li><strong>Brandon</strong>: Dozens of options including Brandon Elementary cluster</li>
+</ul>
+<p>Average waitlist times: 2-4 weeks for popular public schools, immediate availability at many private centers.</p>
+<h3>St. Petersburg (Pinellas County)</h3>
+<p>Strong VPK options throughout the city:</p>
+<ul>
+<li><strong>Downtown</strong>: Multiple centers, some with extended hours</li>
+<li><strong>Northeast</strong>: Skyview Elementary, Azalea Elementary</li>
+<li><strong>Beaches</strong>: Seminole, Indian Rocks Beach areas</li>
+</ul>
+<p>Pinellas County has particularly strong VPK programs with above-average kindergarten readiness scores.</p>
+<h3>Clearwater</h3>
+<p>Mix of public and private options:</p>
+<ul>
+<li><strong>Safety Harbor</strong>: Safety Harbor Elementary</li>
+<li><strong>Countryside</strong>: Multiple private providers</li>
+<li><strong>Belcher Elementary</strong>: Highly rated VPK program</li>
+</ul>
+<h3>Brandon and Riverview</h3>
+<p>Rapidly growing area with newer facilities:</p>
+<ul>
+<li><strong>FishHawk Ranch</strong>: Multiple private providers</li>
+<li><strong>Riverview</strong>: New elementary schools with VPK</li>
+<li><strong>Bloomingdale</strong>: Established programs, good availability</li>
+</ul>
+<h3>Wesley Chapel and Land O'Lakes (Pasco County)</h3>
+<p>Newer communities with modern facilities:</p>
+<ul>
+<li><strong>Seven Springs</strong>: Both public and private options</li>
+<li><strong>Starkey Ranch</strong>: Growing program selection</li>
+<li><strong>Zephyrhills</strong>: More affordable options, shorter waitlists</li>
+</ul>
+<p>For detailed information about schools in specific areas, check our <a href="/schools/">complete Tampa Bay schools guide</a>.</p>
+<h2>Special Needs and VPK</h2>
+<p>Children with disabilities or developmental delays can participate in VPK with appropriate supports. Florida requires providers to:</p>
+<ul>
+<li>Accept children with special needs</li>
+<li>Provide reasonable accommodations</li>
+<li>Coordinate with Early Steps programs</li>
+<li>Include special needs children in regular classrooms when appropriate</li>
+</ul>
+<p>If your child has an Individualized Education Program (IEP) or receives Early Steps services, discuss VPK options during transition planning meetings. Some school districts offer specialized VPK classrooms for children with more significant needs.</p>
+<h2>After VPK: Transitioning to Kindergarten</h2>
+<p>VPK's ultimate goal is kindergarten readiness. Research shows VPK participants:</p>
+<ul>
+<li>Score higher on kindergarten assessments</li>
+<li>Display better social and emotional skills</li>
+<li>Have fewer grade retention rates</li>
+<li>Show improved long-term academic outcomes</li>
+</ul>
+<h3>Kindergarten Registration</h3>
+<p>VPK doesn't automatically enroll your child in kindergarten. You must register separately, typically in spring before the fall kindergarten year. Requirements include:</p>
+<ul>
+<li>Birth certificate</li>
+<li>Immunization records</li>
+<li>Proof of residence</li>
+<li>VPK completion certificate (if applicable)</li>
+</ul>
+<h3>Choosing Elementary Schools</h3>
+<p>Consider factors like:</p>
+<ul>
+<li>School grades and ratings</li>
+<li>Distance from home</li>
+<li>Magnet or specialty programs</li>
+<li>Before/after school care</li>
+<li>Class sizes and resources</li>
+</ul>
+<p>Many families use VPK as a trial run for elementary school selection. If your child thrives at a particular provider, look into their affiliated elementary schools.</p>
+<hr>
+<p><strong>Moving to Tampa Bay with young children?</strong> Barrett Henry understands the importance of quality education from day one. Get insider knowledge on the best VPK programs and elementary schools in your target neighborhoods.</p>
+<p><a href="https://nowtb.com">Contact Barrett →</a> | <a href="tel:8137337907">(813) 733-7907</a></p>
+<hr>
+<h2>VPK Costs and Additional Expenses</h2>
+<p>While VPK tuition is free, families may encounter additional costs:</p>
+<h3>Potential Extra Fees</h3>
+<ul>
+<li><strong>Registration fees</strong>: $25-$75 at some private providers</li>
+<li><strong>Materials/supplies</strong>: $20-$50 for art supplies, folders, etc.</li>
+<li><strong>Extended day care</strong>: $200-$400 monthly for before/after VPK hours</li>
+<li><strong>Transportation</strong>: $30-$50 monthly if not provided by school district</li>
+<li><strong>Field trips</strong>: $5-$15 per trip (usually optional)</li>
+</ul>
+<h3>Budget-Friendly Tips</h3>
+<ul>
+<li>Choose public school programs to minimize extra fees</li>
+<li>Ask about fee waivers for low-income families</li>
+<li>Compare extended care costs across providers</li>
+<li>Look for programs that include supplies and materials</li>
+</ul>
+<h3>Financial Assistance</h3>
+<p>While VPK itself is free, families needing extended day care may qualify for:</p>
+<ul>
+<li>School Readiness subsidies for working families</li>
+<li>Head Start programs for income-eligible families</li>
+<li>Sliding scale fees at some private providers</li>
+</ul>
+<h2>Common VPK Challenges and Solutions</h2>
+<h3>Late Enrollment</h3>
+<p>Missed the April deadline? Don't panic. Options include:</p>
+<ul>
+<li>Check for openings during late enrollment (May-July)</li>
+<li>Consider summer VPK programs</li>
+<li>Look at less popular providers with availability</li>
+<li>Wait until the following year (child would be 5)</li>
+</ul>
+<h3>Moving During VPK Year</h3>
+<p>Relocating mid-year doesn't mean losing VPK benefits:</p>
+<ul>
+<li>Transfer your certificate to new provider</li>
+<li>Look for openings at providers near new home</li>
+<li>Maintain continuity by finishing year at original provider if feasible</li>
+</ul>
+<h3>Provider Disappointment</h3>
+<p>If your chosen program isn't meeting expectations:</p>
+<ul>
+<li>Communicate concerns with director first</li>
+<li>Request classroom observations</li>
+<li>Consider transferring to different provider</li>
+<li>Document issues for future reference</li>
+</ul>
+<h3>Behavioral Concerns</h3>
+<p>Some children struggle with preschool structure:</p>
+<ul>
+<li>Work with teachers on consistent strategies</li>
+<li>Consider shorter adjustment period</li>
+<li>Discuss with pediatrician if issues persist</li>
+<li>Look into programs with smaller class sizes</li>
+</ul>
+<h2>VPK Success Stories and Outcomes</h2>
+<p>Data from the Florida Department of Education shows impressive VPK results:</p>
+<ul>
+<li>79% of VPK participants demonstrate kindergarten readiness</li>
+<li>Students show gains in letter knowledge, vocabulary, and math skills</li>
+<li>Achievement gaps narrow between different demographic groups</li>
+<li>Long-term benefits continue through elementary school</li>
+</ul>
+<p>Local Tampa Bay outcomes mirror statewide trends. Hillsborough County reports that VPK participants are:</p>
+<ul>
+<li>40% more likely to read at grade level by third grade</li>
+<li>Less likely to be retained in early elementary grades</li>
+<li>More socially prepared for school environments</li>
+</ul>
+<h2>Making the Most of Your VPK Year</h2>
+<h3>Parent Involvement Tips</h3>
+<ul>
+<li>Attend orientation and parent meetings</li>
+<li>Volunteer for classroom activities when possible</li>
+<li>Reinforce learning at home</li>
+<li>Communicate regularly with teachers</li>
+<li>Join parent groups or committees</li>
+</ul>
+<h3>Supporting Learning at Home</h3>
+<ul>
+<li>Read together daily (library story times are great)</li>
+<li>Practice letters and numbers during everyday activities</li>
+<li>Encourage independence with self-care skills</li>
+<li>Limit screen time and emphasize active play</li>
+<li>Create learning opportunities through cooking, errands, and outings</li>
+</ul>
+<h3>Preparing for Kindergarten Transition</h3>
+<ul>
+<li>Visit potential elementary schools</li>
+<li>Practice kindergarten routines (lunch, bathroom independence)</li>
+<li>Build stamina for longer school days</li>
+<li>Encourage social skills and conflict resolution</li>
+<li>Maintain consistent bedtime and morning routines</li>
+</ul>
+<h2>Frequently Asked Questions</h2>
+<h3>Can my child attend VPK if we just moved to Florida?</h3>
+<p>Yes, as long as your child meets age requirements and you can prove Florida residency. You'll need documents like a lease agreement, utility bills, or voter registration. The Family Portal accepts applications year-round, though late enrollment depends on provider availability.</p>
+<h3>What happens if my child turns 4 after September 1st?</h3>
+<p>Children must be 4 by September 1st to participate in that year's VPK program. If your child has a late birthday, they'll need to wait until the following year when they're 5. Some parents choose private preschool for the gap year.</p>
+<h3>Can I use VPK at any provider I want?</h3>
+<p>You can apply to any licensed VPK provider in Florida, but acceptance depends on available space. Popular programs fill quickly, so apply early and consider multiple options. Geographic proximity often influences placement priority.</p>
+<h3>What if my child has special needs or developmental delays?</h3>
+<p>All VPK providers must accept children with disabilities and provide reasonable accommodations. If your child receives Early Steps services, coordinate with their team about VPK placement. Some districts offer specialized VPK classrooms for children with more significant needs.</p>
+<h3>Is VPK really completely free?</h3>
+<p>The 540 hours of instruction are free, but some providers charge additional fees for registration, supplies, or extended day care. Public school programs typically have fewer extra costs than private providers. Ask about all potential fees during enrollment.</p>
+<h3>Can my child do VPK twice if they're not ready for kindergarten?</h3>
+<p>No, each child gets one year of VPK eligibility. If you feel your child needs another year before kindergarten, you'd need to pay for private preschool or delay kindergarten entry. Discuss options with your pediatrician and VPK teachers.</p>
+<h3>How do I know if a VPK program is high quality?</h3>
+<p>Look for Gold Seal designation, which indicates enhanced quality standards. Visit programs to observe teacher interactions, classroom environment, and learning activities. Ask about teacher qualifications, curriculum, and kindergarten readiness outcomes.</p>
+<h3>What should my child know before starting VPK?</h3>
+<p>Most VPK programs don't require specific academic skills, but basic independence helps: using the bathroom alone, following simple instructions, sharing toys, and communicating needs. Focus on social skills and emotional readiness rather than academic preparation.</p>
+8:["slug","florida-vpk-program-explained","d"]
+0:["SZLIdUDBKVit2TP_UqbYL",[[["",{"children":["blog",{"children":[["slug","florida-vpk-program-explained","d"],{"children":["__PAGE__?{\"slug\":\"florida-vpk-program-explained\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","florida-vpk-program-explained","d"],{"children":["__PAGE__",{},[["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","section",null,{"className":"relative w-full h-[200px] md:h-[300px] overflow-hidden bg-brand-navy","children":[["$","$L3",null,{"src":"/images/blog/housing.jpg","alt":"Florida VPK Program Explained — Free Preschool for 4-Year-Olds","fill":true,"className":"object-cover","unoptimized":true,"priority":true}],["$","div",null,{"className":"absolute inset-0 bg-brand-navy/60"}],["$","div",null,{"className":"relative z-10 flex flex-col items-center justify-center h-full px-4 text-center","children":[["$","h1",null,{"className":"text-white text-3xl md:text-5xl font-display font-extrabold leading-tight max-w-4xl","children":"Florida VPK Program Explained — Free Preschool for 4-Year-Olds"}],"$undefined"]}]]}],["$","article",null,{"className":"max-w-4xl mx-auto px-4 py-10","children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://tbrelo.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://tbrelo.com/blog/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Florida VPK Program Explained — Free Preschool for 4-Year-Olds\",\"item\":\"https://tbrelo.com/blog/florida-vpk-program-explained/\"}]}"}}],["$","nav",null,{"aria-label":"Breadcrumb","className":"text-sm text-brand-slate mb-6","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-1","children":[["$","li","/",{"className":"flex items-center gap-1","children":[false,["$","$L4",null,{"href":"/","className":"hover:text-brand-blue transition-colors","children":"Home"}]]}],["$","li","/blog/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","$L4",null,{"href":"/blog/","className":"hover:text-brand-blue transition-colors","children":"Blog"}]]}],["$","li","/blog/florida-vpk-program-explained/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","span",null,{"className":"text-brand-navy font-medium","children":"Florida VPK Program Explained — Free Preschool for 4-Year-Olds"}]]}]]}]}]],["$","p",null,{"className":"text-brand-slate text-sm mb-8","children":["Published ","April 5, 2026"]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$5"}}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"cta-box-primary","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-white","children":"Moving to Tampa Bay? Get a Local Expert."}],["$","p",null,{"className":"text-sm mb-4 text-white","children":"Barrett Henry is a Broker Associate with REMAX Collective and over 23 years of real estate experience. Straight talk, smart strategy, no pressure."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-blue text-white hover:bg-blue-600","children":["Contact Barrett"," →"]}],["$","a",null,{"href":"tel:8137337907","className":"text-sm text-white","children":"(813) 733-7907"}]]}]]}],["$","div",null,{"className":"cta-box","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-brand-navy","children":"Need Help Setting Up Your New Home?"}],["$","p",null,{"className":"text-sm mb-4 text-brand-slate","children":"Best Bay Services handles handyman work, home repairs, and maintenance for your new Tampa Bay home. Local, licensed, and trusted."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-navy text-white hover:bg-brand-dark","children":["Get a Quote"," →"]}],["$","a",null,{"href":"tel:8134168676","className":"text-sm text-brand-blue","children":"(813) 416-8676"}]]}]]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","$L6",null,{"blogSlug":"florida-vpk-program-explained"}]]}]],null],null],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$8","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/db2729ad4a9f0783.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link",null,{"rel":"icon","href":"/favicon-32.png","type":"image/png","sizes":"32x32"}],["$","link",null,{"rel":"icon","href":"/favicon-16.png","type":"image/png","sizes":"16x16"}],["$","link",null,{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link",null,{"rel":"icon","href":"/icon-192.png","type":"image/png","sizes":"192x192"}],["$","meta",null,{"name":"google-adsense-account","content":"ca-pub-2033173419526042"}],["$","meta",null,{"name":"impact-site-verification","content":"bb623f40-9653-4312-9ca8-bf35b957a10c"}],["$","$La",null,{"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2033173419526042","strategy":"afterInteractive","crossOrigin":"anonymous"}],["$","$La",null,{"src":"https://www.googletagmanager.com/gtag/js?id=G-TD87S02SLM","strategy":"afterInteractive"}],["$","$La",null,{"id":"gtag-init","strategy":"afterInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'G-TD87S02SLM');\n          "}]]}],["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"[{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"https://tbrelo.com/#website\",\"name\":\"TB Relo — Tampa Bay Relocation Guide\",\"url\":\"https://tbrelo.com\",\"description\":\"Comprehensive relocation guides for Tampa Bay, Florida. Covering 8 counties, 100+ cities, cost of living, schools, and everything you need to know about moving to Tampa Bay.\",\"publisher\":{\"@id\":\"https://tbrelo.com/#org\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://tbrelo.com/blog/?q={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}},{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://tbrelo.com/#org\",\"name\":\"TB Relo\",\"url\":\"https://tbrelo.com\",\"sameAs\":[\"https://nowtb.com\",\"https://valricoagent.com\",\"https://parrishagent.com\",\"https://www.facebook.com/BarrettHenryREALTOR/\",\"https://www.instagram.com/thenowteam\",\"https://www.youtube.com/@nowtampa\"]}]"}}],["$","$Lb",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"max-w-2xl mx-auto px-4 py-20 text-center","children":[["$","h1",null,{"className":"text-6xl font-display font-extrabold text-brand-navy mb-4","children":"404"}],["$","p",null,{"className":"text-xl text-brand-slate mb-8","children":"This page doesn't exist. Maybe you're looking for one of these?"}],["$","div",null,{"className":"grid sm:grid-cols-2 gap-4 mb-12 text-left","children":[["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Moving Guide"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Complete guide to relocating to Tampa Bay"}]]}],["$","$L4",null,{"href":"/counties/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Explore Counties"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Browse all 8 Tampa Bay counties"}]]}],["$","$L4",null,{"href":"/cities/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Find a City"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"90+ city and neighborhood guides"}]]}],["$","$L4",null,{"href":"/blog/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Blog"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Tips, comparisons, and local insights"}]]}]]}],["$","$L4",null,{"href":"/","className":"px-8 py-4 bg-brand-blue text-white font-display font-bold rounded-lg hover:bg-blue-600 transition-colors text-lg inline-block","children":"Back to Home"}]]}],"notFoundStyles":[]}]}],["$","footer",null,{"className":"bg-brand-dark text-gray-400","children":[["$","div",null,{"className":"bg-brand-navy","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10","children":["$","div",null,{"className":"grid md:grid-cols-3 gap-8 text-center","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Buying or Selling a Home?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Barrett Henry — The NOW Team at REMAX Collective"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 733-7907"}]]}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Need a Handyman?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Best Bay Services — Tampa Bay Home Services"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 416-8676"}]]}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Property Management"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"ViVi PM — Full-Service Property Management"}]]}]]}]}]}],["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8","children":[["$","div",null,{"className":"md:col-span-2","children":[["$","div",null,{"className":"font-display font-extrabold text-2xl text-white mb-3","children":["TB",["$","span",null,{"className":"text-brand-sky","children":"Relo"}]]}],["$","p",null,{"className":"text-sm leading-relaxed","children":"Your complete guide to relocating to Tampa Bay, Florida. Covering Hillsborough, Pinellas, Pasco, Hernando, Polk, Manatee, Sarasota, and Citrus counties with honest, local insight from someone who actually lives here."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Guides"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"hover:text-white transition-colors","children":"Moving to Tampa Bay"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/cost-of-living/","className":"hover:text-white transition-colors","children":"Cost of Living"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/moving-checklist/","className":"hover:text-white transition-colors","children":"Moving Checklist"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/blog/","className":"hover:text-white transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Counties"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li","Hillsborough",{"children":["$","$L4",null,{"href":"/counties/hillsborough/","className":"hover:text-white transition-colors","children":["Hillsborough"," County"]}]}],["$","li","Pinellas",{"children":["$","$L4",null,{"href":"/counties/pinellas/","className":"hover:text-white transition-colors","children":["Pinellas"," County"]}]}],["$","li","Pasco",{"children":["$","$L4",null,{"href":"/counties/pasco/","className":"hover:text-white transition-colors","children":["Pasco"," County"]}]}],["$","li","Hernando",{"children":["$","$L4",null,{"href":"/counties/hernando/","className":"hover:text-white transition-colors","children":["Hernando"," County"]}]}],["$","li","Polk",{"children":["$","$L4",null,{"href":"/counties/polk/","className":"hover:text-white transition-colors","children":["Polk"," County"]}]}],["$","li","Manatee",{"children":["$","$L4",null,{"href":"/counties/manatee/","className":"hover:text-white transition-colors","children":["Manatee"," County"]}]}],["$","li","Sarasota",{"children":["$","$L4",null,{"href":"/counties/sarasota/","className":"hover:text-white transition-colors","children":["Sarasota"," County"]}]}],["$","li","Citrus",{"children":["$","$L4",null,{"href":"/counties/citrus/","className":"hover:text-white transition-colors","children":["Citrus"," County"]}]}]]}]]}]]}],["$","div",null,{"className":"mt-10 pt-8 border-t border-gray-800","children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Barrett Henry's Network"}],["$","div",null,{"className":"grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3 text-sm","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Tampa Bay Real Estate"}],["$","a",null,{"href":"https://valricoagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Real Estate"}],["$","a",null,{"href":"https://parrishagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Parrish Real Estate"}],["$","a",null,{"href":"https://valrico.blog","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Community Blog"}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Handyman & Home Services"}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Property Management"}]]}]]}],["$","div",null,{"className":"mt-12 pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center gap-4 text-xs","children":[["$","p",null,{"children":["© ",2026," TB Relo. All rights reserved."]}],["$","div",null,{"className":"flex gap-4","children":[["$","$L4",null,{"href":"/affiliate-disclosure/","className":"hover:text-white transition-colors","children":"Affiliate Disclosure"}],["$","$L4",null,{"href":"/privacy-policy/","className":"hover:text-white transition-colors","children":"Privacy Policy"}],["$","$L4",null,{"href":"/disclaimer/","className":"hover:text-white transition-colors","children":"Disclaimer"}]]}]]}]]}],["$","div",null,{"className":"bg-black/30 border-t border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 text-center text-xs text-gray-500","children":["Site by"," ",["$","a",null,{"href":"https://vyrabyte.com","target":"_blank","rel":"noopener noreferrer","className":"text-gray-400 hover:text-white transition-colors","children":"Vyrabyte"}]]}]}]]}],["$","$Lc",null,{}]]}]]}]],null],null],["$Ld",null]]]]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Florida VPK Program Explained — Free Preschool for 4-Year-Olds | TB Relo | TB Relo"}],["$","meta","3",{"name":"description","content":"Florida VPK Program Explained. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","6",{"property":"og:title","content":"Florida VPK Program Explained — Free Preschool for 4-Year-Olds | TB Relo | TB Relo"}],["$","meta","7",{"property":"og:description","content":"Florida VPK Program Explained. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","8",{"property":"og:image","content":"https://tbrelo.com/images/blog/housing.jpg"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"Florida VPK Program Explained — Free Preschool for 4-Year-Olds | TB Relo | TB Relo"}],["$","meta","13",{"name":"twitter:description","content":"Florida VPK Program Explained. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","14",{"name":"twitter:image","content":"https://tbrelo.com/images/blog/housing.jpg"}],["$","link","15",{"rel":"icon","href":"/icon.svg?ff4364d89c37c0d6","type":"image/svg+xml","sizes":"any"}]]
+1:null

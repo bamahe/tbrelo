@@ -1,0 +1,246 @@
+3:I[5878,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"Image"]
+4:I[2972,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],""]
+6:I[5143,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"default"]
+7:I[4707,[],""]
+9:I[6423,[],""]
+a:I[8003,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],""]
+b:I[7312,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"default"]
+c:I[5463,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"SpeedInsights"]
+2:T10df,[{"@context":"https://schema.org","@type":"Article","headline":"Polk County Schools Guide | TB Relo","description":"Polk County Schools Guide. Honest guide from a Tampa Bay local with 23+ years of experience.","url":"https://tbrelo.com/blog/polk-county-schools-guide/","author":{"@type":"Person","name":"Barrett Henry","jobTitle":"REALTOR® & Broker Associate","url":"https://nowtb.com","worksFor":{"@type":"Organization","name":"REMAX Collective"},"knowsAbout":["Tampa Bay Real Estate","Florida Relocation","Residential Real Estate","Investment Property","Property Management"]},"publisher":{"@type":"Organization","name":"TB Relo","url":"https://tbrelo.com"},"datePublished":"2026-03-29T08:00:00-04:00","dateModified":"2026-04-16T08:00:00-04:00","image":{"@type":"ImageObject","url":"https://tbrelo.com/images/blog/housing.jpg"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What's the best area in Polk County for schools?","acceptedAnswer":{"@type":"Answer","text":"South Lakeland and the George Jenkins High School zone consistently offer the highest-rated schools. Expect to pay $300K-$450K for homes in this area, but you'll get access to A-rated elementary and middle schools plus one of Florida's top high schools."}},{"@type":"Question","name":"How do Polk County schools compare to Hillsborough or Pasco?","acceptedAnswer":{"@type":"Answer","text":"Polk County schools generally rate slightly lower than Hillsborough's top-performing schools but offer significantly more affordable housing. The trade-off is usually worthwhile for families prioritizing homeownership over perfect school ratings. Pasco County has newer facilities but less geographic diversity in housing options."}},{"@type":"Question","name":"Are there good charter school options in Polk County?","acceptedAnswer":{"@type":"Answer","text":"Yes, Polk County has over 40 charter schools with diverse educational approaches. Mckeel Academy locations consistently earn A ratings, while specialized programs like SLAM Academy offer unique focuses. Charter schools often have smaller class sizes and more flexibility than traditional public schools."}},{"@type":"Question","name":"What's the transportation situation like for schools?","acceptedAnswer":{"@type":"Answer","text":"Transportation can be challenging due to Polk County's large size. Bus rides from rural areas can exceed 45 minutes. If you choose a school outside your zone, you're responsible for transportation. Many families in eastern Polk County coordinate carpools for popular Lakeland schools."}},{"@type":"Question","name":"How hard is it to get into magnet programs?","acceptedAnswer":{"@type":"Answer","text":"Popular programs like George Jenkins High School and Jewett Middle Academy use lottery systems for out-of-zone students. Applications typically open in February, and demand exceeds capacity. Having a backup plan is essential, especially for high-performing schools."}},{"@type":"Question","name":"What support is available for special needs students?","acceptedAnswer":{"@type":"Answer","text":"Polk County serves over 16,000 students with disabilities through comprehensive ESE programs. Most schools use inclusion models, and specialized programs exist for autism spectrum disorders and other specific needs. The district also provides transition services for post-graduation planning."}},{"@type":"Question","name":"Are private schools worth considering in Polk County?","acceptedAnswer":{"@type":"Answer","text":"Private school options are more limited than in Hillsborough or Orange counties, but several quality choices exist. Religious schools like All Saints Academy and Lakeland Christian offer strong academics at $7,500-$12,000 annually. For families seeking smaller classes and specialized attention, private schools can be worthwhile."}},{"@type":"Question","name":"What's the long-term outlook for Polk County schools?","acceptedAnswer":{"@type":"Answer","text":"The district is investing heavily in facilities and programs with an $800 million bond program funding new construction and renovations. Growing population and economic development are bringing additional resources. While challenges remain, the trend is clearly positive for families considering long-term residence in Polk County."}}]}]5:T48f7,<p>When families consider moving to the greater Tampa Bay area, Polk County often flies under the radar. That's a mistake. With affordable housing, shorter commutes to Tampa, and a school district that's been quietly improving for years, Polk County deserves serious consideration.</p>
+<p>I've worked with hundreds of families relocating to this area, and the school question always comes up. Here's what you need to know about Polk County schools — the good, the challenging, and everything in between.</p>
+<h2>Polk County Schools by the Numbers</h2>
+<p>The School District of Polk County serves over 107,000 students across 225 schools, making it the seventh-largest district in Florida. Here's the breakdown:</p>
+<ul>
+<li><strong>Elementary Schools:</strong> 96 schools</li>
+<li><strong>Middle Schools:</strong> 28 schools</li>
+<li><strong>High Schools:</strong> 22 traditional high schools</li>
+<li><strong>Charter Schools:</strong> 40+ schools</li>
+<li><strong>Specialty Schools:</strong> 15+ programs</li>
+</ul>
+<p>The district covers 1,874 square miles — that's larger than Rhode Island. This means school quality and resources can vary significantly depending on where you live.</p>
+<p><strong>Key Stats:</strong></p>
+<ul>
+<li>Average class size: 22 students (elementary), 25 students (middle/high)</li>
+<li>Graduation rate: 84.2% (2024)</li>
+<li>District grade: B (Florida DOE)</li>
+<li>Per-pupil spending: $8,847 (2024)</li>
+</ul>
+<h2>Top-Performing Schools in Polk County</h2>
+<h3>Elementary Schools</h3>
+<p><strong>Spook Hill Elementary (Grades PK-5)</strong>
+Located in Lake Wales, this A-rated school consistently ranks among the state's best. With 98% of students meeting or exceeding state standards in reading, it's no wonder families drive across town to get here. The school serves 650 students with a student-teacher ratio of 18:1.</p>
+<p><strong>Combee Settlement Elementary (Grades PK-5)</strong>
+This Lakeland school earns its A rating through strong community involvement and excellent teachers. Located near Cleveland Heights, it's popular with families in the $250K-$400K home price range.</p>
+<p><strong>Berkley Elementary (Grades K-5)</strong>
+Another Lakeland standout, Berkley serves the established neighborhoods around Lake Morton. The school's arts integration program is particularly strong.</p>
+<h3>Middle Schools</h3>
+<p><strong>Lawton Chiles Middle Academy (Grades 6-8)</strong>
+This Lakeland school operates as a performing arts magnet, attracting students county-wide. The auditorium regularly hosts professional-quality productions, and graduates frequently earn spots at prestigious high school arts programs.</p>
+<p><strong>Jewett Middle Academy (Grades 6-8)</strong>
+Located in Winter Haven, this International Baccalaureate World School offers the rigorous MYP (Middle Years Programme). It's competitive to get in, but worth the effort for academically motivated students.</p>
+<h3>High Schools</h3>
+<p><strong>George Jenkins High School (Grades 9-12)</strong>
+Located in Lakeland, Jenkins consistently ranks as one of Florida's top high schools. With 2,400+ students, it offers extensive AP courses, strong athletics, and a graduation rate above 95%. The school's new $85 million campus opened in 2021.</p>
+<p><strong>Bartow High School (Grades 9-12)</strong>
+This historic school (founded 1897) combines tradition with innovation. The Yellow Jackets are known for their championship athletics and strong academic programs. Located in downtown Bartow, it serves families throughout south Polk County.</p>
+<p><strong>Winter Haven High School (Grades 9-12)</strong>
+The Blue Devils have a 90%+ graduation rate and offer over 20 AP courses. The school's proximity to Legoland and other attractions makes it popular with families relocating from other states.</p>
+<h2>Magnet and Specialty Programs</h2>
+<p>Polk County offers several specialized programs worth considering:</p>
+<h3>International Baccalaureate (IB) Programs</h3>
+<ul>
+<li><strong>Jewett Middle Academy:</strong> MYP program</li>
+<li><strong>Northeast High School:</strong> Full IB Diploma programme</li>
+<li><strong>Bartow High School:</strong> IB Career-related Programme</li>
+</ul>
+<h3>Career and Technical Education</h3>
+<p>The district operates 10 career centers offering programs in:</p>
+<ul>
+<li>Healthcare (nursing assistant, dental assistant)</li>
+<li>Technology (cybersecurity, digital media)</li>
+<li>Skilled trades (welding, automotive, construction)</li>
+<li>Business (accounting, marketing, entrepreneurship)</li>
+</ul>
+<p><strong>Ridge Community High School</strong> in Davenport offers particularly strong programs in agriculture and veterinary science — perfect for families wanting that rural Florida experience while staying connected to Tampa Bay job opportunities.</p>
+<h2>Charter Schools Worth Considering</h2>
+<p>Polk County has embraced charter schools, with over 40 options serving diverse educational philosophies:</p>
+<p><strong>Inspiration Academy (K-8)</strong>
+Located in Lakeland, this arts-focused charter school uses creative learning approaches. Class sizes cap at 20 students, and the school emphasizes character development alongside academics.</p>
+<p><strong>Mckeel Academy (Multiple Campuses)</strong>
+With locations in Lakeland and Haines City, Mckeel operates several high-performing charter schools. Their North Elementary campus consistently earns A ratings, while their high school offers dual enrollment opportunities with Polk State College.</p>
+<p><strong>SLAM Academy (6-12)</strong>
+Sports Leadership and Management Academy in Davenport combines athletics with college-prep academics. It's ideal for student-athletes serious about both sports and education.</p>
+<h2>Geographic Breakdown: Schools by City</h2>
+<h3>Lakeland Schools</h3>
+<p>Lakeland, the county seat, offers the most school choices. The city's established neighborhoods like Lake Morton, Cleveland Heights, and South Lakeland feed into higher-performing schools.</p>
+<p><strong>Standout Elementary:</strong> Combee Settlement, Berkley, Highland City
+<strong>Strong Middle Schools:</strong> Lawton Chiles, Southwest Middle
+<strong>Top High Schools:</strong> George Jenkins, Lakeland Senior High</p>
+<p>Home prices in top school zones: $280K-$450K</p>
+<h3>Winter Haven Schools</h3>
+<p>Winter Haven's schools serve a mix of established neighborhoods and newer developments. The city's proximity to Legoland has attracted young families, boosting enrollment.</p>
+<p><strong>Notable Schools:</strong> Jewett Middle Academy (IB), Winter Haven Senior High, Cypress Ridge Elementary</p>
+<p>Home prices: $220K-$350K</p>
+<h3>Bartow Schools</h3>
+<p>As Polk County's oldest city, Bartow maintains smaller class sizes and strong community connections. Many schools here feel more intimate than their Lakeland counterparts.</p>
+<p><strong>Highlights:</strong> Bartow High School (IB), Bartow Elementary Academy, Summerlin Academy</p>
+<p>Home prices: $180K-$280K</p>
+<h3>Haines City Schools</h3>
+<p>Rapid growth in Haines City has led to new school construction and improved facilities. The area attracts families priced out of Orange County who still want quality education.</p>
+<p><strong>Growing Programs:</strong> Haines City High School, Boone Middle School</p>
+<p>Home prices: $200K-$320K</p>
+<h2>What's Improving (And What Still Needs Work)</h2>
+<h3>Recent Improvements</h3>
+<p>The district has invested heavily in facilities over the past five years:</p>
+<ul>
+<li><strong>$800 million bond program</strong> funding new schools and renovations</li>
+<li><strong>1:1 device program</strong> ensuring every student has access to technology</li>
+<li><strong>Teacher pay increases</strong> helping retain quality educators</li>
+<li><strong>Career readiness programs</strong> partnering with local employers</li>
+</ul>
+<h3>Ongoing Challenges</h3>
+<p>Let's be honest about what still needs work:</p>
+<p><strong>Transportation:</strong> With such a large geographic area, bus rides can be lengthy. Some rural students spend 45+ minutes each way.</p>
+<p><strong>Funding disparities:</strong> While improving, some schools still lack resources compared to wealthier districts like Hillsborough or Orange County.</p>
+<p><strong>Teacher retention:</strong> Despite pay increases, the district still struggles to keep experienced teachers in high-needs schools.</p>
+<p><strong>Facility age:</strong> Many schools, particularly in rural areas, operate in buildings from the 1960s-70s.</p>
+<h2>School Choice and Enrollment</h2>
+<p>Florida's school choice laws give families significant flexibility:</p>
+<h3>Open Enrollment</h3>
+<p>Students can apply to attend any school in the district, space permitting. Popular schools often have waiting lists, so apply early (typically opens in February for fall enrollment).</p>
+<h3>Controlled Open Enrollment</h3>
+<p>Some high-performing schools use lottery systems for out-of-zone students. Schools like George Jenkins and Jewett Middle Academy fall into this category.</p>
+<h3>Transportation Considerations</h3>
+<p>If you choose a school outside your zone, you're responsible for transportation. This can be challenging given Polk County's size — some cross-county trips take 45+ minutes.</p>
+<h2>Special Services and Support Programs</h2>
+<p>Polk County provides comprehensive support for diverse learning needs:</p>
+<h3>Exceptional Student Education (ESE)</h3>
+<ul>
+<li>Serves over 16,000 students with disabilities</li>
+<li>Inclusion models in most schools</li>
+<li>Specialized programs for autism spectrum disorders</li>
+<li>Transition services for post-graduation planning</li>
+</ul>
+<h3>English Language Learners (ELL)</h3>
+<p>With growing Hispanic and international populations, the district serves 8,000+ ELL students with:</p>
+<ul>
+<li>ESOL (English for Speakers of Other Languages) programs</li>
+<li>Bilingual education tracks</li>
+<li>Cultural liaison services</li>
+</ul>
+<h3>Gifted and Talented Programs</h3>
+<ul>
+<li>Available at all grade levels</li>
+<li>Specialized magnet programs</li>
+<li>Advanced placement and dual enrollment opportunities</li>
+<li>Academic competitions and enrichment activities</li>
+</ul>
+<h2>Private School Alternatives</h2>
+<p>While public schools dominate, Polk County offers private options:</p>
+<h3>Religious Schools</h3>
+<p><strong>All Saints Academy (Lakeland):</strong> Catholic school serving PK-12 with strong academics and values-based education. Tuition: $8,500-$12,000.</p>
+<p><strong>Lakeland Christian School:</strong> Large Protestant school with competitive athletics and college-prep focus. Tuition: $7,800-$10,500.</p>
+<h3>Non-Sectarian Options</h3>
+<p><strong>Sante Fe Catholic High School (Lakeland):</strong> Despite the name, accepts non-Catholic students. Known for small class sizes and personalized attention.</p>
+<p><strong>The Out-of-Door Academy:</strong> With a Lakeland campus, this prestigious school offers rigorous academics but comes with a hefty price tag: $20,000+ annually.</p>
+<h2>Cost of Living and School Quality Connection</h2>
+<p>One of Polk County's biggest advantages is the connection between affordable housing and decent schools. While you won't find the top-tier schools of Hillsborough's Westchase or Orange County's Dr. Phillips, you also won't pay $500K+ for a decent family home.</p>
+<p><strong>Sweet Spot Neighborhoods:</strong></p>
+<ul>
+<li><strong>South Lakeland:</strong> Homes $300K-$450K, access to A-rated schools</li>
+<li><strong>Providence/Davenport:</strong> New construction $250K-$380K, growing school quality</li>
+<li><strong>Winter Haven (Chain of Lakes area):</strong> Established homes $220K-$320K, solid B-rated schools</li>
+</ul>
+<h2>Making the School Decision: Questions to Ask</h2>
+<p>When evaluating Polk County schools for your family, consider:</p>
+<ol>
+<li>
+<p><strong>How important is school rating vs. home affordability?</strong> You might get more house for less money while accepting a B-rated school instead of an A.</p>
+</li>
+<li>
+<p><strong>What's your commute tolerance?</strong> Living in eastern Polk County means 45+ minutes to downtown Tampa during rush hour.</p>
+</li>
+<li>
+<p><strong>Does your child need specialized services?</strong> Some programs are only available at specific schools.</p>
+</li>
+<li>
+<p><strong>How involved do you want to be?</strong> Smaller schools often expect more parent participation.</p>
+</li>
+<li>
+<p><strong>What about high school sports?</strong> If athletics matter, research which schools excel in your child's sport.</p>
+</li>
+</ol>
+<hr>
+<p><strong>Considering Polk County for your family?</strong> Barrett Henry has helped hundreds of families navigate Tampa Bay area school choices. Get straight talk about neighborhoods, commutes, and the real story on school quality.</p>
+<p><a href="https://nowtb.com">Contact Barrett →</a> | <a href="tel:8137337907">(813) 733-7907</a></p>
+<hr>
+<h2>The Reality Check: Polk County vs. Adjacent Counties</h2>
+<p>Let's compare Polk County schools to neighboring districts:</p>
+<p><strong>vs. Hillsborough County:</strong></p>
+<ul>
+<li>Polk County: More affordable housing, smaller classes, less traffic</li>
+<li>Hillsborough: Higher-rated schools overall, more program variety, closer to Tampa jobs</li>
+</ul>
+<p><strong>vs. Orange County:</strong></p>
+<ul>
+<li>Polk County: Much more affordable, less crowded, shorter commutes within county</li>
+<li>Orange County: Higher academic performance, more resources, proximity to Orlando attractions</li>
+</ul>
+<p><strong>vs. Pasco County:</strong></p>
+<ul>
+<li>Polk County: More established communities, better geographic diversity</li>
+<li>Pasco: Newer schools, higher growth rate, closer to beaches</li>
+</ul>
+<p>The trade-off usually comes down to housing costs versus school ratings. Many families find Polk County's B-rated schools perfectly acceptable when paired with a $300K home instead of a $500K home in Orange or Hillsborough counties.</p>
+<h2>Future Outlook: What's Coming</h2>
+<p>Polk County schools are positioned for continued growth and improvement:</p>
+<h3>New Construction</h3>
+<ul>
+<li><strong>Four new schools</strong> opening between 2024-2026</li>
+<li><strong>Major renovations</strong> planned for aging facilities</li>
+<li><strong>Technology upgrades</strong> continuing district-wide</li>
+</ul>
+<h3>Program Expansion</h3>
+<ul>
+<li><strong>More IB programs</strong> planned for middle and high schools</li>
+<li><strong>Career academies</strong> partnering with local businesses</li>
+<li><strong>Dual enrollment expansion</strong> with Polk State College and other institutions</li>
+</ul>
+<h3>Demographic Changes</h3>
+<p>Growing international population is bringing diversity and pushing schools to expand language programs and cultural competency training.</p>
+<h2>How to Research and Apply</h2>
+<h3>Online Resources</h3>
+<ul>
+<li><strong>Polk County Schools website:</strong> Comprehensive school information, ratings, and enrollment data</li>
+<li><strong>Florida Department of Education:</strong> Official school grades and testing data</li>
+<li><strong>Great Schools website:</strong> Parent reviews and additional metrics</li>
+</ul>
+<h3>School Tours</h3>
+<p>Most schools offer tours by appointment. Spring is the best time to visit when schools are in full swing and you can observe normal operations.</p>
+<h3>Application Timelines</h3>
+<ul>
+<li><strong>Magnet/Choice applications:</strong> Usually open February-March for fall enrollment</li>
+<li><strong>Charter school applications:</strong> Vary by school, but most have spring deadlines</li>
+<li><strong>Private school applications:</strong> Rolling admissions, but apply early for financial aid consideration</li>
+</ul>
+<h2>Frequently Asked Questions</h2>
+<h3>What's the best area in Polk County for schools?</h3>
+<p>South Lakeland and the George Jenkins High School zone consistently offer the highest-rated schools. Expect to pay $300K-$450K for homes in this area, but you'll get access to A-rated elementary and middle schools plus one of Florida's top high schools.</p>
+<h3>How do Polk County schools compare to Hillsborough or Pasco?</h3>
+<p>Polk County schools generally rate slightly lower than Hillsborough's top-performing schools but offer significantly more affordable housing. The trade-off is usually worthwhile for families prioritizing homeownership over perfect school ratings. Pasco County has newer facilities but less geographic diversity in housing options.</p>
+<h3>Are there good charter school options in Polk County?</h3>
+<p>Yes, Polk County has over 40 charter schools with diverse educational approaches. Mckeel Academy locations consistently earn A ratings, while specialized programs like SLAM Academy offer unique focuses. Charter schools often have smaller class sizes and more flexibility than traditional public schools.</p>
+<h3>What's the transportation situation like for schools?</h3>
+<p>Transportation can be challenging due to Polk County's large size. Bus rides from rural areas can exceed 45 minutes. If you choose a school outside your zone, you're responsible for transportation. Many families in eastern Polk County coordinate carpools for popular Lakeland schools.</p>
+<h3>How hard is it to get into magnet programs?</h3>
+<p>Popular programs like George Jenkins High School and Jewett Middle Academy use lottery systems for out-of-zone students. Applications typically open in February, and demand exceeds capacity. Having a backup plan is essential, especially for high-performing schools.</p>
+<h3>What support is available for special needs students?</h3>
+<p>Polk County serves over 16,000 students with disabilities through comprehensive ESE programs. Most schools use inclusion models, and specialized programs exist for autism spectrum disorders and other specific needs. The district also provides transition services for post-graduation planning.</p>
+<h3>Are private schools worth considering in Polk County?</h3>
+<p>Private school options are more limited than in Hillsborough or Orange counties, but several quality choices exist. Religious schools like All Saints Academy and Lakeland Christian offer strong academics at $7,500-$12,000 annually. For families seeking smaller classes and specialized attention, private schools can be worthwhile.</p>
+<h3>What's the long-term outlook for Polk County schools?</h3>
+<p>The district is investing heavily in facilities and programs with an $800 million bond program funding new construction and renovations. Growing population and economic development are bringing additional resources. While challenges remain, the trend is clearly positive for families considering long-term residence in Polk County.</p>
+8:["slug","polk-county-schools-guide","d"]
+0:["SZLIdUDBKVit2TP_UqbYL",[[["",{"children":["blog",{"children":[["slug","polk-county-schools-guide","d"],{"children":["__PAGE__?{\"slug\":\"polk-county-schools-guide\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","polk-county-schools-guide","d"],{"children":["__PAGE__",{},[["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","section",null,{"className":"relative w-full h-[200px] md:h-[300px] overflow-hidden bg-brand-navy","children":[["$","$L3",null,{"src":"/images/blog/housing.jpg","alt":"Polk County Schools Guide","fill":true,"className":"object-cover","unoptimized":true,"priority":true}],["$","div",null,{"className":"absolute inset-0 bg-brand-navy/60"}],["$","div",null,{"className":"relative z-10 flex flex-col items-center justify-center h-full px-4 text-center","children":[["$","h1",null,{"className":"text-white text-3xl md:text-5xl font-display font-extrabold leading-tight max-w-4xl","children":"Polk County Schools Guide"}],"$undefined"]}]]}],["$","article",null,{"className":"max-w-4xl mx-auto px-4 py-10","children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://tbrelo.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://tbrelo.com/blog/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Polk County Schools Guide\",\"item\":\"https://tbrelo.com/blog/polk-county-schools-guide/\"}]}"}}],["$","nav",null,{"aria-label":"Breadcrumb","className":"text-sm text-brand-slate mb-6","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-1","children":[["$","li","/",{"className":"flex items-center gap-1","children":[false,["$","$L4",null,{"href":"/","className":"hover:text-brand-blue transition-colors","children":"Home"}]]}],["$","li","/blog/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","$L4",null,{"href":"/blog/","className":"hover:text-brand-blue transition-colors","children":"Blog"}]]}],["$","li","/blog/polk-county-schools-guide/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","span",null,{"className":"text-brand-navy font-medium","children":"Polk County Schools Guide"}]]}]]}]}]],["$","p",null,{"className":"text-brand-slate text-sm mb-8","children":["Published ","March 29, 2026"]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$5"}}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"cta-box-primary","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-white","children":"Moving to Tampa Bay? Get a Local Expert."}],["$","p",null,{"className":"text-sm mb-4 text-white","children":"Barrett Henry is a Broker Associate with REMAX Collective and over 23 years of real estate experience. Straight talk, smart strategy, no pressure."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-blue text-white hover:bg-blue-600","children":["Contact Barrett"," →"]}],["$","a",null,{"href":"tel:8137337907","className":"text-sm text-white","children":"(813) 733-7907"}]]}]]}],["$","div",null,{"className":"cta-box","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-brand-navy","children":"Need Help Setting Up Your New Home?"}],["$","p",null,{"className":"text-sm mb-4 text-brand-slate","children":"Best Bay Services handles handyman work, home repairs, and maintenance for your new Tampa Bay home. Local, licensed, and trusted."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-navy text-white hover:bg-brand-dark","children":["Get a Quote"," →"]}],["$","a",null,{"href":"tel:8134168676","className":"text-sm text-brand-blue","children":"(813) 416-8676"}]]}]]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","$L6",null,{"blogSlug":"polk-county-schools-guide"}]]}]],null],null],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$8","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/db2729ad4a9f0783.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link",null,{"rel":"icon","href":"/favicon-32.png","type":"image/png","sizes":"32x32"}],["$","link",null,{"rel":"icon","href":"/favicon-16.png","type":"image/png","sizes":"16x16"}],["$","link",null,{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link",null,{"rel":"icon","href":"/icon-192.png","type":"image/png","sizes":"192x192"}],["$","meta",null,{"name":"google-adsense-account","content":"ca-pub-2033173419526042"}],["$","meta",null,{"name":"impact-site-verification","content":"bb623f40-9653-4312-9ca8-bf35b957a10c"}],["$","$La",null,{"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2033173419526042","strategy":"afterInteractive","crossOrigin":"anonymous"}],["$","$La",null,{"src":"https://www.googletagmanager.com/gtag/js?id=G-TD87S02SLM","strategy":"afterInteractive"}],["$","$La",null,{"id":"gtag-init","strategy":"afterInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'G-TD87S02SLM');\n          "}]]}],["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"[{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"https://tbrelo.com/#website\",\"name\":\"TB Relo — Tampa Bay Relocation Guide\",\"url\":\"https://tbrelo.com\",\"description\":\"Comprehensive relocation guides for Tampa Bay, Florida. Covering 8 counties, 100+ cities, cost of living, schools, and everything you need to know about moving to Tampa Bay.\",\"publisher\":{\"@id\":\"https://tbrelo.com/#org\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://tbrelo.com/blog/?q={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}},{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://tbrelo.com/#org\",\"name\":\"TB Relo\",\"url\":\"https://tbrelo.com\",\"sameAs\":[\"https://nowtb.com\",\"https://valricoagent.com\",\"https://parrishagent.com\",\"https://www.facebook.com/BarrettHenryREALTOR/\",\"https://www.instagram.com/thenowteam\",\"https://www.youtube.com/@nowtampa\"]}]"}}],["$","$Lb",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"max-w-2xl mx-auto px-4 py-20 text-center","children":[["$","h1",null,{"className":"text-6xl font-display font-extrabold text-brand-navy mb-4","children":"404"}],["$","p",null,{"className":"text-xl text-brand-slate mb-8","children":"This page doesn't exist. Maybe you're looking for one of these?"}],["$","div",null,{"className":"grid sm:grid-cols-2 gap-4 mb-12 text-left","children":[["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Moving Guide"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Complete guide to relocating to Tampa Bay"}]]}],["$","$L4",null,{"href":"/counties/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Explore Counties"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Browse all 8 Tampa Bay counties"}]]}],["$","$L4",null,{"href":"/cities/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Find a City"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"90+ city and neighborhood guides"}]]}],["$","$L4",null,{"href":"/blog/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Blog"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Tips, comparisons, and local insights"}]]}]]}],["$","$L4",null,{"href":"/","className":"px-8 py-4 bg-brand-blue text-white font-display font-bold rounded-lg hover:bg-blue-600 transition-colors text-lg inline-block","children":"Back to Home"}]]}],"notFoundStyles":[]}]}],["$","footer",null,{"className":"bg-brand-dark text-gray-400","children":[["$","div",null,{"className":"bg-brand-navy","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10","children":["$","div",null,{"className":"grid md:grid-cols-3 gap-8 text-center","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Buying or Selling a Home?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Barrett Henry — The NOW Team at REMAX Collective"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 733-7907"}]]}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Need a Handyman?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Best Bay Services — Tampa Bay Home Services"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 416-8676"}]]}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Property Management"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"ViVi PM — Full-Service Property Management"}]]}]]}]}]}],["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8","children":[["$","div",null,{"className":"md:col-span-2","children":[["$","div",null,{"className":"font-display font-extrabold text-2xl text-white mb-3","children":["TB",["$","span",null,{"className":"text-brand-sky","children":"Relo"}]]}],["$","p",null,{"className":"text-sm leading-relaxed","children":"Your complete guide to relocating to Tampa Bay, Florida. Covering Hillsborough, Pinellas, Pasco, Hernando, Polk, Manatee, Sarasota, and Citrus counties with honest, local insight from someone who actually lives here."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Guides"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"hover:text-white transition-colors","children":"Moving to Tampa Bay"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/cost-of-living/","className":"hover:text-white transition-colors","children":"Cost of Living"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/moving-checklist/","className":"hover:text-white transition-colors","children":"Moving Checklist"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/blog/","className":"hover:text-white transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Counties"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li","Hillsborough",{"children":["$","$L4",null,{"href":"/counties/hillsborough/","className":"hover:text-white transition-colors","children":["Hillsborough"," County"]}]}],["$","li","Pinellas",{"children":["$","$L4",null,{"href":"/counties/pinellas/","className":"hover:text-white transition-colors","children":["Pinellas"," County"]}]}],["$","li","Pasco",{"children":["$","$L4",null,{"href":"/counties/pasco/","className":"hover:text-white transition-colors","children":["Pasco"," County"]}]}],["$","li","Hernando",{"children":["$","$L4",null,{"href":"/counties/hernando/","className":"hover:text-white transition-colors","children":["Hernando"," County"]}]}],["$","li","Polk",{"children":["$","$L4",null,{"href":"/counties/polk/","className":"hover:text-white transition-colors","children":["Polk"," County"]}]}],["$","li","Manatee",{"children":["$","$L4",null,{"href":"/counties/manatee/","className":"hover:text-white transition-colors","children":["Manatee"," County"]}]}],["$","li","Sarasota",{"children":["$","$L4",null,{"href":"/counties/sarasota/","className":"hover:text-white transition-colors","children":["Sarasota"," County"]}]}],["$","li","Citrus",{"children":["$","$L4",null,{"href":"/counties/citrus/","className":"hover:text-white transition-colors","children":["Citrus"," County"]}]}]]}]]}]]}],["$","div",null,{"className":"mt-10 pt-8 border-t border-gray-800","children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Barrett Henry's Network"}],["$","div",null,{"className":"grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3 text-sm","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Tampa Bay Real Estate"}],["$","a",null,{"href":"https://valricoagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Real Estate"}],["$","a",null,{"href":"https://parrishagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Parrish Real Estate"}],["$","a",null,{"href":"https://valrico.blog","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Community Blog"}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Handyman & Home Services"}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Property Management"}]]}]]}],["$","div",null,{"className":"mt-12 pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center gap-4 text-xs","children":[["$","p",null,{"children":["© ",2026," TB Relo. All rights reserved."]}],["$","div",null,{"className":"flex gap-4","children":[["$","$L4",null,{"href":"/affiliate-disclosure/","className":"hover:text-white transition-colors","children":"Affiliate Disclosure"}],["$","$L4",null,{"href":"/privacy-policy/","className":"hover:text-white transition-colors","children":"Privacy Policy"}],["$","$L4",null,{"href":"/disclaimer/","className":"hover:text-white transition-colors","children":"Disclaimer"}]]}]]}]]}],["$","div",null,{"className":"bg-black/30 border-t border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 text-center text-xs text-gray-500","children":["Site by"," ",["$","a",null,{"href":"https://vyrabyte.com","target":"_blank","rel":"noopener noreferrer","className":"text-gray-400 hover:text-white transition-colors","children":"Vyrabyte"}]]}]}]]}],["$","$Lc",null,{}]]}]]}]],null],null],["$Ld",null]]]]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Polk County Schools Guide | TB Relo | TB Relo"}],["$","meta","3",{"name":"description","content":"Polk County Schools Guide. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","6",{"property":"og:title","content":"Polk County Schools Guide | TB Relo | TB Relo"}],["$","meta","7",{"property":"og:description","content":"Polk County Schools Guide. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","8",{"property":"og:image","content":"https://tbrelo.com/images/blog/housing.jpg"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"Polk County Schools Guide | TB Relo | TB Relo"}],["$","meta","13",{"name":"twitter:description","content":"Polk County Schools Guide. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","14",{"name":"twitter:image","content":"https://tbrelo.com/images/blog/housing.jpg"}],["$","link","15",{"rel":"icon","href":"/icon.svg?ff4364d89c37c0d6","type":"image/svg+xml","sizes":"any"}]]
+1:null

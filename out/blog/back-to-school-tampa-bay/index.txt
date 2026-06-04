@@ -1,0 +1,263 @@
+3:I[5878,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"Image"]
+4:I[2972,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],""]
+6:I[5143,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"default"]
+7:I[4707,[],""]
+9:I[6423,[],""]
+a:I[8003,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],""]
+b:I[7312,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"default"]
+c:I[5463,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"SpeedInsights"]
+2:Tce0,[{"@context":"https://schema.org","@type":"Article","headline":"Back to School Tampa Bay — Everything Parents Need to Know | TB Relo","description":"Back to School Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience.","url":"https://tbrelo.com/blog/back-to-school-tampa-bay/","author":{"@type":"Person","name":"Barrett Henry","jobTitle":"REALTOR® & Broker Associate","url":"https://nowtb.com","worksFor":{"@type":"Organization","name":"REMAX Collective"},"knowsAbout":["Tampa Bay Real Estate","Florida Relocation","Residential Real Estate","Investment Property","Property Management"]},"publisher":{"@type":"Organization","name":"TB Relo","url":"https://tbrelo.com"},"datePublished":"2025-05-11T08:00:00-04:00","dateModified":"2026-04-16T08:00:00-04:00","image":{"@type":"ImageObject","url":"https://tbrelo.com/images/blog/housing.jpg"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"When do Tampa Bay schools typically start?","acceptedAnswer":{"@type":"Answer","text":"Most Tampa Bay school districts start around August 12th, with early dismissal days the week before for orientation and registration. Exact dates vary slightly between Hillsborough, Pinellas, and Pasco counties, but they coordinate to start the same week."}},{"@type":"Question","name":"How much should I budget for back-to-school expenses per child?","acceptedAnswer":{"@type":"Answer","text":"Plan for $300-500 per child, including supplies ($75-100), clothing/uniforms ($150-250), fees ($50-75), and miscellaneous items like lunch boxes and backpacks ($50-100). This varies significantly based on grade level and whether your school requires uniforms."}},{"@type":"Question","name":"What's the deadline for school registration in Tampa Bay?","acceptedAnswer":{"@type":"Answer","text":"Registration deadlines vary by district — Hillsborough typically closes new student registration on July 26th, while Pinellas and Pasco have similar late July cutoffs. However, popular magnet and choice schools fill up much earlier, often by March or April."}},{"@type":"Question","name":"Do I need to live in a specific zone to attend a particular school?","acceptedAnswer":{"@type":"Answer","text":"Yes, Tampa Bay schools use zoning systems, but you have options. Students are guaranteed admission to their zoned school, but can apply for school choice, magnet programs, or transfers to other schools. Popular programs require early applications and may have waiting lists."}},{"@type":"Question","name":"Where can I find affordable school uniforms in Tampa Bay?","acceptedAnswer":{"@type":"Answer","text":"Walmart, Target, and Old Navy offer uniform basics at much lower prices than official school vendors like Lands' End. Generic polo shirts cost $5-8 versus $25-35 for official versions. Just verify the dress code requirements with your specific school first."}},{"@type":"Question","name":"What immunizations are required for Florida schools?","acceptedAnswer":{"@type":"Answer","text":"Florida requires DTaP, Polio, MMR, Varicella, and Hepatitis B vaccines for all students. Seventh graders need additional Tdap and Meningococcal vaccines. Get vaccines at county health departments, CVS, Walgreens, or your pediatrician — most accept insurance."}}]}]5:T3ede,<p>August hits Tampa Bay like a freight train, and suddenly every parent realizes they've got about three weeks to figure out their back-to-school game plan. Whether you're new to the area or just need a refresher, here's everything you need to know to get your kids ready without losing your mind (or your wallet).</p>
+<h2>School District Registration Deadlines</h2>
+<h3>Hillsborough County Schools</h3>
+<p>If you're in <a href="/counties/hillsborough/">Hillsborough County</a>, registration typically opens in early May for the following school year. The district serves about 220,000 students, making it the third-largest in Florida. New student registration runs through July, but don't wait — popular magnet and choice schools fill up fast.</p>
+<p><strong>Key dates for 2024-2025:</strong></p>
+<ul>
+<li>New student registration: May 6 - July 26</li>
+<li>First day of school: August 12</li>
+<li>Early dismissal days: August 9-11</li>
+</ul>
+<p>You'll need proof of residence (utility bill, lease agreement), your child's birth certificate, immunization records, and previous school records. The district's website can be frustrating to navigate, so call your zoned school directly if you're stuck.</p>
+<h3>Pinellas County Schools</h3>
+<p><a href="/counties/pinellas/">Pinellas County</a> serves about 115,000 students across 28 municipalities. Their registration process is slightly more streamlined, but the popular schools in areas like Safety Harbor and Dunedin fill up quickly.</p>
+<p><strong>Key dates for 2024-2025:</strong></p>
+<ul>
+<li>Registration opens: April 15</li>
+<li>First day of school: August 12</li>
+<li>New family orientation: Various dates in August</li>
+</ul>
+<h3>Pasco County Schools</h3>
+<p>Pasco's growing fast — they've added over 5,000 students in the past three years. If you're in Wesley Chapel, Land O' Lakes, or New Port Richey, expect crowded schools and longer registration lines.</p>
+<p><strong>Key dates for 2024-2025:</strong></p>
+<ul>
+<li>Registration: May 1 - July 31</li>
+<li>First day of school: August 12</li>
+</ul>
+<h2>School Supply Shopping Strategy</h2>
+<p>Here's the reality: you're going to spend $300-500 per kid on supplies, clothes, and fees. But you don't have to do it all in one weekend at Target with every other parent in Tampa Bay.</p>
+<h3>Best Places to Shop</h3>
+<p><strong>Tax-free weekend</strong> usually falls the first weekend in August. Mark your calendar — it covers clothing under $100, shoes under $100, school supplies under $50, and personal computers under $1,500.</p>
+<p><strong>Walmart Neighborhood Markets</strong> in Westchase, Fishhawk, and New Tampa get restocked Tuesday nights. Hit them Wednesday morning for the best selection.</p>
+<p><strong>Target stores</strong> on Dale Mabry, Bruce B. Downs, and in Brandon typically have the most organized back-to-school sections, but they're also the most picked over.</p>
+<p><strong>Dollar Tree and 99 Cent Store</strong> locations are goldmines for basics like pencils, erasers, glue sticks, and folders. The one on Fletcher Avenue near USF gets cleaned out fast.</p>
+<h3>Supply List Hacks</h3>
+<p>Most teachers don't actually need 24 glue sticks and 48 pencils per kid. They're building classroom supplies for the year. Buy the cheap stuff for classroom donations and keep the good supplies at home for your child's personal use.</p>
+<p><strong>Generic brands that work fine:</strong></p>
+<ul>
+<li>Crayons (Rose Art vs. Crayola — kids can't tell)</li>
+<li>Glue sticks (Elmer's knockoffs work just as well)</li>
+<li>Spiral notebooks (composition matters more than brand)</li>
+</ul>
+<p><strong>Don't cheap out on:</strong></p>
+<ul>
+<li>Backpacks (they'll carry 20+ pounds daily)</li>
+<li>Sneakers (they're wearing them 8+ hours)</li>
+<li>Lunch boxes (cheap ones break by October)</li>
+</ul>
+<h2>School Zone Navigation</h2>
+<p>Tampa Bay's school zones can be confusing, especially if you're renting or just moved. Here's how to figure out where your kid actually goes to school.</p>
+<h3>Finding Your Zoned School</h3>
+<p>Each district has an online tool, but they're not always accurate for new developments or boundary changes. Call the district directly with your exact address.</p>
+<p><strong>Common zone confusion areas:</strong></p>
+<ul>
+<li><strong>Fishhawk Ranch</strong>: Some streets feed to Bloomingdale High, others to Newsome</li>
+<li><strong>Wesley Chapel</strong>: Rapid development means boundaries change frequently</li>
+<li><strong>Westchase</strong>: Elementary zones shift depending on which side of Linebaugh you're on</li>
+<li><strong>New Tampa</strong>: Some areas are zoned for Pasco County, not Hillsborough</li>
+</ul>
+<h3>School Choice and Magnet Programs</h3>
+<p>Popular magnet programs like IB at Plant High or the medical academy at Hillsborough High fill up in March. Don't wait until summer to explore options.</p>
+<p><strong>Top-rated elementary schools by area:</strong></p>
+<ul>
+<li><strong>South Tampa</strong>: Palma Ceia, Coleman, Plant Elementary</li>
+<li><strong>Westchase</strong>: Westchase Elementary (A-rated)</li>
+<li><strong>Fishhawk</strong>: Alafia Elementary, Randall Middle</li>
+<li><strong>New Tampa</strong>: Hunter's Green Elementary, Beaumont Middle</li>
+</ul>
+<p><strong>High-performing high schools:</strong></p>
+<ul>
+<li>Plant High (South Tampa) — IB program, great athletics</li>
+<li>Newsome High (Fishhawk) — Strong academics, newer facilities</li>
+<li>Steinbrenner High (Lutz) — Competitive programs, growing reputation</li>
+</ul>
+<h2>Clothing and Uniform Requirements</h2>
+<p>Most Tampa Bay schools require uniforms or have strict dress codes. Don't assume you know the rules — they change more often than you'd think.</p>
+<h3>Uniform Shopping</h3>
+<p><strong>Lands' End</strong> partners with most local schools for official uniforms, but their prices are brutal. Expect $25-35 per polo shirt, $40+ for pants.</p>
+<p><strong>Cheaper alternatives that meet most dress codes:</strong></p>
+<ul>
+<li><strong>Walmart's George brand</strong>: Polo shirts for $5-8, khakis for $12-15</li>
+<li><strong>Old Navy</strong>: Uniform basics, frequent sales</li>
+<li><strong>Target's Cat &#x26; Jack</strong>: Good quality, reasonable prices</li>
+</ul>
+<h3>Dress Code Reality Check</h3>
+<p>Even schools without official uniforms have gotten stricter. Common rules:</p>
+<ul>
+<li>No shorts above mid-thigh (they measure)</li>
+<li>Shirt sleeves must cover shoulders completely</li>
+<li>No logos bigger than a quarter</li>
+<li>Closed-toe shoes only (flip-flops are banned everywhere)</li>
+</ul>
+<p><strong>Pro tip</strong>: Buy uniform pieces in your kid's current size and one size up. They'll grow during the school year, and you don't want to pay full price in February.</p>
+<h2>Transportation and School Zones</h2>
+<p>Tampa Bay traffic is already rough, and school zones make it worse. Plan your routes now, not on the first day when everyone's running late.</p>
+<h3>School Bus Information</h3>
+<p>Bus routes usually get posted 2-3 weeks before school starts. If your kid qualified for a bus last year, don't assume they still do — boundary changes happen.</p>
+<p><strong>Bus eligibility by district:</strong></p>
+<ul>
+<li><strong>Hillsborough</strong>: 2+ miles from school for high school, 2 miles for middle/elementary</li>
+<li><strong>Pinellas</strong>: 2 miles for all grades</li>
+<li><strong>Pasco</strong>: 2 miles for high school, 1.5 miles for elementary/middle</li>
+</ul>
+<h3>Car Rider Line Survival</h3>
+<p>If you're doing car pickup, arrive 30-45 minutes early or you'll sit in line for over an hour. Bring snacks, entertainment for younger kids, and patience.</p>
+<p><strong>Schools with notoriously long car lines:</strong></p>
+<ul>
+<li>Plant Elementary (South Tampa)</li>
+<li>Westchase Elementary</li>
+<li>Hunter's Green Elementary (New Tampa)</li>
+<li>Any school near MacDill AFB (military families mean more car riders)</li>
+</ul>
+<h2>After-School Care Options</h2>
+<p>Both parents work? Welcome to the after-school care scramble. Good programs fill up by June, and waiting lists are real.</p>
+<h3>School-Based Programs</h3>
+<p>Most elementary schools offer after-school care through the YMCA or Boys &#x26; Girls Club. Rates run $60-80 per week, and they include snack and homework help.</p>
+<p><strong>Application deadlines:</strong></p>
+<ul>
+<li>YMCA programs: Usually May 15</li>
+<li>Boys &#x26; Girls Club: Rolling admission, but popular sites fill fast</li>
+<li>Private school programs: Varies by school</li>
+</ul>
+<h3>Alternative Options</h3>
+<p><strong>Kumon</strong> and <strong>Mathnasium</strong> locations throughout Tampa Bay offer homework help and tutoring. Expect $150-200 per month per subject.</p>
+<p><strong>Local community centers</strong> in Safety Harbor, Seminole, and Plant City offer lower-cost programs, typically $40-60 per week.</p>
+<h2>Health and Safety Requirements</h2>
+<p>Florida's immunization requirements are strict, and schools won't let your kid attend without proper documentation.</p>
+<h3>Required Immunizations</h3>
+<p>For kindergarten and new students:</p>
+<ul>
+<li>DTaP (5 doses)</li>
+<li>Polio (4 doses)</li>
+<li>MMR (2 doses)</li>
+<li>Varicella (2 doses or proof of disease)</li>
+<li>Hepatitis B (3 doses)</li>
+</ul>
+<p><strong>7th graders need additional:</strong></p>
+<ul>
+<li>Tdap booster</li>
+<li>Meningococcal vaccine</li>
+</ul>
+<h3>Where to Get Shots</h3>
+<p><strong>Hillsborough County Health Department</strong> locations offer low-cost immunizations:</p>
+<ul>
+<li>Ybor City: 1902 N 19th St</li>
+<li>Brandon: 335 N Parsons Ave</li>
+<li>Plant City: 1314 Coronet Rd</li>
+</ul>
+<p><strong>CVS and Walgreens</strong> accept most insurance and don't require appointments for basic immunizations.</p>
+<h2>Budget-Friendly Back-to-School Tips</h2>
+<p>Let's be honest — back-to-school shopping is expensive. Here are real ways to cut costs without shortchanging your kids.</p>
+<h3>Timing Your Purchases</h3>
+<p><strong>Buy in July:</strong> Basic supplies before the rush
+<strong>Wait until September:</strong> Clothes (kids grow fast), tech accessories, lunch gear
+<strong>October/November:</strong> Winter clothes, jackets</p>
+<h3>Reuse and Repurpose</h3>
+<p>Last year's backpack still functional? Use it. Leftover supplies from spring? Save them. Half-used notebooks? Your kid can finish them.</p>
+<p><strong>Items worth buying new:</strong></p>
+<ul>
+<li>Sneakers (foot health matters)</li>
+<li>Underwear and socks</li>
+<li>Anything that touches food</li>
+</ul>
+<p><strong>Items you can definitely reuse:</strong></p>
+<ul>
+<li>Backpacks (unless torn or outgrown)</li>
+<li>Lunch boxes</li>
+<li>Calculators and tech accessories</li>
+<li>Binders and folders</li>
+</ul>
+<hr>
+<p><strong>Moving to Tampa Bay?</strong> Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.</p>
+<p><a href="https://nowtb.com">Contact Barrett →</a> | <a href="tel:8137337907">(813) 733-7907</a></p>
+<hr>
+<h2>Making the First Day Smooth</h2>
+<p>The first day of school in Tampa Bay is always chaos. Temperatures hit 90+ degrees by 9 AM, everyone's running late, and half the parents forgot something important.</p>
+<h3>Night-Before Checklist</h3>
+<p><strong>Pack everything:</strong></p>
+<ul>
+<li>Backpack with supplies and forms</li>
+<li>Water bottle (schools get hot in August)</li>
+<li>Snack for afternoon energy crash</li>
+<li>Any medication with proper forms</li>
+</ul>
+<p><strong>Prep clothes:</strong></p>
+<ul>
+<li>Check the weather (it might rain)</li>
+<li>Have backup shirts (kids spill things)</li>
+<li>Closed-toe shoes that can get wet</li>
+</ul>
+<p><strong>Plan logistics:</strong></p>
+<ul>
+<li>Know your route and school zones</li>
+<li>Have school contact info in your phone</li>
+<li>Charge devices for photos and communication</li>
+</ul>
+<h3>First Week Reality</h3>
+<p>Don't schedule important meetings the first week of school. Something will go wrong — bus routes change, your kid forgets their lunch, or pickup lines are longer than expected.</p>
+<p>Teachers are overwhelmed too. Give them a week to settle in before asking about homework policies or scheduling conferences.</p>
+<h2>Resources for New Tampa Bay Families</h2>
+<h3>School District Contacts</h3>
+<p><strong>Hillsborough County Schools</strong></p>
+<ul>
+<li>Main number: (813) 272-4000</li>
+<li>Transportation: (813) 272-2774</li>
+<li>Registration help: (813) 272-4624</li>
+</ul>
+<p><strong>Pinellas County Schools</strong></p>
+<ul>
+<li>Main number: (727) 588-6000</li>
+<li>Transportation: (727) 588-6405</li>
+<li>Student assignment: (727) 588-6210</li>
+</ul>
+<p><strong>Pasco County Schools</strong></p>
+<ul>
+<li>Main number: (813) 794-2000</li>
+<li>Transportation: (813) 794-2718</li>
+<li>Registration: (813) 794-2647</li>
+</ul>
+<h3>Community Resources</h3>
+<p><strong>211 Tampa Bay</strong> can help find low-cost school supplies, uniforms, and after-school programs. Just dial 2-1-1.</p>
+<p><strong>Local churches and community organizations</strong> often host back-to-school supply drives in July. Check with:</p>
+<ul>
+<li>Hyde Park United Methodist (South Tampa)</li>
+<li>Northside Baptist (New Tampa)</li>
+<li>Seminole Presbyterian (Seminole)</li>
+<li>Unity of Clearwater</li>
+</ul>
+<h3>Parent Facebook Groups</h3>
+<p>Every Tampa Bay neighborhood has active parent groups. Search "Westchase Moms," "Fishhawk Parents," or "New Tampa Families" to connect with other parents and get real-time school updates.</p>
+<p>The most helpful groups share:</p>
+<ul>
+<li>Teacher gift ideas and preferences</li>
+<li>Carpool coordination</li>
+<li>Event calendars and volunteer opportunities</li>
+<li>Real reviews of after-school programs</li>
+</ul>
+<p>Remember — other parents are your best resource for navigating Tampa Bay schools. Don't be afraid to ask questions or admit you're new. We've all been there.</p>
+<p>Check out our <a href="/blog/">blog hub</a> for more Tampa Bay family resources, including neighborhood guides, cost of living breakdowns, and seasonal activity guides.</p>
+<h2>Frequently Asked Questions</h2>
+<h3>When do Tampa Bay schools typically start?</h3>
+<p>Most Tampa Bay school districts start around August 12th, with early dismissal days the week before for orientation and registration. Exact dates vary slightly between Hillsborough, Pinellas, and Pasco counties, but they coordinate to start the same week.</p>
+<h3>How much should I budget for back-to-school expenses per child?</h3>
+<p>Plan for $300-500 per child, including supplies ($75-100), clothing/uniforms ($150-250), fees ($50-75), and miscellaneous items like lunch boxes and backpacks ($50-100). This varies significantly based on grade level and whether your school requires uniforms.</p>
+<h3>What's the deadline for school registration in Tampa Bay?</h3>
+<p>Registration deadlines vary by district — Hillsborough typically closes new student registration on July 26th, while Pinellas and Pasco have similar late July cutoffs. However, popular magnet and choice schools fill up much earlier, often by March or April.</p>
+<h3>Do I need to live in a specific zone to attend a particular school?</h3>
+<p>Yes, Tampa Bay schools use zoning systems, but you have options. Students are guaranteed admission to their zoned school, but can apply for school choice, magnet programs, or transfers to other schools. Popular programs require early applications and may have waiting lists.</p>
+<h3>Where can I find affordable school uniforms in Tampa Bay?</h3>
+<p>Walmart, Target, and Old Navy offer uniform basics at much lower prices than official school vendors like Lands' End. Generic polo shirts cost $5-8 versus $25-35 for official versions. Just verify the dress code requirements with your specific school first.</p>
+<h3>What immunizations are required for Florida schools?</h3>
+<p>Florida requires DTaP, Polio, MMR, Varicella, and Hepatitis B vaccines for all students. Seventh graders need additional Tdap and Meningococcal vaccines. Get vaccines at county health departments, CVS, Walgreens, or your pediatrician — most accept insurance.</p>
+8:["slug","back-to-school-tampa-bay","d"]
+0:["SZLIdUDBKVit2TP_UqbYL",[[["",{"children":["blog",{"children":[["slug","back-to-school-tampa-bay","d"],{"children":["__PAGE__?{\"slug\":\"back-to-school-tampa-bay\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","back-to-school-tampa-bay","d"],{"children":["__PAGE__",{},[["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","section",null,{"className":"relative w-full h-[200px] md:h-[300px] overflow-hidden bg-brand-navy","children":[["$","$L3",null,{"src":"/images/blog/housing.jpg","alt":"Back to School Tampa Bay — Everything Parents Need to Know","fill":true,"className":"object-cover","unoptimized":true,"priority":true}],["$","div",null,{"className":"absolute inset-0 bg-brand-navy/60"}],["$","div",null,{"className":"relative z-10 flex flex-col items-center justify-center h-full px-4 text-center","children":[["$","h1",null,{"className":"text-white text-3xl md:text-5xl font-display font-extrabold leading-tight max-w-4xl","children":"Back to School Tampa Bay — Everything Parents Need to Know"}],"$undefined"]}]]}],["$","article",null,{"className":"max-w-4xl mx-auto px-4 py-10","children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://tbrelo.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://tbrelo.com/blog/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Back to School Tampa Bay — Everything Parents Need to Know\",\"item\":\"https://tbrelo.com/blog/back-to-school-tampa-bay/\"}]}"}}],["$","nav",null,{"aria-label":"Breadcrumb","className":"text-sm text-brand-slate mb-6","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-1","children":[["$","li","/",{"className":"flex items-center gap-1","children":[false,["$","$L4",null,{"href":"/","className":"hover:text-brand-blue transition-colors","children":"Home"}]]}],["$","li","/blog/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","$L4",null,{"href":"/blog/","className":"hover:text-brand-blue transition-colors","children":"Blog"}]]}],["$","li","/blog/back-to-school-tampa-bay/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","span",null,{"className":"text-brand-navy font-medium","children":"Back to School Tampa Bay — Everything Parents Need to Know"}]]}]]}]}]],["$","p",null,{"className":"text-brand-slate text-sm mb-8","children":["Published ","May 11, 2025"]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$5"}}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"cta-box-primary","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-white","children":"Moving to Tampa Bay? Get a Local Expert."}],["$","p",null,{"className":"text-sm mb-4 text-white","children":"Barrett Henry is a Broker Associate with REMAX Collective and over 23 years of real estate experience. Straight talk, smart strategy, no pressure."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-blue text-white hover:bg-blue-600","children":["Contact Barrett"," →"]}],["$","a",null,{"href":"tel:8137337907","className":"text-sm text-white","children":"(813) 733-7907"}]]}]]}],["$","div",null,{"className":"cta-box","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-brand-navy","children":"Need Help Setting Up Your New Home?"}],["$","p",null,{"className":"text-sm mb-4 text-brand-slate","children":"Best Bay Services handles handyman work, home repairs, and maintenance for your new Tampa Bay home. Local, licensed, and trusted."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-navy text-white hover:bg-brand-dark","children":["Get a Quote"," →"]}],["$","a",null,{"href":"tel:8134168676","className":"text-sm text-brand-blue","children":"(813) 416-8676"}]]}]]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","$L6",null,{"blogSlug":"back-to-school-tampa-bay"}]]}]],null],null],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$8","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/db2729ad4a9f0783.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link",null,{"rel":"icon","href":"/favicon-32.png","type":"image/png","sizes":"32x32"}],["$","link",null,{"rel":"icon","href":"/favicon-16.png","type":"image/png","sizes":"16x16"}],["$","link",null,{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link",null,{"rel":"icon","href":"/icon-192.png","type":"image/png","sizes":"192x192"}],["$","meta",null,{"name":"google-adsense-account","content":"ca-pub-2033173419526042"}],["$","meta",null,{"name":"impact-site-verification","content":"bb623f40-9653-4312-9ca8-bf35b957a10c"}],["$","$La",null,{"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2033173419526042","strategy":"afterInteractive","crossOrigin":"anonymous"}],["$","$La",null,{"src":"https://www.googletagmanager.com/gtag/js?id=G-TD87S02SLM","strategy":"afterInteractive"}],["$","$La",null,{"id":"gtag-init","strategy":"afterInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'G-TD87S02SLM');\n          "}]]}],["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"[{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"https://tbrelo.com/#website\",\"name\":\"TB Relo — Tampa Bay Relocation Guide\",\"url\":\"https://tbrelo.com\",\"description\":\"Comprehensive relocation guides for Tampa Bay, Florida. Covering 8 counties, 100+ cities, cost of living, schools, and everything you need to know about moving to Tampa Bay.\",\"publisher\":{\"@id\":\"https://tbrelo.com/#org\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://tbrelo.com/blog/?q={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}},{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://tbrelo.com/#org\",\"name\":\"TB Relo\",\"url\":\"https://tbrelo.com\",\"sameAs\":[\"https://nowtb.com\",\"https://valricoagent.com\",\"https://parrishagent.com\",\"https://www.facebook.com/BarrettHenryREALTOR/\",\"https://www.instagram.com/thenowteam\",\"https://www.youtube.com/@nowtampa\"]}]"}}],["$","$Lb",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"max-w-2xl mx-auto px-4 py-20 text-center","children":[["$","h1",null,{"className":"text-6xl font-display font-extrabold text-brand-navy mb-4","children":"404"}],["$","p",null,{"className":"text-xl text-brand-slate mb-8","children":"This page doesn't exist. Maybe you're looking for one of these?"}],["$","div",null,{"className":"grid sm:grid-cols-2 gap-4 mb-12 text-left","children":[["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Moving Guide"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Complete guide to relocating to Tampa Bay"}]]}],["$","$L4",null,{"href":"/counties/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Explore Counties"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Browse all 8 Tampa Bay counties"}]]}],["$","$L4",null,{"href":"/cities/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Find a City"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"90+ city and neighborhood guides"}]]}],["$","$L4",null,{"href":"/blog/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Blog"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Tips, comparisons, and local insights"}]]}]]}],["$","$L4",null,{"href":"/","className":"px-8 py-4 bg-brand-blue text-white font-display font-bold rounded-lg hover:bg-blue-600 transition-colors text-lg inline-block","children":"Back to Home"}]]}],"notFoundStyles":[]}]}],["$","footer",null,{"className":"bg-brand-dark text-gray-400","children":[["$","div",null,{"className":"bg-brand-navy","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10","children":["$","div",null,{"className":"grid md:grid-cols-3 gap-8 text-center","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Buying or Selling a Home?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Barrett Henry — The NOW Team at REMAX Collective"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 733-7907"}]]}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Need a Handyman?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Best Bay Services — Tampa Bay Home Services"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 416-8676"}]]}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Property Management"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"ViVi PM — Full-Service Property Management"}]]}]]}]}]}],["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8","children":[["$","div",null,{"className":"md:col-span-2","children":[["$","div",null,{"className":"font-display font-extrabold text-2xl text-white mb-3","children":["TB",["$","span",null,{"className":"text-brand-sky","children":"Relo"}]]}],["$","p",null,{"className":"text-sm leading-relaxed","children":"Your complete guide to relocating to Tampa Bay, Florida. Covering Hillsborough, Pinellas, Pasco, Hernando, Polk, Manatee, Sarasota, and Citrus counties with honest, local insight from someone who actually lives here."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Guides"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"hover:text-white transition-colors","children":"Moving to Tampa Bay"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/cost-of-living/","className":"hover:text-white transition-colors","children":"Cost of Living"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/moving-checklist/","className":"hover:text-white transition-colors","children":"Moving Checklist"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/blog/","className":"hover:text-white transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Counties"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li","Hillsborough",{"children":["$","$L4",null,{"href":"/counties/hillsborough/","className":"hover:text-white transition-colors","children":["Hillsborough"," County"]}]}],["$","li","Pinellas",{"children":["$","$L4",null,{"href":"/counties/pinellas/","className":"hover:text-white transition-colors","children":["Pinellas"," County"]}]}],["$","li","Pasco",{"children":["$","$L4",null,{"href":"/counties/pasco/","className":"hover:text-white transition-colors","children":["Pasco"," County"]}]}],["$","li","Hernando",{"children":["$","$L4",null,{"href":"/counties/hernando/","className":"hover:text-white transition-colors","children":["Hernando"," County"]}]}],["$","li","Polk",{"children":["$","$L4",null,{"href":"/counties/polk/","className":"hover:text-white transition-colors","children":["Polk"," County"]}]}],["$","li","Manatee",{"children":["$","$L4",null,{"href":"/counties/manatee/","className":"hover:text-white transition-colors","children":["Manatee"," County"]}]}],["$","li","Sarasota",{"children":["$","$L4",null,{"href":"/counties/sarasota/","className":"hover:text-white transition-colors","children":["Sarasota"," County"]}]}],["$","li","Citrus",{"children":["$","$L4",null,{"href":"/counties/citrus/","className":"hover:text-white transition-colors","children":["Citrus"," County"]}]}]]}]]}]]}],["$","div",null,{"className":"mt-10 pt-8 border-t border-gray-800","children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Barrett Henry's Network"}],["$","div",null,{"className":"grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3 text-sm","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Tampa Bay Real Estate"}],["$","a",null,{"href":"https://valricoagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Real Estate"}],["$","a",null,{"href":"https://parrishagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Parrish Real Estate"}],["$","a",null,{"href":"https://valrico.blog","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Community Blog"}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Handyman & Home Services"}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Property Management"}]]}]]}],["$","div",null,{"className":"mt-12 pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center gap-4 text-xs","children":[["$","p",null,{"children":["© ",2026," TB Relo. All rights reserved."]}],["$","div",null,{"className":"flex gap-4","children":[["$","$L4",null,{"href":"/affiliate-disclosure/","className":"hover:text-white transition-colors","children":"Affiliate Disclosure"}],["$","$L4",null,{"href":"/privacy-policy/","className":"hover:text-white transition-colors","children":"Privacy Policy"}],["$","$L4",null,{"href":"/disclaimer/","className":"hover:text-white transition-colors","children":"Disclaimer"}]]}]]}]]}],["$","div",null,{"className":"bg-black/30 border-t border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 text-center text-xs text-gray-500","children":["Site by"," ",["$","a",null,{"href":"https://vyrabyte.com","target":"_blank","rel":"noopener noreferrer","className":"text-gray-400 hover:text-white transition-colors","children":"Vyrabyte"}]]}]}]]}],["$","$Lc",null,{}]]}]]}]],null],null],["$Ld",null]]]]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Back to School Tampa Bay — Everything Parents Need to Know | TB Relo | TB Relo"}],["$","meta","3",{"name":"description","content":"Back to School Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","6",{"property":"og:title","content":"Back to School Tampa Bay — Everything Parents Need to Know | TB Relo | TB Relo"}],["$","meta","7",{"property":"og:description","content":"Back to School Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","8",{"property":"og:image","content":"https://tbrelo.com/images/blog/housing.jpg"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"Back to School Tampa Bay — Everything Parents Need to Know | TB Relo | TB Relo"}],["$","meta","13",{"name":"twitter:description","content":"Back to School Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","14",{"name":"twitter:image","content":"https://tbrelo.com/images/blog/housing.jpg"}],["$","link","15",{"rel":"icon","href":"/icon.svg?ff4364d89c37c0d6","type":"image/svg+xml","sizes":"any"}]]
+1:null

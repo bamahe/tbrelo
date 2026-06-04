@@ -109,7 +109,7 @@ Brandon's dining scene is mostly chains, but there are standouts if you know whe
 
 Getting settled in Brandon is straightforward because everything you need is close by.
 
-**Home services:** Brandon's older homes especially benefit from a once-over after you move in. {{bbs}} can handle the move-in checklist — mounting TVs, adjusting doors that don't quite close right, pressure washing the driveway, assembling furniture, and all those small fixes that pile up in the first few weeks. Having a reliable local handyman service is worth its weight in gold when you're still learning the area.
+**Home services:** Brandon's older homes especially benefit from a once-over after you move in. {{bbs}} can handle the move-in checklist — mounting TVs, adjusting doors that don't quite close right, pressure washing the driveway, assembling furniture, and all those small fixes that pile up in the first few weeks. Having a reliable local handyman service is worth its weight in gold when you're still learning the area. If you're on the east side of Brandon near the Valrico line, [Best Valrico Handyman](https://bestvalricohandyman.com) covers the Brandon-Valrico corridor for repairs, painting, TV mounting, and move-in punch lists.
 
 **Internet:** {{spectrum}} is the primary internet and cable provider in Brandon. Most neighborhoods have good coverage. Schedule your install before move-in day — the wait times can stretch during busy months (summer and early fall are peak moving season in Tampa Bay).
 

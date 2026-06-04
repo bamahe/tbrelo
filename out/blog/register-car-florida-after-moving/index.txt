@@ -1,0 +1,218 @@
+3:I[5878,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"Image"]
+4:I[2972,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],""]
+6:I[5143,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"default"]
+7:I[4707,[],""]
+9:I[6423,[],""]
+a:I[8003,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],""]
+b:I[7312,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"default"]
+c:I[5463,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"SpeedInsights"]
+2:Tec7,[{"@context":"https://schema.org","@type":"Article","headline":"How to Register Your Car in Florida After Moving | TB Relo","description":"How to Register Your Car in Florida After Moving. Honest guide from a Tampa Bay local with 23+ years of experience.","url":"https://tbrelo.com/blog/register-car-florida-after-moving/","author":{"@type":"Person","name":"Barrett Henry","jobTitle":"REALTOR® & Broker Associate","url":"https://nowtb.com","worksFor":{"@type":"Organization","name":"REMAX Collective"},"knowsAbout":["Tampa Bay Real Estate","Florida Relocation","Residential Real Estate","Investment Property","Property Management"]},"publisher":{"@type":"Organization","name":"TB Relo","url":"https://tbrelo.com"},"datePublished":"2025-05-18T08:00:00-04:00","dateModified":"2026-04-16T08:00:00-04:00","image":{"@type":"ImageObject","url":"https://tbrelo.com/images/blog/housing.jpg"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Can I register my car in Florida with an out-of-state driver's license?","acceptedAnswer":{"@type":"Answer","text":"No, Florida requires a valid Florida driver's license before you can register any vehicle. You must get your Florida license first, then handle vehicle registration as a separate step."}},{"@type":"Question","name":"What if my car title has a lien from another state?","acceptedAnswer":{"@type":"Answer","text":"Your out-of-state lender must transfer their lien to Florida and provide authorization for registration. Contact your lender immediately after moving to start this process, which typically takes 2-4 weeks."}},{"@type":"Question","name":"Do I need emissions testing for my vehicle in Tampa Bay?","acceptedAnswer":{"@type":"Answer","text":"No, Tampa Bay counties (Hillsborough, Pinellas, Pasco, Hernando) don't currently require emissions testing. However, vehicles with open safety recalls cannot be registered until recalls are completed."}},{"@type":"Question","name":"Can I register my vehicle at locations other than the DMV?","acceptedAnswer":{"@type":"Answer","text":"Yes, county tax collector offices handle most vehicle registration services and often have shorter wait times than DMV locations. Many services are also available online at flhsmv.gov, though initial registration for new residents must be done in person."}},{"@type":"Question","name":"What happens if I can't get my out-of-state title in time?","acceptedAnswer":{"@type":"Answer","text":"Florida allows temporary registration with a copy of your title application and receipt from your previous state. You'll pay the same fees but receive a 30-day temporary registration while waiting for your official title."}},{"@type":"Question","name":"How much will my auto insurance increase when I move to Florida?","acceptedAnswer":{"@type":"Answer","text":"Insurance rates vary significantly, but expect to pay $1,200-$2,400 annually for decent coverage in Tampa Bay. Rates depend on your driving record, coverage levels, and specific neighborhood within the area."}},{"@type":"Question","name":"Can I keep my personalized plates from another state?","acceptedAnswer":{"@type":"Answer","text":"No, you cannot transfer personalized plates to Florida. However, you can apply for new personalized plates through Florida DMV for an additional fee once your standard registration is complete."}},{"@type":"Question","name":"What proof of residency documents does Florida accept for vehicle registration?","acceptedAnswer":{"@type":"Answer","text":"Florida accepts utility bills, bank statements, voter registration cards, lease agreements, mortgage documents, or homestead exemption certificates. All documents must show your Florida address and be dated within 60 days for utility bills and bank statements."}}]}]5:T3d51,<p>Moving to the Sunshine State means dealing with Florida's DMV — officially called the Department of Highway Safety and Motor Vehicles (DHSMV). After helping 600+ families relocate to Tampa Bay over 23 years, I've watched people get tripped up by Florida's car registration process more than any other administrative task.</p>
+<p>The good news? It's straightforward once you know the steps. The bad news? Florida doesn't mess around with deadlines, and the penalties for missing them aren't cheap.</p>
+<h2>You've Got 30 Days — Period</h2>
+<p>Florida law requires new residents to register their vehicles within 30 days of establishing residency. Not 31 days. Not "when I get around to it." Thirty days.</p>
+<p>The state considers you a resident when you:</p>
+<ul>
+<li>Register to vote in Florida</li>
+<li>File for homestead exemption</li>
+<li>Enroll your kids in Florida public schools</li>
+<li>Accept employment in Florida</li>
+<li>File a Declaration of Domicile</li>
+</ul>
+<p>Miss the 30-day deadline and you're looking at late fees starting at $20, plus potential issues with law enforcement during traffic stops. I've had clients get pulled over in Westchase and walk away with $200+ in fines because their registration expired months earlier.</p>
+<h2>What You'll Need: The Complete Checklist</h2>
+<p>Here's everything you need to gather before heading to the DMV. Don't make multiple trips — get it right the first time.</p>
+<h3>Required Documents</h3>
+<p><strong>Proof of Identity:</strong></p>
+<ul>
+<li>Valid driver's license from your previous state</li>
+<li>Certified birth certificate or valid passport</li>
+<li>Social Security card or W-2 showing full SSN</li>
+</ul>
+<p><strong>Proof of Florida Residency (two documents required):</strong></p>
+<ul>
+<li>Florida voter registration card</li>
+<li>Utility bill (electric, gas, water) dated within 60 days</li>
+<li>Bank statement showing Florida address within 60 days</li>
+<li>Florida homestead exemption certificate</li>
+<li>Lease agreement or mortgage documents</li>
+</ul>
+<p><strong>Vehicle Documents:</strong></p>
+<ul>
+<li>Original out-of-state title (must be in your name)</li>
+<li>Current registration from previous state</li>
+<li>Lien information if you're still making payments</li>
+</ul>
+<p><strong>Insurance Requirements:</strong></p>
+<ul>
+<li>Florida auto insurance policy meeting minimum coverage</li>
+<li>Insurance card or policy declaration page</li>
+<li>Policy must be effective before registration</li>
+</ul>
+<h3>Florida Insurance Minimums</h3>
+<p>Florida requires:</p>
+<ul>
+<li>$10,000 Personal Injury Protection (PIP)</li>
+<li>$10,000 Property Damage Liability</li>
+</ul>
+<p>That's it for legal minimums, but trust me — get more coverage. A fender-bender on I-275 during rush hour can easily exceed $10,000 in damages. Most of my clients carry $100,000/$300,000 liability coverage and $100,000 property damage.</p>
+<p>Expect to pay $1,200-$2,400 annually for decent coverage in Tampa Bay, depending on your driving record and neighborhood. Rates in <a href="/counties/hillsborough/">Hillsborough County</a> run higher than rural counties due to traffic density and accident rates.</p>
+<h2>Step-by-Step Registration Process</h2>
+<h3>Step 1: Get a Florida Driver's License</h3>
+<p>You can't register a car without a Florida driver's license. Period. The DHSMV won't process vehicle registration with an out-of-state license.</p>
+<p><strong>What you'll need:</strong></p>
+<ul>
+<li>Original certified birth certificate or valid passport</li>
+<li>Social Security card or W-2</li>
+<li>Two proofs of residential address</li>
+<li>Eye exam (done at DMV or bring form from eye doctor)</li>
+</ul>
+<p><strong>Cost:</strong> $48 for new license
+<strong>Time:</strong> 2-4 hours at most DMV locations</p>
+<p>Popular DMV locations in Tampa Bay:</p>
+<ul>
+<li><strong>Tampa DMV</strong> (10315 E Adamo Dr) — Usually busy, arrive early</li>
+<li><strong>Brandon DMV</strong> (711 W Lumsden Rd) — Generally shorter waits</li>
+<li><strong>Clearwater DMV</strong> (29508 US Hwy 19 N) — Good for Pinellas residents</li>
+</ul>
+<h3>Step 2: Obtain Florida Auto Insurance</h3>
+<p>Your out-of-state insurance won't work for Florida registration. You need a Florida policy that meets state requirements before you can register.</p>
+<p>Major insurers with strong Florida presence:</p>
+<ul>
+<li>State Farm</li>
+<li>Progressive</li>
+<li>GEICO</li>
+<li>Allstate</li>
+</ul>
+<p>Shop around — rates vary significantly between companies. A clean driving record from Illinois might get you preferred rates, while New York drivers often see increases due to Florida's high accident rates.</p>
+<h3>Step 3: Visit the DMV for Registration</h3>
+<p><strong>Bring everything listed in the checklist above.</strong> Seriously. The Brandon DMV turns away 30+ people daily for incomplete paperwork.</p>
+<p><strong>Fees you'll pay:</strong></p>
+<ul>
+<li>Initial registration fee: $225 for passenger vehicles</li>
+<li>Title transfer: $75.25</li>
+<li>License plate: $28 (standard)</li>
+<li>Lien recording (if applicable): $2</li>
+</ul>
+<p><strong>Total cost:</strong> Around $330-$350 for most vehicles</p>
+<p>Some counties add local fees. <a href="/counties/hillsborough/">Hillsborough County</a> charges an additional $1 registration fee for transportation projects.</p>
+<h2>Special Situations and Gotchas</h2>
+<h3>Leased Vehicles</h3>
+<p>If you're leasing, the process gets complicated. Your leasing company holds the title, and they need to:</p>
+<ol>
+<li>Apply for a Florida certificate of title</li>
+<li>Provide authorization for you to register the vehicle</li>
+<li>Update their lien information with Florida DHSMV</li>
+</ol>
+<p><strong>Timeline:</strong> 4-6 weeks for processing
+<strong>Your cost:</strong> Same registration fees plus any lien processing fees</p>
+<p>Call your leasing company immediately after moving. Companies like Honda Financial and Toyota Motor Credit are familiar with Florida transfers, but smaller regional lenders might need extra time.</p>
+<h3>Vehicles with Liens</h3>
+<p>If you're still making payments, your lender must:</p>
+<ul>
+<li>Transfer their lien to Florida</li>
+<li>Provide a letter authorizing registration</li>
+<li>Update their records with Florida DHSMV</li>
+</ul>
+<p><strong>Pro tip:</strong> Contact your lender before moving to start this process. Wells Fargo Auto and Ally Financial typically handle transfers within 2-3 weeks, but credit unions might take longer.</p>
+<h3>Out-of-State Titles in Transit</h3>
+<p>Sometimes your previous state's DMV is slow sending your title. Florida allows temporary registration with:</p>
+<ul>
+<li>Copy of title application from previous state</li>
+<li>Receipt showing title was requested</li>
+<li>All other required documents</li>
+</ul>
+<p>You'll pay the same fees but get a temporary registration valid for 30 days while waiting for your title.</p>
+<h3>Military Personnel</h3>
+<p>Active-duty military members stationed in Florida don't need to register vehicles from their home state. However, if you're separating from service and staying in Florida, you become a resident and must register within 30 days of separation.</p>
+<h2>Hidden Costs and Unexpected Fees</h2>
+<p>Beyond the basic registration fees, budget for:</p>
+<p><strong>Emissions Testing:</strong> Not required statewide, but some counties require it for older vehicles. Tampa Bay counties don't currently require emissions testing.</p>
+<p><strong>VIN Verification:</strong> If your out-of-state title doesn't match DMV records exactly, you'll need VIN verification. The DMV does this free, but it adds 30-45 minutes to your visit.</p>
+<p><strong>Duplicate Documents:</strong> $10-$25 if you need copies of registration or title documents later.</p>
+<p><strong>Specialty Plates:</strong> Florida offers 120+ specialty plates ranging from $15-$25 annually. The University of South Florida plate costs an extra $25 but supports USF programs.</p>
+<h2>DMV Alternatives: Tax Collectors and Online Options</h2>
+<p>You don't have to visit the DMV for everything. Florida allows tax collector offices to handle many vehicle services, and they're often faster.</p>
+<p><strong>Hillsborough County Tax Collector locations:</strong></p>
+<ul>
+<li><strong>Plant City</strong> (1715 James L Redman Pkwy) — Shortest waits</li>
+<li><strong>Brandon</strong> (1020 Bloomingdale Ave) — Popular with Fishhawk residents</li>
+<li><strong>Carrollwood</strong> (11025 N 46th St) — Convenient for Northwest Hillsborough</li>
+</ul>
+<p><strong>Online services</strong> through flhsmv.gov include:</p>
+<ul>
+<li>Registration renewal</li>
+<li>Address changes</li>
+<li>Duplicate registration</li>
+<li>Some title services</li>
+</ul>
+<p>However, initial registration for new residents must be done in person.</p>
+<h2>Avoiding Common Mistakes</h2>
+<h3>Don't Wait for Your Homestead Exemption</h3>
+<p>Many new residents think they need homestead exemption before registering their car. Wrong. You can use utility bills, bank statements, or lease agreements as proof of residency. File for homestead exemption separately through the <a href="/blog/homestead-exemption/">Property Appraiser's office</a>.</p>
+<h3>Don't Forget to Update Your Lender</h3>
+<p>If you have a car loan, notify your lender of your address change immediately. Failure to update your address can technically put you in default of your loan agreement.</p>
+<h3>Don't Assume Your Insurance Transfers</h3>
+<p>Even if you have the same insurance company, your rates and coverage will change when you move to Florida. Get a new Florida policy — don't just update your address on an existing out-of-state policy.</p>
+<h3>Don't Ignore Recalls</h3>
+<p>Florida won't register vehicles with open safety recalls. Check nhtsa.gov/recalls before your DMV visit. Most dealers will fix recalls for free regardless of where you bought the car.</p>
+<h2>Making the Process Smoother</h2>
+<p><strong>Schedule DMV appointments online</strong> when possible. The Tampa DMV books 2-3 weeks out, but Brandon and Plant City often have same-week availability.</p>
+<p><strong>Arrive 30 minutes before opening</strong> if you can't get an appointment. The first 20 people usually get seen within an hour.</p>
+<p><strong>Bring exact change or a debit card.</strong> Many DMV locations don't accept credit cards, and their change-making abilities vary.</p>
+<p><strong>Consider hiring a service.</strong> Several Tampa Bay companies handle DMV paperwork for $100-$150. Worth it if you're moving during busy season or have complicated vehicle ownership.</p>
+<hr>
+<p><strong>Moving to Tampa Bay?</strong> Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.</p>
+<p><a href="https://nowtb.com">Contact Barrett →</a> | <a href="tel:8137337907">(813) 733-7907</a></p>
+<hr>
+<h2>Timeline and Planning Tips</h2>
+<p>Start the registration process as soon as you establish residency. Here's a realistic timeline:</p>
+<p><strong>Week 1:</strong> Get Florida driver's license, establish residency documents
+<strong>Week 2:</strong> Obtain Florida auto insurance, gather vehicle documents
+<strong>Week 3:</strong> Register vehicle at DMV or tax collector
+<strong>Week 4:</strong> Buffer time for any complications</p>
+<p>Don't wait until day 29. Murphy's Law applies heavily to DMV visits — whatever can go wrong will go wrong when you're racing against a deadline.</p>
+<h2>Cost Breakdown by County</h2>
+<p>Registration costs vary slightly by county due to local fees:</p>
+<p><strong>Hillsborough County:</strong> $330-$350 total
+<strong>Pinellas County:</strong> $325-$345 total
+<strong>Pasco County:</strong> $320-$340 total
+<strong>Hernando County:</strong> $315-$335 total</p>
+<p>These ranges include all standard fees for a typical passenger vehicle. Luxury cars over $50,000 value may have additional fees.</p>
+<h2>What Happens If You're Late</h2>
+<p>Miss the 30-day deadline and you'll face:</p>
+<ul>
+<li>$20 late registration fee (minimum)</li>
+<li>Potential traffic citations during stops</li>
+<li>Insurance complications if you have an accident</li>
+<li>Difficulty selling or trading the vehicle</li>
+</ul>
+<p>Florida Highway Patrol doesn't mess around. I've had clients get pulled over on the Veteran's Expressway and receive $150 fines for expired out-of-state registration. The trooper's attitude was basically "you've been here four months, figure it out."</p>
+<h2>Getting Help</h2>
+<p>If the process feels overwhelming, several options exist:</p>
+<p><strong>DMV customer service:</strong> (850) 617-2000 — expect long hold times
+<strong>Tax collector offices:</strong> Often more helpful than DMV staff
+<strong>AAA members:</strong> Some AAA offices handle basic DMV services
+<strong>Professional services:</strong> Tag agencies throughout Tampa Bay handle registrations for fees</p>
+<p>Don't let car registration stress derail your move to Florida. It's a temporary hassle for permanent sunshine, beaches, and no state income tax. Follow this guide, gather your paperwork, and knock it out early in your first month.</p>
+<p>Remember to add car registration to your <a href="/moving-checklist/">moving checklist</a> alongside <a href="/utilities/">setting up utilities</a> and other essential tasks for new Florida residents.</p>
+<h2>Frequently Asked Questions</h2>
+<h3>Can I register my car in Florida with an out-of-state driver's license?</h3>
+<p>No, Florida requires a valid Florida driver's license before you can register any vehicle. You must get your Florida license first, then handle vehicle registration as a separate step.</p>
+<h3>What if my car title has a lien from another state?</h3>
+<p>Your out-of-state lender must transfer their lien to Florida and provide authorization for registration. Contact your lender immediately after moving to start this process, which typically takes 2-4 weeks.</p>
+<h3>Do I need emissions testing for my vehicle in Tampa Bay?</h3>
+<p>No, Tampa Bay counties (Hillsborough, Pinellas, Pasco, Hernando) don't currently require emissions testing. However, vehicles with open safety recalls cannot be registered until recalls are completed.</p>
+<h3>Can I register my vehicle at locations other than the DMV?</h3>
+<p>Yes, county tax collector offices handle most vehicle registration services and often have shorter wait times than DMV locations. Many services are also available online at flhsmv.gov, though initial registration for new residents must be done in person.</p>
+<h3>What happens if I can't get my out-of-state title in time?</h3>
+<p>Florida allows temporary registration with a copy of your title application and receipt from your previous state. You'll pay the same fees but receive a 30-day temporary registration while waiting for your official title.</p>
+<h3>How much will my auto insurance increase when I move to Florida?</h3>
+<p>Insurance rates vary significantly, but expect to pay $1,200-$2,400 annually for decent coverage in Tampa Bay. Rates depend on your driving record, coverage levels, and specific neighborhood within the area.</p>
+<h3>Can I keep my personalized plates from another state?</h3>
+<p>No, you cannot transfer personalized plates to Florida. However, you can apply for new personalized plates through Florida DMV for an additional fee once your standard registration is complete.</p>
+<h3>What proof of residency documents does Florida accept for vehicle registration?</h3>
+<p>Florida accepts utility bills, bank statements, voter registration cards, lease agreements, mortgage documents, or homestead exemption certificates. All documents must show your Florida address and be dated within 60 days for utility bills and bank statements.</p>
+8:["slug","register-car-florida-after-moving","d"]
+0:["SZLIdUDBKVit2TP_UqbYL",[[["",{"children":["blog",{"children":[["slug","register-car-florida-after-moving","d"],{"children":["__PAGE__?{\"slug\":\"register-car-florida-after-moving\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","register-car-florida-after-moving","d"],{"children":["__PAGE__",{},[["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","section",null,{"className":"relative w-full h-[200px] md:h-[300px] overflow-hidden bg-brand-navy","children":[["$","$L3",null,{"src":"/images/blog/housing.jpg","alt":"How to Register Your Car in Florida After Moving","fill":true,"className":"object-cover","unoptimized":true,"priority":true}],["$","div",null,{"className":"absolute inset-0 bg-brand-navy/60"}],["$","div",null,{"className":"relative z-10 flex flex-col items-center justify-center h-full px-4 text-center","children":[["$","h1",null,{"className":"text-white text-3xl md:text-5xl font-display font-extrabold leading-tight max-w-4xl","children":"How to Register Your Car in Florida After Moving"}],"$undefined"]}]]}],["$","article",null,{"className":"max-w-4xl mx-auto px-4 py-10","children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://tbrelo.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://tbrelo.com/blog/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"How to Register Your Car in Florida After Moving\",\"item\":\"https://tbrelo.com/blog/register-car-florida-after-moving/\"}]}"}}],["$","nav",null,{"aria-label":"Breadcrumb","className":"text-sm text-brand-slate mb-6","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-1","children":[["$","li","/",{"className":"flex items-center gap-1","children":[false,["$","$L4",null,{"href":"/","className":"hover:text-brand-blue transition-colors","children":"Home"}]]}],["$","li","/blog/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","$L4",null,{"href":"/blog/","className":"hover:text-brand-blue transition-colors","children":"Blog"}]]}],["$","li","/blog/register-car-florida-after-moving/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","span",null,{"className":"text-brand-navy font-medium","children":"How to Register Your Car in Florida After Moving"}]]}]]}]}]],["$","p",null,{"className":"text-brand-slate text-sm mb-8","children":["Published ","May 18, 2025"]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$5"}}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"cta-box-primary","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-white","children":"Moving to Tampa Bay? Get a Local Expert."}],["$","p",null,{"className":"text-sm mb-4 text-white","children":"Barrett Henry is a Broker Associate with REMAX Collective and over 23 years of real estate experience. Straight talk, smart strategy, no pressure."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-blue text-white hover:bg-blue-600","children":["Contact Barrett"," →"]}],["$","a",null,{"href":"tel:8137337907","className":"text-sm text-white","children":"(813) 733-7907"}]]}]]}],["$","div",null,{"className":"cta-box","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-brand-navy","children":"Need Help Setting Up Your New Home?"}],["$","p",null,{"className":"text-sm mb-4 text-brand-slate","children":"Best Bay Services handles handyman work, home repairs, and maintenance for your new Tampa Bay home. Local, licensed, and trusted."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-navy text-white hover:bg-brand-dark","children":["Get a Quote"," →"]}],["$","a",null,{"href":"tel:8134168676","className":"text-sm text-brand-blue","children":"(813) 416-8676"}]]}]]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","$L6",null,{"blogSlug":"register-car-florida-after-moving"}]]}]],null],null],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$8","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/db2729ad4a9f0783.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link",null,{"rel":"icon","href":"/favicon-32.png","type":"image/png","sizes":"32x32"}],["$","link",null,{"rel":"icon","href":"/favicon-16.png","type":"image/png","sizes":"16x16"}],["$","link",null,{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link",null,{"rel":"icon","href":"/icon-192.png","type":"image/png","sizes":"192x192"}],["$","meta",null,{"name":"google-adsense-account","content":"ca-pub-2033173419526042"}],["$","meta",null,{"name":"impact-site-verification","content":"bb623f40-9653-4312-9ca8-bf35b957a10c"}],["$","$La",null,{"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2033173419526042","strategy":"afterInteractive","crossOrigin":"anonymous"}],["$","$La",null,{"src":"https://www.googletagmanager.com/gtag/js?id=G-TD87S02SLM","strategy":"afterInteractive"}],["$","$La",null,{"id":"gtag-init","strategy":"afterInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'G-TD87S02SLM');\n          "}]]}],["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"[{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"https://tbrelo.com/#website\",\"name\":\"TB Relo — Tampa Bay Relocation Guide\",\"url\":\"https://tbrelo.com\",\"description\":\"Comprehensive relocation guides for Tampa Bay, Florida. Covering 8 counties, 100+ cities, cost of living, schools, and everything you need to know about moving to Tampa Bay.\",\"publisher\":{\"@id\":\"https://tbrelo.com/#org\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://tbrelo.com/blog/?q={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}},{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://tbrelo.com/#org\",\"name\":\"TB Relo\",\"url\":\"https://tbrelo.com\",\"sameAs\":[\"https://nowtb.com\",\"https://valricoagent.com\",\"https://parrishagent.com\",\"https://www.facebook.com/BarrettHenryREALTOR/\",\"https://www.instagram.com/thenowteam\",\"https://www.youtube.com/@nowtampa\"]}]"}}],["$","$Lb",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"max-w-2xl mx-auto px-4 py-20 text-center","children":[["$","h1",null,{"className":"text-6xl font-display font-extrabold text-brand-navy mb-4","children":"404"}],["$","p",null,{"className":"text-xl text-brand-slate mb-8","children":"This page doesn't exist. Maybe you're looking for one of these?"}],["$","div",null,{"className":"grid sm:grid-cols-2 gap-4 mb-12 text-left","children":[["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Moving Guide"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Complete guide to relocating to Tampa Bay"}]]}],["$","$L4",null,{"href":"/counties/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Explore Counties"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Browse all 8 Tampa Bay counties"}]]}],["$","$L4",null,{"href":"/cities/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Find a City"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"90+ city and neighborhood guides"}]]}],["$","$L4",null,{"href":"/blog/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Blog"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Tips, comparisons, and local insights"}]]}]]}],["$","$L4",null,{"href":"/","className":"px-8 py-4 bg-brand-blue text-white font-display font-bold rounded-lg hover:bg-blue-600 transition-colors text-lg inline-block","children":"Back to Home"}]]}],"notFoundStyles":[]}]}],["$","footer",null,{"className":"bg-brand-dark text-gray-400","children":[["$","div",null,{"className":"bg-brand-navy","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10","children":["$","div",null,{"className":"grid md:grid-cols-3 gap-8 text-center","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Buying or Selling a Home?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Barrett Henry — The NOW Team at REMAX Collective"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 733-7907"}]]}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Need a Handyman?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Best Bay Services — Tampa Bay Home Services"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 416-8676"}]]}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Property Management"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"ViVi PM — Full-Service Property Management"}]]}]]}]}]}],["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8","children":[["$","div",null,{"className":"md:col-span-2","children":[["$","div",null,{"className":"font-display font-extrabold text-2xl text-white mb-3","children":["TB",["$","span",null,{"className":"text-brand-sky","children":"Relo"}]]}],["$","p",null,{"className":"text-sm leading-relaxed","children":"Your complete guide to relocating to Tampa Bay, Florida. Covering Hillsborough, Pinellas, Pasco, Hernando, Polk, Manatee, Sarasota, and Citrus counties with honest, local insight from someone who actually lives here."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Guides"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"hover:text-white transition-colors","children":"Moving to Tampa Bay"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/cost-of-living/","className":"hover:text-white transition-colors","children":"Cost of Living"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/moving-checklist/","className":"hover:text-white transition-colors","children":"Moving Checklist"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/blog/","className":"hover:text-white transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Counties"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li","Hillsborough",{"children":["$","$L4",null,{"href":"/counties/hillsborough/","className":"hover:text-white transition-colors","children":["Hillsborough"," County"]}]}],["$","li","Pinellas",{"children":["$","$L4",null,{"href":"/counties/pinellas/","className":"hover:text-white transition-colors","children":["Pinellas"," County"]}]}],["$","li","Pasco",{"children":["$","$L4",null,{"href":"/counties/pasco/","className":"hover:text-white transition-colors","children":["Pasco"," County"]}]}],["$","li","Hernando",{"children":["$","$L4",null,{"href":"/counties/hernando/","className":"hover:text-white transition-colors","children":["Hernando"," County"]}]}],["$","li","Polk",{"children":["$","$L4",null,{"href":"/counties/polk/","className":"hover:text-white transition-colors","children":["Polk"," County"]}]}],["$","li","Manatee",{"children":["$","$L4",null,{"href":"/counties/manatee/","className":"hover:text-white transition-colors","children":["Manatee"," County"]}]}],["$","li","Sarasota",{"children":["$","$L4",null,{"href":"/counties/sarasota/","className":"hover:text-white transition-colors","children":["Sarasota"," County"]}]}],["$","li","Citrus",{"children":["$","$L4",null,{"href":"/counties/citrus/","className":"hover:text-white transition-colors","children":["Citrus"," County"]}]}]]}]]}]]}],["$","div",null,{"className":"mt-10 pt-8 border-t border-gray-800","children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Barrett Henry's Network"}],["$","div",null,{"className":"grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3 text-sm","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Tampa Bay Real Estate"}],["$","a",null,{"href":"https://valricoagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Real Estate"}],["$","a",null,{"href":"https://parrishagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Parrish Real Estate"}],["$","a",null,{"href":"https://valrico.blog","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Community Blog"}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Handyman & Home Services"}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Property Management"}]]}]]}],["$","div",null,{"className":"mt-12 pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center gap-4 text-xs","children":[["$","p",null,{"children":["© ",2026," TB Relo. All rights reserved."]}],["$","div",null,{"className":"flex gap-4","children":[["$","$L4",null,{"href":"/affiliate-disclosure/","className":"hover:text-white transition-colors","children":"Affiliate Disclosure"}],["$","$L4",null,{"href":"/privacy-policy/","className":"hover:text-white transition-colors","children":"Privacy Policy"}],["$","$L4",null,{"href":"/disclaimer/","className":"hover:text-white transition-colors","children":"Disclaimer"}]]}]]}]]}],["$","div",null,{"className":"bg-black/30 border-t border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 text-center text-xs text-gray-500","children":["Site by"," ",["$","a",null,{"href":"https://vyrabyte.com","target":"_blank","rel":"noopener noreferrer","className":"text-gray-400 hover:text-white transition-colors","children":"Vyrabyte"}]]}]}]]}],["$","$Lc",null,{}]]}]]}]],null],null],["$Ld",null]]]]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"How to Register Your Car in Florida After Moving | TB Relo | TB Relo"}],["$","meta","3",{"name":"description","content":"How to Register Your Car in Florida After Moving. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","6",{"property":"og:title","content":"How to Register Your Car in Florida After Moving | TB Relo | TB Relo"}],["$","meta","7",{"property":"og:description","content":"How to Register Your Car in Florida After Moving. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","8",{"property":"og:image","content":"https://tbrelo.com/images/blog/housing.jpg"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"How to Register Your Car in Florida After Moving | TB Relo | TB Relo"}],["$","meta","13",{"name":"twitter:description","content":"How to Register Your Car in Florida After Moving. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","14",{"name":"twitter:image","content":"https://tbrelo.com/images/blog/housing.jpg"}],["$","link","15",{"rel":"icon","href":"/icon.svg?ff4364d89c37c0d6","type":"image/svg+xml","sizes":"any"}]]
+1:null

@@ -27,12 +27,11 @@ export const metadata: Metadata = {
     title: `${siteConfig.name} — ${siteConfig.tagline}`,
     description: siteConfig.description,
   },
+  alternates: {
+    canonical: siteConfig.url,
+  },
   robots: {
-    index: true,
-    follow: true,
     googleBot: {
-      index: true,
-      follow: true,
       'max-video-preview': -1,
       'max-image-preview': 'large',
       'max-snippet': -1,
@@ -92,7 +91,7 @@ export default function RootLayout({
                 '@id': 'https://tbrelo.com/#website',
                 name: 'TB Relo — Tampa Bay Relocation Guide',
                 url: 'https://tbrelo.com',
-                description: 'Comprehensive relocation guides for Tampa Bay, Florida. Covering 8 counties, 100+ cities, cost of living, schools, and everything you need to know about moving to Tampa Bay.',
+                description: 'Tampa Bay relocation guides covering 8 counties, 100+ cities, cost of living, neighborhoods, schools, and everything you need for your move to Florida.',
                 publisher: { '@id': 'https://tbrelo.com/#org' },
                 potentialAction: {
                   '@type': 'SearchAction',

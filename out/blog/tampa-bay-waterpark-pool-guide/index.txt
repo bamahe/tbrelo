@@ -1,0 +1,218 @@
+3:I[5878,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"Image"]
+4:I[2972,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],""]
+6:I[5143,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"default"]
+7:I[4707,[],""]
+9:I[6423,[],""]
+a:I[8003,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],""]
+b:I[7312,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"default"]
+c:I[5463,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"SpeedInsights"]
+2:Tec0,[{"@context":"https://schema.org","@type":"Article","headline":"Tampa Bay Waterpark and Pool Guide for Families | TB Relo","description":"Tampa Bay Waterpark and Pool Guide for Families. Honest guide from a Tampa Bay local with 23+ years of experience.","url":"https://tbrelo.com/blog/tampa-bay-waterpark-pool-guide/","author":{"@type":"Person","name":"Barrett Henry","jobTitle":"REALTOR® & Broker Associate","url":"https://nowtb.com","worksFor":{"@type":"Organization","name":"REMAX Collective"},"knowsAbout":["Tampa Bay Real Estate","Florida Relocation","Residential Real Estate","Investment Property","Property Management"]},"publisher":{"@type":"Organization","name":"TB Relo","url":"https://tbrelo.com"},"datePublished":"2025-05-10T08:00:00-04:00","dateModified":"2026-04-16T08:00:00-04:00","image":{"@type":"ImageObject","url":"https://tbrelo.com/images/blog/housing.jpg"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What's the best waterpark for toddlers in Tampa Bay?","acceptedAnswer":{"@type":"Answer","text":"Adventure Island has an excellent toddler area called Fabian's Fun Port, designed specifically for kids under 48 inches tall. It features smaller slides, interactive play structures, and zero-depth entry pools. The area is separated from the main park, so you don't have to worry about bigger kids overwhelming little ones."}},{"@type":"Question","name":"Are Tampa's public pools safe and clean?","acceptedAnswer":{"@type":"Answer","text":"Most city and county pools in Tampa Bay maintain good safety and cleanliness standards, but quality varies by location. Hillsborough County pools generally have better maintenance and newer facilities than city pools. Always check recent online reviews and trust your eyes — cloudy water or strong chemical odors are red flags to find another option."}},{"@type":"Question","name":"How much does it cost to use Adventure Island for a family of four?","acceptedAnswer":{"@type":"Answer","text":"A family of four will pay approximately $220 for admission ($54.99 per person) plus $30 for parking. Season passes at $139 each ($556 total) break even after 2.5 visits and include parking discounts. Food and drinks add $60-$100 per visit, so budget $300+ for a day trip or consider bringing snacks to designated picnic areas."}},{"@type":"Question","name":"What's the water temperature like at Tampa Bay pools year-round?","acceptedAnswer":{"@type":"Answer","text":"Heated pools maintain 78-82 degrees year-round, while unheated pools drop to 65-70 degrees December through February — too cold for most people. Natural springs like Crystal Springs stay around 72 degrees consistently. Always ask about heating costs for vacation rental pools, as many owners don't heat them during cooler months."}},{"@type":"Question","name":"Which neighborhoods have the best community pool amenities?","acceptedAnswer":{"@type":"Answer","text":"Westchase, New Tampa, and Brandon consistently offer the best HOA and community pools. Look for neighborhoods built after 2000, as they typically feature larger pools, better maintenance budgets, and more family-friendly amenities. Avoid older communities where pools may be undersized or poorly maintained due to budget constraints."}},{"@type":"Question","name":"Is it worth driving to Clearwater beaches instead of using local pools?","acceptedAnswer":{"@type":"Answer","text":"For occasional beach days, absolutely — Clearwater Beach is 45-60 minutes from most Tampa locations and offers genuine Gulf Coast experience. However, for regular swimming and cooling off, local pools are more practical. The drive, parking fees ($15-$25), and crowds make beaches better for special occasions rather than weekly family activities."}}]}]5:T3898,<p>Look, Tampa Bay's heat isn't just a summer thing anymore. We're talking 85-degree days in March and humid afternoons that make you question your life choices. After 23 years of helping families move here, I've learned one thing: you need a solid water strategy, and fast.</p>
+<p>Here's your no-nonsense guide to staying cool in Tampa Bay, from world-class waterparks to neighborhood pools that locals actually use.</p>
+<h2>The Big Leagues: Theme Park Waterparks</h2>
+<h3>Adventure Island - The Crown Jewel</h3>
+<p>Adventure Island isn't just Tampa's waterpark — it's arguably Florida's best-kept secret for families who want thrills without Disney crowds. Located right next to Busch Gardens on McKinley Drive, this 30-acre oasis delivers everything from heart-stopping slides to toddler splash zones.</p>
+<p><strong>What You Need to Know:</strong></p>
+<ul>
+<li>Season passes: $139 (often cheaper than two day tickets)</li>
+<li>Parking: $30 (or free if you have Busch Gardens platinum)</li>
+<li>Best time to visit: Weekday mornings in May or September</li>
+</ul>
+<p>The Vanish Point and KareKare Curl are the headline attractions — both will leave your teenagers bragging to friends back home. But here's the insider tip: the Wahoo Run and Key West Rapids handle crowds better and are just as fun for the whole family.</p>
+<p><strong>Real Talk:</strong> The food is overpriced theme park fare. Eat breakfast before you go, and take advantage of the picnic areas if you want to save money. The refillable souvenir cups ($19.99) pay for themselves if you're staying all day.</p>
+<h3>Busch Gardens' Aquatica (Day Trip Territory)</h3>
+<p>While technically in Orlando, Aquatica deserves mention because it's only 75 minutes from downtown Tampa. If you're planning a theme park weekend anyway, the combination with SeaWorld makes sense.</p>
+<p><strong>Distance from Tampa:</strong> 68 miles
+<strong>Drive time:</strong> 1 hour 20 minutes
+<strong>Worth it for:</strong> Multi-day Orlando trips</p>
+<h2>Community Pools That Don't Disappoint</h2>
+<h3>City of Tampa Pools</h3>
+<p>Tampa runs eight public pools, and honestly, some are better than others. Here's where to go and where to skip:</p>
+<p><strong>Curtis Hixon Waterfront Park Pool</strong>
+This downtown gem reopened in 2019 with modern facilities and Instagram-worthy views of the Hillsborough River. It's small but clean, and the location can't be beat.</p>
+<p><strong>Location:</strong> 600 N Ashley Drive
+<strong>Hours:</strong> Tuesday-Sunday, 10 AM-7 PM
+<strong>Cost:</strong> $3 adults, $2 kids</p>
+<p><strong>Rowlett Park Pool</strong>
+The neighborhood favorite in Seminole Heights. Larger than Curtis Hixon with actual lap lanes and a separate kiddie area.</p>
+<p><strong>Location:</strong> 2401 E Yukon Street
+<strong>What makes it great:</strong> Covered pavilion, decent parking, less touristy</p>
+<p><strong>Skip These:</strong></p>
+<ul>
+<li>Copeland Park (maintenance issues)</li>
+<li>West Tampa Community Center (crowded, limited hours)</li>
+</ul>
+<h3>Hillsborough County Pools</h3>
+<p>The county runs things differently — and usually better. Their facilities are newer, larger, and better maintained.</p>
+<p><strong>Brandon Regional Park Pool</strong>
+This is the crown jewel of county pools. Olympic-sized main pool, separate diving well, and a splash playground that rivals some waterparks.</p>
+<p><strong>Location:</strong> 405 Providence Road, Brandon
+<strong>Cost:</strong> $4 residents, $6 non-residents
+<strong>Why it's worth the drive:</strong> Modern facilities, ample parking, rarely overcrowded</p>
+<p><strong>Countryside Recreation Complex</strong>
+In Clearwater, but worth mentioning for families in North Tampa. This complex includes a lazy river — yes, really.</p>
+<h2>Beach Day Alternatives: Natural Swimming</h2>
+<h3>Weedon Island Preserve</h3>
+<p>Not technically swimming, but the kayak launches here lead to some of the clearest water in Tampa Bay. Bring your own gear or rent from one of the nearby outfitters.</p>
+<p><strong>Best for:</strong> Adventurous families with kids 8+
+<strong>What to bring:</strong> Water shoes (oyster shells are sharp)
+<strong>Parking:</strong> Free, but fills up on weekends</p>
+<h3>Crystal Springs Preserve</h3>
+<p>About 45 minutes northeast of Tampa, but the spring-fed swimming area maintains a consistent 72 degrees year-round. It's managed by Hillsborough County and requires advance registration during peak season.</p>
+<p><strong>Admission:</strong> $2 per person
+<strong>What makes it special:</strong> Natural spring water, clear enough to see the bottom
+<strong>Real talk:</strong> It's small and gets crowded fast</p>
+<h2>Apartment and HOA Pool Strategies</h2>
+<h3>What to Look For</h3>
+<p>Not all community pools are created equal. After two decades of touring properties with families, here's what separates the good from the "we never actually use this":</p>
+<p><strong>Pool Size Matters</strong></p>
+<ul>
+<li>25+ yards: Actual swimming possible</li>
+<li>Under 20 yards: Basically a large hot tub</li>
+<li>Kidney-shaped: Usually too small for laps</li>
+</ul>
+<p><strong>Maintenance Red Flags</strong></p>
+<ul>
+<li>Cloudy water (obvious but worth stating)</li>
+<li>Cracked coping around edges</li>
+<li>Rusty pool equipment</li>
+<li>Dead landscaping (suggests budget problems)</li>
+</ul>
+<p><strong>HOA Pool Etiquette Reality Check</strong>
+Every HOA has rules. Most aren't enforced until someone complains. Keep music reasonable, clean up after yourself, and don't let kids run on wet surfaces. The neighbors who live poolside have more influence than you think.</p>
+<h2>Private Pool Costs and Considerations</h2>
+<h3>Installation Reality Check</h3>
+<p><strong>In-ground pool costs in Tampa Bay (2024):</strong></p>
+<ul>
+<li>Basic fiberglass: $45,000-$65,000</li>
+<li>Gunite with basic finishes: $65,000-$85,000</li>
+<li>Custom designs: $100,000+</li>
+</ul>
+<p><strong>Don't forget these costs:</strong></p>
+<ul>
+<li>Permits: $1,200-$2,000</li>
+<li>Electrical work: $3,000-$5,000</li>
+<li>Fencing (required): $2,500-$4,500</li>
+<li>First year of chemicals/equipment: $1,500</li>
+</ul>
+<h3>Monthly Reality</h3>
+<p>Your pool will cost $150-$300 monthly to maintain properly. That includes:</p>
+<ul>
+<li>Chemicals: $50-$80</li>
+<li>Professional cleaning: $100-$150</li>
+<li>Electricity for pumps: $40-$70</li>
+<li>Repairs (budget ahead): $50/month average</li>
+</ul>
+<p><strong>Insurance impact:</strong> Expect your homeowner's insurance to increase $300-$500 annually. Some carriers require additional liability coverage.</p>
+<h2>Splash Pads and Free Options</h2>
+<h3>City of Tampa Splash Pads</h3>
+<p><strong>Al Lopez Park</strong>
+The granddaddy of Tampa splash pads, renovated in 2022 with new water features and shade structures.</p>
+<p><strong>Gadsden Park</strong>
+Smaller but never crowded. Great for families with toddlers.</p>
+<p><strong>MacFarlane Park</strong>
+South Tampa location with decent parking and newer equipment.</p>
+<h3>County Options</h3>
+<p><strong>Veterans Park (Brandon)</strong>
+Massive splash playground with multiple zones for different age groups.</p>
+<p><strong>Sand Lake Park</strong>
+Hidden gem in New Tampa. The splash pad is newer and less discovered.</p>
+<hr>
+<p><strong>Moving to Tampa Bay?</strong> Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.</p>
+<p><a href="https://nowtb.com">Contact Barrett →</a> | <a href="tel:8137337907">(813) 733-7907</a></p>
+<hr>
+<h2>Seasonal Timing and Crowds</h2>
+<h3>When to Go (and When to Avoid)</h3>
+<p><strong>Best Times:</strong></p>
+<ul>
+<li>April-May: Perfect weather, smaller crowds</li>
+<li>September-October: Still warm, kids back in school</li>
+<li>Weekday mornings: Always less crowded</li>
+</ul>
+<p><strong>Avoid Like the Plague:</strong></p>
+<ul>
+<li>Memorial Day through Labor Day weekends</li>
+<li>Spring break weeks (March)</li>
+<li>Any sunny Saturday afternoon</li>
+</ul>
+<h3>Weather Considerations</h3>
+<p>Tampa Bay afternoon thunderstorms are real and frequent from June through September. Most pools and waterparks close at the first sign of lightning — which happens around 3 PM during summer months.</p>
+<p><strong>Smart strategy:</strong> Plan pool time for mornings during summer. You'll beat both crowds and storms.</p>
+<h2>Pool Safety Reality Check</h2>
+<h3>What Actually Matters</h3>
+<p><strong>Drowning statistics in Florida are sobering.</strong> Hillsborough County averages 12-15 drowning deaths annually, with private pools being the leading location.</p>
+<p><strong>Non-negotiable safety rules:</strong></p>
+<ul>
+<li>Adult supervision within arm's reach for non-swimmers</li>
+<li>Pool fences with self-closing, self-latching gates</li>
+<li>Swimming lessons for all family members</li>
+<li>CPR training for parents</li>
+</ul>
+<p><strong>Local swimming lesson options:</strong></p>
+<ul>
+<li>Hillsborough County offers lessons at most public pools</li>
+<li>Private instructors: $40-$60 per session</li>
+<li>Group classes at community centers: $60-$80 for 8 sessions</li>
+</ul>
+<h3>Pool Chemical Reality</h3>
+<p>The "chlorine smell" people associate with pools? That's not chlorine — it's chloramines, which form when chlorine combines with organic matter (sweat, urine, oils). A properly balanced pool should have almost no smell.</p>
+<p><strong>Signs of poor pool maintenance:</strong></p>
+<ul>
+<li>Strong chemical odors</li>
+<li>Red, irritated eyes after swimming</li>
+<li>Cloudy or discolored water</li>
+<li>Slippery pool surfaces</li>
+</ul>
+<h2>Budget-Friendly Family Strategies</h2>
+<h3>Season Pass Math</h3>
+<p><strong>Adventure Island season passes:</strong> $139 per person
+<strong>Break-even point:</strong> 2.5 visits (day passes are $54.99)</p>
+<p>If you're moving here permanently, buy the season pass. It includes parking discounts and food discounts that add up quickly.</p>
+<h3>Multi-Family Pool Parties</h3>
+<p><strong>Reality check:</strong> Community pool parties work better than backyard pool parties for large groups. Most neighborhood pools allow private rentals for $100-$200, and you get:</p>
+<ul>
+<li>Professional lifeguards</li>
+<li>No cleanup responsibility</li>
+<li>Bathroom facilities</li>
+<li>Usually better parking</li>
+</ul>
+<h3>Free Options That Don't Suck</h3>
+<p><strong>Bayshore Boulevard seawall:</strong> Not swimming, but kids love playing in the waves during high tide. Free parking, and you're 10 minutes from downtown.</p>
+<p><strong>Davis Islands beach:</strong> Small but legitimate beach with shallow water perfect for young kids. Parking can be tricky on weekends.</p>
+<p><strong>Ben T. Davis Beach:</strong> Apollo Beach area. Free parking, decent facilities, and the water is typically calmer than Gulf beaches.</p>
+<h2>Making the Most of Hotel Pools</h2>
+<h3>Vacation Rental Pool Realities</h3>
+<p><strong>What listings don't tell you:</strong></p>
+<ul>
+<li>Pool heating costs extra ($35-$50 per day)</li>
+<li>Most pools aren't heated October through March</li>
+<li>"Pool maintenance included" doesn't mean daily service</li>
+<li>Hot tubs break down frequently and may not be fixed during your stay</li>
+</ul>
+<p><strong>Questions to ask before booking:</strong></p>
+<ul>
+<li>Is the pool solar heated or gas heated?</li>
+<li>What's the policy if pool equipment fails during our stay?</li>
+<li>Are pool toys/floats provided or should we bring our own?</li>
+</ul>
+<h3>Hotel Pool Strategies</h3>
+<p><strong>Embassy Suites Tampa Downtown:</strong> Consistently voted best hotel pool in Tampa. Indoor pool open 24/7, plus outdoor pool and hot tub.</p>
+<p><strong>Grand Hyatt Tampa Bay:</strong> Massive pool complex with Gulf views, but pricey at $300+ per night.</p>
+<p><strong>Aloft Tampa Downtown:</strong> Rooftop pool with city views, younger crowd, good for families with teenagers.</p>
+<p>Check out more options in our <a href="/blog/">blog hub</a> for detailed hotel reviews and family-friendly accommodations.</p>
+<h2>Frequently Asked Questions</h2>
+<h3>What's the best waterpark for toddlers in Tampa Bay?</h3>
+<p>Adventure Island has an excellent toddler area called Fabian's Fun Port, designed specifically for kids under 48 inches tall. It features smaller slides, interactive play structures, and zero-depth entry pools. The area is separated from the main park, so you don't have to worry about bigger kids overwhelming little ones.</p>
+<h3>Are Tampa's public pools safe and clean?</h3>
+<p>Most city and county pools in Tampa Bay maintain good safety and cleanliness standards, but quality varies by location. Hillsborough County pools generally have better maintenance and newer facilities than city pools. Always check recent online reviews and trust your eyes — cloudy water or strong chemical odors are red flags to find another option.</p>
+<h3>How much does it cost to use Adventure Island for a family of four?</h3>
+<p>A family of four will pay approximately $220 for admission ($54.99 per person) plus $30 for parking. Season passes at $139 each ($556 total) break even after 2.5 visits and include parking discounts. Food and drinks add $60-$100 per visit, so budget $300+ for a day trip or consider bringing snacks to designated picnic areas.</p>
+<h3>What's the water temperature like at Tampa Bay pools year-round?</h3>
+<p>Heated pools maintain 78-82 degrees year-round, while unheated pools drop to 65-70 degrees December through February — too cold for most people. Natural springs like Crystal Springs stay around 72 degrees consistently. Always ask about heating costs for vacation rental pools, as many owners don't heat them during cooler months.</p>
+<h3>Which neighborhoods have the best community pool amenities?</h3>
+<p>Westchase, New Tampa, and Brandon consistently offer the best HOA and community pools. Look for neighborhoods built after 2000, as they typically feature larger pools, better maintenance budgets, and more family-friendly amenities. Avoid older communities where pools may be undersized or poorly maintained due to budget constraints.</p>
+<h3>Is it worth driving to Clearwater beaches instead of using local pools?</h3>
+<p>For occasional beach days, absolutely — Clearwater Beach is 45-60 minutes from most Tampa locations and offers genuine Gulf Coast experience. However, for regular swimming and cooling off, local pools are more practical. The drive, parking fees ($15-$25), and crowds make beaches better for special occasions rather than weekly family activities.</p>
+8:["slug","tampa-bay-waterpark-pool-guide","d"]
+0:["SZLIdUDBKVit2TP_UqbYL",[[["",{"children":["blog",{"children":[["slug","tampa-bay-waterpark-pool-guide","d"],{"children":["__PAGE__?{\"slug\":\"tampa-bay-waterpark-pool-guide\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","tampa-bay-waterpark-pool-guide","d"],{"children":["__PAGE__",{},[["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","section",null,{"className":"relative w-full h-[200px] md:h-[300px] overflow-hidden bg-brand-navy","children":[["$","$L3",null,{"src":"/images/blog/housing.jpg","alt":"Tampa Bay Waterpark and Pool Guide for Families","fill":true,"className":"object-cover","unoptimized":true,"priority":true}],["$","div",null,{"className":"absolute inset-0 bg-brand-navy/60"}],["$","div",null,{"className":"relative z-10 flex flex-col items-center justify-center h-full px-4 text-center","children":[["$","h1",null,{"className":"text-white text-3xl md:text-5xl font-display font-extrabold leading-tight max-w-4xl","children":"Tampa Bay Waterpark and Pool Guide for Families"}],"$undefined"]}]]}],["$","article",null,{"className":"max-w-4xl mx-auto px-4 py-10","children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://tbrelo.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://tbrelo.com/blog/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Tampa Bay Waterpark and Pool Guide for Families\",\"item\":\"https://tbrelo.com/blog/tampa-bay-waterpark-pool-guide/\"}]}"}}],["$","nav",null,{"aria-label":"Breadcrumb","className":"text-sm text-brand-slate mb-6","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-1","children":[["$","li","/",{"className":"flex items-center gap-1","children":[false,["$","$L4",null,{"href":"/","className":"hover:text-brand-blue transition-colors","children":"Home"}]]}],["$","li","/blog/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","$L4",null,{"href":"/blog/","className":"hover:text-brand-blue transition-colors","children":"Blog"}]]}],["$","li","/blog/tampa-bay-waterpark-pool-guide/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","span",null,{"className":"text-brand-navy font-medium","children":"Tampa Bay Waterpark and Pool Guide for Families"}]]}]]}]}]],["$","p",null,{"className":"text-brand-slate text-sm mb-8","children":["Published ","May 10, 2025"]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$5"}}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"cta-box-primary","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-white","children":"Moving to Tampa Bay? Get a Local Expert."}],["$","p",null,{"className":"text-sm mb-4 text-white","children":"Barrett Henry is a Broker Associate with REMAX Collective and over 23 years of real estate experience. Straight talk, smart strategy, no pressure."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-blue text-white hover:bg-blue-600","children":["Contact Barrett"," →"]}],["$","a",null,{"href":"tel:8137337907","className":"text-sm text-white","children":"(813) 733-7907"}]]}]]}],["$","div",null,{"className":"cta-box","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-brand-navy","children":"Need Help Setting Up Your New Home?"}],["$","p",null,{"className":"text-sm mb-4 text-brand-slate","children":"Best Bay Services handles handyman work, home repairs, and maintenance for your new Tampa Bay home. Local, licensed, and trusted."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-navy text-white hover:bg-brand-dark","children":["Get a Quote"," →"]}],["$","a",null,{"href":"tel:8134168676","className":"text-sm text-brand-blue","children":"(813) 416-8676"}]]}]]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","$L6",null,{"blogSlug":"tampa-bay-waterpark-pool-guide"}]]}]],null],null],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$8","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/db2729ad4a9f0783.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link",null,{"rel":"icon","href":"/favicon-32.png","type":"image/png","sizes":"32x32"}],["$","link",null,{"rel":"icon","href":"/favicon-16.png","type":"image/png","sizes":"16x16"}],["$","link",null,{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link",null,{"rel":"icon","href":"/icon-192.png","type":"image/png","sizes":"192x192"}],["$","meta",null,{"name":"google-adsense-account","content":"ca-pub-2033173419526042"}],["$","meta",null,{"name":"impact-site-verification","content":"bb623f40-9653-4312-9ca8-bf35b957a10c"}],["$","$La",null,{"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2033173419526042","strategy":"afterInteractive","crossOrigin":"anonymous"}],["$","$La",null,{"src":"https://www.googletagmanager.com/gtag/js?id=G-TD87S02SLM","strategy":"afterInteractive"}],["$","$La",null,{"id":"gtag-init","strategy":"afterInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'G-TD87S02SLM');\n          "}]]}],["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"[{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"https://tbrelo.com/#website\",\"name\":\"TB Relo — Tampa Bay Relocation Guide\",\"url\":\"https://tbrelo.com\",\"description\":\"Comprehensive relocation guides for Tampa Bay, Florida. Covering 8 counties, 100+ cities, cost of living, schools, and everything you need to know about moving to Tampa Bay.\",\"publisher\":{\"@id\":\"https://tbrelo.com/#org\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://tbrelo.com/blog/?q={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}},{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://tbrelo.com/#org\",\"name\":\"TB Relo\",\"url\":\"https://tbrelo.com\",\"sameAs\":[\"https://nowtb.com\",\"https://valricoagent.com\",\"https://parrishagent.com\",\"https://www.facebook.com/BarrettHenryREALTOR/\",\"https://www.instagram.com/thenowteam\",\"https://www.youtube.com/@nowtampa\"]}]"}}],["$","$Lb",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"max-w-2xl mx-auto px-4 py-20 text-center","children":[["$","h1",null,{"className":"text-6xl font-display font-extrabold text-brand-navy mb-4","children":"404"}],["$","p",null,{"className":"text-xl text-brand-slate mb-8","children":"This page doesn't exist. Maybe you're looking for one of these?"}],["$","div",null,{"className":"grid sm:grid-cols-2 gap-4 mb-12 text-left","children":[["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Moving Guide"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Complete guide to relocating to Tampa Bay"}]]}],["$","$L4",null,{"href":"/counties/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Explore Counties"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Browse all 8 Tampa Bay counties"}]]}],["$","$L4",null,{"href":"/cities/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Find a City"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"90+ city and neighborhood guides"}]]}],["$","$L4",null,{"href":"/blog/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Blog"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Tips, comparisons, and local insights"}]]}]]}],["$","$L4",null,{"href":"/","className":"px-8 py-4 bg-brand-blue text-white font-display font-bold rounded-lg hover:bg-blue-600 transition-colors text-lg inline-block","children":"Back to Home"}]]}],"notFoundStyles":[]}]}],["$","footer",null,{"className":"bg-brand-dark text-gray-400","children":[["$","div",null,{"className":"bg-brand-navy","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10","children":["$","div",null,{"className":"grid md:grid-cols-3 gap-8 text-center","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Buying or Selling a Home?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Barrett Henry — The NOW Team at REMAX Collective"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 733-7907"}]]}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Need a Handyman?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Best Bay Services — Tampa Bay Home Services"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 416-8676"}]]}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Property Management"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"ViVi PM — Full-Service Property Management"}]]}]]}]}]}],["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8","children":[["$","div",null,{"className":"md:col-span-2","children":[["$","div",null,{"className":"font-display font-extrabold text-2xl text-white mb-3","children":["TB",["$","span",null,{"className":"text-brand-sky","children":"Relo"}]]}],["$","p",null,{"className":"text-sm leading-relaxed","children":"Your complete guide to relocating to Tampa Bay, Florida. Covering Hillsborough, Pinellas, Pasco, Hernando, Polk, Manatee, Sarasota, and Citrus counties with honest, local insight from someone who actually lives here."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Guides"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"hover:text-white transition-colors","children":"Moving to Tampa Bay"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/cost-of-living/","className":"hover:text-white transition-colors","children":"Cost of Living"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/moving-checklist/","className":"hover:text-white transition-colors","children":"Moving Checklist"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/blog/","className":"hover:text-white transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Counties"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li","Hillsborough",{"children":["$","$L4",null,{"href":"/counties/hillsborough/","className":"hover:text-white transition-colors","children":["Hillsborough"," County"]}]}],["$","li","Pinellas",{"children":["$","$L4",null,{"href":"/counties/pinellas/","className":"hover:text-white transition-colors","children":["Pinellas"," County"]}]}],["$","li","Pasco",{"children":["$","$L4",null,{"href":"/counties/pasco/","className":"hover:text-white transition-colors","children":["Pasco"," County"]}]}],["$","li","Hernando",{"children":["$","$L4",null,{"href":"/counties/hernando/","className":"hover:text-white transition-colors","children":["Hernando"," County"]}]}],["$","li","Polk",{"children":["$","$L4",null,{"href":"/counties/polk/","className":"hover:text-white transition-colors","children":["Polk"," County"]}]}],["$","li","Manatee",{"children":["$","$L4",null,{"href":"/counties/manatee/","className":"hover:text-white transition-colors","children":["Manatee"," County"]}]}],["$","li","Sarasota",{"children":["$","$L4",null,{"href":"/counties/sarasota/","className":"hover:text-white transition-colors","children":["Sarasota"," County"]}]}],["$","li","Citrus",{"children":["$","$L4",null,{"href":"/counties/citrus/","className":"hover:text-white transition-colors","children":["Citrus"," County"]}]}]]}]]}]]}],["$","div",null,{"className":"mt-10 pt-8 border-t border-gray-800","children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Barrett Henry's Network"}],["$","div",null,{"className":"grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3 text-sm","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Tampa Bay Real Estate"}],["$","a",null,{"href":"https://valricoagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Real Estate"}],["$","a",null,{"href":"https://parrishagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Parrish Real Estate"}],["$","a",null,{"href":"https://valrico.blog","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Community Blog"}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Handyman & Home Services"}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Property Management"}]]}]]}],["$","div",null,{"className":"mt-12 pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center gap-4 text-xs","children":[["$","p",null,{"children":["© ",2026," TB Relo. All rights reserved."]}],["$","div",null,{"className":"flex gap-4","children":[["$","$L4",null,{"href":"/affiliate-disclosure/","className":"hover:text-white transition-colors","children":"Affiliate Disclosure"}],["$","$L4",null,{"href":"/privacy-policy/","className":"hover:text-white transition-colors","children":"Privacy Policy"}],["$","$L4",null,{"href":"/disclaimer/","className":"hover:text-white transition-colors","children":"Disclaimer"}]]}]]}]]}],["$","div",null,{"className":"bg-black/30 border-t border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 text-center text-xs text-gray-500","children":["Site by"," ",["$","a",null,{"href":"https://vyrabyte.com","target":"_blank","rel":"noopener noreferrer","className":"text-gray-400 hover:text-white transition-colors","children":"Vyrabyte"}]]}]}]]}],["$","$Lc",null,{}]]}]]}]],null],null],["$Ld",null]]]]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Tampa Bay Waterpark and Pool Guide for Families | TB Relo | TB Relo"}],["$","meta","3",{"name":"description","content":"Tampa Bay Waterpark and Pool Guide for Families. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","6",{"property":"og:title","content":"Tampa Bay Waterpark and Pool Guide for Families | TB Relo | TB Relo"}],["$","meta","7",{"property":"og:description","content":"Tampa Bay Waterpark and Pool Guide for Families. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","8",{"property":"og:image","content":"https://tbrelo.com/images/blog/housing.jpg"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"Tampa Bay Waterpark and Pool Guide for Families | TB Relo | TB Relo"}],["$","meta","13",{"name":"twitter:description","content":"Tampa Bay Waterpark and Pool Guide for Families. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","14",{"name":"twitter:image","content":"https://tbrelo.com/images/blog/housing.jpg"}],["$","link","15",{"rel":"icon","href":"/icon.svg?ff4364d89c37c0d6","type":"image/svg+xml","sizes":"any"}]]
+1:null

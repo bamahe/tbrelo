@@ -1,0 +1,368 @@
+3:I[5878,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"Image"]
+4:I[2972,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],""]
+6:I[5143,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"default"]
+7:I[4707,[],""]
+9:I[6423,[],""]
+a:I[8003,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],""]
+b:I[7312,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"default"]
+c:I[5463,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"SpeedInsights"]
+2:Tfe4,[{"@context":"https://schema.org","@type":"Article","headline":"Best Pool Equipment for Florida Homeowners | TB Relo","description":"Best Pool Equipment for Florida Homeowners. Honest guide from a Tampa Bay local with 23+ years of experience.","url":"https://tbrelo.com/blog/best-pool-equipment-florida/","author":{"@type":"Person","name":"Barrett Henry","jobTitle":"REALTOR® & Broker Associate","url":"https://nowtb.com","worksFor":{"@type":"Organization","name":"REMAX Collective"},"knowsAbout":["Tampa Bay Real Estate","Florida Relocation","Residential Real Estate","Investment Property","Property Management"]},"publisher":{"@type":"Organization","name":"TB Relo","url":"https://tbrelo.com"},"datePublished":"2025-09-21T08:00:00-04:00","dateModified":"2026-04-16T08:00:00-04:00","image":{"@type":"ImageObject","url":"https://tbrelo.com/images/blog/housing.jpg"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What's the most important piece of pool equipment to invest in first?","acceptedAnswer":{"@type":"Answer","text":"Your variable speed pump, hands down. It runs 8-12 hours daily year-round in Florida and affects everything else — filtration, circulation, chemical distribution, and cleaner operation. A quality variable speed pump saves $600-1200 annually in electricity costs compared to old single-speed models, pays for itself in 1-2 years, and provides the foundation for adding automation later."}},{"@type":"Question","name":"Should I buy a salt water system or stick with traditional chlorine in Florida?","acceptedAnswer":{"@type":"Answer","text":"Salt chlorination works better in Florida's climate. Traditional chlorine tablets and liquid bleach degrade quickly in our heat and UV exposure, requiring constant monitoring and frequent chemical runs to the pool store. Salt systems produce chlorine consistently regardless of temperature, reduce chemical storage and handling, and are gentler on equipment and swimmers. The upfront cost ($800-1200) pays back through reduced chemical costs and maintenance within 2-3 years."}},{"@type":"Question","name":"How often should pool equipment be professionally serviced in Florida?","acceptedAnswer":{"@type":"Answer","text":"Heat pumps need annual professional service before winter season — refrigerant levels, electrical connections, and coil cleaning. Salt chlorinator cells should be inspected every 3-4 months for calcium buildup (you can often clean these yourself). Variable speed pumps are generally maintenance-free for 3-5 years unless you notice performance issues. Automation systems benefit from annual software updates and calibration checks. The harsh Florida climate (humidity, power surges, extended operating seasons) accelerates wear compared to northern climates."}},{"@type":"Question","name":"What size variable speed pump do I need for my Florida pool?","acceptedAnswer":{"@type":"Answer","text":"Don't oversize — it's the most common mistake I see. Calculate your pool volume accurately (length × width × average depth × 7.48 for gallons), then choose a pump that can circulate that volume in 6-8 hours at medium speed settings. For example, a 20,000-gallon pool needs about 40-50 GPM flow rate. Oversized pumps waste energy, create excessive system pressure that damages equipment, and move water too quickly for effective filtration and chemical mixing."}},{"@type":"Question","name":"Is pool automation worth the investment in Florida?","acceptedAnswer":{"@type":"Answer","text":"Absolutely, especially for year-round pool operation. Basic automation ($500-800) pays for itself through optimized pump scheduling and equipment protection features like freeze guards. Advanced systems ($1500-2500) provide smartphone control, energy monitoring, and weather-based adjustments that can save 20-30% on operating costs. In Florida's climate where equipment runs continuously and power rates vary by time-of-use, automated scheduling prevents costly peak-hour operation and extends equipment life through proper cycling."}}]}]5:T568d,<p>After 23 years selling homes in Tampa Bay, I've walked around thousands of pools. I've seen the equipment that keeps running through Florida's brutal summers and the stuff that dies after two seasons. I've watched homeowners blow $10K on the wrong setup and others nail it with smart choices.</p>
+<p>Here's what actually works in Florida's unique climate — from the gear that survives our humidity to the systems that handle our crazy seasonal loads.</p>
+<h2>Why Florida Pool Equipment Needs Are Different</h2>
+<p>Florida pools run 10-12 months a year. Your pump doesn't get a winter break like pools up north. Our humidity corrodes everything faster. Hurricane season brings power surges. Summer algae blooms test every chlorination system.</p>
+<p>The equipment that works in Phoenix won't necessarily work in Tampa. The stuff that's fine in Atlanta might fail here in two years instead of five.</p>
+<p>I've seen too many new Florida homeowners buy based on price or what worked "back home." Then they're calling pool companies every month wondering why their equipment keeps failing.</p>
+<h2>Pool Pumps: The Heart of Your System</h2>
+<p>Your pump is everything. Get this wrong and nothing else matters. Florida pools need pumps that can handle:</p>
+<ul>
+<li>10+ hour daily run times</li>
+<li>90°F+ ambient temperatures</li>
+<li>High humidity that corrodes electrical components</li>
+<li>Frequent power fluctuations</li>
+</ul>
+<h3>Variable Speed Pumps: The Only Choice for Florida</h3>
+<p>Single-speed pumps are basically illegal now anyway — Florida adopted DOE efficiency standards in 2021. But beyond compliance, variable speed pumps make sense here:</p>
+<p><strong>Energy savings:</strong> Run at lower speeds for daily circulation (500-1000 RPM), crank up for cleaning or heating (2000+ RPM). Typical savings: $600-1200 annually compared to old single-speed units.</p>
+<p><strong>Longevity:</strong> Less stress on the motor when running at optimal speeds for each task.</p>
+<p><strong>Noise reduction:</strong> Nobody wants to hear your pump at 3 AM when windows are open year-round.</p>
+<h4>Top Variable Speed Pump Picks</h4>
+<p><strong>Pentair IntelliFlo3 VSF</strong> <a href="%7B%7Bamazon:B08KGRQ9QH%7D%7D">Pentair IntelliFlo3 Variable Speed Pool Pump</a></p>
+<p>This is what I see on most quality installations in <a href="/counties/hillsborough/">Hillsborough County</a>. The VSF (Variable Speed and Flow) model automatically adjusts speed based on system resistance. Price: $800-1100.</p>
+<p><strong>Pros:</strong></p>
+<ul>
+<li>8 programmable speeds</li>
+<li>Built-in freeze protection (yes, we need this in Tampa)</li>
+<li>Digital display shows watts, RPM, flow rate</li>
+<li>3-year warranty</li>
+</ul>
+<p><strong>Cons:</strong></p>
+<ul>
+<li>More complex installation than basic VS models</li>
+<li>Requires compatible automation for full features</li>
+</ul>
+<p><strong>Hayward Super Pump VS</strong> <a href="%7B%7Bamazon:B07Q2JXRP8%7D%7D">Hayward Super Pump Variable Speed</a></p>
+<p>The budget-friendly option that still delivers. Popular with pool builders in <a href="/counties/pinellas/">Pinellas County</a> developments. Price: $600-800.</p>
+<p><strong>Pros:</strong></p>
+<ul>
+<li>Simple programming</li>
+<li>Reliable Hayward build quality</li>
+<li>Good parts availability locally</li>
+<li>2-year warranty</li>
+</ul>
+<p><strong>Cons:</strong></p>
+<ul>
+<li>No advanced flow sensing</li>
+<li>Louder than premium models</li>
+<li>Basic display</li>
+</ul>
+<h3>Pump Sizing for Florida</h3>
+<p>Don't oversize your pump. I see this mistake constantly — homeowners think bigger is better. Wrong. An oversized pump:</p>
+<ul>
+<li>Wastes energy running too fast</li>
+<li>Creates excess pressure that damages equipment</li>
+<li>Moves water too quickly for effective filtration</li>
+</ul>
+<p><strong>Proper sizing:</strong> Your pump should turn over your pool volume in 6-8 hours at medium speed. A 20,000-gallon pool needs roughly 40-50 GPM flow rate.</p>
+<h2>Salt Water Chlorinators: Florida's Preferred Sanitization</h2>
+<p>Forget liquid chlorine and tablets for most Florida pools. Salt chlorination systems handle our climate better:</p>
+<ul>
+<li>Consistent chlorine production regardless of heat</li>
+<li>No storage of hazardous chemicals</li>
+<li>Gentler on equipment and pool surfaces</li>
+<li>Less chemical smell and skin irritation</li>
+</ul>
+<h3>Top Salt Chlorinator Systems</h3>
+<p><strong>Pentair IntelliChlor IC40</strong> <a href="%7B%7Bamazon:B001EHWFAW%7D%7D">Pentair IntelliChlor Salt Chlorine Generator</a></p>
+<p>The gold standard for pools up to 40,000 gallons. I see these lasting 5-7 years in Florida conditions. Price: $800-1000 for the cell, $200-300 for the power center.</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Easy-view display shows salt level, chlorine output, cell life</li>
+<li>Automatic shut-off when water temp drops below 52°F</li>
+<li>Self-cleaning reverse polarity</li>
+<li>3-year limited warranty</li>
+</ul>
+<p><strong>Hayward Aqua Rite Turbo Cell</strong> <a href="%7B%7Bamazon:B000P0LK6M%7D%7D">Hayward AquaRite Salt Chlorination System</a></p>
+<p>Popular with pool service companies because parts are everywhere. Good choice for pools 15,000-40,000 gallons. Price: $600-900.</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Digital salt display</li>
+<li>Push-button diagnostics</li>
+<li>Boost mode for heavy bather loads</li>
+<li>2-year warranty</li>
+</ul>
+<h3>Salt System Maintenance Reality Check</h3>
+<p>Salt cells aren't maintenance-free despite what salespeople claim. In Florida's mineral-heavy water, expect:</p>
+<ul>
+<li>Cell cleaning every 2-3 months (calcium buildup)</li>
+<li>Cell replacement every 3-5 years ($300-600)</li>
+<li>Salt additions 2-3 times per year</li>
+<li>Regular water testing and pH adjustment</li>
+</ul>
+<p>But it's still easier than managing liquid chlorine in 95°F heat.</p>
+<h2>Pool Cleaners: Automation That Actually Works</h2>
+<p>Florida pools collect debris 365 days a year. Oak leaves in winter, pollen in spring, grass clippings in summer, more leaves in fall. Skipping a day means hours of manual cleanup.</p>
+<h3>Robotic Pool Cleaners: The Premium Choice</h3>
+<p>Robotic cleaners work independently of your filtration system. They scrub, vacuum, and filter on their own schedule.</p>
+<p><strong>Dolphin Nautilus CC Plus</strong> <a href="%7B%7Bamazon:B07DQKX8ZN%7D%7D">Dolphin Nautilus CC Plus Robotic Pool Cleaner</a></p>
+<p>The best value in robotic cleaners for most Florida pools. Handles pools up to 50 feet. Price: $800-1200.</p>
+<p><strong>What it does well:</strong></p>
+<ul>
+<li>Climbs walls and scrubs waterline</li>
+<li>Fine filter captures algae and debris</li>
+<li>2.5-hour cleaning cycles</li>
+<li>Weekly timer function</li>
+</ul>
+<p><strong>Limitations:</strong></p>
+<ul>
+<li>Cord can tangle in complex pool shapes</li>
+<li>Filter needs cleaning after each use</li>
+<li>No remote control or smartphone app</li>
+</ul>
+<p><strong>Polaris F9950 Sport</strong> <a href="%7B%7Bamazon:B081CQVNM1%7D%7D">Polaris F9950 Sport Robotic Pool Cleaner</a></p>
+<p>Premium option with smartphone control and advanced navigation. Price: $1800-2400.</p>
+<p><strong>Premium features:</strong></p>
+<ul>
+<li>iAquaLink app control</li>
+<li>4WD climbing ability</li>
+<li>Multiple filter options (fine, ultra-fine, leaf bag)</li>
+<li>Waterline cleaning</li>
+</ul>
+<h3>Pressure-Side Cleaners: The Workhorse Option</h3>
+<p>These connect to dedicated return lines and use water pressure to move around the pool. Popular in <a href="/counties/pasco/">Pasco County</a> where pools deal with heavy oak debris.</p>
+<p><strong>Polaris Vac-Sweep 280</strong> <a href="%7B%7Bamazon:B000BQO73A%7D%7D">Polaris Vac-Sweep 280 Pressure Pool Cleaner</a></p>
+<p>The Toyota Camry of pool cleaners — reliable, repairable, gets the job done. Requires booster pump. Price: $400-600 plus installation.</p>
+<p><strong>Pros:</strong></p>
+<ul>
+<li>Handles large debris (leaves, acorns, small toys)</li>
+<li>Works in any pool shape</li>
+<li>Easy to service locally</li>
+<li>Runs off pool's circulation system</li>
+</ul>
+<p><strong>Cons:</strong></p>
+<ul>
+<li>Needs dedicated return line and booster pump</li>
+<li>Hose management required</li>
+<li>Doesn't scrub surfaces</li>
+</ul>
+<h3>Suction-Side Cleaners: Budget-Friendly Option</h3>
+<p>Connect to your skimmer and use the pool's pump suction. Good for basic cleaning in pools without heavy debris loads.</p>
+<p><strong>Pentair Kreepy Krauly Racer</strong> <a href="%7B%7Bamazon:B00AQQKP9O%7D%7D">Pentair Kreepy Krauly Racer Pressure Pool Cleaner</a></p>
+<p>Simple, effective, cheap to maintain. Price: $200-350.</p>
+<p><strong>Best for:</strong></p>
+<ul>
+<li>Pools with minimal landscaping nearby</li>
+<li>Budget-conscious homeowners</li>
+<li>Backup cleaning system</li>
+</ul>
+<h2>Pool Heaters: Extending Your Swimming Season</h2>
+<p>Even in Florida, you'll want heating for comfortable swimming November through March. Water temps can drop to the 60s, which feels arctic after summer's 85°F pool temps.</p>
+<h3>Heat Pump vs Gas: The Florida Decision</h3>
+<p><strong>Heat Pumps:</strong> Efficient when air temps are above 50°F (most of Florida's "winter"). Operating cost: $100-200/month in winter months.</p>
+<p><strong>Gas Heaters:</strong> Fast heating, work in any weather. Operating cost: $300-500/month for continuous use.</p>
+<p>Most Florida pools benefit from heat pumps. Gas makes sense for spas or pools used infrequently.</p>
+<p><strong>Hayward HeatPro Heat Pump</strong> <a href="%7B%7Bamazon:B01N0WP5KO%7D%7D">Hayward HeatPro Pool Heat Pump</a></p>
+<p>Reliable choice for 15,000-20,000 gallon pools. Price: $2800-3500 installed.</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>COP of 5.2 (efficient operation)</li>
+<li>Digital controls with 7-day timer</li>
+<li>Quiet operation (58 dB)</li>
+<li>Corrosion-resistant cabinet</li>
+</ul>
+<h3>Solar Pool Heating: The Florida Advantage</h3>
+<p>With 240+ sunny days annually, solar heating makes sense here. Combined with a heat pump for cloudy periods, solar can handle 70% of your heating needs.</p>
+<p><strong>FAFCO Solar Pool Heating System</strong> <a href="%7B%7Bamazon:B000BQSWFE%7D%7D">FAFCO Solar Pool Heating Collectors</a></p>
+<p>Unglazed collectors that mount on roof or ground. Price: $150-250 per panel, typically need 6-10 panels for average pool.</p>
+<p><strong>Benefits:</strong></p>
+<ul>
+<li>Zero operating costs once installed</li>
+<li>Extends swimming season 2-3 months</li>
+<li>Increases home value</li>
+<li>10-12 year warranty</li>
+</ul>
+<h2>Pool Automation: Smart Controls That Make Sense</h2>
+<p>Florida pools run complex schedules — pumps, cleaners, heaters, lights, and sanitization systems all need coordination. Good automation pays for itself in energy savings and equipment protection.</p>
+<h3>Pentair IntelliCenter Pool Control System</h3>
+<p>The Mercedes of pool automation. Controls everything from one app. Price: $1800-2800 depending on features.</p>
+<p><strong>What it manages:</strong></p>
+<ul>
+<li>Variable speed pump schedules (8 programmable settings)</li>
+<li>Salt chlorinator output based on usage and weather</li>
+<li>Heater operation with setpoint scheduling</li>
+<li>LED lighting scenes and timers</li>
+<li>Water features and spa controls</li>
+</ul>
+<p><strong>Smart features:</strong></p>
+<ul>
+<li>Weather-based adjustments</li>
+<li>Freeze protection activation</li>
+<li>Energy usage monitoring</li>
+<li>Remote smartphone control</li>
+</ul>
+<h3>Hayward OmniLogic Smart Pool Automation</h3>
+<p>Solid alternative with good local support. Price: $1200-2000.</p>
+<p><strong>Key features:</strong></p>
+<ul>
+<li>Touch screen control panel</li>
+<li>Smartphone app integration</li>
+<li>Voice control (Alexa/Google)</li>
+<li>Equipment diagnostics</li>
+</ul>
+<h2>Filter Systems: The Unsung Heroes</h2>
+<p>Your filter determines water quality more than any other component. Florida's high bather loads and organic debris demand serious filtration.</p>
+<h3>Cartridge Filters: Low Maintenance Champions</h3>
+<p><strong>Pentair Clean &#x26; Clear Plus 520</strong> <a href="%7B%7Bamazon:B000BRHQPY%7D%7D">Pentair Clean &#x26; Clear Plus Pool Filter</a></p>
+<p>Four large cartridges handle pools up to 75,000 gallons. Price: $400-600.</p>
+<p><strong>Why cartridge filters work in Florida:</strong></p>
+<ul>
+<li>No backwashing (saves thousands of gallons annually)</li>
+<li>Excellent fine particle filtration</li>
+<li>Easy cleaning with garden hose</li>
+<li>Cartridges last 1-2 years ($60-100 replacement cost)</li>
+</ul>
+<h3>DE Filters: Maximum Clarity</h3>
+<p>Diatomaceous earth filters provide the finest filtration — down to 2-5 microns. Popular in upscale communities like <a href="/neighborhoods/westchase/">Westchase</a> and <a href="/neighborhoods/hyde-park/">Hyde Park</a>.</p>
+<p><strong>Pentair FNS Plus DE Filter</strong> <a href="%7B%7Bamazon:B000BRHZ8K%7D%7D">Pentair FNS Plus DE Pool Filter</a></p>
+<p>High-capacity DE filter for pools up to 60,000 gallons. Price: $800-1200.</p>
+<p><strong>Pros:</strong></p>
+<ul>
+<li>Crystal clear water quality</li>
+<li>Long periods between cleaning</li>
+<li>Handles high bather loads</li>
+</ul>
+<p><strong>Cons:</strong></p>
+<ul>
+<li>More complex maintenance</li>
+<li>DE powder disposal considerations</li>
+<li>Higher upfront cost</li>
+</ul>
+<h2>Installation and Local Service Considerations</h2>
+<p>Having the right equipment means nothing if it's installed poorly or you can't get service when needed.</p>
+<h3>Professional Installation Is Worth It</h3>
+<p>DIY pool equipment installation saves money upfront but creates problems later:</p>
+<ul>
+<li>Electrical code violations (Florida requires GFCI protection)</li>
+<li>Improper plumbing connections that fail under pressure</li>
+<li>Equipment not sized for actual pool specifications</li>
+<li>Warranty issues when manufacturer requires professional installation</li>
+</ul>
+<p><strong>Typical installation costs in Tampa Bay:</strong></p>
+<ul>
+<li>Variable speed pump: $200-400 labor</li>
+<li>Salt chlorinator: $300-600 labor</li>
+<li>Robotic cleaner: DIY friendly</li>
+<li>Heat pump: $500-800 labor</li>
+<li>Full automation system: $800-1500 labor</li>
+</ul>
+<h3>Finding Reliable Pool Service</h3>
+<p>Even with great equipment, you'll need occasional professional service. Look for companies that:</p>
+<ul>
+<li>Stock parts for your specific equipment brands</li>
+<li>Offer 24/7 emergency service (important during summer heat waves)</li>
+<li>Provide transparent pricing without "diagnostic fees"</li>
+<li>Have technicians certified by equipment manufacturers</li>
+</ul>
+<hr>
+<p><strong>Moving to Tampa Bay?</strong> Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.</p>
+<p><a href="https://nowtb.com">Contact Barrett →</a> | <a href="tel:8137337907">(813) 733-7907</a></p>
+<hr>
+<h2>Seasonal Equipment Maintenance Schedule</h2>
+<p>Florida pools need year-round attention, but maintenance intensity varies by season.</p>
+<h3>Spring Preparation (March-May)</h3>
+<ul>
+<li>Deep clean salt chlorinator cell</li>
+<li>Replace pump basket and skimmer baskets</li>
+<li>Test and calibrate automation systems</li>
+<li>Clean robotic cleaner filters thoroughly</li>
+<li>Check heat pump refrigerant levels</li>
+</ul>
+<h3>Summer Peak Season (June-August)</h3>
+<ul>
+<li>Monitor pump run times (may need 12+ hours daily)</li>
+<li>Clean cartridge filters monthly vs quarterly</li>
+<li>Boost chlorine production for heavy use periods</li>
+<li>Check equipment pad for proper ventilation (ambient temps over 100°F)</li>
+</ul>
+<h3>Fall Maintenance (September-November)</h3>
+<ul>
+<li>Prepare heating systems for winter use</li>
+<li>Clean extra debris from leaf-heavy months</li>
+<li>Service pool cleaner for increased workload</li>
+<li>Check electrical connections (humidity damage peak)</li>
+</ul>
+<h3>Winter Operation (December-February)</h3>
+<ul>
+<li>Reduce pump schedules but don't shut off entirely</li>
+<li>Monitor freeze protection systems</li>
+<li>Lower chlorine production for reduced usage</li>
+<li>Perform major equipment servicing while usage is light</li>
+</ul>
+<h2>Equipment Longevity in Florida Climate</h2>
+<p>Realistic equipment lifespans in Florida conditions:</p>
+<p><strong>Variable speed pumps:</strong> 8-12 years (premium brands), 5-8 years (budget models)
+<strong>Salt chlorinator cells:</strong> 3-5 years with proper maintenance
+<strong>Robotic cleaners:</strong> 5-8 years with regular filter cleaning
+<strong>Heat pumps:</strong> 10-15 years with annual professional service
+<strong>Automation systems:</strong> 8-12 years (technology obsolescence often comes first)
+<strong>Cartridge filters:</strong> 1-2 years per set of cartridges</p>
+<p>These lifespans assume proper installation, regular maintenance, and protection from power surges (invest in a whole-house surge protector).</p>
+<h2>Common Equipment Mistakes to Avoid</h2>
+<h3>Oversizing Everything</h3>
+<p>Bigger pumps, oversized heaters, excessive chlorine production — all waste money and stress other components. Right-sizing based on actual pool volume and usage patterns saves thousands long-term.</p>
+<h3>Ignoring Water Chemistry</h3>
+<p>The best equipment in the world fails quickly in improperly balanced water. pH swings corrode metal components. High calcium levels clog salt cells. Low pH dissolves rubber seals.</p>
+<h3>Skipping Surge Protection</h3>
+<p>Florida's frequent thunderstorms kill more pool equipment than anything else. A $200 surge protector saves thousands in equipment replacement.</p>
+<h3>Poor Equipment Pad Planning</h3>
+<p>Cramming equipment into tight spaces causes overheating and makes service difficult. Plan for:</p>
+<ul>
+<li>3 feet clearance around heat pumps for airflow</li>
+<li>Easy access to all equipment for service</li>
+<li>Proper drainage (equipment pads flood in heavy rains)</li>
+<li>Protection from direct afternoon sun when possible</li>
+</ul>
+<h3>Mixing Incompatible Automation</h3>
+<p>Trying to control Pentair pumps with Hayward automation (or vice versa) creates communication issues and limits functionality. Stick with one ecosystem when possible.</p>
+<h2>Budget Planning for Pool Equipment</h2>
+<h3>Initial Equipment Investment</h3>
+<p>For a typical 20,000-gallon Florida pool:</p>
+<ul>
+<li>Variable speed pump: $800-1200</li>
+<li>Salt chlorinator: $800-1200</li>
+<li>Pool cleaner: $400-1500 (depending on type)</li>
+<li>Basic heating: $1500-3500</li>
+<li>Automation: $500-2500</li>
+<li>Professional installation: $2000-4000</li>
+</ul>
+<p><strong>Total equipment budget:</strong> $6000-14,000</p>
+<h3>Annual Operating Costs</h3>
+<ul>
+<li>Electricity (pump, heater, cleaner): $800-1500</li>
+<li>Salt and chemicals: $200-400</li>
+<li>Replacement parts and service: $300-600</li>
+<li>Professional maintenance: $600-1200 (if outsourced)</li>
+</ul>
+<p><strong>Annual budget:</strong> $1900-3700</p>
+<h3>Major Replacement Schedule</h3>
+<ul>
+<li>Salt cell replacement: Every 3-5 years ($300-600)</li>
+<li>Pump replacement: Every 8-12 years ($1200-2000 installed)</li>
+<li>Cleaner replacement: Every 5-8 years ($400-1500)</li>
+<li>Heat pump replacement: Every 10-15 years ($3000-5000 installed)</li>
+</ul>
+<p>Plan for roughly $500-800 annually in equipment replacement reserves.</p>
+<h2>Frequently Asked Questions</h2>
+<h3>What's the most important piece of pool equipment to invest in first?</h3>
+<p>Your variable speed pump, hands down. It runs 8-12 hours daily year-round in Florida and affects everything else — filtration, circulation, chemical distribution, and cleaner operation. A quality variable speed pump saves $600-1200 annually in electricity costs compared to old single-speed models, pays for itself in 1-2 years, and provides the foundation for adding automation later.</p>
+<h3>Should I buy a salt water system or stick with traditional chlorine in Florida?</h3>
+<p>Salt chlorination works better in Florida's climate. Traditional chlorine tablets and liquid bleach degrade quickly in our heat and UV exposure, requiring constant monitoring and frequent chemical runs to the pool store. Salt systems produce chlorine consistently regardless of temperature, reduce chemical storage and handling, and are gentler on equipment and swimmers. The upfront cost ($800-1200) pays back through reduced chemical costs and maintenance within 2-3 years.</p>
+<h3>How often should pool equipment be professionally serviced in Florida?</h3>
+<p>Heat pumps need annual professional service before winter season — refrigerant levels, electrical connections, and coil cleaning. Salt chlorinator cells should be inspected every 3-4 months for calcium buildup (you can often clean these yourself). Variable speed pumps are generally maintenance-free for 3-5 years unless you notice performance issues. Automation systems benefit from annual software updates and calibration checks. The harsh Florida climate (humidity, power surges, extended operating seasons) accelerates wear compared to northern climates.</p>
+<h3>What size variable speed pump do I need for my Florida pool?</h3>
+<p>Don't oversize — it's the most common mistake I see. Calculate your pool volume accurately (length × width × average depth × 7.48 for gallons), then choose a pump that can circulate that volume in 6-8 hours at medium speed settings. For example, a 20,000-gallon pool needs about 40-50 GPM flow rate. Oversized pumps waste energy, create excessive system pressure that damages equipment, and move water too quickly for effective filtration and chemical mixing.</p>
+<h3>Is pool automation worth the investment in Florida?</h3>
+<p>Absolutely, especially for year-round pool operation. Basic automation ($500-800) pays for itself through optimized pump scheduling and equipment protection features like freeze guards. Advanced systems ($1500-2500) provide smartphone control, energy monitoring, and weather-based adjustments that can save 20-30% on operating costs. In Florida's climate where equipment runs continuously and power rates vary by time-of-use, automated scheduling prevents costly peak-hour operation and extends equipment life through proper cycling.</p>
+8:["slug","best-pool-equipment-florida","d"]
+0:["SZLIdUDBKVit2TP_UqbYL",[[["",{"children":["blog",{"children":[["slug","best-pool-equipment-florida","d"],{"children":["__PAGE__?{\"slug\":\"best-pool-equipment-florida\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","best-pool-equipment-florida","d"],{"children":["__PAGE__",{},[["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","section",null,{"className":"relative w-full h-[200px] md:h-[300px] overflow-hidden bg-brand-navy","children":[["$","$L3",null,{"src":"/images/blog/housing.jpg","alt":"Best Pool Equipment for Florida Homeowners","fill":true,"className":"object-cover","unoptimized":true,"priority":true}],["$","div",null,{"className":"absolute inset-0 bg-brand-navy/60"}],["$","div",null,{"className":"relative z-10 flex flex-col items-center justify-center h-full px-4 text-center","children":[["$","h1",null,{"className":"text-white text-3xl md:text-5xl font-display font-extrabold leading-tight max-w-4xl","children":"Best Pool Equipment for Florida Homeowners"}],"$undefined"]}]]}],["$","article",null,{"className":"max-w-4xl mx-auto px-4 py-10","children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://tbrelo.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://tbrelo.com/blog/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Best Pool Equipment for Florida Homeowners\",\"item\":\"https://tbrelo.com/blog/best-pool-equipment-florida/\"}]}"}}],["$","nav",null,{"aria-label":"Breadcrumb","className":"text-sm text-brand-slate mb-6","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-1","children":[["$","li","/",{"className":"flex items-center gap-1","children":[false,["$","$L4",null,{"href":"/","className":"hover:text-brand-blue transition-colors","children":"Home"}]]}],["$","li","/blog/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","$L4",null,{"href":"/blog/","className":"hover:text-brand-blue transition-colors","children":"Blog"}]]}],["$","li","/blog/best-pool-equipment-florida/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","span",null,{"className":"text-brand-navy font-medium","children":"Best Pool Equipment for Florida Homeowners"}]]}]]}]}]],["$","p",null,{"className":"text-brand-slate text-sm mb-8","children":["Published ","September 21, 2025"]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$5"}}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"cta-box-primary","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-white","children":"Moving to Tampa Bay? Get a Local Expert."}],["$","p",null,{"className":"text-sm mb-4 text-white","children":"Barrett Henry is a Broker Associate with REMAX Collective and over 23 years of real estate experience. Straight talk, smart strategy, no pressure."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-blue text-white hover:bg-blue-600","children":["Contact Barrett"," →"]}],["$","a",null,{"href":"tel:8137337907","className":"text-sm text-white","children":"(813) 733-7907"}]]}]]}],["$","div",null,{"className":"cta-box","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-brand-navy","children":"Need Help Setting Up Your New Home?"}],["$","p",null,{"className":"text-sm mb-4 text-brand-slate","children":"Best Bay Services handles handyman work, home repairs, and maintenance for your new Tampa Bay home. Local, licensed, and trusted."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-navy text-white hover:bg-brand-dark","children":["Get a Quote"," →"]}],["$","a",null,{"href":"tel:8134168676","className":"text-sm text-brand-blue","children":"(813) 416-8676"}]]}]]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","$L6",null,{"blogSlug":"best-pool-equipment-florida"}]]}]],null],null],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$8","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/db2729ad4a9f0783.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link",null,{"rel":"icon","href":"/favicon-32.png","type":"image/png","sizes":"32x32"}],["$","link",null,{"rel":"icon","href":"/favicon-16.png","type":"image/png","sizes":"16x16"}],["$","link",null,{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link",null,{"rel":"icon","href":"/icon-192.png","type":"image/png","sizes":"192x192"}],["$","meta",null,{"name":"google-adsense-account","content":"ca-pub-2033173419526042"}],["$","meta",null,{"name":"impact-site-verification","content":"bb623f40-9653-4312-9ca8-bf35b957a10c"}],["$","$La",null,{"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2033173419526042","strategy":"afterInteractive","crossOrigin":"anonymous"}],["$","$La",null,{"src":"https://www.googletagmanager.com/gtag/js?id=G-TD87S02SLM","strategy":"afterInteractive"}],["$","$La",null,{"id":"gtag-init","strategy":"afterInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'G-TD87S02SLM');\n          "}]]}],["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"[{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"https://tbrelo.com/#website\",\"name\":\"TB Relo — Tampa Bay Relocation Guide\",\"url\":\"https://tbrelo.com\",\"description\":\"Comprehensive relocation guides for Tampa Bay, Florida. Covering 8 counties, 100+ cities, cost of living, schools, and everything you need to know about moving to Tampa Bay.\",\"publisher\":{\"@id\":\"https://tbrelo.com/#org\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://tbrelo.com/blog/?q={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}},{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://tbrelo.com/#org\",\"name\":\"TB Relo\",\"url\":\"https://tbrelo.com\",\"sameAs\":[\"https://nowtb.com\",\"https://valricoagent.com\",\"https://parrishagent.com\",\"https://www.facebook.com/BarrettHenryREALTOR/\",\"https://www.instagram.com/thenowteam\",\"https://www.youtube.com/@nowtampa\"]}]"}}],["$","$Lb",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"max-w-2xl mx-auto px-4 py-20 text-center","children":[["$","h1",null,{"className":"text-6xl font-display font-extrabold text-brand-navy mb-4","children":"404"}],["$","p",null,{"className":"text-xl text-brand-slate mb-8","children":"This page doesn't exist. Maybe you're looking for one of these?"}],["$","div",null,{"className":"grid sm:grid-cols-2 gap-4 mb-12 text-left","children":[["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Moving Guide"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Complete guide to relocating to Tampa Bay"}]]}],["$","$L4",null,{"href":"/counties/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Explore Counties"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Browse all 8 Tampa Bay counties"}]]}],["$","$L4",null,{"href":"/cities/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Find a City"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"90+ city and neighborhood guides"}]]}],["$","$L4",null,{"href":"/blog/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Blog"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Tips, comparisons, and local insights"}]]}]]}],["$","$L4",null,{"href":"/","className":"px-8 py-4 bg-brand-blue text-white font-display font-bold rounded-lg hover:bg-blue-600 transition-colors text-lg inline-block","children":"Back to Home"}]]}],"notFoundStyles":[]}]}],["$","footer",null,{"className":"bg-brand-dark text-gray-400","children":[["$","div",null,{"className":"bg-brand-navy","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10","children":["$","div",null,{"className":"grid md:grid-cols-3 gap-8 text-center","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Buying or Selling a Home?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Barrett Henry — The NOW Team at REMAX Collective"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 733-7907"}]]}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Need a Handyman?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Best Bay Services — Tampa Bay Home Services"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 416-8676"}]]}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Property Management"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"ViVi PM — Full-Service Property Management"}]]}]]}]}]}],["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8","children":[["$","div",null,{"className":"md:col-span-2","children":[["$","div",null,{"className":"font-display font-extrabold text-2xl text-white mb-3","children":["TB",["$","span",null,{"className":"text-brand-sky","children":"Relo"}]]}],["$","p",null,{"className":"text-sm leading-relaxed","children":"Your complete guide to relocating to Tampa Bay, Florida. Covering Hillsborough, Pinellas, Pasco, Hernando, Polk, Manatee, Sarasota, and Citrus counties with honest, local insight from someone who actually lives here."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Guides"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"hover:text-white transition-colors","children":"Moving to Tampa Bay"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/cost-of-living/","className":"hover:text-white transition-colors","children":"Cost of Living"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/moving-checklist/","className":"hover:text-white transition-colors","children":"Moving Checklist"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/blog/","className":"hover:text-white transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Counties"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li","Hillsborough",{"children":["$","$L4",null,{"href":"/counties/hillsborough/","className":"hover:text-white transition-colors","children":["Hillsborough"," County"]}]}],["$","li","Pinellas",{"children":["$","$L4",null,{"href":"/counties/pinellas/","className":"hover:text-white transition-colors","children":["Pinellas"," County"]}]}],["$","li","Pasco",{"children":["$","$L4",null,{"href":"/counties/pasco/","className":"hover:text-white transition-colors","children":["Pasco"," County"]}]}],["$","li","Hernando",{"children":["$","$L4",null,{"href":"/counties/hernando/","className":"hover:text-white transition-colors","children":["Hernando"," County"]}]}],["$","li","Polk",{"children":["$","$L4",null,{"href":"/counties/polk/","className":"hover:text-white transition-colors","children":["Polk"," County"]}]}],["$","li","Manatee",{"children":["$","$L4",null,{"href":"/counties/manatee/","className":"hover:text-white transition-colors","children":["Manatee"," County"]}]}],["$","li","Sarasota",{"children":["$","$L4",null,{"href":"/counties/sarasota/","className":"hover:text-white transition-colors","children":["Sarasota"," County"]}]}],["$","li","Citrus",{"children":["$","$L4",null,{"href":"/counties/citrus/","className":"hover:text-white transition-colors","children":["Citrus"," County"]}]}]]}]]}]]}],["$","div",null,{"className":"mt-10 pt-8 border-t border-gray-800","children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Barrett Henry's Network"}],["$","div",null,{"className":"grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3 text-sm","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Tampa Bay Real Estate"}],["$","a",null,{"href":"https://valricoagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Real Estate"}],["$","a",null,{"href":"https://parrishagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Parrish Real Estate"}],["$","a",null,{"href":"https://valrico.blog","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Community Blog"}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Handyman & Home Services"}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Property Management"}]]}]]}],["$","div",null,{"className":"mt-12 pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center gap-4 text-xs","children":[["$","p",null,{"children":["© ",2026," TB Relo. All rights reserved."]}],["$","div",null,{"className":"flex gap-4","children":[["$","$L4",null,{"href":"/affiliate-disclosure/","className":"hover:text-white transition-colors","children":"Affiliate Disclosure"}],["$","$L4",null,{"href":"/privacy-policy/","className":"hover:text-white transition-colors","children":"Privacy Policy"}],["$","$L4",null,{"href":"/disclaimer/","className":"hover:text-white transition-colors","children":"Disclaimer"}]]}]]}]]}],["$","div",null,{"className":"bg-black/30 border-t border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 text-center text-xs text-gray-500","children":["Site by"," ",["$","a",null,{"href":"https://vyrabyte.com","target":"_blank","rel":"noopener noreferrer","className":"text-gray-400 hover:text-white transition-colors","children":"Vyrabyte"}]]}]}]]}],["$","$Lc",null,{}]]}]]}]],null],null],["$Ld",null]]]]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Best Pool Equipment for Florida Homeowners | TB Relo | TB Relo"}],["$","meta","3",{"name":"description","content":"Best Pool Equipment for Florida Homeowners. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","6",{"property":"og:title","content":"Best Pool Equipment for Florida Homeowners | TB Relo | TB Relo"}],["$","meta","7",{"property":"og:description","content":"Best Pool Equipment for Florida Homeowners. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","8",{"property":"og:image","content":"https://tbrelo.com/images/blog/housing.jpg"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"Best Pool Equipment for Florida Homeowners | TB Relo | TB Relo"}],["$","meta","13",{"name":"twitter:description","content":"Best Pool Equipment for Florida Homeowners. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","14",{"name":"twitter:image","content":"https://tbrelo.com/images/blog/housing.jpg"}],["$","link","15",{"rel":"icon","href":"/icon.svg?ff4364d89c37c0d6","type":"image/svg+xml","sizes":"any"}]]
+1:null

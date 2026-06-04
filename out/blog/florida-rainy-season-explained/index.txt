@@ -1,0 +1,264 @@
+3:I[5878,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"Image"]
+4:I[2972,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],""]
+6:I[5143,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"default"]
+7:I[4707,[],""]
+9:I[6423,[],""]
+a:I[8003,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],""]
+b:I[7312,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"default"]
+c:I[5463,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"SpeedInsights"]
+2:T10cc,[{"@context":"https://schema.org","@type":"Article","headline":"Florida Rainy Season Explained — June Through September | TB Relo","description":"Florida Rainy Season Explained. Honest guide from a Tampa Bay local with 23+ years of experience.","url":"https://tbrelo.com/blog/florida-rainy-season-explained/","author":{"@type":"Person","name":"Barrett Henry","jobTitle":"REALTOR® & Broker Associate","url":"https://nowtb.com","worksFor":{"@type":"Organization","name":"REMAX Collective"},"knowsAbout":["Tampa Bay Real Estate","Florida Relocation","Residential Real Estate","Investment Property","Property Management"]},"publisher":{"@type":"Organization","name":"TB Relo","url":"https://tbrelo.com"},"datePublished":"2026-02-26T08:00:00-04:00","dateModified":"2026-04-16T08:00:00-04:00","image":{"@type":"ImageObject","url":"https://tbrelo.com/images/blog/housing.jpg"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Does it rain every day during Florida's rainy season?","acceptedAnswer":{"@type":"Answer","text":"No, despite the name \"rainy season,\" it doesn't rain daily. Tampa Bay averages 15-21 rainy days per month during peak season (July-August), meaning you'll still have 9-16 completely dry days monthly. The \"rainy season\" refers to the period when afternoon storms are most likely and intense."}},{"@type":"Question","name":"What time do afternoon storms typically start and end?","acceptedAnswer":{"@type":"Answer","text":"Florida's afternoon storms follow a remarkably predictable schedule. Storms typically build between 1-2 PM, peak intensity occurs from 3-6 PM, and most clear out by 7-8 PM. This timing is driven by daily heating patterns and sea breeze convergence, making it one of the most reliable weather patterns in the country."}},{"@type":"Question","name":"How much rain does Tampa Bay get during rainy season?","acceptedAnswer":{"@type":"Answer","text":"Tampa Bay receives 28-30 inches of rain from June through September — about 60% of our annual rainfall in just four months. July and August typically see 7-8 inches each, with most falling in intense 1-2 hour downpours rather than all-day drizzle."}},{"@type":"Question","name":"Are Florida's daily storms dangerous?","acceptedAnswer":{"@type":"Answer","text":"Daily afternoon storms produce frequent lightning and heavy rain but are generally not dangerous if you use common sense. Avoid outdoor activities during peak hours (3-6 PM), don't drive through flooded roads, and stay indoors when lightning is active. These storms are predictable and locals learn to plan around them."}},{"@type":"Question","name":"How long do Florida afternoon storms usually last?","acceptedAnswer":{"@type":"Answer","text":"Most Florida afternoon storms last 60-90 minutes from start to finish. The heavy rain and lightning typically peak for 30-45 minutes, then gradually taper off. By evening, skies often clear completely, sometimes creating the most beautiful weather of the entire day."}},{"@type":"Question","name":"Does rainy season make Florida more humid?","acceptedAnswer":{"@type":"Answer","text":"Yes, humidity increases significantly during rainy season, typically staying between 75-85% compared to 60-70% in winter months. However, afternoon storms often provide temporary relief by dropping temperatures 10-15 degrees and clearing out some moisture from the air."}},{"@type":"Question","name":"Can I still do outdoor activities during rainy season?","acceptedAnswer":{"@type":"Answer","text":"Absolutely, but timing matters. Schedule outdoor activities for early morning (before 1 PM) or evening (after 7 PM) when storms are less likely. Many locals actually prefer morning activities during rainy season because temperatures are more comfortable and humidity is lower than peak summer heat."}},{"@type":"Question","name":"How does Tampa Bay's rainy season compare to other parts of Florida?","acceptedAnswer":{"@type":"Answer","text":"Tampa Bay's rainy season is fairly typical for Central Florida, receiving slightly less rain than South Florida but more than North Florida. Our location between the Gulf and Atlantic creates reliable afternoon storm patterns, while coastal areas often see storms pushed inland, giving beaches more clear afternoon hours."}}]}]5:T41d3,<p>You're probably wondering when Florida's rainy season hits and what to expect. After 23+ years selling real estate here, I've watched thousands of newcomers experience their first Tampa Bay summer storms. Some panic. Others fall in love with the daily light show. Here's what you actually need to know.</p>
+<p>Florida's rainy season runs from <strong>June through September</strong>, with peak activity in July and August. We're talking about a predictable pattern of afternoon thunderstorms that dump 6-8 inches of rain monthly — more than twice what we see in winter. It's not four months of constant rain. It's four months of spectacular daily drama.</p>
+<h2>What Makes Florida's Rainy Season Unique</h2>
+<p>Unlike other parts of the country where rain means dreary all-day drizzle, Florida does rain differently. We get intense, short bursts that clear out quickly. Think of it as nature's daily reset button.</p>
+<p>The pattern is remarkably consistent: sunny mornings, building clouds around 1-2 PM, thunderstorms between 3-6 PM, then clearing skies by evening. You can literally watch the storms build from your office window and know whether to grab an umbrella for the drive home.</p>
+<p><strong>Why This Happens:</strong> Florida sits between the Gulf of Mexico and Atlantic Ocean. All that warm water creates massive amounts of water vapor. Add Florida's flat terrain and afternoon heating, and you get perfect storm-brewing conditions every single day.</p>
+<h3>The Numbers Don't Lie</h3>
+<p>Here's what Tampa Bay actually gets during rainy season:</p>
+<ul>
+<li><strong>June:</strong> 6.8 inches average rainfall</li>
+<li><strong>July:</strong> 7.3 inches average rainfall</li>
+<li><strong>August:</strong> 7.8 inches average rainfall</li>
+<li><strong>September:</strong> 6.2 inches average rainfall</li>
+</ul>
+<p>For perspective, that's more rain in four months than many western states get all year. But it's concentrated into 60-90 minute windows, not spread across entire days.</p>
+<h2>Month-by-Month Breakdown</h2>
+<h3>June: The Warm-Up Act</h3>
+<p>June eases you into rainy season. Storms are less frequent but more scattered. You might get three days of afternoon storms, then two days of sunshine. It's Florida showing mercy before the real show begins.</p>
+<p><strong>What to Expect:</strong></p>
+<ul>
+<li>14-16 rainy days</li>
+<li>Storm timing: 2-5 PM typically</li>
+<li>Less lightning intensity</li>
+<li>Humidity climbs to 75-80%</li>
+</ul>
+<h3>July: Peak Performance</h3>
+<p>July is when Florida's rainy season hits its stride. Nearly every afternoon brings towering cumulonimbus clouds and spectacular lightning shows. The storms are more organized and predictable.</p>
+<p><strong>What to Expect:</strong></p>
+<ul>
+<li>18-20 rainy days</li>
+<li>Storm timing: 3-6 PM like clockwork</li>
+<li>Heavy lightning activity</li>
+<li>Humidity stays 80-85%</li>
+<li>Temperature drops 10-15 degrees during storms</li>
+</ul>
+<h3>August: Maximum Intensity</h3>
+<p>August cranks everything to 11. This is when newcomers either embrace the chaos or start questioning their move to Florida. The storms are bigger, louder, and more frequent.</p>
+<p><strong>What to Expect:</strong></p>
+<ul>
+<li>19-21 rainy days</li>
+<li>Multiple storm cells daily</li>
+<li>Frequent lightning strikes</li>
+<li>Street flooding in low-lying areas</li>
+<li>Hurricane season overlap</li>
+</ul>
+<h3>September: The Gradual Retreat</h3>
+<p>September starts strong but gradually backs off as we head toward fall. Early September feels like August's twin, but by month's end, you'll notice longer gaps between storms.</p>
+<p><strong>What to Expect:</strong></p>
+<ul>
+<li>15-17 rainy days</li>
+<li>Storm timing becomes less predictable</li>
+<li>Hurricane risk peaks mid-month</li>
+<li>Humidity begins dropping slightly</li>
+</ul>
+<h2>How Afternoon Storms Actually Work</h2>
+<p>Most people picture Florida storms wrong. You're not getting Seattle's endless drizzle or Chicago's all-day soakers. Florida storms are intense, localized events that follow a script.</p>
+<h3>The Daily Timeline</h3>
+<p><strong>10 AM - 12 PM:</strong> Clear skies, rising temperatures, building humidity. Perfect beach weather.</p>
+<p><strong>12 PM - 2 PM:</strong> Cumulus clouds start forming inland. Still sunny at the coast.</p>
+<p><strong>2 PM - 3 PM:</strong> Clouds build vertically. You can see towering thunderheads developing.</p>
+<p><strong>3 PM - 4 PM:</strong> Storm initiation. Wind picks up, temperature drops, first rumbles of thunder.</p>
+<p><strong>4 PM - 6 PM:</strong> Peak intensity. Heavy rain, frequent lightning, gusty winds up to 40 mph.</p>
+<p><strong>6 PM - 8 PM:</strong> Storms move offshore or dissipate. Clearing skies, lower humidity.</p>
+<p><strong>8 PM - 10 PM:</strong> Often the most beautiful weather of the day. Clear, cooler, less humid.</p>
+<h3>Why It's So Predictable</h3>
+<p>Florida's storms follow physics, not whims. As land heats up during the day, warm air rises. When it hits cooler air aloft, you get condensation, cloud formation, and eventually precipitation. The sea breeze from both coasts converges over Central Florida around 3-4 PM, triggering storms right on schedule.</p>
+<p>This predictability is actually helpful. Unlike other places where weather is random, you can plan around Florida's rainy season. Need to run errands? Do it before 2 PM or after 7 PM. Planning an outdoor event? Schedule it for morning or evening.</p>
+<h2>Rain Totals and What They Mean</h2>
+<p>When weather reports say "7 inches of rain in July," newcomers panic. That sounds like flooding and chaos. But context matters.</p>
+<h3>How the Rain Falls</h3>
+<p>Those 7+ inches don't fall evenly. You might get:</p>
+<ul>
+<li>2 inches in one 45-minute downpour</li>
+<li>0.5 inches spread across five lighter storms</li>
+<li>1.5 inches during one particularly intense afternoon</li>
+<li>Several days with no rain at all</li>
+</ul>
+<h3>Where It Falls</h3>
+<p>Florida storms are remarkably localized. I've driven from bone-dry Westchase to flooded streets in South Tampa — a five-mile difference. Your neighborhood might get soaked while areas two miles away stay completely dry.</p>
+<p>This creates interesting conversations. Someone in Brandon will complain about getting drenched while their friend in Carrollwood had perfect weather all day. Both are telling the truth.</p>
+<h3>Street Flooding Reality Check</h3>
+<p>Yes, streets flood during heavy downpours. But it's temporary. Florida's storm drains are designed for these events. Most flooding clears within 30-60 minutes after storms pass.</p>
+<p><strong>Areas That Flood Predictably:</strong></p>
+<ul>
+<li>Dale Mabry between Kennedy and Gandy</li>
+<li>Parts of Bayshore Boulevard</li>
+<li>Low spots on Westshore Boulevard</li>
+<li>Some Ybor City streets</li>
+</ul>
+<p>Smart locals know these spots and avoid them during active storms. It's not worth risking your car to save 10 minutes.</p>
+<h2>Living With Florida's Rainy Season</h2>
+<p>After two decades here, I've learned that fighting rainy season is pointless. Embrace it instead. Here's how locals adapt:</p>
+<h3>Timing Is Everything</h3>
+<p><strong>Smart Scheduling:</strong></p>
+<ul>
+<li>Grocery shopping: Before 1 PM or after 7 PM</li>
+<li>Outdoor work: Early morning only</li>
+<li>Beach trips: Morning sessions, then indoor lunch during storm time</li>
+<li>Dog walks: Dawn, dusk, or post-storm evening</li>
+</ul>
+<p><strong>Poor Scheduling:</strong></p>
+<ul>
+<li>3 PM tee times (you'll be running for cover)</li>
+<li>Afternoon pool parties (unless you enjoy lightning shows)</li>
+<li>Rush hour driving during active storms</li>
+</ul>
+<h3>Gear That Actually Helps</h3>
+<p><strong>Umbrella Reality:</strong> Forget tiny umbrellas. Florida storms come with 30+ mph winds. You need a golf umbrella or nothing at all.</p>
+<p><strong>Better Options:</strong></p>
+<ul>
+<li><a href="%7B%7Bamazon:B07N4P2XYZ%7D%7D">Quick-dry shirts and shorts</a></li>
+<li>Waterproof phone cases for sudden downpours</li>
+<li>Keep towels in your car</li>
+<li>Non-slip shoes with good drainage</li>
+</ul>
+<h3>Home Considerations</h3>
+<p><strong>What Works:</strong></p>
+<ul>
+<li>Covered parking (your car will thank you)</li>
+<li>Good drainage around your property</li>
+<li>Surge protectors for electronics</li>
+<li>Battery backup for wifi routers</li>
+</ul>
+<p><strong>What Doesn't:</strong></p>
+<ul>
+<li>Relying on outdoor plans during peak hours</li>
+<li>Assuming storms will skip your neighborhood</li>
+<li>Cheap patio furniture (it's going airborne)</li>
+</ul>
+<h2>The Psychological Adjustment</h2>
+<p>Here's something real estate agents don't tell you: rainy season affects people differently. Some love the daily drama and cooler temperatures. Others feel trapped by the predictable afternoon lockdowns.</p>
+<h3>Why Some People Struggle</h3>
+<p>If you're from the Southwest or West Coast, Florida's humidity and daily storms can feel oppressive. The key is adjusting your expectations and daily rhythms.</p>
+<p><strong>Common Complaints:</strong></p>
+<ul>
+<li>"I can't plan outdoor activities"</li>
+<li>"The humidity is unbearable"</li>
+<li>"It's too dark and gloomy"</li>
+</ul>
+<p><strong>Reality Checks:</strong></p>
+<ul>
+<li>You can plan outdoor activities — just not for 3-6 PM</li>
+<li>Morning humidity is usually tolerable</li>
+<li>Storms typically last 60-90 minutes, not all day</li>
+</ul>
+<h3>Why Others Thrive</h3>
+<p>People from the Midwest and Northeast often love rainy season. They appreciate the warmth, the dramatic weather displays, and the fact that winter means 75-degree days instead of frozen pipes.</p>
+<h2>Regional Variations Within Tampa Bay</h2>
+<p>Not all of Tampa Bay experiences rainy season identically. Location matters.</p>
+<h3>Coastal Areas (St. Pete Beach, Clearwater Beach)</h3>
+<p><strong>Advantages:</strong></p>
+<ul>
+<li>Sea breeze delays storm formation</li>
+<li>Storms often stay inland</li>
+<li>More pleasant morning conditions</li>
+</ul>
+<p><strong>Disadvantages:</strong></p>
+<ul>
+<li>When storms do hit, they can be more intense</li>
+<li>Higher storm surge risk during hurricanes</li>
+</ul>
+<h3>Inland Areas (Brandon, Plant City, Lakeland)</h3>
+<p><strong>Advantages:</strong></p>
+<ul>
+<li>No storm surge concerns</li>
+<li>Slightly less expensive hurricane insurance</li>
+</ul>
+<p><strong>Disadvantages:</strong></p>
+<ul>
+<li>Storms form here first</li>
+<li>Higher lightning strike frequency</li>
+<li>More frequent afternoon disruptions</li>
+</ul>
+<h3>Central Tampa Bay (Tampa, St. Petersburg)</h3>
+<p><strong>The Sweet Spot:</strong></p>
+<ul>
+<li>Moderate storm frequency</li>
+<li>Good drainage infrastructure</li>
+<li>Easy access to indoor alternatives when storms hit</li>
+</ul>
+<p>Most newcomers find central locations offer the best balance during rainy season. You're close enough to coasts for sea breeze benefits but inland enough to avoid the worst storm surge risks.</p>
+<h2>Hurricane Season Overlap</h2>
+<p>Here's where things get serious. Florida's rainy season overlaps with hurricane season (June 1 - November 30). Most years, this just means more impressive storms. But some years, it means major hurricanes.</p>
+<h3>The Difference Between Daily Storms and Hurricanes</h3>
+<p>Daily afternoon storms are manageable inconveniences. Hurricanes are multi-day events requiring serious preparation. Don't confuse the two.</p>
+<p><strong>Daily Storms:</strong></p>
+<ul>
+<li>Localized, short-duration</li>
+<li>Minimal property damage risk</li>
+<li>Life continues normally afterward</li>
+</ul>
+<p><strong>Hurricanes:</strong></p>
+<ul>
+<li>Regional, multi-day events</li>
+<li>Significant property damage potential</li>
+<li>Can disrupt life for weeks</li>
+</ul>
+<p>Understanding this difference is crucial for newcomers. Getting comfortable with daily storms doesn't mean you're hurricane-ready. That requires separate preparation and mindset.</p>
+<p>For detailed hurricane preparation, check our comprehensive <a href="/moving-guide/">moving guide</a> that covers emergency planning for new residents.</p>
+<h2>Making Rainy Season Work for You</h2>
+<p>Smart Tampa Bay residents use rainy season strategically. Here's how:</p>
+<h3>Embrace Indoor Culture</h3>
+<p>Summer is when locals rediscover shopping malls, museums, and indoor dining. It's not giving up — it's adapting smartly.</p>
+<p><strong>Great Rainy Season Spots:</strong></p>
+<ul>
+<li>International Plaza during afternoon storms</li>
+<li>Tampa Museum of Art with harbor views</li>
+<li>Seminole Hard Rock for entertainment</li>
+<li>Local libraries with excellent air conditioning</li>
+</ul>
+<h3>Use It for Home Projects</h3>
+<p>Rainy season is perfect for indoor home improvements. Contractors often offer better rates because outdoor work is frequently delayed.</p>
+<h3>Appreciate the Natural Beauty</h3>
+<p>Florida storms are genuinely spectacular. The lightning displays, dramatic cloud formations, and post-storm sunsets rival anything in nature. Many longtime residents consider afternoon storms one of Florida's best features.</p>
+<h2>Economic Impact of Rainy Season</h2>
+<p>Rainy season affects Tampa Bay's economy in predictable ways:</p>
+<p><strong>Businesses That Benefit:</strong></p>
+<ul>
+<li>Indoor entertainment venues</li>
+<li>Shopping centers</li>
+<li>Restaurants with covered patios</li>
+<li>Home improvement stores (generator sales spike)</li>
+</ul>
+<p><strong>Businesses That Struggle:</strong></p>
+<ul>
+<li>Outdoor event venues</li>
+<li>Pool cleaning services</li>
+<li>Landscaping companies</li>
+<li>Beach equipment rentals</li>
+</ul>
+<p>Understanding these patterns helps if you're considering starting a business or timing major purchases.</p>
+<hr>
+<p><strong>Moving to Tampa Bay?</strong> Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.</p>
+<p><a href="https://nowtb.com">Contact Barrett →</a> | <a href="tel:8137337907">(813) 733-7907</a></p>
+<hr>
+<h2>Frequently Asked Questions</h2>
+<h3>Does it rain every day during Florida's rainy season?</h3>
+<p>No, despite the name "rainy season," it doesn't rain daily. Tampa Bay averages 15-21 rainy days per month during peak season (July-August), meaning you'll still have 9-16 completely dry days monthly. The "rainy season" refers to the period when afternoon storms are most likely and intense.</p>
+<h3>What time do afternoon storms typically start and end?</h3>
+<p>Florida's afternoon storms follow a remarkably predictable schedule. Storms typically build between 1-2 PM, peak intensity occurs from 3-6 PM, and most clear out by 7-8 PM. This timing is driven by daily heating patterns and sea breeze convergence, making it one of the most reliable weather patterns in the country.</p>
+<h3>How much rain does Tampa Bay get during rainy season?</h3>
+<p>Tampa Bay receives 28-30 inches of rain from June through September — about 60% of our annual rainfall in just four months. July and August typically see 7-8 inches each, with most falling in intense 1-2 hour downpours rather than all-day drizzle.</p>
+<h3>Are Florida's daily storms dangerous?</h3>
+<p>Daily afternoon storms produce frequent lightning and heavy rain but are generally not dangerous if you use common sense. Avoid outdoor activities during peak hours (3-6 PM), don't drive through flooded roads, and stay indoors when lightning is active. These storms are predictable and locals learn to plan around them.</p>
+<h3>How long do Florida afternoon storms usually last?</h3>
+<p>Most Florida afternoon storms last 60-90 minutes from start to finish. The heavy rain and lightning typically peak for 30-45 minutes, then gradually taper off. By evening, skies often clear completely, sometimes creating the most beautiful weather of the entire day.</p>
+<h3>Does rainy season make Florida more humid?</h3>
+<p>Yes, humidity increases significantly during rainy season, typically staying between 75-85% compared to 60-70% in winter months. However, afternoon storms often provide temporary relief by dropping temperatures 10-15 degrees and clearing out some moisture from the air.</p>
+<h3>Can I still do outdoor activities during rainy season?</h3>
+<p>Absolutely, but timing matters. Schedule outdoor activities for early morning (before 1 PM) or evening (after 7 PM) when storms are less likely. Many locals actually prefer morning activities during rainy season because temperatures are more comfortable and humidity is lower than peak summer heat.</p>
+<h3>How does Tampa Bay's rainy season compare to other parts of Florida?</h3>
+<p>Tampa Bay's rainy season is fairly typical for Central Florida, receiving slightly less rain than South Florida but more than North Florida. Our location between the Gulf and Atlantic creates reliable afternoon storm patterns, while coastal areas often see storms pushed inland, giving beaches more clear afternoon hours.</p>
+8:["slug","florida-rainy-season-explained","d"]
+0:["SZLIdUDBKVit2TP_UqbYL",[[["",{"children":["blog",{"children":[["slug","florida-rainy-season-explained","d"],{"children":["__PAGE__?{\"slug\":\"florida-rainy-season-explained\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","florida-rainy-season-explained","d"],{"children":["__PAGE__",{},[["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","section",null,{"className":"relative w-full h-[200px] md:h-[300px] overflow-hidden bg-brand-navy","children":[["$","$L3",null,{"src":"/images/blog/housing.jpg","alt":"Florida Rainy Season Explained — June Through September","fill":true,"className":"object-cover","unoptimized":true,"priority":true}],["$","div",null,{"className":"absolute inset-0 bg-brand-navy/60"}],["$","div",null,{"className":"relative z-10 flex flex-col items-center justify-center h-full px-4 text-center","children":[["$","h1",null,{"className":"text-white text-3xl md:text-5xl font-display font-extrabold leading-tight max-w-4xl","children":"Florida Rainy Season Explained — June Through September"}],"$undefined"]}]]}],["$","article",null,{"className":"max-w-4xl mx-auto px-4 py-10","children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://tbrelo.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://tbrelo.com/blog/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Florida Rainy Season Explained — June Through September\",\"item\":\"https://tbrelo.com/blog/florida-rainy-season-explained/\"}]}"}}],["$","nav",null,{"aria-label":"Breadcrumb","className":"text-sm text-brand-slate mb-6","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-1","children":[["$","li","/",{"className":"flex items-center gap-1","children":[false,["$","$L4",null,{"href":"/","className":"hover:text-brand-blue transition-colors","children":"Home"}]]}],["$","li","/blog/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","$L4",null,{"href":"/blog/","className":"hover:text-brand-blue transition-colors","children":"Blog"}]]}],["$","li","/blog/florida-rainy-season-explained/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","span",null,{"className":"text-brand-navy font-medium","children":"Florida Rainy Season Explained — June Through September"}]]}]]}]}]],["$","p",null,{"className":"text-brand-slate text-sm mb-8","children":["Published ","February 26, 2026"]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$5"}}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"cta-box-primary","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-white","children":"Moving to Tampa Bay? Get a Local Expert."}],["$","p",null,{"className":"text-sm mb-4 text-white","children":"Barrett Henry is a Broker Associate with REMAX Collective and over 23 years of real estate experience. Straight talk, smart strategy, no pressure."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-blue text-white hover:bg-blue-600","children":["Contact Barrett"," →"]}],["$","a",null,{"href":"tel:8137337907","className":"text-sm text-white","children":"(813) 733-7907"}]]}]]}],["$","div",null,{"className":"cta-box","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-brand-navy","children":"Need Help Setting Up Your New Home?"}],["$","p",null,{"className":"text-sm mb-4 text-brand-slate","children":"Best Bay Services handles handyman work, home repairs, and maintenance for your new Tampa Bay home. Local, licensed, and trusted."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-navy text-white hover:bg-brand-dark","children":["Get a Quote"," →"]}],["$","a",null,{"href":"tel:8134168676","className":"text-sm text-brand-blue","children":"(813) 416-8676"}]]}]]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","$L6",null,{"blogSlug":"florida-rainy-season-explained"}]]}]],null],null],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$8","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/db2729ad4a9f0783.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link",null,{"rel":"icon","href":"/favicon-32.png","type":"image/png","sizes":"32x32"}],["$","link",null,{"rel":"icon","href":"/favicon-16.png","type":"image/png","sizes":"16x16"}],["$","link",null,{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link",null,{"rel":"icon","href":"/icon-192.png","type":"image/png","sizes":"192x192"}],["$","meta",null,{"name":"google-adsense-account","content":"ca-pub-2033173419526042"}],["$","meta",null,{"name":"impact-site-verification","content":"bb623f40-9653-4312-9ca8-bf35b957a10c"}],["$","$La",null,{"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2033173419526042","strategy":"afterInteractive","crossOrigin":"anonymous"}],["$","$La",null,{"src":"https://www.googletagmanager.com/gtag/js?id=G-TD87S02SLM","strategy":"afterInteractive"}],["$","$La",null,{"id":"gtag-init","strategy":"afterInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'G-TD87S02SLM');\n          "}]]}],["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"[{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"https://tbrelo.com/#website\",\"name\":\"TB Relo — Tampa Bay Relocation Guide\",\"url\":\"https://tbrelo.com\",\"description\":\"Comprehensive relocation guides for Tampa Bay, Florida. Covering 8 counties, 100+ cities, cost of living, schools, and everything you need to know about moving to Tampa Bay.\",\"publisher\":{\"@id\":\"https://tbrelo.com/#org\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://tbrelo.com/blog/?q={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}},{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://tbrelo.com/#org\",\"name\":\"TB Relo\",\"url\":\"https://tbrelo.com\",\"sameAs\":[\"https://nowtb.com\",\"https://valricoagent.com\",\"https://parrishagent.com\",\"https://www.facebook.com/BarrettHenryREALTOR/\",\"https://www.instagram.com/thenowteam\",\"https://www.youtube.com/@nowtampa\"]}]"}}],["$","$Lb",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"max-w-2xl mx-auto px-4 py-20 text-center","children":[["$","h1",null,{"className":"text-6xl font-display font-extrabold text-brand-navy mb-4","children":"404"}],["$","p",null,{"className":"text-xl text-brand-slate mb-8","children":"This page doesn't exist. Maybe you're looking for one of these?"}],["$","div",null,{"className":"grid sm:grid-cols-2 gap-4 mb-12 text-left","children":[["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Moving Guide"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Complete guide to relocating to Tampa Bay"}]]}],["$","$L4",null,{"href":"/counties/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Explore Counties"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Browse all 8 Tampa Bay counties"}]]}],["$","$L4",null,{"href":"/cities/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Find a City"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"90+ city and neighborhood guides"}]]}],["$","$L4",null,{"href":"/blog/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Blog"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Tips, comparisons, and local insights"}]]}]]}],["$","$L4",null,{"href":"/","className":"px-8 py-4 bg-brand-blue text-white font-display font-bold rounded-lg hover:bg-blue-600 transition-colors text-lg inline-block","children":"Back to Home"}]]}],"notFoundStyles":[]}]}],["$","footer",null,{"className":"bg-brand-dark text-gray-400","children":[["$","div",null,{"className":"bg-brand-navy","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10","children":["$","div",null,{"className":"grid md:grid-cols-3 gap-8 text-center","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Buying or Selling a Home?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Barrett Henry — The NOW Team at REMAX Collective"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 733-7907"}]]}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Need a Handyman?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Best Bay Services — Tampa Bay Home Services"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 416-8676"}]]}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Property Management"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"ViVi PM — Full-Service Property Management"}]]}]]}]}]}],["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8","children":[["$","div",null,{"className":"md:col-span-2","children":[["$","div",null,{"className":"font-display font-extrabold text-2xl text-white mb-3","children":["TB",["$","span",null,{"className":"text-brand-sky","children":"Relo"}]]}],["$","p",null,{"className":"text-sm leading-relaxed","children":"Your complete guide to relocating to Tampa Bay, Florida. Covering Hillsborough, Pinellas, Pasco, Hernando, Polk, Manatee, Sarasota, and Citrus counties with honest, local insight from someone who actually lives here."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Guides"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"hover:text-white transition-colors","children":"Moving to Tampa Bay"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/cost-of-living/","className":"hover:text-white transition-colors","children":"Cost of Living"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/moving-checklist/","className":"hover:text-white transition-colors","children":"Moving Checklist"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/blog/","className":"hover:text-white transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Counties"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li","Hillsborough",{"children":["$","$L4",null,{"href":"/counties/hillsborough/","className":"hover:text-white transition-colors","children":["Hillsborough"," County"]}]}],["$","li","Pinellas",{"children":["$","$L4",null,{"href":"/counties/pinellas/","className":"hover:text-white transition-colors","children":["Pinellas"," County"]}]}],["$","li","Pasco",{"children":["$","$L4",null,{"href":"/counties/pasco/","className":"hover:text-white transition-colors","children":["Pasco"," County"]}]}],["$","li","Hernando",{"children":["$","$L4",null,{"href":"/counties/hernando/","className":"hover:text-white transition-colors","children":["Hernando"," County"]}]}],["$","li","Polk",{"children":["$","$L4",null,{"href":"/counties/polk/","className":"hover:text-white transition-colors","children":["Polk"," County"]}]}],["$","li","Manatee",{"children":["$","$L4",null,{"href":"/counties/manatee/","className":"hover:text-white transition-colors","children":["Manatee"," County"]}]}],["$","li","Sarasota",{"children":["$","$L4",null,{"href":"/counties/sarasota/","className":"hover:text-white transition-colors","children":["Sarasota"," County"]}]}],["$","li","Citrus",{"children":["$","$L4",null,{"href":"/counties/citrus/","className":"hover:text-white transition-colors","children":["Citrus"," County"]}]}]]}]]}]]}],["$","div",null,{"className":"mt-10 pt-8 border-t border-gray-800","children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Barrett Henry's Network"}],["$","div",null,{"className":"grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3 text-sm","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Tampa Bay Real Estate"}],["$","a",null,{"href":"https://valricoagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Real Estate"}],["$","a",null,{"href":"https://parrishagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Parrish Real Estate"}],["$","a",null,{"href":"https://valrico.blog","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Community Blog"}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Handyman & Home Services"}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Property Management"}]]}]]}],["$","div",null,{"className":"mt-12 pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center gap-4 text-xs","children":[["$","p",null,{"children":["© ",2026," TB Relo. All rights reserved."]}],["$","div",null,{"className":"flex gap-4","children":[["$","$L4",null,{"href":"/affiliate-disclosure/","className":"hover:text-white transition-colors","children":"Affiliate Disclosure"}],["$","$L4",null,{"href":"/privacy-policy/","className":"hover:text-white transition-colors","children":"Privacy Policy"}],["$","$L4",null,{"href":"/disclaimer/","className":"hover:text-white transition-colors","children":"Disclaimer"}]]}]]}]]}],["$","div",null,{"className":"bg-black/30 border-t border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 text-center text-xs text-gray-500","children":["Site by"," ",["$","a",null,{"href":"https://vyrabyte.com","target":"_blank","rel":"noopener noreferrer","className":"text-gray-400 hover:text-white transition-colors","children":"Vyrabyte"}]]}]}]]}],["$","$Lc",null,{}]]}]]}]],null],null],["$Ld",null]]]]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Florida Rainy Season Explained — June Through September | TB Relo | TB Relo"}],["$","meta","3",{"name":"description","content":"Florida Rainy Season Explained. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","6",{"property":"og:title","content":"Florida Rainy Season Explained — June Through September | TB Relo | TB Relo"}],["$","meta","7",{"property":"og:description","content":"Florida Rainy Season Explained. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","8",{"property":"og:image","content":"https://tbrelo.com/images/blog/housing.jpg"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"Florida Rainy Season Explained — June Through September | TB Relo | TB Relo"}],["$","meta","13",{"name":"twitter:description","content":"Florida Rainy Season Explained. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","14",{"name":"twitter:image","content":"https://tbrelo.com/images/blog/housing.jpg"}],["$","link","15",{"rel":"icon","href":"/icon.svg?ff4364d89c37c0d6","type":"image/svg+xml","sizes":"any"}]]
+1:null

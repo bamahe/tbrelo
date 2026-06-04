@@ -1,0 +1,294 @@
+3:I[5878,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"Image"]
+4:I[2972,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],""]
+6:I[5143,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"default"]
+7:I[4707,[],""]
+9:I[6423,[],""]
+a:I[8003,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],""]
+b:I[7312,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"default"]
+c:I[5463,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"SpeedInsights"]
+2:T1379,[{"@context":"https://schema.org","@type":"Article","headline":"Moving from Cincinnati to Tampa Bay — The Complete Relocation Guide | TB Relo","description":"Moving from Cincinnati to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience.","url":"https://tbrelo.com/blog/moving-from-cincinnati/","author":{"@type":"Person","name":"Barrett Henry","jobTitle":"REALTOR® & Broker Associate","url":"https://nowtb.com","worksFor":{"@type":"Organization","name":"REMAX Collective"},"knowsAbout":["Tampa Bay Real Estate","Florida Relocation","Residential Real Estate","Investment Property","Property Management"]},"publisher":{"@type":"Organization","name":"TB Relo","url":"https://tbrelo.com"},"datePublished":"2024-08-10T08:00:00-04:00","dateModified":"2026-04-15T08:00:00-04:00","image":{"@type":"ImageObject","url":"https://tbrelo.com/images/blog/housing.jpg"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much money should I save before moving from Cincinnati to Tampa Bay?","acceptedAnswer":{"@type":"Answer","text":"Plan for $15,000-25,000 in moving expenses if you're buying a home, including moving costs ($4,000-6,000), temporary housing, utility deposits, and emergency fund. Renters can often manage with $8,000-12,000. Don't forget to factor in potential income gaps if you're changing jobs."}},{"@type":"Question","name":"What's the job market really like compared to Cincinnati?","acceptedAnswer":{"@type":"Answer","text":"Tampa Bay's job market is more diverse than Cincinnati's corporate-heavy economy. Healthcare, technology, and financial services are booming, while manufacturing is smaller. Unemployment runs slightly lower than Cincinnati, and the no-income-tax benefit often makes lower salaries competitive."}},{"@type":"Question","name":"Are the schools really better than Cincinnati's suburban districts?","acceptedAnswer":{"@type":"Answer","text":"It depends on the specific districts. Tampa Bay's top school districts (parts of Hillsborough, most of Pinellas) compete well with Cincinnati's best suburbs like Mason or Sycamore. The key is choosing the right neighborhood — school quality varies dramatically within the same county."}},{"@type":"Question","name":"How bad is hurricane season really?","acceptedAnswer":{"@type":"Answer","text":"Tampa Bay hasn't taken a direct hurricane hit since 1921, though we prepare for near-misses every few years. Most \"hurricane events\" here mean 1-2 days of preparation, possible power outages, and cleanup. It's less disruptive than Cincinnati's ice storms or tornado seasons."}},{"@type":"Question","name":"What will I miss most about Cincinnati?","acceptedAnswer":{"@type":"Answer","text":"Most transplants miss the four seasons, Cincinnati-style chili, and the close-knit neighborhood feel of places like Oakley or Mount Adams. Some struggle with Tampa Bay's suburban sprawl compared to Cincinnati's more walkable urban core. But the weather usually compensates."}},{"@type":"Question","name":"How much will my utility bills change?","acceptedAnswer":{"@type":"Answer","text":"Your heating bills disappear — that $200+ monthly winter heating cost becomes maybe $30-50. Air conditioning runs $120-180 monthly in summer, but year-round you'll likely save $50-100 monthly on utilities. Water bills are slightly higher due to lawn irrigation needs."}},{"@type":"Question","name":"What neighborhoods feel most like Cincinnati's character?","acceptedAnswer":{"@type":"Answer","text":"Hyde Park Village resembles Oakley's walkability and dining scene. Seminole Heights has that Over-the-Rhine arts district vibe. For suburban family life like Mason or West Chester, look at Westchase or Wesley Chapel areas."}},{"@type":"Question","name":"How long does it take to get Florida residency for tax purposes?","acceptedAnswer":{"@type":"Answer","text":"You become a Florida resident for tax purposes immediately upon establishing domicile — getting a Florida driver's license, registering to vote, and demonstrating intent to stay permanently. File part-year returns in both Ohio and Florida for your moving year."}},{"@type":"Question","name":"What's the real cost difference for groceries and dining out?","acceptedAnswer":{"@type":"Answer","text":"Groceries run about 8% higher than Cincinnati, mainly due to Publix's premium positioning. Dining out costs 15-20% more, but the variety is significantly better. Factor in no state tax on prepared foods, which Ohio charges 5.75% on restaurant meals."}},{"@type":"Question","name":"Should I rent first or buy immediately?","acceptedAnswer":{"@type":"Answer","text":"Most successful relocations involve renting for 6-12 months first, especially if you're unfamiliar with Tampa Bay's neighborhoods and traffic patterns. This lets you explore areas, understand commute times, and avoid buyer's remorse. Exception: if you're relocating within the same company and know exactly where you'll work."}}]}]5:T56f8,<p>If you're reading this in Cincinnati while watching another gray February day unfold outside your window, I get it. After 23 years helping families relocate to Tampa Bay, I've guided hundreds of Ohioans through this exact transition. The math is simple: better weather, no state income tax, and a cost of living that often works in your favor — especially if you're coming from Cincinnati's pricier suburbs.</p>
+<p>But here's what most moving guides won't tell you: Tampa Bay isn't just "Florida with palm trees." It's a sophisticated metro area with distinct neighborhoods, real traffic patterns you need to understand, and yes — some legitimate downsides to consider before you pack up that Skyline Chili collection.</p>
+<h2>Why Cincinnati Residents Choose Tampa Bay</h2>
+<p>The numbers tell part of the story. Ohio's state income tax ranges from 0% to 3.99%, while Florida has zero state income tax. But the real draw goes deeper than tax savings.</p>
+<p><strong>Weather Reality Check:</strong> Cincinnati averages 166 sunny days per year. Tampa Bay gets 246. That's an extra 80 days of sunshine — basically three more months of decent weather. Your heating bill that hits $200+ during Cincinnati winters? Try $30-50 for air conditioning in Tampa's "winter."</p>
+<p><strong>Job Market Expansion:</strong> While Cincinnati's economy leans heavily on manufacturing and corporate headquarters (P&#x26;G, Kroger, Fifth Third), Tampa Bay offers more diversification. Tech companies like ConnectWise, Raymond James, and Jabil have major operations here. Healthcare is booming with Tampa General, BayCare, and AdventHealth systems constantly hiring.</p>
+<p><strong>Cultural Comfort Zone:</strong> This isn't Miami. Tampa Bay has that Midwest sensibility with Southern hospitality mixed in. You'll find plenty of fellow Cincinnati transplants at places like Yeoman's Cask &#x26; Lion (think Hofbrauhaus but with better weather).</p>
+<p>The lifestyle shift hits different people differently. Some Cincinnati folks miss the four seasons terribly. Others wonder why they waited so long to escape the February slush.</p>
+<hr>
+<p><strong>Moving to Tampa Bay?</strong> Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.</p>
+<p><a href="https://nowtb.com">Contact Barrett →</a> | <a href="tel:8137337907">(813) 733-7907</a></p>
+<hr>
+<h2>Cost of Living Comparison: Cincinnati vs Tampa Bay</h2>
+<p>Here's the honest breakdown, using real 2024 numbers:</p>
+<table>
+<thead>
+<tr>
+<th>Category</th>
+<th>Cincinnati</th>
+<th>Tampa Bay</th>
+<th>Difference</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Median Home Price</td>
+<td>$185,000</td>
+<td>$425,000</td>
+<td>+130%</td>
+</tr>
+<tr>
+<td>Rent (2BR Apartment)</td>
+<td>$1,200</td>
+<td>$1,800</td>
+<td>+50%</td>
+</tr>
+<tr>
+<td>Property Tax Rate</td>
+<td>1.56%</td>
+<td>0.83%</td>
+<td>-47%</td>
+</tr>
+<tr>
+<td>State Income Tax</td>
+<td>Up to 3.99%</td>
+<td>0%</td>
+<td>-100%</td>
+</tr>
+<tr>
+<td>Gasoline</td>
+<td>$3.15/gal</td>
+<td>$3.25/gal</td>
+<td>+3%</td>
+</tr>
+<tr>
+<td>Utilities (Average)</td>
+<td>$140/month</td>
+<td>$165/month</td>
+<td>+18%</td>
+</tr>
+<tr>
+<td>Groceries</td>
+<td>Baseline</td>
+<td>+8%</td>
+<td>+8%</td>
+</tr>
+</tbody>
+</table>
+<p><strong>The Real Talk:</strong> Yes, housing costs more — significantly more. But that's where the strategy matters. If you own a home in Cincinnati's suburbs like Mason or West Chester, you're likely sitting on enough equity to make a meaningful down payment here. Plus, your property taxes will drop substantially.</p>
+<p><strong>Sample Tax Savings:</strong> A Cincinnati household earning $75,000 pays roughly $2,200 in state income tax. In Florida? Zero. That's $183 extra per month in your pocket, which helps offset higher housing costs.</p>
+<p>For a deeper dive into specific neighborhood costs, check out our comprehensive <a href="/cost-of-living/">cost of living analysis</a>.</p>
+<h2>Tampa Bay Neighborhoods That Feel Like Home</h2>
+<p>Coming from Cincinnati's neighborhood culture, you'll want areas with character, walkability, and community feel. Here are the best matches:</p>
+<h3>Hyde Park — Tampa's Version of Oakley</h3>
+<p>Hyde Park Village gives you that trendy neighborhood vibe similar to Cincinnati's Oakley district. Walkable streets, local restaurants like Oystercatchers and Wine Exchange, plus easy access to downtown Tampa. Homes range from $450,000 for condos to $800,000+ for renovated bungalows.</p>
+<p><strong>The Commute:</strong> 15 minutes to downtown Tampa, 25 minutes to Westshore business district.</p>
+<h3>Seminole Heights — Like Over-the-Rhine's Success Story</h3>
+<p>This is where young professionals and creatives land. Bungalows from the 1920s, craft breweries like Coppertail and Independent Bar + Cafe, plus a restaurant scene that rivals Cincinnati's best neighborhoods. Home prices range $350,000-$600,000.</p>
+<p><strong>Bonus:</strong> The trolley connects you to downtown Tampa and Ybor City.</p>
+<h3>Westchase — Suburban Family Life Done Right</h3>
+<p>If you loved Mason or West Chester's family-friendly suburbs, Westchase delivers similar vibes with Florida perks. Top-rated schools, community pools, and homes typically ranging $400,000-$700,000. It's structured, safe, and surprisingly diverse.</p>
+<h3>St. Petersburg's Grand Central District — Urban Arts Scene</h3>
+<p>Think Cincinnati's Arts District but with year-round outdoor festivals. Walkable downtown core, emerging food scene at places like Rococo Steak and The Mill, plus reasonable condo prices starting around $250,000.</p>
+<p>For detailed breakdowns of each county's offerings, explore our <a href="/counties/hillsborough/">Hillsborough County guide</a> and <a href="/counties/pinellas/">Pinellas County overview</a>.</p>
+<h2>The Drive Down: Cincinnati to Tampa Bay</h2>
+<p><strong>Distance:</strong> 1,100 miles
+<strong>Driving Time:</strong> 16-18 hours (split into 2 days recommended)
+<strong>Best Route:</strong> I-71 South to I-65 South to I-75 South</p>
+<h3>Day 1: Cincinnati to Macon, Georgia (650 miles)</h3>
+<p>Start early — like 6 AM early. Take I-71 South through Louisville (great lunch stop at Hammerheads), then connect to I-65 South through Nashville. Bypass Atlanta's traffic nightmare by taking I-475 around the west side. Macon makes a perfect overnight stop with decent hotel options near I-75.</p>
+<h3>Day 2: Macon to Tampa Bay (450 miles)</h3>
+<p>The final push through Georgia and into Florida. You'll hit the Florida line around Valdosta, then it's straight shot down I-75. Pro tip: Stop at the Florida Welcome Center for maps and tourist info — they actually have useful local guides.</p>
+<p><strong>Gas Budget:</strong> Expect $180-220 for the full trip, depending on your vehicle.</p>
+<p><strong>Hotel Overnight:</strong> Budget $80-120 for a decent hotel in Macon. La Quinta or Hampton Inn are reliable choices right off I-75.</p>
+<h3>Moving Truck Considerations</h3>
+<p>If you're driving a U-Haul or Budget truck, add 3-4 hours to your drive time. These trucks struggle on hills through Kentucky and Tennessee. Also, Florida has aggressive truck inspection stations — make sure your rental is roadworthy.</p>
+<h2>Shipping Your Belongings: What It Really Costs</h2>
+<p>Based on actual quotes my clients have received in 2024:</p>
+<h3>Professional Moving Companies</h3>
+<ul>
+<li><strong>Full-Service Move (3-bedroom house):</strong> $4,500-6,800</li>
+<li><strong>Labor + Truck (you pack):</strong> $2,800-4,200</li>
+<li><strong>Pod/Container Service:</strong> $3,200-4,800</li>
+</ul>
+<p><strong>Best Companies for Cincinnati to Tampa Bay:</strong></p>
+<ul>
+<li>Two Men and a Truck (has locations in both cities)</li>
+<li>Allied Van Lines</li>
+<li>North American Van Lines</li>
+</ul>
+<h3>DIY Options</h3>
+<ul>
+<li><strong>U-Haul 26' truck:</strong> $2,800-3,400 (including gas, insurance, dolly)</li>
+<li><strong>Budget/Penske equivalent:</strong> Similar pricing</li>
+<li><strong>ABF U-Pack moving trailer:</strong> $2,200-3,100 (they drive, you load/unload)</li>
+</ul>
+<p><strong>Hidden Costs to Budget:</strong></p>
+<ul>
+<li>Packing supplies: $150-300</li>
+<li>Storage unit (if needed): $80-150/month</li>
+<li>Hotel/food during travel: $200-350</li>
+<li>Utility deposits in Florida: $100-250 per service</li>
+</ul>
+<h3>Smart Shipping Strategy</h3>
+<p>Ship heavy, cheap items (books, tools, basic furniture) via freight or moving company. Drive down valuable electronics, important documents, and items you'll need immediately. Consider selling bulky, low-value furniture in Cincinnati and buying replacements here — Tampa Bay has great furniture stores and no shortage of moving sales.</p>
+<h2>Weather Reality: What Cincinnati Folks Need to Know</h2>
+<p>Let's be honest about Florida weather because the tourism brochures lie.</p>
+<h3>Summer (June-September)</h3>
+<ul>
+<li><strong>Temperature:</strong> 85-92°F daily highs</li>
+<li><strong>Humidity:</strong> 60-85% (feels like 100-110°F)</li>
+<li><strong>Rain:</strong> Daily afternoon thunderstorms (brief but intense)</li>
+</ul>
+<p>Coming from Cincinnati summers that hit 85°F maybe 30 days per year, Tampa Bay's summer will feel overwhelming initially. The good news? Everything is air-conditioned, and you adapt faster than expected.</p>
+<h3>Winter (December-February)</h3>
+<ul>
+<li><strong>Temperature:</strong> 50-75°F daily highs</li>
+<li><strong>Humidity:</strong> 40-60% (comfortable)</li>
+<li><strong>Rain:</strong> Occasional light showers</li>
+</ul>
+<p>This is why you moved here. While Cincinnati averages 22 inches of snow annually, Tampa Bay gets maybe one frost per year. You'll be wearing shorts in January while your Cincinnati friends shovel driveways.</p>
+<h3>Hurricane Season (June-November)</h3>
+<p>Real talk: Tampa Bay hasn't taken a direct hurricane hit since 1921. We get close calls every few years that mean 2-3 days of preparation and maybe losing power for a day or two. Compare that to Cincinnati's tornado season or ice storms that shut down the city for a week.</p>
+<p><strong>Hurricane Prep Budget:</strong> $200-400 annually for supplies (batteries, water, non-perishable food, generator if desired). Most newcomers over-prepare the first year, then realize it's manageable.</p>
+<h2>Job Market and Career Opportunities</h2>
+<p>Cincinnati's job market centers around established corporate headquarters. Tampa Bay offers more entrepreneurial energy and growth sectors.</p>
+<h3>Growing Industries in Tampa Bay</h3>
+<ul>
+<li><strong>Healthcare:</strong> Tampa General Hospital, BayCare, Johns Hopkins All Children's Hospital</li>
+<li><strong>Financial Services:</strong> Raymond James, Synovus Bank, JPMorgan Chase operations</li>
+<li><strong>Technology:</strong> ConnectWise, ReliaQuest, KnowBe4, Tech Data (now TD SYNNEX)</li>
+<li><strong>Defense/Aerospace:</strong> MacDill Air Force Base, Lockheed Martin, Raytheon</li>
+</ul>
+<h3>Salary Expectations</h3>
+<p>Tampa Bay salaries typically run 10-15% higher than Cincinnati for comparable positions, but the no-income-tax benefit often makes up any gap. A $70,000 salary in Cincinnati equals roughly $73,000 in Tampa Bay after tax differences.</p>
+<p><strong>Job Search Strategy:</strong> Start networking before you move. Tampa Bay has active professional organizations like the Tampa Bay Technology Forum and Tampa Bay Business Journal events. LinkedIn is particularly effective here since many companies recruit heavily online.</p>
+<h3>Remote Work Advantage</h3>
+<p>If you're keeping your Cincinnati job remotely, you win big. Cincinnati salary with Florida tax benefits and weather? That's the sweet spot many of my clients land in.</p>
+<h2>Schools: Public and Private Options</h2>
+<p>Coming from Cincinnati's mix of excellent suburban districts and struggling urban schools, Tampa Bay's education landscape will feel familiar.</p>
+<h3>Top Public School Districts</h3>
+<ul>
+<li><strong>Hillsborough County:</strong> Large district with excellent magnet programs. Schools like Plant High School and King High School rival Cincinnati's best suburbs.</li>
+<li><strong>Pinellas County:</strong> Consistently rated among Florida's top districts. Dunedin High and Countryside High offer strong academics and athletics.</li>
+<li><strong>Pasco County:</strong> Growing fast with newer schools. Land O' Lakes and Wesley Chapel areas have excellent elementary through high school options.</li>
+</ul>
+<h3>Private School Landscape</h3>
+<ul>
+<li><strong>Tampa Prep:</strong> $25,000/year, similar to Cincinnati Country Day School</li>
+<li><strong>Berkeley Prep:</strong> $28,000/year, prestigious college prep</li>
+<li><strong>Academy of the Holy Names:</strong> $18,000/year, Catholic all-girls school</li>
+<li><strong>Jesuit High School:</strong> $16,000/year, Catholic boys school with strong academics</li>
+</ul>
+<p><strong>School Rating Reality:</strong> Use GreatSchools.org ratings, but visit in person. Some schools rated 7/10 outperform schools rated 9/10 depending on your child's needs and learning style.</p>
+<h2>Healthcare System Comparison</h2>
+<p>Cincinnati's healthcare anchors around UC Health, Cincinnati Children's, and Mercy Health. Tampa Bay's system is larger and more distributed.</p>
+<h3>Major Hospital Systems</h3>
+<ul>
+<li><strong>Tampa General Hospital:</strong> Level 1 trauma center, excellent cardiac and cancer care</li>
+<li><strong>BayCare Health System:</strong> 15 hospitals across the region, strong primary care network</li>
+<li><strong>AdventHealth:</strong> Growing presence with modern facilities</li>
+<li><strong>Johns Hopkins All Children's Hospital:</strong> Nationally ranked pediatric care in St. Petersburg</li>
+</ul>
+<h3>Specialist Availability</h3>
+<p>Tampa Bay has 2.8 million residents supporting specialist practices that Cincinnati's 2.1 million metro might not sustain. You'll find more options for specialized care, especially in areas like sports medicine, dermatology, and cosmetic procedures.</p>
+<p><strong>Insurance Networks:</strong> Most major insurers have strong networks here. If you have employer-sponsored insurance, verify network coverage before moving. Florida Blue (Blue Cross Blue Shield of Florida) has the strongest local network.</p>
+<h2>Food Scene: What You'll Miss and What You'll Gain</h2>
+<h3>What You'll Miss from Cincinnati</h3>
+<ul>
+<li>Skyline Chili (though you can order it online)</li>
+<li>Graeter's Ice Cream (available at some Publix locations)</li>
+<li>Cincinnati-style barbecue and Germanic influences</li>
+</ul>
+<h3>What You'll Discover in Tampa Bay</h3>
+<ul>
+<li><strong>Cuban Food:</strong> Columbia Restaurant (since 1905), La Segunda Bakery, Brocato's Sandwich Shop</li>
+<li><strong>Fresh Seafood:</strong> Grouper sandwiches, stone crab, Gulf shrimp</li>
+<li><strong>International Variety:</strong> Vietnamese in Seminole Heights, Greek in Tarpon Springs, Mexican throughout the region</li>
+</ul>
+<p><strong>Food Budget Reality:</strong> Dining out costs about 15% more than Cincinnati, but grocery prices are similar. Publix is your primary grocery chain — think Kroger with better prepared foods and higher prices.</p>
+<p><strong>Local Food Culture:</strong> Tampa Bay takes food seriously. James Beard Award winners like Michael's Grill and restaurants like Bern's Steak House compete nationally. The food truck scene rivals any major city.</p>
+<h2>Housing Market Strategy for Cincinnati Buyers</h2>
+<p>Here's where my 23 years of experience helps Cincinnati buyers navigate Tampa Bay's market effectively.</p>
+<h3>Timing Your Purchase</h3>
+<p><strong>Best Buying Seasons:</strong></p>
+<ul>
+<li><strong>May-July:</strong> Highest inventory but also peak competition</li>
+<li><strong>August-October:</strong> Good balance of inventory and motivated sellers</li>
+<li><strong>November-February:</strong> Lower inventory but less competition, especially from out-of-state buyers</li>
+</ul>
+<h3>Financing Considerations</h3>
+<p>Tampa Bay's median home price of $425,000 means many Cincinnati buyers need jumbo loans (loans above $766,550 in 2024). Shop multiple lenders — Tampa Bay has competitive local banks like Synovus and CenterState that often beat national lenders' rates.</p>
+<p><strong>Down Payment Strategy:</strong> Many Cincinnati buyers use home equity from their current house for 20% down payment here. Bridge loans or contingent offers can help, but cash offers win in competitive situations.</p>
+<h3>Neighborhood Investment Potential</h3>
+<ul>
+<li><strong>Seminole Heights:</strong> Rapid gentrification, high upside potential</li>
+<li><strong>St. Petersburg Downtown:</strong> Major development projects underway</li>
+<li><strong>Westshore Tampa:</strong> Commercial growth driving residential demand</li>
+<li><strong>Wesley Chapel:</strong> New construction with infrastructure improvements</li>
+</ul>
+<p><strong>Avoid These Areas:</strong> Some neighborhoods have persistent flooding issues or are too far from job centers. Work with a local REALTOR who understands drainage patterns and commute realities.</p>
+<hr>
+<p><strong>Moving to Tampa Bay?</strong> Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.</p>
+<p><a href="https://nowtb.com">Contact Barrett →</a> | <a href="tel:8137337907">(813) 733-7907</a></p>
+<hr>
+<h2>Timeline: Planning Your Cincinnati to Tampa Bay Move</h2>
+<h3>3 Months Before Moving</h3>
+<ul>
+<li>Research neighborhoods and school districts</li>
+<li>Get pre-approved for mortgage (if buying)</li>
+<li>Start decluttering and selling items you won't move</li>
+<li>Research job opportunities or confirm remote work arrangements</li>
+</ul>
+<h3>6-8 Weeks Before Moving</h3>
+<ul>
+<li>Choose moving company and book dates</li>
+<li>Start collecting important documents (medical records, school transcripts, tax returns)</li>
+<li>Research utility providers and internet options</li>
+<li>Plan house-hunting trip if buying</li>
+</ul>
+<h3>2-4 Weeks Before Moving</h3>
+<ul>
+<li>Confirm all moving logistics</li>
+<li>Set up mail forwarding with USPS</li>
+<li>Notify banks, credit cards, and subscription services of address change</li>
+<li>Research car registration and driver's license requirements (you have 30 days in Florida)</li>
+</ul>
+<h3>Moving Week</h3>
+<ul>
+<li>Pack essentials box (medications, important documents, phone chargers)</li>
+<li>Confirm utility connection dates</li>
+<li>Do final walkthrough of Cincinnati property</li>
+<li>Keep receipts for potential tax deductions</li>
+</ul>
+<h3>First Month in Florida</h3>
+<ul>
+<li>Register to vote</li>
+<li>Update car registration and get Florida driver's license</li>
+<li>Find new doctors, dentist, veterinarian</li>
+<li>Explore your neighborhood and start building local connections</li>
+</ul>
+<h2>Frequently Asked Questions</h2>
+<h3>How much money should I save before moving from Cincinnati to Tampa Bay?</h3>
+<p>Plan for $15,000-25,000 in moving expenses if you're buying a home, including moving costs ($4,000-6,000), temporary housing, utility deposits, and emergency fund. Renters can often manage with $8,000-12,000. Don't forget to factor in potential income gaps if you're changing jobs.</p>
+<h3>What's the job market really like compared to Cincinnati?</h3>
+<p>Tampa Bay's job market is more diverse than Cincinnati's corporate-heavy economy. Healthcare, technology, and financial services are booming, while manufacturing is smaller. Unemployment runs slightly lower than Cincinnati, and the no-income-tax benefit often makes lower salaries competitive.</p>
+<h3>Are the schools really better than Cincinnati's suburban districts?</h3>
+<p>It depends on the specific districts. Tampa Bay's top school districts (parts of Hillsborough, most of Pinellas) compete well with Cincinnati's best suburbs like Mason or Sycamore. The key is choosing the right neighborhood — school quality varies dramatically within the same county.</p>
+<h3>How bad is hurricane season really?</h3>
+<p>Tampa Bay hasn't taken a direct hurricane hit since 1921, though we prepare for near-misses every few years. Most "hurricane events" here mean 1-2 days of preparation, possible power outages, and cleanup. It's less disruptive than Cincinnati's ice storms or tornado seasons.</p>
+<h3>What will I miss most about Cincinnati?</h3>
+<p>Most transplants miss the four seasons, Cincinnati-style chili, and the close-knit neighborhood feel of places like Oakley or Mount Adams. Some struggle with Tampa Bay's suburban sprawl compared to Cincinnati's more walkable urban core. But the weather usually compensates.</p>
+<h3>How much will my utility bills change?</h3>
+<p>Your heating bills disappear — that $200+ monthly winter heating cost becomes maybe $30-50. Air conditioning runs $120-180 monthly in summer, but year-round you'll likely save $50-100 monthly on utilities. Water bills are slightly higher due to lawn irrigation needs.</p>
+<h3>What neighborhoods feel most like Cincinnati's character?</h3>
+<p>Hyde Park Village resembles Oakley's walkability and dining scene. Seminole Heights has that Over-the-Rhine arts district vibe. For suburban family life like Mason or West Chester, look at Westchase or Wesley Chapel areas.</p>
+<h3>How long does it take to get Florida residency for tax purposes?</h3>
+<p>You become a Florida resident for tax purposes immediately upon establishing domicile — getting a Florida driver's license, registering to vote, and demonstrating intent to stay permanently. File part-year returns in both Ohio and Florida for your moving year.</p>
+<h3>What's the real cost difference for groceries and dining out?</h3>
+<p>Groceries run about 8% higher than Cincinnati, mainly due to Publix's premium positioning. Dining out costs 15-20% more, but the variety is significantly better. Factor in no state tax on prepared foods, which Ohio charges 5.75% on restaurant meals.</p>
+<h3>Should I rent first or buy immediately?</h3>
+<p>Most successful relocations involve renting for 6-12 months first, especially if you're unfamiliar with Tampa Bay's neighborhoods and traffic patterns. This lets you explore areas, understand commute times, and avoid buyer's remorse. Exception: if you're relocating within the same company and know exactly where you'll work.</p>
+8:["slug","moving-from-cincinnati","d"]
+0:["SZLIdUDBKVit2TP_UqbYL",[[["",{"children":["blog",{"children":[["slug","moving-from-cincinnati","d"],{"children":["__PAGE__?{\"slug\":\"moving-from-cincinnati\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","moving-from-cincinnati","d"],{"children":["__PAGE__",{},[["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","section",null,{"className":"relative w-full h-[200px] md:h-[300px] overflow-hidden bg-brand-navy","children":[["$","$L3",null,{"src":"/images/blog/housing.jpg","alt":"Moving from Cincinnati to Tampa Bay — The Complete Relocation Guide","fill":true,"className":"object-cover","unoptimized":true,"priority":true}],["$","div",null,{"className":"absolute inset-0 bg-brand-navy/60"}],["$","div",null,{"className":"relative z-10 flex flex-col items-center justify-center h-full px-4 text-center","children":[["$","h1",null,{"className":"text-white text-3xl md:text-5xl font-display font-extrabold leading-tight max-w-4xl","children":"Moving from Cincinnati to Tampa Bay — The Complete Relocation Guide"}],"$undefined"]}]]}],["$","article",null,{"className":"max-w-4xl mx-auto px-4 py-10","children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://tbrelo.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://tbrelo.com/blog/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Moving from Cincinnati to Tampa Bay — The Complete Relocation Guide\",\"item\":\"https://tbrelo.com/blog/moving-from-cincinnati/\"}]}"}}],["$","nav",null,{"aria-label":"Breadcrumb","className":"text-sm text-brand-slate mb-6","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-1","children":[["$","li","/",{"className":"flex items-center gap-1","children":[false,["$","$L4",null,{"href":"/","className":"hover:text-brand-blue transition-colors","children":"Home"}]]}],["$","li","/blog/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","$L4",null,{"href":"/blog/","className":"hover:text-brand-blue transition-colors","children":"Blog"}]]}],["$","li","/blog/moving-from-cincinnati/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","span",null,{"className":"text-brand-navy font-medium","children":"Moving from Cincinnati to Tampa Bay — The Complete Relocation Guide"}]]}]]}]}]],["$","p",null,{"className":"text-brand-slate text-sm mb-8","children":["Published ","August 10, 2024"]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$5"}}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"cta-box-primary","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-white","children":"Moving to Tampa Bay? Get a Local Expert."}],["$","p",null,{"className":"text-sm mb-4 text-white","children":"Barrett Henry is a Broker Associate with REMAX Collective and over 23 years of real estate experience. Straight talk, smart strategy, no pressure."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-blue text-white hover:bg-blue-600","children":["Contact Barrett"," →"]}],["$","a",null,{"href":"tel:8137337907","className":"text-sm text-white","children":"(813) 733-7907"}]]}]]}],["$","div",null,{"className":"cta-box","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-brand-navy","children":"Need Help Setting Up Your New Home?"}],["$","p",null,{"className":"text-sm mb-4 text-brand-slate","children":"Best Bay Services handles handyman work, home repairs, and maintenance for your new Tampa Bay home. Local, licensed, and trusted."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-navy text-white hover:bg-brand-dark","children":["Get a Quote"," →"]}],["$","a",null,{"href":"tel:8134168676","className":"text-sm text-brand-blue","children":"(813) 416-8676"}]]}]]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","$L6",null,{"blogSlug":"moving-from-cincinnati"}]]}]],null],null],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$8","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/db2729ad4a9f0783.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link",null,{"rel":"icon","href":"/favicon-32.png","type":"image/png","sizes":"32x32"}],["$","link",null,{"rel":"icon","href":"/favicon-16.png","type":"image/png","sizes":"16x16"}],["$","link",null,{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link",null,{"rel":"icon","href":"/icon-192.png","type":"image/png","sizes":"192x192"}],["$","meta",null,{"name":"google-adsense-account","content":"ca-pub-2033173419526042"}],["$","meta",null,{"name":"impact-site-verification","content":"bb623f40-9653-4312-9ca8-bf35b957a10c"}],["$","$La",null,{"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2033173419526042","strategy":"afterInteractive","crossOrigin":"anonymous"}],["$","$La",null,{"src":"https://www.googletagmanager.com/gtag/js?id=G-TD87S02SLM","strategy":"afterInteractive"}],["$","$La",null,{"id":"gtag-init","strategy":"afterInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'G-TD87S02SLM');\n          "}]]}],["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"[{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"https://tbrelo.com/#website\",\"name\":\"TB Relo — Tampa Bay Relocation Guide\",\"url\":\"https://tbrelo.com\",\"description\":\"Comprehensive relocation guides for Tampa Bay, Florida. Covering 8 counties, 100+ cities, cost of living, schools, and everything you need to know about moving to Tampa Bay.\",\"publisher\":{\"@id\":\"https://tbrelo.com/#org\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://tbrelo.com/blog/?q={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}},{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://tbrelo.com/#org\",\"name\":\"TB Relo\",\"url\":\"https://tbrelo.com\",\"sameAs\":[\"https://nowtb.com\",\"https://valricoagent.com\",\"https://parrishagent.com\",\"https://www.facebook.com/BarrettHenryREALTOR/\",\"https://www.instagram.com/thenowteam\",\"https://www.youtube.com/@nowtampa\"]}]"}}],["$","$Lb",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"max-w-2xl mx-auto px-4 py-20 text-center","children":[["$","h1",null,{"className":"text-6xl font-display font-extrabold text-brand-navy mb-4","children":"404"}],["$","p",null,{"className":"text-xl text-brand-slate mb-8","children":"This page doesn't exist. Maybe you're looking for one of these?"}],["$","div",null,{"className":"grid sm:grid-cols-2 gap-4 mb-12 text-left","children":[["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Moving Guide"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Complete guide to relocating to Tampa Bay"}]]}],["$","$L4",null,{"href":"/counties/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Explore Counties"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Browse all 8 Tampa Bay counties"}]]}],["$","$L4",null,{"href":"/cities/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Find a City"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"90+ city and neighborhood guides"}]]}],["$","$L4",null,{"href":"/blog/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Blog"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Tips, comparisons, and local insights"}]]}]]}],["$","$L4",null,{"href":"/","className":"px-8 py-4 bg-brand-blue text-white font-display font-bold rounded-lg hover:bg-blue-600 transition-colors text-lg inline-block","children":"Back to Home"}]]}],"notFoundStyles":[]}]}],["$","footer",null,{"className":"bg-brand-dark text-gray-400","children":[["$","div",null,{"className":"bg-brand-navy","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10","children":["$","div",null,{"className":"grid md:grid-cols-3 gap-8 text-center","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Buying or Selling a Home?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Barrett Henry — The NOW Team at REMAX Collective"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 733-7907"}]]}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Need a Handyman?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Best Bay Services — Tampa Bay Home Services"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 416-8676"}]]}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Property Management"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"ViVi PM — Full-Service Property Management"}]]}]]}]}]}],["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8","children":[["$","div",null,{"className":"md:col-span-2","children":[["$","div",null,{"className":"font-display font-extrabold text-2xl text-white mb-3","children":["TB",["$","span",null,{"className":"text-brand-sky","children":"Relo"}]]}],["$","p",null,{"className":"text-sm leading-relaxed","children":"Your complete guide to relocating to Tampa Bay, Florida. Covering Hillsborough, Pinellas, Pasco, Hernando, Polk, Manatee, Sarasota, and Citrus counties with honest, local insight from someone who actually lives here."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Guides"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"hover:text-white transition-colors","children":"Moving to Tampa Bay"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/cost-of-living/","className":"hover:text-white transition-colors","children":"Cost of Living"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/moving-checklist/","className":"hover:text-white transition-colors","children":"Moving Checklist"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/blog/","className":"hover:text-white transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Counties"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li","Hillsborough",{"children":["$","$L4",null,{"href":"/counties/hillsborough/","className":"hover:text-white transition-colors","children":["Hillsborough"," County"]}]}],["$","li","Pinellas",{"children":["$","$L4",null,{"href":"/counties/pinellas/","className":"hover:text-white transition-colors","children":["Pinellas"," County"]}]}],["$","li","Pasco",{"children":["$","$L4",null,{"href":"/counties/pasco/","className":"hover:text-white transition-colors","children":["Pasco"," County"]}]}],["$","li","Hernando",{"children":["$","$L4",null,{"href":"/counties/hernando/","className":"hover:text-white transition-colors","children":["Hernando"," County"]}]}],["$","li","Polk",{"children":["$","$L4",null,{"href":"/counties/polk/","className":"hover:text-white transition-colors","children":["Polk"," County"]}]}],["$","li","Manatee",{"children":["$","$L4",null,{"href":"/counties/manatee/","className":"hover:text-white transition-colors","children":["Manatee"," County"]}]}],["$","li","Sarasota",{"children":["$","$L4",null,{"href":"/counties/sarasota/","className":"hover:text-white transition-colors","children":["Sarasota"," County"]}]}],["$","li","Citrus",{"children":["$","$L4",null,{"href":"/counties/citrus/","className":"hover:text-white transition-colors","children":["Citrus"," County"]}]}]]}]]}]]}],["$","div",null,{"className":"mt-10 pt-8 border-t border-gray-800","children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Barrett Henry's Network"}],["$","div",null,{"className":"grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3 text-sm","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Tampa Bay Real Estate"}],["$","a",null,{"href":"https://valricoagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Real Estate"}],["$","a",null,{"href":"https://parrishagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Parrish Real Estate"}],["$","a",null,{"href":"https://valrico.blog","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Community Blog"}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Handyman & Home Services"}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Property Management"}]]}]]}],["$","div",null,{"className":"mt-12 pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center gap-4 text-xs","children":[["$","p",null,{"children":["© ",2026," TB Relo. All rights reserved."]}],["$","div",null,{"className":"flex gap-4","children":[["$","$L4",null,{"href":"/affiliate-disclosure/","className":"hover:text-white transition-colors","children":"Affiliate Disclosure"}],["$","$L4",null,{"href":"/privacy-policy/","className":"hover:text-white transition-colors","children":"Privacy Policy"}],["$","$L4",null,{"href":"/disclaimer/","className":"hover:text-white transition-colors","children":"Disclaimer"}]]}]]}]]}],["$","div",null,{"className":"bg-black/30 border-t border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 text-center text-xs text-gray-500","children":["Site by"," ",["$","a",null,{"href":"https://vyrabyte.com","target":"_blank","rel":"noopener noreferrer","className":"text-gray-400 hover:text-white transition-colors","children":"Vyrabyte"}]]}]}]]}],["$","$Lc",null,{}]]}]]}]],null],null],["$Ld",null]]]]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Moving from Cincinnati to Tampa Bay — The Complete Relocation Guide | TB Relo | TB Relo"}],["$","meta","3",{"name":"description","content":"Moving from Cincinnati to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","6",{"property":"og:title","content":"Moving from Cincinnati to Tampa Bay — The Complete Relocation Guide | TB Relo | TB Relo"}],["$","meta","7",{"property":"og:description","content":"Moving from Cincinnati to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","8",{"property":"og:image","content":"https://tbrelo.com/images/blog/housing.jpg"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"Moving from Cincinnati to Tampa Bay — The Complete Relocation Guide | TB Relo | TB Relo"}],["$","meta","13",{"name":"twitter:description","content":"Moving from Cincinnati to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","14",{"name":"twitter:image","content":"https://tbrelo.com/images/blog/housing.jpg"}],["$","link","15",{"rel":"icon","href":"/icon.svg?ff4364d89c37c0d6","type":"image/svg+xml","sizes":"any"}]]
+1:null

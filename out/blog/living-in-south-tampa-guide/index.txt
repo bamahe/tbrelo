@@ -1,0 +1,265 @@
+3:I[5878,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"Image"]
+4:I[2972,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],""]
+6:I[5143,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"default"]
+7:I[4707,[],""]
+9:I[6423,[],""]
+a:I[8003,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],""]
+b:I[7312,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"default"]
+c:I[5463,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"SpeedInsights"]
+2:T12d9,[{"@context":"https://schema.org","@type":"Article","headline":"Living in South Tampa — What It's Really Like (Honest Relocation Guide) | TB Relo","description":"Living in South Tampa. Honest guide from a Tampa Bay local with 23+ years of experience.","url":"https://tbrelo.com/blog/living-in-south-tampa-guide/","author":{"@type":"Person","name":"Barrett Henry","jobTitle":"REALTOR® & Broker Associate","url":"https://nowtb.com","worksFor":{"@type":"Organization","name":"REMAX Collective"},"knowsAbout":["Tampa Bay Real Estate","Florida Relocation","Residential Real Estate","Investment Property","Property Management"]},"publisher":{"@type":"Organization","name":"TB Relo","url":"https://tbrelo.com"},"datePublished":"2025-01-11T08:00:00-04:00","dateModified":"2026-04-16T08:00:00-04:00","image":{"@type":"ImageObject","url":"https://tbrelo.com/images/blog/lifestyle.jpg"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Is South Tampa safe for families?","acceptedAnswer":{"@type":"Answer","text":"South Tampa consistently ranks among Tampa's safest areas, with low crime rates and active neighborhood watch programs. The main safety concerns are traffic-related due to narrow streets and pedestrian activity, plus standard hurricane preparedness that applies to all of Tampa Bay."}},{"@type":"Question","name":"How much do you need to earn to live comfortably in South Tampa?","acceptedAnswer":{"@type":"Answer","text":"For comfortable living in South Tampa, household income should be $200K-$300K annually. This allows for a $800K-$1.2M home purchase without being house-poor, plus covering the area's higher costs for dining, services, and social activities."}},{"@type":"Question","name":"Can you walk to restaurants and shopping in South Tampa?","acceptedAnswer":{"@type":"Answer","text":"Yes, particularly in Hyde Park and parts of Bayshore Beautiful. You can walk to dozens of restaurants, coffee shops, and basic services. However, major grocery shopping and most errands still require a car due to Florida's car-centric design."}},{"@type":"Question","name":"What's the best neighborhood in South Tampa for families?","acceptedAnswer":{"@type":"Answer","text":"Beach Park and Palma Ceia offer the best combination of excellent schools, family-friendly atmosphere, and relative value. Both provide easy access to Plant High School and have strong family communities, while being slightly less expensive than prime Hyde Park locations."}},{"@type":"Question","name":"How bad is the traffic in South Tampa?","acceptedAnswer":{"@type":"Answer","text":"Daily traffic is manageable but parking can be challenging, especially in Hyde Park during events. Rush hour commutes to other parts of Tampa Bay range from 20-45 minutes depending on destination. The narrow streets weren't designed for current traffic levels."}},{"@type":"Question","name":"Are South Tampa schools really that good?","acceptedAnswer":{"@type":"Answer","text":"Yes, South Tampa public schools consistently rank among Florida's best, with Plant High School earning national recognition. The combination of engaged families, excellent teachers, and strong community support creates educational opportunities that rival expensive private schools."}},{"@type":"Question","name":"What's hurricane risk like in South Tampa?","acceptedAnswer":{"@type":"Answer","text":"South Tampa faces the same hurricane risks as the rest of Tampa Bay, but higher elevation provides some flood protection compared to coastal areas. Most residents evacuate for major storms and budget $5K-$15K annually for preparation, potential damage, and insurance costs."}},{"@type":"Question","name":"Can you find affordable housing in South Tampa?","acceptedAnswer":{"@type":"Answer","text":"\"Affordable\" is relative — entry-level condos start around $350K and starter homes begin at $600K. For Tampa Bay standards, this is expensive, but South Tampa consistently holds its value better than other areas during market downturns."}},{"@type":"Question","name":"What's the social scene like in South Tampa?","acceptedAnswer":{"@type":"Answer","text":"Very active and somewhat exclusive. Much social life revolves around restaurants, country clubs, school activities, and neighborhood events. There's an expectation of participation in community activities and supporting local businesses, which can feel overwhelming to some newcomers."}},{"@type":"Question","name":"Should I buy in South Tampa or look at other Tampa Bay areas?","acceptedAnswer":{"@type":"Answer","text":"Buy in South Tampa if you value convenience, schools, and community over space and cost savings. Consider other areas like Seminole Heights, Tampa Palms, or St. Petersburg if you want more house for your money or prefer different lifestyle amenities."}}]}]5:T553c,<p>South Tampa isn't just another Florida neighborhood — it's the gold standard that every other Tampa area tries to measure itself against. After helping families relocate here for over two decades, I can tell you that South Tampa delivers on its reputation, but it comes with a price tag and some realities you need to understand before making the move.</p>
+<p>Let me give you the unfiltered truth about what life is really like in Tampa's most desirable area.</p>
+<h2>What Defines South Tampa</h2>
+<p>South Tampa encompasses everything below Kennedy Boulevard, stretching from the Hillsborough River to Tampa Bay. This isn't just geography — it's a lifestyle distinction that locals understand immediately.</p>
+<p>The area includes established neighborhoods like Hyde Park, Beach Park, Bayshore Beautiful, Palma Ceia, and parts of Westshore. Each has its own character, but they share common threads: mature oak canopies, walkable streets, and that indefinable sense of "arrival" that comes with living in Tampa's most prestigious zip codes.</p>
+<h3>The Geographic Reality</h3>
+<p>When people say "South Tampa," they're usually talking about the 33606, 33609, and 33611 zip codes, plus parts of 33629. It's bounded by:</p>
+<ul>
+<li><strong>North:</strong> Kennedy Boulevard (your dividing line)</li>
+<li><strong>East:</strong> Hillsborough River</li>
+<li><strong>South:</strong> Gandy Boulevard</li>
+<li><strong>West:</strong> Tampa Bay and Westshore Boulevard</li>
+</ul>
+<p>This geography matters because it puts you 10-15 minutes from downtown Tampa, 20 minutes from Tampa International Airport, and walking distance from some of the city's best restaurants and nightlife.</p>
+<h2>The Neighborhoods That Make South Tampa Special</h2>
+<h3>Hyde Park: The Crown Jewel</h3>
+<p>Hyde Park remains South Tampa's most recognizable neighborhood, and for good reason. Tree-lined streets like Hyde Park Avenue and Swann Avenue showcase million-dollar homes that actually feel livable, not ostentatious.</p>
+<p>The housing stock here ranges from 1920s bungalows ($800K-$1.2M) to new construction that can hit $3M+. What you're really buying is location — you can walk to Bern's Steak House, bike to Bayshore Boulevard, and your kids can attend some of Tampa's top-rated schools.</p>
+<p><strong>Real Talk:</strong> Parking is terrible during SoHo events, and the narrow streets weren't designed for today's traffic. But most residents consider this a small price for the lifestyle.</p>
+<h3>Beach Park: Old Money Vibes</h3>
+<p>Beach Park flies under the radar compared to Hyde Park, but locals know it's where generational Tampa families have quietly lived for decades. Homes here typically range from $600K to $1.5M, with larger lots and less foot traffic than downtown Hyde Park.</p>
+<p>The neighborhood centers around Plant High School — one of Florida's top public schools — and offers easy access to both Bayshore Boulevard and the Westshore business district.</p>
+<h3>Bayshore Beautiful: Premium Living</h3>
+<p>The stretch along Bayshore Boulevard from Hyde Park to Gandy represents some of Tampa's most expensive real estate. Homes here routinely sell for $2M-$5M+, offering direct bay access and unobstructed water views.</p>
+<p>This isn't just about the houses — it's about lifestyle. Morning runs along Bayshore's 4.5-mile sidewalk, yacht clubs, and the kind of entertaining spaces that make Tampa's social calendar.</p>
+<h3>Palma Ceia: Family-Focused Excellence</h3>
+<p>Palma Ceia offers the South Tampa lifestyle with slightly more space and often better value. Homes typically range from $500K to $1.2M, with larger lots and a strong family community centered around excellent schools.</p>
+<p>The Palma Ceia Golf &#x26; Country Club anchors the neighborhood, providing a social hub for families who want the country club lifestyle without leaving the city.</p>
+<h2>Housing Market Reality Check</h2>
+<h3>What You'll Actually Pay</h3>
+<p>Based on 2024 market conditions, here's what housing actually costs in South Tampa:</p>
+<p><strong>Condos/Townhomes:</strong></p>
+<ul>
+<li>Entry-level: $350K-$500K</li>
+<li>Mid-range: $500K-$800K</li>
+<li>Luxury: $800K-$1.5M+</li>
+</ul>
+<p><strong>Single-Family Homes:</strong></p>
+<ul>
+<li>Starter homes: $600K-$800K</li>
+<li>Move-up homes: $800K-$1.5M</li>
+<li>Luxury homes: $1.5M-$3M+</li>
+<li>Waterfront/Premium: $3M-$10M+</li>
+</ul>
+<h3>The Owners Suite Situation</h3>
+<p>Most South Tampa homes built before 1980 have smaller owners suites by today's standards. Many buyers end up renovating to create the spa-like retreat they're expecting. Budget an extra $50K-$100K if you're particular about your primary bedroom setup.</p>
+<p><strong>Pro Tip:</strong> New construction in South Tampa often means tearing down a perfectly good 1950s home. Make sure you're comfortable with this reality — and your neighbors' reactions to construction noise.</p>
+<h3>Property Taxes and HOA Fees</h3>
+<p>Hillsborough County property taxes will run about 1.2% of assessed value annually. For a $1M home, expect around $12,000 yearly in property taxes.</p>
+<p>Many South Tampa neighborhoods have voluntary civic associations ($100-$300 annually), but mandatory HOA fees are less common unless you're in a condo or townhome community.</p>
+<hr>
+<p><strong>Moving to Tampa Bay?</strong> Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.</p>
+<p><a href="https://nowtb.com">Contact Barrett →</a> | <a href="tel:8137337907">(813) 733-7907</a></p>
+<hr>
+<h2>Schools: The South Tampa Advantage</h2>
+<h3>Public School Excellence</h3>
+<p>South Tampa's location in <a href="/counties/hillsborough/">Hillsborough County</a> puts you in the district's most desirable school zones:</p>
+<p><strong>Elementary Schools:</strong></p>
+<ul>
+<li>Gorrie Elementary (A-rated)</li>
+<li>Hyde Park Elementary (A-rated)</li>
+<li>Palma Ceia Elementary (A-rated)</li>
+</ul>
+<p><strong>Middle Schools:</strong></p>
+<ul>
+<li>Coleman Middle School (A-rated)</li>
+<li>Wilson Middle School (A-rated)</li>
+</ul>
+<p><strong>High Schools:</strong></p>
+<ul>
+<li>Plant High School (A-rated, consistently ranked among Florida's top public schools)</li>
+</ul>
+<p>Plant High School deserves special mention — it's not just academically excellent, but offers robust athletics, arts programs, and college preparation that rivals many private schools. The school's reputation alone adds value to South Tampa homes.</p>
+<h3>Private School Options</h3>
+<p>South Tampa families also have access to excellent private schools:</p>
+<ul>
+<li><strong>Academy of the Holy Names:</strong> All-girls Catholic school with strong academics</li>
+<li><strong>Berkeley Preparatory School:</strong> Elite college prep in nearby Tampa Palms</li>
+<li><strong>Tampa Preparatory School:</strong> Small, rigorous college prep program</li>
+</ul>
+<p>Tuition ranges from $15K-$30K annually, but many South Tampa families see this as an investment in their children's futures.</p>
+<h3>The School Choice Reality</h3>
+<p>Here's what nobody tells you: even with great public schools, many South Tampa families still choose private education. This isn't about academics — it's about network building and social connections that extend beyond graduation.</p>
+<h2>Cost of Living: The Full Picture</h2>
+<h3>Housing Costs Dominate</h3>
+<p>Housing will consume 30-40% of your income if you're buying in South Tampa's sweet spot ($800K-$1.2M homes). For a $1M home with 20% down:</p>
+<ul>
+<li>Monthly mortgage: ~$5,200 (at 7% interest)</li>
+<li>Property taxes: ~$1,000/month</li>
+<li>Insurance: ~$400/month</li>
+<li>Total housing: ~$6,600/month</li>
+</ul>
+<h3>Daily Living Expenses</h3>
+<p><strong>Groceries:</strong> Publix and Fresh Market are your main options, with prices 10-15% above national average. A weekly grocery run for a family of four runs $150-$200.</p>
+<p><strong>Utilities:</strong> Electric bills average $180-$250/month (hello, Florida summers). Water/sewer runs another $80-$120 monthly.</p>
+<p><strong>Transportation:</strong> Gas prices typically track 10-20 cents above national average. Most families need two cars — parking downtown or at Tampa International can add up.</p>
+<h3>The Hidden Costs</h3>
+<ul>
+<li><strong>Restaurant culture:</strong> South Tampa's dining scene is expensive but irresistible. Budget $200-$300/month for date nights and family dining.</li>
+<li><strong>Private clubs:</strong> Many social connections happen at country clubs ($200-$500+ monthly dues).</li>
+<li><strong>Home maintenance:</strong> Older homes need constant attention. Hurricane prep and recovery can hit $5K-$15K annually.</li>
+</ul>
+<p>For more detailed cost analysis, check our <a href="/cost-of-living/">comprehensive cost of living guide</a>.</p>
+<h2>Dining and Entertainment: Why People Stay</h2>
+<h3>Restaurant Scene That Rivals Any City</h3>
+<p>South Tampa's dining scene punches way above its weight class:</p>
+<p><strong>Fine Dining:</strong></p>
+<ul>
+<li><strong>Bern's Steak House:</strong> The legendary steakhouse that put Tampa on the culinary map</li>
+<li><strong>Haven:</strong> Modern American with impeccable service</li>
+<li><strong>Ocean Prime:</strong> Upscale seafood that's become a South Tampa institution</li>
+</ul>
+<p><strong>Neighborhood Favorites:</strong></p>
+<ul>
+<li><strong>Datz:</strong> Comfort food that draws lines around the block</li>
+<li><strong>The Refinery:</strong> Farm-to-table dining that locals actually frequent</li>
+<li><strong>Mise en Place:</strong> Consistently excellent for 25+ years</li>
+</ul>
+<p><strong>SoHo District:</strong> Hyde Park's entertainment district offers everything from craft cocktails at The Sail Pavilion to casual drinks at MacDinton's Irish Pub.</p>
+<h3>Cultural Attractions</h3>
+<ul>
+<li><strong>Tampa Theatre:</strong> Historic movie palace showing independent and classic films</li>
+<li><strong>Tampa Museum of Art:</strong> Small but excellent collection with rotating exhibitions</li>
+<li><strong>Straz Center:</strong> Major touring Broadway shows and concerts</li>
+</ul>
+<h3>Bayshore Boulevard: The Crown Jewel</h3>
+<p>The 4.5-mile continuous sidewalk along Tampa Bay isn't just exercise infrastructure — it's South Tampa's social spine. Morning runs, evening walks, weekend bike rides, and festival gatherings all happen here.</p>
+<p><strong>Knight's Parade:</strong> The annual Gasparilla celebration turns Bayshore into Tampa's biggest party, but residents get front-row seats from their yards.</p>
+<h2>Transportation and Commuting</h2>
+<h3>Getting Around South Tampa</h3>
+<p><strong>Walkability:</strong> Hyde Park and parts of Bayshore are genuinely walkable for daily needs. You can walk to restaurants, coffee shops, and basic services.</p>
+<p><strong>Biking:</strong> Flat terrain and increasing bike infrastructure make cycling viable for short trips. The Bayshore Boulevard bike lane connects to downtown Tampa.</p>
+<p><strong>Public Transit:</strong> HART bus service exists but isn't practical for most residents. This is a car-dependent area.</p>
+<h3>Commute Realities</h3>
+<p><strong>To Downtown Tampa:</strong> 10-15 minutes by car, depending on traffic and parking availability.</p>
+<p><strong>To Westshore/Airport:</strong> 15-20 minutes to the business district, 20-25 minutes to Tampa International Airport.</p>
+<p><strong>To St. Petersburg:</strong> 25-35 minutes via Gandy or Howard Frankland bridges, but traffic can double this during rush hours.</p>
+<p><strong>To Brandon/East Tampa:</strong> 30-45 minutes, and you'll fight traffic both directions.</p>
+<h3>Parking Challenges</h3>
+<p>Street parking in Hyde Park can be nightmare during events. Many homes have driveways for 1-2 cars, but entertaining often means creative parking solutions.</p>
+<p>Downtown Tampa parking runs $10-$20 for events, so factor this into your social budget.</p>
+<h2>Weather and Lifestyle Considerations</h2>
+<h3>The Florida Reality</h3>
+<p><strong>Summers:</strong> Hot, humid, and long. June through September means 90°+ temperatures with afternoon thunderstorms. Your electric bill will reflect this reality.</p>
+<p><strong>Hurricane Season:</strong> June through November brings genuine risk. South Tampa's elevation provides some flood protection, but wind damage is always possible. Insurance and preparation aren't optional.</p>
+<p><strong>Winter:</strong> This is why you moved here. December through March offers perfect weather — 70°+ days, low humidity, and outdoor dining season.</p>
+<h3>The Social Calendar</h3>
+<p>South Tampa operates on a seasonal social calendar:</p>
+<p><strong>Fall/Winter:</strong> Peak season for outdoor events, restaurant patios, and social gatherings
+<strong>Spring:</strong> Festival season, including Gasparilla and various food/wine events<br>
+<strong>Summer:</strong> Pool parties, boat days, and indoor gathering season</p>
+<h3>Outdoor Living</h3>
+<p>Most South Tampa homes feature pools, outdoor kitchens, or screened porches — not as luxury items, but as practical necessities for year-round outdoor living.</p>
+<h2>Shopping and Services</h2>
+<h3>Everyday Shopping</h3>
+<p><strong>Publix:</strong> Your primary grocery option, with several locations throughout South Tampa
+<strong>Fresh Market:</strong> Upscale groceries for special occasions
+<strong>Target/CVS/Walgreens:</strong> Basic needs covered without leaving the area</p>
+<h3>Specialty Shopping</h3>
+<p><strong>Hyde Park Village:</strong> Outdoor shopping center with mid-to-upscale retail
+<strong>International Plaza:</strong> 15 minutes away for major department stores and luxury brands
+<strong>Westshore Plaza:</strong> Traditional mall for mainstream shopping</p>
+<h3>Professional Services</h3>
+<p>South Tampa attracts high-quality service providers:</p>
+<ul>
+<li><strong>Medical:</strong> Tampa General Hospital and excellent specialist practices</li>
+<li><strong>Legal/Financial:</strong> Many professionals live and work in the area</li>
+<li><strong>Home Services:</strong> Premium contractors, but expect to pay premium prices</li>
+</ul>
+<h2>The Community Culture</h2>
+<h3>Who Lives Here</h3>
+<p>South Tampa attracts:</p>
+<ul>
+<li><strong>Established professionals:</strong> Doctors, lawyers, business owners who've "made it"</li>
+<li><strong>Young families:</strong> Often relocating from other major cities for lifestyle and schools</li>
+<li><strong>Empty nesters:</strong> Trading suburban space for urban convenience</li>
+<li><strong>Generational families:</strong> Tampa natives who never left (or came back)</li>
+</ul>
+<h3>Social Dynamics</h3>
+<p><strong>Country club culture:</strong> Many social and business connections happen at private clubs
+<strong>School networks:</strong> Youth sports and school activities drive much of family social life
+<strong>Neighborhood events:</strong> Block parties, civic association meetings, and informal gatherings
+<strong>Professional networks:</strong> Business relationships often extend to personal friendships</p>
+<h3>The Unspoken Rules</h3>
+<ul>
+<li><strong>Lawn maintenance matters:</strong> This isn't suburbia, but appearance standards remain high</li>
+<li><strong>Hurricane prep is community-minded:</strong> Neighbors help neighbors with storm preparation and cleanup</li>
+<li><strong>Traffic courtesy:</strong> Narrow streets require patience and cooperation</li>
+<li><strong>Support local:</strong> Shopping and dining locally isn't just convenient, it's expected</li>
+</ul>
+<h2>Pros and Cons: The Honest Assessment</h2>
+<h3>What Makes South Tampa Special</h3>
+<p><strong>Location, Location, Location:</strong> 15 minutes to everything that matters in Tampa
+<strong>Schools:</strong> Access to the county's best public schools plus excellent private options
+<strong>Walkability:</strong> Rare in Florida — actual pedestrian-friendly neighborhoods
+<strong>Investment Value:</strong> Consistent appreciation and strong resale demand
+<strong>Community:</strong> Established neighborhoods with real character and social infrastructure
+<strong>Dining Scene:</strong> Restaurant quality that rivals much larger cities</p>
+<h3>The Challenges You'll Face</h3>
+<p><strong>Cost:</strong> Everything is expensive — housing, dining, services, and social expectations
+<strong>Traffic:</strong> Narrow streets and increasing density create daily frustration
+<strong>Hurricane Risk:</strong> Annual threat that requires preparation and potential evacuation
+<strong>Parking:</strong> Limited and competitive, especially during events
+<strong>Social Pressure:</strong> Keeping up with successful neighbors can be exhausting
+<strong>Construction:</strong> Constant teardowns and rebuilds create noise and traffic disruption</p>
+<h2>Making the Decision: Is South Tampa Right for You?</h2>
+<h3>You'll Love It If You:</h3>
+<ul>
+<li>Value walkable neighborhoods over suburban space</li>
+<li>Appreciate dining and cultural amenities</li>
+<li>Want top-tier schools for your children</li>
+<li>Enjoy an active social calendar</li>
+<li>Can afford the premium without stress</li>
+<li>Like being close to downtown and the airport</li>
+</ul>
+<h3>Consider Other Options If You:</h3>
+<ul>
+<li>Need more space for less money</li>
+<li>Prefer quiet suburban living</li>
+<li>Want a large yard and privacy</li>
+<li>Are cost-conscious about dining and entertainment</li>
+<li>Dislike traffic and parking challenges</li>
+<li>Prefer newer construction over historic charm</li>
+</ul>
+<hr>
+<p><strong>Moving to Tampa Bay?</strong> Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.</p>
+<p><a href="https://nowtb.com">Contact Barrett →</a> | <a href="tel:8137337907">(813) 733-7907</a></p>
+<hr>
+<h2>The Bottom Line</h2>
+<p>Living in South Tampa means paying premium prices for premium lifestyle. It's not the right choice for everyone, but for families who value location, schools, and community, it's often worth every dollar.</p>
+<p>The key is being honest about your budget and priorities. If you can afford South Tampa without stretching, you'll love the convenience, culture, and community. If the costs stress you out, you'll be happier in other Tampa Bay neighborhoods that offer more space and value.</p>
+<p>After 23 years of helping families relocate, I've seen both outcomes. The happiest South Tampa residents are those who buy what they can comfortably afford and embrace the neighborhood's character — narrow streets, hurricane prep, and all.</p>
+<h2>Frequently Asked Questions</h2>
+<h3>Is South Tampa safe for families?</h3>
+<p>South Tampa consistently ranks among Tampa's safest areas, with low crime rates and active neighborhood watch programs. The main safety concerns are traffic-related due to narrow streets and pedestrian activity, plus standard hurricane preparedness that applies to all of Tampa Bay.</p>
+<h3>How much do you need to earn to live comfortably in South Tampa?</h3>
+<p>For comfortable living in South Tampa, household income should be $200K-$300K annually. This allows for a $800K-$1.2M home purchase without being house-poor, plus covering the area's higher costs for dining, services, and social activities.</p>
+<h3>Can you walk to restaurants and shopping in South Tampa?</h3>
+<p>Yes, particularly in Hyde Park and parts of Bayshore Beautiful. You can walk to dozens of restaurants, coffee shops, and basic services. However, major grocery shopping and most errands still require a car due to Florida's car-centric design.</p>
+<h3>What's the best neighborhood in South Tampa for families?</h3>
+<p>Beach Park and Palma Ceia offer the best combination of excellent schools, family-friendly atmosphere, and relative value. Both provide easy access to Plant High School and have strong family communities, while being slightly less expensive than prime Hyde Park locations.</p>
+<h3>How bad is the traffic in South Tampa?</h3>
+<p>Daily traffic is manageable but parking can be challenging, especially in Hyde Park during events. Rush hour commutes to other parts of Tampa Bay range from 20-45 minutes depending on destination. The narrow streets weren't designed for current traffic levels.</p>
+<h3>Are South Tampa schools really that good?</h3>
+<p>Yes, South Tampa public schools consistently rank among Florida's best, with Plant High School earning national recognition. The combination of engaged families, excellent teachers, and strong community support creates educational opportunities that rival expensive private schools.</p>
+<h3>What's hurricane risk like in South Tampa?</h3>
+<p>South Tampa faces the same hurricane risks as the rest of Tampa Bay, but higher elevation provides some flood protection compared to coastal areas. Most residents evacuate for major storms and budget $5K-$15K annually for preparation, potential damage, and insurance costs.</p>
+<h3>Can you find affordable housing in South Tampa?</h3>
+<p>"Affordable" is relative — entry-level condos start around $350K and starter homes begin at $600K. For Tampa Bay standards, this is expensive, but South Tampa consistently holds its value better than other areas during market downturns.</p>
+<h3>What's the social scene like in South Tampa?</h3>
+<p>Very active and somewhat exclusive. Much social life revolves around restaurants, country clubs, school activities, and neighborhood events. There's an expectation of participation in community activities and supporting local businesses, which can feel overwhelming to some newcomers.</p>
+<h3>Should I buy in South Tampa or look at other Tampa Bay areas?</h3>
+<p>Buy in South Tampa if you value convenience, schools, and community over space and cost savings. Consider other areas like Seminole Heights, Tampa Palms, or St. Petersburg if you want more house for your money or prefer different lifestyle amenities.</p>
+8:["slug","living-in-south-tampa-guide","d"]
+0:["SZLIdUDBKVit2TP_UqbYL",[[["",{"children":["blog",{"children":[["slug","living-in-south-tampa-guide","d"],{"children":["__PAGE__?{\"slug\":\"living-in-south-tampa-guide\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","living-in-south-tampa-guide","d"],{"children":["__PAGE__",{},[["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","section",null,{"className":"relative w-full h-[200px] md:h-[300px] overflow-hidden bg-brand-navy","children":[["$","$L3",null,{"src":"/images/blog/lifestyle.jpg","alt":"Living in South Tampa — What It's Really Like (Honest Relocation Guide)","fill":true,"className":"object-cover","unoptimized":true,"priority":true}],["$","div",null,{"className":"absolute inset-0 bg-brand-navy/60"}],["$","div",null,{"className":"relative z-10 flex flex-col items-center justify-center h-full px-4 text-center","children":[["$","h1",null,{"className":"text-white text-3xl md:text-5xl font-display font-extrabold leading-tight max-w-4xl","children":"Living in South Tampa — What It's Really Like (Honest Relocation Guide)"}],"$undefined"]}]]}],["$","article",null,{"className":"max-w-4xl mx-auto px-4 py-10","children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://tbrelo.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://tbrelo.com/blog/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Living in South Tampa — What It's Really Like (Honest Relocation Guide)\",\"item\":\"https://tbrelo.com/blog/living-in-south-tampa-guide/\"}]}"}}],["$","nav",null,{"aria-label":"Breadcrumb","className":"text-sm text-brand-slate mb-6","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-1","children":[["$","li","/",{"className":"flex items-center gap-1","children":[false,["$","$L4",null,{"href":"/","className":"hover:text-brand-blue transition-colors","children":"Home"}]]}],["$","li","/blog/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","$L4",null,{"href":"/blog/","className":"hover:text-brand-blue transition-colors","children":"Blog"}]]}],["$","li","/blog/living-in-south-tampa-guide/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","span",null,{"className":"text-brand-navy font-medium","children":"Living in South Tampa — What It's Really Like (Honest Relocation Guide)"}]]}]]}]}]],["$","p",null,{"className":"text-brand-slate text-sm mb-8","children":["Published ","January 11, 2025"]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$5"}}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"cta-box-primary","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-white","children":"Moving to Tampa Bay? Get a Local Expert."}],["$","p",null,{"className":"text-sm mb-4 text-white","children":"Barrett Henry is a Broker Associate with REMAX Collective and over 23 years of real estate experience. Straight talk, smart strategy, no pressure."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-blue text-white hover:bg-blue-600","children":["Contact Barrett"," →"]}],["$","a",null,{"href":"tel:8137337907","className":"text-sm text-white","children":"(813) 733-7907"}]]}]]}],["$","div",null,{"className":"cta-box","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-brand-navy","children":"Need Help Setting Up Your New Home?"}],["$","p",null,{"className":"text-sm mb-4 text-brand-slate","children":"Best Bay Services handles handyman work, home repairs, and maintenance for your new Tampa Bay home. Local, licensed, and trusted."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-navy text-white hover:bg-brand-dark","children":["Get a Quote"," →"]}],["$","a",null,{"href":"tel:8134168676","className":"text-sm text-brand-blue","children":"(813) 416-8676"}]]}]]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","$L6",null,{"blogSlug":"living-in-south-tampa-guide"}]]}]],null],null],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$8","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/db2729ad4a9f0783.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link",null,{"rel":"icon","href":"/favicon-32.png","type":"image/png","sizes":"32x32"}],["$","link",null,{"rel":"icon","href":"/favicon-16.png","type":"image/png","sizes":"16x16"}],["$","link",null,{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link",null,{"rel":"icon","href":"/icon-192.png","type":"image/png","sizes":"192x192"}],["$","meta",null,{"name":"google-adsense-account","content":"ca-pub-2033173419526042"}],["$","meta",null,{"name":"impact-site-verification","content":"bb623f40-9653-4312-9ca8-bf35b957a10c"}],["$","$La",null,{"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2033173419526042","strategy":"afterInteractive","crossOrigin":"anonymous"}],["$","$La",null,{"src":"https://www.googletagmanager.com/gtag/js?id=G-TD87S02SLM","strategy":"afterInteractive"}],["$","$La",null,{"id":"gtag-init","strategy":"afterInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'G-TD87S02SLM');\n          "}]]}],["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"[{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"https://tbrelo.com/#website\",\"name\":\"TB Relo — Tampa Bay Relocation Guide\",\"url\":\"https://tbrelo.com\",\"description\":\"Comprehensive relocation guides for Tampa Bay, Florida. Covering 8 counties, 100+ cities, cost of living, schools, and everything you need to know about moving to Tampa Bay.\",\"publisher\":{\"@id\":\"https://tbrelo.com/#org\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://tbrelo.com/blog/?q={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}},{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://tbrelo.com/#org\",\"name\":\"TB Relo\",\"url\":\"https://tbrelo.com\",\"sameAs\":[\"https://nowtb.com\",\"https://valricoagent.com\",\"https://parrishagent.com\",\"https://www.facebook.com/BarrettHenryREALTOR/\",\"https://www.instagram.com/thenowteam\",\"https://www.youtube.com/@nowtampa\"]}]"}}],["$","$Lb",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"max-w-2xl mx-auto px-4 py-20 text-center","children":[["$","h1",null,{"className":"text-6xl font-display font-extrabold text-brand-navy mb-4","children":"404"}],["$","p",null,{"className":"text-xl text-brand-slate mb-8","children":"This page doesn't exist. Maybe you're looking for one of these?"}],["$","div",null,{"className":"grid sm:grid-cols-2 gap-4 mb-12 text-left","children":[["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Moving Guide"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Complete guide to relocating to Tampa Bay"}]]}],["$","$L4",null,{"href":"/counties/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Explore Counties"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Browse all 8 Tampa Bay counties"}]]}],["$","$L4",null,{"href":"/cities/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Find a City"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"90+ city and neighborhood guides"}]]}],["$","$L4",null,{"href":"/blog/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Blog"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Tips, comparisons, and local insights"}]]}]]}],["$","$L4",null,{"href":"/","className":"px-8 py-4 bg-brand-blue text-white font-display font-bold rounded-lg hover:bg-blue-600 transition-colors text-lg inline-block","children":"Back to Home"}]]}],"notFoundStyles":[]}]}],["$","footer",null,{"className":"bg-brand-dark text-gray-400","children":[["$","div",null,{"className":"bg-brand-navy","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10","children":["$","div",null,{"className":"grid md:grid-cols-3 gap-8 text-center","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Buying or Selling a Home?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Barrett Henry — The NOW Team at REMAX Collective"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 733-7907"}]]}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Need a Handyman?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Best Bay Services — Tampa Bay Home Services"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 416-8676"}]]}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Property Management"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"ViVi PM — Full-Service Property Management"}]]}]]}]}]}],["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8","children":[["$","div",null,{"className":"md:col-span-2","children":[["$","div",null,{"className":"font-display font-extrabold text-2xl text-white mb-3","children":["TB",["$","span",null,{"className":"text-brand-sky","children":"Relo"}]]}],["$","p",null,{"className":"text-sm leading-relaxed","children":"Your complete guide to relocating to Tampa Bay, Florida. Covering Hillsborough, Pinellas, Pasco, Hernando, Polk, Manatee, Sarasota, and Citrus counties with honest, local insight from someone who actually lives here."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Guides"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"hover:text-white transition-colors","children":"Moving to Tampa Bay"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/cost-of-living/","className":"hover:text-white transition-colors","children":"Cost of Living"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/moving-checklist/","className":"hover:text-white transition-colors","children":"Moving Checklist"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/blog/","className":"hover:text-white transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Counties"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li","Hillsborough",{"children":["$","$L4",null,{"href":"/counties/hillsborough/","className":"hover:text-white transition-colors","children":["Hillsborough"," County"]}]}],["$","li","Pinellas",{"children":["$","$L4",null,{"href":"/counties/pinellas/","className":"hover:text-white transition-colors","children":["Pinellas"," County"]}]}],["$","li","Pasco",{"children":["$","$L4",null,{"href":"/counties/pasco/","className":"hover:text-white transition-colors","children":["Pasco"," County"]}]}],["$","li","Hernando",{"children":["$","$L4",null,{"href":"/counties/hernando/","className":"hover:text-white transition-colors","children":["Hernando"," County"]}]}],["$","li","Polk",{"children":["$","$L4",null,{"href":"/counties/polk/","className":"hover:text-white transition-colors","children":["Polk"," County"]}]}],["$","li","Manatee",{"children":["$","$L4",null,{"href":"/counties/manatee/","className":"hover:text-white transition-colors","children":["Manatee"," County"]}]}],["$","li","Sarasota",{"children":["$","$L4",null,{"href":"/counties/sarasota/","className":"hover:text-white transition-colors","children":["Sarasota"," County"]}]}],["$","li","Citrus",{"children":["$","$L4",null,{"href":"/counties/citrus/","className":"hover:text-white transition-colors","children":["Citrus"," County"]}]}]]}]]}]]}],["$","div",null,{"className":"mt-10 pt-8 border-t border-gray-800","children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Barrett Henry's Network"}],["$","div",null,{"className":"grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3 text-sm","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Tampa Bay Real Estate"}],["$","a",null,{"href":"https://valricoagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Real Estate"}],["$","a",null,{"href":"https://parrishagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Parrish Real Estate"}],["$","a",null,{"href":"https://valrico.blog","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Community Blog"}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Handyman & Home Services"}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Property Management"}]]}]]}],["$","div",null,{"className":"mt-12 pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center gap-4 text-xs","children":[["$","p",null,{"children":["© ",2026," TB Relo. All rights reserved."]}],["$","div",null,{"className":"flex gap-4","children":[["$","$L4",null,{"href":"/affiliate-disclosure/","className":"hover:text-white transition-colors","children":"Affiliate Disclosure"}],["$","$L4",null,{"href":"/privacy-policy/","className":"hover:text-white transition-colors","children":"Privacy Policy"}],["$","$L4",null,{"href":"/disclaimer/","className":"hover:text-white transition-colors","children":"Disclaimer"}]]}]]}]]}],["$","div",null,{"className":"bg-black/30 border-t border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 text-center text-xs text-gray-500","children":["Site by"," ",["$","a",null,{"href":"https://vyrabyte.com","target":"_blank","rel":"noopener noreferrer","className":"text-gray-400 hover:text-white transition-colors","children":"Vyrabyte"}]]}]}]]}],["$","$Lc",null,{}]]}]]}]],null],null],["$Ld",null]]]]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Living in South Tampa — What It's Really Like (Honest Relocation Guide) | TB Relo | TB Relo"}],["$","meta","3",{"name":"description","content":"Living in South Tampa. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","6",{"property":"og:title","content":"Living in South Tampa — What It's Really Like (Honest Relocation Guide) | TB Relo | TB Relo"}],["$","meta","7",{"property":"og:description","content":"Living in South Tampa. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","8",{"property":"og:image","content":"https://tbrelo.com/images/blog/lifestyle.jpg"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"Living in South Tampa — What It's Really Like (Honest Relocation Guide) | TB Relo | TB Relo"}],["$","meta","13",{"name":"twitter:description","content":"Living in South Tampa. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","14",{"name":"twitter:image","content":"https://tbrelo.com/images/blog/lifestyle.jpg"}],["$","link","15",{"rel":"icon","href":"/icon.svg?ff4364d89c37c0d6","type":"image/svg+xml","sizes":"any"}]]
+1:null

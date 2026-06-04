@@ -1,0 +1,231 @@
+3:I[5878,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"Image"]
+4:I[2972,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],""]
+6:I[5143,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"default"]
+7:I[4707,[],""]
+9:I[6423,[],""]
+a:I[8003,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],""]
+b:I[7312,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"default"]
+c:I[5463,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"SpeedInsights"]
+2:Te36,[{"@context":"https://schema.org","@type":"Article","headline":"Florida Power Outage Survival: What Happens When the AC Dies | TB Relo","description":"Florida Power Outage Survival: What Happens When the AC Dies. Honest guide from a Tampa Bay local with 23+ years of experience.","url":"https://tbrelo.com/blog/florida-power-outage-survival/","author":{"@type":"Person","name":"Barrett Henry","jobTitle":"REALTOR® & Broker Associate","url":"https://nowtb.com","worksFor":{"@type":"Organization","name":"REMAX Collective"},"knowsAbout":["Tampa Bay Real Estate","Florida Relocation","Residential Real Estate","Investment Property","Property Management"]},"publisher":{"@type":"Organization","name":"TB Relo","url":"https://tbrelo.com"},"datePublished":"2024-10-01T08:00:00-04:00","dateModified":"2026-04-15T08:00:00-04:00","image":{"@type":"ImageObject","url":"https://tbrelo.com/images/blog/housing.jpg"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How long can I safely keep my refrigerator closed during a power outage?","acceptedAnswer":{"@type":"Answer","text":"Keep your refrigerator closed and it will maintain safe temperatures for about 4 hours. A full freezer will keep food frozen for 48 hours, while a half-full freezer lasts about 24 hours. After these timeframes, start moving essential items to coolers with ice or consider the food unsafe."}},{"@type":"Question","name":"What size generator do I need for a typical Florida home?","acceptedAnswer":{"@type":"Answer","text":"Most families need a 3,500-5,000 watt portable generator to run essentials: refrigerator, lights, fans, phone chargers, and either a small window AC or multiple fans. Whole-house generators require 15,000-20,000 watts and cost $5,000-15,000 installed, but they automatically kick on and can run your entire home."}},{"@type":"Question","name":"Should I buy a generator that runs on gas or propane?","acceptedAnswer":{"@type":"Answer","text":"Dual-fuel generators that run on both gasoline and propane offer the most flexibility. Gasoline is widely available but degrades over time. Propane stores indefinitely and burns cleaner, but requires having tanks on hand. Most Florida residents keep both fuel types available."}},{"@type":"Question","name":"Is it safe to run a generator during a thunderstorm?","acceptedAnswer":{"@type":"Answer","text":"Never run a generator in rain or standing water. You can use a generator during storms if it's properly covered and ventilated, but ensure it's on dry ground and protected from direct rainfall. Many people build simple rain covers or purchase generator tents for weather protection."}},{"@type":"Question","name":"How do I know when it's too dangerous to stay in my house without power?","acceptedAnswer":{"@type":"Answer","text":"Leave immediately if indoor temperatures exceed 90°F for extended periods, if anyone shows heat exhaustion symptoms, or if you have family members with medical conditions requiring climate control. Infants, elderly adults, and people with chronic health conditions are especially vulnerable to heat-related illness."}},{"@type":"Question","name":"What's the difference between power outages in different Tampa Bay counties?","acceptedAnswer":{"@type":"Answer","text":"Urban areas like South Tampa and downtown St. Pete typically get power restored within 2-8 hours due to better infrastructure and priority restoration. Rural areas in Pasco and Hernando counties may wait days or weeks after major storms. Newer developments generally have more reliable power than older neighborhoods with aging electrical systems."}}]}]5:T42eb,<p>When that Florida summer heat hits 95°F with humidity that makes it feel like 110°F, and then <em>click</em> — your power goes out. Welcome to one of Florida's most dreaded scenarios. After 23 years of helping families relocate to Tampa Bay, I've seen newcomers completely unprepared for what happens when modern life suddenly stops working in paradise.</p>
+<p>Your AC dies. Your refrigerator becomes a very expensive insulated box. Your phone starts overheating. And you realize that living in Florida without electricity isn't just uncomfortable — it can be dangerous.</p>
+<p>Let me walk you through exactly how to survive Florida power outages, because if you're moving here, this will happen to you. Not if, when.</p>
+<h2>The Reality of Florida Power Outages</h2>
+<p>Duke Energy, TECO, and FPL serve most of Tampa Bay, and they're actually pretty reliable. But Florida throws curveballs that would make other states weep. Lightning strikes more here than anywhere else in the US. Hurricane season runs June through November. Summer thunderstorms can knock out power to entire neighborhoods in Westchase or New Tampa with one well-placed lightning bolt.</p>
+<p>In Hillsborough County alone, we average 15-20 major outage events per year. Some last 30 minutes. Others — like after Hurricane Ian — lasted weeks in certain areas. The difference between being miserable and being prepared comes down to having a plan before you need it.</p>
+<h3>How Long Do Outages Typically Last?</h3>
+<ul>
+<li><strong>Storm-related outages:</strong> 2-8 hours average</li>
+<li><strong>Equipment failure:</strong> 1-4 hours</li>
+<li><strong>Hurricane damage:</strong> 3-21 days (depending on severity)</li>
+<li><strong>Grid overload (summer peak):</strong> 30 minutes to 3 hours</li>
+</ul>
+<p>The longest I've personally been without power was 11 days after Hurricane Charley in 2004. My clients in South Tampa got power back in 2 days. My neighbors in Riverview waited 13 days. Location matters, and backup plans matter more.</p>
+<h2>Your Power Outage Survival Kit</h2>
+<p>Forget the generic emergency lists you see online. This is what actually works in Florida heat and humidity.</p>
+<h3>Generator Essentials</h3>
+<p>A portable generator isn't a luxury here — it's survival equipment. You need at least 3,000 watts to run essentials: refrigerator, a few lights, phone chargers, and a small window AC unit or several fans.</p>
+<p><strong>Best options for most families:</strong></p>
+<ul>
+<li><strong>Champion 3500-watt dual fuel generator</strong> (<a href="%7B%7Bamazon:B074Z7N1T8%7D%7D">Champion 3500</a>): Runs on gas or propane, quieter than most</li>
+<li><strong>Honda EU3000iS</strong> (<a href="%7B%7Bamazon:B000BGOMUO%7D%7D">Honda EU3000iS</a>): More expensive but incredibly reliable and fuel-efficient</li>
+<li><strong>Westinghouse WGen3600</strong> (<a href="%7B%7Bamazon:B07FN3BXHM%7D%7D">Westinghouse WGen3600</a>): Good middle-ground option</li>
+</ul>
+<p><strong>Generator placement rules:</strong></p>
+<ul>
+<li>Never inside your house, garage, or enclosed porch</li>
+<li>At least 15 feet from any window or door</li>
+<li>On concrete or level ground (not grass during rainy season)</li>
+<li>Cover from rain but ensure ventilation</li>
+</ul>
+<p>I keep mine on the side of my house near the electrical panel, with a transfer switch installed by an electrician. Cost about $800 for the switch and installation, but I can have essentials running in under 5 minutes.</p>
+<h3>Cooling Strategy When AC Dies</h3>
+<p>Your central air conditioner is probably a 3-5 ton unit drawing 3,000-5,000 watts. Most portable generators can't handle that load. Here's your cooling hierarchy:</p>
+<p><strong>Tier 1: Immediate relief</strong></p>
+<ul>
+<li>Battery-powered fans (<a href="%7B%7Bamazon:B005RQNKPC%7D%7D">O2COOL 10-inch</a>): 24+ hour runtime</li>
+<li>Cooling towels (<a href="%7B%7Bamazon:B000SJBDMQ%7D%7D">Frogg Toggs Chilly Pad</a>): Soak in cold water, provides hours of relief</li>
+<li>Ice packs on pulse points: wrists, neck, ankles</li>
+</ul>
+<p><strong>Tier 2: Generator-powered solutions</strong></p>
+<ul>
+<li>Small window AC unit (5,000 BTU): Cool one bedroom to 75-78°F</li>
+<li>Multiple box fans: Create cross-ventilation</li>
+<li>Swamp coolers: Work okay if humidity isn't too high</li>
+</ul>
+<p><strong>Tier 3: No-power backup</strong></p>
+<ul>
+<li>Move to the lowest floor (heat rises)</li>
+<li>Create cross-breezes with doors and windows</li>
+<li>Wet sheets technique: Hang damp sheets in front of open windows</li>
+</ul>
+<h3>Food and Water Safety</h3>
+<p>Your refrigerator will keep food cold for about 4 hours with the door closed. Your freezer will hold for 24-48 hours if full, 24 hours if half-full. After that, you're gambling with food poisoning.</p>
+<p><strong>Ice strategy:</strong>
+Stock up early. When storm warnings hit Tampa Bay, ice disappears from Publix and Winn-Dixie within hours. I keep two <a href="%7B%7Bamazon:B07D5Q1MW1%7D%7D">RTIC 45-quart coolers</a> in my garage specifically for outages.</p>
+<p><strong>Water concerns:</strong>
+Most areas maintain water pressure during outages, but not all. Fill bathtubs and containers before storms. One gallon per person per day minimum. In summer heat, you'll need more.</p>
+<p><strong>Foods that survive without refrigeration:</strong></p>
+<ul>
+<li>Peanut butter, bread, crackers</li>
+<li>Canned goods with pull-top lids (no can opener needed)</li>
+<li>Granola bars, dried fruits</li>
+<li>Baby formula (if you have infants)</li>
+</ul>
+<h2>Room-by-Room Survival Strategy</h2>
+<h3>Owners Suite and Bedrooms</h3>
+<p>The upstairs owners suite that seemed perfect when house hunting? It becomes a sauna without AC. Heat rises, and that bonus room above the garage hits 100°F+ by noon.</p>
+<p><strong>Cooling tactics:</strong></p>
+<ul>
+<li>Move mattresses downstairs temporarily</li>
+<li>Use battery fans directly on your body while sleeping</li>
+<li>Dampen pillowcases with cool water</li>
+<li>Sleep on tile or hardwood floors (cooler than carpet)</li>
+</ul>
+<p><strong>Sleep schedule adjustment:</strong></p>
+<ul>
+<li>Go to bed later when temperatures drop</li>
+<li>Wake up earlier before peak heat</li>
+<li>Nap during hottest hours (1-4 PM)</li>
+</ul>
+<h3>Kitchen Management</h3>
+<p>Your kitchen becomes command central during outages, but it's also the most dangerous room for food safety.</p>
+<p><strong>Keep refrigerator closed.</strong> Every time you open it, you lose 15-30 minutes of cooling time. Group everything you need for the day and grab it once.</p>
+<p><strong>Cooking alternatives:</strong></p>
+<ul>
+<li>Outdoor grill (gas or charcoal)</li>
+<li>Camping stove with proper ventilation</li>
+<li>Cold foods only after day 2</li>
+</ul>
+<p><strong>Water heating:</strong>
+Your electric water heater stops working, but the tank holds 40-80 gallons of hot water. You'll have warm showers for 1-2 days if you're conservative.</p>
+<h3>Bathroom Considerations</h3>
+<p>Toilets still flush (usually), but without AC, bathrooms become steam rooms. Open windows, use fans, and shower in lukewarm water to avoid overheating your body.</p>
+<p>If you have a well (more common in rural Hillsborough or Pasco areas), you might lose water pressure entirely. That's when those filled bathtubs become critical.</p>
+<h2>Communication and Information</h2>
+<p>Your phone becomes your lifeline, but Florida heat kills batteries fast. A phone sitting in a hot car or house can shut down from overheating before the battery dies.</p>
+<p><strong>Power banks:</strong> Keep multiple charged. <a href="%7B%7Bamazon:B07QXV6N1B%7D%7D">Anker PowerCore 10000</a> gives you 2-3 full phone charges.</p>
+<p><strong>Information sources:</strong></p>
+<ul>
+<li>NOAA Weather Radio (battery-powered)</li>
+<li>Local news apps (download content while you have power)</li>
+<li>Utility company apps: Duke Energy, TECO, FPL all have outage maps</li>
+</ul>
+<p><strong>Charging strategy:</strong>
+Car chargers work great, but don't run your car in an enclosed garage. I've seen people make this deadly mistake during extended outages.</p>
+<h2>When to Leave vs. When to Stay</h2>
+<p>Some situations require evacuation to somewhere with AC. Don't let pride turn a power outage into a medical emergency.</p>
+<p><strong>Leave immediately if:</strong></p>
+<ul>
+<li>Anyone shows signs of heat exhaustion: nausea, dizziness, excessive sweating followed by no sweating</li>
+<li>You have infants, elderly family members, or anyone with medical conditions requiring climate control</li>
+<li>Indoor temperature exceeds 90°F for extended periods</li>
+<li>No cooling options available</li>
+</ul>
+<p><strong>Safe places to go:</strong></p>
+<ul>
+<li>Hotels with generators (book early during storm season)</li>
+<li>Cooling centers (most counties open them during extended outages)</li>
+<li>Family/friends in unaffected areas</li>
+<li>Shopping malls, libraries, movie theaters with power</li>
+</ul>
+<h3>Extended Outage Scenarios</h3>
+<p>Hurricane-related outages lasting days or weeks require different strategies. I've lived through several, and the rules change after day 3.</p>
+<p><strong>Week 1:</strong> Focus on cooling, food safety, and maintaining hygiene
+<strong>Week 2:</strong> Establish routines, preserve mental health, manage resources
+<strong>Week 3+:</strong> Consider temporary relocation, especially with children</p>
+<p>The emotional toll of extended outages is real. People get cranky when they're hot, tired, and disconnected from normal life. Plan activities that don't require power, maintain social connections, and remember that this is temporary.</p>
+<h2>Neighborhood and Community Resources</h2>
+<p>Tampa Bay communities handle outages differently. Newer developments like Fishhawk Ranch or Westchase often have better infrastructure and faster restoration times. Older areas like Seminole Heights or parts of South Tampa might wait longer but have stronger community networks.</p>
+<p><strong>During major outages:</strong></p>
+<ul>
+<li>Check on elderly neighbors</li>
+<li>Share generator power for medical needs</li>
+<li>Pool resources (ice, food, information)</li>
+<li>Organize community charging stations</li>
+</ul>
+<p>Some neighborhoods have formed informal outage response groups. They share generator time, pool ice supplies, and help each other through extended outages. It's one of the better aspects of Florida living — people look out for each other when things get tough.</p>
+<hr>
+<p><strong>Moving to Tampa Bay?</strong> Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.</p>
+<p><a href="https://nowtb.com">Contact Barrett →</a> | <a href="tel:8137337907">(813) 733-7907</a></p>
+<hr>
+<h2>Prevention and Preparation</h2>
+<p>The best outage survival happens before the power goes out. Here's your pre-season checklist:</p>
+<h3>Generator Maintenance</h3>
+<ul>
+<li>Test monthly during non-storm seasons</li>
+<li>Keep fuel stabilizer in stored gasoline</li>
+<li>Have spare oil, air filters, spark plugs</li>
+<li>Practice setup in daylight when you're not stressed</li>
+</ul>
+<h3>Year-Round Supplies</h3>
+<ul>
+<li>Rotate water storage every 6 months</li>
+<li>Check battery expiration dates quarterly</li>
+<li>Keep coolers clean and accessible</li>
+<li>Maintain emergency food supplies</li>
+</ul>
+<h3>Home Infrastructure</h3>
+<ul>
+<li>Install whole-house surge protector</li>
+<li>Consider transfer switch for generator</li>
+<li>Trim trees near power lines</li>
+<li>Know your breaker box location and operation</li>
+</ul>
+<h3>Insurance Considerations</h3>
+<p>Food spoilage coverage varies by policy. Standard homeowner's insurance might cover $500-1,000 in spoiled food, but only if the outage results from covered damage to your home. Outages from grid problems usually aren't covered.</p>
+<p>Document everything with photos if you have extended spoilage. Some policies cover temporary lodging if your home becomes uninhabitable due to power loss, but read your specific policy.</p>
+<h2>What Tampa Bay Newcomers Get Wrong</h2>
+<p>After two decades of helping families relocate here, I see the same mistakes repeatedly:</p>
+<p><strong>"We survived winters up north, how hard can Florida heat be?"</strong>
+Cold is manageable with layers and blankets. Heat without AC is actively dangerous, and you can't take layers off past naked.</p>
+<p><strong>"We'll just go to the beach if power goes out"</strong>
+Public beaches often close during severe weather. Private beach access requires power for elevators, gates, and facilities.</p>
+<p><strong>"Our neighbors will help"</strong>
+They will, but everyone's dealing with the same problem. Don't count on borrowing ice or generator time during widespread outages.</p>
+<p><strong>"Hotels will have rooms available"</strong>
+During major outages, hotels book solid within hours. Make evacuation plans before you need them.</p>
+<h2>County-Specific Considerations</h2>
+<p>Different areas handle outages with varying efficiency:</p>
+<h3>Hillsborough County</h3>
+<p>Generally reliable power grid, fastest restoration times in urban areas like <a href="/counties/hillsborough/">South Tampa</a> and Westchase. Rural areas near the Pasco border wait longer.</p>
+<h3>Pinellas County</h3>
+<p>Older infrastructure in some areas, but smaller geographic area means faster restoration. Beach communities sometimes prioritize tourism areas first.</p>
+<h3>Pasco County</h3>
+<p>More rural areas, longer power lines, slower restoration times. Higher likelihood of well water (which means no water during outages).</p>
+<h3>Hernando County</h3>
+<p>Most rural, longest wait times, but also more residents with generators and self-sufficiency experience.</p>
+<p>Understanding your specific area's vulnerabilities helps you prepare appropriately. A condo in downtown St. Pete has different needs than a house on 2 acres in Wesley Chapel.</p>
+<h2>The Mental Game</h2>
+<p>Extended power outages mess with your head. No Netflix, no social media, no normal routines. Kids get cranky. Adults get frustrated. Marriages get tested.</p>
+<p><strong>Coping strategies:</strong></p>
+<ul>
+<li>Maintain regular meal times (even if the food is different)</li>
+<li>Create non-electronic entertainment options</li>
+<li>Establish communication schedules with family</li>
+<li>Accept that this is temporary inconvenience, not permanent disaster</li>
+</ul>
+<p><strong>For kids:</strong></p>
+<ul>
+<li>Treat it like adventure camping</li>
+<li>Involve them in age-appropriate preparations</li>
+<li>Have battery-powered toys and games ready</li>
+<li>Maintain bedtime routines as much as possible</li>
+</ul>
+<p>Remember: Humans survived thousands of years without air conditioning. You can handle a few days or weeks. It's uncomfortable, not impossible.</p>
+<h2>Frequently Asked Questions</h2>
+<h3>How long can I safely keep my refrigerator closed during a power outage?</h3>
+<p>Keep your refrigerator closed and it will maintain safe temperatures for about 4 hours. A full freezer will keep food frozen for 48 hours, while a half-full freezer lasts about 24 hours. After these timeframes, start moving essential items to coolers with ice or consider the food unsafe.</p>
+<h3>What size generator do I need for a typical Florida home?</h3>
+<p>Most families need a 3,500-5,000 watt portable generator to run essentials: refrigerator, lights, fans, phone chargers, and either a small window AC or multiple fans. Whole-house generators require 15,000-20,000 watts and cost $5,000-15,000 installed, but they automatically kick on and can run your entire home.</p>
+<h3>Should I buy a generator that runs on gas or propane?</h3>
+<p>Dual-fuel generators that run on both gasoline and propane offer the most flexibility. Gasoline is widely available but degrades over time. Propane stores indefinitely and burns cleaner, but requires having tanks on hand. Most Florida residents keep both fuel types available.</p>
+<h3>Is it safe to run a generator during a thunderstorm?</h3>
+<p>Never run a generator in rain or standing water. You can use a generator during storms if it's properly covered and ventilated, but ensure it's on dry ground and protected from direct rainfall. Many people build simple rain covers or purchase generator tents for weather protection.</p>
+<h3>How do I know when it's too dangerous to stay in my house without power?</h3>
+<p>Leave immediately if indoor temperatures exceed 90°F for extended periods, if anyone shows heat exhaustion symptoms, or if you have family members with medical conditions requiring climate control. Infants, elderly adults, and people with chronic health conditions are especially vulnerable to heat-related illness.</p>
+<h3>What's the difference between power outages in different Tampa Bay counties?</h3>
+<p>Urban areas like South Tampa and downtown St. Pete typically get power restored within 2-8 hours due to better infrastructure and priority restoration. Rural areas in Pasco and Hernando counties may wait days or weeks after major storms. Newer developments generally have more reliable power than older neighborhoods with aging electrical systems.</p>
+8:["slug","florida-power-outage-survival","d"]
+0:["SZLIdUDBKVit2TP_UqbYL",[[["",{"children":["blog",{"children":[["slug","florida-power-outage-survival","d"],{"children":["__PAGE__?{\"slug\":\"florida-power-outage-survival\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","florida-power-outage-survival","d"],{"children":["__PAGE__",{},[["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","section",null,{"className":"relative w-full h-[200px] md:h-[300px] overflow-hidden bg-brand-navy","children":[["$","$L3",null,{"src":"/images/blog/housing.jpg","alt":"Florida Power Outage Survival: What Happens When the AC Dies","fill":true,"className":"object-cover","unoptimized":true,"priority":true}],["$","div",null,{"className":"absolute inset-0 bg-brand-navy/60"}],["$","div",null,{"className":"relative z-10 flex flex-col items-center justify-center h-full px-4 text-center","children":[["$","h1",null,{"className":"text-white text-3xl md:text-5xl font-display font-extrabold leading-tight max-w-4xl","children":"Florida Power Outage Survival: What Happens When the AC Dies"}],"$undefined"]}]]}],["$","article",null,{"className":"max-w-4xl mx-auto px-4 py-10","children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://tbrelo.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://tbrelo.com/blog/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Florida Power Outage Survival: What Happens When the AC Dies\",\"item\":\"https://tbrelo.com/blog/florida-power-outage-survival/\"}]}"}}],["$","nav",null,{"aria-label":"Breadcrumb","className":"text-sm text-brand-slate mb-6","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-1","children":[["$","li","/",{"className":"flex items-center gap-1","children":[false,["$","$L4",null,{"href":"/","className":"hover:text-brand-blue transition-colors","children":"Home"}]]}],["$","li","/blog/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","$L4",null,{"href":"/blog/","className":"hover:text-brand-blue transition-colors","children":"Blog"}]]}],["$","li","/blog/florida-power-outage-survival/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","span",null,{"className":"text-brand-navy font-medium","children":"Florida Power Outage Survival: What Happens When the AC Dies"}]]}]]}]}]],["$","p",null,{"className":"text-brand-slate text-sm mb-8","children":["Published ","October 1, 2024"]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$5"}}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"cta-box-primary","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-white","children":"Moving to Tampa Bay? Get a Local Expert."}],["$","p",null,{"className":"text-sm mb-4 text-white","children":"Barrett Henry is a Broker Associate with REMAX Collective and over 23 years of real estate experience. Straight talk, smart strategy, no pressure."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-blue text-white hover:bg-blue-600","children":["Contact Barrett"," →"]}],["$","a",null,{"href":"tel:8137337907","className":"text-sm text-white","children":"(813) 733-7907"}]]}]]}],["$","div",null,{"className":"cta-box","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-brand-navy","children":"Need Help Setting Up Your New Home?"}],["$","p",null,{"className":"text-sm mb-4 text-brand-slate","children":"Best Bay Services handles handyman work, home repairs, and maintenance for your new Tampa Bay home. Local, licensed, and trusted."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-navy text-white hover:bg-brand-dark","children":["Get a Quote"," →"]}],["$","a",null,{"href":"tel:8134168676","className":"text-sm text-brand-blue","children":"(813) 416-8676"}]]}]]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","$L6",null,{"blogSlug":"florida-power-outage-survival"}]]}]],null],null],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$8","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/db2729ad4a9f0783.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link",null,{"rel":"icon","href":"/favicon-32.png","type":"image/png","sizes":"32x32"}],["$","link",null,{"rel":"icon","href":"/favicon-16.png","type":"image/png","sizes":"16x16"}],["$","link",null,{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link",null,{"rel":"icon","href":"/icon-192.png","type":"image/png","sizes":"192x192"}],["$","meta",null,{"name":"google-adsense-account","content":"ca-pub-2033173419526042"}],["$","meta",null,{"name":"impact-site-verification","content":"bb623f40-9653-4312-9ca8-bf35b957a10c"}],["$","$La",null,{"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2033173419526042","strategy":"afterInteractive","crossOrigin":"anonymous"}],["$","$La",null,{"src":"https://www.googletagmanager.com/gtag/js?id=G-TD87S02SLM","strategy":"afterInteractive"}],["$","$La",null,{"id":"gtag-init","strategy":"afterInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'G-TD87S02SLM');\n          "}]]}],["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"[{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"https://tbrelo.com/#website\",\"name\":\"TB Relo — Tampa Bay Relocation Guide\",\"url\":\"https://tbrelo.com\",\"description\":\"Comprehensive relocation guides for Tampa Bay, Florida. Covering 8 counties, 100+ cities, cost of living, schools, and everything you need to know about moving to Tampa Bay.\",\"publisher\":{\"@id\":\"https://tbrelo.com/#org\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://tbrelo.com/blog/?q={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}},{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://tbrelo.com/#org\",\"name\":\"TB Relo\",\"url\":\"https://tbrelo.com\",\"sameAs\":[\"https://nowtb.com\",\"https://valricoagent.com\",\"https://parrishagent.com\",\"https://www.facebook.com/BarrettHenryREALTOR/\",\"https://www.instagram.com/thenowteam\",\"https://www.youtube.com/@nowtampa\"]}]"}}],["$","$Lb",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"max-w-2xl mx-auto px-4 py-20 text-center","children":[["$","h1",null,{"className":"text-6xl font-display font-extrabold text-brand-navy mb-4","children":"404"}],["$","p",null,{"className":"text-xl text-brand-slate mb-8","children":"This page doesn't exist. Maybe you're looking for one of these?"}],["$","div",null,{"className":"grid sm:grid-cols-2 gap-4 mb-12 text-left","children":[["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Moving Guide"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Complete guide to relocating to Tampa Bay"}]]}],["$","$L4",null,{"href":"/counties/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Explore Counties"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Browse all 8 Tampa Bay counties"}]]}],["$","$L4",null,{"href":"/cities/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Find a City"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"90+ city and neighborhood guides"}]]}],["$","$L4",null,{"href":"/blog/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Blog"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Tips, comparisons, and local insights"}]]}]]}],["$","$L4",null,{"href":"/","className":"px-8 py-4 bg-brand-blue text-white font-display font-bold rounded-lg hover:bg-blue-600 transition-colors text-lg inline-block","children":"Back to Home"}]]}],"notFoundStyles":[]}]}],["$","footer",null,{"className":"bg-brand-dark text-gray-400","children":[["$","div",null,{"className":"bg-brand-navy","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10","children":["$","div",null,{"className":"grid md:grid-cols-3 gap-8 text-center","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Buying or Selling a Home?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Barrett Henry — The NOW Team at REMAX Collective"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 733-7907"}]]}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Need a Handyman?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Best Bay Services — Tampa Bay Home Services"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 416-8676"}]]}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Property Management"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"ViVi PM — Full-Service Property Management"}]]}]]}]}]}],["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8","children":[["$","div",null,{"className":"md:col-span-2","children":[["$","div",null,{"className":"font-display font-extrabold text-2xl text-white mb-3","children":["TB",["$","span",null,{"className":"text-brand-sky","children":"Relo"}]]}],["$","p",null,{"className":"text-sm leading-relaxed","children":"Your complete guide to relocating to Tampa Bay, Florida. Covering Hillsborough, Pinellas, Pasco, Hernando, Polk, Manatee, Sarasota, and Citrus counties with honest, local insight from someone who actually lives here."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Guides"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"hover:text-white transition-colors","children":"Moving to Tampa Bay"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/cost-of-living/","className":"hover:text-white transition-colors","children":"Cost of Living"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/moving-checklist/","className":"hover:text-white transition-colors","children":"Moving Checklist"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/blog/","className":"hover:text-white transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Counties"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li","Hillsborough",{"children":["$","$L4",null,{"href":"/counties/hillsborough/","className":"hover:text-white transition-colors","children":["Hillsborough"," County"]}]}],["$","li","Pinellas",{"children":["$","$L4",null,{"href":"/counties/pinellas/","className":"hover:text-white transition-colors","children":["Pinellas"," County"]}]}],["$","li","Pasco",{"children":["$","$L4",null,{"href":"/counties/pasco/","className":"hover:text-white transition-colors","children":["Pasco"," County"]}]}],["$","li","Hernando",{"children":["$","$L4",null,{"href":"/counties/hernando/","className":"hover:text-white transition-colors","children":["Hernando"," County"]}]}],["$","li","Polk",{"children":["$","$L4",null,{"href":"/counties/polk/","className":"hover:text-white transition-colors","children":["Polk"," County"]}]}],["$","li","Manatee",{"children":["$","$L4",null,{"href":"/counties/manatee/","className":"hover:text-white transition-colors","children":["Manatee"," County"]}]}],["$","li","Sarasota",{"children":["$","$L4",null,{"href":"/counties/sarasota/","className":"hover:text-white transition-colors","children":["Sarasota"," County"]}]}],["$","li","Citrus",{"children":["$","$L4",null,{"href":"/counties/citrus/","className":"hover:text-white transition-colors","children":["Citrus"," County"]}]}]]}]]}]]}],["$","div",null,{"className":"mt-10 pt-8 border-t border-gray-800","children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Barrett Henry's Network"}],["$","div",null,{"className":"grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3 text-sm","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Tampa Bay Real Estate"}],["$","a",null,{"href":"https://valricoagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Real Estate"}],["$","a",null,{"href":"https://parrishagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Parrish Real Estate"}],["$","a",null,{"href":"https://valrico.blog","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Community Blog"}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Handyman & Home Services"}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Property Management"}]]}]]}],["$","div",null,{"className":"mt-12 pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center gap-4 text-xs","children":[["$","p",null,{"children":["© ",2026," TB Relo. All rights reserved."]}],["$","div",null,{"className":"flex gap-4","children":[["$","$L4",null,{"href":"/affiliate-disclosure/","className":"hover:text-white transition-colors","children":"Affiliate Disclosure"}],["$","$L4",null,{"href":"/privacy-policy/","className":"hover:text-white transition-colors","children":"Privacy Policy"}],["$","$L4",null,{"href":"/disclaimer/","className":"hover:text-white transition-colors","children":"Disclaimer"}]]}]]}]]}],["$","div",null,{"className":"bg-black/30 border-t border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 text-center text-xs text-gray-500","children":["Site by"," ",["$","a",null,{"href":"https://vyrabyte.com","target":"_blank","rel":"noopener noreferrer","className":"text-gray-400 hover:text-white transition-colors","children":"Vyrabyte"}]]}]}]]}],["$","$Lc",null,{}]]}]]}]],null],null],["$Ld",null]]]]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Florida Power Outage Survival: What Happens When the AC Dies | TB Relo | TB Relo"}],["$","meta","3",{"name":"description","content":"Florida Power Outage Survival: What Happens When the AC Dies. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","6",{"property":"og:title","content":"Florida Power Outage Survival: What Happens When the AC Dies | TB Relo | TB Relo"}],["$","meta","7",{"property":"og:description","content":"Florida Power Outage Survival: What Happens When the AC Dies. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","8",{"property":"og:image","content":"https://tbrelo.com/images/blog/housing.jpg"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"Florida Power Outage Survival: What Happens When the AC Dies | TB Relo | TB Relo"}],["$","meta","13",{"name":"twitter:description","content":"Florida Power Outage Survival: What Happens When the AC Dies. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","14",{"name":"twitter:image","content":"https://tbrelo.com/images/blog/housing.jpg"}],["$","link","15",{"rel":"icon","href":"/icon.svg?ff4364d89c37c0d6","type":"image/svg+xml","sizes":"any"}]]
+1:null

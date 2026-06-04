@@ -1,0 +1,239 @@
+3:I[5878,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"Image"]
+4:I[2972,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],""]
+6:I[5143,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"default"]
+7:I[4707,[],""]
+9:I[6423,[],""]
+a:I[8003,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],""]
+b:I[7312,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"default"]
+c:I[5463,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"SpeedInsights"]
+2:Tf57,[{"@context":"https://schema.org","@type":"Article","headline":"Setting Up Trash and Recycling in Tampa Bay — By County | TB Relo","description":"Setting Up Trash and Recycling in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience.","url":"https://tbrelo.com/blog/trash-recycling-tampa-bay-by-county/","author":{"@type":"Person","name":"Barrett Henry","jobTitle":"REALTOR® & Broker Associate","url":"https://nowtb.com","worksFor":{"@type":"Organization","name":"REMAX Collective"},"knowsAbout":["Tampa Bay Real Estate","Florida Relocation","Residential Real Estate","Investment Property","Property Management"]},"publisher":{"@type":"Organization","name":"TB Relo","url":"https://tbrelo.com"},"datePublished":"2025-06-01T08:00:00-04:00","dateModified":"2026-04-16T08:00:00-04:00","image":{"@type":"ImageObject","url":"https://tbrelo.com/images/blog/housing.jpg"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What day is my trash pickup in Tampa Bay?","acceptedAnswer":{"@type":"Answer","text":"Pickup days vary by your specific address and service provider. Check with your city or county's online lookup tool, or call your waste management provider directly. Most areas assign pickup days based on your route, and they rarely change once established."}},{"@type":"Question","name":"Can I use any type of trash bin, or do I need specific ones?","acceptedAnswer":{"@type":"Answer","text":"This depends entirely on your location. Tampa and St. Petersburg require specific city-provided bins for automated collection, while other areas allow your own containers or bags. Contact your service provider for bin requirements and costs."}},{"@type":"Question","name":"What items are not allowed in regular trash pickup?","acceptedAnswer":{"@type":"Answer","text":"Hazardous materials (paint, chemicals, batteries), electronics, large appliances, construction debris, and automotive parts are generally prohibited. Each county has specific drop-off locations or special collection events for these items."}},{"@type":"Question","name":"How much does waste pickup cost in Tampa Bay?","acceptedAnswer":{"@type":"Answer","text":"Costs range from $16-28 monthly depending on your location and service level. City services in Tampa, St. Petersburg, and Clearwater typically cost $20-27 monthly, while smaller municipalities and unincorporated areas vary from $16-28 monthly."}},{"@type":"Question","name":"When should I set up waste service after moving?","acceptedAnswer":{"@type":"Answer","text":"Contact your provider within the first week of moving to establish service. Account setup typically takes 24-48 hours, with bins delivered within a week. Call at least a week before your move-in date during busy seasons."}},{"@type":"Question","name":"What's the difference between recycling rules in different counties?","acceptedAnswer":{"@type":"Answer","text":"Each county and city has specific recycling guidelines. Hillsborough accepts pizza boxes if clean, Pinellas requires separate glass drop-off, and Pasco accepts cleaned motor oil containers. Always check your local provider's specific rules to avoid contamination."}},{"@type":"Question","name":"Can I get bulk item pickup, and does it cost extra?","acceptedAnswer":{"@type":"Answer","text":"Bulk pickup availability and costs vary significantly by location. Some areas like unincorporated Hillsborough include monthly bulk pickup, while beach communities often charge $25-50 per pickup. Most require 24-48 hours advance notice."}},{"@type":"Question","name":"What happens if I miss my pickup day or put bins out late?","acceptedAnswer":{"@type":"Answer","text":"Most providers will not return for missed bins until the next scheduled pickup. Some areas charge fees for special pickups outside normal schedules. Always have bins out by 6 AM on your pickup day and retrieve them within 24 hours."}}]}]5:T4f2e,<p>Moving to Tampa Bay means figuring out a lot of new systems, and trash pickup is one of those things that varies dramatically depending on which county you land in. After helping families relocate here for over two decades, I've seen people get confused by the different schedules, bin requirements, and pickup services across Hillsborough, Pinellas, and Pasco counties.</p>
+<p>Here's the straight story on how waste management works in each area — because nobody wants to be the neighbor with overflowing bins on the wrong day.</p>
+<h2>How Tampa Bay Waste Management Actually Works</h2>
+<p>Unlike some cities where one company handles everything, Tampa Bay's waste management is a patchwork of municipal services, private contractors, and county programs. What you pay and when your bins get emptied depends entirely on your address.</p>
+<p>The good news? Most areas include basic trash and recycling in your municipal fees or HOA dues. The potentially frustrating news? Every jurisdiction has its own rules about what goes where, pickup schedules, and extra services like yard waste or bulk item removal.</p>
+<p>Your <a href="/blog/moving-checklist-tampa-bay/">moving checklist</a> should include figuring out your waste pickup situation within the first week. Nothing announces "new resident" quite like putting your bins out on the wrong day.</p>
+<h2>Hillsborough County: The Big Player</h2>
+<p>Hillsborough County covers Tampa, Plant City, Temple Terrace, and unincorporated areas — about 1.4 million residents spread across vastly different neighborhoods. Waste management here is handled primarily by the county's Solid Waste Management Division, though some municipalities contract with private companies.</p>
+<h3>Tampa City Limits</h3>
+<p>If you're moving to <a href="/counties/hillsborough/">Tampa proper</a>, waste management is handled by the city's Solid Waste &#x26; Stormwater Services. Here's what you need to know:</p>
+<p><strong>Pickup Schedule:</strong> Once weekly for both trash and recycling, typically on the same day. Your specific day depends on your route — check the city's online lookup tool with your address.</p>
+<p><strong>What's Included:</strong></p>
+<ul>
+<li>Standard trash pickup (bags or bins up to 50 gallons)</li>
+<li>Single-stream recycling (paper, cardboard, plastic bottles, aluminum cans)</li>
+<li>Monthly yard waste pickup</li>
+</ul>
+<p><strong>Bin Requirements:</strong> Tampa provides a 65-gallon recycling cart for free. Trash can go in bags or your own container. If you want a city trash cart, it's $85 for a 65-gallon or $105 for a 95-gallon container — one-time fee.</p>
+<p><strong>Cost:</strong> Built into your city utility bill. You'll see it as "Solid Waste Service" for about $19-22 per month as of 2024.</p>
+<h3>Unincorporated Hillsborough</h3>
+<p>Living outside city limits in areas like Westchase, Lutz, or Carrollwood? Hillsborough County handles your waste management directly.</p>
+<p><strong>Pickup Schedule:</strong> Weekly trash and recycling, usually the same day. Yard waste is every other week.</p>
+<p><strong>What's Different:</strong> The county is more generous with bulk items — they'll pick up furniture, appliances, and other large items monthly at no extra charge. Just call 48 hours ahead.</p>
+<p><strong>Cost:</strong> Around $23-26 monthly, included in your county services bill.</p>
+<h3>Plant City and Temple Terrace</h3>
+<p>Both municipalities run their own waste programs:</p>
+<p><strong>Plant City:</strong> Weekly pickup, around $18/month. They're particularly good about yard waste — important in a city known for its strawberry farms and tree-lined neighborhoods.</p>
+<p><strong>Temple Terrace:</strong> Similar weekly service, about $20/month. This small city (population 26,000) provides excellent customer service — you can actually talk to a human when you call.</p>
+<hr>
+<p><strong>Moving to Tampa Bay?</strong> Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.</p>
+<p><a href="https://nowtb.com">Contact Barrett →</a> | <a href="tel:8137337907">(813) 733-7907</a></p>
+<hr>
+<h2>Pinellas County: Beach Communities with Efficiency</h2>
+<p><a href="/counties/pinellas/">Pinellas County</a> is the most densely populated county in Florida, which means waste management has to be efficient. Most areas have excellent service, though the rules can be stricter than what you might expect.</p>
+<h3>St. Petersburg</h3>
+<p>St. Pete handles waste management through its Sanitation Division, and they've got the system down to a science.</p>
+<p><strong>Pickup Schedule:</strong> Weekly trash and recycling on the same day. Yard waste every other week.</p>
+<p><strong>Special Features:</strong></p>
+<ul>
+<li>Automated collection (trucks with mechanical arms grab your bins)</li>
+<li>Requires specific bin placement — at least 3 feet from cars, mailboxes, and other obstacles</li>
+<li>No bags allowed for trash — must use provided carts</li>
+</ul>
+<p><strong>Bin System:</strong> The city provides a 96-gallon trash cart and 65-gallon recycling cart. Replacements cost $85 for trash, $65 for recycling.</p>
+<p><strong>Cost:</strong> About $24-27 monthly, included in your utilities.</p>
+<p><strong>Pro Tip:</strong> St. Pete residents love their recycling program. The city consistently hits 30%+ diversion rates, well above the state average.</p>
+<h3>Clearwater</h3>
+<p>Clearwater contracts with Republic Services for most neighborhoods, though some areas use other providers.</p>
+<p><strong>Pickup Schedule:</strong> Weekly service, with specific days assigned by neighborhood. Most areas get both trash and recycling the same day.</p>
+<p><strong>What's Included:</strong></p>
+<ul>
+<li>Standard trash pickup</li>
+<li>Single-stream recycling</li>
+<li>Bulk item pickup (scheduled pickup required)</li>
+<li>Yard waste collection</li>
+</ul>
+<p><strong>Cost:</strong> Around $22-25 monthly through your Clearwater Gas System bill.</p>
+<h3>Beach Communities (Treasure Island, Madeira Beach, etc.)</h3>
+<p>The barrier island communities each handle waste management differently:</p>
+<p><strong>Treasure Island:</strong> Uses Republic Services, weekly pickup, about $25/month</p>
+<p><strong>Madeira Beach:</strong> Municipal service, very reliable, includes bulk pickup monthly</p>
+<p><strong>Redington Beach:</strong> Contracts with Waste Pro, known for being punctual despite narrow beach streets</p>
+<p><strong>Indian Rocks Beach:</strong> Municipal service with excellent recycling rates</p>
+<p>These beach towns deal with unique challenges — narrow streets, seasonal population swings, and salt air that's tough on equipment. Most have adapted well, though pickup times can vary during tourist season.</p>
+<h3>Largo, Seminole, and North County</h3>
+<p><strong>Largo:</strong> Municipal service through the city's Public Works Department. Weekly trash and recycling, $21/month. Largo has one of the most user-friendly online systems for scheduling bulk pickups.</p>
+<p><strong>Seminole:</strong> Contracts with Waste Management Inc. Weekly service, around $23/month. Good communication about holiday schedule changes.</p>
+<p><strong>Safety Harbor:</strong> Small city charm extends to waste management — they know their routes well and are flexible with residents who might forget to put bins out.</p>
+<h2>Pasco County: Growing Fast, Adapting Services</h2>
+<p><a href="/counties/pasco/">Pasco County</a> is Florida's fastest-growing county, adding about 1,000 new residents monthly. Waste management is handled through a mix of county services and private contractors, with some growing pains as infrastructure catches up.</p>
+<h3>New Port Richey and Port Richey</h3>
+<p>Both cities contract with private companies but coordinate their services:</p>
+<p><strong>Pickup Schedule:</strong> Weekly trash and recycling, typically Tuesdays or Wednesdays for most routes.</p>
+<p><strong>What's Notable:</strong> These cities allow both bags and bins, making them more flexible than some neighboring areas. Bulk pickup is available monthly with 24-hour notice.</p>
+<p><strong>Cost:</strong> Around $20-23 monthly for New Port Richey, $18-21 for Port Richey.</p>
+<h3>Unincorporated Pasco (Zephyrhills, Wesley Chapel, Land O' Lakes)</h3>
+<p>The county handles waste management for unincorporated areas, which includes some of the fastest-growing communities in the Tampa Bay area.</p>
+<p><strong>Pickup Schedule:</strong> Weekly trash and recycling. Yard waste is every other week, though frequency increases during growing season.</p>
+<p><strong>Coverage Challenges:</strong> Some of the newer developments in Wesley Chapel and Land O' Lakes experienced service delays in 2023-2024 as contractors adjusted to rapid growth. The county has added routes and trucks to catch up.</p>
+<p><strong>Cost:</strong> About $24-28 monthly, varies by service area.</p>
+<p><strong>What's Different:</strong> Pasco County is more lenient about yard waste — they'll take palm fronds, citrus branches, and other Florida-specific debris that some counties restrict.</p>
+<h3>Dade City</h3>
+<p>This historic city runs its own waste program with a decidedly small-town feel:</p>
+<p><strong>Service:</strong> Weekly pickup, very reliable. The crews know their routes and customers well.</p>
+<p><strong>Special Touch:</strong> Dade City still allows bulk items to be set out monthly without scheduling — just put them out with your regular trash. Rare in 2024, but it works in a city of 7,000 people.</p>
+<p><strong>Cost:</strong> Around $16-18 monthly, one of the most affordable in Tampa Bay.</p>
+<h2>What You Need to Know Before Your First Pickup</h2>
+<h3>Bin Placement Rules (They Matter More Than You Think)</h3>
+<p>Every jurisdiction is picky about bin placement, but here are the universal rules:</p>
+<ul>
+<li><strong>Distance from obstacles:</strong> At least 3 feet from cars, mailboxes, fire hydrants</li>
+<li><strong>Lid direction:</strong> Face the street, not your house</li>
+<li><strong>Timing:</strong> Out by 6 AM on pickup day, back in within 24 hours (some HOAs are stricter)</li>
+<li><strong>Surface:</strong> On pavement or solid ground, not grass (automated trucks can't grab bins that sink)</li>
+</ul>
+<h3>Recycling Rules Vary (A Lot)</h3>
+<p>What goes in the recycling bin depends entirely on your location:</p>
+<p><strong>Generally Accepted Everywhere:</strong></p>
+<ul>
+<li>Clean plastic bottles and containers (#1-5)</li>
+<li>Aluminum cans and foil</li>
+<li>Paper and cardboard (clean and dry)</li>
+<li>Glass bottles and jars</li>
+</ul>
+<p><strong>County-Specific Rules:</strong></p>
+<ul>
+<li><strong>Hillsborough:</strong> Accepts pizza boxes if grease-free</li>
+<li><strong>Pinellas:</strong> No glass in curbside recycling (separate drop-off locations)</li>
+<li><strong>Pasco:</strong> Accepts motor oil containers if empty and clean</li>
+</ul>
+<h3>Yard Waste Guidelines</h3>
+<p>Florida's year-round growing season means lots of yard waste. Here's what most areas accept:</p>
+<ul>
+<li>Grass clippings in biodegradable bags or loose</li>
+<li>Branches up to 4 feet long, bundled</li>
+<li>Palm fronds (cut to manageable size)</li>
+<li>Leaves and plant trimmings</li>
+</ul>
+<p><strong>What's Usually Not Allowed:</strong></p>
+<ul>
+<li>Dirt, sod, or stones</li>
+<li>Coconuts (seriously — they break equipment)</li>
+<li>Treated lumber or construction debris</li>
+</ul>
+<h2>Bulk Item and Special Waste Pickup</h2>
+<h3>Electronics and Hazardous Materials</h3>
+<p>None of the counties accept electronics, paint, batteries, or hazardous chemicals in regular pickup. Instead:</p>
+<p><strong>Hillsborough County:</strong> Monthly hazardous waste collection events at different locations. Electronics can go to Best Buy or county drop-off centers.</p>
+<p><strong>Pinellas County:</strong> Permanent household hazardous waste facility in St. Petersburg, open Wednesdays and Saturdays. Very convenient.</p>
+<p><strong>Pasco County:</strong> Quarterly collection events, plus permanent drop-off at the county landfill in Land O' Lakes.</p>
+<h3>Large Item Pickup</h3>
+<p>This is where service varies dramatically:</p>
+<p><strong>Best Service:</strong> Unincorporated Hillsborough and Dade City — monthly bulk pickup included, just call ahead.</p>
+<p><strong>Most Convenient:</strong> Largo and St. Petersburg — online scheduling systems that actually work.</p>
+<p><strong>Pay-Per-Use:</strong> Many Pinellas beach communities charge $25-50 for bulk pickup but will take almost anything legally disposable.</p>
+<h2>Setting Up Service When You Move</h2>
+<h3>If You're Buying a Home</h3>
+<p>Waste service typically transfers automatically, but you'll need to:</p>
+<ol>
+<li>Contact the service provider within 30 days to establish your account</li>
+<li>Pay any deposits (usually $25-50, waived with good credit)</li>
+<li>Request bins if the previous owner took theirs</li>
+<li>Get your pickup schedule and any local rules</li>
+</ol>
+<h3>If You're Renting</h3>
+<p>Check with your landlord first — many rentals include waste service in the rent. If not:</p>
+<ol>
+<li>Determine if you're in city limits or unincorporated county</li>
+<li>Call the appropriate provider to start service</li>
+<li>Budget $18-28 monthly depending on location</li>
+<li>Ask about renter deposits (usually higher than homeowner deposits)</li>
+</ol>
+<h3>Timeline for Setup</h3>
+<p><strong>Best Case:</strong> 24-48 hours for account setup, bins delivered within a week</p>
+<p><strong>Realistic:</strong> 3-5 business days for everything to be ready</p>
+<p><strong>Plan Ahead:</strong> Call at least a week before you move in, especially during busy summer moving season</p>
+<hr>
+<p><strong>Moving to Tampa Bay?</strong> Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.</p>
+<p><a href="https://nowtb.com">Contact Barrett →</a> | <a href="tel:8137337907">(813) 733-7907</a></p>
+<hr>
+<h2>Money-Saving Tips and Common Mistakes</h2>
+<h3>Ways to Reduce Costs</h3>
+<p><strong>Compost at home:</strong> Reducing food waste can significantly decrease your trash volume. Many HOAs now allow small compost bins.</p>
+<p><strong>Maximize recycling:</strong> Single-stream recycling is included everywhere, so use it. Clean containers properly to avoid contamination.</p>
+<p><strong>Coordinate bulk pickups:</strong> If you live in an area that charges for bulk items, coordinate with neighbors to split costs.</p>
+<p><strong>Time your move:</strong> Avoid setup fees by timing your service start date properly — don't pay for overlapping service.</p>
+<h3>Mistakes That Cost Money</h3>
+<p><strong>Wrong bin placement:</strong> Missed pickups mean overflow fees or extra pickups you'll pay for.</p>
+<p><strong>Contaminated recycling:</strong> Some areas fine residents for putting non-recyclables in recycling bins.</p>
+<p><strong>Late payment fees:</strong> Waste services often have stricter late fees than utilities.</p>
+<p><strong>Bulk item surprises:</strong> Assuming bulk pickup is free when it's actually fee-based.</p>
+<h2>Special Situations and Considerations</h2>
+<h3>HOA Communities</h3>
+<p>Many newer developments include waste management in HOA fees. This can be convenient but also means:</p>
+<ul>
+<li>You can't choose your provider</li>
+<li>Service issues go through the HOA, not directly to the company</li>
+<li>Rules might be stricter than municipal requirements</li>
+<li>Costs are spread across all residents</li>
+</ul>
+<h3>Seasonal Residents</h3>
+<p>If you're only here part of the year:</p>
+<p><strong>Hillsborough County:</strong> Offers seasonal suspension of service (minimum billing applies)</p>
+<p><strong>Pinellas County:</strong> Most municipalities don't offer seasonal rates</p>
+<p><strong>Pasco County:</strong> Some areas allow service suspension with proper notice</p>
+<h3>Business Waste</h3>
+<p>Home-based businesses usually can use residential service for normal office waste, but:</p>
+<ul>
+<li>Manufacturing or food service businesses need commercial service</li>
+<li>Volume limits still apply</li>
+<li>Some areas prohibit business signage on residential routes</li>
+</ul>
+<h2>Getting Help When Things Go Wrong</h2>
+<h3>Missed Pickups</h3>
+<p><strong>First Step:</strong> Check if it's a holiday delay (routes often shift by one day)</p>
+<p><strong>Second Step:</strong> Verify proper bin placement and contents</p>
+<p><strong>Third Step:</strong> Call your provider — most guarantee makeup pickups within 24-48 hours</p>
+<h3>Service Complaints</h3>
+<p>Each county handles complaints differently:</p>
+<p><strong>Hillsborough:</strong> County complaint line for unincorporated areas, city services for municipal areas</p>
+<p><strong>Pinellas:</strong> Each city handles its own complaints, generally very responsive</p>
+<p><strong>Pasco:</strong> County manages most complaints, though some cities handle their own</p>
+<h3>Billing Issues</h3>
+<p>Waste management billing problems can affect your credit score since they're often tied to utility accounts. Address issues quickly and keep records of payments.</p>
+<h2>Future Changes and Improvements</h2>
+<p>Tampa Bay's waste management is evolving rapidly:</p>
+<p><strong>Technology Updates:</strong> More automated collection trucks, better route optimization, improved recycling sorting</p>
+<p><strong>Environmental Initiatives:</strong> Several counties are piloting food waste collection and expanded recycling programs</p>
+<p><strong>Growth Management:</strong> Pasco County in particular is investing heavily in new infrastructure to handle population growth</p>
+<p><strong>Cost Trends:</strong> Expect gradual increases of 2-4% annually, roughly tracking with inflation</p>
+<h2>Frequently Asked Questions</h2>
+<h3>What day is my trash pickup in Tampa Bay?</h3>
+<p>Pickup days vary by your specific address and service provider. Check with your city or county's online lookup tool, or call your waste management provider directly. Most areas assign pickup days based on your route, and they rarely change once established.</p>
+<h3>Can I use any type of trash bin, or do I need specific ones?</h3>
+<p>This depends entirely on your location. Tampa and St. Petersburg require specific city-provided bins for automated collection, while other areas allow your own containers or bags. Contact your service provider for bin requirements and costs.</p>
+<h3>What items are not allowed in regular trash pickup?</h3>
+<p>Hazardous materials (paint, chemicals, batteries), electronics, large appliances, construction debris, and automotive parts are generally prohibited. Each county has specific drop-off locations or special collection events for these items.</p>
+<h3>How much does waste pickup cost in Tampa Bay?</h3>
+<p>Costs range from $16-28 monthly depending on your location and service level. City services in Tampa, St. Petersburg, and Clearwater typically cost $20-27 monthly, while smaller municipalities and unincorporated areas vary from $16-28 monthly.</p>
+<h3>When should I set up waste service after moving?</h3>
+<p>Contact your provider within the first week of moving to establish service. Account setup typically takes 24-48 hours, with bins delivered within a week. Call at least a week before your move-in date during busy seasons.</p>
+<h3>What's the difference between recycling rules in different counties?</h3>
+<p>Each county and city has specific recycling guidelines. Hillsborough accepts pizza boxes if clean, Pinellas requires separate glass drop-off, and Pasco accepts cleaned motor oil containers. Always check your local provider's specific rules to avoid contamination.</p>
+<h3>Can I get bulk item pickup, and does it cost extra?</h3>
+<p>Bulk pickup availability and costs vary significantly by location. Some areas like unincorporated Hillsborough include monthly bulk pickup, while beach communities often charge $25-50 per pickup. Most require 24-48 hours advance notice.</p>
+<h3>What happens if I miss my pickup day or put bins out late?</h3>
+<p>Most providers will not return for missed bins until the next scheduled pickup. Some areas charge fees for special pickups outside normal schedules. Always have bins out by 6 AM on your pickup day and retrieve them within 24 hours.</p>
+8:["slug","trash-recycling-tampa-bay-by-county","d"]
+0:["SZLIdUDBKVit2TP_UqbYL",[[["",{"children":["blog",{"children":[["slug","trash-recycling-tampa-bay-by-county","d"],{"children":["__PAGE__?{\"slug\":\"trash-recycling-tampa-bay-by-county\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","trash-recycling-tampa-bay-by-county","d"],{"children":["__PAGE__",{},[["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","section",null,{"className":"relative w-full h-[200px] md:h-[300px] overflow-hidden bg-brand-navy","children":[["$","$L3",null,{"src":"/images/blog/housing.jpg","alt":"Setting Up Trash and Recycling in Tampa Bay — By County","fill":true,"className":"object-cover","unoptimized":true,"priority":true}],["$","div",null,{"className":"absolute inset-0 bg-brand-navy/60"}],["$","div",null,{"className":"relative z-10 flex flex-col items-center justify-center h-full px-4 text-center","children":[["$","h1",null,{"className":"text-white text-3xl md:text-5xl font-display font-extrabold leading-tight max-w-4xl","children":"Setting Up Trash and Recycling in Tampa Bay — By County"}],"$undefined"]}]]}],["$","article",null,{"className":"max-w-4xl mx-auto px-4 py-10","children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://tbrelo.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://tbrelo.com/blog/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Setting Up Trash and Recycling in Tampa Bay — By County\",\"item\":\"https://tbrelo.com/blog/trash-recycling-tampa-bay-by-county/\"}]}"}}],["$","nav",null,{"aria-label":"Breadcrumb","className":"text-sm text-brand-slate mb-6","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-1","children":[["$","li","/",{"className":"flex items-center gap-1","children":[false,["$","$L4",null,{"href":"/","className":"hover:text-brand-blue transition-colors","children":"Home"}]]}],["$","li","/blog/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","$L4",null,{"href":"/blog/","className":"hover:text-brand-blue transition-colors","children":"Blog"}]]}],["$","li","/blog/trash-recycling-tampa-bay-by-county/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","span",null,{"className":"text-brand-navy font-medium","children":"Setting Up Trash and Recycling in Tampa Bay — By County"}]]}]]}]}]],["$","p",null,{"className":"text-brand-slate text-sm mb-8","children":["Published ","June 1, 2025"]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$5"}}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"cta-box-primary","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-white","children":"Moving to Tampa Bay? Get a Local Expert."}],["$","p",null,{"className":"text-sm mb-4 text-white","children":"Barrett Henry is a Broker Associate with REMAX Collective and over 23 years of real estate experience. Straight talk, smart strategy, no pressure."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-blue text-white hover:bg-blue-600","children":["Contact Barrett"," →"]}],["$","a",null,{"href":"tel:8137337907","className":"text-sm text-white","children":"(813) 733-7907"}]]}]]}],["$","div",null,{"className":"cta-box","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-brand-navy","children":"Need Help Setting Up Your New Home?"}],["$","p",null,{"className":"text-sm mb-4 text-brand-slate","children":"Best Bay Services handles handyman work, home repairs, and maintenance for your new Tampa Bay home. Local, licensed, and trusted."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-navy text-white hover:bg-brand-dark","children":["Get a Quote"," →"]}],["$","a",null,{"href":"tel:8134168676","className":"text-sm text-brand-blue","children":"(813) 416-8676"}]]}]]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","$L6",null,{"blogSlug":"trash-recycling-tampa-bay-by-county"}]]}]],null],null],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$8","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/db2729ad4a9f0783.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link",null,{"rel":"icon","href":"/favicon-32.png","type":"image/png","sizes":"32x32"}],["$","link",null,{"rel":"icon","href":"/favicon-16.png","type":"image/png","sizes":"16x16"}],["$","link",null,{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link",null,{"rel":"icon","href":"/icon-192.png","type":"image/png","sizes":"192x192"}],["$","meta",null,{"name":"google-adsense-account","content":"ca-pub-2033173419526042"}],["$","meta",null,{"name":"impact-site-verification","content":"bb623f40-9653-4312-9ca8-bf35b957a10c"}],["$","$La",null,{"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2033173419526042","strategy":"afterInteractive","crossOrigin":"anonymous"}],["$","$La",null,{"src":"https://www.googletagmanager.com/gtag/js?id=G-TD87S02SLM","strategy":"afterInteractive"}],["$","$La",null,{"id":"gtag-init","strategy":"afterInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'G-TD87S02SLM');\n          "}]]}],["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"[{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"https://tbrelo.com/#website\",\"name\":\"TB Relo — Tampa Bay Relocation Guide\",\"url\":\"https://tbrelo.com\",\"description\":\"Comprehensive relocation guides for Tampa Bay, Florida. Covering 8 counties, 100+ cities, cost of living, schools, and everything you need to know about moving to Tampa Bay.\",\"publisher\":{\"@id\":\"https://tbrelo.com/#org\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://tbrelo.com/blog/?q={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}},{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://tbrelo.com/#org\",\"name\":\"TB Relo\",\"url\":\"https://tbrelo.com\",\"sameAs\":[\"https://nowtb.com\",\"https://valricoagent.com\",\"https://parrishagent.com\",\"https://www.facebook.com/BarrettHenryREALTOR/\",\"https://www.instagram.com/thenowteam\",\"https://www.youtube.com/@nowtampa\"]}]"}}],["$","$Lb",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"max-w-2xl mx-auto px-4 py-20 text-center","children":[["$","h1",null,{"className":"text-6xl font-display font-extrabold text-brand-navy mb-4","children":"404"}],["$","p",null,{"className":"text-xl text-brand-slate mb-8","children":"This page doesn't exist. Maybe you're looking for one of these?"}],["$","div",null,{"className":"grid sm:grid-cols-2 gap-4 mb-12 text-left","children":[["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Moving Guide"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Complete guide to relocating to Tampa Bay"}]]}],["$","$L4",null,{"href":"/counties/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Explore Counties"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Browse all 8 Tampa Bay counties"}]]}],["$","$L4",null,{"href":"/cities/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Find a City"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"90+ city and neighborhood guides"}]]}],["$","$L4",null,{"href":"/blog/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Blog"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Tips, comparisons, and local insights"}]]}]]}],["$","$L4",null,{"href":"/","className":"px-8 py-4 bg-brand-blue text-white font-display font-bold rounded-lg hover:bg-blue-600 transition-colors text-lg inline-block","children":"Back to Home"}]]}],"notFoundStyles":[]}]}],["$","footer",null,{"className":"bg-brand-dark text-gray-400","children":[["$","div",null,{"className":"bg-brand-navy","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10","children":["$","div",null,{"className":"grid md:grid-cols-3 gap-8 text-center","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Buying or Selling a Home?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Barrett Henry — The NOW Team at REMAX Collective"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 733-7907"}]]}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Need a Handyman?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Best Bay Services — Tampa Bay Home Services"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 416-8676"}]]}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Property Management"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"ViVi PM — Full-Service Property Management"}]]}]]}]}]}],["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8","children":[["$","div",null,{"className":"md:col-span-2","children":[["$","div",null,{"className":"font-display font-extrabold text-2xl text-white mb-3","children":["TB",["$","span",null,{"className":"text-brand-sky","children":"Relo"}]]}],["$","p",null,{"className":"text-sm leading-relaxed","children":"Your complete guide to relocating to Tampa Bay, Florida. Covering Hillsborough, Pinellas, Pasco, Hernando, Polk, Manatee, Sarasota, and Citrus counties with honest, local insight from someone who actually lives here."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Guides"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"hover:text-white transition-colors","children":"Moving to Tampa Bay"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/cost-of-living/","className":"hover:text-white transition-colors","children":"Cost of Living"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/moving-checklist/","className":"hover:text-white transition-colors","children":"Moving Checklist"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/blog/","className":"hover:text-white transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Counties"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li","Hillsborough",{"children":["$","$L4",null,{"href":"/counties/hillsborough/","className":"hover:text-white transition-colors","children":["Hillsborough"," County"]}]}],["$","li","Pinellas",{"children":["$","$L4",null,{"href":"/counties/pinellas/","className":"hover:text-white transition-colors","children":["Pinellas"," County"]}]}],["$","li","Pasco",{"children":["$","$L4",null,{"href":"/counties/pasco/","className":"hover:text-white transition-colors","children":["Pasco"," County"]}]}],["$","li","Hernando",{"children":["$","$L4",null,{"href":"/counties/hernando/","className":"hover:text-white transition-colors","children":["Hernando"," County"]}]}],["$","li","Polk",{"children":["$","$L4",null,{"href":"/counties/polk/","className":"hover:text-white transition-colors","children":["Polk"," County"]}]}],["$","li","Manatee",{"children":["$","$L4",null,{"href":"/counties/manatee/","className":"hover:text-white transition-colors","children":["Manatee"," County"]}]}],["$","li","Sarasota",{"children":["$","$L4",null,{"href":"/counties/sarasota/","className":"hover:text-white transition-colors","children":["Sarasota"," County"]}]}],["$","li","Citrus",{"children":["$","$L4",null,{"href":"/counties/citrus/","className":"hover:text-white transition-colors","children":["Citrus"," County"]}]}]]}]]}]]}],["$","div",null,{"className":"mt-10 pt-8 border-t border-gray-800","children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Barrett Henry's Network"}],["$","div",null,{"className":"grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3 text-sm","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Tampa Bay Real Estate"}],["$","a",null,{"href":"https://valricoagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Real Estate"}],["$","a",null,{"href":"https://parrishagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Parrish Real Estate"}],["$","a",null,{"href":"https://valrico.blog","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Community Blog"}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Handyman & Home Services"}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Property Management"}]]}]]}],["$","div",null,{"className":"mt-12 pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center gap-4 text-xs","children":[["$","p",null,{"children":["© ",2026," TB Relo. All rights reserved."]}],["$","div",null,{"className":"flex gap-4","children":[["$","$L4",null,{"href":"/affiliate-disclosure/","className":"hover:text-white transition-colors","children":"Affiliate Disclosure"}],["$","$L4",null,{"href":"/privacy-policy/","className":"hover:text-white transition-colors","children":"Privacy Policy"}],["$","$L4",null,{"href":"/disclaimer/","className":"hover:text-white transition-colors","children":"Disclaimer"}]]}]]}]]}],["$","div",null,{"className":"bg-black/30 border-t border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 text-center text-xs text-gray-500","children":["Site by"," ",["$","a",null,{"href":"https://vyrabyte.com","target":"_blank","rel":"noopener noreferrer","className":"text-gray-400 hover:text-white transition-colors","children":"Vyrabyte"}]]}]}]]}],["$","$Lc",null,{}]]}]]}]],null],null],["$Ld",null]]]]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Setting Up Trash and Recycling in Tampa Bay — By County | TB Relo | TB Relo"}],["$","meta","3",{"name":"description","content":"Setting Up Trash and Recycling in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","6",{"property":"og:title","content":"Setting Up Trash and Recycling in Tampa Bay — By County | TB Relo | TB Relo"}],["$","meta","7",{"property":"og:description","content":"Setting Up Trash and Recycling in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","8",{"property":"og:image","content":"https://tbrelo.com/images/blog/housing.jpg"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"Setting Up Trash and Recycling in Tampa Bay — By County | TB Relo | TB Relo"}],["$","meta","13",{"name":"twitter:description","content":"Setting Up Trash and Recycling in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","14",{"name":"twitter:image","content":"https://tbrelo.com/images/blog/housing.jpg"}],["$","link","15",{"rel":"icon","href":"/icon.svg?ff4364d89c37c0d6","type":"image/svg+xml","sizes":"any"}]]
+1:null

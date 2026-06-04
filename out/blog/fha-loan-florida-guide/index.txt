@@ -1,0 +1,223 @@
+3:I[5878,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"Image"]
+4:I[2972,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],""]
+6:I[5143,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"default"]
+7:I[4707,[],""]
+9:I[6423,[],""]
+a:I[8003,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],""]
+b:I[7312,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"default"]
+c:I[5463,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"SpeedInsights"]
+2:Te12,[{"@context":"https://schema.org","@type":"Article","headline":"FHA Loans in Florida — What You Need to Know | TB Relo","description":"FHA Loans in Florida. Honest guide from a Tampa Bay local with 23+ years of experience.","url":"https://tbrelo.com/blog/fha-loan-florida-guide/","author":{"@type":"Person","name":"Barrett Henry","jobTitle":"REALTOR® & Broker Associate","url":"https://nowtb.com","worksFor":{"@type":"Organization","name":"REMAX Collective"},"knowsAbout":["Tampa Bay Real Estate","Florida Relocation","Residential Real Estate","Investment Property","Property Management"]},"publisher":{"@type":"Organization","name":"TB Relo","url":"https://tbrelo.com"},"datePublished":"2024-11-13T08:00:00-04:00","dateModified":"2026-04-15T08:00:00-04:00","image":{"@type":"ImageObject","url":"https://tbrelo.com/images/blog/finance.jpg"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What credit score do I need for an FHA loan in Florida?","acceptedAnswer":{"@type":"Answer","text":"The FHA minimum is 580, but most Florida lenders prefer 620 or higher. With scores between 580-619, expect additional scrutiny and potentially higher rates. Below 580, you'll need 10% down instead of 3.5%."}},{"@type":"Question","name":"Can I use gift money for my FHA down payment in Florida?","acceptedAnswer":{"@type":"Answer","text":"Yes, 100% of your down payment can come from gift funds from family members. You'll need a gift letter stating the funds don't need to be repaid, plus documentation showing the gift source and transfer."}},{"@type":"Question","name":"Do all Florida condos qualify for FHA financing?","acceptedAnswer":{"@type":"Answer","text":"No, the entire condo project must be FHA-approved. This requires adequate reserves, owner-occupancy above 50%, and proper insurance. Many newer developments and vacation rental properties don't qualify."}},{"@type":"Question","name":"How long does FHA mortgage insurance last in Florida?","acceptedAnswer":{"@type":"Answer","text":"For loans with 3.5% down, mortgage insurance typically lasts the life of the loan. With 10% or more down, it drops after 11 years. Many borrowers refinance to conventional loans once they reach 20% equity."}},{"@type":"Question","name":"Can I get an FHA loan for a manufactured home in Florida?","acceptedAnswer":{"@type":"Answer","text":"Yes, but the home must be permanently affixed to a foundation and meet FHA standards. The land must also be owned, not leased. Many manufactured home communities in Florida don't meet these requirements."}},{"@type":"Question","name":"What's the maximum FHA loan amount in Tampa Bay?","acceptedAnswer":{"@type":"Answer","text":"For 2024-2025, the limit is $472,030 in standard areas, with higher limits up to $766,550 in designated high-cost areas of Hillsborough County. This covers most of Tampa Bay except the most expensive waterfront areas."}},{"@type":"Question","name":"Can I buy a duplex with an FHA loan in Florida?","acceptedAnswer":{"@type":"Answer","text":"Yes, FHA loans work for 1-4 unit properties as long as you live in one unit as your primary residence. The rental income from other units can help you qualify for a larger loan amount."}},{"@type":"Question","name":"How do hurricane and flood zones affect FHA loans in Florida?","acceptedAnswer":{"@type":"Answer","text":"Homes in flood zones require flood insurance, adding significant monthly costs. Properties with previous hurricane damage may face additional appraisal scrutiny. Factor these insurance costs into your monthly budget from the start."}}]}]5:T4b2f,<p>Looking to buy a home in Florida but worried about that down payment? You're not alone. FHA loans have been the gateway to homeownership for millions of Floridians, and after 23 years of helping families navigate Tampa Bay's real estate market, I've seen these loans work miracles for first-time buyers and repeat purchasers alike.</p>
+<p>Here's the real deal: FHA loans aren't just for people with perfect credit or massive savings accounts. They're designed for regular folks who want to own a home without emptying their retirement fund for a down payment.</p>
+<h2>What Exactly Is an FHA Loan?</h2>
+<p>The Federal Housing Administration (FHA) doesn't actually lend you money — they insure your loan. This means if you default, the FHA pays the lender back. Because of this insurance, lenders are willing to accept lower down payments and credit scores than they would for conventional loans.</p>
+<p>Think of it as the government giving your lender a security blanket, which translates to better terms for you.</p>
+<p>In Florida's competitive market, where the median home price hovers around $385,000 as of 2024, FHA loans have become essential. I've watched families in <a href="/counties/hillsborough/">Hillsborough County</a> and <a href="/counties/pinellas/">Pinellas County</a> use FHA loans to purchase everything from starter condos in St. Pete to single-family homes in Brandon.</p>
+<h2>Florida FHA Loan Requirements That Actually Matter</h2>
+<h3>Credit Score Reality Check</h3>
+<p>The FHA's official minimum credit score is 580 for a 3.5% down payment, but here's what they don't tell you: most Florida lenders want to see 620 or higher. I've had clients with 580 credit scores get approved, but they usually face additional scrutiny and potentially higher interest rates.</p>
+<p>If your credit score falls between 500-579, you'll need to put down 10% instead of 3.5%. Harsh? Maybe. But it's still better than the 20% conventional loans typically require.</p>
+<h3>Income Requirements (The Real Numbers)</h3>
+<p>FHA doesn't set income limits, but they do care about your debt-to-income ratio (DTI). Your total monthly debt payments — including your new mortgage — shouldn't exceed 43% of your gross monthly income. Some lenders push this to 50% if you have compensating factors like substantial savings or excellent payment history.</p>
+<p>For example, if you earn $5,000 monthly, your total debt payments shouldn't exceed $2,150. In Tampa Bay's market, where a $300,000 home might cost $2,400 monthly (including taxes and insurance), you'd need to earn at least $5,600 monthly to qualify comfortably.</p>
+<h3>Employment History Standards</h3>
+<p>You need two years of steady employment history. Gaps longer than six months require explanation. Job hoppers beware — three or more jobs in two years triggers additional documentation requirements.</p>
+<p>Self-employed borrowers face extra hurdles. You'll need two years of tax returns, profit and loss statements, and often a CPA letter. I've seen self-employed clients in Clearwater and Tampa successfully navigate this process, but it takes patience and organization.</p>
+<h2>Down Payment Options That Work in Florida</h2>
+<h3>The Famous 3.5% Down Payment</h3>
+<p>This is FHA's headline feature, but let's crunch real numbers. On a $350,000 home in South Tampa, your down payment would be $12,250. Add closing costs (typically 2-3% of the loan amount), and you're looking at roughly $20,000-$25,000 total out-of-pocket.</p>
+<h3>Down Payment Assistance Programs</h3>
+<p>Florida offers several down payment assistance programs that stack with FHA loans:</p>
+<p><strong>Florida Housing Finance Corporation</strong> provides up to $10,000 in down payment assistance for qualified buyers. Income limits vary by county — in Hillsborough County, the limit for a family of four is approximately $95,200.</p>
+<p><strong>Local programs matter too.</strong> Tampa offers the Neighborhood Lift program in select ZIP codes, providing $15,000 toward down payment and closing costs. St. Petersburg has similar programs for buyers purchasing in targeted revitalization areas.</p>
+<h2>FHA Loan Limits in Florida (2024-2025)</h2>
+<p>Loan limits vary dramatically across Florida's counties. Here's what matters for Tampa Bay:</p>
+<ul>
+<li><strong>Hillsborough County</strong>: $472,030 (standard areas), up to $766,550 in high-cost areas</li>
+<li><strong>Pinellas County</strong>: $472,030 standard</li>
+<li><strong>Pasco County</strong>: $472,030 standard</li>
+<li><strong>Hernando County</strong>: $472,030 standard</li>
+</ul>
+<p>High-cost areas include parts of South Tampa, Hyde Park, and Westshore. These higher limits reflect the reality that decent homes in these neighborhoods often start at $500,000+.</p>
+<p>Miami-Dade and Monroe Counties see even higher limits — up to $1,149,825 in Key West, where a basic condo can cost $800,000.</p>
+<h2>The Mortgage Insurance Reality</h2>
+<p>Here's where FHA loans get expensive: mortgage insurance premiums (MIP). You'll pay both upfront and annual premiums.</p>
+<h3>Upfront Mortgage Insurance Premium (UFMIP)</h3>
+<p>Currently 1.75% of your loan amount, typically rolled into your loan. On a $340,000 loan, that's $5,950 added to your balance.</p>
+<h3>Annual Mortgage Insurance Premium</h3>
+<p>This varies based on your loan amount, down payment, and loan term:</p>
+<ul>
+<li>3.5% down payment: 0.85% annually</li>
+<li>5% down payment: 0.80% annually</li>
+<li>10% down payment: 0.75% annually</li>
+</ul>
+<p>On that $340,000 loan with 3.5% down, you'd pay roughly $240 monthly for mortgage insurance. Unlike conventional PMI, FHA mortgage insurance typically stays for the life of the loan unless you put down 10% or more (then it drops after 11 years).</p>
+<p>This is why many buyers refinance to conventional loans once they have 20% equity.</p>
+<h2>Property Requirements for FHA Loans in Florida</h2>
+<p>FHA loans come with specific property standards that matter in Florida's unique housing market.</p>
+<h3>The FHA Appraisal Process</h3>
+<p>FHA appraisers don't just determine value — they assess safety and habitability. Common issues in Florida homes include:</p>
+<p><strong>Foundation problems</strong> — especially in older Tampa and St. Pete neighborhoods where settling is common. Hairline cracks might pass, but anything affecting structural integrity kills the deal.</p>
+<p><strong>Roof requirements</strong> — roofs must have at least two years of remaining life. In Florida's hurricane-prone climate, this eliminates many homes with older shingle roofs.</p>
+<p><strong>Electrical and plumbing standards</strong> — outdated electrical panels (like old Federal Pacific breakers common in 1970s-80s Florida homes) often require replacement before closing.</p>
+<h3>Condo Considerations</h3>
+<p>Not all condos qualify for FHA financing. The entire condominium project must be FHA-approved, which requires:</p>
+<ul>
+<li>Owner-occupancy ratio above 50%</li>
+<li>Adequate insurance coverage</li>
+<li>Stable homeowners association finances</li>
+</ul>
+<p>This eliminates many newer condo developments and vacation rental properties. Before falling in love with that Clearwater Beach condo, verify FHA approval status.</p>
+<h2>Florida-Specific FHA Considerations</h2>
+<h3>Hurricane and Flood Zone Issues</h3>
+<p>Florida's weather creates unique FHA challenges. Homes in flood zones require flood insurance, adding $400-$1,200+ annually to housing costs. Factor this into your budget early.</p>
+<p>Hurricane damage history matters too. Properties with previous wind damage claims face increased scrutiny during the appraisal process.</p>
+<h3>HOA and Condo Association Finances</h3>
+<p>Florida's abundance of planned communities and condominiums means dealing with associations. FHA requires:</p>
+<ul>
+<li>HOA reserves meeting specific percentages</li>
+<li>No more than 15% of units delinquent on dues</li>
+<li>Adequate liability insurance coverage</li>
+</ul>
+<p>I've seen deals fall apart because condo associations had inadequate reserves or too many delinquent owners.</p>
+<h2>FHA vs. Conventional Loans: The Florida Reality</h2>
+<h3>When FHA Makes Sense</h3>
+<p><strong>Limited savings</strong>: If you have great income but limited savings, FHA's 3.5% down payment beats conventional loans requiring 5-20% down.</p>
+<p><strong>Credit challenges</strong>: Scores in the 620-680 range often get better rates with FHA than conventional loans.</p>
+<p><strong>Debt-to-income flexibility</strong>: FHA allows higher DTI ratios than most conventional programs.</p>
+<h3>When Conventional Wins</h3>
+<p><strong>Strong financial profile</strong>: 720+ credit score with 10-20% down payment often yields better conventional loan terms.</p>
+<p><strong>Higher loan amounts</strong>: Above FHA limits, conventional becomes your only option.</p>
+<p><strong>PMI considerations</strong>: Conventional PMI drops off at 20% equity; FHA mortgage insurance typically doesn't.</p>
+<h2>The Application Process: What Really Happens</h2>
+<h3>Pre-Approval Reality</h3>
+<p>Getting pre-approved for an FHA loan in Florida typically takes 3-5 business days with complete documentation. You'll need:</p>
+<ul>
+<li>Two years of tax returns</li>
+<li>Two months of bank statements</li>
+<li>Pay stubs covering 30 days</li>
+<li>Employment verification letter</li>
+</ul>
+<p>Self-employed borrowers add 2-4 weeks to this timeline.</p>
+<h3>Documentation Deep Dive</h3>
+<p>Florida's diverse population means lenders see unusual income sources regularly. Common documentation challenges include:</p>
+<ul>
+<li>Seasonal employment (tourism industry workers)</li>
+<li>Commission-based income (real estate, sales)</li>
+<li>Rental property income</li>
+<li>Social Security and retirement benefits</li>
+</ul>
+<h3>Timeline Expectations</h3>
+<p>From pre-approval to closing, expect 30-45 days. Florida's high transaction volume can create bottlenecks at appraisal and title company stages. Hurricane season (June-November) sometimes adds delays due to inspection scheduling challenges.</p>
+<h2>Costs Beyond the Down Payment</h2>
+<h3>Closing Costs in Florida</h3>
+<p>Florida closing costs typically range 2-3% of the loan amount. On a $350,000 purchase:</p>
+<ul>
+<li>Title insurance: ~$2,000-$3,000</li>
+<li>Appraisal: $500-$600</li>
+<li>Inspection: $400-$600</li>
+<li>Lender fees: $1,500-$2,500</li>
+<li>Prepaid items: $2,000-$4,000</li>
+</ul>
+<p><strong>Good news</strong>: FHA allows sellers to contribute up to 6% toward closing costs. In buyer's markets, this becomes a powerful negotiation tool.</p>
+<h3>First-Year Costs</h3>
+<p>Beyond your down payment and closing costs, budget for:</p>
+<ul>
+<li>Homeowners insurance: $1,200-$3,000+ annually (higher in coastal areas)</li>
+<li>Property taxes: varies dramatically by county and municipality</li>
+<li>HOA fees: $200-$800+ monthly in many Florida communities</li>
+<li>Utility deposits: $200-$500 for new service</li>
+</ul>
+<h2>Making Your FHA Loan Application Stronger</h2>
+<h3>Credit Score Improvement Strategies</h3>
+<p><strong>Pay down credit cards</strong> below 30% utilization — ideally below 10%. A client recently improved her score from 635 to 668 in three months by paying down cards and not closing any accounts.</p>
+<p><strong>Don't close old accounts</strong>. Length of credit history matters. Keep that old credit card open, even if you don't use it.</p>
+<p><strong>Dispute inaccuracies immediately</strong>. Florida's three major credit bureaus must respond within 30 days. I've seen scores jump 20-40 points after removing incorrect information.</p>
+<h3>Saving Strategies That Work</h3>
+<p><strong>Automate savings</strong>. Set up automatic transfers to a dedicated house fund. Even $200 monthly adds up over time.</p>
+<p><strong>Tax refund strategy</strong>. Many clients use tax refunds as their primary down payment source. File early and direct deposit to your house fund.</p>
+<p><strong>Side hustle income</strong>. Uber, DoorDash, and freelance work can provide extra down payment funds, but document everything. Lenders need to see consistent side income over time.</p>
+<h2>Common FHA Loan Mistakes in Florida</h2>
+<h3>Mistake #1: Not Shopping Lenders</h3>
+<p>FHA loans vary significantly between lenders. I've seen rate differences of 0.5% or more on identical scenarios. Credit unions often offer competitive FHA rates, especially for members.</p>
+<h3>Mistake #2: Ignoring Total Housing Costs</h3>
+<p>Don't just focus on the mortgage payment. Florida property taxes, insurance, and HOA fees can double your monthly housing expense. A $2,000 mortgage might cost $3,200 monthly after all expenses.</p>
+<h3>Mistake #3: Timing Issues</h3>
+<p>Starting your home search before getting pre-approved wastes everyone's time. In competitive markets like Tampa and St. Pete, sellers favor buyers with solid pre-approval letters.</p>
+<h3>Mistake #4: Forgetting About Repairs</h3>
+<p>FHA appraisals are strict. That charming 1960s ranch in Seminole Heights might need $5,000 in repairs before closing. Budget for potential repair costs or negotiate repair credits upfront.</p>
+<h2>Geographic Considerations Across Florida</h2>
+<h3>Tampa Bay Market Reality</h3>
+<p>Tampa Bay's rapid growth has pushed home prices up 40-60% since 2020. FHA buyers often find themselves priced out of popular neighborhoods like South Tampa, Hyde Park, and downtown St. Pete. Consider emerging areas like:</p>
+<ul>
+<li><strong>Brandon and Riverview</strong>: Great schools, newer construction, FHA-friendly pricing</li>
+<li><strong>New Port Richey and Port Richey</strong>: Affordable options with Gulf access</li>
+<li><strong>Plant City</strong>: Still affordable, growing rapidly</li>
+</ul>
+<p>Check out our detailed <a href="/cost-of-living/">cost of living analysis</a> to understand true housing costs across Tampa Bay.</p>
+<h3>South Florida Challenges</h3>
+<p>Miami-Dade and Broward Counties present unique FHA challenges:</p>
+<ul>
+<li>Higher loan limits but much higher prices</li>
+<li>Extensive condo markets with complex approval processes</li>
+<li>Hurricane insurance costs that can exceed mortgage payments</li>
+</ul>
+<h3>North Florida Opportunities</h3>
+<p>Jacksonville, Gainesville, and Tallahassee offer better FHA loan value propositions:</p>
+<ul>
+<li>Lower home prices relative to income</li>
+<li>More single-family home options</li>
+<li>Generally lower insurance costs</li>
+</ul>
+<hr>
+<p><strong>Moving to Tampa Bay?</strong> Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.</p>
+<p><a href="https://nowtb.com">Contact Barrett →</a> | <a href="tel:8137337907">(813) 733-7907</a></p>
+<hr>
+<h2>Advanced FHA Strategies for Florida Buyers</h2>
+<h3>FHA 203(k) Renovation Loans</h3>
+<p>Florida's older housing stock makes renovation loans attractive. The FHA 203(k) program lets you finance both the purchase and renovation costs in one loan. Perfect for those 1950s concrete block homes in St. Petersburg or Tampa that need updating.</p>
+<p><strong>Standard 203(k)</strong> handles major renovations over $35,000. Think kitchen and bathroom overhauls, roof replacements, or room additions.</p>
+<p><strong>Limited 203(k)</strong> covers smaller projects under $35,000. Ideal for flooring, appliances, or minor repairs.</p>
+<h3>Assumable Loan Strategy</h3>
+<p>FHA loans are assumable, meaning qualified buyers can take over your loan terms. In rising rate environments, this becomes valuable. A buyer could assume your 3.5% FHA loan instead of getting a new 7% loan.</p>
+<h2>Working with Real Estate Professionals</h2>
+<h3>Choosing the Right Agent</h3>
+<p>Not all agents understand FHA nuances. Your agent should know:</p>
+<ul>
+<li>Which neighborhoods have FHA-approved condos</li>
+<li>Local down payment assistance programs</li>
+<li>Common appraisal issues in different areas</li>
+<li>Repair negotiation strategies</li>
+</ul>
+<h3>Lender Selection Matters</h3>
+<p>Work with lenders experienced in Florida FHA loans. They understand:</p>
+<ul>
+<li>Local appraisal challenges</li>
+<li>Hurricane and flood zone issues</li>
+<li>Down payment assistance program coordination</li>
+<li>Faster processing for competitive markets</li>
+</ul>
+<h2>The Bottom Line on FHA Loans in Florida</h2>
+<p>FHA loans remain one of the best paths to homeownership in Florida, especially for first-time buyers. Yes, mortgage insurance adds cost. Yes, property requirements are strict. But for buyers with limited savings or credit challenges, FHA loans open doors that would otherwise stay closed.</p>
+<p>The key is understanding total costs upfront. That includes mortgage insurance, flood insurance, HOA fees, and maintenance costs that come with Florida homeownership.</p>
+<p>I've helped hundreds of families navigate FHA loans in Tampa Bay. The ones who succeed start with realistic expectations, shop around for the best rates, and work with experienced professionals who understand Florida's unique market conditions.</p>
+<h2>Frequently Asked Questions</h2>
+<h3>What credit score do I need for an FHA loan in Florida?</h3>
+<p>The FHA minimum is 580, but most Florida lenders prefer 620 or higher. With scores between 580-619, expect additional scrutiny and potentially higher rates. Below 580, you'll need 10% down instead of 3.5%.</p>
+<h3>Can I use gift money for my FHA down payment in Florida?</h3>
+<p>Yes, 100% of your down payment can come from gift funds from family members. You'll need a gift letter stating the funds don't need to be repaid, plus documentation showing the gift source and transfer.</p>
+<h3>Do all Florida condos qualify for FHA financing?</h3>
+<p>No, the entire condo project must be FHA-approved. This requires adequate reserves, owner-occupancy above 50%, and proper insurance. Many newer developments and vacation rental properties don't qualify.</p>
+<h3>How long does FHA mortgage insurance last in Florida?</h3>
+<p>For loans with 3.5% down, mortgage insurance typically lasts the life of the loan. With 10% or more down, it drops after 11 years. Many borrowers refinance to conventional loans once they reach 20% equity.</p>
+<h3>Can I get an FHA loan for a manufactured home in Florida?</h3>
+<p>Yes, but the home must be permanently affixed to a foundation and meet FHA standards. The land must also be owned, not leased. Many manufactured home communities in Florida don't meet these requirements.</p>
+<h3>What's the maximum FHA loan amount in Tampa Bay?</h3>
+<p>For 2024-2025, the limit is $472,030 in standard areas, with higher limits up to $766,550 in designated high-cost areas of Hillsborough County. This covers most of Tampa Bay except the most expensive waterfront areas.</p>
+<h3>Can I buy a duplex with an FHA loan in Florida?</h3>
+<p>Yes, FHA loans work for 1-4 unit properties as long as you live in one unit as your primary residence. The rental income from other units can help you qualify for a larger loan amount.</p>
+<h3>How do hurricane and flood zones affect FHA loans in Florida?</h3>
+<p>Homes in flood zones require flood insurance, adding significant monthly costs. Properties with previous hurricane damage may face additional appraisal scrutiny. Factor these insurance costs into your monthly budget from the start.</p>
+8:["slug","fha-loan-florida-guide","d"]
+0:["SZLIdUDBKVit2TP_UqbYL",[[["",{"children":["blog",{"children":[["slug","fha-loan-florida-guide","d"],{"children":["__PAGE__?{\"slug\":\"fha-loan-florida-guide\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","fha-loan-florida-guide","d"],{"children":["__PAGE__",{},[["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","section",null,{"className":"relative w-full h-[200px] md:h-[300px] overflow-hidden bg-brand-navy","children":[["$","$L3",null,{"src":"/images/blog/finance.jpg","alt":"FHA Loans in Florida — What You Need to Know","fill":true,"className":"object-cover","unoptimized":true,"priority":true}],["$","div",null,{"className":"absolute inset-0 bg-brand-navy/60"}],["$","div",null,{"className":"relative z-10 flex flex-col items-center justify-center h-full px-4 text-center","children":[["$","h1",null,{"className":"text-white text-3xl md:text-5xl font-display font-extrabold leading-tight max-w-4xl","children":"FHA Loans in Florida — What You Need to Know"}],"$undefined"]}]]}],["$","article",null,{"className":"max-w-4xl mx-auto px-4 py-10","children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://tbrelo.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://tbrelo.com/blog/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"FHA Loans in Florida — What You Need to Know\",\"item\":\"https://tbrelo.com/blog/fha-loan-florida-guide/\"}]}"}}],["$","nav",null,{"aria-label":"Breadcrumb","className":"text-sm text-brand-slate mb-6","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-1","children":[["$","li","/",{"className":"flex items-center gap-1","children":[false,["$","$L4",null,{"href":"/","className":"hover:text-brand-blue transition-colors","children":"Home"}]]}],["$","li","/blog/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","$L4",null,{"href":"/blog/","className":"hover:text-brand-blue transition-colors","children":"Blog"}]]}],["$","li","/blog/fha-loan-florida-guide/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","span",null,{"className":"text-brand-navy font-medium","children":"FHA Loans in Florida — What You Need to Know"}]]}]]}]}]],["$","p",null,{"className":"text-brand-slate text-sm mb-8","children":["Published ","November 13, 2024"]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$5"}}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"cta-box-primary","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-white","children":"Moving to Tampa Bay? Get a Local Expert."}],["$","p",null,{"className":"text-sm mb-4 text-white","children":"Barrett Henry is a Broker Associate with REMAX Collective and over 23 years of real estate experience. Straight talk, smart strategy, no pressure."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-blue text-white hover:bg-blue-600","children":["Contact Barrett"," →"]}],["$","a",null,{"href":"tel:8137337907","className":"text-sm text-white","children":"(813) 733-7907"}]]}]]}],["$","div",null,{"className":"cta-box","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-brand-navy","children":"Need Help Setting Up Your New Home?"}],["$","p",null,{"className":"text-sm mb-4 text-brand-slate","children":"Best Bay Services handles handyman work, home repairs, and maintenance for your new Tampa Bay home. Local, licensed, and trusted."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-navy text-white hover:bg-brand-dark","children":["Get a Quote"," →"]}],["$","a",null,{"href":"tel:8134168676","className":"text-sm text-brand-blue","children":"(813) 416-8676"}]]}]]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","$L6",null,{"blogSlug":"fha-loan-florida-guide"}]]}]],null],null],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$8","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/db2729ad4a9f0783.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link",null,{"rel":"icon","href":"/favicon-32.png","type":"image/png","sizes":"32x32"}],["$","link",null,{"rel":"icon","href":"/favicon-16.png","type":"image/png","sizes":"16x16"}],["$","link",null,{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link",null,{"rel":"icon","href":"/icon-192.png","type":"image/png","sizes":"192x192"}],["$","meta",null,{"name":"google-adsense-account","content":"ca-pub-2033173419526042"}],["$","meta",null,{"name":"impact-site-verification","content":"bb623f40-9653-4312-9ca8-bf35b957a10c"}],["$","$La",null,{"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2033173419526042","strategy":"afterInteractive","crossOrigin":"anonymous"}],["$","$La",null,{"src":"https://www.googletagmanager.com/gtag/js?id=G-TD87S02SLM","strategy":"afterInteractive"}],["$","$La",null,{"id":"gtag-init","strategy":"afterInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'G-TD87S02SLM');\n          "}]]}],["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"[{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"https://tbrelo.com/#website\",\"name\":\"TB Relo — Tampa Bay Relocation Guide\",\"url\":\"https://tbrelo.com\",\"description\":\"Comprehensive relocation guides for Tampa Bay, Florida. Covering 8 counties, 100+ cities, cost of living, schools, and everything you need to know about moving to Tampa Bay.\",\"publisher\":{\"@id\":\"https://tbrelo.com/#org\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://tbrelo.com/blog/?q={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}},{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://tbrelo.com/#org\",\"name\":\"TB Relo\",\"url\":\"https://tbrelo.com\",\"sameAs\":[\"https://nowtb.com\",\"https://valricoagent.com\",\"https://parrishagent.com\",\"https://www.facebook.com/BarrettHenryREALTOR/\",\"https://www.instagram.com/thenowteam\",\"https://www.youtube.com/@nowtampa\"]}]"}}],["$","$Lb",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"max-w-2xl mx-auto px-4 py-20 text-center","children":[["$","h1",null,{"className":"text-6xl font-display font-extrabold text-brand-navy mb-4","children":"404"}],["$","p",null,{"className":"text-xl text-brand-slate mb-8","children":"This page doesn't exist. Maybe you're looking for one of these?"}],["$","div",null,{"className":"grid sm:grid-cols-2 gap-4 mb-12 text-left","children":[["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Moving Guide"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Complete guide to relocating to Tampa Bay"}]]}],["$","$L4",null,{"href":"/counties/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Explore Counties"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Browse all 8 Tampa Bay counties"}]]}],["$","$L4",null,{"href":"/cities/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Find a City"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"90+ city and neighborhood guides"}]]}],["$","$L4",null,{"href":"/blog/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Blog"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Tips, comparisons, and local insights"}]]}]]}],["$","$L4",null,{"href":"/","className":"px-8 py-4 bg-brand-blue text-white font-display font-bold rounded-lg hover:bg-blue-600 transition-colors text-lg inline-block","children":"Back to Home"}]]}],"notFoundStyles":[]}]}],["$","footer",null,{"className":"bg-brand-dark text-gray-400","children":[["$","div",null,{"className":"bg-brand-navy","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10","children":["$","div",null,{"className":"grid md:grid-cols-3 gap-8 text-center","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Buying or Selling a Home?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Barrett Henry — The NOW Team at REMAX Collective"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 733-7907"}]]}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Need a Handyman?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Best Bay Services — Tampa Bay Home Services"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 416-8676"}]]}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Property Management"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"ViVi PM — Full-Service Property Management"}]]}]]}]}]}],["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8","children":[["$","div",null,{"className":"md:col-span-2","children":[["$","div",null,{"className":"font-display font-extrabold text-2xl text-white mb-3","children":["TB",["$","span",null,{"className":"text-brand-sky","children":"Relo"}]]}],["$","p",null,{"className":"text-sm leading-relaxed","children":"Your complete guide to relocating to Tampa Bay, Florida. Covering Hillsborough, Pinellas, Pasco, Hernando, Polk, Manatee, Sarasota, and Citrus counties with honest, local insight from someone who actually lives here."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Guides"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"hover:text-white transition-colors","children":"Moving to Tampa Bay"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/cost-of-living/","className":"hover:text-white transition-colors","children":"Cost of Living"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/moving-checklist/","className":"hover:text-white transition-colors","children":"Moving Checklist"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/blog/","className":"hover:text-white transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Counties"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li","Hillsborough",{"children":["$","$L4",null,{"href":"/counties/hillsborough/","className":"hover:text-white transition-colors","children":["Hillsborough"," County"]}]}],["$","li","Pinellas",{"children":["$","$L4",null,{"href":"/counties/pinellas/","className":"hover:text-white transition-colors","children":["Pinellas"," County"]}]}],["$","li","Pasco",{"children":["$","$L4",null,{"href":"/counties/pasco/","className":"hover:text-white transition-colors","children":["Pasco"," County"]}]}],["$","li","Hernando",{"children":["$","$L4",null,{"href":"/counties/hernando/","className":"hover:text-white transition-colors","children":["Hernando"," County"]}]}],["$","li","Polk",{"children":["$","$L4",null,{"href":"/counties/polk/","className":"hover:text-white transition-colors","children":["Polk"," County"]}]}],["$","li","Manatee",{"children":["$","$L4",null,{"href":"/counties/manatee/","className":"hover:text-white transition-colors","children":["Manatee"," County"]}]}],["$","li","Sarasota",{"children":["$","$L4",null,{"href":"/counties/sarasota/","className":"hover:text-white transition-colors","children":["Sarasota"," County"]}]}],["$","li","Citrus",{"children":["$","$L4",null,{"href":"/counties/citrus/","className":"hover:text-white transition-colors","children":["Citrus"," County"]}]}]]}]]}]]}],["$","div",null,{"className":"mt-10 pt-8 border-t border-gray-800","children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Barrett Henry's Network"}],["$","div",null,{"className":"grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3 text-sm","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Tampa Bay Real Estate"}],["$","a",null,{"href":"https://valricoagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Real Estate"}],["$","a",null,{"href":"https://parrishagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Parrish Real Estate"}],["$","a",null,{"href":"https://valrico.blog","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Community Blog"}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Handyman & Home Services"}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Property Management"}]]}]]}],["$","div",null,{"className":"mt-12 pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center gap-4 text-xs","children":[["$","p",null,{"children":["© ",2026," TB Relo. All rights reserved."]}],["$","div",null,{"className":"flex gap-4","children":[["$","$L4",null,{"href":"/affiliate-disclosure/","className":"hover:text-white transition-colors","children":"Affiliate Disclosure"}],["$","$L4",null,{"href":"/privacy-policy/","className":"hover:text-white transition-colors","children":"Privacy Policy"}],["$","$L4",null,{"href":"/disclaimer/","className":"hover:text-white transition-colors","children":"Disclaimer"}]]}]]}]]}],["$","div",null,{"className":"bg-black/30 border-t border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 text-center text-xs text-gray-500","children":["Site by"," ",["$","a",null,{"href":"https://vyrabyte.com","target":"_blank","rel":"noopener noreferrer","className":"text-gray-400 hover:text-white transition-colors","children":"Vyrabyte"}]]}]}]]}],["$","$Lc",null,{}]]}]]}]],null],null],["$Ld",null]]]]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"FHA Loans in Florida — What You Need to Know | TB Relo | TB Relo"}],["$","meta","3",{"name":"description","content":"FHA Loans in Florida. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","6",{"property":"og:title","content":"FHA Loans in Florida — What You Need to Know | TB Relo | TB Relo"}],["$","meta","7",{"property":"og:description","content":"FHA Loans in Florida. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","8",{"property":"og:image","content":"https://tbrelo.com/images/blog/finance.jpg"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"FHA Loans in Florida — What You Need to Know | TB Relo | TB Relo"}],["$","meta","13",{"name":"twitter:description","content":"FHA Loans in Florida. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","14",{"name":"twitter:image","content":"https://tbrelo.com/images/blog/finance.jpg"}],["$","link","15",{"rel":"icon","href":"/icon.svg?ff4364d89c37c0d6","type":"image/svg+xml","sizes":"any"}]]
+1:null

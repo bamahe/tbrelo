@@ -1,0 +1,311 @@
+3:I[5878,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"Image"]
+4:I[2972,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],""]
+6:I[5143,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"default"]
+7:I[4707,[],""]
+9:I[6423,[],""]
+a:I[8003,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],""]
+b:I[7312,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"default"]
+c:I[5463,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"SpeedInsights"]
+2:T10fb,[{"@context":"https://schema.org","@type":"Article","headline":"Living in Riverview (Deep Dive) — What It's Really Like (Honest Relocation Guide) | TB Relo","description":"Living in Riverview (Deep Dive). Honest guide from a Tampa Bay local with 23+ years of experience.","url":"https://tbrelo.com/blog/living-in-riverview-guide/","author":{"@type":"Person","name":"Barrett Henry","jobTitle":"REALTOR® & Broker Associate","url":"https://nowtb.com","worksFor":{"@type":"Organization","name":"REMAX Collective"},"knowsAbout":["Tampa Bay Real Estate","Florida Relocation","Residential Real Estate","Investment Property","Property Management"]},"publisher":{"@type":"Organization","name":"TB Relo","url":"https://tbrelo.com"},"datePublished":"2025-02-06T08:00:00-04:00","dateModified":"2026-04-16T08:00:00-04:00","image":{"@type":"ImageObject","url":"https://tbrelo.com/images/blog/lifestyle.jpg"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Is Riverview a good place to raise kids?","acceptedAnswer":{"@type":"Answer","text":"Absolutely. Riverview offers some of Hillsborough County's highest-rated schools, numerous youth sports leagues, safe neighborhoods, and family-oriented amenities. The community pools, parks, and organized activities make it ideal for families with children."}},{"@type":"Question","name":"How bad is the commute from Riverview to downtown Tampa?","acceptedAnswer":{"@type":"Answer","text":"Plan 25-35 minutes during off-peak hours, 45-60 minutes during rush hour. The I-75 corridor gets congested, and Big Bend Road is a consistent bottleneck. Leave extra time for important appointments."}},{"@type":"Question","name":"What's the difference between Riverview and FishHawk Ranch?","acceptedAnswer":{"@type":"Answer","text":"FishHawk Ranch is technically in Brandon but marketed as Riverview. It's a luxury master-planned community with golf courses, resort-style amenities, and homes starting around $650K. Regular Riverview has more diverse housing options and price points."}},{"@type":"Question","name":"Are there flood risks in Riverview?","acceptedAnswer":{"@type":"Answer","text":"Yes, particularly near the Alafia River and low-lying areas. Check FEMA flood maps before buying and factor in potential flood insurance costs of $400-$2,000+ annually in high-risk zones."}},{"@type":"Question","name":"What's the job market like in Riverview?","acceptedAnswer":{"@type":"Answer","text":"Limited local employment beyond service industries. Most residents commute to Tampa, Brandon, or St. Petersburg for professional careers. The area is more residential than commercial."}},{"@type":"Question","name":"How expensive are utilities in Riverview?","acceptedAnswer":{"@type":"Answer","text":"Electric bills run $180-$250 monthly in summer for a 2,000 sq ft home due to air conditioning needs. Water/sewer averages $65-$85 monthly. Internet costs $70-$120 monthly depending on provider and speed."}},{"@type":"Question","name":"Is Riverview walkable?","acceptedAnswer":{"@type":"Answer","text":"No. This is car-dependent suburban sprawl. You'll drive to grocery stores, restaurants, schools, and entertainment. Some newer communities have walking trails within neighborhoods, but daily errands require a vehicle."}},{"@type":"Question","name":"What are HOA fees like in Riverview communities?","acceptedAnswer":{"@type":"Answer","text":"Varies widely. Basic neighborhoods charge $75-$125 monthly. Luxury communities like FishHawk Ranch charge $150-$300 monthly for resort-style amenities including golf courses, multiple pools, and fitness centers."}},{"@type":"Question","name":"How safe is Riverview compared to other Tampa Bay areas?","acceptedAnswer":{"@type":"Answer","text":"Generally safer than Tampa average with violent crime at 2.1 per 1,000 residents. Property crime is slightly higher at 12.8 per 1,000, mostly vehicle theft. Gated communities and newer neighborhoods have lower crime rates."}},{"@type":"Question","name":"What's the best time to buy a home in Riverview?","acceptedAnswer":{"@type":"Answer","text":"The market moves fast year-round due to excellent schools and family appeal. Spring (March-May) sees most inventory but also most competition. Summer can offer slight advantages with less buyer competition, though inventory may be lower."}}]}]5:T4ec1,<p>Riverview sits 20 minutes southeast of downtown Tampa, straddling the line between suburban sprawl and small-town charm. After 23+ years selling homes here, I've watched this community transform from sleepy agricultural town to one of Tampa Bay's fastest-growing suburbs. The question isn't whether Riverview is growing — it's whether that growth aligns with what you're looking for.</p>
+<p>Let me cut through the marketing fluff and tell you what living in Riverview is actually like in 2024.</p>
+<h2>The Real Riverview: Beyond the Brochures</h2>
+<p>Riverview encompasses a massive area — roughly 54 square miles in <a href="/counties/hillsborough/">Hillsborough County</a>. When people say "Riverview," they're often talking about several distinct areas:</p>
+<ul>
+<li><strong>Historic Riverview</strong> — The original town center around US-301</li>
+<li><strong>FishHawk Ranch</strong> — Master-planned luxury community (technically Brandon, but everyone calls it Riverview)</li>
+<li><strong>New Tampa South</strong> — Newer developments between I-75 and US-301</li>
+<li><strong>Rural Riverview</strong> — Horse properties and larger lots east of US-301</li>
+</ul>
+<p>Each area has a completely different personality and price point. Saying you live in "Riverview" is like saying you live in "Tampa" — it doesn't tell the whole story.</p>
+<h2>Housing Market Reality Check (2024 Numbers)</h2>
+<p><strong>Median Home Prices:</strong></p>
+<ul>
+<li>Overall Riverview: $485,000</li>
+<li>FishHawk Ranch: $650,000-$1.2M</li>
+<li>Historic Riverview: $320,000-$450,000</li>
+<li>New construction: $550,000-$750,000</li>
+<li>Rural properties (1+ acres): $575,000-$950,000</li>
+</ul>
+<p>The market here moves fast. Really fast. I've had clients lose six homes before landing one. It's not unusual for well-priced homes to receive multiple offers within 48 hours.</p>
+<p><strong>What You Get for Your Money:</strong></p>
+<ul>
+<li>$400K: 3/2 home from the 1980s, 0.25-acre lot</li>
+<li>$500K: 4/3 new construction, community amenities</li>
+<li>$650K: 4/3 in FishHawk Ranch with golf course access</li>
+<li>$750K+: Custom home on larger lot or luxury community</li>
+</ul>
+<p>Property taxes run about $4,200 annually on a $500K home — lower than many Tampa Bay areas but rising with home values.</p>
+<hr>
+<p><strong>Moving to Tampa Bay?</strong> Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.</p>
+<p><a href="https://nowtb.com">Contact Barrett →</a> | <a href="tel:8137337907">(813) 733-7907</a></p>
+<hr>
+<h2>School Districts: The Good, The Great, and The Concerning</h2>
+<p>Riverview falls within Hillsborough County Schools, with some of the area's highest-rated schools and some... that need work.</p>
+<h3>Top Elementary Schools:</h3>
+<ul>
+<li><strong>Riverview Elementary</strong> (A-rated): The gold standard. Waiting lists common.</li>
+<li><strong>Alafia Elementary</strong> (A-rated): Newer school serving FishHawk Ranch area</li>
+<li><strong>Eisenhower Elementary</strong> (B-rated): Solid choice with strong parent involvement</li>
+</ul>
+<h3>Middle Schools:</h3>
+<ul>
+<li><strong>Giunta Middle</strong> (A-rated): Consistently high performing</li>
+<li><strong>Buchanan Middle</strong> (B-rated): Good academics, strong arts programs</li>
+</ul>
+<h3>High Schools:</h3>
+<ul>
+<li><strong>Riverview High</strong> (A-rated): 3,100+ students, excellent athletics and academics</li>
+<li><strong>Newsome High</strong> (A-rated): Newer school, smaller class sizes, strong college prep</li>
+</ul>
+<p><strong>The Reality:</strong> School zones change frequently as the area grows. A house might be zoned for an A-rated school today and redistricted to a B-rated school next year. Always verify current zoning before buying.</p>
+<h3>Private School Options:</h3>
+<ul>
+<li><strong>Bell Creek Academy</strong>: K-12 Christian school, about $8,500/year</li>
+<li><strong>Berkeley Prep</strong>: Elite private school in nearby Tampa, $28,000+/year</li>
+<li><strong>Academy at the Lakes</strong>: Strong academics, $18,000/year</li>
+</ul>
+<h2>Transportation: The Commute Reality</h2>
+<p><strong>Getting Around Riverview:</strong></p>
+<ul>
+<li><strong>I-75 North to Tampa</strong>: 25-35 minutes (rush hour: 45-60 minutes)</li>
+<li><strong>US-301 to Brandon</strong>: 15-20 minutes</li>
+<li><strong>Crosstown Expressway access</strong>: 10 minutes to connect east-west</li>
+<li><strong>To Tampa International Airport</strong>: 35-45 minutes</li>
+</ul>
+<p><strong>Traffic Hot Spots:</strong></p>
+<ul>
+<li><strong>Big Bend Road/I-75 interchange</strong>: Nightmare during rush hour</li>
+<li><strong>US-301 through downtown Riverview</strong>: Two lanes, frequent backups</li>
+<li><strong>Bloomingdale Avenue</strong>: Gets congested between I-75 and FishHawk</li>
+</ul>
+<p><strong>Public Transportation:</strong> Limited HART bus service along US-301 and Big Bend Road. This is a car-dependent community — plan accordingly.</p>
+<p><strong>The Honest Truth:</strong> Your commute will be longer than you think, especially if you're working downtown Tampa or St. Petersburg. Factor 30-45 minutes each way minimum during peak hours.</p>
+<h2>Cost of Living Breakdown</h2>
+<p><strong>Housing:</strong> Above Tampa Bay average due to newer construction and desirable schools.</p>
+<p><strong>Utilities:</strong></p>
+<ul>
+<li>Electric (summer): $180-$250/month for 2,000 sq ft home</li>
+<li>Water/Sewer: $65-$85/month</li>
+<li>Internet: $70-$120/month (Spectrum, Verizon Fios available)</li>
+</ul>
+<p><strong>Property Insurance:</strong> $2,800-$4,500 annually depending on flood zone and age of home.</p>
+<p><strong>Groceries:</strong> Publix dominates (premium pricing). Walmart and Winn-Dixie for budget options. Expect 5-10% higher than national average.</p>
+<p><strong>Gas:</strong> Typically 10-15 cents above Tampa average due to fewer stations.</p>
+<h2>Dining and Entertainment Scene</h2>
+<h3>Local Favorites:</h3>
+<ul>
+<li><strong>Brass Tap</strong>: Sports bar with 60+ beers on tap</li>
+<li><strong>PDQ</strong>: Fast-casual chicken (locals love it)</li>
+<li><strong>Ford's Garage</strong>: 1920s gas station theme, solid burgers</li>
+<li><strong>Oishi Thai</strong>: Hidden gem for authentic Thai food</li>
+<li><strong>Circles Waterfront Restaurant</strong>: Fine dining on the Alafia River</li>
+</ul>
+<h3>Chain Restaurants:**</h3>
+<p>Every major chain you'd expect: Olive Garden, Outback, Chipotle, Panera, Five Guys. The restaurant scene skews family-friendly and suburban.</p>
+<p><strong>Entertainment:</strong></p>
+<ul>
+<li><strong>TopGolf</strong>: 30-minute drive to Tampa location</li>
+<li><strong>Movie theaters</strong>: Cobb Theatres at FishHawk Ranch</li>
+<li><strong>Alafia River State Park</strong>: Hiking, biking, kayaking</li>
+<li><strong>Golf courses</strong>: 8+ courses within 15 minutes</li>
+</ul>
+<p><strong>The Reality:</strong> This isn't a foodie destination. For cutting-edge dining or nightlife, you're driving to Tampa or St. Petersburg.</p>
+<h2>Shopping: Suburban Convenience</h2>
+<p><strong>Major Shopping:</strong></p>
+<ul>
+<li><strong>The Shops at Wiregrass</strong>: Outdoor mall with Target, Best Buy, restaurants</li>
+<li><strong>Brandon Town Center</strong>: 20 minutes away, full enclosed mall</li>
+<li><strong>FishHawk Town Center</strong>: Smaller outdoor shopping with Publix anchor</li>
+</ul>
+<p><strong>Daily Needs:</strong></p>
+<ul>
+<li><strong>Publix</strong>: 6+ locations, your primary grocery option</li>
+<li><strong>Home Depot/Lowe's</strong>: Both represented</li>
+<li><strong>CVS/Walgreens</strong>: Scattered throughout</li>
+<li><strong>Gas stations</strong>: RaceTrac, Wawa, Shell</li>
+</ul>
+<p><strong>Specialty Shopping:</strong> Limited. Unique boutiques, specialty stores, or artisan goods require trips to Tampa or St. Petersburg.</p>
+<h2>Community Character and Culture</h2>
+<p><strong>Demographics:</strong></p>
+<ul>
+<li>Population: ~84,000 (rapidly growing)</li>
+<li>Median age: 37</li>
+<li>Median household income: $78,000</li>
+<li>65% White, 18% Hispanic, 12% Black, 3% Asian</li>
+</ul>
+<p><strong>Community Vibe:</strong>
+This is suburban family life at its most distilled. Soccer practices, HOA meetings, neighborhood pools. It's safe, clean, and predictable — which is exactly what many families want.</p>
+<p><strong>Local Events:</strong></p>
+<ul>
+<li><strong>Riverview Civic Center events</strong>: Community theater, concerts</li>
+<li><strong>Annual Strawberry Festival</strong>: Nearby Plant City (March)</li>
+<li><strong>FishHawk Ranch community events</strong>: Farmers markets, holiday celebrations</li>
+</ul>
+<h2>Recreation and Outdoor Life</h2>
+<p><strong>Parks and Nature:</strong></p>
+<ul>
+<li><strong>Alafia River State Park</strong>: Mountain biking, hiking trails</li>
+<li><strong>Lithia Springs Park</strong>: Natural spring, swimming, picnicking</li>
+<li><strong>Boyette Springs Park</strong>: Dog park, sports fields, playgrounds</li>
+<li><strong>E.G. Simmons Park</strong>: Waterfront park with boat ramp</li>
+</ul>
+<p><strong>Sports Facilities:</strong></p>
+<ul>
+<li><strong>Multiple community centers</strong> with pools, fitness equipment</li>
+<li><strong>Youth sports leagues</strong>: Baseball, softball, soccer, football</li>
+<li><strong>Golf courses</strong>: TPC Tampa Bay, Summerfield Crossings, others</li>
+</ul>
+<p><strong>Water Activities:</strong></p>
+<ul>
+<li><strong>Alafia River</strong>: Kayaking, fishing, manatee spotting</li>
+<li><strong>Tampa Bay</strong>: 20 minutes to bay access</li>
+<li><strong>Beaches</strong>: 45-60 minutes to Gulf beaches</li>
+</ul>
+<h2>The Master-Planned Communities</h2>
+<h3>FishHawk Ranch</h3>
+<ul>
+<li><strong>Homes:</strong> $650K-$1.2M</li>
+<li><strong>Amenities:</strong> Golf course, multiple pools, fitness centers</li>
+<li><strong>Schools:</strong> Top-rated, but crowded</li>
+<li><strong>HOA fees:</strong> $150-$300/month</li>
+<li><strong>Reality:</strong> Feels like living in a vacation resort year-round</li>
+</ul>
+<h3>Boyette Park</h3>
+<ul>
+<li><strong>Homes:</strong> $450K-$750K</li>
+<li><strong>Amenities:</strong> Community pool, playgrounds, trails</li>
+<li><strong>HOA fees:</strong> $75-$125/month</li>
+<li><strong>Character:</strong> Family-focused, newer construction</li>
+</ul>
+<h3>Waterset</h3>
+<ul>
+<li><strong>Homes:</strong> $380K-$650K</li>
+<li><strong>Amenities:</strong> Pool, fitness center, events</li>
+<li><strong>HOA fees:</strong> $100-$200/month</li>
+<li><strong>Appeal:</strong> More affordable entry point</li>
+</ul>
+<h2>Work and Business Environment</h2>
+<p><strong>Major Employers:</strong></p>
+<ul>
+<li><strong>Tampa General Hospital</strong> (30-minute commute)</li>
+<li><strong>MacDill Air Force Base</strong> (35-minute commute)</li>
+<li><strong>Downtown Tampa financial district</strong> (40-minute commute)</li>
+<li><strong>Local businesses</strong>: Mostly service-oriented</li>
+</ul>
+<p><strong>Business Environment:</strong>
+Limited local job market. Most residents commute to Tampa, Brandon, or St. Petersburg for work. Some home-based businesses and small professional services.</p>
+<p><strong>Coworking Spaces:</strong> Minimal options locally. Tampa has better infrastructure for remote workers and entrepreneurs.</p>
+<h2>Healthcare and Services</h2>
+<p><strong>Hospitals:</strong></p>
+<ul>
+<li><strong>Brandon Regional Hospital</strong>: 15 minutes</li>
+<li><strong>Tampa General Hospital</strong>: 30 minutes</li>
+<li><strong>St. Joseph's Hospital-South</strong>: 25 minutes</li>
+</ul>
+<p><strong>Urgent Care:</strong>
+Multiple locations including HCA Florida urgent care centers.</p>
+<p><strong>Specialists:</strong>
+Most specialists practice in Tampa or Brandon. Plan for 20-30 minute drives for specialized care.</p>
+<p><strong>Veterinary Services:</strong>
+Excellent options including VCA Animal Hospitals and independent practices.</p>
+<h2>Weather and Climate Considerations</h2>
+<p><strong>Summer Reality:</strong></p>
+<ul>
+<li><strong>Temperature</strong>: 90-95°F daily highs June-September</li>
+<li><strong>Humidity</strong>: 70-85% (feels oppressive)</li>
+<li><strong>Afternoon thunderstorms</strong>: Nearly daily June-August</li>
+<li><strong>Hurricane risk</strong>: Zone A evacuation area along Alafia River</li>
+</ul>
+<p><strong>Winter Appeal:</strong></p>
+<ul>
+<li><strong>Temperature</strong>: 70-75°F daily highs December-February</li>
+<li><strong>Low humidity</strong>: 40-60%</li>
+<li><strong>Sunny days</strong>: 8-10 per month average</li>
+</ul>
+<p><strong>Flooding Concerns:</strong>
+Areas near the Alafia River flood during heavy rains. Check FEMA flood maps before buying. Flood insurance is mandatory in high-risk zones and costs $400-$2,000+ annually.</p>
+<h2>Crime and Safety</h2>
+<p><strong>Crime Statistics (per 1,000 residents):</strong></p>
+<ul>
+<li><strong>Violent crime</strong>: 2.1 (below state average)</li>
+<li><strong>Property crime</strong>: 12.8 (slightly above state average)</li>
+<li><strong>Vehicle theft</strong>: Most common crime</li>
+</ul>
+<p><strong>Safest Areas:</strong></p>
+<ul>
+<li>FishHawk Ranch and gated communities</li>
+<li>Newer subdivisions with active HOAs</li>
+<li>Areas with consistent lighting and foot traffic</li>
+</ul>
+<p><strong>Areas of Concern:</strong></p>
+<ul>
+<li>Parts of historic Riverview near US-301</li>
+<li>Some apartment complexes along Big Bend Road</li>
+</ul>
+<p><strong>Police Response:</strong>
+Hillsborough County Sheriff's Office provides law enforcement. Response times average 8-12 minutes for non-emergency calls.</p>
+<h2>Pros and Cons: The Unvarnished Truth</h2>
+<h3>Pros:</h3>
+<ul>
+<li><strong>Excellent schools</strong> in most areas</li>
+<li><strong>Family-friendly atmosphere</strong> with tons of youth activities</li>
+<li><strong>Newer housing stock</strong> with modern amenities</li>
+<li><strong>Access to nature</strong> while maintaining suburban convenience</li>
+<li><strong>Growing job market</strong> in greater Tampa Bay</li>
+<li><strong>Strong property values</strong> and appreciation</li>
+<li><strong>Low crime rates</strong> in most neighborhoods</li>
+</ul>
+<h3>Cons:</h3>
+<ul>
+<li><strong>Traffic congestion</strong> getting worse as area grows</li>
+<li><strong>Limited walkability</strong> — car required for everything</li>
+<li><strong>Higher cost of living</strong> than many Florida markets</li>
+<li><strong>Hurricane/flood risk</strong> in certain areas</li>
+<li><strong>Chain restaurant dominance</strong> — limited dining variety</li>
+<li><strong>HOA restrictions</strong> in many neighborhoods</li>
+<li><strong>Rapid growth</strong> creating infrastructure strain</li>
+</ul>
+<hr>
+<p><strong>Moving to Tampa Bay?</strong> Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.</p>
+<p><a href="https://nowtb.com">Contact Barrett →</a> | <a href="tel:8137337907">(813) 733-7907</a></p>
+<hr>
+<h2>Who Riverview Is Perfect For</h2>
+<p><strong>Young Families:</strong> Top-rated schools, safe neighborhoods, youth sports leagues, and community pools make this ideal for families with school-age children.</p>
+<p><strong>Tampa Commuters:</strong> If you work in Tampa and want suburban amenities with reasonable commute times, Riverview delivers.</p>
+<p><strong>First-Time Buyers:</strong> More affordable than Westchase or South Tampa while still offering quality schools and amenities.</p>
+<p><strong>Active Retirees:</strong> Golf courses, nature parks, and medical facilities provide an active lifestyle with healthcare access.</p>
+<h2>Who Should Look Elsewhere</h2>
+<p><strong>Urban Lifestyle Seekers:</strong> If you want walkable streets, diverse dining, and nightlife, consider <a href="/blog/best-tampa-neighborhoods/">Tampa neighborhoods</a> like Hyde Park or Channelside.</p>
+<p><strong>Budget-Conscious Buyers:</strong> With median prices near $485K, more affordable options exist in other Tampa Bay areas.</p>
+<p><strong>Car-Free Living:</strong> This is suburban sprawl. You need a vehicle for daily life.</p>
+<p><strong>Job Seekers:</strong> Limited local employment opportunities mean commuting to Tampa or other areas for most careers.</p>
+<h2>The Bottom Line on Living in Riverview</h2>
+<p>Riverview delivers exactly what it promises: safe, suburban family living with excellent schools and community amenities. It's not trying to be hip, walkable, or artisanal — it's trying to be the best possible version of American suburban life.</p>
+<p>The area is growing rapidly, which brings both opportunities and challenges. Infrastructure is struggling to keep pace, traffic is increasing, and the small-town feel is gradually disappearing. But property values are strong, schools remain excellent, and the community continues attracting families seeking that suburban ideal.</p>
+<p>If you want to raise kids in a safe environment with great schools, don't mind driving everywhere, and can handle the Florida heat and humidity, Riverview could be perfect. If you're seeking urban energy, cultural diversity, or a car-free lifestyle, look elsewhere.</p>
+<p>The key is buying in the right section of Riverview for your budget and lifestyle. The difference between a $400K home near US-301 and a $700K home in FishHawk Ranch isn't just price — it's a completely different living experience.</p>
+<h2>Frequently Asked Questions</h2>
+<h3>Is Riverview a good place to raise kids?</h3>
+<p>Absolutely. Riverview offers some of Hillsborough County's highest-rated schools, numerous youth sports leagues, safe neighborhoods, and family-oriented amenities. The community pools, parks, and organized activities make it ideal for families with children.</p>
+<h3>How bad is the commute from Riverview to downtown Tampa?</h3>
+<p>Plan 25-35 minutes during off-peak hours, 45-60 minutes during rush hour. The I-75 corridor gets congested, and Big Bend Road is a consistent bottleneck. Leave extra time for important appointments.</p>
+<h3>What's the difference between Riverview and FishHawk Ranch?</h3>
+<p>FishHawk Ranch is technically in Brandon but marketed as Riverview. It's a luxury master-planned community with golf courses, resort-style amenities, and homes starting around $650K. Regular Riverview has more diverse housing options and price points.</p>
+<h3>Are there flood risks in Riverview?</h3>
+<p>Yes, particularly near the Alafia River and low-lying areas. Check FEMA flood maps before buying and factor in potential flood insurance costs of $400-$2,000+ annually in high-risk zones.</p>
+<h3>What's the job market like in Riverview?</h3>
+<p>Limited local employment beyond service industries. Most residents commute to Tampa, Brandon, or St. Petersburg for professional careers. The area is more residential than commercial.</p>
+<h3>How expensive are utilities in Riverview?</h3>
+<p>Electric bills run $180-$250 monthly in summer for a 2,000 sq ft home due to air conditioning needs. Water/sewer averages $65-$85 monthly. Internet costs $70-$120 monthly depending on provider and speed.</p>
+<h3>Is Riverview walkable?</h3>
+<p>No. This is car-dependent suburban sprawl. You'll drive to grocery stores, restaurants, schools, and entertainment. Some newer communities have walking trails within neighborhoods, but daily errands require a vehicle.</p>
+<h3>What are HOA fees like in Riverview communities?</h3>
+<p>Varies widely. Basic neighborhoods charge $75-$125 monthly. Luxury communities like FishHawk Ranch charge $150-$300 monthly for resort-style amenities including golf courses, multiple pools, and fitness centers.</p>
+<h3>How safe is Riverview compared to other Tampa Bay areas?</h3>
+<p>Generally safer than Tampa average with violent crime at 2.1 per 1,000 residents. Property crime is slightly higher at 12.8 per 1,000, mostly vehicle theft. Gated communities and newer neighborhoods have lower crime rates.</p>
+<h3>What's the best time to buy a home in Riverview?</h3>
+<p>The market moves fast year-round due to excellent schools and family appeal. Spring (March-May) sees most inventory but also most competition. Summer can offer slight advantages with less buyer competition, though inventory may be lower.</p>
+8:["slug","living-in-riverview-guide","d"]
+0:["SZLIdUDBKVit2TP_UqbYL",[[["",{"children":["blog",{"children":[["slug","living-in-riverview-guide","d"],{"children":["__PAGE__?{\"slug\":\"living-in-riverview-guide\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","living-in-riverview-guide","d"],{"children":["__PAGE__",{},[["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","section",null,{"className":"relative w-full h-[200px] md:h-[300px] overflow-hidden bg-brand-navy","children":[["$","$L3",null,{"src":"/images/blog/lifestyle.jpg","alt":"Living in Riverview (Deep Dive) — What It's Really Like (Honest Relocation Guide)","fill":true,"className":"object-cover","unoptimized":true,"priority":true}],["$","div",null,{"className":"absolute inset-0 bg-brand-navy/60"}],["$","div",null,{"className":"relative z-10 flex flex-col items-center justify-center h-full px-4 text-center","children":[["$","h1",null,{"className":"text-white text-3xl md:text-5xl font-display font-extrabold leading-tight max-w-4xl","children":"Living in Riverview (Deep Dive) — What It's Really Like (Honest Relocation Guide)"}],"$undefined"]}]]}],["$","article",null,{"className":"max-w-4xl mx-auto px-4 py-10","children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://tbrelo.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://tbrelo.com/blog/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Living in Riverview (Deep Dive) — What It's Really Like (Honest Relocation Guide)\",\"item\":\"https://tbrelo.com/blog/living-in-riverview-guide/\"}]}"}}],["$","nav",null,{"aria-label":"Breadcrumb","className":"text-sm text-brand-slate mb-6","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-1","children":[["$","li","/",{"className":"flex items-center gap-1","children":[false,["$","$L4",null,{"href":"/","className":"hover:text-brand-blue transition-colors","children":"Home"}]]}],["$","li","/blog/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","$L4",null,{"href":"/blog/","className":"hover:text-brand-blue transition-colors","children":"Blog"}]]}],["$","li","/blog/living-in-riverview-guide/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","span",null,{"className":"text-brand-navy font-medium","children":"Living in Riverview (Deep Dive) — What It's Really Like (Honest Relocation Guide)"}]]}]]}]}]],["$","p",null,{"className":"text-brand-slate text-sm mb-8","children":["Published ","February 6, 2025"]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$5"}}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"cta-box-primary","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-white","children":"Moving to Tampa Bay? Get a Local Expert."}],["$","p",null,{"className":"text-sm mb-4 text-white","children":"Barrett Henry is a Broker Associate with REMAX Collective and over 23 years of real estate experience. Straight talk, smart strategy, no pressure."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-blue text-white hover:bg-blue-600","children":["Contact Barrett"," →"]}],["$","a",null,{"href":"tel:8137337907","className":"text-sm text-white","children":"(813) 733-7907"}]]}]]}],["$","div",null,{"className":"cta-box","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-brand-navy","children":"Need Help Setting Up Your New Home?"}],["$","p",null,{"className":"text-sm mb-4 text-brand-slate","children":"Best Bay Services handles handyman work, home repairs, and maintenance for your new Tampa Bay home. Local, licensed, and trusted."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-navy text-white hover:bg-brand-dark","children":["Get a Quote"," →"]}],["$","a",null,{"href":"tel:8134168676","className":"text-sm text-brand-blue","children":"(813) 416-8676"}]]}]]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","$L6",null,{"blogSlug":"living-in-riverview-guide"}]]}]],null],null],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$8","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/db2729ad4a9f0783.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link",null,{"rel":"icon","href":"/favicon-32.png","type":"image/png","sizes":"32x32"}],["$","link",null,{"rel":"icon","href":"/favicon-16.png","type":"image/png","sizes":"16x16"}],["$","link",null,{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link",null,{"rel":"icon","href":"/icon-192.png","type":"image/png","sizes":"192x192"}],["$","meta",null,{"name":"google-adsense-account","content":"ca-pub-2033173419526042"}],["$","meta",null,{"name":"impact-site-verification","content":"bb623f40-9653-4312-9ca8-bf35b957a10c"}],["$","$La",null,{"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2033173419526042","strategy":"afterInteractive","crossOrigin":"anonymous"}],["$","$La",null,{"src":"https://www.googletagmanager.com/gtag/js?id=G-TD87S02SLM","strategy":"afterInteractive"}],["$","$La",null,{"id":"gtag-init","strategy":"afterInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'G-TD87S02SLM');\n          "}]]}],["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"[{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"https://tbrelo.com/#website\",\"name\":\"TB Relo — Tampa Bay Relocation Guide\",\"url\":\"https://tbrelo.com\",\"description\":\"Comprehensive relocation guides for Tampa Bay, Florida. Covering 8 counties, 100+ cities, cost of living, schools, and everything you need to know about moving to Tampa Bay.\",\"publisher\":{\"@id\":\"https://tbrelo.com/#org\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://tbrelo.com/blog/?q={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}},{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://tbrelo.com/#org\",\"name\":\"TB Relo\",\"url\":\"https://tbrelo.com\",\"sameAs\":[\"https://nowtb.com\",\"https://valricoagent.com\",\"https://parrishagent.com\",\"https://www.facebook.com/BarrettHenryREALTOR/\",\"https://www.instagram.com/thenowteam\",\"https://www.youtube.com/@nowtampa\"]}]"}}],["$","$Lb",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"max-w-2xl mx-auto px-4 py-20 text-center","children":[["$","h1",null,{"className":"text-6xl font-display font-extrabold text-brand-navy mb-4","children":"404"}],["$","p",null,{"className":"text-xl text-brand-slate mb-8","children":"This page doesn't exist. Maybe you're looking for one of these?"}],["$","div",null,{"className":"grid sm:grid-cols-2 gap-4 mb-12 text-left","children":[["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Moving Guide"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Complete guide to relocating to Tampa Bay"}]]}],["$","$L4",null,{"href":"/counties/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Explore Counties"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Browse all 8 Tampa Bay counties"}]]}],["$","$L4",null,{"href":"/cities/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Find a City"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"90+ city and neighborhood guides"}]]}],["$","$L4",null,{"href":"/blog/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Blog"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Tips, comparisons, and local insights"}]]}]]}],["$","$L4",null,{"href":"/","className":"px-8 py-4 bg-brand-blue text-white font-display font-bold rounded-lg hover:bg-blue-600 transition-colors text-lg inline-block","children":"Back to Home"}]]}],"notFoundStyles":[]}]}],["$","footer",null,{"className":"bg-brand-dark text-gray-400","children":[["$","div",null,{"className":"bg-brand-navy","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10","children":["$","div",null,{"className":"grid md:grid-cols-3 gap-8 text-center","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Buying or Selling a Home?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Barrett Henry — The NOW Team at REMAX Collective"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 733-7907"}]]}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Need a Handyman?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Best Bay Services — Tampa Bay Home Services"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 416-8676"}]]}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Property Management"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"ViVi PM — Full-Service Property Management"}]]}]]}]}]}],["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8","children":[["$","div",null,{"className":"md:col-span-2","children":[["$","div",null,{"className":"font-display font-extrabold text-2xl text-white mb-3","children":["TB",["$","span",null,{"className":"text-brand-sky","children":"Relo"}]]}],["$","p",null,{"className":"text-sm leading-relaxed","children":"Your complete guide to relocating to Tampa Bay, Florida. Covering Hillsborough, Pinellas, Pasco, Hernando, Polk, Manatee, Sarasota, and Citrus counties with honest, local insight from someone who actually lives here."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Guides"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"hover:text-white transition-colors","children":"Moving to Tampa Bay"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/cost-of-living/","className":"hover:text-white transition-colors","children":"Cost of Living"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/moving-checklist/","className":"hover:text-white transition-colors","children":"Moving Checklist"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/blog/","className":"hover:text-white transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Counties"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li","Hillsborough",{"children":["$","$L4",null,{"href":"/counties/hillsborough/","className":"hover:text-white transition-colors","children":["Hillsborough"," County"]}]}],["$","li","Pinellas",{"children":["$","$L4",null,{"href":"/counties/pinellas/","className":"hover:text-white transition-colors","children":["Pinellas"," County"]}]}],["$","li","Pasco",{"children":["$","$L4",null,{"href":"/counties/pasco/","className":"hover:text-white transition-colors","children":["Pasco"," County"]}]}],["$","li","Hernando",{"children":["$","$L4",null,{"href":"/counties/hernando/","className":"hover:text-white transition-colors","children":["Hernando"," County"]}]}],["$","li","Polk",{"children":["$","$L4",null,{"href":"/counties/polk/","className":"hover:text-white transition-colors","children":["Polk"," County"]}]}],["$","li","Manatee",{"children":["$","$L4",null,{"href":"/counties/manatee/","className":"hover:text-white transition-colors","children":["Manatee"," County"]}]}],["$","li","Sarasota",{"children":["$","$L4",null,{"href":"/counties/sarasota/","className":"hover:text-white transition-colors","children":["Sarasota"," County"]}]}],["$","li","Citrus",{"children":["$","$L4",null,{"href":"/counties/citrus/","className":"hover:text-white transition-colors","children":["Citrus"," County"]}]}]]}]]}]]}],["$","div",null,{"className":"mt-10 pt-8 border-t border-gray-800","children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Barrett Henry's Network"}],["$","div",null,{"className":"grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3 text-sm","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Tampa Bay Real Estate"}],["$","a",null,{"href":"https://valricoagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Real Estate"}],["$","a",null,{"href":"https://parrishagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Parrish Real Estate"}],["$","a",null,{"href":"https://valrico.blog","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Community Blog"}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Handyman & Home Services"}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Property Management"}]]}]]}],["$","div",null,{"className":"mt-12 pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center gap-4 text-xs","children":[["$","p",null,{"children":["© ",2026," TB Relo. All rights reserved."]}],["$","div",null,{"className":"flex gap-4","children":[["$","$L4",null,{"href":"/affiliate-disclosure/","className":"hover:text-white transition-colors","children":"Affiliate Disclosure"}],["$","$L4",null,{"href":"/privacy-policy/","className":"hover:text-white transition-colors","children":"Privacy Policy"}],["$","$L4",null,{"href":"/disclaimer/","className":"hover:text-white transition-colors","children":"Disclaimer"}]]}]]}]]}],["$","div",null,{"className":"bg-black/30 border-t border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 text-center text-xs text-gray-500","children":["Site by"," ",["$","a",null,{"href":"https://vyrabyte.com","target":"_blank","rel":"noopener noreferrer","className":"text-gray-400 hover:text-white transition-colors","children":"Vyrabyte"}]]}]}]]}],["$","$Lc",null,{}]]}]]}]],null],null],["$Ld",null]]]]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Living in Riverview (Deep Dive) — What It's Really Like (Honest Relocation Guide) | TB Relo | TB Relo"}],["$","meta","3",{"name":"description","content":"Living in Riverview (Deep Dive). Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","6",{"property":"og:title","content":"Living in Riverview (Deep Dive) — What It's Really Like (Honest Relocation Guide) | TB Relo | TB Relo"}],["$","meta","7",{"property":"og:description","content":"Living in Riverview (Deep Dive). Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","8",{"property":"og:image","content":"https://tbrelo.com/images/blog/lifestyle.jpg"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"Living in Riverview (Deep Dive) — What It's Really Like (Honest Relocation Guide) | TB Relo | TB Relo"}],["$","meta","13",{"name":"twitter:description","content":"Living in Riverview (Deep Dive). Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","14",{"name":"twitter:image","content":"https://tbrelo.com/images/blog/lifestyle.jpg"}],["$","link","15",{"rel":"icon","href":"/icon.svg?ff4364d89c37c0d6","type":"image/svg+xml","sizes":"any"}]]
+1:null

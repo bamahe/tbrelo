@@ -1,0 +1,339 @@
+3:I[5878,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"Image"]
+4:I[2972,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],""]
+6:I[5143,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"default"]
+7:I[4707,[],""]
+9:I[6423,[],""]
+a:I[8003,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],""]
+b:I[7312,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"default"]
+c:I[5463,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"SpeedInsights"]
+2:T10ee,[{"@context":"https://schema.org","@type":"Article","headline":"Moving from Dallas to Tampa Bay — The Complete Relocation Guide | TB Relo","description":"Moving from Dallas to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience.","url":"https://tbrelo.com/blog/moving-from-dallas/","author":{"@type":"Person","name":"Barrett Henry","jobTitle":"REALTOR® & Broker Associate","url":"https://nowtb.com","worksFor":{"@type":"Organization","name":"REMAX Collective"},"knowsAbout":["Tampa Bay Real Estate","Florida Relocation","Residential Real Estate","Investment Property","Property Management"]},"publisher":{"@type":"Organization","name":"TB Relo","url":"https://tbrelo.com"},"datePublished":"2024-08-02T08:00:00-04:00","dateModified":"2026-04-15T08:00:00-04:00","image":{"@type":"ImageObject","url":"https://tbrelo.com/images/blog/housing.jpg"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Is Tampa Bay more expensive than Dallas?","acceptedAnswer":{"@type":"Answer","text":"Housing costs are comparable, but you'll save significantly on property taxes (0.98% vs 2.1% in Dallas County). Most families find their overall cost of living slightly lower despite higher humidity and hurricane insurance costs."}},{"@type":"Question","name":"How long does it take to drive from Dallas to Tampa Bay?","acceptedAnswer":{"@type":"Answer","text":"The most direct route via I-20 to I-75 is about 925 miles and takes 14-16 hours of actual driving time. Plan for two days with an overnight stop in Birmingham or Valdosta."}},{"@type":"Question","name":"Are the schools as good as Dallas suburbs?","acceptedAnswer":{"@type":"Answer","text":"Yes, but you need to research specific districts. Plant High, King High, and Robinson High in Hillsborough County rival any Dallas suburban school. Private options like Berkeley Prep are comparable to Dallas's top private schools."}},{"@type":"Question","name":"What's the job market like compared to Dallas?","acceptedAnswer":{"@type":"Answer","text":"Tech, healthcare, and finance sectors are strong. Salaries average 85-95% of Dallas levels, but remember Florida has no state income tax. Most professional relocations work out financially positive."}},{"@type":"Question","name":"Do I need flood insurance?","acceptedAnswer":{"@type":"Answer","text":"Depends on your location and mortgage requirements. Many areas require it, and it's smart coverage even if not required. Budget $400-800 annually for flood insurance in most Tampa Bay locations."}},{"@type":"Question","name":"How bad are the hurricanes really?","acceptedAnswer":{"@type":"Answer","text":"Most Tampa Bay residents experience 1-2 significant hurricanes per decade. Modern building codes and advance warning systems make them manageable. Compare this to Dallas tornado seasons and ice storms — pick your natural disaster preference."}},{"@type":"Question","name":"What's the best neighborhood for Dallas families?","acceptedAnswer":{"@type":"Answer","text":"South Tampa offers that Plano-like suburban sophistication, while Westchase and New Tampa provide newer construction and planned community feel. Pinellas County beaches appeal to families wanting resort-style living."}},{"@type":"Question","name":"Can I find good Mexican food in Tampa Bay?","acceptedAnswer":{"@type":"Answer","text":"Honestly? No. This is Tampa Bay's biggest food weakness. You'll find decent options, but nothing approaches quality Dallas Tex-Mex. However, you'll discover excellent Cuban, Colombian, and Greek food that doesn't exist in Dallas."}},{"@type":"Question","name":"What should I budget for moving costs?","acceptedAnswer":{"@type":"Answer","text":"Professional movers from Dallas to Tampa Bay typically cost $4,500-$7,500 for a 3-4 bedroom house. Add $2,000-3,000 for travel, temporary housing, utility deposits, and initial setup costs. Budget $8,000-10,000 total for the move."}},{"@type":"Question","name":"How quickly can I get established in Tampa Bay?","acceptedAnswer":{"@type":"Answer","text":"Most services can be connected within 1-2 weeks. Vehicle registration and driver's licenses must be completed within 30 days of residency. School enrollment varies by district but most accommodate mid-year transfers efficiently. Plan 4-6 weeks to feel fully settled."}}]}]5:T5b20,<p>After two decades helping families relocate to Tampa Bay, I've seen plenty of Dallas transplants make this move. And honestly? Most of them wonder why they waited so long. The combination of no state income tax (just like Texas), better beaches, and surprisingly competitive housing costs makes Tampa Bay one of the smartest moves you can make from the Metroplex.</p>
+<p>But let's get real about what you're actually trading. Yes, you're swapping BBQ debates for Cuban sandwich arguments. You'll miss Deep Ellum but discover Ybor City. And while you might shed a tear for your beloved Cowboys, the Bucs and Lightning will give you plenty to cheer about.</p>
+<h2>Why Dallas Families Choose Tampa Bay</h2>
+<h3>The Tax Advantage Actually Gets Better</h3>
+<p>You already know the joy of no state income tax in Texas. Florida keeps that party going, but here's the kicker — Florida's property tax rates average about 0.98%, while Dallas County sits around 2.1%. On a $400,000 home, that's roughly $4,500 less per year in property taxes alone.</p>
+<h3>Water Everywhere (And It's Actually Swimmable)</h3>
+<p>Dallas has White Rock Lake. Tampa Bay has... well, the entire Gulf of Mexico. Plus Tampa Bay itself, the Hillsborough River, and countless lakes that don't require a tetanus shot to swim in. The difference in water recreation opportunities isn't even close.</p>
+<h3>Airport Connections That Actually Work</h3>
+<p>DFW is massive, but Tampa International consistently ranks as one of America's best airports. It's smaller, more efficient, and you can get from curb to gate in 20 minutes instead of an hour. Plus, direct flights to Europe, South America, and every major U.S. city you need.</p>
+<h2>Cost of Living Reality Check</h2>
+<h3>Housing: The Surprising Truth</h3>
+<p>Here's where it gets interesting. While Miami and Orlando have gone bonkers, Tampa Bay remains surprisingly reasonable compared to Dallas proper.</p>
+<table>
+<thead>
+<tr>
+<th>Housing Category</th>
+<th>Dallas Metro</th>
+<th>Tampa Bay</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Median Home Price</td>
+<td>$425,000</td>
+<td>$395,000</td>
+</tr>
+<tr>
+<td>Rent (3BR/2BA)</td>
+<td>$2,200</td>
+<td>$2,050</td>
+</tr>
+<tr>
+<td>Property Tax Rate</td>
+<td>2.10%</td>
+<td>0.98%</td>
+</tr>
+<tr>
+<td>HOA (Typical)</td>
+<td>$250</td>
+<td>$180</td>
+</tr>
+</tbody>
+</table>
+<p><em>Source: 2024 market data, MLS compilations</em></p>
+<h3>The Daily Expenses Breakdown</h3>
+<ul>
+<li><strong>Groceries</strong>: About 3% higher (but no state tax on groceries)</li>
+<li><strong>Gas</strong>: Usually 10-15¢ cheaper per gallon</li>
+<li><strong>Utilities</strong>: Summer electric bills run higher (AC), but winter heating costs are basically zero</li>
+<li><strong>Car Insurance</strong>: Florida's rates are higher — budget an extra $400-600 annually</li>
+<li><strong>Dining Out</strong>: Comparable to Dallas suburbs, but you get Cuban, Colombian, and Greek food that actually doesn't suck</li>
+</ul>
+<h2>Tax Savings Calculator</h2>
+<p>Let's run real numbers on what you'll save moving from Dallas to Tampa Bay:</p>
+<h3>Annual Tax Savings Example (Family of 4, $125K Household Income)</h3>
+<p><strong>Property Taxes (on $400K home):</strong></p>
+<ul>
+<li>Dallas County: $8,400</li>
+<li>Hillsborough County: $3,920</li>
+<li>Annual Savings: $4,480</li>
+</ul>
+<p><strong>Vehicle Registration:</strong></p>
+<ul>
+<li>Texas: $68.75 per vehicle</li>
+<li>Florida: $46.15 per vehicle</li>
+<li>Annual Savings: $45 (two vehicles)</li>
+</ul>
+<p><strong>Sales Tax:</strong></p>
+<ul>
+<li>Dallas: 8.25%</li>
+<li>Tampa: 8.5%</li>
+<li>Difference: Negligible on most purchases</li>
+</ul>
+<p><strong>Total Annual Savings: Approximately $4,525</strong></p>
+<p>Over 10 years, that's $45,250 back in your pocket. Not exactly chump change.</p>
+<h2>Neighborhood Matchmaker: Dallas to Tampa Bay</h2>
+<h3>If You Loved Plano → Consider South Tampa</h3>
+<p>Both offer excellent schools, family-friendly vibes, and that suburban-but-sophisticated feel. South Tampa has Hyde Park Village instead of Legacy West, but the energy is similar. Plus, you can bike to Bayshore Boulevard for waterfront views.</p>
+<h3>Deep Ellum Devotee → Ybor City Is Your New Home</h3>
+<p>Historic brick buildings, eclectic nightlife, and that slightly edgy artistic vibe. Ybor's got the character Deep Ellum had before it got too polished. Plus, better Cuban coffee.</p>
+<h3>Addison Circle → Downtown St. Pete</h3>
+<p>High-rise living, walkable restaurant scene, and cultural attractions within blocks. St. Pete's downtown has that urban energy without Dallas traffic nightmares.</p>
+<h3>Preston Hollow → Avila or Beach Park</h3>
+<p>Established money, quiet streets, top-tier schools. These Tampa areas have that same understated wealth vibe, minus the tornado warnings.</p>
+<h3>Bishop Arts District → Seminole Heights</h3>
+<p>Hip, walkable, full of local businesses you'll actually want to support. Seminole Heights has that same neighborhood-centric culture with better weather for porch sitting.</p>
+<hr>
+<p><strong>Moving to Tampa Bay?</strong> Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.</p>
+<p><a href="https://nowtb.com">Contact Barrett →</a> | <a href="tel:8137337907">(813) 733-7907</a></p>
+<hr>
+<h2>The Great Weather Debate</h2>
+<h3>Summer: Yes, It's Hot and Humid</h3>
+<p>Let's not sugarcoat this — Tampa Bay summers are swampy. June through September, you'll question every life choice that brought you here. But here's the thing: Dallas hits 105°F with no relief. Tampa rarely breaks 95°F, and afternoon thunderstorms actually cool things down.</p>
+<h3>Winter: This Is Where We Win</h3>
+<p>While Dallas is dealing with ice storms and 20°F mornings, Tampa Bay winters feel like Dallas in October. Average highs in the 70s, lows in the 50s. You'll wear shorts on Christmas Day and actually mean it.</p>
+<h3>Hurricane Season Reality Check</h3>
+<p>Yes, hurricanes exist. But so do Texas tornadoes, hail storms, and ice storms. Most hurricanes give you 5-7 days warning. Texas weather gives you about 5-7 minutes. Pick your poison.</p>
+<h2>Job Market Deep Dive</h2>
+<h3>Industries That Are Booming</h3>
+<p><strong>Healthcare</strong>: Tampa General, BayCare, and Johns Hopkins All Children's are constantly hiring. If you're in medical, the opportunities here crush Dallas.</p>
+<p><strong>Tech</strong>: Companies like Citigroup, Raymond James, and Tech Data have major operations here. Plus, the startup scene is exploding without Silicon Valley costs.</p>
+<p><strong>Finance</strong>: Raymond James headquarters is here, along with major operations for most national financial firms.</p>
+<p><strong>Tourism/Hospitality</strong>: Obviously huge, but also pays better than you'd expect at management levels.</p>
+<h3>Salary Expectations</h3>
+<p>Most positions pay 85-95% of Dallas salaries, but remember — no state income tax and lower property taxes often mean you're ahead financially despite slightly lower base pay.</p>
+<h2>School Districts: The Parent's Guide</h2>
+<h3>Top Public School Districts</h3>
+<p><strong><a href="/counties/hillsborough/">Hillsborough County</a></strong>: Massive district with some excellent schools. Plant High School, King High School, and Robinson High School rival any Dallas suburb school.</p>
+<p><strong><a href="/counties/pinellas/">Pinellas County</a></strong>: Smaller, more manageable. Indian Rocks Christian, Dunedin High, and Northeast High consistently rank in state's top 10%.</p>
+<p><strong><a href="/counties/pasco/">Pasco County</a></strong>: Growing fast, investing heavily in facilities. Land O' Lakes High and Wiregrass Ranch High are newer schools with top-notch programs.</p>
+<h3>Private School Scene</h3>
+<ul>
+<li><strong>Berkeley Preparatory School</strong>: Tampa's answer to St. Mark's or Hockaday</li>
+<li><strong>Academy of the Holy Names</strong>: All-girls, college prep, incredible results</li>
+<li><strong>Tampa Preparatory School</strong>: Small, prestigious, gets kids into Ivies</li>
+</ul>
+<h2>The Moving Process: Dallas to Tampa Bay</h2>
+<h3>Driving Route Options</h3>
+<p><strong>The I-20 to I-75 Route (Most Popular)</strong></p>
+<ul>
+<li>Distance: 925 miles</li>
+<li>Drive Time: 14-16 hours</li>
+<li>Route: I-20 East → I-59 South → I-24 East → I-75 South</li>
+<li>Best Stopping Points: Shreveport, Birmingham, Valdosta</li>
+</ul>
+<p><strong>The I-10 Coastal Route</strong></p>
+<ul>
+<li>Distance: 1,040 miles</li>
+<li>Drive Time: 16-18 hours</li>
+<li>Route: I-45 South → I-10 East → I-75 North</li>
+<li>Pros: Interesting scenery, good food stops</li>
+<li>Cons: Longer drive, Houston traffic</li>
+</ul>
+<h3>Moving Company Costs</h3>
+<p>Based on 2024 rates for Dallas to Tampa Bay moves:</p>
+<p><strong>1-2 Bedroom Apartment</strong>: $2,800-$4,200
+<strong>3-4 Bedroom House</strong>: $4,500-$7,500
+<strong>Full-Service, Large Home</strong>: $8,000-$12,000</p>
+<p><strong>Money-Saving Tips:</strong></p>
+<ul>
+<li>Book September-November for best rates</li>
+<li>Get quotes from both national chains and regional movers</li>
+<li>Consider hybrid moves (you drive, they move stuff)</li>
+</ul>
+<h3>DIY Moving Options</h3>
+<p><strong>U-Haul 26' Truck</strong>: About $3,200 including gas, insurance, and mileage
+<strong>PODS Container</strong>: $4,800-$6,200 for door-to-door service
+<strong>Moving Labor</strong>: Hire local crews on both ends ($150-200/crew for 3-4 hours)</p>
+<h2>Housing Market Insider Intel</h2>
+<h3>Best Times to Buy</h3>
+<p><strong>October-December</strong>: Motivated sellers, less competition, better deals
+<strong>January-March</strong>: New inventory hits market, good selection
+<strong>Avoid June-August</strong>: Peak season, highest prices, bidding wars</p>
+<h3>Neighborhoods to Watch</h3>
+<p><strong>Westchase</strong>: New construction, excellent schools, family-friendly. Think Frisco energy.</p>
+<p><strong>New Tampa</strong>: Planned communities, newer builds, great for Dallas families wanting something familiar.</p>
+<p><strong>Downtown Tampa</strong>: Condo living, walkable, urban energy. Growing fast.</p>
+<p><strong>St. Pete Downtown</strong>: Artistic, diverse, waterfront access. The anti-suburb option.</p>
+<h3>What $400K Gets You</h3>
+<p>In Dallas suburbs, maybe 1,800 sq ft built in 1995. In Tampa Bay, you're looking at:</p>
+<ul>
+<li>2,200-2,500 sq ft</li>
+<li>Built 2010 or newer</li>
+<li>Pool and lanai (Florida for "screened porch")</li>
+<li>3-4 bedrooms, 2-3 baths</li>
+<li>Two-car garage</li>
+</ul>
+<h2>Cultural Adjustments</h2>
+<h3>Food Scene Evolution</h3>
+<p>You'll miss Tex-Mex initially. Nothing here compares to quality Dallas Mexican food. But you'll discover:</p>
+<ul>
+<li><strong>Cuban Sandwiches</strong>: La Segunda Central Bakery, Columbia Restaurant</li>
+<li><strong>Fresh Seafood</strong>: Grouper, snapper, stone crab that was swimming yesterday</li>
+<li><strong>Colombian Food</strong>: Especially in South Tampa and Brandon</li>
+<li><strong>Greek Food</strong>: Tarpon Springs has the best Greek food outside of Greece</li>
+</ul>
+<h3>Sports Loyalty Test</h3>
+<p><strong>Tampa Bay Buccaneers</strong>: Tom Brady made them cool again. Raymond James Stadium is fantastic.
+<strong>Tampa Bay Lightning</strong>: Consistently good hockey, great fan experience
+<strong>Tampa Bay Rays</strong>: Baseball in a dome, but tickets are cheap and the team's competitive</p>
+<h3>Social Differences</h3>
+<p>Dallas has that polished, corporate social scene. Tampa Bay is more laid-back, beach-casual. People boat instead of attending galas. Pool parties instead of hotel ballrooms. It takes adjustment, but most Dallas transplants prefer it after a year.</p>
+<hr>
+<p><strong>Moving to Tampa Bay?</strong> Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.</p>
+<p><a href="https://nowtb.com">Contact Barrett →</a> | <a href="tel:8137337907">(813) 733-7907</a></p>
+<hr>
+<h2>Utilities and Services Setup</h2>
+<h3>Electric Companies by Area</h3>
+<p><strong>Tampa Electric (TECO)</strong>: Most of Hillsborough County. Generally reliable, reasonable rates.
+<strong>Duke Energy</strong>: Pinellas County and parts of Pasco. Slightly higher rates but good service.</p>
+<p><strong>Summer Electric Bills Reality</strong>: Budget $200-300/month for a 2,500 sq ft home. Yes, it's higher than Dallas, but you'll spend zero on heating.</p>
+<h3>Internet Options</h3>
+<p><strong>Spectrum</strong>: Widely available, decent speeds, overpriced
+<strong>Verizon Fios</strong>: Best option where available (limited areas)
+<strong>Frontier</strong>: Avoid if possible</p>
+<h3>Water/Sewer</h3>
+<p>Most areas have municipal water that's actually drinkable (unlike Dallas). Average bill runs $60-80/month for family of four.</p>
+<h2>Healthcare Transition</h2>
+<h3>Major Hospital Systems</h3>
+<p><strong>Tampa General Hospital</strong>: Level 1 trauma center, excellent reputation, downtown location
+<strong>BayCare</strong>: Multiple locations, good for routine care
+<strong>AdventHealth</strong>: Growing system, modern facilities</p>
+<h3>Finding Doctors</h3>
+<p>Florida requires new patient appointments be scheduled within reasonable timeframes (unlike some Dallas practices that book 3 months out). Most specialists have availability within 2-4 weeks.</p>
+<h3>Insurance Considerations</h3>
+<p>If you're keeping employer insurance, verify network coverage. Some Texas-based insurers have limited Florida networks. Florida Blue (Blue Cross/Blue Shield of Florida) has the most comprehensive network.</p>
+<h2>Pet Relocation Tips</h2>
+<h3>The Drive Down</h3>
+<p><strong>Heat Safety</strong>: Never leave pets in car during Florida summer. Plan stops every 2 hours.
+<strong>Required Documents</strong>: Current rabies vaccination, health certificate from Texas vet
+<strong>Microchip Updates</strong>: Change address before you move</p>
+<h3>Florida Pet Life</h3>
+<p><strong>Year-Round Heartworm Prevention</strong>: Required due to mosquito populations
+<strong>Flea/Tick Prevention</strong>: More aggressive treatment needed
+<strong>Beach Dog Life</strong>: Many beaches allow dogs during certain hours
+<strong>Dog Parks</strong>: Excellent facilities in most Tampa Bay communities</p>
+<h2>Banking and Financial Services</h2>
+<h3>Local Banking Options</h3>
+<p><strong>Regions Bank</strong>: Strong local presence, good business banking
+<strong>Wells Fargo/Chase/Bank of America</strong>: All have extensive branch networks
+<strong>SunTrust (now Truist)</strong>: Popular for mortgages</p>
+<h3>Credit Union Options</h3>
+<p><strong>GTE Financial</strong>: Largest local credit union, excellent rates
+<strong>Suncoast Credit Union</strong>: Good mortgage rates, multiple branches</p>
+<h3>Financial Planning</h3>
+<p>Consider consulting with a Florida-based financial planner who understands:</p>
+<ul>
+<li>Homestead exemption benefits</li>
+<li>Florida estate planning laws</li>
+<li>Hurricane/flood insurance requirements</li>
+</ul>
+<h2>Legal Requirements and Documentation</h2>
+<h3>Vehicle Registration</h3>
+<p>You have 30 days to register vehicles in Florida. Required documents:</p>
+<ul>
+<li>Texas title</li>
+<li>Florida insurance policy</li>
+<li>VIN verification</li>
+<li>Driver's license (get this first)</li>
+</ul>
+<p><strong>Cost</strong>: About $450 for title transfer, registration, and new plates per vehicle.</p>
+<h3>Driver's License</h3>
+<p>Required within 30 days of establishing residency. Bring:</p>
+<ul>
+<li>Certified birth certificate or passport</li>
+<li>Social Security card</li>
+<li>Two proofs of Florida address</li>
+</ul>
+<p><strong>Good News</strong>: Florida doesn't require driving tests for Texas license holders.</p>
+<h3>Voter Registration</h3>
+<p>Can be done online or at DMV when getting your license. Florida allows early voting and has reasonable absentee ballot rules.</p>
+<h2>Timeline for Your Move</h2>
+<h3>8 Weeks Before</h3>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Research neighborhoods and schools</li>
+<li class="task-list-item"><input type="checkbox" disabled> Get moving quotes</li>
+<li class="task-list-item"><input type="checkbox" disabled> Start decluttering (humid climate = less storage space needed)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Begin job search if needed</li>
+</ul>
+<h3>6 Weeks Before</h3>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Book moving company</li>
+<li class="task-list-item"><input type="checkbox" disabled> Arrange house-hunting trip</li>
+<li class="task-list-item"><input type="checkbox" disabled> Research Florida car insurance options</li>
+<li class="task-list-item"><input type="checkbox" disabled> Begin school enrollment process</li>
+</ul>
+<h3>4 Weeks Before</h3>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Finalize housing (rent or purchase)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Schedule utility connections</li>
+<li class="task-list-item"><input type="checkbox" disabled> Arrange mail forwarding</li>
+<li class="task-list-item"><input type="checkbox" disabled> Research pediatricians, veterinarians, etc.</li>
+</ul>
+<h3>2 Weeks Before</h3>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Confirm moving day details</li>
+<li class="task-list-item"><input type="checkbox" disabled> Pack essentials for first few days</li>
+<li class="task-list-item"><input type="checkbox" disabled> Prepare kids for transition</li>
+<li class="task-list-item"><input type="checkbox" disabled> Plan first week in Florida</li>
+</ul>
+<h3>First Week in Florida</h3>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Get Florida driver's licenses</li>
+<li class="task-list-item"><input type="checkbox" disabled> Register vehicles</li>
+<li class="task-list-item"><input type="checkbox" disabled> Open local bank account</li>
+<li class="task-list-item"><input type="checkbox" disabled> Register to vote</li>
+<li class="task-list-item"><input type="checkbox" disabled> Find grocery stores, pharmacies, etc.</li>
+</ul>
+<h2>Making Tampa Bay Home</h2>
+<h3>Building Your Social Network</h3>
+<p><strong>Neighborhoods</strong>: Most Tampa Bay communities have active social media groups. Join your local Facebook groups before moving.</p>
+<p><strong>Kids' Activities</strong>: Youth sports leagues, dance studios, and music programs are great ways to meet other families.</p>
+<p><strong>Professional Networks</strong>: Tampa Bay has active chapters of most professional organizations.</p>
+<p><strong>Volunteer Opportunities</strong>: From beach cleanups to food banks, volunteering connects you with community-minded locals.</p>
+<h3>Embracing the Lifestyle</h3>
+<p><strong>Boating Culture</strong>: Even if you don't own a boat, friends will. Learn basic boating etiquette.</p>
+<p><strong>Pool Life</strong>: Most homes have pools. Budget for maintenance ($100-150/month) and embrace the lifestyle.</p>
+<p><strong>Hurricane Prep</strong>: It becomes second nature. Stock supplies, know your evacuation zone, and don't panic.</p>
+<p><strong>Beach Etiquette</strong>: Respect turtle nesting seasons, pack out what you pack in, and learn about red tide.</p>
+<p>The truth about moving from Dallas to Tampa Bay? It's one of those moves that looks scary on paper but feels right once you're here. You'll miss Dallas-specific things — the food, the culture, the familiar rhythms of Texas life. But trade-offs include lower property taxes, better airports, swimmable water, and winters that don't require survival gear.</p>
+<p>Most Dallas families I've helped relocate hit their groove around month six. That's when Tampa Bay stops feeling like vacation and starts feeling like home. The kids have friends, you've found your grocery store, and you've stopped calculating the time difference when texting Dallas friends.</p>
+<p>Welcome to Tampa Bay. The weather's fine, the taxes are low, and the water's warm. What more do you need?</p>
+<hr>
+<p><strong>Moving to Tampa Bay?</strong> Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.</p>
+<p><a href="https://nowtb.com">Contact Barrett →</a> | <a href="tel:8137337907">(813) 733-7907</a></p>
+<hr>
+<h2>Frequently Asked Questions</h2>
+<h3>Is Tampa Bay more expensive than Dallas?</h3>
+<p>Housing costs are comparable, but you'll save significantly on property taxes (0.98% vs 2.1% in Dallas County). Most families find their overall <a href="/cost-of-living/">cost of living</a> slightly lower despite higher humidity and hurricane insurance costs.</p>
+<h3>How long does it take to drive from Dallas to Tampa Bay?</h3>
+<p>The most direct route via I-20 to I-75 is about 925 miles and takes 14-16 hours of actual driving time. Plan for two days with an overnight stop in Birmingham or Valdosta.</p>
+<h3>Are the schools as good as Dallas suburbs?</h3>
+<p>Yes, but you need to research specific districts. Plant High, King High, and Robinson High in <a href="/counties/hillsborough/">Hillsborough County</a> rival any Dallas suburban school. Private options like Berkeley Prep are comparable to Dallas's top private schools.</p>
+<h3>What's the job market like compared to Dallas?</h3>
+<p>Tech, healthcare, and finance sectors are strong. Salaries average 85-95% of Dallas levels, but remember Florida has no state income tax. Most professional relocations work out financially positive.</p>
+<h3>Do I need flood insurance?</h3>
+<p>Depends on your location and mortgage requirements. Many areas require it, and it's smart coverage even if not required. Budget $400-800 annually for flood insurance in most Tampa Bay locations.</p>
+<h3>How bad are the hurricanes really?</h3>
+<p>Most Tampa Bay residents experience 1-2 significant hurricanes per decade. Modern building codes and advance warning systems make them manageable. Compare this to Dallas tornado seasons and ice storms — pick your natural disaster preference.</p>
+<h3>What's the best neighborhood for Dallas families?</h3>
+<p>South Tampa offers that Plano-like suburban sophistication, while Westchase and New Tampa provide newer construction and planned community feel. <a href="/counties/pinellas/">Pinellas County</a> beaches appeal to families wanting resort-style living.</p>
+<h3>Can I find good Mexican food in Tampa Bay?</h3>
+<p>Honestly? No. This is Tampa Bay's biggest food weakness. You'll find decent options, but nothing approaches quality Dallas Tex-Mex. However, you'll discover excellent Cuban, Colombian, and Greek food that doesn't exist in Dallas.</p>
+<h3>What should I budget for moving costs?</h3>
+<p>Professional movers from Dallas to Tampa Bay typically cost $4,500-$7,500 for a 3-4 bedroom house. Add $2,000-3,000 for travel, temporary housing, utility deposits, and initial setup costs. Budget $8,000-10,000 total for the move.</p>
+<h3>How quickly can I get established in Tampa Bay?</h3>
+<p>Most services can be connected within 1-2 weeks. Vehicle registration and driver's licenses must be completed within 30 days of residency. School enrollment varies by district but most accommodate mid-year transfers efficiently. Plan 4-6 weeks to feel fully settled.</p>
+8:["slug","moving-from-dallas","d"]
+0:["SZLIdUDBKVit2TP_UqbYL",[[["",{"children":["blog",{"children":[["slug","moving-from-dallas","d"],{"children":["__PAGE__?{\"slug\":\"moving-from-dallas\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","moving-from-dallas","d"],{"children":["__PAGE__",{},[["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","section",null,{"className":"relative w-full h-[200px] md:h-[300px] overflow-hidden bg-brand-navy","children":[["$","$L3",null,{"src":"/images/blog/housing.jpg","alt":"Moving from Dallas to Tampa Bay — The Complete Relocation Guide","fill":true,"className":"object-cover","unoptimized":true,"priority":true}],["$","div",null,{"className":"absolute inset-0 bg-brand-navy/60"}],["$","div",null,{"className":"relative z-10 flex flex-col items-center justify-center h-full px-4 text-center","children":[["$","h1",null,{"className":"text-white text-3xl md:text-5xl font-display font-extrabold leading-tight max-w-4xl","children":"Moving from Dallas to Tampa Bay — The Complete Relocation Guide"}],"$undefined"]}]]}],["$","article",null,{"className":"max-w-4xl mx-auto px-4 py-10","children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://tbrelo.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://tbrelo.com/blog/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Moving from Dallas to Tampa Bay — The Complete Relocation Guide\",\"item\":\"https://tbrelo.com/blog/moving-from-dallas/\"}]}"}}],["$","nav",null,{"aria-label":"Breadcrumb","className":"text-sm text-brand-slate mb-6","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-1","children":[["$","li","/",{"className":"flex items-center gap-1","children":[false,["$","$L4",null,{"href":"/","className":"hover:text-brand-blue transition-colors","children":"Home"}]]}],["$","li","/blog/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","$L4",null,{"href":"/blog/","className":"hover:text-brand-blue transition-colors","children":"Blog"}]]}],["$","li","/blog/moving-from-dallas/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","span",null,{"className":"text-brand-navy font-medium","children":"Moving from Dallas to Tampa Bay — The Complete Relocation Guide"}]]}]]}]}]],["$","p",null,{"className":"text-brand-slate text-sm mb-8","children":["Published ","August 2, 2024"]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$5"}}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"cta-box-primary","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-white","children":"Moving to Tampa Bay? Get a Local Expert."}],["$","p",null,{"className":"text-sm mb-4 text-white","children":"Barrett Henry is a Broker Associate with REMAX Collective and over 23 years of real estate experience. Straight talk, smart strategy, no pressure."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-blue text-white hover:bg-blue-600","children":["Contact Barrett"," →"]}],["$","a",null,{"href":"tel:8137337907","className":"text-sm text-white","children":"(813) 733-7907"}]]}]]}],["$","div",null,{"className":"cta-box","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-brand-navy","children":"Need Help Setting Up Your New Home?"}],["$","p",null,{"className":"text-sm mb-4 text-brand-slate","children":"Best Bay Services handles handyman work, home repairs, and maintenance for your new Tampa Bay home. Local, licensed, and trusted."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-navy text-white hover:bg-brand-dark","children":["Get a Quote"," →"]}],["$","a",null,{"href":"tel:8134168676","className":"text-sm text-brand-blue","children":"(813) 416-8676"}]]}]]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","$L6",null,{"blogSlug":"moving-from-dallas"}]]}]],null],null],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$8","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/db2729ad4a9f0783.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link",null,{"rel":"icon","href":"/favicon-32.png","type":"image/png","sizes":"32x32"}],["$","link",null,{"rel":"icon","href":"/favicon-16.png","type":"image/png","sizes":"16x16"}],["$","link",null,{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link",null,{"rel":"icon","href":"/icon-192.png","type":"image/png","sizes":"192x192"}],["$","meta",null,{"name":"google-adsense-account","content":"ca-pub-2033173419526042"}],["$","meta",null,{"name":"impact-site-verification","content":"bb623f40-9653-4312-9ca8-bf35b957a10c"}],["$","$La",null,{"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2033173419526042","strategy":"afterInteractive","crossOrigin":"anonymous"}],["$","$La",null,{"src":"https://www.googletagmanager.com/gtag/js?id=G-TD87S02SLM","strategy":"afterInteractive"}],["$","$La",null,{"id":"gtag-init","strategy":"afterInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'G-TD87S02SLM');\n          "}]]}],["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"[{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"https://tbrelo.com/#website\",\"name\":\"TB Relo — Tampa Bay Relocation Guide\",\"url\":\"https://tbrelo.com\",\"description\":\"Comprehensive relocation guides for Tampa Bay, Florida. Covering 8 counties, 100+ cities, cost of living, schools, and everything you need to know about moving to Tampa Bay.\",\"publisher\":{\"@id\":\"https://tbrelo.com/#org\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://tbrelo.com/blog/?q={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}},{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://tbrelo.com/#org\",\"name\":\"TB Relo\",\"url\":\"https://tbrelo.com\",\"sameAs\":[\"https://nowtb.com\",\"https://valricoagent.com\",\"https://parrishagent.com\",\"https://www.facebook.com/BarrettHenryREALTOR/\",\"https://www.instagram.com/thenowteam\",\"https://www.youtube.com/@nowtampa\"]}]"}}],["$","$Lb",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"max-w-2xl mx-auto px-4 py-20 text-center","children":[["$","h1",null,{"className":"text-6xl font-display font-extrabold text-brand-navy mb-4","children":"404"}],["$","p",null,{"className":"text-xl text-brand-slate mb-8","children":"This page doesn't exist. Maybe you're looking for one of these?"}],["$","div",null,{"className":"grid sm:grid-cols-2 gap-4 mb-12 text-left","children":[["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Moving Guide"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Complete guide to relocating to Tampa Bay"}]]}],["$","$L4",null,{"href":"/counties/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Explore Counties"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Browse all 8 Tampa Bay counties"}]]}],["$","$L4",null,{"href":"/cities/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Find a City"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"90+ city and neighborhood guides"}]]}],["$","$L4",null,{"href":"/blog/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Blog"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Tips, comparisons, and local insights"}]]}]]}],["$","$L4",null,{"href":"/","className":"px-8 py-4 bg-brand-blue text-white font-display font-bold rounded-lg hover:bg-blue-600 transition-colors text-lg inline-block","children":"Back to Home"}]]}],"notFoundStyles":[]}]}],["$","footer",null,{"className":"bg-brand-dark text-gray-400","children":[["$","div",null,{"className":"bg-brand-navy","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10","children":["$","div",null,{"className":"grid md:grid-cols-3 gap-8 text-center","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Buying or Selling a Home?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Barrett Henry — The NOW Team at REMAX Collective"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 733-7907"}]]}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Need a Handyman?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Best Bay Services — Tampa Bay Home Services"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 416-8676"}]]}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Property Management"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"ViVi PM — Full-Service Property Management"}]]}]]}]}]}],["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8","children":[["$","div",null,{"className":"md:col-span-2","children":[["$","div",null,{"className":"font-display font-extrabold text-2xl text-white mb-3","children":["TB",["$","span",null,{"className":"text-brand-sky","children":"Relo"}]]}],["$","p",null,{"className":"text-sm leading-relaxed","children":"Your complete guide to relocating to Tampa Bay, Florida. Covering Hillsborough, Pinellas, Pasco, Hernando, Polk, Manatee, Sarasota, and Citrus counties with honest, local insight from someone who actually lives here."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Guides"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"hover:text-white transition-colors","children":"Moving to Tampa Bay"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/cost-of-living/","className":"hover:text-white transition-colors","children":"Cost of Living"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/moving-checklist/","className":"hover:text-white transition-colors","children":"Moving Checklist"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/blog/","className":"hover:text-white transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Counties"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li","Hillsborough",{"children":["$","$L4",null,{"href":"/counties/hillsborough/","className":"hover:text-white transition-colors","children":["Hillsborough"," County"]}]}],["$","li","Pinellas",{"children":["$","$L4",null,{"href":"/counties/pinellas/","className":"hover:text-white transition-colors","children":["Pinellas"," County"]}]}],["$","li","Pasco",{"children":["$","$L4",null,{"href":"/counties/pasco/","className":"hover:text-white transition-colors","children":["Pasco"," County"]}]}],["$","li","Hernando",{"children":["$","$L4",null,{"href":"/counties/hernando/","className":"hover:text-white transition-colors","children":["Hernando"," County"]}]}],["$","li","Polk",{"children":["$","$L4",null,{"href":"/counties/polk/","className":"hover:text-white transition-colors","children":["Polk"," County"]}]}],["$","li","Manatee",{"children":["$","$L4",null,{"href":"/counties/manatee/","className":"hover:text-white transition-colors","children":["Manatee"," County"]}]}],["$","li","Sarasota",{"children":["$","$L4",null,{"href":"/counties/sarasota/","className":"hover:text-white transition-colors","children":["Sarasota"," County"]}]}],["$","li","Citrus",{"children":["$","$L4",null,{"href":"/counties/citrus/","className":"hover:text-white transition-colors","children":["Citrus"," County"]}]}]]}]]}]]}],["$","div",null,{"className":"mt-10 pt-8 border-t border-gray-800","children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Barrett Henry's Network"}],["$","div",null,{"className":"grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3 text-sm","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Tampa Bay Real Estate"}],["$","a",null,{"href":"https://valricoagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Real Estate"}],["$","a",null,{"href":"https://parrishagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Parrish Real Estate"}],["$","a",null,{"href":"https://valrico.blog","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Community Blog"}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Handyman & Home Services"}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Property Management"}]]}]]}],["$","div",null,{"className":"mt-12 pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center gap-4 text-xs","children":[["$","p",null,{"children":["© ",2026," TB Relo. All rights reserved."]}],["$","div",null,{"className":"flex gap-4","children":[["$","$L4",null,{"href":"/affiliate-disclosure/","className":"hover:text-white transition-colors","children":"Affiliate Disclosure"}],["$","$L4",null,{"href":"/privacy-policy/","className":"hover:text-white transition-colors","children":"Privacy Policy"}],["$","$L4",null,{"href":"/disclaimer/","className":"hover:text-white transition-colors","children":"Disclaimer"}]]}]]}]]}],["$","div",null,{"className":"bg-black/30 border-t border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 text-center text-xs text-gray-500","children":["Site by"," ",["$","a",null,{"href":"https://vyrabyte.com","target":"_blank","rel":"noopener noreferrer","className":"text-gray-400 hover:text-white transition-colors","children":"Vyrabyte"}]]}]}]]}],["$","$Lc",null,{}]]}]]}]],null],null],["$Ld",null]]]]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Moving from Dallas to Tampa Bay — The Complete Relocation Guide | TB Relo | TB Relo"}],["$","meta","3",{"name":"description","content":"Moving from Dallas to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","6",{"property":"og:title","content":"Moving from Dallas to Tampa Bay — The Complete Relocation Guide | TB Relo | TB Relo"}],["$","meta","7",{"property":"og:description","content":"Moving from Dallas to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","8",{"property":"og:image","content":"https://tbrelo.com/images/blog/housing.jpg"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"Moving from Dallas to Tampa Bay — The Complete Relocation Guide | TB Relo | TB Relo"}],["$","meta","13",{"name":"twitter:description","content":"Moving from Dallas to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","14",{"name":"twitter:image","content":"https://tbrelo.com/images/blog/housing.jpg"}],["$","link","15",{"rel":"icon","href":"/icon.svg?ff4364d89c37c0d6","type":"image/svg+xml","sizes":"any"}]]
+1:null

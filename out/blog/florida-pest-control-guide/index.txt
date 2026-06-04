@@ -1,0 +1,272 @@
+3:I[5878,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"Image"]
+4:I[2972,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],""]
+6:I[5143,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","878","static/chunks/878-34b15e7090e18027.js","303","static/chunks/303-d9efd1acc68715d1.js","143","static/chunks/143-41bde5e5431d788b.js","308","static/chunks/app/blog/%5Bslug%5D/page-ab716c9a0d50d37b.js"],"default"]
+7:I[4707,[],""]
+9:I[6423,[],""]
+a:I[8003,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],""]
+b:I[7312,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"default"]
+c:I[5463,["762","static/chunks/44530001-720cbbcfa0594267.js","972","static/chunks/972-17ea62b17795b286.js","303","static/chunks/303-d9efd1acc68715d1.js","185","static/chunks/app/layout-80f1fbbd2c4a51ea.js"],"SpeedInsights"]
+2:Td7d,[{"@context":"https://schema.org","@type":"Article","headline":"Florida Pest Control — The Monthly Spray Is Not Optional | TB Relo","description":"Florida Pest Control. Honest guide from a Tampa Bay local with 23+ years of experience.","url":"https://tbrelo.com/blog/florida-pest-control-guide/","author":{"@type":"Person","name":"Barrett Henry","jobTitle":"REALTOR® & Broker Associate","url":"https://nowtb.com","worksFor":{"@type":"Organization","name":"REMAX Collective"},"knowsAbout":["Tampa Bay Real Estate","Florida Relocation","Residential Real Estate","Investment Property","Property Management"]},"publisher":{"@type":"Organization","name":"TB Relo","url":"https://tbrelo.com"},"datePublished":"2024-10-19T08:00:00-04:00","dateModified":"2026-04-15T08:00:00-04:00","image":{"@type":"ImageObject","url":"https://tbrelo.com/images/blog/housing.jpg"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Is monthly pest control really necessary in Florida?","acceptedAnswer":{"@type":"Answer","text":"Yes, absolutely. Florida's year-round warm temperatures and high humidity create perfect breeding conditions for pests that never get the winter die-off that occurs in northern climates. Monthly treatments ensure continuous protection as chemicals break down quickly in our heat and humidity."}},{"@type":"Question","name":"How much should I expect to pay for pest control in Tampa Bay?","acceptedAnswer":{"@type":"Answer","text":"Monthly pest control in Tampa Bay typically ranges from $45-85 for a single-family home, depending on square footage and property size. Annual costs run $540-1,020, which is reasonable considering the year-round pest pressure and property protection value."}},{"@type":"Question","name":"Can I handle Florida pest control myself instead of hiring professionals?","acceptedAnswer":{"@type":"Answer","text":"While DIY is possible, it's rarely effective long-term in Florida. Professional-grade products aren't available to consumers, and most homeowners under-treat or use incorrect application methods. The cost difference between DIY and professional service is minimal when you factor in time and effectiveness."}},{"@type":"Question","name":"What pests am I definitely going to encounter in Florida?","acceptedAnswer":{"@type":"Answer","text":"Palmetto bugs (flying cockroaches), German cockroaches, multiple ant species including fire ants, various spiders, and silverfish are virtually guaranteed. The goal isn't elimination but management through consistent professional treatment and integrated pest management practices."}},{"@type":"Question","name":"Should I wait until I see pests before starting pest control service?","acceptedAnswer":{"@type":"Answer","text":"No, pest control in Florida should be preventative, not reactive. By the time you see pests, you likely have a significant population. Starting service immediately upon moving in creates barriers that prevent establishment rather than trying to eliminate existing populations."}},{"@type":"Question","name":"Do I still need pest control in a brand-new home?","acceptedAnswer":{"@type":"Answer","text":"Yes, even new construction needs pest control. Construction debris, new landscaping, and the fact that pests don't respect property boundaries means new homes are just as susceptible. Many builders now include initial pest control treatments, but ongoing monthly service is still necessary."}}]}]5:T43e3,<p>You know that friend who moved to Florida and swore they'd never use a lawn service or pest control? Yeah, they're on the phone with Terminix right now, begging for an emergency appointment while a palmetto bug the size of a Buick just stared them down in their kitchen.</p>
+<p>Welcome to Florida, where the bugs didn't get the memo that your house is supposed to be a bug-free zone.</p>
+<p>After 23+ years of helping families relocate to Tampa Bay, I've watched this same story play out hundreds of times. New residents think pest control is optional — maybe something for the squeamish or overly cautious. Then summer hits. Then they meet their first flying cockroach. Then they understand why every single long-term Florida resident has a pest control guy on speed dial.</p>
+<p>Let me save you the trauma and explain why regular pest control isn't just recommended in Florida — it's basically a utility bill.</p>
+<h2>Why Florida Is Basically Australia for Bugs</h2>
+<p>Florida's year-round warmth and humidity create a bug paradise that would make an entomologist weep with joy. While your friends up north get a blessed few months of winter that kills off most crawling things, we get 12 months of prime breeding season.</p>
+<p>Here's what you're dealing with:</p>
+<p><strong>Temperature</strong>: Our "winter" lows rarely drop below 50°F in Tampa Bay. Most insects go dormant around 40°F and die at sustained freezing temperatures. We don't get sustained freezing temperatures.</p>
+<p><strong>Humidity</strong>: Florida's average humidity sits around 70-75%. Most bugs thrive in humidity above 50%. We're basically running a bug spa year-round.</p>
+<p><strong>Water</strong>: Between our daily afternoon thunderstorms, retention ponds, and the fact that we're surrounded by water, bugs never lack breeding grounds.</p>
+<p><strong>Food sources</strong>: Lush landscaping, abundant fruit trees, and the reality that in older neighborhoods, there's always someone feeding outdoor cats (which attracts everything else).</p>
+<p>The math is simple: perfect temperature + perfect humidity + unlimited water + abundant food = bug city.</p>
+<h2>The Big Five: Your New Florida Roommates</h2>
+<h3>Palmetto Bugs (American Cockroaches)</h3>
+<p>Let's start with the big one — literally. Palmetto bugs are American cockroaches that can grow up to 2 inches long and yes, they fly. They're not just big; they're bold. These things will walk across your dinner table while maintaining eye contact.</p>
+<p>They love moisture, which means they're attracted to bathrooms, kitchens, and laundry rooms. In older Tampa Bay homes with crawl spaces or basements (rare but they exist), they're practically guaranteed residents.</p>
+<p><strong>The reality check</strong>: You will see them. Even in brand-new construction. Even in million-dollar homes. Even with monthly pest control. The goal isn't elimination — it's management.</p>
+<h3>German Cockroaches</h3>
+<p>Smaller but more prolific than palmetto bugs, German cockroaches are the apartment dwellers of the roach world. They prefer indoor living and reproduce faster than you can count.</p>
+<p>If you see one German cockroach during the day, you probably have dozens hiding. They're particularly common in:</p>
+<ul>
+<li>Condos and townhomes with shared walls</li>
+<li>Older apartment complexes</li>
+<li>Any building with a restaurant on the ground floor</li>
+</ul>
+<h3>Ants (Multiple Species)</h3>
+<p>Florida hosts over 200 ant species. The most common home invaders include:</p>
+<p><strong>Fire ants</strong>: They build those distinctive mounds in your yard and have a sting that feels like liquid fire. Monthly treatments help prevent new colonies from establishing.</p>
+<p><strong>Carpenter ants</strong>: These guys actually damage wood structures. In Tampa's older neighborhoods like Seminole Heights or Hyde Park, where you have beautiful historic homes, carpenter ants can cause real structural problems.</p>
+<p><strong>Sugar ants</strong>: Tiny but persistent. They'll find that one drop of juice your kid spilled behind the refrigerator in 2019.</p>
+<h3>Spiders</h3>
+<p>Florida has over 50 spider species, including some you really don't want as roommates:</p>
+<p><strong>Black widows</strong>: Common in garages, sheds, and around outdoor furniture
+<strong>Brown recluses</strong>: Less common but present, particularly in undisturbed areas
+<strong>Wolf spiders</strong>: Large, hairy, and fast — basically designed to cause heart attacks</p>
+<h3>Silverfish and Firebrats</h3>
+<p>These wingless insects love paper, clothing, and anything with starch. In Florida's humidity, they're particularly destructive to books, photos, and stored fabrics.</p>
+<h2>The Pest Control Schedule That Actually Works</h2>
+<p>Here's where most new Florida residents get it wrong. They think about pest control like they thought about it up north — maybe quarterly, maybe when there's a "problem."</p>
+<p>In Florida, pest control is preventative maintenance, not reactive treatment.</p>
+<h3>Monthly Interior and Exterior Treatment</h3>
+<p><strong>What this covers</strong>: Professional application of barrier treatments around your home's perimeter, entry points, and common gathering areas. Interior spot treatments for active issues.</p>
+<p><strong>Cost in Tampa Bay</strong>: Expect $45-85 monthly for a typical single-family home, depending on square footage and property size.</p>
+<p><strong>Why monthly matters</strong>: Most pest control chemicals break down in Florida's heat and humidity within 30-45 days. Quarterly treatments leave you unprotected for weeks at a time.</p>
+<h3>Quarterly Intensive Treatments</h3>
+<p>Even with monthly service, you need quarterly deep treatments that include:</p>
+<ul>
+<li>Attic inspections and treatment</li>
+<li>Crawl space treatment (if applicable)</li>
+<li>Garage and storage area focus</li>
+<li>Exterior perimeter expansion</li>
+</ul>
+<h3>Seasonal Adjustments</h3>
+<p><strong>Spring (March-May)</strong>: Focus on ant prevention as colonies expand
+<strong>Summer (June-August)</strong>: Heavy roach and spider focus
+<strong>Fall (September-November)</strong>: Prep for "winter" influx as bugs seek shelter
+<strong>Winter (December-February)</strong>: Maintain barriers and treat for overwintering pests</p>
+<h2>DIY vs. Professional: The Math That Matters</h2>
+<p>I get it. You're looking at $600-1,000 annually for pest control and thinking you can handle this yourself. Let me break down the real math:</p>
+<h3>DIY Approach</h3>
+<ul>
+<li><strong>Monthly supplies</strong>: $30-50 (professional-grade products)</li>
+<li><strong>Equipment</strong>: $200-400 initial investment for sprayer, protective gear</li>
+<li><strong>Time</strong>: 2-3 hours monthly for thorough treatment</li>
+<li><strong>Knowledge gap</strong>: Most homeowners under-treat or use wrong products</li>
+<li><strong>Annual cost</strong>: $500-800 plus significant time investment</li>
+</ul>
+<h3>Professional Service</h3>
+<ul>
+<li><strong>Monthly cost</strong>: $45-85</li>
+<li><strong>Time investment</strong>: Zero</li>
+<li><strong>Expertise</strong>: Trained technicians who know exactly what they're looking for</li>
+<li><strong>Warranty</strong>: Most companies guarantee their work</li>
+<li><strong>Annual cost</strong>: $540-1,020</li>
+</ul>
+<p><strong>The reality</strong>: Professionals use commercial-grade products you can't buy retail. They know where to look, what to treat, and how to adjust treatments seasonally. Most importantly, they know the difference between a maintenance spray and a targeted treatment.</p>
+<h2>Choosing Your Pest Control Partner</h2>
+<p>Not all pest control companies are created equal, especially in Florida's competitive market. Here's what to look for:</p>
+<h3>The Big Nationals vs. Local Companies</h3>
+<p><strong>National chains</strong> (Terminix, Orkin, Aptive):</p>
+<ul>
+<li>Pros: Consistent service standards, easy billing, good warranties</li>
+<li>Cons: Higher prices, less flexibility, technician turnover</li>
+</ul>
+<p><strong>Regional players</strong> (Florida Pest Control, Massey Services):</p>
+<ul>
+<li>Pros: Florida-specific expertise, competitive pricing</li>
+<li>Cons: Limited coverage if you move</li>
+</ul>
+<p><strong>Local independents</strong>:</p>
+<ul>
+<li>Pros: Personal service, competitive prices, flexible scheduling</li>
+<li>Cons: Variable quality, limited backup coverage</li>
+</ul>
+<h3>Red Flags to Avoid</h3>
+<ul>
+<li>Door-to-door sales tactics</li>
+<li>Quotes significantly below market rate ($25-30 monthly)</li>
+<li>Pressure for annual contracts without trial periods</li>
+<li>No licensed technicians</li>
+<li>No insurance or bonding verification</li>
+</ul>
+<h3>Questions to Ask Before Signing</h3>
+<ol>
+<li>
+<p><strong>What's included in monthly service?</strong> Interior and exterior should both be covered.</p>
+</li>
+<li>
+<p><strong>What products do you use?</strong> Ask for active ingredients, not just brand names.</p>
+</li>
+<li>
+<p><strong>What's your re-treatment policy?</strong> Good companies will return within 24-48 hours if you see activity.</p>
+</li>
+<li>
+<p><strong>Do you adjust treatments seasonally?</strong> You want a company that knows Florida pest cycles.</p>
+</li>
+<li>
+<p><strong>What's your technician retention rate?</strong> High turnover means inconsistent service.</p>
+</li>
+</ol>
+<h2>The Tampa Bay Pest Control Reality Check</h2>
+<p>Living in Tampa Bay comes with specific pest challenges that vary by area:</p>
+<h3>Coastal Communities (St. Petersburg, Clearwater, Indian Rocks Beach)</h3>
+<ul>
+<li>Higher moisture = more roaches and silverfish</li>
+<li>Sand fleas during beach season</li>
+<li>Additional treatments for outdoor living spaces</li>
+</ul>
+<h3>Inland Areas (<a href="/counties/hillsborough/">Hillsborough County</a>, Plant City, Brandon)</h3>
+<ul>
+<li>More fire ant activity</li>
+<li>Higher spider populations</li>
+<li>Seasonal mosquito spikes</li>
+</ul>
+<h3>Older Neighborhoods (Hyde Park, Seminole Heights, Downtown St. Pete)</h3>
+<ul>
+<li>Carpenter ant issues in historic homes</li>
+<li>Shared wall pest migration in attached homes</li>
+<li>Mature landscaping = more hiding spots</li>
+</ul>
+<h3>New Construction Areas (Wesley Chapel, Riverview, Fishhawk)</h3>
+<ul>
+<li>Construction debris attracts initial infestations</li>
+<li>New landscaping establishment period</li>
+<li>Neighbor inconsistency in pest control</li>
+</ul>
+<h2>Beyond the Spray: Integrated Pest Management</h2>
+<p>Professional pest control is your foundation, but it works best as part of an integrated approach:</p>
+<h3>Moisture Control</h3>
+<ul>
+<li>Fix leaks immediately</li>
+<li>Use exhaust fans in bathrooms</li>
+<li>Ensure proper drainage around your home's foundation</li>
+<li>Consider a dehumidifier in humid areas like basements or enclosed porches</li>
+</ul>
+<h3>Exclusion Tactics</h3>
+<ul>
+<li>Seal cracks around windows and doors</li>
+<li>Install door sweeps</li>
+<li>Repair torn screens immediately</li>
+<li>Caulk gaps around plumbing penetrations</li>
+</ul>
+<h3>Sanitation Standards</h3>
+<ul>
+<li>Clean up food crumbs immediately</li>
+<li>Store food in sealed containers</li>
+<li>Take garbage out regularly</li>
+<li>Don't leave pet food out overnight</li>
+</ul>
+<h3>Landscaping Considerations</h3>
+<ul>
+<li>Keep mulch 6 inches from your home's foundation</li>
+<li>Trim bushes and trees away from the house</li>
+<li>Eliminate standing water sources</li>
+<li>Choose plants that don't attract specific pests</li>
+</ul>
+<h2>The Seasonal Pest Calendar</h2>
+<p>Understanding Florida's pest seasons helps you know what to expect:</p>
+<h3>January-February: "Winter" Prep</h3>
+<ul>
+<li>Spiders seek indoor shelter</li>
+<li>Roach activity increases indoors</li>
+<li>Ant colonies plan spring expansion</li>
+</ul>
+<h3>March-May: Spring Surge</h3>
+<ul>
+<li>Ant colonies explode in size</li>
+<li>Termite swarming season begins</li>
+<li>Spider breeding ramps up</li>
+</ul>
+<h3>June-August: Peak Season</h3>
+<ul>
+<li>Maximum roach activity</li>
+<li>Flying insect populations peak</li>
+<li>Fire ant aggression increases with heat</li>
+</ul>
+<h3>September-November: Fall Invasion</h3>
+<ul>
+<li>Outdoor insects seek winter shelter</li>
+<li>Second roach activity spike</li>
+<li>Silverfish populations increase with cooling</li>
+</ul>
+<h3>December: Brief Respite</h3>
+<ul>
+<li>Outdoor activity slows (but doesn't stop)</li>
+<li>Indoor populations stabilize</li>
+<li>Time for deep cleaning and exclusion work</li>
+</ul>
+<h2>The New Resident Timeline</h2>
+<p>Here's your realistic expectations for the first year:</p>
+<p><strong>Month 1</strong>: You might see occasional bugs and think you're fine.</p>
+<p><strong>Months 2-3</strong>: Reality hits. You realize every hardware store in Florida has an entire aisle dedicated to bug spray for a reason.</p>
+<p><strong>Months 4-6</strong>: You've tried DIY. You've declared war on palmetto bugs. You've lost.</p>
+<p><strong>Months 7-12</strong>: You've hired professionals and are finally getting ahead of the problem.</p>
+<p><strong>Year 2+</strong>: You understand that pest control is just part of living in paradise.</p>
+<h2>Cost vs. Value: The Hidden Savings</h2>
+<p>Yes, $600-1,000 annually feels like a lot. Here's what you're actually buying:</p>
+<h3>Property Protection</h3>
+<ul>
+<li>Prevent carpenter ant damage (repairs: $2,000-10,000+)</li>
+<li>Avoid termite issues (treatment: $1,500-4,000)</li>
+<li>Protect stored items from silverfish damage</li>
+</ul>
+<h3>Health Benefits</h3>
+<ul>
+<li>Reduce asthma and allergy triggers</li>
+<li>Eliminate disease transmission risks</li>
+<li>Improve sleep quality (no midnight roach encounters)</li>
+</ul>
+<h3>Peace of Mind</h3>
+<ul>
+<li>Enjoy your home without constant vigilance</li>
+<li>Entertain guests without embarrassment</li>
+<li>Actually use your outdoor spaces</li>
+</ul>
+<h3>Resale Value</h3>
+<p>Having pest control records when you sell shows you've maintained the property properly. In Florida's competitive real estate market, this matters.</p>
+<hr>
+<p><strong>Moving to Tampa Bay?</strong> Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.</p>
+<p><a href="https://nowtb.com">Contact Barrett →</a> | <a href="tel:8137337907">(813) 733-7907</a></p>
+<hr>
+<h2>The Bottom Line Truth</h2>
+<p>Here's what nobody tells you in the glossy relocation brochures: Florida pest control isn't optional. It's not something for people who are "afraid of bugs." It's basic home maintenance, like changing your air filter or cleaning your gutters.</p>
+<p>Every long-term Florida resident has made peace with this reality. We budget for it like we budget for electricity or water. Because in Florida, pest control IS a utility.</p>
+<p>You can fight this truth for six months or a year. You can try to be the exception. You can stock up on Raid and convince yourself you're handling it.</p>
+<p>Or you can accept that this is simply the cost of living in a place where it's 75°F and sunny in February, where you can grow mangoes in your backyard, and where flip-flops are business casual.</p>
+<p>The monthly spray isn't optional. It's the price of admission to paradise.</p>
+<h2>Frequently Asked Questions</h2>
+<h3>Is monthly pest control really necessary in Florida?</h3>
+<p>Yes, absolutely. Florida's year-round warm temperatures and high humidity create perfect breeding conditions for pests that never get the winter die-off that occurs in northern climates. Monthly treatments ensure continuous protection as chemicals break down quickly in our heat and humidity.</p>
+<h3>How much should I expect to pay for pest control in Tampa Bay?</h3>
+<p>Monthly pest control in Tampa Bay typically ranges from $45-85 for a single-family home, depending on square footage and property size. Annual costs run $540-1,020, which is reasonable considering the year-round pest pressure and property protection value.</p>
+<h3>Can I handle Florida pest control myself instead of hiring professionals?</h3>
+<p>While DIY is possible, it's rarely effective long-term in Florida. Professional-grade products aren't available to consumers, and most homeowners under-treat or use incorrect application methods. The cost difference between DIY and professional service is minimal when you factor in time and effectiveness.</p>
+<h3>What pests am I definitely going to encounter in Florida?</h3>
+<p>Palmetto bugs (flying cockroaches), German cockroaches, multiple ant species including fire ants, various spiders, and silverfish are virtually guaranteed. The goal isn't elimination but management through consistent professional treatment and integrated pest management practices.</p>
+<h3>Should I wait until I see pests before starting pest control service?</h3>
+<p>No, pest control in Florida should be preventative, not reactive. By the time you see pests, you likely have a significant population. Starting service immediately upon moving in creates barriers that prevent establishment rather than trying to eliminate existing populations.</p>
+<h3>Do I still need pest control in a brand-new home?</h3>
+<p>Yes, even new construction needs pest control. Construction debris, new landscaping, and the fact that pests don't respect property boundaries means new homes are just as susceptible. Many builders now include initial pest control treatments, but ongoing monthly service is still necessary.</p>
+8:["slug","florida-pest-control-guide","d"]
+0:["SZLIdUDBKVit2TP_UqbYL",[[["",{"children":["blog",{"children":[["slug","florida-pest-control-guide","d"],{"children":["__PAGE__?{\"slug\":\"florida-pest-control-guide\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","florida-pest-control-guide","d"],{"children":["__PAGE__",{},[["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","section",null,{"className":"relative w-full h-[200px] md:h-[300px] overflow-hidden bg-brand-navy","children":[["$","$L3",null,{"src":"/images/blog/housing.jpg","alt":"Florida Pest Control — The Monthly Spray Is Not Optional","fill":true,"className":"object-cover","unoptimized":true,"priority":true}],["$","div",null,{"className":"absolute inset-0 bg-brand-navy/60"}],["$","div",null,{"className":"relative z-10 flex flex-col items-center justify-center h-full px-4 text-center","children":[["$","h1",null,{"className":"text-white text-3xl md:text-5xl font-display font-extrabold leading-tight max-w-4xl","children":"Florida Pest Control — The Monthly Spray Is Not Optional"}],"$undefined"]}]]}],["$","article",null,{"className":"max-w-4xl mx-auto px-4 py-10","children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://tbrelo.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://tbrelo.com/blog/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Florida Pest Control — The Monthly Spray Is Not Optional\",\"item\":\"https://tbrelo.com/blog/florida-pest-control-guide/\"}]}"}}],["$","nav",null,{"aria-label":"Breadcrumb","className":"text-sm text-brand-slate mb-6","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-1","children":[["$","li","/",{"className":"flex items-center gap-1","children":[false,["$","$L4",null,{"href":"/","className":"hover:text-brand-blue transition-colors","children":"Home"}]]}],["$","li","/blog/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","$L4",null,{"href":"/blog/","className":"hover:text-brand-blue transition-colors","children":"Blog"}]]}],["$","li","/blog/florida-pest-control-guide/",{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"text-gray-300","children":"/"}],["$","span",null,{"className":"text-brand-navy font-medium","children":"Florida Pest Control — The Monthly Spray Is Not Optional"}]]}]]}]}]],["$","p",null,{"className":"text-brand-slate text-sm mb-8","children":["Published ","October 19, 2024"]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$5"}}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","div",null,{"className":"cta-box-primary","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-white","children":"Moving to Tampa Bay? Get a Local Expert."}],["$","p",null,{"className":"text-sm mb-4 text-white","children":"Barrett Henry is a Broker Associate with REMAX Collective and over 23 years of real estate experience. Straight talk, smart strategy, no pressure."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-blue text-white hover:bg-blue-600","children":["Contact Barrett"," →"]}],["$","a",null,{"href":"tel:8137337907","className":"text-sm text-white","children":"(813) 733-7907"}]]}]]}],["$","div",null,{"className":"cta-box","children":[["$","h3",null,{"className":"font-display font-bold text-xl mb-2 text-brand-navy","children":"Need Help Setting Up Your New Home?"}],["$","p",null,{"className":"text-sm mb-4 text-brand-slate","children":"Best Bay Services handles handyman work, home repairs, and maintenance for your new Tampa Bay home. Local, licensed, and trusted."}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-5 py-2.5 font-semibold text-sm rounded-lg transition-colors bg-brand-navy text-white hover:bg-brand-dark","children":["Get a Quote"," →"]}],["$","a",null,{"href":"tel:8134168676","className":"text-sm text-brand-blue","children":"(813) 416-8676"}]]}]]}],["$","div",null,{"className":"ad-slot ","children":["$","ins",null,{"className":"adsbygoogle","style":{"display":"block"},"data-ad-client":"ca-pub-2033173419526042","data-ad-slot":"auto","data-ad-format":"auto","data-full-width-responsive":"true"}]}],["$","$L6",null,{"blogSlug":"florida-pest-control-guide"}]]}]],null],null],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$8","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/db2729ad4a9f0783.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link",null,{"rel":"icon","href":"/favicon-32.png","type":"image/png","sizes":"32x32"}],["$","link",null,{"rel":"icon","href":"/favicon-16.png","type":"image/png","sizes":"16x16"}],["$","link",null,{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link",null,{"rel":"icon","href":"/icon-192.png","type":"image/png","sizes":"192x192"}],["$","meta",null,{"name":"google-adsense-account","content":"ca-pub-2033173419526042"}],["$","meta",null,{"name":"impact-site-verification","content":"bb623f40-9653-4312-9ca8-bf35b957a10c"}],["$","$La",null,{"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2033173419526042","strategy":"afterInteractive","crossOrigin":"anonymous"}],["$","$La",null,{"src":"https://www.googletagmanager.com/gtag/js?id=G-TD87S02SLM","strategy":"afterInteractive"}],["$","$La",null,{"id":"gtag-init","strategy":"afterInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'G-TD87S02SLM');\n          "}]]}],["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"[{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"https://tbrelo.com/#website\",\"name\":\"TB Relo — Tampa Bay Relocation Guide\",\"url\":\"https://tbrelo.com\",\"description\":\"Comprehensive relocation guides for Tampa Bay, Florida. Covering 8 counties, 100+ cities, cost of living, schools, and everything you need to know about moving to Tampa Bay.\",\"publisher\":{\"@id\":\"https://tbrelo.com/#org\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://tbrelo.com/blog/?q={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}},{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://tbrelo.com/#org\",\"name\":\"TB Relo\",\"url\":\"https://tbrelo.com\",\"sameAs\":[\"https://nowtb.com\",\"https://valricoagent.com\",\"https://parrishagent.com\",\"https://www.facebook.com/BarrettHenryREALTOR/\",\"https://www.instagram.com/thenowteam\",\"https://www.youtube.com/@nowtampa\"]}]"}}],["$","$Lb",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"max-w-2xl mx-auto px-4 py-20 text-center","children":[["$","h1",null,{"className":"text-6xl font-display font-extrabold text-brand-navy mb-4","children":"404"}],["$","p",null,{"className":"text-xl text-brand-slate mb-8","children":"This page doesn't exist. Maybe you're looking for one of these?"}],["$","div",null,{"className":"grid sm:grid-cols-2 gap-4 mb-12 text-left","children":[["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Moving Guide"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Complete guide to relocating to Tampa Bay"}]]}],["$","$L4",null,{"href":"/counties/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Explore Counties"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Browse all 8 Tampa Bay counties"}]]}],["$","$L4",null,{"href":"/cities/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Find a City"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"90+ city and neighborhood guides"}]]}],["$","$L4",null,{"href":"/blog/","className":"block bg-white border border-gray-200 rounded-xl p-5 hover:border-brand-blue hover:shadow-lg transition-all","children":[["$","h3",null,{"className":"font-display font-bold text-brand-navy","children":"Blog"}],["$","p",null,{"className":"text-brand-slate text-sm mt-1","children":"Tips, comparisons, and local insights"}]]}]]}],["$","$L4",null,{"href":"/","className":"px-8 py-4 bg-brand-blue text-white font-display font-bold rounded-lg hover:bg-blue-600 transition-colors text-lg inline-block","children":"Back to Home"}]]}],"notFoundStyles":[]}]}],["$","footer",null,{"className":"bg-brand-dark text-gray-400","children":[["$","div",null,{"className":"bg-brand-navy","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10","children":["$","div",null,{"className":"grid md:grid-cols-3 gap-8 text-center","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Buying or Selling a Home?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Barrett Henry — The NOW Team at REMAX Collective"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 733-7907"}]]}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Need a Handyman?"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"Best Bay Services — Tampa Bay Home Services"}],["$","p",null,{"className":"text-white text-xs mt-1","children":"(813) 416-8676"}]]}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"group","children":[["$","div",null,{"className":"text-brand-sky font-display font-bold text-lg group-hover:text-white transition-colors","children":"Property Management"}],["$","p",null,{"className":"text-white text-sm mt-1","children":"ViVi PM — Full-Service Property Management"}]]}]]}]}]}],["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8","children":[["$","div",null,{"className":"md:col-span-2","children":[["$","div",null,{"className":"font-display font-extrabold text-2xl text-white mb-3","children":["TB",["$","span",null,{"className":"text-brand-sky","children":"Relo"}]]}],["$","p",null,{"className":"text-sm leading-relaxed","children":"Your complete guide to relocating to Tampa Bay, Florida. Covering Hillsborough, Pinellas, Pasco, Hernando, Polk, Manatee, Sarasota, and Citrus counties with honest, local insight from someone who actually lives here."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Guides"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L4",null,{"href":"/moving-to-tampa-bay/","className":"hover:text-white transition-colors","children":"Moving to Tampa Bay"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/cost-of-living/","className":"hover:text-white transition-colors","children":"Cost of Living"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/moving-checklist/","className":"hover:text-white transition-colors","children":"Moving Checklist"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/blog/","className":"hover:text-white transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Counties"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li","Hillsborough",{"children":["$","$L4",null,{"href":"/counties/hillsborough/","className":"hover:text-white transition-colors","children":["Hillsborough"," County"]}]}],["$","li","Pinellas",{"children":["$","$L4",null,{"href":"/counties/pinellas/","className":"hover:text-white transition-colors","children":["Pinellas"," County"]}]}],["$","li","Pasco",{"children":["$","$L4",null,{"href":"/counties/pasco/","className":"hover:text-white transition-colors","children":["Pasco"," County"]}]}],["$","li","Hernando",{"children":["$","$L4",null,{"href":"/counties/hernando/","className":"hover:text-white transition-colors","children":["Hernando"," County"]}]}],["$","li","Polk",{"children":["$","$L4",null,{"href":"/counties/polk/","className":"hover:text-white transition-colors","children":["Polk"," County"]}]}],["$","li","Manatee",{"children":["$","$L4",null,{"href":"/counties/manatee/","className":"hover:text-white transition-colors","children":["Manatee"," County"]}]}],["$","li","Sarasota",{"children":["$","$L4",null,{"href":"/counties/sarasota/","className":"hover:text-white transition-colors","children":["Sarasota"," County"]}]}],["$","li","Citrus",{"children":["$","$L4",null,{"href":"/counties/citrus/","className":"hover:text-white transition-colors","children":["Citrus"," County"]}]}]]}]]}]]}],["$","div",null,{"className":"mt-10 pt-8 border-t border-gray-800","children":[["$","h4",null,{"className":"font-display font-bold text-white text-sm uppercase tracking-wider mb-4","children":"Barrett Henry's Network"}],["$","div",null,{"className":"grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3 text-sm","children":[["$","a",null,{"href":"https://nowtb.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Tampa Bay Real Estate"}],["$","a",null,{"href":"https://valricoagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Real Estate"}],["$","a",null,{"href":"https://parrishagent.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Parrish Real Estate"}],["$","a",null,{"href":"https://valrico.blog","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Valrico Community Blog"}],["$","a",null,{"href":"https://bestbayservices.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Handyman & Home Services"}],["$","a",null,{"href":"https://vivipm.com","target":"_blank","rel":"noopener noreferrer","className":"hover:text-white transition-colors","children":"Property Management"}]]}]]}],["$","div",null,{"className":"mt-12 pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center gap-4 text-xs","children":[["$","p",null,{"children":["© ",2026," TB Relo. All rights reserved."]}],["$","div",null,{"className":"flex gap-4","children":[["$","$L4",null,{"href":"/affiliate-disclosure/","className":"hover:text-white transition-colors","children":"Affiliate Disclosure"}],["$","$L4",null,{"href":"/privacy-policy/","className":"hover:text-white transition-colors","children":"Privacy Policy"}],["$","$L4",null,{"href":"/disclaimer/","className":"hover:text-white transition-colors","children":"Disclaimer"}]]}]]}]]}],["$","div",null,{"className":"bg-black/30 border-t border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 text-center text-xs text-gray-500","children":["Site by"," ",["$","a",null,{"href":"https://vyrabyte.com","target":"_blank","rel":"noopener noreferrer","className":"text-gray-400 hover:text-white transition-colors","children":"Vyrabyte"}]]}]}]]}],["$","$Lc",null,{}]]}]]}]],null],null],["$Ld",null]]]]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Florida Pest Control — The Monthly Spray Is Not Optional | TB Relo | TB Relo"}],["$","meta","3",{"name":"description","content":"Florida Pest Control. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","6",{"property":"og:title","content":"Florida Pest Control — The Monthly Spray Is Not Optional | TB Relo | TB Relo"}],["$","meta","7",{"property":"og:description","content":"Florida Pest Control. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","8",{"property":"og:image","content":"https://tbrelo.com/images/blog/housing.jpg"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"Florida Pest Control — The Monthly Spray Is Not Optional | TB Relo | TB Relo"}],["$","meta","13",{"name":"twitter:description","content":"Florida Pest Control. Honest guide from a Tampa Bay local with 23+ years of experience."}],["$","meta","14",{"name":"twitter:image","content":"https://tbrelo.com/images/blog/housing.jpg"}],["$","link","15",{"rel":"icon","href":"/icon.svg?ff4364d89c37c0d6","type":"image/svg+xml","sizes":"any"}]]
+1:null

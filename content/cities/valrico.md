@@ -32,6 +32,8 @@ Valrico's neighborhoods range from established 1990s subdivisions to newer devel
 
 **River Hills Country Club** — The upscale option in Valrico. A gated golf course community with a Tom Fazio-designed course. Homes here start around **$500K** and climb well past **$1M** for waterfront or golf-course lots. River Hills is where Valrico starts to feel like a different tax bracket. If you want country-club living without the South Tampa price tag, this is it.
 
+![River Hills Golf and Country Club community entrance in Valrico, FL](/images/river-hills-valrico.jpg)
+
 **Lithia Pinecrest corridor** — The stretch along Lithia Pinecrest Road heading south toward Lithia and FishHawk. Newer developments, some with larger lots (half-acre to one-acre parcels). This area appeals to people who want space and don't mind being a few extra minutes from the main commercial areas. Homes range from **$400K-$600K+**.
 
 **FishHawk-adjacent areas** — FishHawk Ranch is technically Lithia, but its northern edge borders Valrico. Some neighborhoods in this border zone get the benefits of Valrico's location with FishHawk-style amenities. If your search includes Valrico, extend it south to compare.
