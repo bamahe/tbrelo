@@ -1,7 +1,7 @@
 ---
 title: "Best Paddleboards for Tampa Bay"
 metaTitle: "Best Paddleboards for Tampa Bay | TB Relo"
-metaDescription: "Best Paddleboards for Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Best Paddleboards for Tampa Bay. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Affiliate / Products"
 subcategory: "Product Roundup"
@@ -9,7 +9,7 @@ primaryKeyword: "best SUP Tampa Bay"
 publishedAt: "2025-10-20T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-10-20T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/best-paddleboards-tampa-bay.webp"
 
 ## Best Paddleboards for Tampa Bay Waters: A Local's Complete Guide
 
-After 23+ years of helping families relocate to Tampa Bay, I've learned that water activities aren't just recreation here — they're practically mandatory. Between Clearwater Beach, the Hillsborough River, and countless bays and inlets, you'll want a paddleboard within six months of moving here. Trust me on this.
+After over a decade of helping families relocate to Tampa Bay, I've learned that water activities aren't just recreation here — they're practically mandatory. Between Clearwater Beach, the Hillsborough River, and countless bays and inlets, you'll want a paddleboard within six months of moving here. Trust me on this.
 
 I've tested dozens of boards in everything from the choppy waters off Bayshore Boulevard to the glass-calm mornings at Weedon Island. Here's what actually works in our unique conditions — no marketing fluff, just real recommendations for real Tampa Bay waters.
 
@@ -252,7 +252,7 @@ Fall can offer Tampa Bay's most spectacular SUP conditions between weather syste
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

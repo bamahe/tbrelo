@@ -161,4 +161,4 @@ Polk's economy is diversified. Publix is the anchor employer, but healthcare (La
 
 ---
 
-*Thinking about relocating to Polk County? Barrett Henry has been helping families move to Tampa Bay for over 23 years. {{nowtb}}*
+*Thinking about relocating to Polk County? Barrett Henry has been helping families move to Tampa Bay for over a decade. {{nowtb}}*

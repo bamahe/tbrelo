@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Date Night Guide — 30 Ideas by Budget"
 metaTitle: "Tampa Bay Date Night Guide — 30 Ideas by Budget | TB Relo"
-metaDescription: "Tampa Bay Date Night Guide. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa Bay Date Night Guide. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Lifestyle / Food"
 subcategory: "Local Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "date night Tampa Bay ideas"
 publishedAt: "2025-07-22T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-07-22T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/tampa-bay-date-night-guide.webp"
 ---
 
-Planning date night in Tampa Bay shouldn't feel like solving a calculus problem. After 23 years helping people discover this area, I've seen couples stress over everything from parking downtown to whether that trendy restaurant is worth the $200 tab. Here's the reality: Tampa Bay delivers incredible date experiences at every price point — you just need to know where to look.
+Planning date night in Tampa Bay shouldn't feel like solving a calculus problem. After 24 years helping people discover this area, I've seen couples stress over everything from parking downtown to whether that trendy restaurant is worth the $200 tab. Here's the reality: Tampa Bay delivers incredible date experiences at every price point — you just need to know where to look.
 
 I've broken this down by budget because let's be honest, not every date night calls for champagne and caviar. Sometimes you want craft cocktails and waterfront views. Other times, you're perfectly happy sharing street tacos and watching the sunset from Bayshore Boulevard.
 
@@ -158,7 +158,7 @@ Tampa Bay runs more casual than New York or Chicago. "Business casual" means kha
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

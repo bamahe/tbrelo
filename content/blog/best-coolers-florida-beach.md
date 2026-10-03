@@ -1,7 +1,7 @@
 ---
 title: "Best Coolers and Ice Chests for Florida Beach Days"
 metaTitle: "Best Coolers and Ice Chests for Florida Beach Days | TB Relo"
-metaDescription: "Best Coolers and Ice Chests for Florida Beach Days. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Best Coolers and Ice Chests for Florida Beach Days. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Affiliate / Products"
 subcategory: "Product Roundup"
@@ -9,7 +9,7 @@ primaryKeyword: "best cooler Florida beach"
 publishedAt: "2025-10-04T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-10-04T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/best-coolers-florida-beach.webp"
 ---
 
-Living in Tampa Bay for 23+ years, I've hauled more coolers to Clearwater Beach, St. Pete Beach, and Anna Maria Island than I care to count. Between client beach parties, family outings, and showing out-of-state buyers why our beaches are worth the move, I've learned the hard way which coolers actually work in Florida's brutal heat and which ones leave you with warm beer and soggy sandwiches by noon.
+Living in Tampa Bay for over a decade, I've hauled more coolers to Clearwater Beach, St. Pete Beach, and Anna Maria Island than I care to count. Between client beach parties, family outings, and showing out-of-state buyers why our beaches are worth the move, I've learned the hard way which coolers actually work in Florida's brutal heat and which ones leave you with warm beer and soggy sandwiches by noon.
 
 Here's the truth: that $30 cooler from the grocery store isn't going to cut it when it's 94°F with 85% humidity and you're parked on burning sand for six hours. Florida beach days demand serious gear, and after field-testing dozens of coolers from Honeymoon Island to Fort De Soto, I know exactly what works.
 
@@ -188,7 +188,7 @@ Here's how I counsel clients on cooler purchases:
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

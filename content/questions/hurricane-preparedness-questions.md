@@ -1,14 +1,14 @@
 ---
 title: "Hurricane Preparedness in Tampa Bay — 30 Questions Answered"
 metaTitle: "Hurricane Preparedness FAQ — Questions Answered by a Local REALTOR® | TB Relo"
-metaDescription: "Hurricane preparedness questions answered by a REALTOR® with 23+ years of real estate experience. Evacuation zones, supplies, shutters, insurance, and more."
+metaDescription: "Hurricane preparedness questions answered by a REALTOR® with 24+ years of real estate experience. Evacuation zones, supplies, shutters, insurance, and more."
 type: question
 category: "Weather & Safety"
 publishedAt: "2026-04-13"
 updatedAt: "2026-04-13"
 ---
 
-Hurricane preparedness is part of living in Florida. After 23+ years of real estate experience here, I have seen what works and what catches people off guard. Whether you are new to the area or just need a refresher, these are the questions I hear most often from buyers and residents.
+Hurricane preparedness is part of living in Florida. After more than a decade of real estate experience here, I have seen what works and what catches people off guard. Whether you are new to the area or just need a refresher, these are the questions I hear most often from buyers and residents.
 
 ## Frequently Asked Questions
 

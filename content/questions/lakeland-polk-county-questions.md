@@ -1,7 +1,7 @@
 ---
 title: "Lakeland & Polk County — 30 Questions Answered"
 metaTitle: "Lakeland & Polk County FAQ — Questions Answered by a Local REALTOR® | TB Relo"
-metaDescription: "Get answers to 30 common questions about living in Lakeland, Winter Haven, and Polk County from a REALTOR® with 23+ years of real estate experience."
+metaDescription: "Get answers to 30 common questions about living in Lakeland, Winter Haven, and Polk County from a REALTOR® with 24+ years of real estate experience."
 type: question
 category: "Neighborhoods"
 publishedAt: "2026-04-13"
@@ -130,4 +130,4 @@ Several. The I-4 corridor continues to see commercial and residential growth. Am
 
 ### Why should I work with Barrett Henry when buying in Lakeland or Polk County?
 
-With 23+ years of real estate experience, I can help you navigate the Polk County market whether you're relocating from out of state, commuting to Tampa, or looking for investment property. I'll give you straight answers about commute reality, flood zones, school quality, and resale potential. No fluff, just facts.
+With 24+ years of real estate experience, I can help you navigate the Polk County market whether you're relocating from out of state, commuting to Tampa, or looking for investment property. I'll give you straight answers about commute reality, flood zones, school quality, and resale potential. No fluff, just facts.

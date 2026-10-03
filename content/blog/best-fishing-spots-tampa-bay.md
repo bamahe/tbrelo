@@ -11,7 +11,7 @@ updatedAt: "2026-03-15"
 
 Tampa Bay is one of the best fishing destinations in the United States, and that's not regional pride talking — it's a fact backed by tournament anglers, fishing publications, and the sheer biomass of fish that call this estuary home. Whether you're a fly-fishing purist chasing tailing redfish on a grass flat, a family looking for a Saturday morning pier trip, or a weekend warrior targeting offshore grouper, Tampa Bay delivers.
 
-After 23 years here, I've fished most of these spots personally. Here's the honest guide, organized by county.
+After more than a decade here, I've fished most of these spots personally. Here's the honest guide, organized by county.
 
 ## Hillsborough County
 
@@ -120,4 +120,4 @@ Tampa Bay is a world-class fishery hiding in plain sight. You can catch snook fr
 
 {{nowtb}} knows which neighborhoods offer the best fishing access — waterfront homes with boat docks, communities near the best launch ramps, and the areas where your kayak can reach productive water in minutes.
 
-*Moving to Tampa Bay and want to live near the fish? Barrett Henry has been fishing these waters for over 23 years. {{nowtb}}*
+*Moving to Tampa Bay and want to live near the fish? Barrett Henry has been fishing these waters for over 24 years. {{nowtb}}*

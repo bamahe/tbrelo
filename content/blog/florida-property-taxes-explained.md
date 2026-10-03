@@ -1,7 +1,7 @@
 ---
 title: "Florida Property Taxes Explained — County by County Breakdown"
 metaTitle: "Florida Property Taxes Explained — County by County Breakdown | TB Relo"
-metaDescription: "Florida Property Taxes Explained. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Florida Property Taxes Explained. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Real Estate"
 subcategory: "Buying Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Florida property tax by county"
 publishedAt: "2024-11-03T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-11-03T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/florida-property-taxes-explained.webp"
 
 If you're moving to Florida, you've probably heard the good news: no state income tax. The reality check? Property taxes here aren't exactly pocket change, and they vary wildly depending on where you plant your flag.
 
-After 23 years of helping families navigate Tampa Bay real estate, I've seen too many buyers get blindsided by their first tax bill. A $400,000 home in Hillsborough County costs you about $4,800 annually in property taxes. That same house in neighboring Pasco? You're looking at closer to $3,600. 
+After over a decade of helping families navigate Tampa Bay real estate, I've seen too many buyers get blindsided by their first tax bill. A $400,000 home in Hillsborough County costs you about $4,800 annually in property taxes. That same house in neighboring Pasco? You're looking at closer to $3,600. 
 
 Let me break down exactly what you're signing up for — county by county, with real numbers and zero fluff.
 
@@ -92,7 +92,7 @@ Typical scenarios:
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -224,7 +224,7 @@ Your best bet for appeal success:
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

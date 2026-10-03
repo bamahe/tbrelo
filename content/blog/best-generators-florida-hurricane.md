@@ -1,7 +1,7 @@
 ---
 title: "Best Portable Generators for Florida Hurricane Season"
 metaTitle: "Best Portable Generators for Florida Hurricane Season | TB Relo"
-metaDescription: "Best Portable Generators for Florida Hurricane Season. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Best Portable Generators for Florida Hurricane Season. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Affiliate / Products"
 subcategory: "Product Roundup"
@@ -9,7 +9,7 @@ primaryKeyword: "best generator Florida hurricane"
 publishedAt: "2025-09-14T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-09-14T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/best-generators-florida-hurricane.webp"
 ---
 
-When Hurricane Ian knocked out power to 2.7 million Floridians in 2022, I watched neighbors scramble for generators at Home Depot — only to find empty shelves. After 23 years of helping Tampa Bay families prepare for hurricane season, I've learned the hard truth: waiting until a storm's in the Gulf is too late.
+When Hurricane Ian knocked out power to 2.7 million Floridians in 2022, I watched neighbors scramble for generators at Home Depot — only to find empty shelves. After over a decade of helping Tampa Bay families prepare for hurricane season, I've learned the hard truth: waiting until a storm's in the Gulf is too late.
 
 Your generator choice depends on what you actually need to power. Running a few lights and keeping your phone charged? A 2000-watt inverter generator will do. Need to keep your whole Clearwater ranch house comfortable? You're looking at a serious investment in a whole-house system.
 
@@ -272,7 +272,7 @@ Remember: buying during hurricane season costs 20-30% more. Buy in spring when p
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

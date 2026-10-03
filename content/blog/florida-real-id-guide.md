@@ -1,7 +1,7 @@
 ---
 title: "How to Get a Florida Real ID — Complete Guide"
 metaTitle: "How to Get a Florida Real ID — Complete Guide | TB Relo"
-metaDescription: "How to Get a Florida Real ID. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "How to Get a Florida Real ID. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Practical / Legal"
 subcategory: "Admin Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Florida Real ID how to get"
 publishedAt: "2025-06-30T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-06-30T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/florida-real-id-guide.webp"
 
 The clock is ticking on Florida's Real ID rollout, and if you're new to Tampa Bay — or just procrastinated like the rest of us — you need to get this sorted before October 1, 2025. After that date, your regular Florida driver's license won't cut it for domestic flights or federal buildings.
 
-I've helped hundreds of relocating families navigate Florida's bureaucracy over the past 23 years, and the Real ID process trips up more people than you'd expect. The good news? Once you know what documents to bring and where to go, it's straightforward. The bad news? One missing paper means another trip to the DMV.
+I've helped hundreds of relocating families navigate Florida's bureaucracy over the past decade, and the Real ID process trips up more people than you'd expect. The good news? Once you know what documents to bring and where to go, it's straightforward. The bad news? One missing paper means another trip to the DMV.
 
 
 ## What Exactly Is a Florida Real ID?
@@ -132,7 +132,7 @@ Screenshots of bank statements or utility bills don't work. Print official paper
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -270,7 +270,7 @@ The federal government hasn't announced plans for additional restrictions beyond
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

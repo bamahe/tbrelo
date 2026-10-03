@@ -1,7 +1,7 @@
 ---
 title: "How to Get Your Florida Concealed Carry Permit"
 metaTitle: "How to Get Your Florida Concealed Carry Permit | TB Relo"
-metaDescription: "How to Get Your Florida Concealed Carry Permit. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "How to Get Your Florida Concealed Carry Permit. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Practical / Legal"
 subcategory: "Admin Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Florida concealed carry permit"
 publishedAt: "2025-06-05T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-06-05T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/florida-concealed-carry-permit-guide.webp"
 ---
 
-Getting your Florida concealed carry permit isn't complicated, but it's definitely bureaucratic. After helping hundreds of families relocate to Tampa Bay over 23 years, I've seen the same questions come up again and again about Florida's concealed weapons permit (CWP) process.
+Getting your Florida concealed carry permit isn't complicated, but it's definitely bureaucratic. After helping hundreds of families relocate to Tampa Bay over a decade, I've seen the same questions come up again and again about Florida's concealed weapons permit (CWP) process.
 
 Here's everything you need to know to get your permit without the runaround.
 
@@ -169,7 +169,7 @@ Your permit expires after seven years. Renewal is easier than the initial applic
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

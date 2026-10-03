@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Road Construction Updates — What's Being Built"
 metaTitle: "Tampa Bay Road Construction Updates — What's Being Built | TB Relo"
-metaDescription: "Tampa Bay Road Construction Updates. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa Bay Road Construction Updates. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Transportation"
 subcategory: "Commute Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Tampa Bay road construction 2026"
 publishedAt: "2026-02-18T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2026-02-18T08:00:00-04:00"
@@ -200,7 +200,7 @@ The infamous "Malfunction Junction" where I-275 meets I-4 downtown got a complet
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -304,7 +304,7 @@ For current residents: hang in there. The worst of the Howard Frankland and I-4 
 
 For investors: construction creates both challenges and opportunities. The key is understanding which projects create lasting value and which are just temporary fixes.
 
-After 23 years of helping families navigate Tampa Bay real estate, I can tell you that today's construction zones become tomorrow's most desirable neighborhoods. The region's commitment to infrastructure improvement is exactly why Tampa Bay continues to attract families, businesses, and investment.
+After over a decade of helping families navigate Tampa Bay real estate, I can tell you that today's construction zones become tomorrow's most desirable neighborhoods. The region's commitment to infrastructure improvement is exactly why Tampa Bay continues to attract families, businesses, and investment.
 
 Plan accordingly, stay informed, and remember — we're building something special here.
 

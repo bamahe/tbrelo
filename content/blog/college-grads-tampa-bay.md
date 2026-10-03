@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay for Recent College Grads"
 metaTitle: "Tampa Bay for Recent College Grads | TB Relo"
-metaDescription: "Tampa Bay for Recent College Grads. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa Bay for Recent College Grads. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Demographic / Niche"
 subcategory: "Audience Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "recent college grad Tampa Bay"
 publishedAt: "2026-01-07T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2026-01-07T08:00:00-04:00"
@@ -24,7 +24,7 @@ featuredImage: "/images/blog/college-grads-tampa-bay.webp"
 ---
 
 
-Just graduated and trying to figure out where to land? Tampa Bay should be on your short list. After 23 years of helping people relocate here, I've watched this area transform into one of the best spots in the country for recent grads to launch their careers and actually afford to live while doing it.
+Just graduated and trying to figure out where to land? Tampa Bay should be on your short list. After over a decade of helping people relocate here, I've watched this area transform into one of the best spots in the country for recent grads to launch their careers and actually afford to live while doing it.
 
 Here's the straight talk: Tampa Bay offers what most major metro areas can't — legitimate job opportunities, reasonable rent, actual nightlife, and year-round sunshine. No trust fund required.
 
@@ -200,7 +200,7 @@ Most recent grads need a car. Tampa Bay's public transit exists but isn't compre
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -385,7 +385,7 @@ Most utilities can be arranged online or by phone 1-2 weeks before move-in.
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

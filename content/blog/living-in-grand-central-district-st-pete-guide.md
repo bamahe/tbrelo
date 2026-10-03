@@ -1,7 +1,7 @@
 ---
 title: "Living in Grand Central District St. Pete — What It's Really Like (Honest Relocation Guide)"
 metaTitle: "Living in Grand Central District St. Pete — What It's Really Like (Honest Relocation Guide) | TB Relo"
-metaDescription: "Living in Grand Central District St. Pete. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Living in Grand Central District St. Pete. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Neighborhoods"
 subcategory: "Deep Dive"
@@ -9,7 +9,7 @@ primaryKeyword: "living in Grand Central District St. Pete FL"
 publishedAt: "2025-02-18T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-02-18T08:00:00-04:00"
@@ -276,7 +276,7 @@ New construction continues, which adds supply but also changes neighborhood char
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -330,7 +330,7 @@ The neighborhood attracts people who value community engagement over suburban pr
 
 ## Pros and Cons Summary
 
-After 23 years in Tampa Bay real estate, here's my honest assessment:
+After over a decade in Tampa Bay real estate, here's my honest assessment:
 
 ### The Good
 - Genuine walkability rare in Florida

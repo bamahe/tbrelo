@@ -231,4 +231,4 @@ No maximum age. However, drivers 80+ must renew in person (no online renewal) an
 ### What if I lost my out-of-state license?
 You can still get a Florida license — you just need a letter from your previous state's DMV confirming your license was valid, or Florida can verify electronically in most cases. Call ahead to confirm what the Tax Collector needs.
 
-*Thinking about relocating to Tampa Bay? Barrett Henry has been helping families move to Tampa Bay for over 23 years. {{nowtb}}*
+*Thinking about relocating to Tampa Bay? Barrett Henry has been helping families move to Tampa Bay for over a decade. {{nowtb}}*

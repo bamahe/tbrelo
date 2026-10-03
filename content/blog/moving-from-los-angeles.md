@@ -1,7 +1,7 @@
 ---
 title: "Moving from Los Angeles to Tampa Bay — The Complete Relocation Guide"
 metaTitle: "Moving from Los Angeles to Tampa Bay — The Complete Relocation Guide | TB Relo"
-metaDescription: "Moving from Los Angeles to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Moving from Los Angeles to Tampa Bay. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Moving From"
 subcategory: "Los Angeles"
@@ -9,7 +9,7 @@ primaryKeyword: "moving from LA to Tampa Bay"
 publishedAt: "2024-06-30T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-06-30T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/moving-from-los-angeles.webp"
 ---
 
-After 23 years of helping families relocate to Tampa Bay, I've guided hundreds of Californians through this exact move. And let me tell you — the shift from LA's $2.2 million median home price to Tampa Bay's $425,000 average isn't just refreshing, it's life-changing.
+After over a decade of helping families relocate to Tampa Bay, I've guided hundreds of Californians through this exact move. And let me tell you — the shift from LA's $2.2 million median home price to Tampa Bay's $425,000 average isn't just refreshing, it's life-changing.
 
 
 The numbers tell the story: you'll save roughly $180,000 on a comparable home, slash your state income taxes to zero, and trade 405 traffic for actual driveable roads. But beyond the obvious financial wins, there are cultural shifts, weather differences, and logistical hurdles you need to understand before making the jump.
@@ -94,7 +94,7 @@ Newer suburban development with top-rated schools and family amenities. Master-p
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -249,7 +249,7 @@ Tampa Bay's cultural scene is growing rapidly:
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -468,7 +468,7 @@ Florida moves slower than LA. Business meetings start with genuine "how are you"
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Internet & Cable — 30 Questions Answered"
 metaTitle: "Tampa Bay Internet & Cable FAQ — Questions Answered by a Local REALTOR® | TB Relo"
-metaDescription: "Answers to 30 questions about internet and cable providers in Tampa Bay including Spectrum, Frontier, speeds, pricing, and work from home needs. Local insight from a REALTOR® with 23+ years of real estate experience."
+metaDescription: "Answers to 30 questions about internet and cable providers in Tampa Bay including Spectrum, Frontier, speeds, pricing, and work from home needs. Local insight from a REALTOR® with 24+ years of real estate experience."
 type: question
 category: "Home & Living"
 publishedAt: "2026-04-13"

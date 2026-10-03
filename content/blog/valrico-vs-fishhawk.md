@@ -89,4 +89,4 @@ The tradeoff: everything is planned. The HOA enforces architectural standards, l
 
 {{nowtb}} knows every pocket of eastern Hillsborough County and can show you the Valrico neighborhoods that zone for the best schools or the FishHawk villages that offer the best value. This is a decision worth getting right.
 
-*Ready to find your family's perfect neighborhood? Barrett Henry has been helping families relocate to Tampa Bay for over 23 years. {{nowtb}}*
+*Ready to find your family's perfect neighborhood? Barrett Henry has been helping families relocate to Tampa Bay for over a decade. {{nowtb}}*

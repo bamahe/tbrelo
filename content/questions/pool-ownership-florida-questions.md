@@ -1,7 +1,7 @@
 ---
 title: "Pool Ownership in Florida — 30 Questions Answered"
 metaTitle: "Pool Ownership in Florida FAQ — Questions Answered by a Local REALTOR® | TB Relo"
-metaDescription: "Get answers to 30 common questions about owning a pool in Florida, from maintenance costs to fencing laws, answered by a REALTOR® with 23+ years of real estate experience."
+metaDescription: "Get answers to 30 common questions about owning a pool in Florida, from maintenance costs to fencing laws, answered by a REALTOR® with 24+ years of real estate experience."
 type: question
 category: "Home & Living"
 publishedAt: "2026-04-13"

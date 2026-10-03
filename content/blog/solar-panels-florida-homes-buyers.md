@@ -1,7 +1,7 @@
 ---
 title: "Solar Panels on Florida Homes — What Buyers Should Know"
 metaTitle: "Solar Panels on Florida Homes — What Buyers Should Know | TB Relo"
-metaDescription: "Solar Panels on Florida Homes. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Solar Panels on Florida Homes. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Real Estate"
 subcategory: "Buying Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "solar panels Florida home buying"
 publishedAt: "2024-11-29T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-11-29T08:00:00-04:00"
@@ -153,7 +153,7 @@ Solar production peaks midday when many people aren't home. Without battery stor
 
 ## Common Solar Buying Mistakes
 
-After 23+ years in Tampa Bay real estate, I've seen these solar-related mistakes repeatedly:
+After over a decade in Tampa Bay real estate, I've seen these solar-related mistakes repeatedly:
 
 ### Not Reading the Lease Transfer Terms
 
@@ -202,7 +202,7 @@ In Tampa Bay's competitive market, solar can be a differentiator — but make su
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

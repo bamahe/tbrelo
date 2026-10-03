@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Food & Dining — 30 Questions Answered"
 metaTitle: "Tampa Bay Food & Dining FAQ — Questions Answered by a Local REALTOR® | TB Relo"
-metaDescription: "Answers to 30 questions about Tampa Bay restaurants, Cuban food, food scenes, farmers markets, and grocery stores. Local insight from a REALTOR® with 23+ years of real estate experience."
+metaDescription: "Answers to 30 questions about Tampa Bay restaurants, Cuban food, food scenes, farmers markets, and grocery stores. Local insight from a REALTOR® with 24+ years of real estate experience."
 type: question
 category: "Lifestyle & Recreation"
 publishedAt: "2026-04-13"

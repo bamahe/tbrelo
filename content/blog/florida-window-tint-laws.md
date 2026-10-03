@@ -1,7 +1,7 @@
 ---
 title: "Florida Tinting Laws — How Dark Can Your Windows Be?"
 metaTitle: "Florida Tinting Laws — How Dark Can Your Windows Be? | TB Relo"
-metaDescription: "Florida Tinting Laws. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Florida Tinting Laws. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Practical / Legal"
 subcategory: "Admin Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Florida window tint laws"
 publishedAt: "2025-07-05T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-07-05T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/florida-window-tint-laws.webp"
 
 Moving to Florida and wondering about those super-dark tinted windows you see everywhere? You're not alone. Every week, I get calls from relocating families asking about window tint laws — especially folks coming from states with stricter rules who suddenly notice half the cars here look like they're driven by celebrities hiding from paparazzi.
 
-Let me break down Florida's window tint laws without the legal jargon. After 23+ years helping people settle into Tampa Bay, I've seen plenty of newcomers get sideways with law enforcement over tint violations they didn't even know existed.
+Let me break down Florida's window tint laws without the legal jargon. After over a decade helping people settle into Tampa Bay, I've seen plenty of newcomers get sideways with law enforcement over tint violations they didn't even know existed.
 
 ## Florida's Window Tint Laws: The Basics
 
@@ -145,7 +145,7 @@ Avoid mobile tint services or shops that can't provide certificates. The $50 sav
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. From window tint laws to the best neighborhoods, get straight talk about your move.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. From window tint laws to the best neighborhoods, get straight talk about your move.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

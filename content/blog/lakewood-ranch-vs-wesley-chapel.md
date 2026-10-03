@@ -90,4 +90,4 @@ Beach access from Wesley Chapel is less convenient — the nearest Gulf beaches 
 
 {{nowtb}} works across the entire Tampa Bay metro and can help you compare specific communities within both Lakewood Ranch and Wesley Chapel. The right village within each community matters as much as the community itself.
 
-*Ready to tour both and decide? Barrett Henry has been helping families relocate to Tampa Bay for over 23 years. {{nowtb}}*
+*Ready to tour both and decide? Barrett Henry has been helping families relocate to Tampa Bay for over a decade. {{nowtb}}*

@@ -109,7 +109,7 @@ Map your office, your budget, and your parking situation. Then work backward:
 3. **Need space for a family?** Brandon via the Selmon Expressway.
 4. **Want the best value closest in?** Tampa Heights or Ybor City.
 
-After 23+ years of real estate experience, the biggest mistake I see downtown workers make is underestimating parking costs. A $200/month parking garage adds $2,400/year to your commute cost. Factor that into your housing budget.
+After 24+ years of real estate experience, the biggest mistake I see downtown workers make is underestimating parking costs. A $200/month parking garage adds $2,400/year to your commute cost. Factor that into your housing budget.
 
 [Search homes near downtown Tampa](/properties/) or [reach out](/contact/) and I'll pull listings based on your commute and budget.
 

@@ -1,7 +1,7 @@
 ---
 title: "Florida HOA Horror Stories — And How to Avoid Them"
 metaTitle: "Florida HOA Horror Stories — And How to Avoid Them | TB Relo"
-metaDescription: "Florida HOA Horror Stories. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Florida HOA Horror Stories. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Florida Life"
 subcategory: "Survival Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Florida HOA rules tips"
 publishedAt: "2024-10-14T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-10-14T08:00:00-04:00"
@@ -27,7 +27,7 @@ You bought your dream home in Florida, complete with community pool and manicure
 
 Welcome to HOA life in the Sunshine State.
 
-After 23 years selling homes across [Tampa Bay](/counties/), I've seen HOA drama that would make reality TV producers weep with joy. Million-dollar lawsuits over fence heights. Board members who treat their positions like medieval fiefdoms. Communities where painting your mailbox the wrong shade of white triggers a formal hearing.
+After more than a decade selling homes across [Tampa Bay](/counties/), I've seen HOA drama that would make reality TV producers weep with joy. Million-dollar lawsuits over fence heights. Board members who treat their positions like medieval fiefdoms. Communities where painting your mailbox the wrong shade of white triggers a formal hearing.
 
 But here's the thing — HOAs aren't inherently evil. Good ones maintain property values and create genuine community. The trick is knowing what to look for and how to navigate the system without losing your sanity (or your savings account).
 
@@ -229,7 +229,7 @@ Your home should be your sanctuary, not a source of monthly legal drama. Choose 
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

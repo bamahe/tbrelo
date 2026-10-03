@@ -1,7 +1,7 @@
 ---
 title: "Florida Child Custody and Relocation Laws"
 metaTitle: "Florida Child Custody and Relocation Laws | TB Relo"
-metaDescription: "Florida Child Custody and Relocation Laws. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Florida Child Custody and Relocation Laws. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Practical / Legal"
 subcategory: "Admin Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Florida relocation with child custody"
 publishedAt: "2025-06-30T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-06-30T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/florida-child-custody-relocation-law.webp"
 ---
 
-Moving to Tampa Bay with kids when you're sharing custody? Florida's relocation laws are about as straightforward as Interstate 4 traffic during rush hour — meaning they're not. After helping 800+ families navigate moves across the Tampa Bay area over the past 23 years, I've seen firsthand how custody complications can derail an otherwise smooth relocation.
+Moving to Tampa Bay with kids when you're sharing custody? Florida's relocation laws are about as straightforward as Interstate 4 traffic during rush hour — meaning they're not. After helping 800+ families navigate moves across the Tampa Bay area over the past decade, I've seen firsthand how custody complications can derail an otherwise smooth relocation.
 
 Here's what every parent needs to know about Florida's child custody and relocation laws before making that move to Clearwater, St. Pete, or anywhere else in our beautiful corner of the state.
 
@@ -172,7 +172,7 @@ This newer approach involves both parents working with specially trained attorne
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Survive Your First Florida Summer Without AC Drama"
 metaTitle: "How to Survive Your First Florida Summer Without AC Drama | TB Relo"
-metaDescription: "How to Survive Your First Florida Summer Without AC Drama. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "How to Survive Your First Florida Summer Without AC Drama. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Florida Life"
 subcategory: "Survival Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "first Florida summer tips"
 publishedAt: "2024-08-27T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-08-27T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/survive-first-florida-summer.webp"
 
 Your first Florida summer will humble you. I've watched thousands of relocating families discover that what they thought they knew about heat was adorably naive. That 95°F day back in Ohio? That was Florida's warm-up act.
 
-After 23+ years helping families settle into Tampa Bay, I've seen every possible AC disaster, humidity horror story, and heat-related meltdown. The good news? You can absolutely conquer your first Florida summer. You just need to know what you're really dealing with.
+After over a decade helping families settle into Tampa Bay, I've seen every possible AC disaster, humidity horror story, and heat-related meltdown. The good news? You can absolutely conquer your first Florida summer. You just need to know what you're really dealing with.
 
 
 ## The Reality Check: This Isn't Just "Hot Weather"
@@ -242,7 +242,7 @@ Welcome to Florida. Stay cool, stay hydrated, and remember — October is coming
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

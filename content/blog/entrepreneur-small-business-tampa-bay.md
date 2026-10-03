@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay for Entrepreneurs and Small Business Owners"
 metaTitle: "Tampa Bay for Entrepreneurs and Small Business Owners | TB Relo"
-metaDescription: "Tampa Bay for Entrepreneurs and Small Business Owners. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa Bay for Entrepreneurs and Small Business Owners. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Demographic / Niche"
 subcategory: "Audience Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "start business Tampa Bay"
 publishedAt: "2025-12-22T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-12-22T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/entrepreneur-small-business-tampa-bay.webp"
 ---
 
-After 23+ years watching Tampa Bay evolve from sleepy tourist destination to genuine business hub, I can tell you this: if you're thinking about starting or moving your business here, you're looking at one of the best-kept secrets in the Southeast. While everyone's obsessing over Austin and Nashville, Tampa Bay has quietly built something special — and the costs haven't caught up yet.
+After over a decade watching Tampa Bay evolve from sleepy tourist destination to genuine business hub, I can tell you this: if you're thinking about starting or moving your business here, you're looking at one of the best-kept secrets in the Southeast. While everyone's obsessing over Austin and Nashville, Tampa Bay has quietly built something special — and the costs haven't caught up yet.
 
 
 Let me walk you through what makes this market tick for entrepreneurs, where the real opportunities are, and what you need to know before making the leap.

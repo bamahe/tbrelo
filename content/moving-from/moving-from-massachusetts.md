@@ -88,4 +88,4 @@ Moffitt Cancer Center (nationally ranked), Tampa General Hospital (Level 1 traum
 ### Do I need to worry about the Massachusetts "millionaire tax" if I leave?
 Once you establish Florida domicile, Massachusetts can't tax your income. But if you maintain property or spend significant time in MA, they could try to claim you're still a resident. Make a clean break: surrender your MA license, change voter registration, file Declaration of Domicile in Florida.
 
-*Ready to make the move? Barrett Henry has been helping families relocate to Tampa Bay for over 23 years. {{nowtb}}*
+*Ready to make the move? Barrett Henry has been helping families relocate to Tampa Bay for over a decade. {{nowtb}}*

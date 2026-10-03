@@ -1,7 +1,7 @@
 ---
 title: "Florida Pest Control — The Monthly Spray Is Not Optional"
 metaTitle: "Florida Pest Control — The Monthly Spray Is Not Optional | TB Relo"
-metaDescription: "Florida Pest Control. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Florida Pest Control. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Florida Life"
 subcategory: "Survival Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Florida pest control schedule"
 publishedAt: "2024-10-19T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-10-19T08:00:00-04:00"
@@ -27,7 +27,7 @@ You know that friend who moved to Florida and swore they'd never use a lawn serv
 
 Welcome to Florida, where the bugs didn't get the memo that your house is supposed to be a bug-free zone.
 
-After 23+ years of helping families relocate to Tampa Bay, I've watched this same story play out hundreds of times. New residents think pest control is optional — maybe something for the squeamish or overly cautious. Then summer hits. Then they meet their first flying cockroach. Then they understand why every single long-term Florida resident has a pest control guy on speed dial.
+After over a decade of helping families relocate to Tampa Bay, I've watched this same story play out hundreds of times. New residents think pest control is optional — maybe something for the squeamish or overly cautious. Then summer hits. Then they meet their first flying cockroach. Then they understand why every single long-term Florida resident has a pest control guy on speed dial.
 
 Let me save you the trauma and explain why regular pest control isn't just recommended in Florida — it's basically a utility bill.
 
@@ -299,7 +299,7 @@ Having pest control records when you sell shows you've maintained the property p
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

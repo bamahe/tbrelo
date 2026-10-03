@@ -84,4 +84,4 @@ Both neighborhoods are close to downtown Tampa, which is a major advantage.
 
 {{nowtb}} helps buyers find the right block within these neighborhoods — and in Seminole Heights and Ybor, the specific block matters enormously for safety, walkability, and value.
 
-*Ready to explore Tampa's urban neighborhoods? Barrett Henry has been helping families relocate to Tampa Bay for over 23 years. {{nowtb}}*
+*Ready to explore Tampa's urban neighborhoods? Barrett Henry has been helping families relocate to Tampa Bay for over a decade. {{nowtb}}*

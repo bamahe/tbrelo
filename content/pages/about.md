@@ -13,7 +13,7 @@ TB Relo is the most comprehensive relocation guide for Tampa Bay, Florida. We co
 
 ## Who's Behind This
 
-**Barrett Henry** is a REALTOR and Broker Associate at REMAX Collective with 23+ years of experience in the Tampa Bay market. He leads The NOW Team and has helped hundreds of families relocate to the area.
+**Barrett Henry** is a REALTOR and Broker Associate at REMAX Collective with 24+ years of real estate experience. He leads The NOW Team and has helped hundreds of families relocate to the area.
 
 Barrett also runs:
 - {{nowtb}} — Full-service real estate for Tampa Bay buyers and sellers

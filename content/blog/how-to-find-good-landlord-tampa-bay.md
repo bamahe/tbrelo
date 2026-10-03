@@ -9,7 +9,7 @@ updatedAt: "2026-04-13"
 
 ## How Do You Find a Good Landlord in Tampa Bay?
 
-Most rental advice focuses on what landlords look for in tenants. Nobody talks about the other side — how tenants can vet landlords. But a bad landlord can make your life miserable for 12 months or more, and Tampa Bay has its share of them. From neglected repairs to illegally withheld security deposits to outright scams, I've seen it all over 23+ years of real estate experience.
+Most rental advice focuses on what landlords look for in tenants. Nobody talks about the other side — how tenants can vet landlords. But a bad landlord can make your life miserable for 12 months or more, and Tampa Bay has its share of them. From neglected repairs to illegally withheld security deposits to outright scams, I've seen it all over 24+ years of real estate experience.
 
 Here's how to protect yourself before you sign anything.
 

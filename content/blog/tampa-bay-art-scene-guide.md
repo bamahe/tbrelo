@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Art Scene — Museums, Galleries, and Street Art"
 metaTitle: "Tampa Bay Art Scene — Museums, Galleries, and Street Art | TB Relo"
-metaDescription: "Tampa Bay Art Scene. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa Bay Art Scene. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Lifestyle / Food"
 subcategory: "Local Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Tampa Bay art museums galleries"
 publishedAt: "2025-08-02T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-08-02T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/tampa-bay-art-scene-guide.webp"
 ---
 
-Tampa Bay's art scene punches way above its weight class. While everyone expects beaches and theme parks, they don't expect world-class museums, thriving gallery districts, and some of the best street art in the Southeast. After 23 years of showing families around Tampa Bay, I've watched this cultural landscape explode — and it's become a genuine selling point for relocating professionals and families.
+Tampa Bay's art scene punches way above its weight class. While everyone expects beaches and theme parks, they don't expect world-class museums, thriving gallery districts, and some of the best street art in the Southeast. After over a decade of showing families around Tampa Bay, I've watched this cultural landscape explode — and it's become a genuine selling point for relocating professionals and families.
 
 The numbers tell the story: The [Dalí Museum](/blog/st-pete-attractions/) alone draws 400,000+ visitors annually, while Tampa's museum district has tripled in size since 2010. But beyond the big names, you've got working artist studios in Seminole Heights, pop-up galleries in downtown St. Pete, and murals that rival anything in Miami's Wynwood.
 
@@ -195,7 +195,7 @@ Gallery walks happen year-round, but attendance peaks during cooler months. If y
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

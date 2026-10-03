@@ -1,7 +1,7 @@
 ---
 title: "Apollo Beach vs FishHawk — Which Is Better for Relocators?"
 metaTitle: "Apollo Beach vs FishHawk — Which Is Better for Relocators? | TB Relo"
-metaDescription: "Apollo Beach vs FishHawk. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Apollo Beach vs FishHawk. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "City Comparisons"
 subcategory: "Local"
@@ -9,7 +9,7 @@ primaryKeyword: "Apollo Beach vs FishHawk FL"
 publishedAt: "2024-05-14T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-05-14T08:00:00-04:00"
@@ -292,7 +292,7 @@ Apollo Beach offers more unique character and potential for long-term value appr
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

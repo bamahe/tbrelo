@@ -1,7 +1,7 @@
 ---
 title: "Living in South Tampa — What It's Really Like (Honest Relocation Guide)"
 metaTitle: "Living in South Tampa — What It's Really Like (Honest Relocation Guide) | TB Relo"
-metaDescription: "Living in South Tampa. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Living in South Tampa. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Neighborhoods"
 subcategory: "Deep Dive"
@@ -9,7 +9,7 @@ primaryKeyword: "living in South Tampa FL"
 publishedAt: "2025-01-11T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-01-11T08:00:00-04:00"
@@ -107,7 +107,7 @@ Many South Tampa neighborhoods have voluntary civic associations ($100-$300 annu
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -343,7 +343,7 @@ South Tampa attracts:
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -355,7 +355,7 @@ Living in South Tampa means paying premium prices for premium lifestyle. It's no
 
 The key is being honest about your budget and priorities. If you can afford South Tampa without stretching, you'll love the convenience, culture, and community. If the costs stress you out, you'll be happier in other Tampa Bay neighborhoods that offer more space and value.
 
-After 23 years of helping families relocate, I've seen both outcomes. The happiest South Tampa residents are those who buy what they can comfortably afford and embrace the neighborhood's character — narrow streets, hurricane prep, and all.
+After 24 years of helping families relocate, I've seen both outcomes. The happiest South Tampa residents are those who buy what they can comfortably afford and embrace the neighborhood's character — narrow streets, hurricane prep, and all.
 
 
 ## Frequently Asked Questions

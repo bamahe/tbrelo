@@ -1,7 +1,7 @@
 ---
 title: "How to Start a Business in Florida After Moving"
 metaTitle: "How to Start a Business in Florida After Moving | TB Relo"
-metaDescription: "How to Start a Business in Florida After Moving. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "How to Start a Business in Florida After Moving. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Practical / Legal"
 subcategory: "Admin Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "start business Florida"
 publishedAt: "2025-06-21T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-06-21T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/start-business-florida-guide.webp"
 
 So you've made the move to Florida and now you're ready to turn your entrepreneurial dreams into reality. Smart timing. Florida ranks among the most business-friendly states in the country, with no personal income tax, reasonable corporate tax rates, and a streamlined registration process that doesn't require you to hire three lawyers just to file paperwork.
 
-I've watched hundreds of relocating families launch successful businesses here over my 23 years in Tampa Bay. Some started consulting firms from their Westchase home offices, others opened brick-and-mortar shops in Hyde Park, and a few even launched tech startups in the Westshore business district. The common thread? They all navigated Florida's business requirements methodically, avoiding costly mistakes that can derail new ventures.
+I've watched hundreds of relocating families launch successful businesses here over my decade-plus in Tampa Bay. Some started consulting firms from their Westchase home offices, others opened brick-and-mortar shops in Hyde Park, and a few even launched tech startups in the Westshore business district. The common thread? They all navigated Florida's business requirements methodically, avoiding costly mistakes that can derail new ventures.
 
 Here's your complete roadmap to starting a business in the Sunshine State, from someone who's seen what works (and what definitely doesn't).
 
@@ -56,7 +56,7 @@ Only consider this if you're going into business with others and want to keep th
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -215,7 +215,7 @@ Cultivate relationships with business bankers, not just account representatives.
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

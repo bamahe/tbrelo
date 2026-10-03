@@ -1,7 +1,7 @@
 ---
 title: "Lightning Capital of the US — Why Tampa Bay Gets So Many Storms"
 metaTitle: "Lightning Capital of the US — Why Tampa Bay Gets So Many Storms | TB Relo"
-metaDescription: "Lightning Capital of the US. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Lightning Capital of the US. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Weather / Climate"
 subcategory: "Climate Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Tampa Bay lightning storms"
 publishedAt: "2026-02-26T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2026-02-26T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/tampa-bay-lightning-capital-storms.webp"
 ---
 
-If you're researching a move to Tampa Bay, you've probably stumbled across our infamous nickname: Lightning Capital of the United States. It's not marketing hype — we genuinely get more lightning strikes per square mile than anywhere else in the country. After 23+ years of helping families relocate here, I've fielded countless questions about our summer thunderstorms.
+If you're researching a move to Tampa Bay, you've probably stumbled across our infamous nickname: Lightning Capital of the United States. It's not marketing hype — we genuinely get more lightning strikes per square mile than anywhere else in the country. After over a decade of helping families relocate here, I've fielded countless questions about our summer thunderstorms.
 
 Let me give you the straight story on Tampa Bay's lightning and storm patterns, what it actually means for daily life, and how locals handle it.
 
@@ -193,7 +193,7 @@ Most transplants find Tampa Bay's storm pattern preferable to the unpredictable 
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

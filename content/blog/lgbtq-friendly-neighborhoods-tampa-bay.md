@@ -1,7 +1,7 @@
 ---
 title: "Best Tampa Bay Neighborhoods for LGBTQ+ Residents"
 metaTitle: "Best Tampa Bay Neighborhoods for LGBTQ+ Residents | TB Relo"
-metaDescription: "Best Tampa Bay Neighborhoods for LGBTQ+ Residents. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Best Tampa Bay Neighborhoods for LGBTQ+ Residents. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Demographic / Niche"
 subcategory: "Audience Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "LGBTQ friendly Tampa Bay neighborhoods"
 publishedAt: "2025-12-14T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-12-14T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: /images/blog/default.webp
 ---
 
-After 23 years of helping folks find their perfect spot in Tampa Bay, I've seen how important it is to land in a neighborhood where you can just be yourself. The good news? This region has evolved dramatically, and we've got some genuinely welcoming communities where LGBTQ+ residents thrive.
+After over a decade of helping folks find their perfect spot in Tampa Bay, I've seen how important it is to land in a neighborhood where you can just be yourself. The good news? This region has evolved dramatically, and we've got some genuinely welcoming communities where LGBTQ+ residents thrive.
 
 Let me break down the neighborhoods where I consistently see my LGBTQ+ clients putting down roots — places with inclusive businesses, supportive neighbors, and that indefinable vibe that makes you feel at home.
 
@@ -160,7 +160,7 @@ The key is spending real time in potential neighborhoods — not just driving th
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

@@ -1,7 +1,7 @@
 ---
 title: "What Is a Sinkhole Inspection in Florida?"
 metaTitle: "What Is a Sinkhole Inspection in Florida? | TB Relo"
-metaDescription: "What Is a Sinkhole Inspection in Florida?. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "What Is a Sinkhole Inspection in Florida?. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Real Estate"
 subcategory: "Buying Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "sinkhole inspection Florida cost"
 publishedAt: "2025-01-05T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-01-05T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/sinkhole-inspection-florida.webp"
 ---
 
-Florida's limestone foundation makes it the sinkhole capital of America. In my 23+ years selling homes across Tampa Bay, I've seen buyers panic over sinkhole concerns — and I've also seen sellers get blindsided by inspection findings. Here's what you actually need to know about sinkhole inspections in Florida, from costs to testing methods to when you absolutely need one.
+Florida's limestone foundation makes it the sinkhole capital of America. In my decade-plus selling homes across Tampa Bay, I've seen buyers panic over sinkhole concerns — and I've also seen sellers get blindsided by inspection findings. Here's what you actually need to know about sinkhole inspections in Florida, from costs to testing methods to when you absolutely need one.
 
 
 ## The Reality of Sinkholes in Florida
@@ -311,7 +311,7 @@ Annual sinkhole coverage typically adds $100-$300 to your insurance premium. A m
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

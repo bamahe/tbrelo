@@ -14,7 +14,7 @@ Tampa Bay has been one of the strongest real estate investment markets in the co
 
 ### Is Tampa Bay a good market for real estate investing right now?
 
-Tampa Bay continues to benefit from strong population growth, job creation, and limited housing supply relative to demand. Rental demand is consistently high. Like any market, returns depend on buying right, and that means understanding neighborhoods, price points, and rental comps before making a move. With 23+ years of real estate experience, I can say the fundamentals here remain solid.
+Tampa Bay continues to benefit from strong population growth, job creation, and limited housing supply relative to demand. Rental demand is consistently high. Like any market, returns depend on buying right, and that means understanding neighborhoods, price points, and rental comps before making a move. With 24+ years of real estate experience, I can say the fundamentals here remain solid.
 
 ### What is the average ROI on rental properties in Tampa Bay?
 

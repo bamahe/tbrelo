@@ -1,7 +1,7 @@
 ---
 title: "Your First Florida Thunderstorm — What Nobody Warned You About"
 metaTitle: "Your First Florida Thunderstorm — What Nobody Warned You About | TB Relo"
-metaDescription: "Your First Florida Thunderstorm. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Your First Florida Thunderstorm. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Florida Life"
 subcategory: "Survival Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Florida thunderstorm tips"
 publishedAt: "2024-09-15T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-09-15T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/first-florida-thunderstorm.webp"
 ---
 
-Welcome to the lightning capital of North America, where Mother Nature puts on a daily fireworks show that makes Disney's look like birthday candles. After 23 years in Tampa Bay, I've watched countless newcomers experience their first Florida thunderstorm with a mix of awe and terror that's both hilarious and heartbreaking.
+Welcome to the lightning capital of North America, where Mother Nature puts on a daily fireworks show that makes Disney's look like birthday candles. After over a decade in Tampa Bay, I've watched countless newcomers experience their first Florida thunderstorm with a mix of awe and terror that's both hilarious and heartbreaking.
 
 Here's what nobody tells you in the relocation brochures: Florida doesn't just have thunderstorms. It has biblical events that would make Noah nervous.
 
@@ -64,7 +64,7 @@ Here's what nobody mentions: Florida flooding isn't just about low-lying areas. 
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -132,7 +132,7 @@ Most importantly, you'll understand that Florida thunderstorms aren't something 
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

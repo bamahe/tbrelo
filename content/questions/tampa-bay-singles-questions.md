@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay for Singles — 30 Questions Answered"
 metaTitle: "Tampa Bay for Singles FAQ — Questions Answered by a Local REALTOR® | TB Relo"
-metaDescription: "30 answers about living single in Tampa Bay covering dating, nightlife, social scenes, best neighborhoods, networking, and fitness from a REALTOR® with 23+ years of experience."
+metaDescription: "30 answers about living single in Tampa Bay covering dating, nightlife, social scenes, best neighborhoods, networking, and fitness from a REALTOR® with 24+ years of real estate experience."
 type: question
 category: "Lifestyle & Recreation"
 publishedAt: "2026-04-13"

@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay vs Jacksonville — Which Is Better for Relocators?"
 metaTitle: "Tampa Bay vs Jacksonville — Which Is Better for Relocators? | TB Relo"
-metaDescription: "Tampa Bay vs Jacksonville. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa Bay vs Jacksonville. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "City Comparisons"
 subcategory: "Interstate"
@@ -9,7 +9,7 @@ primaryKeyword: "Tampa Bay vs Jacksonville FL"
 publishedAt: "2024-05-30T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-05-30T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/tampa-bay-vs-jacksonville.webp"
 ---
 
-I get this question at least twice a week: "Barrett, I'm torn between Tampa Bay and Jacksonville. What's the real story?" After 23+ years helping families relocate throughout Florida, I've seen this decision play out hundreds of times. Let me cut through the tourism board fluff and give you the straight talk.
+I get this question at least twice a week: "Barrett, I'm torn between Tampa Bay and Jacksonville. What's the real story?" After over a decade helping families relocate throughout Florida, I've seen this decision play out hundreds of times. Let me cut through the tourism board fluff and give you the straight talk.
 
 Both cities are growing like crazy — Jacksonville added 24,000+ people in 2023 alone, while Tampa Bay welcomed about 45,000 new residents. But the similarities end there. These metros couldn't be more different in personality, opportunities, and lifestyle.
 
@@ -70,7 +70,7 @@ Jacksonville salary ranges:
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -315,7 +315,7 @@ Tampa's downtown is more compact and walkable with better nightlife and dining o
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

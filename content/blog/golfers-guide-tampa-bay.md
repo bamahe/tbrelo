@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay for Golfers — Courses, Communities, and Climate"
 metaTitle: "Tampa Bay for Golfers — Courses, Communities, and Climate | TB Relo"
-metaDescription: "Tampa Bay for Golfers. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa Bay for Golfers. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Demographic / Niche"
 subcategory: "Audience Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "golf Tampa Bay courses"
 publishedAt: "2026-01-15T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2026-01-15T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/golfers-guide-tampa-bay.webp"
 ---
 
-Tampa Bay delivers exactly what serious golfers dream about: year-round play, championship courses designed by legends, and communities built around the game. After helping hundreds of golf-obsessed families relocate here over 23 years, I can tell you this region punches way above its weight class for course quality and accessibility.
+Tampa Bay delivers exactly what serious golfers dream about: year-round play, championship courses designed by legends, and communities built around the game. After helping hundreds of golf-obsessed families relocate here over a decade, I can tell you this region punches way above its weight class for course quality and accessibility.
 
 The weather alone justifies the move. While your buddies up north are hibernating their clubs from December through March, you're working on your short game in 75-degree sunshine. But Tampa Bay's golf appeal runs deeper than climate — we're talking about courses that host PGA Tour events, daily-fee gems that won't destroy your budget, and neighborhoods where your backyard literally opens onto the fairway.
 
@@ -110,7 +110,7 @@ Tampa Bay's subtropical climate means golf 365 days a year, but timing matters f
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

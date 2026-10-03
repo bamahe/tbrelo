@@ -80,4 +80,4 @@ It's moderate. More affordable than Miami, Fort Lauderdale, or any major northea
 
 ---
 
-*Thinking about relocating to Hillsborough County? Barrett Henry has been helping families move to Tampa Bay for over 23 years. {{nowtb}}*
+*Thinking about relocating to Hillsborough County? Barrett Henry has been helping families move to Tampa Bay for over a decade. {{nowtb}}*

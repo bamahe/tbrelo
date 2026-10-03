@@ -1,7 +1,7 @@
 ---
 title: "Moving from Richmond VA to Tampa Bay — The Complete Relocation Guide"
 metaTitle: "Moving from Richmond VA to Tampa Bay — The Complete Relocation Guide | TB Relo"
-metaDescription: "Moving from Richmond VA to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Moving from Richmond VA to Tampa Bay. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Moving From"
 subcategory: "Richmond VA"
@@ -9,7 +9,7 @@ primaryKeyword: "moving from Richmond to Tampa Bay"
 publishedAt: "2024-07-18T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-07-18T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/moving-from-richmond-va.webp"
 ---
 
-Making the jump from Richmond to Tampa Bay? You're not alone. I've helped dozens of Virginia families make this exact move over the past 23 years, and there's a reason this migration pattern keeps growing. Tampa Bay offers something Richmond can't: year-round warmth, no state income tax, and a cost of living that'll make you wonder why you waited so long.
+Making the jump from Richmond to Tampa Bay? You're not alone. I've helped dozens of Virginia families make this exact move over the past 24 years, and there's a reason this migration pattern keeps growing. Tampa Bay offers something Richmond can't: year-round warmth, no state income tax, and a cost of living that'll make you wonder why you waited so long.
 
 But let's be real — this isn't just about swapping snow boots for flip-flops. Moving 850 miles south means navigating new neighborhoods, understanding different market dynamics, and figuring out where you actually want to land in a metro area that stretches from Hernando County down to Sarasota.
 
@@ -91,7 +91,7 @@ The Bayshore Boulevard linear park system provides that same green space appeal 
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -186,7 +186,7 @@ Spring Hill and Brooksville provide small-town living with access to Tampa Bay's
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

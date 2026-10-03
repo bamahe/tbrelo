@@ -1,7 +1,7 @@
 ---
 title: "Living in Ybor City — What It's Really Like (Honest Relocation Guide)"
 metaTitle: "Living in Ybor City — What It's Really Like (Honest Relocation Guide) | TB Relo"
-metaDescription: "Living in Ybor City. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Living in Ybor City. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Neighborhoods"
 subcategory: "Deep Dive"
@@ -9,7 +9,7 @@ primaryKeyword: "living in Ybor City FL"
 publishedAt: "2025-01-13T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-01-13T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/living-in-ybor-city-guide.webp"
 
 Let me tell you something about Ybor City that most people get wrong: it's not just Tampa's party district. Sure, that's what visitors see on weekend nights, but there's a whole other side to "Cigar City" that locals know and love.
 
-After 23+ years of helping people relocate to Tampa Bay, I've watched Ybor transform from a somewhat sketchy historic area into one of the most dynamic neighborhoods in the region. The cobblestone streets still echo with over a century of cigar-making history, but now they're lined with everything from craft breweries to tech startups.
+After over a decade of helping people relocate to Tampa Bay, I've watched Ybor transform from a somewhat sketchy historic area into one of the most dynamic neighborhoods in the region. The cobblestone streets still echo with over a century of cigar-making history, but now they're lined with everything from craft breweries to tech startups.
 
 Here's the reality: living in Ybor means embracing controlled chaos. You'll have authentic Cuban cafés next to trendy gastropubs, century-old casitas beside modern lofts, and yes — weekend nights that can get pretty wild. But you'll also have walkability that's rare in Tampa, a genuine sense of community, and housing prices that still make sense compared to downtown or Hyde Park.
 
@@ -68,7 +68,7 @@ Insurance runs higher than suburban Tampa due to the urban environment and older
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -300,7 +300,7 @@ Walk the actual streets you'd live on, not just the main tourist areas. Talk to 
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

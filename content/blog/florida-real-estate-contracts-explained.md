@@ -1,7 +1,7 @@
 ---
 title: "Understanding Florida Real Estate Contracts — AS-IS vs Standard"
 metaTitle: "Understanding Florida Real Estate Contracts — AS-IS vs Standard | TB Relo"
-metaDescription: "Understanding Florida Real Estate Contracts. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Understanding Florida Real Estate Contracts. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Real Estate"
 subcategory: "Buying Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Florida AS-IS contract explained"
 publishedAt: "2025-01-03T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-01-03T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/florida-real-estate-contracts-explained.webp"
 ---
 
-When I get calls from buyers moving to Tampa Bay, one of the first surprises they encounter is Florida's contract system. Unlike many states where everything defaults to "standard," Florida gives you two main contract choices right upfront: AS-IS or Standard. After 23 years of walking clients through these decisions, I've learned that understanding the difference isn't just important — it's often the difference between getting your dream home or watching it slip away.
+When I get calls from buyers moving to Tampa Bay, one of the first surprises they encounter is Florida's contract system. Unlike many states where everything defaults to "standard," Florida gives you two main contract choices right upfront: AS-IS or Standard. After 24 years of walking clients through these decisions, I've learned that understanding the difference isn't just important — it's often the difference between getting your dream home or watching it slip away.
 
 The Florida Association of Realtors and Florida Bar Association (FAR-BAR) created these standardized contracts to streamline real estate transactions across the state. But "streamlined" doesn't mean simple, and the choice between AS-IS and Standard can dramatically impact your buying experience, inspection rights, and negotiating power.
 
@@ -240,7 +240,7 @@ The wrong contract choice can cost thousands or mean losing your target home ent
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -326,7 +326,7 @@ These factors might eventually favor Standard contracts by making repair negotia
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

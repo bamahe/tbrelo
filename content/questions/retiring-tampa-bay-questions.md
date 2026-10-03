@@ -1,7 +1,7 @@
 ---
 title: "Retiring to Tampa Bay — 30 Questions Answered"
 metaTitle: "Retiring to Tampa Bay FAQ — Questions Answered by a Local REALTOR® | TB Relo"
-metaDescription: "30 answers about retiring to Tampa Bay covering 55+ communities, healthcare, taxes, cost of living, and best areas for retirees from a REALTOR® with 23+ years of experience."
+metaDescription: "30 answers about retiring to Tampa Bay covering 55+ communities, healthcare, taxes, cost of living, and best areas for retirees from a REALTOR® with 24+ years of real estate experience."
 type: question
 category: "Retirement"
 publishedAt: "2026-04-13"

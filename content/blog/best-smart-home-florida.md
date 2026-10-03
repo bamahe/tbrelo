@@ -1,7 +1,7 @@
 ---
 title: "Best Smart Home Devices for Florida Living"
 metaTitle: "Best Smart Home Devices for Florida Living | TB Relo"
-metaDescription: "Best Smart Home Devices for Florida Living. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Best Smart Home Devices for Florida Living. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Affiliate / Products"
 subcategory: "Product Roundup"
@@ -9,7 +9,7 @@ primaryKeyword: "smart home Florida"
 publishedAt: "2025-09-25T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-09-25T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/best-smart-home-florida.webp"
 ---
 
-Living in Florida means dealing with scorching summers, afternoon thunderstorms, and occasional hurricanes — plus the unique challenges of high humidity, salt air, and year-round growing seasons. After 23+ years of helping Tampa Bay families find homes, I've seen how the right smart home technology can make Florida living dramatically more comfortable and cost-effective.
+Living in Florida means dealing with scorching summers, afternoon thunderstorms, and occasional hurricanes — plus the unique challenges of high humidity, salt air, and year-round growing seasons. After over a decade of helping Tampa Bay families find homes, I've seen how the right smart home technology can make Florida living dramatically more comfortable and cost-effective.
 
 This isn't about the latest gadgets or flashy tech demos. These are the smart home devices that actually work in our climate, solve real Florida problems, and pay for themselves through energy savings or peace of mind.
 
@@ -197,7 +197,7 @@ Choose systems with cellular backup and local storage. Cloud-only systems fail w
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

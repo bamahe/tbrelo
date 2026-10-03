@@ -1,7 +1,7 @@
 ---
 title: "Living in Downtown St. Petersburg — What It's Really Like (Honest Relocation Guide)"
 metaTitle: "Living in Downtown St. Petersburg — What It's Really Like (Honest Relocation Guide) | TB Relo"
-metaDescription: "Living in Downtown St. Petersburg. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Living in Downtown St. Petersburg. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Neighborhoods"
 subcategory: "Deep Dive"
@@ -9,7 +9,7 @@ primaryKeyword: "living in Downtown St. Petersburg FL"
 publishedAt: "2025-02-16T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-02-16T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/living-in-downtown-st-petersburg-guide.webp"
 ---
 
-After 23 years selling real estate in Tampa Bay, I've watched Downtown St. Petersburg transform from a sleepy retirement community into one of Florida's most vibrant urban cores. The change has been dramatic — and not everyone's prepared for what they're actually getting into when they move here.
+After over a decade selling real estate in Tampa Bay, I've watched Downtown St. Petersburg transform from a sleepy retirement community into one of Florida's most vibrant urban cores. The change has been dramatic — and not everyone's prepared for what they're actually getting into when they move here.
 
 Let me give you the real story about living in Downtown St. Pete, from someone who's helped hundreds of families navigate this market and actually knows where to get the best Cuban sandwich at 2 AM (hint: it's not where the tourists go).
 
@@ -199,7 +199,7 @@ Major projects continue reshaping downtown. The **Rays** stadium situation remai
 
 ---
 
-**Moving to Downtown St. Pete?** Barrett Henry has been helping families navigate Tampa Bay real estate for over 23 years. Get the straight story on what downtown living really costs.
+**Moving to Downtown St. Pete?** Barrett Henry has been helping families navigate Tampa Bay real estate for over a decade. Get the straight story on what downtown living really costs.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

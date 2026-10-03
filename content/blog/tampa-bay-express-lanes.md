@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Express Lanes Explained — Are They Worth It?"
 metaTitle: "Tampa Bay Express Lanes Explained — Are They Worth It? | TB Relo"
-metaDescription: "Tampa Bay Express Lanes Explained. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa Bay Express Lanes Explained. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Transportation"
 subcategory: "Commute Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Tampa Bay express lanes cost"
 publishedAt: "2026-01-30T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2026-01-30T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/tampa-bay-express-lanes.webp"
 ---
 
-You're sitting in Tampa Bay traffic, watching cars zip by in those mysterious express lanes, wondering if that monthly toll pass is worth it. After 23 years of helping families navigate Tampa Bay, I've had this conversation hundreds of times. Let me break down everything you need to know about express lanes here — the real costs, the actual time savings, and whether they make sense for your specific commute.
+You're sitting in Tampa Bay traffic, watching cars zip by in those mysterious express lanes, wondering if that monthly toll pass is worth it. After over a decade of helping families navigate Tampa Bay, I've had this conversation hundreds of times. Let me break down everything you need to know about express lanes here — the real costs, the actual time savings, and whether they make sense for your specific commute.
 
 
 ## What Are Tampa Bay Express Lanes?
@@ -175,7 +175,7 @@ Let's get specific about what express lanes actually cost Tampa Bay families:
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

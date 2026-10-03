@@ -1,7 +1,7 @@
 ---
 title: "Living in Nokomis / Osprey — What It's Really Like (Honest Relocation Guide)"
 metaTitle: "Living in Nokomis / Osprey — What It's Really Like (Honest Relocation Guide) | TB Relo"
-metaDescription: "Living in Nokomis / Osprey. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Living in Nokomis / Osprey. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Neighborhoods"
 subcategory: "Deep Dive"
@@ -9,7 +9,7 @@ primaryKeyword: "living in Nokomis / Osprey FL"
 publishedAt: "2025-04-06T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-04-06T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: /images/blog/default.webp
 ---
 
-After 23 years selling homes throughout Tampa Bay, I've seen plenty of communities promise the "authentic Old Florida" experience. Most deliver strip malls and traffic lights. Nokomis and Osprey? They actually deliver.
+After over a decade selling homes throughout Tampa Bay, I've seen plenty of communities promise the "authentic Old Florida" experience. Most deliver strip malls and traffic lights. Nokomis and Osprey? They actually deliver.
 
 These twin coastal communities in [Sarasota County](/counties/sarasota/) represent what Florida looked like before Disney World changed everything. We're talking canopy roads lined with live oaks, fishing villages that still fish, and beaches where you can actually find parking. The catch? You'll pay for the privilege, and you better love small-town living.
 
@@ -362,7 +362,7 @@ After helping dozens of families relocate to this area, I can predict what you'l
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

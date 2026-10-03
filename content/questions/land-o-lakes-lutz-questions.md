@@ -1,7 +1,7 @@
 ---
 title: "Land O' Lakes, Lutz, Odessa & Trinity — 30 Questions Answered"
 metaTitle: "Land O' Lakes & Lutz FAQ — Questions Answered by a Local REALTOR® | TB Relo"
-metaDescription: "Get answers to 30 common questions about living in Land O' Lakes, Lutz, Odessa, and Trinity from a REALTOR® with 23+ years of real estate experience."
+metaDescription: "Get answers to 30 common questions about living in Land O' Lakes, Lutz, Odessa, and Trinity from a REALTOR® with 24+ years of real estate experience."
 type: question
 category: "Neighborhoods"
 publishedAt: "2026-04-13"
@@ -130,4 +130,4 @@ Land O' Lakes, Lutz, and Trinity have seen strong appreciation over the past dec
 
 ### Why should I work with Barrett Henry when buying in Land O' Lakes, Lutz, or Trinity?
 
-I bring 23+ years of real estate experience and I'll help you navigate the county-line quirks, CDD fees, school zones, and traffic patterns that make or break your daily life in this corridor. No sugarcoating — I'll tell you which communities deliver and which ones to skip. Let's find the right fit.
+I bring 24+ years of real estate experience and I'll help you navigate the county-line quirks, CDD fees, school zones, and traffic patterns that make or break your daily life in this corridor. No sugarcoating — I'll tell you which communities deliver and which ones to skip. Let's find the right fit.

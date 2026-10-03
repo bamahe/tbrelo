@@ -1,7 +1,7 @@
 ---
 title: "Florida Springs 101 — Every Spring Worth Visiting from Tampa Bay"
 metaTitle: "Florida Springs 101 — Every Spring Worth Visiting from Tampa Bay | TB Relo"
-metaDescription: "Florida Springs 101. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Florida Springs 101. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Florida Life"
 subcategory: "Survival Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Florida springs near Tampa Bay"
 publishedAt: "2024-09-14T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-09-14T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/florida-springs-guide-tampa-bay.webp"
 
 Living in Tampa Bay means you're sitting pretty in the middle of Florida's spring country. While everyone else is posting beach photos, you've got access to something way cooler — literally. Crystal-clear water that stays 72°F year-round, swimming holes that look like they belong in a nature documentary, and day trips that'll make your Instagram followers seriously jealous.
 
-After 23 years of showing clients around this area, I've visited every major spring within driving distance of Tampa Bay. Some are tourist traps. Others are hidden gems. Here's the real deal on which ones deserve your time and gas money.
+After 24 years of showing clients around this area, I've visited every major spring within driving distance of Tampa Bay. Some are tourist traps. Others are hidden gems. Here's the real deal on which ones deserve your time and gas money.
 
 
 ## Why Florida Springs Are Actually Amazing
@@ -240,7 +240,7 @@ Let's talk money. A family of four can expect to spend:
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -248,7 +248,7 @@ Let's talk money. A family of four can expect to spend:
 
 ## The Real Deal on Crowds and Timing
 
-Here's what 23 years of living here has taught me about spring crowds:
+Here's what over a decade of living here has taught me about spring crowds:
 
 **Absolutely mobbed:** Any weekend from March through October when the temperature hits 85°F+. Spring break at any spring within 2 hours of a major university. Memorial Day through Labor Day — especially Saturdays.
 
@@ -279,7 +279,7 @@ The smart play? Pick 2-3 springs based on your family's interests and visit them
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

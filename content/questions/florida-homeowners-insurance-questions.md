@@ -1,7 +1,7 @@
 ---
 title: "Florida Homeowners Insurance — 30 Questions Answered"
 metaTitle: "Florida Homeowners Insurance FAQ — Questions Answered by a Local REALTOR® | TB Relo"
-metaDescription: "Florida homeowners insurance questions answered by a REALTOR® with 23+ years of real estate experience. Costs, wind mitigation, flood zones, and tips."
+metaDescription: "Florida homeowners insurance questions answered by a REALTOR® with 24+ years of real estate experience. Costs, wind mitigation, flood zones, and tips."
 type: question
 category: "Insurance"
 publishedAt: "2026-04-13"

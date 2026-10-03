@@ -252,4 +252,4 @@ Tampa Bay has a strong freelance and gig economy. The no-income-tax advantage is
 
 Ready to find a home near your workplace? {{nowtb}} — Barrett Henry knows every commute corridor and every neighborhood in Tampa Bay. The right home in the right location relative to your job can save you 30–60 minutes a day — that's 125–250 hours a year of your life back.
 
-*Thinking about relocating to Tampa Bay? Barrett Henry has been helping families move to Tampa Bay for over 23 years. {{nowtb}}*
+*Thinking about relocating to Tampa Bay? Barrett Henry has been helping families move to Tampa Bay for over a decade. {{nowtb}}*

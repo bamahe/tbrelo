@@ -1,7 +1,7 @@
 ---
 title: "How to Smoke Meat in Florida Without Melting"
 metaTitle: "How to Smoke Meat in Florida Without Melting | TB Relo"
-metaDescription: "How to Smoke Meat in Florida Without Melting. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "How to Smoke Meat in Florida Without Melting. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Florida Life"
 subcategory: "Survival Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "smoking meat Florida summer"
 publishedAt: "2024-10-26T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-10-26T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/florida-smoking-meat-guide.webp"
 ---
 
-After 23 years of showing houses under the Florida sun, I've learned two essential survival skills: finding shade and smoking brisket without passing out from heat exhaustion. Trust me, nothing says "welcome to Tampa Bay" like a perfectly smoked pork shoulder — even when it's 95°F with 80% humidity at 7 AM.
+After over a decade of showing houses under the Florida sun, I've learned two essential survival skills: finding shade and smoking brisket without passing out from heat exhaustion. Trust me, nothing says "welcome to Tampa Bay" like a perfectly smoked pork shoulder — even when it's 95°F with 80% humidity at 7 AM.
 
 Your neighbors up north can smoke year-round in their comfortable 65-degree weather. Down here? We're playing barbecue on hard mode. But here's the thing: some of the best pitmasters in America call Florida home, and they've figured out how to turn our brutal climate into an advantage.
 
@@ -245,7 +245,7 @@ Start small — invite neighbors over for simple smoked chicken. Work up to host
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. From finding homes with proper outdoor cooking spaces to connecting you with local barbecue communities, I know what makes each neighborhood special.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. From finding homes with proper outdoor cooking spaces to connecting you with local barbecue communities, I know what makes each neighborhood special.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

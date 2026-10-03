@@ -1,7 +1,7 @@
 ---
 title: "Moving from St Louis to Tampa Bay — The Complete Relocation Guide"
 metaTitle: "Moving from St Louis to Tampa Bay — The Complete Relocation Guide | TB Relo"
-metaDescription: "Moving from St Louis to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Moving from St Louis to Tampa Bay. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Moving From"
 subcategory: "St Louis"
@@ -9,7 +9,7 @@ primaryKeyword: "moving from St Louis to Tampa Bay"
 publishedAt: "2024-08-07T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-08-07T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/moving-from-st-louis.webp"
 
 Making the jump from Missouri to Florida's Gulf Coast? You're joining thousands of former St Louis residents who've discovered what we've known for years — Tampa Bay delivers everything you love about the Midwest (friendly people, reasonable cost of living, actual neighborhoods) without the brutal winters.
 
-I've helped dozens of families make this exact move over my 23+ years as a Tampa Bay REALTOR. The transition is smoother than most people expect, but there are definitely things you need to know before you pack up that U-Haul.
+I've helped dozens of families make this exact move over my decade-plus as a Tampa Bay REALTOR. The transition is smoother than most people expect, but there are definitely things you need to know before you pack up that U-Haul.
 
 
 ## Why St Louis Families Choose Tampa Bay
@@ -71,7 +71,7 @@ Yes, homes cost more upfront. But dig deeper:
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -237,7 +237,7 @@ Tampa Bay's real estate market moves faster than St Louis, but it's not the feed
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -402,7 +402,7 @@ The truth is, Tampa Bay offers the best of both worlds for most St Louis transpl
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

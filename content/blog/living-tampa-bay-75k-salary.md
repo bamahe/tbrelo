@@ -1,7 +1,7 @@
 ---
 title: "Living in Tampa Bay on a $75K Salary"
 metaTitle: "Living in Tampa Bay on a $75K Salary | TB Relo"
-metaDescription: "Living in Tampa Bay on a $75K Salary. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Living in Tampa Bay on a $75K Salary. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Demographic / Niche"
 subcategory: "Audience Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "cost of living Tampa Bay 75K salary"
 publishedAt: "2025-12-29T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-12-29T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/living-tampa-bay-75k-salary.webp"
 ---
 
-Making $75,000 a year puts you right in Tampa Bay's sweet spot — not quite entry-level anymore, but not luxury living either. After helping hundreds of relocating families navigate our market over 23 years, I can tell you this income opens up solid neighborhoods while requiring some strategic choices.
+Making $75,000 a year puts you right in Tampa Bay's sweet spot — not quite entry-level anymore, but not luxury living either. After helping hundreds of relocating families navigate our market over 24 years, I can tell you this income opens up solid neighborhoods while requiring some strategic choices.
 
 Let me break down exactly what $75K looks like here, where you can afford to live, and how to make your money stretch without living like a hermit.
 
@@ -250,7 +250,7 @@ If you're renting now, you could realistically buy within 2-3 years by:
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

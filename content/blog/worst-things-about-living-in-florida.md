@@ -1,7 +1,7 @@
 ---
-title: "The Worst Things About Living in Florida (From Someone Who's Been Here 23+ Years)"
+title: "The Worst Things About Living in Florida (From Someone Who Lives Here)"
 metaTitle: "Worst Things About Living in Florida — Honest Take | TB Relo"
-metaDescription: "The real downsides of living in Florida: bugs, heat, insurance, drivers, and more from a 23-year resident who's still here anyway."
+metaDescription: "The real downsides of living in Florida: bugs, heat, insurance, drivers, and more from a longtime resident who's still here anyway."
 type: blog
 publishedAt: "2026-03-15"
 updatedAt: "2026-03-15"
@@ -9,7 +9,7 @@ updatedAt: "2026-03-15"
 
 ## The Worst Things About Living in Florida — From Someone Who's Still Here
 
-I've lived in Tampa Bay for over 23 years. I sell real estate here. I raise my family here. I genuinely love this place. But if I'm going to help you make the biggest decision of your life — where to live — I owe you the unfiltered truth. Florida is not paradise every day. Some days it's a sweaty, buggy, insurance-nightmare hellscape with the worst drivers on the continent.
+I've lived in Tampa Bay for over a decade. I sell real estate here. I raise my family here. I genuinely love this place. But if I'm going to help you make the biggest decision of your life — where to live — I owe you the unfiltered truth. Florida is not paradise every day. Some days it's a sweaty, buggy, insurance-nightmare hellscape with the worst drivers on the continent.
 
 Here's everything that will make you question your life choices after you move here. Read it all, then read my [best things about Florida](/blog/best-things-about-living-in-florida) post, and make an informed decision.
 
@@ -101,4 +101,4 @@ The people who are happiest in Florida are the ones who moved here with open eye
 
 {{nowtb}} helps families make this decision every day. I'll tell you the truth about any neighborhood, any community, and any part of Tampa Bay — the good and the bad.
 
-*Thinking about making the move despite all of this? Barrett Henry has been living it and selling it for over 23 years. {{nowtb}}*
+*Thinking about making the move despite all of this? Barrett Henry has been living it and selling it for over 24 years. {{nowtb}}*

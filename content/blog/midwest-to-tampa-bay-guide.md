@@ -1,7 +1,7 @@
 ---
 title: "Moving to Tampa Bay from the Midwest — What to Expect"
 metaTitle: "Moving to Tampa Bay from the Midwest — What to Expect | TB Relo"
-metaDescription: "Moving to Tampa Bay from the Midwest. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Moving to Tampa Bay from the Midwest. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Demographic / Niche"
 subcategory: "Audience Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Midwest to Florida move"
 publishedAt: "2026-01-07T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2026-01-07T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/midwest-to-tampa-bay-guide.webp"
 
 You've endured your last polar vortex. That February morning when your car wouldn't start and the high was -12°F was the breaking point. Now you're seriously considering Tampa Bay, and honestly? Smart move. But let's talk reality — not the sunshine-and-beaches fantasy that real estate postcards sell you.
 
-After 23+ years helping Midwesterners make this transition, I've seen the patterns. The joys, the surprises, and yes, the occasional "what did I get myself into?" moments. Here's what actually happens when you trade corn fields for palm trees.
+After 24+ years helping Midwesterners make this transition, I've seen the patterns. The joys, the surprises, and yes, the occasional "what did I get myself into?" moments. Here's what actually happens when you trade corn fields for palm trees.
 
 
 ## The Geography Shock (Or Lack Thereof)
@@ -134,7 +134,7 @@ The good news? Property taxes are relatively low, and there's no state income ta
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -307,7 +307,7 @@ Salaries typically run 5-10% lower than major Midwest cities, but the no-state-i
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

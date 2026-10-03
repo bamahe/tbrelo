@@ -1,7 +1,7 @@
 ---
 title: "Florida Boating License Requirements — How to Get Started"
 metaTitle: "Florida Boating License Requirements — How to Get Started | TB Relo"
-metaDescription: "Florida Boating License Requirements. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Florida Boating License Requirements. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Practical / Legal"
 subcategory: "Admin Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Florida boating license"
 publishedAt: "2025-06-11T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-06-11T08:00:00-04:00"
@@ -27,7 +27,7 @@ featuredImage: "/images/blog/florida-boating-license-guide.webp"
 
 You're moving to Tampa Bay, where owning a boat isn't just a hobby — it's practically required for proper Florida living. Between the Gulf waters, Tampa Bay itself, and countless rivers and lakes, you'll want to get out on the water. But first, you need to understand Florida's boating license requirements, which aren't exactly straightforward.
 
-Here's what 23 years of helping families relocate has taught me: most people think getting a Florida boating license is like getting a driver's license. It's not. Florida uses a "Boating Safety Education ID Card" system that's more nuanced than you'd expect.
+Here's what 24 years of helping families relocate has taught me: most people think getting a Florida boating license is like getting a driver's license. It's not. Florida uses a "Boating Safety Education ID Card" system that's more nuanced than you'd expect.
 
 
 ## Who Actually Needs a Florida Boating License?
@@ -249,7 +249,7 @@ Consider additional courses:
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

@@ -1,7 +1,7 @@
 ---
 title: "Best Parks and Playgrounds in Tampa Bay for Families"
 metaTitle: "Best Parks and Playgrounds in Tampa Bay for Families | TB Relo"
-metaDescription: "Best Parks and Playgrounds in Tampa Bay for Families. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Best Parks and Playgrounds in Tampa Bay for Families. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Seasonal / Events"
 subcategory: "Event Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "best parks Tampa Bay families"
 publishedAt: "2025-05-04T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-05-04T08:00:00-04:00"
@@ -120,7 +120,7 @@ The trails here accommodate bikes, strollers, and wheelchairs, making it accessi
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -194,7 +194,7 @@ Many parks offer regular programming — story times, nature walks, seasonal fes
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

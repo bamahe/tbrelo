@@ -16,7 +16,7 @@ interface LeadFormProps {
 
 export default function LeadForm({
   headline = 'Moving to Tampa Bay? Let\u2019s Talk.',
-  subtext = 'Barrett Henry — Broker Associate, REMAX Collective. 23+ years of real estate experience. No pressure, just answers.',
+  subtext = 'Barrett Henry — Broker Associate, REMAX Collective. 24+ years of real estate experience. No pressure, just answers.',
   compact = false,
 }: LeadFormProps) {
   const [status, setStatus] = useState<'idle' | 'sending' | 'sent' | 'error'>('idle')

@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Healthcare — 30 Questions Answered"
 metaTitle: "Tampa Bay Healthcare FAQ — Questions Answered by a Local REALTOR® | TB Relo"
-metaDescription: "Tampa Bay healthcare questions answered by a REALTOR® with 23+ years of real estate experience. Hospitals, insurance, specialists, VA care, and costs."
+metaDescription: "Tampa Bay healthcare questions answered by a REALTOR® with 24+ years of real estate experience. Hospitals, insurance, specialists, VA care, and costs."
 type: question
 category: "Healthcare"
 publishedAt: "2026-04-13"

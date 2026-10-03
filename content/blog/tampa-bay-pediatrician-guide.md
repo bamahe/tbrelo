@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Pediatrician Guide for Families"
 metaTitle: "Tampa Bay Pediatrician Guide for Families | TB Relo"
-metaDescription: "Tampa Bay Pediatrician Guide for Families. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa Bay Pediatrician Guide for Families. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Healthcare"
 subcategory: "Wellness Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "pediatrician Tampa Bay"
 publishedAt: "2026-03-19T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2026-03-19T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/tampa-bay-pediatrician-guide.webp"
 ---
 
-Finding the right pediatrician for your family isn't just another item on your Tampa Bay moving checklist — it's choosing who will guide your child's health from those first sleepless nights through teenage growth spurts. After helping hundreds of families relocate here over 23 years, I've learned that parents want honest answers about healthcare, not corporate brochures.
+Finding the right pediatrician for your family isn't just another item on your Tampa Bay moving checklist — it's choosing who will guide your child's health from those first sleepless nights through teenage growth spurts. After helping hundreds of families relocate here over a decade, I've learned that parents want honest answers about healthcare, not corporate brochures.
 
 Tampa Bay's pediatric landscape is anchored by world-class children's hospitals, but navigating insurance networks, office cultures, and scheduling realities requires local insight. Here's what you actually need to know.
 
@@ -251,7 +251,7 @@ Give new pediatric relationships 3-6 months to develop. Initial appointments oft
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

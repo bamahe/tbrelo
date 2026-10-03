@@ -1,7 +1,7 @@
 ---
 title: "Back to School Tampa Bay — Everything Parents Need to Know"
 metaTitle: "Back to School Tampa Bay — Everything Parents Need to Know | TB Relo"
-metaDescription: "Back to School Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Back to School Tampa Bay. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Seasonal / Events"
 subcategory: "Event Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "back to school Tampa Bay"
 publishedAt: "2025-05-11T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-05-11T08:00:00-04:00"
@@ -236,7 +236,7 @@ Last year's backpack still functional? Use it. Leftover supplies from spring? Sa
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

@@ -6,7 +6,7 @@ import Breadcrumb from '@/components/Breadcrumb'
 
 export const metadata: Metadata = {
   title: 'Tampa Bay Relocation Questions — 1,500+ Answered by a Local REALTOR® | TB Relo',
-  description: 'Got questions about moving to Tampa Bay? Browse 1,500+ questions answered by Barrett Henry, a REALTOR® with 23+ years of real estate experience.',
+  description: 'Got questions about moving to Tampa Bay? Browse 1,500+ questions answered by Barrett Henry, a REALTOR® with 24+ years of real estate experience.',
 }
 
 export default function QuestionsIndex() {
@@ -44,7 +44,7 @@ export default function QuestionsIndex() {
 
         <h1 className="mb-4">Tampa Bay Relocation Questions</h1>
         <p className="text-brand-slate mb-10 max-w-2xl">
-          {totalQuestions.toLocaleString()}+ questions about moving to Tampa Bay, answered by Barrett Henry — a REALTOR® and Broker Associate with 23+ years of real estate experience. Browse by topic below.
+          {totalQuestions.toLocaleString()}+ questions about moving to Tampa Bay, answered by Barrett Henry — a REALTOR® and Broker Associate with 24+ years of real estate experience. Browse by topic below.
         </p>
 
         {/* Category grid */}

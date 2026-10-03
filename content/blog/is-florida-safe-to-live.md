@@ -1,7 +1,7 @@
 ---
 title: "Is Florida Safe to Live In? Crime, Storms, and the Real Story"
 metaTitle: "Is Florida Safe to Live In? Crime, Storms & Real Safety Data | TB Relo"
-metaDescription: "Honest breakdown of Florida safety: crime rates by Tampa Bay county, hurricane risk, flood zones, wildlife, and the safest cities. From a 23-year local."
+metaDescription: "Honest breakdown of Florida safety: crime rates by Tampa Bay county, hurricane risk, flood zones, wildlife, and the safest cities. From a longtime local."
 type: blog
 publishedAt: "2026-03-23"
 updatedAt: "2026-03-23"
@@ -9,7 +9,7 @@ updatedAt: "2026-03-23"
 
 ## Is Florida Safe to Live In?
 
-Yes — with caveats that apply to literally every state. Florida is safe to live in for the vast majority of residents, but it comes with a specific set of risks that are different from what you're used to up north. You're trading blizzards and ice storms for hurricanes. You're trading deer on the highway for the occasional alligator in a retention pond. The risks are real, but they're manageable when you understand them. After 23 years in Tampa Bay, I can tell you that the daily reality of living here is far less dramatic than the headlines suggest.
+Yes — with caveats that apply to literally every state. Florida is safe to live in for the vast majority of residents, but it comes with a specific set of risks that are different from what you're used to up north. You're trading blizzards and ice storms for hurricanes. You're trading deer on the highway for the occasional alligator in a retention pond. The risks are real, but they're manageable when you understand them. After over a decade in Tampa Bay, I can tell you that the daily reality of living here is far less dramatic than the headlines suggest.
 
 This guide breaks down every safety concern people raise about Florida — crime, hurricanes, floods, wildlife — with actual data and local context instead of cable news hysteria.
 

@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Transportation — 30 Questions Answered"
 metaTitle: "Tampa Bay Transportation FAQ — Questions Answered by a Local REALTOR® | TB Relo"
-metaDescription: "Answers to 30 questions about Tampa Bay transportation including traffic, commutes, toll roads, public transit, and parking. Local insight from a REALTOR® with 23+ years of real estate experience."
+metaDescription: "Answers to 30 questions about Tampa Bay transportation including traffic, commutes, toll roads, public transit, and parking. Local insight from a REALTOR® with 24+ years of real estate experience."
 type: question
 category: "Transportation"
 publishedAt: "2026-04-13"
@@ -130,4 +130,4 @@ Google Maps and Waze are both effective for real-time traffic routing. Waze tend
 
 ### Should transportation factor into my home buying decision?
 
-Absolutely, and it's one of the things I emphasize with every client. Where you live relative to your workplace, your kids' schools, and the places you go most often will determine your quality of life more than almost any other factor. A beautiful house with a 90-minute commute will make you miserable. I help clients map out their daily drives before they commit to a neighborhood. With 23+ years of real estate experience, I can tell you that commute time is the number one regret for buyers who don't plan for it.
+Absolutely, and it's one of the things I emphasize with every client. Where you live relative to your workplace, your kids' schools, and the places you go most often will determine your quality of life more than almost any other factor. A beautiful house with a 90-minute commute will make you miserable. I help clients map out their daily drives before they commit to a neighborhood. With 24+ years of real estate experience, I can tell you that commute time is the number one regret for buyers who don't plan for it.

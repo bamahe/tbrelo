@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay vs Phoenix — Which Is Better for Relocators?"
 metaTitle: "Tampa Bay vs Phoenix — Which Is Better for Relocators? | TB Relo"
-metaDescription: "Tampa Bay vs Phoenix. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa Bay vs Phoenix. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "City Comparisons"
 subcategory: "Interstate"
@@ -9,7 +9,7 @@ primaryKeyword: "Tampa Bay vs Phoenix AZ relocation"
 publishedAt: "2024-05-20T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-05-20T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/tampa-bay-vs-phoenix.webp"
 
 Two of America's fastest-growing metro areas. Two completely different lifestyles. Tampa Bay and Phoenix both attract thousands of relocators annually, but they couldn't be more different in climate, culture, and cost of living.
 
-After 23+ years helping families navigate Tampa Bay relocations, I've worked with plenty of folks comparing these two Sun Belt powerhouses. Here's the honest breakdown of what each offers — and what you'll sacrifice by choosing one over the other.
+After over a decade helping families navigate Tampa Bay relocations, I've worked with plenty of folks comparing these two Sun Belt powerhouses. Here's the honest breakdown of what each offers — and what you'll sacrifice by choosing one over the other.
 
 
 ## Climate Reality Check — It's Not Just About the Heat
@@ -84,7 +84,7 @@ This is where Tampa Bay gets expensive:
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -228,7 +228,7 @@ The real costs add up differently in each market:
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

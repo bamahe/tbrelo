@@ -1,7 +1,7 @@
 ---
 title: "The Florida Flip Flop Economy: A Complete Guide to Year-Round Footwear"
 metaTitle: "The Florida Flip Flop Economy: A Complete Guide to Year-Round Footwear | TB Relo"
-metaDescription: "The Florida Flip Flop Economy: A Complete Guide to Year-Round Footwear. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "The Florida Flip Flop Economy: A Complete Guide to Year-Round Footwear. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Florida Life"
 subcategory: "Survival Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Florida casual dress code"
 publishedAt: "2024-09-20T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-09-20T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/florida-flip-flop-culture.webp"
 
 ## The Florida Flip Flop Economy: A Complete Guide to Year-Round Footwear
 
-Moving to Tampa Bay means joining what I call the "flip flop economy" — where your choice of footwear can literally make or break your comfort, professional prospects, and social standing. After 23+ years here, I've watched transplants fumble through their first Florida footwear decisions like tourists trying to parallel park on Bayshore Boulevard during Gasparilla.
+Moving to Tampa Bay means joining what I call the "flip flop economy" — where your choice of footwear can literally make or break your comfort, professional prospects, and social standing. After more than a decade here, I've watched transplants fumble through their first Florida footwear decisions like tourists trying to parallel park on Bayshore Boulevard during Gasparilla.
 
 Here's the truth: Florida footwear isn't just about comfort. It's about survival, professionalism, and fitting into a culture where the line between beach casual and business casual is thinner than a Publix deli slice.
 
@@ -88,7 +88,7 @@ Smart Tampa Bay residents master the art of footwear transitions. Keep a pair of
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -98,7 +98,7 @@ Smart Tampa Bay residents master the art of footwear transitions. Keep a pair of
 
 ### Real Estate Reality
 
-In my 23+ years showing properties across [Hillsborough County](/counties/hillsborough/), I've learned that footwear sends messages before you even speak. Showing a $500K home in Fishhawk Ranch wearing cheap flip flops? You've lost credibility before the front door opens.
+In my decade-plus showing properties across [Hillsborough County](/counties/hillsborough/), I've learned that footwear sends messages before you even speak. Showing a $500K home in Fishhawk Ranch wearing cheap flip flops? You've lost credibility before the front door opens.
 
 But those same expensive homes often require shoe removal anyway. Smart agents carry shoe covers or plan for barefoot walkthroughs on pristine marble floors.
 

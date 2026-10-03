@@ -1,7 +1,7 @@
 ---
 title: "Plant City, Zephyrhills & Dade City — 30 Questions Answered"
 metaTitle: "Plant City & Zephyrhills FAQ — Questions Answered by a Local REALTOR® | TB Relo"
-metaDescription: "Get answers to 30 common questions about living in Plant City, Zephyrhills, and Dade City from a REALTOR® with 23+ years of real estate experience."
+metaDescription: "Get answers to 30 common questions about living in Plant City, Zephyrhills, and Dade City from a REALTOR® with 24+ years of real estate experience."
 type: question
 category: "Neighborhoods"
 publishedAt: "2026-04-13"
@@ -130,4 +130,4 @@ Many properties outside city limits in Plant City, Zephyrhills, and Dade City ar
 
 ### Why should I work with Barrett Henry when buying in Plant City, Zephyrhills, or Dade City?
 
-With 23+ years of real estate experience, I understand the nuances of these markets — from agricultural zoning to septic inspections to which subdivisions hold value. I'll shoot straight about what you're getting for your money and help you avoid the pitfalls that catch buyers unfamiliar with rural Florida properties.
+With 24+ years of real estate experience, I understand the nuances of these markets — from agricultural zoning to septic inspections to which subdivisions hold value. I'll shoot straight about what you're getting for your money and help you avoid the pitfalls that catch buyers unfamiliar with rural Florida properties.

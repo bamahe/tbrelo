@@ -1,7 +1,7 @@
 ---
 title: "Florida Notary Guide — Where to Get Documents Notarized"
 metaTitle: "Florida Notary Guide — Where to Get Documents Notarized | TB Relo"
-metaDescription: "Florida Notary Guide. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Florida Notary Guide. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Practical / Legal"
 subcategory: "Admin Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "notary near me Tampa Bay"
 publishedAt: "2025-06-21T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-06-21T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/florida-notary-guide.webp"
 
 You're standing in your new Westchase kitchen, staring at a stack of documents that need notarization, and you have exactly zero idea where to find a notary in Tampa Bay. Join the club.
 
-After 23+ years of helping families relocate here, I've watched countless people scramble around town looking for notaries at the worst possible times — usually when they need to close on their house by 3 PM and it's already noon.
+After over a decade of helping families relocate here, I've watched countless people scramble around town looking for notaries at the worst possible times — usually when they need to close on their house by 3 PM and it's already noon.
 
 Here's everything you need to know about getting documents notarized in the Tampa Bay area, from the cheapest options to the most convenient, plus some local insider knowledge that'll save you time and headaches.
 
@@ -203,7 +203,7 @@ The key is matching your needs with the right service. Banks for routine documen
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. From finding notaries to setting up [utilities](/utilities/), he knows the local systems that make relocation smooth.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. From finding notaries to setting up [utilities](/utilities/), he knows the local systems that make relocation smooth.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

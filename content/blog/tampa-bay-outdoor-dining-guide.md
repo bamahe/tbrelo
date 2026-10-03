@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Outdoor Dining Guide — Year-Round Patio Season"
 metaTitle: "Tampa Bay Outdoor Dining Guide — Year-Round Patio Season | TB Relo"
-metaDescription: "Tampa Bay Outdoor Dining Guide. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa Bay Outdoor Dining Guide. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Lifestyle / Food"
 subcategory: "Local Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "outdoor dining Tampa Bay"
 publishedAt: "2025-09-03T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-09-03T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/tampa-bay-outdoor-dining-guide.webp"
 ---
 
-Living in Tampa Bay means outdoor dining isn't a seasonal treat — it's a lifestyle. While most of the country hibernates indoors from November through March, we're out here enjoying perfect 75-degree evenings on restaurant patios. After 23 years of eating my way through this area, I can tell you the outdoor dining scene here is unmatched.
+Living in Tampa Bay means outdoor dining isn't a seasonal treat — it's a lifestyle. While most of the country hibernates indoors from November through March, we're out here enjoying perfect 75-degree evenings on restaurant patios. After more than a decade of eating my way through this area, I can tell you the outdoor dining scene here is unmatched.
 
 But not all patios are created equal. Some offer stunning water views, others nail the atmosphere, and a few manage to deliver both killer food and perfect ambiance. Here's your insider guide to the best outdoor dining experiences in Tampa Bay, broken down by what makes each spot special.
 
@@ -211,7 +211,7 @@ These ranges include appetizers, entrees, and drinks but not alcohol at upscale 
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

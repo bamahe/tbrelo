@@ -1,7 +1,7 @@
 ---
 title: "Moving from Long Island NY to Tampa Bay — The Complete Relocation Guide"
 metaTitle: "Moving from Long Island NY to Tampa Bay — The Complete Relocation Guide | TB Relo"
-metaDescription: "Moving from Long Island NY to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Moving from Long Island NY to Tampa Bay. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Moving From"
 subcategory: "Long Island NY"
@@ -9,7 +9,7 @@ primaryKeyword: "moving from Long Island to Tampa Bay"
 publishedAt: "2024-08-18T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-08-18T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/moving-from-long-island.webp"
 ---
 
-You're not the first Long Islander to wake up, calculate your property taxes, and think "there's got to be a better way." After 23 years of helping families relocate to Tampa Bay, I've guided hundreds of New Yorkers through this exact transition — and the math is compelling.
+You're not the first Long Islander to wake up, calculate your property taxes, and think "there's got to be a better way." After over a decade of helping families relocate to Tampa Bay, I've guided hundreds of New Yorkers through this exact transition — and the math is compelling.
 
 Long Island's median home price hit $650,000 in 2024, with property taxes averaging $17,500 annually. Meanwhile, Tampa Bay's median sits around $425,000 with property taxes of $3,200. That's not just savings — that's life-changing money.
 
@@ -362,7 +362,7 @@ Tampa Bay operates differently from Long Island. Inventory moves faster, price r
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

@@ -85,7 +85,7 @@ Both communities are 10–15 minutes from the Gulf beaches — Indian Rocks Beac
 
 {{nowtb}} can help you identify the best pockets in Largo (they exist — you just need to know where to look) or find the right Seminole neighborhood for your family.
 
-*Barrett Henry has been helping families relocate to Tampa Bay for over 23 years. {{nowtb}}*
+*Barrett Henry has been helping families relocate to Tampa Bay for over a decade. {{nowtb}}*
 
 ## Frequently Asked Questions
 

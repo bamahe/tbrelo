@@ -11,7 +11,7 @@ updatedAt: "2026-03-15"
 
 Every February and March, Major League Baseball descends on Florida for spring training, and Tampa Bay is ground zero for the Grapefruit League. Within a 90-minute drive of anywhere in the metro, you have access to six or more MLB teams playing in small, intimate stadiums where you're close enough to hear the chatter in the dugout. Tickets are affordable, the atmosphere is relaxed, and the weather is perfect.
 
-After 23 years of attending spring training games, I can tell you this: it never gets old. It's one of the genuinely unique perks of living in Tampa Bay.
+After 24 years of attending spring training games, I can tell you this: it never gets old. It's one of the genuinely unique perks of living in Tampa Bay.
 
 ## The Grapefruit League Explained
 
@@ -115,4 +115,4 @@ Spring training is one of those lifestyle perks that newcomers discover and imme
 
 {{nowtb}} helps families discover all the lifestyle advantages of Tampa Bay — including which neighborhoods put you closest to your favorite team's spring training facility.
 
-*Moving to Tampa Bay and love baseball? Barrett Henry has been catching spring training games for over 23 years. {{nowtb}}*
+*Moving to Tampa Bay and love baseball? Barrett Henry has been catching spring training games for over 24 years. {{nowtb}}*

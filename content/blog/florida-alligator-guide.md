@@ -1,7 +1,7 @@
 ---
 title: "Stop Freaking Out About Alligators — Here's What You Actually Need to Know"
 metaTitle: "Stop Freaking Out About Alligators — Here's What You Actually Need to Know | TB Relo"
-metaDescription: "Stop Freaking Out About Alligators. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Stop Freaking Out About Alligators. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Florida Life"
 subcategory: "Survival Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Florida alligator safety"
 publishedAt: "2024-09-02T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-09-02T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/florida-alligator-guide.webp"
 
 Every single person moving to Florida has the same conversation with their friends up north: "But what about the alligators?" 
 
-Here's the truth after 23 years of living and selling real estate in Tampa Bay: You're more likely to get struck by lightning than seriously injured by an alligator. But that doesn't mean you should be stupid about it.
+Here's the truth after over a decade of living and selling real estate in Tampa Bay: You're more likely to get struck by lightning than seriously injured by an alligator. But that doesn't mean you should be stupid about it.
 
 I've shown thousands of waterfront homes, walked countless preserve trails, and lived through every "gator in the garage" news story that makes national headlines. The reality is way more boring than the Discovery Channel makes it seem — but there are some legitimate rules you need to know.
 
@@ -250,13 +250,13 @@ This is why feeding gators is such a problem. A fed gator becomes a dead gator o
 
 You're moving to Florida, not Jurassic Park. Alligators are part of the ecosystem, like squirrels in Central Park or pigeons in downtown areas.
 
-Respect them, don't feed them, keep pets safe, and enjoy living somewhere with actual wildlife. After 23 years here, I've seen exactly three wild alligators outside of parks and preserves. Each time, they minded their own business while I minded mine.
+Respect them, don't feed them, keep pets safe, and enjoy living somewhere with actual wildlife. After more than a decade here, I've seen exactly three wild alligators outside of parks and preserves. Each time, they minded their own business while I minded mine.
 
 The bigger adjustment for most transplants isn't gators — it's remembering to check for palmetto bugs before bringing in Amazon packages.
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

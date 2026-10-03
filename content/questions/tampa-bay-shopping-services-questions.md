@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Shopping & Services — 30 Questions Answered"
 metaTitle: "Tampa Bay Shopping & Services FAQ — Questions Answered by a Local REALTOR® | TB Relo"
-metaDescription: "30 answers about shopping, grocery stores, farmers markets, and local services in Tampa Bay from a REALTOR® with 23+ years of real estate experience."
+metaDescription: "30 answers about shopping, grocery stores, farmers markets, and local services in Tampa Bay from a REALTOR® with 24+ years of real estate experience."
 type: question
 category: "Lifestyle & Recreation"
 publishedAt: "2026-04-13"

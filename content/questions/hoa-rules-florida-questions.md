@@ -1,14 +1,14 @@
 ---
 title: "HOA Rules in Florida — 30 Questions Answered"
 metaTitle: "HOA Rules Florida FAQ — Questions Answered by a Local REALTOR® | TB Relo"
-metaDescription: "Florida HOA rules questions answered by a REALTOR® with 23+ years of real estate experience. Fees, restrictions, CC&Rs, violations, reserves, and more."
+metaDescription: "Florida HOA rules questions answered by a REALTOR® with 24+ years of real estate experience. Fees, restrictions, CC&Rs, violations, reserves, and more."
 type: question
 category: "Housing & Real Estate"
 publishedAt: "2026-04-13"
 updatedAt: "2026-04-13"
 ---
 
-Love them or hate them, HOAs are a fact of life in most Tampa Bay neighborhoods. After 23+ years of real estate experience, I have helped buyers navigate every type of HOA from laid-back to strict. Understanding how they work before you buy saves headaches down the road.
+Love them or hate them, HOAs are a fact of life in most Tampa Bay neighborhoods. After 24+ years of real estate experience, I have helped buyers navigate every type of HOA from laid-back to strict. Understanding how they work before you buy saves headaches down the road.
 
 ## Frequently Asked Questions
 

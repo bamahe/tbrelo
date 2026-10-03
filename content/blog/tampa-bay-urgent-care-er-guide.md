@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Urgent Care and ER Guide — Where to Go When"
 metaTitle: "Tampa Bay Urgent Care and ER Guide — Where to Go When | TB Relo"
-metaDescription: "Tampa Bay Urgent Care and ER Guide. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa Bay Urgent Care and ER Guide. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Healthcare"
 subcategory: "Wellness Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "urgent care Tampa Bay"
 publishedAt: "2026-03-10T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2026-03-10T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/tampa-bay-urgent-care-er-guide.webp"
 ---
 
-Nobody plans to get sick at 2 AM or injure themselves on a Sunday afternoon, but after 23 years helping families relocate to Tampa Bay, I've fielded countless calls from new residents asking, "Where should I go?" 
+Nobody plans to get sick at 2 AM or injure themselves on a Sunday afternoon, but after over a decade helping families relocate to Tampa Bay, I've fielded countless calls from new residents asking, "Where should I go?" 
 
 The good news: Tampa Bay has excellent medical facilities. The challenge: figuring out which type of care you need and where to find it without breaking the bank or sitting in a waiting room for six hours.
 
@@ -152,7 +152,7 @@ Most urgent care centers and some ERs now offer online check-in. Use it. I've se
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -270,7 +270,7 @@ Most urgent care centers can handle basic eye injuries, but anything involving v
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Need help finding the right neighborhood near quality healthcare? Let's talk.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Need help finding the right neighborhood near quality healthcare? Let's talk.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

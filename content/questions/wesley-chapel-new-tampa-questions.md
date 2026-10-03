@@ -1,14 +1,14 @@
 ---
 title: "Wesley Chapel & New Tampa — 30 Questions Answered"
 metaTitle: "Wesley Chapel & New Tampa FAQ — Questions Answered by a Local REALTOR® | TB Relo"
-metaDescription: "Answers to 30 questions about Wesley Chapel and New Tampa. Schools, shopping, commute, Pasco vs Hillsborough, and more from a Tampa Bay REALTOR® with 23+ years experience."
+metaDescription: "Answers to 30 questions about Wesley Chapel and New Tampa. Schools, shopping, commute, Pasco vs Hillsborough, and more from a Tampa Bay REALTOR® with 24+ years of real estate experience."
 type: question
 category: "Neighborhoods"
 publishedAt: "2026-04-13"
 updatedAt: "2026-04-13"
 ---
 
-[Wesley Chapel](/cities/wesley-chapel/) and New Tampa are two of the most popular landing spots for families relocating to the Tampa Bay area. They sit on opposite sides of the Pasco-Hillsborough county line but share a similar suburban appeal. Here are 30 questions answered from 23+ years of real estate experience.
+[Wesley Chapel](/cities/wesley-chapel/) and New Tampa are two of the most popular landing spots for families relocating to the Tampa Bay area. They sit on opposite sides of the Pasco-Hillsborough county line but share a similar suburban appeal. Here are 30 questions answered from 24+ years of real estate experience.
 
 ## Frequently Asked Questions
 

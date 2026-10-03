@@ -1,7 +1,7 @@
 ---
 title: "New Construction vs Resale Homes in Tampa Bay — What's the Better Deal?"
 metaTitle: "New Construction vs Resale Tampa Bay — Which Is Better? | TB Relo"
-metaDescription: "New construction vs resale homes in Tampa Bay: pros, cons, builder incentives, CDD fees, and what to watch for. Honest guide from a 23-year local agent."
+metaDescription: "New construction vs resale homes in Tampa Bay: pros, cons, builder incentives, CDD fees, and what to watch for. Honest guide from a longtime local agent."
 type: blog
 publishedAt: "2026-03-15"
 updatedAt: "2026-03-15"
@@ -9,7 +9,7 @@ updatedAt: "2026-03-15"
 
 ## New Construction vs Resale — The Tampa Bay Buyer's Dilemma
 
-This is one of the first decisions relocating families face, and it's a bigger deal than most people realize. New construction and resale homes in Tampa Bay aren't just different products — they're different lifestyles, different financial equations, and different experiences. After 23 years of helping buyers navigate both, here's the honest breakdown.
+This is one of the first decisions relocating families face, and it's a bigger deal than most people realize. New construction and resale homes in Tampa Bay aren't just different products — they're different lifestyles, different financial equations, and different experiences. After over a decade of helping buyers navigate both, here's the honest breakdown.
 
 ## New Construction: The Pros
 
@@ -136,4 +136,4 @@ If you register at the model home without your agent, some builders will refuse 
 
 {{nowtb}} helps buyers evaluate both options and compare the true total monthly cost — including CDD, HOA, insurance, and utilities — not just the purchase price.
 
-*Ready to find the right home in Tampa Bay — new or resale? Barrett Henry has been guiding buyers through this decision for over 23 years. {{nowtb}}*
+*Ready to find the right home in Tampa Bay — new or resale? Barrett Henry has been guiding buyers through this decision for over 24 years. {{nowtb}}*

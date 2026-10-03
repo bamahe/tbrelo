@@ -1,7 +1,7 @@
 ---
 title: "Roof Age and Insurance in Florida — The Hard Truth"
 metaTitle: "Roof Age and Insurance in Florida — The Hard Truth | TB Relo"
-metaDescription: "Roof Age and Insurance in Florida. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Roof Age and Insurance in Florida. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Real Estate"
 subcategory: "Buying Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Florida roof age insurance"
 publishedAt: "2024-12-23T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-12-23T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/roof-age-insurance-florida.webp"
 ---
 
-Your Florida home's roof isn't just protection from the elements — it's your insurance company's favorite excuse to drop you. After 23 years of helping Tampa Bay families buy homes, I've watched too many deals fall apart because nobody explained the brutal reality of Florida's roof age rules.
+Your Florida home's roof isn't just protection from the elements — it's your insurance company's favorite excuse to drop you. After over a decade of helping Tampa Bay families buy homes, I've watched too many deals fall apart because nobody explained the brutal reality of Florida's roof age rules.
 
 Here's what every buyer needs to know before they fall in love with that 1990s home with "original tile."
 
@@ -236,7 +236,7 @@ If you currently own a Florida home with an aging roof, start planning now:
 
 **At 18-20 years:** Begin setting aside money for replacement. Consider upgrading to impact-resistant materials for insurance discounts.
 
-**At 23 years:** Start getting insurance quotes with different roof ages. You might discover you need to replace sooner than expected to maintain coverage.
+**At 24 years:** Start getting insurance quotes with different roof ages. You might discover you need to replace sooner than expected to maintain coverage.
 
 **At 25 years:** Time's up. Plan the replacement or accept limited insurance options.
 
@@ -250,7 +250,7 @@ Do the math. Factor in roof replacement costs, higher insurance premiums, and th
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

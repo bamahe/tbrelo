@@ -1,7 +1,7 @@
 ---
 title: "Military PCS to Tampa Bay — MacDill AFB Relocation Guide"
 metaTitle: "Military PCS to Tampa Bay — MacDill AFB Relocation Guide | TB Relo"
-metaDescription: "Military PCS to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Military PCS to Tampa Bay. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Relocation Logistics"
 subcategory: "How-To"
@@ -9,7 +9,7 @@ primaryKeyword: "PCS MacDill AFB Tampa"
 publishedAt: "2025-11-17T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-11-17T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/military-pcs-tampa-bay-macdill.webp"
 
 Getting PCS orders to MacDill Air Force Base? You're landing in one of the military's most coveted assignments. Tampa Bay offers year-round warmth, no state income tax, world-class beaches, and a genuinely military-friendly community. But like any move, success depends on preparation and knowing the local landscape.
 
-After helping hundreds of military families navigate Tampa Bay relocations over 23+ years, I've seen what works — and what catches people off guard. This isn't another generic "welcome to Florida" fluff piece. This is the real scoop on making your MacDill PCS smooth, smart, and successful.
+After helping hundreds of military families navigate Tampa Bay relocations over a decade, I've seen what works — and what catches people off guard. This isn't another generic "welcome to Florida" fluff piece. This is the real scoop on making your MacDill PCS smooth, smart, and successful.
 
 
 ## Understanding MacDill AFB and Tampa Bay Geography
@@ -158,7 +158,7 @@ Median home prices hover around $375,000-425,000 depending on area. With typical
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Trick-or-Treating Guide — Best Neighborhoods for Halloween"
 metaTitle: "Tampa Bay Trick-or-Treating Guide — Best Neighborhoods for Halloween | TB Relo"
-metaDescription: "Tampa Bay Trick-or-Treating Guide. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa Bay Trick-or-Treating Guide. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Seasonal / Events"
 subcategory: "Event Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Tampa Bay Halloween neighborhoods"
 publishedAt: "2025-04-10T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-04-10T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/tampa-bay-halloween-guide.webp"
 ---
 
-Halloween in Tampa Bay isn't just about throwing on a costume and hoping for the best. After 23 years of watching families navigate October 31st across our counties, I've learned which neighborhoods turn Halloween into an event and which ones leave kids staring at dark porches.
+Halloween in Tampa Bay isn't just about throwing on a costume and hoping for the best. After 24 years of watching families navigate October 31st across our counties, I've learned which neighborhoods turn Halloween into an event and which ones leave kids staring at dark porches.
 
 The difference between a mediocre Halloween and one your kids talk about all year comes down to knowing where to go. Some neighborhoods here treat trick-or-treating like a community celebration — decorated houses, full-size candy bars, neighbors sitting on porches ready to chat. Others? You'll walk a mile between lit doorsteps.
 
@@ -81,7 +81,7 @@ The neighborhoods around Fishhawk Boulevard and Boyette Road see the most action
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -231,7 +231,7 @@ Some neighborhoods peak early — if you arrive at 7:30 PM, popular houses might
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

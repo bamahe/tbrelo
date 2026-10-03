@@ -1,7 +1,7 @@
 ---
 title: "Polk County Schools Guide"
 metaTitle: "Polk County Schools Guide | TB Relo"
-metaDescription: "Polk County Schools Guide. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Polk County Schools Guide. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Education"
 subcategory: "School Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Polk County schools"
 publishedAt: "2026-03-29T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2026-03-29T08:00:00-04:00"

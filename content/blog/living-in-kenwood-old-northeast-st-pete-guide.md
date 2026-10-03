@@ -1,7 +1,7 @@
 ---
 title: "Living in Kenwood / Old Northeast St. Pete — What It's Really Like (Honest Relocation Guide)"
 metaTitle: "Living in Kenwood / Old Northeast St. Pete — What It's Really Like (Honest Relocation Guide) | TB Relo"
-metaDescription: "Living in Kenwood / Old Northeast St. Pete. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Living in Kenwood / Old Northeast St. Pete. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Neighborhoods"
 subcategory: "Deep Dive"
@@ -9,7 +9,7 @@ primaryKeyword: "living in Kenwood / Old Northeast St. Pete FL"
 publishedAt: "2025-02-15T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-02-15T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: /images/blog/default.webp
 ---
 
-Look, I'll cut straight to it: Kenwood and Old Northeast are two of St. Pete's most coveted neighborhoods, and for good reason. After 23+ years selling real estate in Tampa Bay, I've watched these tree-lined streets transform from hidden gems into some of the hottest property markets in [Pinellas County](/counties/pinellas/). But that doesn't mean they're right for everyone.
+Look, I'll cut straight to it: Kenwood and Old Northeast are two of St. Pete's most coveted neighborhoods, and for good reason. After over a decade selling real estate in Tampa Bay, I've watched these tree-lined streets transform from hidden gems into some of the hottest property markets in [Pinellas County](/counties/pinellas/). But that doesn't mean they're right for everyone.
 
 These historic neighborhoods sit just northeast of downtown St. Pete, offering walkable streets, stunning architecture, and that elusive "neighborhood feel" everyone claims to want. But they also come with premium price tags, parking challenges, and the reality of living in Florida's fastest-changing city.
 
@@ -62,7 +62,7 @@ Parking is another hidden cost. Many homes have single-car garages or street par
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -232,7 +232,7 @@ But for families and individuals who can swing it, few places in Florida offer t
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

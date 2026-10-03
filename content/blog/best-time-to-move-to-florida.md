@@ -11,7 +11,7 @@ updatedAt: "2026-03-23"
 
 The best time to move to Florida is mid-October through early December. The hurricane season is winding down, summer heat has broken, the housing market has more inventory and less competition, moving companies charge off-peak rates, and you'll have time to settle in before the holidays. That said, the right time depends on your specific situation — job start date, kids' school calendar, lease timing, and whether you're buying or renting.
 
-I've helped families relocate to Tampa Bay for over 23 years. The ones who time it right save thousands and avoid a lot of unnecessary stress. Here's the full breakdown.
+I've helped families relocate to Tampa Bay for over a decade. The ones who time it right save thousands and avoid a lot of unnecessary stress. Here's the full breakdown.
 
 ## What's the Weather Like in Florida Month by Month?
 

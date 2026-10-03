@@ -11,7 +11,7 @@ updatedAt: "2026-04-13"
 
 If you're in your 20s or 30s, unmarried or recently coupled up, and moving to Tampa Bay, your priorities are different from families hunting for A-rated schools. You want walkable dining, a social scene, things to do on a Tuesday night, and neighbors your own age.
 
-Tampa Bay has distinct pockets that cater to this lifestyle. They're not all expensive, and they're not all the same vibe. Here's the honest rundown from someone with 23+ years of real estate experience watching these neighborhoods evolve.
+Tampa Bay has distinct pockets that cater to this lifestyle. They're not all expensive, and they're not all the same vibe. Here's the honest rundown from someone with 24+ years of real estate experience watching these neighborhoods evolve.
 
 ## Why Is SoHo/Hyde Park the Go-To for Young Professionals?
 

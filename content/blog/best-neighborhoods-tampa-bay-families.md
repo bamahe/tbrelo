@@ -9,7 +9,7 @@ updatedAt: "2026-04-13"
 
 ## Which Tampa Bay Neighborhoods Are Best for Raising Kids?
 
-If you're relocating to Tampa Bay with children, the neighborhood you pick matters more than the house itself. The right area means shorter commutes to good schools, safe streets for bike rides, and neighbors who actually wave back. After 23+ years of real estate experience helping families settle into the right spot, these are the neighborhoods I consistently recommend.
+If you're relocating to Tampa Bay with children, the neighborhood you pick matters more than the house itself. The right area means shorter commutes to good schools, safe streets for bike rides, and neighbors who actually wave back. After 24+ years of real estate experience helping families settle into the right spot, these are the neighborhoods I consistently recommend.
 
 Tampa Bay stretches across multiple counties, so "best for families" depends on your budget, where you work, and what kind of lifestyle you want. Here's the honest breakdown.
 
@@ -93,7 +93,7 @@ Lakewood Ranch is ideal if one spouse works remotely or your job is on the south
 
 ## How Do You Pick the Right One?
 
-Start with where you work, then layer in school preferences and budget. Every family I've worked with over 23+ years of real estate experience eventually finds their sweet spot when they get honest about commute tolerance. A gorgeous house in Wesley Chapel won't feel great if you're sitting in SR 54 traffic for an hour twice a day.
+Start with where you work, then layer in school preferences and budget. Every family I've worked with over 24+ years of real estate experience eventually finds their sweet spot when they get honest about commute tolerance. A gorgeous house in Wesley Chapel won't feel great if you're sitting in SR 54 traffic for an hour twice a day.
 
 Visit neighborhoods on a weekday at 5 PM and a Saturday morning. You'll learn more in those two visits than any amount of online research.
 

@@ -1,7 +1,7 @@
 ---
 title: "Florida Motorcycle Laws for New Riders"
 metaTitle: "Florida Motorcycle Laws for New Riders | TB Relo"
-metaDescription: "Florida Motorcycle Laws for New Riders. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Florida Motorcycle Laws for New Riders. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Practical / Legal"
 subcategory: "Admin Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Florida motorcycle laws"
 publishedAt: "2025-06-21T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-06-21T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/florida-motorcycle-laws-guide.webp"
 
 Florida's motorcycle scene is incredible — 340+ days of riding weather, scenic coastal roads, and a culture that embraces two wheels. But before you fire up that bike and hit the Sunshine Skyway, you need to understand Florida's motorcycle laws. They're different from most states, and getting it wrong can cost you serious money or worse.
 
-After 23 years helping people relocate to Tampa Bay, I've seen too many new residents get blindsided by Florida's unique motorcycle regulations. Let me break down everything you need to know.
+After over a decade helping people relocate to Tampa Bay, I've seen too many new residents get blindsided by Florida's unique motorcycle regulations. Let me break down everything you need to know.
 
 
 ## Florida Helmet Law: The 21+ Exception
@@ -205,7 +205,7 @@ Our comprehensive guide to [setting up utilities](/utilities/) covers everything
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

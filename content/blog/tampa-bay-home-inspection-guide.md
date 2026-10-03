@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Home Inspection — What to Expect and Red Flags"
 metaTitle: "Tampa Bay Home Inspection — What to Expect and Red Flags | TB Relo"
-metaDescription: "Tampa Bay Home Inspection. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa Bay Home Inspection. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Real Estate"
 subcategory: "Buying Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "home inspection Tampa Bay what to expect"
 publishedAt: "2024-11-13T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-11-13T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/tampa-bay-home-inspection-guide.webp"
 ---
 
-You're under contract on a Tampa Bay home. Congratulations! Now comes the inspection period — 10-15 days that can make or break your purchase. After 23 years of walking through homes with buyers from Clearwater to Brandon, I've seen inspections save families from $50,000 disasters and others that killed perfectly good deals over $300 issues.
+You're under contract on a Tampa Bay home. Congratulations! Now comes the inspection period — 10-15 days that can make or break your purchase. After more than a decade of walking through homes with buyers from Clearwater to Brandon, I've seen inspections save families from $50,000 disasters and others that killed perfectly good deals over $300 issues.
 
 Here's what actually happens during a Tampa Bay home inspection, what red flags matter (and which ones don't), and how to navigate this process without losing your mind or your dream home.
 
@@ -79,7 +79,7 @@ You'll receive a detailed report with photos, typically 30-50 pages for an avera
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -241,7 +241,7 @@ Based on 2024 Tampa Bay pricing:
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

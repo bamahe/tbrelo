@@ -92,7 +92,7 @@ export function generateLocalBusinessSchema() {
     givenName: 'Barrett',
     familyName: 'Henry',
     jobTitle: 'Broker Associate',
-    description: 'Barrett Henry is a licensed Broker Associate with REMAX Collective specializing in Tampa Bay real estate and relocation. 23+ years of experience across 8 counties.',
+    description: 'Barrett Henry is a licensed Broker Associate with REMAX Collective specializing in Tampa Bay real estate and relocation. 24+ years of real estate experience across 8 counties.',
     telephone: '(813) 733-7907',
     email: 'barrett@nowtb.com',
     url: 'https://nowtb.com',

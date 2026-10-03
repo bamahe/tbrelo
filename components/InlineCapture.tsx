@@ -50,7 +50,7 @@ export default function InlineCapture() {
         Free Tampa Bay Relocation Guide
       </h3>
       <p className="text-sm text-brand-slate mb-4">
-        Get personalized neighborhood recommendations, cost comparisons, and insider tips from Barrett Henry — 23+ years of Tampa Bay real estate experience.
+        Get personalized neighborhood recommendations, cost comparisons, and insider tips from Barrett Henry — 24+ years of real estate experience.
       </p>
       <form onSubmit={handleSubmit} className="flex flex-col sm:flex-row gap-2">
         <input name="name" type="text" required placeholder="Your name" className="flex-1 px-3 py-2.5 rounded-lg border border-gray-300 text-sm focus:border-brand-blue focus:outline-none" />

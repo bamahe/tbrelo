@@ -11,7 +11,7 @@ updatedAt: "2026-04-13"
 
 MacDill Air Force Base sits on the southern tip of the Interbay Peninsula in South Tampa, surrounded by water on three sides. It's home to U.S. Central Command, U.S. Special Operations Command, and several tenant units, making it one of the most strategically important installations in the country.
 
-If you're PCSing to MacDill or are a DoD civilian working on base, where you live affects your daily commute, your housing costs, and how much of your BAH you actually keep. After 23+ years of real estate experience, I've helped plenty of military families find the right fit around MacDill. Here's the straight talk.
+If you're PCSing to MacDill or are a DoD civilian working on base, where you live affects your daily commute, your housing costs, and how much of your BAH you actually keep. After 24+ years of real estate experience, I've helped plenty of military families find the right fit around MacDill. Here's the straight talk.
 
 ## How Does BAH Factor Into Housing Near MacDill?
 

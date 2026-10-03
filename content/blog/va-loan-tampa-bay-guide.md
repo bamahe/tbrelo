@@ -1,7 +1,7 @@
 ---
 title: "VA Loan Home Buying in Tampa Bay — The Military Buyer's Guide"
 metaTitle: "VA Loan Home Buying in Tampa Bay — The Military Buyer's Guide | TB Relo"
-metaDescription: "VA Loan Home Buying in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "VA Loan Home Buying in Tampa Bay. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Real Estate"
 subcategory: "Buying Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "VA loan Tampa Bay"
 publishedAt: "2024-11-10T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-11-10T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/va-loan-tampa-bay-guide.webp"
 
 Tampa Bay isn't just another real estate market — it's one of the most veteran-friendly regions in Florida. With MacDill Air Force Base anchoring our military community and over 300,000 veterans calling the area home, I've spent the better part of two decades helping service members and veterans navigate this market with their VA loan benefits.
 
-Here's what 23 years of Tampa Bay real estate has taught me about maximizing your VA loan in this market.
+Here's what over a decade of Tampa Bay real estate has taught me about maximizing your VA loan in this market.
 
 
 ## Why Tampa Bay Works for Military Buyers
@@ -53,7 +53,7 @@ In practical terms, you can buy a 3-bedroom, 2-bathroom home in excellent school
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -205,7 +205,7 @@ Florida has no state income tax, but property taxes vary dramatically by locatio
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

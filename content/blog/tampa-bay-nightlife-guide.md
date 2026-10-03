@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Nightlife Guide — Where to Go Out by Vibe"
 metaTitle: "Tampa Bay Nightlife Guide — Where to Go Out by Vibe | TB Relo"
-metaDescription: "Tampa Bay Nightlife Guide. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa Bay Nightlife Guide. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Lifestyle / Food"
 subcategory: "Local Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Tampa Bay nightlife bars clubs"
 publishedAt: "2025-08-06T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-08-06T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/tampa-bay-nightlife-guide.webp"
 ---
 
-After 23 years of showing families around Tampa Bay, I've learned that understanding the nightlife scene is just as important as knowing the school districts. Whether you're relocating here or already live here, knowing where to grab a drink that matches your vibe can make or break your social life in a new city.
+After over a decade of showing families around Tampa Bay, I've learned that understanding the nightlife scene is just as important as knowing the school districts. Whether you're relocating here or already live here, knowing where to grab a drink that matches your vibe can make or break your social life in a new city.
 
 Tampa Bay's nightlife runs deeper than most people realize. We've got everything from dive bars where locals have been drinking since the 80s to rooftop lounges that could hold their own in Miami. The key is knowing which neighborhoods serve which crowds — and trust me, they're all different.
 
@@ -126,7 +126,7 @@ After-hours success requires planning. Most Tampa Bay nightlife shuts down at 2 
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

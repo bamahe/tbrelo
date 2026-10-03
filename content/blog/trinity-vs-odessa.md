@@ -1,7 +1,7 @@
 ---
 title: "Trinity vs Odessa — Which Is Better for Relocators?"
 metaTitle: "Trinity vs Odessa — Which Is Better for Relocators? | TB Relo"
-metaDescription: "Trinity vs Odessa. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Trinity vs Odessa. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "City Comparisons"
 subcategory: "Local"
@@ -9,7 +9,7 @@ primaryKeyword: "Trinity vs Odessa FL"
 publishedAt: "2024-04-26T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-04-26T08:00:00-04:00"
@@ -26,7 +26,7 @@ featuredImage: "/images/blog/trinity-vs-odessa.webp"
 
 Two communities. One county line. Completely different vibes.
 
-Trinity and Odessa sit right next to each other along the Pasco-Hillsborough border, but choosing between them isn't as simple as picking the prettier name. After 23+ years helping families navigate Tampa Bay relocations, I've watched both areas transform from rural outposts to sought-after suburbs — each developing its own distinct personality.
+Trinity and Odessa sit right next to each other along the Pasco-Hillsborough border, but choosing between them isn't as simple as picking the prettier name. After over a decade helping families navigate Tampa Bay relocations, I've watched both areas transform from rural outposts to sought-after suburbs — each developing its own distinct personality.
 
 The short version? Trinity offers newer everything with a planned community feel, while Odessa delivers established charm with more land for your money. But the devil's in the details, and those details matter when you're talking about a 30-year mortgage.
 
@@ -43,7 +43,7 @@ The commute difference to downtown Tampa? Trinity wins by about 10 minutes — i
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -237,7 +237,7 @@ On a $500,000 home, that difference could mean $1,000-$2,000 annually in propert
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

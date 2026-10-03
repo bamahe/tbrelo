@@ -1,7 +1,7 @@
 ---
 title: "Best Kayaking and Paddleboarding Spots in Tampa Bay"
 metaTitle: "Best Kayaking and Paddleboarding Spots in Tampa Bay | TB Relo"
-metaDescription: "Best Kayaking and Paddleboarding Spots in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Best Kayaking and Paddleboarding Spots in Tampa Bay. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Seasonal / Events"
 subcategory: "Event Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "kayaking Tampa Bay"
 publishedAt: "2025-04-28T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-04-28T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/best-kayaking-paddleboarding-tampa-bay.webp"
 ---
 
-When people ask me about Tampa Bay's best outdoor activities, paddling always makes the top three. After 23+ years showing families around this area, I've learned that our waters offer something for everyone — from crystal-clear springs perfect for beginners to challenging coastal paddles that'll test experienced kayakers.
+When people ask me about Tampa Bay's best outdoor activities, paddling always makes the top three. After 24+ years showing families around this area, I've learned that our waters offer something for everyone — from crystal-clear springs perfect for beginners to challenging coastal paddles that'll test experienced kayakers.
 
 The beauty of paddling in Tampa Bay? You can launch in downtown Tampa and be surrounded by dolphins within 30 minutes, or drive an hour north to springs so clear you'll think you're floating on air. I've guided clients to these spots countless times, and each one tells a different story about why Tampa Bay works for their lifestyle.
 
@@ -127,7 +127,7 @@ Tampa Bay paddling works year-round, but each season brings distinct advantages 
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -149,7 +149,7 @@ Most Tampa Bay paddling spots offer rentals, but quality varies significantly. H
 
 ## Safety and Preparation
 
-Twenty-three years of sending people onto Tampa Bay waters taught me that preparation prevents problems. Here's what matters most:
+Twenty-four years of sending people onto Tampa Bay waters taught me that preparation prevents problems. Here's what matters most:
 
 **Check conditions:** Florida weather changes rapidly. Morning calm can become afternoon chaos. Download a reliable weather app and check marine forecasts, not just general weather.
 

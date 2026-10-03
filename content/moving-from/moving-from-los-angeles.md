@@ -95,4 +95,4 @@ The Gulf of Mexico doesn't produce surf like the Pacific. Calm, warm water — g
 ### How do I deal with hurricane season?
 Prepare before the season (June 1 – November 30), and you're fine. See our [Hurricane Prep guide](/hurricane-prep/). Hurricanes give you days of warning — unlike earthquakes. Most years, nothing happens. When something does, you'll be glad you prepared.
 
-*Ready to make the move? Barrett Henry has been helping families relocate to Tampa Bay for over 23 years. {{nowtb}}*
+*Ready to make the move? Barrett Henry has been helping families relocate to Tampa Bay for over a decade. {{nowtb}}*

@@ -1,7 +1,7 @@
 ---
 title: "Clearwater, Dunedin, Safety Harbor & Palm Harbor — 30 Questions Answered"
 metaTitle: "Clearwater & Dunedin FAQ — Questions Answered by a Local REALTOR® | TB Relo"
-metaDescription: "Get answers to 30 common questions about living in Clearwater, Dunedin, Safety Harbor, and Palm Harbor from a REALTOR® with 23+ years of real estate experience."
+metaDescription: "Get answers to 30 common questions about living in Clearwater, Dunedin, Safety Harbor, and Palm Harbor from a REALTOR® with 24+ years of real estate experience."
 type: question
 category: "Neighborhoods"
 publishedAt: "2026-04-13"
@@ -130,4 +130,4 @@ They can be steep, especially in older beach buildings dealing with structural i
 
 ### Why should I work with Barrett Henry when buying in Clearwater or Dunedin?
 
-I've got 23+ years of real estate experience and I know Tampa Bay inside and out. I'm not going to sugarcoat a neighborhood or push you into a property that doesn't fit. I'll give you the real story — flood zones, insurance costs, commute times, resale potential — so you can make a smart decision. Reach out anytime.
+I've got 24+ years of real estate experience and I know Tampa Bay inside and out. I'm not going to sugarcoat a neighborhood or push you into a property that doesn't fit. I'll give you the real story — flood zones, insurance costs, commute times, resale potential — so you can make a smart decision. Reach out anytime.

@@ -1,7 +1,7 @@
 ---
 title: "Best Window Treatments for Florida Sun and Heat"
 metaTitle: "Best Window Treatments for Florida Sun and Heat | TB Relo"
-metaDescription: "Best Window Treatments for Florida Sun and Heat. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Best Window Treatments for Florida Sun and Heat. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Affiliate / Products"
 subcategory: "Product Roundup"
@@ -9,7 +9,7 @@ primaryKeyword: "best blinds Florida heat"
 publishedAt: "2025-09-27T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-09-27T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/best-window-treatments-florida.webp"
 ---
 
-After 23 years of helping families move to Tampa Bay, I've learned that window treatments aren't just about privacy — they're about survival. That Florida sun doesn't mess around. It'll bleach your furniture, spike your electric bill, and turn your living room into a greenhouse faster than you can say "holy utility bill, Batman."
+After over a decade of helping families move to Tampa Bay, I've learned that window treatments aren't just about privacy — they're about survival. That Florida sun doesn't mess around. It'll bleach your furniture, spike your electric bill, and turn your living room into a greenhouse faster than you can say "holy utility bill, Batman."
 
 I've been in thousands of homes across [Hillsborough](/counties/hillsborough/), Pinellas, and Pasco counties, and I can tell you exactly what works (and what doesn't) when it comes to keeping our relentless sun at bay.
 
@@ -219,7 +219,7 @@ You don't need to spend $500 per window to control Florida sun effectively. Smar
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

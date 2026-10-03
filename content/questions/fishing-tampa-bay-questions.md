@@ -1,7 +1,7 @@
 ---
 title: "Fishing Tampa Bay — 30 Questions Answered"
 metaTitle: "Fishing Tampa Bay FAQ — Questions Answered by a Local REALTOR® | TB Relo"
-metaDescription: "Get answers to 30 fishing questions about Tampa Bay including best spots, licenses, charter boats, seasons, and species. Local insight from a REALTOR® with 23+ years of real estate experience."
+metaDescription: "Get answers to 30 fishing questions about Tampa Bay including best spots, licenses, charter boats, seasons, and species. Local insight from a REALTOR® with 24+ years of real estate experience."
 type: question
 category: "Lifestyle & Recreation"
 publishedAt: "2026-04-13"

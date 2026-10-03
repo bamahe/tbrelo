@@ -90,4 +90,4 @@ The tradeoff: Brooksville has limited commercial services. You'll drive to Sprin
 
 {{nowtb}} can help you navigate Hernando County's market, where local knowledge about neighborhoods, flood zones, and school boundaries makes a significant difference in your experience.
 
-*Exploring Hernando County? Barrett Henry has been helping families relocate to Tampa Bay for over 23 years. {{nowtb}}*
+*Exploring Hernando County? Barrett Henry has been helping families relocate to Tampa Bay for over a decade. {{nowtb}}*

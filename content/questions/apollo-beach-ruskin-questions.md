@@ -1,7 +1,7 @@
 ---
 title: "Apollo Beach, Ruskin & Sun City Center — 30 Questions Answered"
 metaTitle: "Apollo Beach & Ruskin FAQ — Questions Answered by a Local REALTOR® | TB Relo"
-metaDescription: "Get answers to 30 common questions about living in Apollo Beach, Ruskin, Sun City Center, and Wimauma from a REALTOR® with 23+ years of real estate experience."
+metaDescription: "Get answers to 30 common questions about living in Apollo Beach, Ruskin, Sun City Center, and Wimauma from a REALTOR® with 24+ years of real estate experience."
 type: question
 category: "Neighborhoods"
 publishedAt: "2026-04-13"
@@ -130,4 +130,4 @@ Waterfront properties in Apollo Beach typically require both homeowners insuranc
 
 ### Why should I work with Barrett Henry when buying in Apollo Beach, Ruskin, or Sun City Center?
 
-I've got 23+ years of real estate experience and I live in this part of Tampa Bay. I know which canals have the best bay access, which flood zones to watch out for, and which communities deliver on their promises. I'll give you the unfiltered truth about living in South Hillsborough so you can make the right call.
+I've got 24+ years of real estate experience and I live in this part of Tampa Bay. I know which canals have the best bay access, which flood zones to watch out for, and which communities deliver on their promises. I'll give you the unfiltered truth about living in South Hillsborough so you can make the right call.

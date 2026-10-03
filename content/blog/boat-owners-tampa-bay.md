@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay for Boat Owners — Marinas, Ramps, and Waterfront Living"
 metaTitle: "Tampa Bay for Boat Owners — Marinas, Ramps, and Waterfront Living | TB Relo"
-metaDescription: "Tampa Bay for Boat Owners. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa Bay for Boat Owners. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Demographic / Niche"
 subcategory: "Audience Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "boat owner Tampa Bay marinas"
 publishedAt: "2026-01-14T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2026-01-14T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/boat-owners-tampa-bay.webp"
 ---
 
-Tampa Bay isn't just Florida's boating capital by accident. With 400 square miles of water, year-round boating weather, and everything from shallow grass flats to deep-water channels, this is where serious boat owners come to play. I've helped hundreds of families relocate here specifically for the boating lifestyle, and after 23+ years watching this market, I can tell you exactly what you need to know.
+Tampa Bay isn't just Florida's boating capital by accident. With 400 square miles of water, year-round boating weather, and everything from shallow grass flats to deep-water channels, this is where serious boat owners come to play. I've helped hundreds of families relocate here specifically for the boating lifestyle, and after more than a decade watching this market, I can tell you exactly what you need to know.
 
 
 Whether you're trailing a 21-foot bay boat or need deep-water dockage for a 60-footer, Tampa Bay delivers. But not all waterfront is created equal, and the difference between choosing the right marina versus the wrong one can cost you thousands annually — or worse, leave you without a slip when you need it most.
@@ -85,7 +85,7 @@ If you're trailering, Tampa Bay offers some of Florida's best public ramps. Here
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -222,7 +222,7 @@ These numbers assume moderate usage and don't include major repairs or upgrades.
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

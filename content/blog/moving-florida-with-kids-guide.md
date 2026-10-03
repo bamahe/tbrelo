@@ -1,7 +1,7 @@
 ---
 title: "Moving to Florida with Kids — Age-by-Age Transition Guide"
 metaTitle: "Moving to Florida with Kids — Age-by-Age Transition Guide | TB Relo"
-metaDescription: "Moving to Florida with Kids. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Moving to Florida with Kids. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Relocation Logistics"
 subcategory: "How-To"
@@ -9,7 +9,7 @@ primaryKeyword: "moving to Florida with kids"
 publishedAt: "2025-11-08T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-11-08T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/moving-florida-with-kids-guide.webp"
 
 Moving to Florida with kids feels like directing a three-ring circus while juggling flaming torches. I've watched families navigate this transition for over two decades, and the ones who thrive are those who understand that each age group needs a completely different playbook.
 
-Here's what 23 years of helping families relocate to Tampa Bay has taught me about making this move work for every member of your crew.
+Here's what over a decade of helping families relocate to Tampa Bay has taught me about making this move work for every member of your crew.
 
 
 ## Why Moving to Florida with Kids Is Different
@@ -108,7 +108,7 @@ Your Minnesota kid who excelled at hockey might feel lost when everyone's talkin
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -259,7 +259,7 @@ Don't hesitate to seek professional help. Florida has excellent family counselor
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

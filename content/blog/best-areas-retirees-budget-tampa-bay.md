@@ -11,7 +11,7 @@ updatedAt: "2026-04-13"
 
 Tampa Bay is one of the most popular retirement destinations in the country, and for good reason — no state income tax, warm weather, and an endless supply of golf courses and waterfront restaurants. But "affordable retirement" and "Tampa Bay" don't always go together, especially if you're looking at the core areas of Tampa, St. Pete, or Clearwater.
 
-The good news: the edges of the metro have communities specifically built for retirees at price points that work on Social Security, a modest pension, or a fixed retirement budget. After 23+ years of real estate experience, I've helped dozens of retirees find their landing spot. Here's where the value is.
+The good news: the edges of the metro have communities specifically built for retirees at price points that work on Social Security, a modest pension, or a fixed retirement budget. After 24+ years of real estate experience, I've helped dozens of retirees find their landing spot. Here's where the value is.
 
 ## Why Is Sun City Center the Gold Standard for Budget Retirees?
 

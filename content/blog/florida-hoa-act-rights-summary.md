@@ -1,7 +1,7 @@
 ---
 title: "Florida Homeowner's Association Act — Your Rights Summarized"
 metaTitle: "Florida Homeowner's Association Act — Your Rights Summarized | TB Relo"
-metaDescription: "Florida Homeowner's Association Act. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Florida Homeowner's Association Act. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Practical / Legal"
 subcategory: "Admin Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Florida HOA Act homeowner rights"
 publishedAt: "2025-07-13T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-07-13T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/florida-hoa-act-rights-summary.webp"
 ---
 
-Moving to Florida and dealing with an HOA for the first time? Or maybe you've been here for years but never really understood what your association can and can't do? After 23 years of helping Tampa Bay families navigate homebuying, I've seen every HOA horror story and triumph you can imagine.
+Moving to Florida and dealing with an HOA for the first time? Or maybe you've been here for years but never really understood what your association can and can't do? After over a decade of helping Tampa Bay families navigate homebuying, I've seen every HOA horror story and triumph you can imagine.
 
 The Florida Homeowner's Association Act isn't light reading, but it's the law that governs how your HOA operates — and knowing your rights under it can save you thousands of dollars and countless headaches. Let me break down what actually matters for homeowners in 2024.
 
@@ -268,7 +268,7 @@ Recent appellate court decisions have also strengthened homeowner rights regardi
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

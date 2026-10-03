@@ -1,7 +1,7 @@
 ---
 title: "Best Sunscreen for Florida — SPF, Reef-Safe, and What Works"
 metaTitle: "Best Sunscreen for Florida — SPF, Reef-Safe, and What Works | TB Relo"
-metaDescription: "Best Sunscreen for Florida. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Best Sunscreen for Florida. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Affiliate / Products"
 subcategory: "Product Roundup"
@@ -9,7 +9,7 @@ primaryKeyword: "best sunscreen Florida"
 publishedAt: "2025-10-04T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-10-04T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: /images/blog/default.webp
 
 Living in Tampa Bay for over two decades has taught me one thing: cheap sunscreen is expensive medicine. I've watched too many newcomers learn this lesson the hard way during their first summer at Clearwater Beach or a day fishing in Tampa Bay.
 
-Florida sun isn't playing games. Our UV index hits 10+ regularly, we get year-round exposure, and that gorgeous water reflects even more rays back at you. After 23 years of showing properties from St. Pete to Brandon, I've tried every sunscreen on the market — and watched clients discover which ones actually work versus which ones leave you looking like a lobster.
+Florida sun isn't playing games. Our UV index hits 10+ regularly, we get year-round exposure, and that gorgeous water reflects even more rays back at you. After 24 years of showing properties from St. Pete to Brandon, I've tried every sunscreen on the market — and watched clients discover which ones actually work versus which ones leave you looking like a lobster.
 
 
 ## Why Florida Demands Different Sunscreen Standards
@@ -200,7 +200,7 @@ Florida's marine ecosystems face enough pressure without adding sunscreen chemic
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

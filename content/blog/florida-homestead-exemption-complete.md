@@ -1,7 +1,7 @@
 ---
 title: "Florida Homestead Exemption — The Complete Filing Guide"
 metaTitle: "Florida Homestead Exemption — The Complete Filing Guide | TB Relo"
-metaDescription: "Florida Homestead Exemption. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Florida Homestead Exemption. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Real Estate"
 subcategory: "Buying Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Florida homestead exemption how to file"
 publishedAt: "2024-11-02T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-11-02T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/florida-homestead-exemption-complete.webp"
 ---
 
-Look, I've watched too many Tampa Bay homeowners flush thousands of dollars down the drain because they didn't understand Florida's homestead exemption. After 23 years of helping families navigate real estate here, I'm going to break this down in plain English — no bureaucratic nonsense.
+Look, I've watched too many Tampa Bay homeowners flush thousands of dollars down the drain because they didn't understand Florida's homestead exemption. After over a decade of helping families navigate real estate here, I'm going to break this down in plain English — no bureaucratic nonsense.
 
 The homestead exemption isn't just some paperwork you might file someday. It's potentially the biggest property tax break you'll get in Florida, and missing the deadline costs real money. We're talking about savings that can run $500 to $2,000+ annually depending on your home's value.
 
@@ -134,7 +134,7 @@ When November tax bills arrive, confirm your exemption appears. If it doesn't, c
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -247,7 +247,7 @@ Combined with Florida's lack of state income tax, proper homestead planning can 
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

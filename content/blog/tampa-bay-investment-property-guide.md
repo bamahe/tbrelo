@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Investment Property Guide — Where to Buy Rentals"
 metaTitle: "Tampa Bay Investment Property Guide — Where to Buy Rentals | TB Relo"
-metaDescription: "Tampa Bay Investment Property Guide. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa Bay Investment Property Guide. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Real Estate"
 subcategory: "Buying Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Tampa Bay rental investment property"
 publishedAt: "2024-12-15T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-12-15T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/tampa-bay-investment-property-guide.webp"
 ---
 
-Let me cut straight to it: Tampa Bay's rental market is printing money right now, but only if you know where to look and what to avoid. After 23 years of helping investors build portfolios here, I've seen people make fortunes and watched others lose their shirts on the same block.
+Let me cut straight to it: Tampa Bay's rental market is printing money right now, but only if you know where to look and what to avoid. After over a decade of helping investors build portfolios here, I've seen people make fortunes and watched others lose their shirts on the same block.
 
 The reality? Tampa Bay offers some of the best rental yields in Florida — but the window is narrowing fast. Property values jumped 40% since 2020, rents followed by 35%, and every month brings new investors from up north with cash offers.
 
@@ -51,7 +51,7 @@ The institutional investors are circling like sharks, buying entire subdivisions
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -379,7 +379,7 @@ The best investment approach remains buying quality properties in good locations
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

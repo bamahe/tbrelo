@@ -1,7 +1,7 @@
 ---
 title: "Retiring in Tampa Bay — 55+ Communities, Healthcare, and Tax Benefits"
 metaTitle: "Retire in Tampa Bay: 55+ Communities, Healthcare & Tax Guide (2026) | TB Relo"
-metaDescription: "Complete Tampa Bay retirement guide — best 55+ communities by county, healthcare access, tax benefits, cost of living, and honest advice from a 23-year local."
+metaDescription: "Complete Tampa Bay retirement guide — best 55+ communities by county, healthcare access, tax benefits, cost of living, and honest advice from a longtime local."
 type: pillar
 publishedAt: "2026-03-15"
 updatedAt: "2026-03-15"
@@ -272,6 +272,6 @@ Generally yes, particularly in 55+ communities which have very low crime rates. 
 Visit in January (to see the weather you're buying) AND in August (to see the heat and humidity you're also buying). Many retirees visit only in winter and are surprised by summer. The summers are hot — 90°F+ with high humidity from June through September. Air conditioning is a necessity, not a luxury.
 
 ### How do I find a home in a 55+ community?
-{{nowtb}} — Barrett Henry has been helping retirees find the right community in Tampa Bay for over 23 years. Every 55+ community has a different personality, fee structure, and amenity package. Having an agent who knows the differences saves you time and money.
+{{nowtb}} — Barrett Henry has been helping retirees find the right community in Tampa Bay for over a decade. Every 55+ community has a different personality, fee structure, and amenity package. Having an agent who knows the differences saves you time and money.
 
-*Thinking about relocating to Tampa Bay? Barrett Henry has been helping families move to Tampa Bay for over 23 years. {{nowtb}}*
+*Thinking about relocating to Tampa Bay? Barrett Henry has been helping families move to Tampa Bay for over a decade. {{nowtb}}*

@@ -1,7 +1,7 @@
 ---
 title: "Florida Pets — 30 Questions Answered"
 metaTitle: "Florida Pets FAQ — Questions Answered by a Local REALTOR® | TB Relo"
-metaDescription: "Answers to 30 questions about pet ownership in Florida including bufo toads, dog parks, breed restrictions, heat safety, and pet-friendly living. Local insight from a REALTOR® with 23+ years of real estate experience."
+metaDescription: "Answers to 30 questions about pet ownership in Florida including bufo toads, dog parks, breed restrictions, heat safety, and pet-friendly living. Local insight from a REALTOR® with 24+ years of real estate experience."
 type: question
 category: "Pets & Wildlife"
 publishedAt: "2026-04-13"

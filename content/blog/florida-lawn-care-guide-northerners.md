@@ -1,7 +1,7 @@
 ---
 title: "Florida Lawn Care for Northerners — Everything You're Doing Wrong"
 metaTitle: "Florida Lawn Care for Northerners — Everything You're Doing Wrong | TB Relo"
-metaDescription: "Florida Lawn Care for Northerners. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Florida Lawn Care for Northerners. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Florida Life"
 subcategory: "Survival Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Florida lawn care tips"
 publishedAt: "2024-09-09T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-09-09T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/florida-lawn-care-guide-northerners.webp"
 
 Moving from Chicago, Buffalo, or Boston and thinking you'll master Florida lawn care with your weekend warrior skills? Hold up. Your Northern instincts will sabotage every blade of grass you touch.
 
-After 23 years helping relocating families navigate everything from [school districts](/counties/hillsborough/) to soil pH, I've watched countless new Floridians turn gorgeous St. Augustine lawns into brown wastelands. The conversations always start the same: "Barrett, I've been doing lawns for 20 years up north, but this Florida grass is impossible."
+After 24 years helping relocating families navigate everything from [school districts](/counties/hillsborough/) to soil pH, I've watched countless new Floridians turn gorgeous St. Augustine lawns into brown wastelands. The conversations always start the same: "Barrett, I've been doing lawns for 20 years up north, but this Florida grass is impossible."
 
 Here's the brutal truth — everything you know about lawn care is wrong down here. Florida grass grows differently, drinks differently, and dies differently than anything you've dealt with in Pennsylvania or Michigan. But master these fundamentals, and you'll have neighbors asking for your secrets.
 
@@ -211,7 +211,7 @@ Cool, wet weather in late fall and early spring triggers large patch disease. Ci
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

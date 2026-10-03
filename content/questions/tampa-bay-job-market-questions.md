@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Job Market & Careers — 30 Questions Answered"
 metaTitle: "Tampa Bay Job Market FAQ — Questions Answered by a Local REALTOR® | TB Relo"
-metaDescription: "Get answers to 30 common questions about jobs, employers, salaries, and career opportunities in Tampa Bay from a REALTOR® with 23+ years of real estate experience."
+metaDescription: "Get answers to 30 common questions about jobs, employers, salaries, and career opportunities in Tampa Bay from a REALTOR® with 24+ years of real estate experience."
 type: question
 category: "Jobs & Career"
 publishedAt: "2026-04-13"
@@ -130,4 +130,4 @@ Not directly, but location impacts your commute, networking access, and quality 
 
 ### How does Barrett Henry help relocating professionals find the right home?
 
-With 23+ years of real estate experience, I help professionals relocating to Tampa Bay find homes that match their commute needs, family priorities, and budget. I'll map your workplace, factor in traffic patterns, identify neighborhoods that fit your lifestyle, and get you honest data on what your dollar buys in each area. The job gets you here — I help you land in the right spot.
+With 24+ years of real estate experience, I help professionals relocating to Tampa Bay find homes that match their commute needs, family priorities, and budget. I'll map your workplace, factor in traffic patterns, identify neighborhoods that fit your lifestyle, and get you honest data on what your dollar buys in each area. The job gets you here — I help you land in the right spot.

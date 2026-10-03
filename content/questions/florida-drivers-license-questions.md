@@ -1,7 +1,7 @@
 ---
 title: "Florida Driver's License and Vehicle Registration — 30 Questions Answered"
 metaTitle: "Florida Driver's License FAQ — Questions Answered by a Local REALTOR® | TB Relo"
-metaDescription: "Florida driver's license and vehicle registration questions answered by a REALTOR® with 23+ years of real estate experience. Transfer, Real ID, SunPass."
+metaDescription: "Florida driver's license and vehicle registration questions answered by a REALTOR® with 24+ years of real estate experience. Transfer, Real ID, SunPass."
 type: question
 category: "Moving & Logistics"
 publishedAt: "2026-04-13"

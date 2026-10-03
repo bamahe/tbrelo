@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Seafood Guide — Grouper, Stone Crab, and Beyond"
 metaTitle: "Tampa Bay Seafood Guide — Grouper, Stone Crab, and Beyond | TB Relo"
-metaDescription: "Tampa Bay Seafood Guide. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa Bay Seafood Guide. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Lifestyle / Food"
 subcategory: "Local Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "best seafood Tampa Bay"
 publishedAt: "2025-07-20T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-07-20T08:00:00-04:00"
@@ -32,7 +32,7 @@ Let me save you from mediocre grouper sandwiches and overpriced stone crab. Here
 
 Tampa Bay sits at the perfect intersection of Gulf waters and protected estuaries. Our commercial fishing fleet brings in grouper, snapper, kingfish, and more daily, while our stone crab season (October 15 to May 15) rivals anything you'll find in the Keys.
 
-The trick is knowing where fishermen sell their catch versus where restaurants import frozen fish from who-knows-where. After 23 years of taking clients to lunch meetings across the bay, I can tell you the difference is night and day.
+The trick is knowing where fishermen sell their catch versus where restaurants import frozen fish from who-knows-where. After 24 years of taking clients to lunch meetings across the bay, I can tell you the difference is night and day.
 
 ## Stone Crab Season: October to May Gold
 
@@ -138,7 +138,7 @@ The "Smoking" shellfish tower is Instagram-ready, but the flavors back up the pr
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

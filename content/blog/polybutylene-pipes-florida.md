@@ -1,7 +1,7 @@
 ---
 title: "Polybutylene Pipes in Florida Homes — Buyer Beware"
 metaTitle: "Polybutylene Pipes in Florida Homes — Buyer Beware | TB Relo"
-metaDescription: "Polybutylene Pipes in Florida Homes. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Polybutylene Pipes in Florida Homes. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Real Estate"
 subcategory: "Buying Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "polybutylene pipes Florida"
 publishedAt: "2024-12-27T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-12-27T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/polybutylene-pipes-florida.webp"
 
 If you're house hunting in Tampa Bay and see a home built between 1978-1995, you need to know about polybutylene pipes. These gray plastic pipes were installed in millions of homes nationwide — including thousands right here in [Hillsborough](/counties/hillsborough/), [Pinellas](/counties/pinellas/), and [Pasco](/counties/pasco/) counties.
 
-Here's the bottom line: polybutylene pipes are ticking time bombs that can flood your home without warning. As someone who's walked through hundreds of Tampa Bay properties over 23 years, I've seen the aftermath more times than I care to count.
+Here's the bottom line: polybutylene pipes are ticking time bombs that can flood your home without warning. As someone who's walked through hundreds of Tampa Bay properties over a decade, I've seen the aftermath more times than I care to count.
 
 
 ## What Are Polybutylene Pipes?
@@ -89,7 +89,7 @@ Most Tampa Bay plumbers recommend PEX for its flexibility, durability, and cost-
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -233,7 +233,7 @@ Remember: these are temporary measures. The only permanent solution is complete 
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -294,7 +294,7 @@ Building these relationships before you need them saves time and stress during t
 
 ## The Bottom Line on Polybutylene
 
-Polybutylene pipes in Florida homes aren't just a maintenance issue — they're a financial liability that affects insurance, resale value, and peace of mind. After 23 years helping Tampa Bay families buy homes, I've seen too many buyers get blindsided by polybutylene problems.
+Polybutylene pipes in Florida homes aren't just a maintenance issue — they're a financial liability that affects insurance, resale value, and peace of mind. After over a decade helping Tampa Bay families buy homes, I've seen too many buyers get blindsided by polybutylene problems.
 
 The smart approach:
 1. **Assume any 1978-1995 home has polybutylene until proven otherwise**

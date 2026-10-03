@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Homeschool Guide for Relocating Families"
 metaTitle: "Tampa Bay Homeschool Guide for Relocating Families | TB Relo"
-metaDescription: "Tampa Bay Homeschool Guide for Relocating Families. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa Bay Homeschool Guide for Relocating Families. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Education"
 subcategory: "School Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "homeschool Tampa Bay Florida"
 publishedAt: "2026-04-01T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2026-04-01T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/tampa-bay-homeschool-guide.webp"
 
 Moving to Tampa Bay and considering homeschooling your kids? You're in good company. Florida's homeschool-friendly laws and Tampa Bay's robust support network make this one of the best places in the country to educate your children at home.
 
-After 23+ years helping families relocate here, I've watched the homeschool community explode. What started as scattered support groups has evolved into a sophisticated network of co-ops, resources, and educational opportunities that rivals any school district.
+After over a decade helping families relocate here, I've watched the homeschool community explode. What started as scattered support groups has evolved into a sophisticated network of co-ops, resources, and educational opportunities that rivals any school district.
 
 Let me walk you through everything you need to know about homeschooling in Tampa Bay — from legal requirements to finding your tribe.
 
@@ -283,7 +283,7 @@ Many special needs homeschool families find co-op participation challenging init
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

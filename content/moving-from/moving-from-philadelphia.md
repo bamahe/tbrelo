@@ -87,4 +87,4 @@ It's not South Philly Italian. You'll find good Italian restaurants, but the nei
 ### Will I miss having Wawa?
 Wawa has expanded into Florida with multiple Tampa Bay locations. You're covered. Welcome to Florida, where your Hoagiefest dreams live on.
 
-*Ready to make the move? Barrett Henry has been helping families relocate to Tampa Bay for over 23 years. {{nowtb}}*
+*Ready to make the move? Barrett Henry has been helping families relocate to Tampa Bay for over a decade. {{nowtb}}*

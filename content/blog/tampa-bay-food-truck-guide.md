@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Food Truck Scene — Where to Find Them"
 metaTitle: "Tampa Bay Food Truck Scene — Where to Find Them | TB Relo"
-metaDescription: "Tampa Bay Food Truck Scene. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa Bay Food Truck Scene. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Seasonal / Events"
 subcategory: "Event Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Tampa Bay food trucks"
 publishedAt: "2025-04-20T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-04-20T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/tampa-bay-food-truck-guide.webp"
 ---
 
-Tampa Bay's food truck scene isn't just about grabbing lunch from a window — it's become a legitimate dining culture that rivals our brick-and-mortar restaurants. After 23 years here, I've watched converted trailers evolve into mobile culinary experiences that often outshine establishments paying $15,000 a month in rent.
+Tampa Bay's food truck scene isn't just about grabbing lunch from a window — it's become a legitimate dining culture that rivals our brick-and-mortar restaurants. After more than a decade here, I've watched converted trailers evolve into mobile culinary experiences that often outshine establishments paying $15,000 a month in rent.
 
 The real magic happens when you understand the rhythm. These aren't random trucks wandering neighborhoods hoping someone's hungry. Tampa Bay food trucks operate on schedules tighter than most restaurants, with dedicated followings that track their every move through social media.
 
@@ -207,7 +207,7 @@ Florida requires food trucks to display health department inspection results. Lo
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

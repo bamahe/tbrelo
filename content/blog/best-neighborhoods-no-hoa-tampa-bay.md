@@ -13,7 +13,7 @@ Not everyone wants a homeowners association telling them what color to paint the
 
 The catch: most newer developments (built after 2000) come with an HOA. To find no-HOA properties, you're generally looking at older, established neighborhoods or more rural pockets of the region. That's not a bad thing. Many of these areas have larger lots, mature trees, and more character than cookie-cutter subdivisions.
 
-Here's where to look, based on 23+ years of real estate experience working the Tampa Bay market.
+Here's where to look, based on 24+ years of real estate experience working the Tampa Bay market.
 
 ## What Parts of Brandon Have No HOA?
 

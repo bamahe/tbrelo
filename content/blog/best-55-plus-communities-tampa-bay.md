@@ -9,7 +9,7 @@ updatedAt: "2026-03-15"
 
 ## Best 55+ Communities in Tampa Bay — The Honest Rankings
 
-Tampa Bay is one of the top retirement destinations in the country, and the 55+ community options reflect that. But they're not all created equal. Some are resort-style villages with more amenities than a cruise ship. Others are quieter, simpler communities that focus on low-maintenance living without the bells and whistles. After 23 years of helping retirees and active adults relocate here, these are my honest rankings.
+Tampa Bay is one of the top retirement destinations in the country, and the 55+ community options reflect that. But they're not all created equal. Some are resort-style villages with more amenities than a cruise ship. Others are quieter, simpler communities that focus on low-maintenance living without the bells and whistles. After over a decade of helping retirees and active adults relocate here, these are my honest rankings.
 
 ## #1 — Sun City Center
 
@@ -115,4 +115,4 @@ I include this because every other client asks about it. Yes, it's real. Yes, it
 
 {{nowtb}} specializes in matching active adults with the right 55+ community based on budget, lifestyle, and priorities. The right community isn't the one with the best brochure — it's the one that fits how you actually want to live.
 
-*Ready to explore 55+ communities in Tampa Bay? Barrett Henry has been helping retirees find their perfect landing spot for over 23 years. {{nowtb}}*
+*Ready to explore 55+ communities in Tampa Bay? Barrett Henry has been helping retirees find their perfect landing spot for over 24 years. {{nowtb}}*

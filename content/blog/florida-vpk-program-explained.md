@@ -1,7 +1,7 @@
 ---
 title: "Florida VPK Program Explained — Free Preschool for 4-Year-Olds"
 metaTitle: "Florida VPK Program Explained — Free Preschool for 4-Year-Olds | TB Relo"
-metaDescription: "Florida VPK Program Explained. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Florida VPK Program Explained. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Education"
 subcategory: "School Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Florida VPK free preschool"
 publishedAt: "2026-04-05T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2026-04-05T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/florida-vpk-program-explained.webp"
 
 If you're moving to Florida with a 4-year-old, you just hit the educational lottery. The Voluntary Prekindergarten (VPK) program gives every eligible child 540 hours of free preschool education. No income limits. No waiting lists. Just free, quality early education that prepares your kid for kindergarten.
 
-After 23 years helping families relocate to Tampa Bay, I've seen the relief on parents' faces when they discover VPK. One less massive expense to worry about during a move. But like any government program, VPK has rules, deadlines, and quirks you need to understand.
+After over a decade helping families relocate to Tampa Bay, I've seen the relief on parents' faces when they discover VPK. One less massive expense to worry about during a move. But like any government program, VPK has rules, deadlines, and quirks you need to understand.
 
 
 ## What Is Florida's VPK Program?

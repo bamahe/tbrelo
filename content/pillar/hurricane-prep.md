@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Hurricane Preparedness — Season Guide, Supply Checklist, and Evacuation Zones"
 metaTitle: "Tampa Bay Hurricane Prep Guide: Evacuation Zones, Insurance & Supplies (2026) | TB Relo"
-metaDescription: "Complete Tampa Bay hurricane guide — evacuation zones by county, insurance requirements, supply checklist, shelter locations, and honest advice from a 23-year local."
+metaDescription: "Complete Tampa Bay hurricane guide — evacuation zones by county, insurance requirements, supply checklist, shelter locations, and honest advice from a longtime local."
 type: pillar
 publishedAt: "2026-03-15"
 updatedAt: "2026-03-15"
@@ -257,7 +257,7 @@ Pets need a plan too:
 
 ## The Real Talk About Living in Hurricane Country
 
-After 23+ years in Tampa Bay, here's my honest perspective:
+After over a decade in Tampa Bay, here's my honest perspective:
 
 **Most years, hurricane season is a non-event.** You'll watch a few storms form in the Atlantic, track them for a day or two, and they'll turn north or fizzle out. You'll stock up on supplies in May, forget about them by July, and find expired granola bars in December.
 
@@ -284,4 +284,4 @@ Condo associations typically have their own hurricane plans, including shutter/i
 ### What about tornado risk?
 Florida actually leads the nation in tornadoes per square mile, but most are weak (EF0-EF1) and short-lived, often spawned by tropical systems. Tampa Bay does get occasional tornadoes, especially during summer thunderstorms. Interior rooms on the lowest floor are your safe space.
 
-*Thinking about relocating to Tampa Bay? Barrett Henry has been helping families move to Tampa Bay for over 23 years. {{nowtb}}*
+*Thinking about relocating to Tampa Bay? Barrett Henry has been helping families move to Tampa Bay for over a decade. {{nowtb}}*

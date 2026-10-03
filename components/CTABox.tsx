@@ -12,7 +12,7 @@ interface CTABoxProps {
 const ctas = {
   realtor: {
     headline: 'Moving to Tampa Bay? Get a Local Expert.',
-    body: 'Barrett Henry is a Broker Associate with REMAX Collective and over 23 years of real estate experience. Straight talk, smart strategy, no pressure.',
+    body: 'Barrett Henry is a Broker Associate with REMAX Collective and over 24 years of real estate experience. Straight talk, smart strategy, no pressure.',
     cta: 'Contact Barrett',
     url: 'https://nowtb.com',
     phone: '(813) 733-7907',

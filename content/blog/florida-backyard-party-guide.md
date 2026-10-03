@@ -1,7 +1,7 @@
 ---
 title: "How to Throw a Florida Backyard Party That Doesn't Suck"
 metaTitle: "How to Throw a Florida Backyard Party That Doesn't Suck | TB Relo"
-metaDescription: "How to Throw a Florida Backyard Party That Doesn't Suck. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "How to Throw a Florida Backyard Party That Doesn't Suck. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Florida Life"
 subcategory: "Survival Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Florida outdoor party tips"
 publishedAt: "2024-09-21T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-09-21T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/florida-backyard-party-guide.webp"
 ---
 
-Listen, I've been to enough Florida backyard parties to know the difference between the ones people still talk about months later and the ones where everyone bolts by 7 PM. After 23 years of living here and helping families settle into [Tampa Bay](/counties/hillsborough/), I've learned that throwing a successful Florida party isn't about having the biggest pool or the fanciest grill—it's about outsmarting the elements that make Florida simultaneously amazing and challenging.
+Listen, I've been to enough Florida backyard parties to know the difference between the ones people still talk about months later and the ones where everyone bolts by 7 PM. After over a decade of living here and helping families settle into [Tampa Bay](/counties/hillsborough/), I've learned that throwing a successful Florida party isn't about having the biggest pool or the fanciest grill—it's about outsmarting the elements that make Florida simultaneously amazing and challenging.
 
 The good news? Once you nail the basics, your backyard becomes the neighborhood gathering spot. The bad news? Ignore these fundamentals, and you'll be hosting mosquito buffets where your guests spend more time swatting than socializing.
 
@@ -129,7 +129,7 @@ Candles in mason jars or hurricane lanterns provide intimate lighting while the 
 
 ---
 
-**Planning a Florida move?** Barrett Henry knows which Tampa Bay neighborhoods have the best backyards for entertaining. 23 years of local experience means honest advice about everything from drainage to deed restrictions.
+**Planning a Florida move?** Barrett Henry knows which Tampa Bay neighborhoods have the best backyards for entertaining. over a decade of local experience means honest advice about everything from drainage to deed restrictions.
 
 [Get Local Insights →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

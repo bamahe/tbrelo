@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Daycare & Preschool — 30 Questions Answered"
 metaTitle: "Tampa Bay Daycare & Preschool FAQ — Questions Answered by a Local REALTOR® | TB Relo"
-metaDescription: "Get answers to 30 common questions about daycare, preschool, VPK, and childcare options in Tampa Bay from a REALTOR® with 23+ years of real estate experience."
+metaDescription: "Get answers to 30 common questions about daycare, preschool, VPK, and childcare options in Tampa Bay from a REALTOR® with 24+ years of real estate experience."
 type: question
 category: "Schools & Education"
 publishedAt: "2026-04-13"
@@ -130,4 +130,4 @@ Several centers in Tampa Bay offer drop-in or hourly care for parents who need o
 
 ### How does Barrett Henry help families with young children find the right neighborhood?
 
-With 23+ years of real estate experience, I understand that buying a home with young kids means thinking about daycare availability, preschool proximity, elementary school zones, parks, and family-friendly community amenities all at once. I help families layer those priorities onto their budget and commute needs so they land in a neighborhood that works today and as their kids grow.
+With 24+ years of real estate experience, I understand that buying a home with young kids means thinking about daycare availability, preschool proximity, elementary school zones, parks, and family-friendly community amenities all at once. I help families layer those priorities onto their budget and commute needs so they land in a neighborhood that works today and as their kids grow.

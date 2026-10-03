@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Neighborhoods Guide — Where to Live in Every County"
 metaTitle: "Best Tampa Bay Neighborhoods by County (2026 Local Guide) | TB Relo"
-metaDescription: "Honest neighborhood breakdowns across all 8 Tampa Bay counties. Best areas for families, singles, retirees, and investors from a 23-year local."
+metaDescription: "Honest neighborhood breakdowns across all 8 Tampa Bay counties. Best areas for families, singles, retirees, and investors from a longtime local."
 type: pillar
 publishedAt: "2026-03-15"
 updatedAt: "2026-03-15"
@@ -11,7 +11,7 @@ updatedAt: "2026-03-15"
 
 Tampa Bay isn't one place — it's dozens of distinct communities spread across eight counties, each with a completely different personality. Pick the wrong neighborhood and you'll spend two years complaining about your commute, your neighbors, or the lack of anything to do within 20 minutes. Pick the right one and you'll wonder why you didn't move here sooner.
 
-I've been helping families find their neighborhood in Tampa Bay for over 23 years. The advice I give everyone is the same: rent first if you can, spend weekends exploring different areas, and don't just trust what you see on a Saturday afternoon — drive the commute on a Monday at 7:45 AM.
+I've been helping families find their neighborhood in Tampa Bay for over a decade. The advice I give everyone is the same: rent first if you can, spend weekends exploring different areas, and don't just trust what you see on a Saturday afternoon — drive the commute on a Monday at 7:45 AM.
 
 This guide breaks down every major neighborhood across all eight counties, rated by what actually matters: affordability, schools, commute, nightlife, and family-friendliness.
 
@@ -433,4 +433,4 @@ Different, not better. [Pinellas](/counties/pinellas/) is denser, closer to beac
 ### Can I find a good home under $300K?
 Yes, but you're looking at [Pasco County](/counties/pasco/) (north and east), [Hernando County](/counties/hernando/), [Polk County](/counties/polk/), [Citrus County](/counties/citrus/), or select areas of eastern [Hillsborough](/counties/hillsborough/). In [Pinellas](/counties/pinellas/) under $300K, you're looking at condos or fixer-uppers. If you want to skip HOA fees and keep costs down, check out the [best neighborhoods with no HOA in Tampa Bay](/blog/best-neighborhoods-no-hoa-tampa-bay/).
 
-*Thinking about relocating to Tampa Bay? Barrett Henry has been helping families move to Tampa Bay for over 23 years. {{nowtb}}*
+*Thinking about relocating to Tampa Bay? Barrett Henry has been helping families move to Tampa Bay for over a decade. {{nowtb}}*

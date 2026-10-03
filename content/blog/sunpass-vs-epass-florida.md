@@ -1,7 +1,7 @@
 ---
 title: "SunPass vs E-Pass — Which Florida Toll Transponder Do You Need?"
 metaTitle: "SunPass vs E-Pass — Which Florida Toll Transponder Do You Need? | TB Relo"
-metaDescription: "SunPass vs E-Pass. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "SunPass vs E-Pass. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Transportation"
 subcategory: "Commute Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "SunPass vs E-Pass Florida"
 publishedAt: "2026-02-06T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2026-02-06T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/sunpass-vs-epass-florida.webp"
 
 Moving to Tampa Bay means navigating one of Florida's most toll-heavy regions. Between the Selmon Expressway, Veterans Expressway, and Suncoast Parkway, you'll rack up toll charges faster than you can say "traffic jam on I-275." The question isn't whether you need a toll transponder — it's which one.
 
-After 23 years helping families relocate here, I've seen too many newcomers get burned by choosing the wrong transponder or, worse, trying to go without one. Here's everything you need to know about SunPass vs E-Pass to make the right choice for your Tampa Bay commute.
+After over a decade helping families relocate here, I've seen too many newcomers get burned by choosing the wrong transponder or, worse, trying to go without one. Here's everything you need to know about SunPass vs E-Pass to make the right choice for your Tampa Bay commute.
 
 
 ## The Real Cost of Going Without a Transponder
@@ -173,7 +173,7 @@ Both SunPass and E-Pass offer family account options where multiple transponders
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -232,7 +232,7 @@ The $30-40 total initial investment pays for itself within your first month of r
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

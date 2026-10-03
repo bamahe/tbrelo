@@ -114,4 +114,4 @@ The financial advantages of living in Florida (no income tax, competitive housin
 
 {{nowtb}} factors insurance costs into every home recommendation. I'll tell you when a home's roof age, flood zone, or construction type will make it expensive to insure — before you fall in love with it.
 
-*Navigating Florida's insurance market? Barrett Henry has been guiding relocators through every aspect of Tampa Bay real estate for over 23 years. {{nowtb}}*
+*Navigating Florida's insurance market? Barrett Henry has been guiding relocators through every aspect of Tampa Bay real estate for over a decade. {{nowtb}}*

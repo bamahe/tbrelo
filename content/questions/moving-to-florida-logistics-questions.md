@@ -1,14 +1,14 @@
 ---
 title: "Moving to Florida Logistics — 30 Questions Answered"
 metaTitle: "Moving to Florida Logistics FAQ — Questions Answered by a Local REALTOR® | TB Relo"
-metaDescription: "Moving to Florida logistics questions answered by a REALTOR® with 23+ years of real estate experience. Costs, timing, movers, checklists, and tips."
+metaDescription: "Moving to Florida logistics questions answered by a REALTOR® with 24+ years of real estate experience. Costs, timing, movers, checklists, and tips."
 type: question
 category: "Moving & Logistics"
 publishedAt: "2026-04-13"
 updatedAt: "2026-04-13"
 ---
 
-After helping hundreds of families relocate to Tampa Bay over 23+ years of real estate experience, I have seen every variation of the moving process. The logistics of a cross-state move can feel overwhelming, but a good plan makes all the difference. Here are the questions I get asked most.
+After helping hundreds of families relocate to Tampa Bay over 24+ years of real estate experience, I have seen every variation of the moving process. The logistics of a cross-state move can feel overwhelming, but a good plan makes all the difference. Here are the questions I get asked most.
 
 ## Frequently Asked Questions
 

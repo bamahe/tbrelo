@@ -1,7 +1,7 @@
 ---
 title: "International Relocation to Tampa Bay — Visa, Culture, and Housing"
 metaTitle: "International Relocation to Tampa Bay — Visa, Culture, and Housing | TB Relo"
-metaDescription: "International Relocation to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "International Relocation to Tampa Bay. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Demographic / Niche"
 subcategory: "Audience Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "move to Tampa Bay international"
 publishedAt: "2026-01-09T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2026-01-09T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/international-relocation-tampa-bay.webp"
 ---
 
-Moving to Tampa Bay from another country isn't just about finding a house — it's about navigating visa requirements, understanding American culture, and figuring out everything from banking to school enrollment. After 23+ years helping international families relocate here, I've seen the common hurdles and know what actually works.
+Moving to Tampa Bay from another country isn't just about finding a house — it's about navigating visa requirements, understanding American culture, and figuring out everything from banking to school enrollment. After over a decade helping international families relocate here, I've seen the common hurdles and know what actually works.
 
 Tampa Bay attracts international relocators for good reason: no state income tax, year-round warmth, major international airport connections, and a surprisingly diverse economy. But success depends on preparation. Let me walk you through what you really need to know.
 
@@ -185,7 +185,7 @@ Many international professionals start in related fields while pursuing full lic
 
 ---
 
-**Ready to Navigate Your International Move?** Barrett Henry understands the complexities international families face. Over 23 years of experience helping newcomers find their Tampa Bay home.
+**Ready to Navigate Your International Move?** Barrett Henry understands the complexities international families face. Over 24 years of real estate experience helping newcomers find their Tampa Bay home.
 
 [Start Your Search →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

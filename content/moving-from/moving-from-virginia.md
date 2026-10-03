@@ -79,4 +79,4 @@ Virginia has excellent public schools, especially in NoVA (Fairfax County is nat
 ### Is Virginia Beach better than Tampa Bay beaches?
 Different. Virginia Beach has a boardwalk and Atlantic surf. Tampa Bay has calmer Gulf water, whiter sand, and warmer temperatures. Most Virginia transplants prefer the Gulf beaches.
 
-*Ready to make the move? Barrett Henry has been helping families relocate to Tampa Bay for over 23 years. {{nowtb}}*
+*Ready to make the move? Barrett Henry has been helping families relocate to Tampa Bay for over a decade. {{nowtb}}*

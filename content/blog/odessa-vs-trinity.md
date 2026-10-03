@@ -88,7 +88,7 @@ The lifestyle in Trinity is classic family suburban. Youth sports leagues, commu
 
 {{nowtb}} can help you navigate the county-line details in Odessa and identify the best-value neighborhoods in Trinity. Both are among Tampa Bay's top family destinations.
 
-*Barrett Henry has been helping families relocate to Tampa Bay for over 23 years. {{nowtb}}*
+*Barrett Henry has been helping families relocate to Tampa Bay for over a decade. {{nowtb}}*
 
 ## Frequently Asked Questions
 

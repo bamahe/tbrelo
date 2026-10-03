@@ -1,14 +1,14 @@
 ---
 title: "Cost of Living in Tampa Bay — 30 Questions Answered"
 metaTitle: "Cost of Living in Tampa Bay FAQ — Questions Answered by a Local REALTOR® | TB Relo"
-metaDescription: "How much does it cost to live in Tampa Bay? A local REALTOR® with 23+ years of real estate experience answers 30 common questions about housing, groceries, utilities, and more."
+metaDescription: "How much does it cost to live in Tampa Bay? A local REALTOR® with 24+ years of real estate experience answers 30 common questions about housing, groceries, utilities, and more."
 type: question
 category: "Cost of Living"
 publishedAt: "2026-04-13"
 updatedAt: "2026-04-13"
 ---
 
-Tampa Bay is one of the most popular relocation destinations in the country, and cost of living is usually the first thing people research. These are the questions I hear most from people considering a move to the area, answered from 23+ years of real estate experience.
+Tampa Bay is one of the most popular relocation destinations in the country, and cost of living is usually the first thing people research. These are the questions I hear most from people considering a move to the area, answered from 24+ years of real estate experience.
 
 ## Frequently Asked Questions
 

@@ -91,4 +91,4 @@ Dunedin hosts regular festivals — Highland Games (Scottish heritage), craft be
 
 {{nowtb}} knows every neighborhood in upper Pinellas and can help you find the right fit — whether that's a Clearwater Beach condo or a Dunedin bungalow within walking distance of Main Street.
 
-*Ready to find your spot on the Gulf Coast? Barrett Henry has been helping families relocate to Tampa Bay for over 23 years. {{nowtb}}*
+*Ready to find your spot on the Gulf Coast? Barrett Henry has been helping families relocate to Tampa Bay for over a decade. {{nowtb}}*

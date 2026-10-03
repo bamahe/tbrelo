@@ -1,7 +1,7 @@
 ---
 title: "Florida Lizards: A Field Guide to Your New Roommates"
 metaTitle: "Florida Lizards: A Field Guide to Your New Roommates | TB Relo"
-metaDescription: "Florida Lizards: A Field Guide to Your New Roommates. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Florida Lizards: A Field Guide to Your New Roommates. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Florida Life"
 subcategory: "Survival Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Florida lizards types"
 publishedAt: "2024-09-01T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-09-01T08:00:00-04:00"
@@ -27,7 +27,7 @@ You're about to move to Florida, and someone just told you about the lizards. "D
 
 Welcome to Florida, where lizards aren't just wildlife — they're your new neighbors. And unlike your human neighbors, these guys actually help with pest control.
 
-After 23+ years of showing Tampa Bay homes, I've seen every reaction to Florida's reptilian welcoming committee. Some folks love them immediately. Others need time to adjust to sharing their lanai with what looks like a miniature dragon. Either way, you're going to encounter them, so let's get acquainted.
+After over a decade of showing Tampa Bay homes, I've seen every reaction to Florida's reptilian welcoming committee. Some folks love them immediately. Others need time to adjust to sharing their lanai with what looks like a miniature dragon. Either way, you're going to encounter them, so let's get acquainted.
 
 ## The Big Three: Your Most Common Encounters
 
@@ -190,7 +190,7 @@ Whether you end up naming the anoles on your porch or simply learning to coexist
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

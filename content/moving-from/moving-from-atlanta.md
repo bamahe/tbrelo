@@ -92,4 +92,4 @@ No. Tampa Bay does not get ice. Ever. The coldest it gets is the mid-30s on rare
 ### Can I still easily visit Atlanta?
 Absolutely. It's a 7-hour drive or a 1.5-hour direct flight from Tampa International. Many Tampa Bay residents maintain close ties with Atlanta. Weekend trips are totally doable.
 
-*Ready to make the move? Barrett Henry has been helping families relocate to Tampa Bay for over 23 years. {{nowtb}}*
+*Ready to make the move? Barrett Henry has been helping families relocate to Tampa Bay for over a decade. {{nowtb}}*

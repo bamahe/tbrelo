@@ -1,7 +1,7 @@
 ---
 title: "Florida Road Rage Decoded — What Each Honk Pattern Means"
 metaTitle: "Florida Road Rage Decoded — What Each Honk Pattern Means | TB Relo"
-metaDescription: "Florida Road Rage Decoded. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Florida Road Rage Decoded. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Florida Life"
 subcategory: "Survival Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Florida driving culture"
 publishedAt: "2024-10-22T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-10-22T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/florida-road-rage-humor.webp"
 ---
 
-After 23 years helping families relocate to Tampa Bay, I've noticed something: nothing prepares newcomers for Florida driving culture quite like their first trip down I-275 during rush hour. The honking alone sounds like a symphony of rage, confusion, and passive-aggressive commentary.
+After over a decade helping families relocate to Tampa Bay, I've noticed something: nothing prepares newcomers for Florida driving culture quite like their first trip down I-275 during rush hour. The honking alone sounds like a symphony of rage, confusion, and passive-aggressive commentary.
 
 But here's the thing — Florida honks aren't random. There's actually a complex communication system happening on our roads, and once you decode it, you'll navigate Tampa Bay traffic like a local. Consider this your unofficial driver's manual for surviving the Sunshine State's most chaotic roadways.
 
@@ -99,7 +99,7 @@ Shopping center honks follow different rules entirely. At WestShore Plaza or Int
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

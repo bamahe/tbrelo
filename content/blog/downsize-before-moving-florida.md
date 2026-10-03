@@ -1,7 +1,7 @@
 ---
 title: "How to Downsize Before Moving to Florida"
 metaTitle: "How to Downsize Before Moving to Florida | TB Relo"
-metaDescription: "How to Downsize Before Moving to Florida. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "How to Downsize Before Moving to Florida. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Relocation Logistics"
 subcategory: "How-To"
@@ -9,7 +9,7 @@ primaryKeyword: "downsize before moving"
 publishedAt: "2025-11-13T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-11-13T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/downsize-before-moving-florida.webp"
 ---
 
-Moving to Florida already feels overwhelming, and then you realize your Chicago three-bedroom won't fit into that Tampa Bay condo you fell in love with. I've watched hundreds of families navigate this reality over 23 years, and downsizing before your move isn't just smart — it's essential.
+Moving to Florida already feels overwhelming, and then you realize your Chicago three-bedroom won't fit into that Tampa Bay condo you fell in love with. I've watched hundreds of families navigate this reality over 24 years, and downsizing before your move isn't just smart — it's essential.
 
 The math is simple: every item you move costs money and stress. A full-service move from Illinois to Tampa runs about $4,500-6,800 for a three-bedroom house. Cut that load in half, and you're saving $2,000-3,000 right off the bat. More importantly, you're starting fresh in Florida instead of cramming a previous life into a new space.
 
@@ -202,7 +202,7 @@ Consider shipping a small box of must-keep items separately instead of letting s
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

@@ -1,7 +1,7 @@
 ---
 title: "Living in New Port Richey vs Port Richey — What It's Really Like (Honest Relocation Guide)"
 metaTitle: "Living in New Port Richey vs Port Richey — What It's Really Like (Honest Relocation Guide) | TB Relo"
-metaDescription: "Living in New Port Richey vs Port Richey. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Living in New Port Richey vs Port Richey. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Neighborhoods"
 subcategory: "Deep Dive"
@@ -9,7 +9,7 @@ primaryKeyword: "living in New Port Richey vs Port Richey FL"
 publishedAt: "2025-03-07T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-03-07T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: /images/blog/default.webp
 ---
 
-You're looking at two cities with nearly identical names, separated by about three miles and a world of difference in how they feel to live in. After 23+ years selling homes in Tampa Bay, I've walked countless families through both New Port Richey and Port Richey, and the choice between them comes down to what you value most: affordability or amenities.
+You're looking at two cities with nearly identical names, separated by about three miles and a world of difference in how they feel to live in. After over a decade selling homes in Tampa Bay, I've walked countless families through both New Port Richey and Port Richey, and the choice between them comes down to what you value most: affordability or amenities.
 
 Let me cut through the confusion and give you the real story on both cities.
 
@@ -62,7 +62,7 @@ The reality? Port Richey feels more like old Florida — smaller lots, older hom
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -248,7 +248,7 @@ Both cities face identical weather patterns — this is Florida's Nature Coast a
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

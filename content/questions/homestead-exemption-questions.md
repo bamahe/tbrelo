@@ -1,7 +1,7 @@
 ---
 title: "Homestead Exemption in Florida — 30 Questions Answered"
 metaTitle: "Homestead Exemption FAQ — Questions Answered by a Local REALTOR® | TB Relo"
-metaDescription: "Florida homestead exemption questions answered by a REALTOR® with 23+ years of real estate experience. Filing, eligibility, savings, portability, and more."
+metaDescription: "Florida homestead exemption questions answered by a REALTOR® with 24+ years of real estate experience. Filing, eligibility, savings, portability, and more."
 type: question
 category: "Taxes & Finance"
 publishedAt: "2026-04-13"

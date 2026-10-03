@@ -1,7 +1,7 @@
 ---
 title: "How to Make Friends as a Florida Transplant (It's Different Here)"
 metaTitle: "How to Make Friends as a Florida Transplant (It's Different Here) | TB Relo"
-metaDescription: "How to Make Friends as a Florida Transplant (It's Different Here). Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "How to Make Friends as a Florida Transplant (It's Different Here). Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Florida Life"
 subcategory: "Survival Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "making friends after moving Florida"
 publishedAt: "2024-09-26T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-09-26T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/making-friends-florida-transplant.webp"
 ---
 
-Let me be straight with you: making friends as an adult in Florida hits differently than anywhere else I've lived in 23 years of helping people relocate here. The good news? Once you crack the code, Tampa Bay has some of the most genuine, fun-loving people you'll ever meet. The bad news? You can't use your old playbook.
+Let me be straight with you: making friends as an adult in Florida hits differently than anywhere else I've lived in over a decade of helping people relocate here. The good news? Once you crack the code, Tampa Bay has some of the most genuine, fun-loving people you'll ever meet. The bad news? You can't use your old playbook.
 
 I've watched thousands of transplants navigate this exact challenge. Some figure it out in three months and build lifelong friendships. Others spend two years wondering why everyone seems surface-level friendly but nothing sticks. The difference isn't personality or luck — it's strategy.
 
@@ -124,7 +124,7 @@ The key is committing to regular volunteer work, not one-off events. People need
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -220,7 +220,7 @@ Building genuine friendships in Florida takes 6-12 months of consistent effort. 
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

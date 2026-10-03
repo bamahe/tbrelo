@@ -46,7 +46,7 @@ Yes, several. King of Peace MCC in St. Pete, MCC Tampa, and Spirit of Life UCC a
 
 ### How is the LGBTQ+ real estate market in Tampa Bay?
 
-LGBTQ+ buyers and sellers work with agents across the area without issue. I have 23+ years of real estate experience and as a gay REALTOR myself, I understand the specific concerns LGBTQ+ clients may have about neighborhood feel and community fit. The National Association of REALTORS prohibits discrimination and Tampa Bay agents widely support this.
+LGBTQ+ buyers and sellers work with agents across the area without issue. I have 24+ years of real estate experience and as a gay REALTOR myself, I understand the specific concerns LGBTQ+ clients may have about neighborhood feel and community fit. The National Association of REALTORS prohibits discrimination and Tampa Bay agents widely support this.
 
 ### Are there LGBTQ+-friendly healthcare providers?
 

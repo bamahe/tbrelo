@@ -1,7 +1,7 @@
 ---
 title: "Best Ceiling Fans for Florida Homes — Indoor and Outdoor"
 metaTitle: "Best Ceiling Fans for Florida Homes — Indoor and Outdoor | TB Relo"
-metaDescription: "Best Ceiling Fans for Florida Homes. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Best Ceiling Fans for Florida Homes. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Affiliate / Products"
 subcategory: "Product Roundup"
@@ -9,7 +9,7 @@ primaryKeyword: "best ceiling fans Florida"
 publishedAt: "2025-09-23T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-09-23T08:00:00-04:00"
@@ -184,7 +184,7 @@ Humidity can warp wooden blades, creating wobbles. Quality fans use composite or
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -283,7 +283,7 @@ Most Florida homeowners rarely change fan direction. If you're not going to reme
 
 ## Final Recommendations
 
-After 23+ years of Florida real estate and countless fan installations, here's my straightforward advice:
+After over a decade of Florida real estate and countless fan installations, here's my straightforward advice:
 
 **For most Florida homes:** Go with the Hunter Douglas Vogue for main living areas. It's reliable, efficient, and handles our climate well at a reasonable price point.
 

@@ -1,7 +1,7 @@
 ---
 title: "The Real Cost of Pool Ownership in Florida (It's Not What You Think)"
 metaTitle: "The Real Cost of Pool Ownership in Florida (It's Not What You Think) | TB Relo"
-metaDescription: "The Real Cost of Pool Ownership in Florida (It's Not What You Think). Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "The Real Cost of Pool Ownership in Florida (It's Not What You Think). Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Florida Life"
 subcategory: "Survival Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "cost of pool Florida"
 publishedAt: "2024-09-05T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-09-05T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/florida-pool-ownership-cost.webp"
 ---
 
-After 23 years of showing homes across Tampa Bay, I've had this conversation roughly 10,000 times: "Oh, we definitely want a pool!" Then, about six months after closing, I get the follow-up call: "Barrett, nobody told me about the electric bill."
+After over a decade of showing homes across Tampa Bay, I've had this conversation roughly 10,000 times: "Oh, we definitely want a pool!" Then, about six months after closing, I get the follow-up call: "Barrett, nobody told me about the electric bill."
 
 Welcome to pool ownership in the Sunshine State, where that crystal-clear backyard oasis comes with some murky financial realities. Let me break down what you're *actually* signing up for — because the surprises start way before you take your first dip.
 
@@ -217,7 +217,7 @@ Be honest about your budget. Between loan payments, operating costs, and mainten
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

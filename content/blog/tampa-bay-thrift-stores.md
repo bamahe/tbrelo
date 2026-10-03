@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Thrift Store Guide — Where Locals Actually Shop"
 metaTitle: "Tampa Bay Thrift Store Guide — Where Locals Actually Shop | TB Relo"
-metaDescription: "Tampa Bay Thrift Store Guide. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa Bay Thrift Store Guide. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Lifestyle / Food"
 subcategory: "Local Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "thrift stores Tampa Bay"
 publishedAt: "2025-07-26T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-07-26T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/tampa-bay-thrift-stores.webp"
 ---
 
-Listen, I've been showing people around Tampa Bay for 23 years, and inevitably someone asks me about thrift shopping. Maybe they're furnishing their new place on a budget, hunting for vintage finds, or just love the thrill of discovery. The good news? Tampa Bay has some genuinely excellent thrift stores that locals actually frequent — not just tourist traps with overpriced "vintage" signs.
+Listen, I've been showing people around Tampa Bay for over a decade, and inevitably someone asks me about thrift shopping. Maybe they're furnishing their new place on a budget, hunting for vintage finds, or just love the thrill of discovery. The good news? Tampa Bay has some genuinely excellent thrift stores that locals actually frequent — not just tourist traps with overpriced "vintage" signs.
 
 Here's where to find the real deals, organized by what you're actually looking for.
 
@@ -36,7 +36,7 @@ Every transplant knows Goodwill, but here's what the locals know: location matte
 
 Skip the downtown locations unless you're specifically hunting for work clothes. The Ybor Goodwill at 2911 E Columbus Dr gets picked over fast, but if you hit it early Saturday morning, you might score something good.
 
-**Pro tip from 23 years of client house-hunting**: The Goodwill Outlet at 4902 N Armenia Ave sells items by the pound. Bring gloves — you're literally digging through bins. But I've seen people find genuine leather jackets for $3.
+**Pro tip from 24 years of client house-hunting**: The Goodwill Outlet at 4902 N Armenia Ave sells items by the pound. Bring gloves — you're literally digging through bins. But I've seen people find genuine leather jackets for $3.
 
 ### Salvation Army Family Stores: The Furniture Kings
 
@@ -118,7 +118,7 @@ Goodwill has color-coded tags that rotate on sale — usually 50% off a specific
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -210,7 +210,7 @@ Approach with caution, but deals exist. Test everything before buying. The Goodw
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

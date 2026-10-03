@@ -1,7 +1,7 @@
 ---
 title: "How Much House Can You Afford in Tampa Bay? (Calculator + Guide)"
 metaTitle: "How Much House Can You Afford in Tampa Bay? (Calculator + Guide) | TB Relo"
-metaDescription: "How Much House Can You Afford in Tampa Bay? (Calculator + Guide). Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "How Much House Can You Afford in Tampa Bay? (Calculator + Guide). Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Real Estate"
 subcategory: "Buying Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "how much house can I afford Tampa Bay"
 publishedAt: "2024-11-13T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-11-13T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/how-much-house-afford-tampa-bay.webp"
 
 The $400,000 question everyone asks me: "Barrett, how much house can I actually afford in Tampa Bay?" 
 
-After 23 years of helping families navigate this market, I've seen too many people get house-poor or miss out on their dream home because they didn't understand the real numbers. Tampa Bay's median home price hit $385,000 in 2024, but that doesn't tell you what *you* can afford.
+After more than a decade of helping families navigate this market, I've seen too many people get house-poor or miss out on their dream home because they didn't understand the real numbers. Tampa Bay's median home price hit $385,000 in 2024, but that doesn't tell you what *you* can afford.
 
 Let me break down the actual math, the hidden costs everyone forgets, and the Tampa Bay-specific factors that'll make or break your budget.
 
@@ -88,7 +88,7 @@ Spring Hill gives you the most space for your money, but you're looking at 45+ m
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -212,7 +212,7 @@ In Tampa Bay's competitive market, sellers won't look at offers without full pre
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

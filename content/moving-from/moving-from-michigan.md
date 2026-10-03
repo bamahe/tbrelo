@@ -88,4 +88,4 @@ Some specialty stores carry Michigan products, and Amazon delivers. But these be
 ### Is the fishing as good as Michigan?
 Different but arguably better. Michigan has incredible freshwater fishing. Tampa Bay has world-class saltwater fishing — redfish, snook, tarpon, grouper — plus great freshwater bass fishing in [Polk County](/counties/polk/). If you love fishing, Tampa Bay is a significant upgrade in variety and year-round access.
 
-*Ready to make the move? Barrett Henry has been helping families relocate to Tampa Bay for over 23 years. {{nowtb}}*
+*Ready to make the move? Barrett Henry has been helping families relocate to Tampa Bay for over a decade. {{nowtb}}*

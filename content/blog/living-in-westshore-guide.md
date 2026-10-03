@@ -1,7 +1,7 @@
 ---
 title: "Living in Westshore — What It's Really Like (Honest Relocation Guide)"
 metaTitle: "Living in Westshore — What It's Really Like (Honest Relocation Guide) | TB Relo"
-metaDescription: "Living in Westshore. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Living in Westshore. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Neighborhoods"
 subcategory: "Deep Dive"
@@ -9,7 +9,7 @@ primaryKeyword: "living in Westshore FL"
 publishedAt: "2025-01-17T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-01-17T08:00:00-04:00"
@@ -24,7 +24,7 @@ featuredImage: /images/blog/default.webp
 ---
 
 
-Let's cut straight to it: Westshore isn't technically a city. It's Tampa's business district that somehow became one of the most desirable places to live in the entire metro area. After 23+ years selling real estate here, I've watched this area transform from corporate office parks into a legitimate urban neighborhood where people actually want to call home.
+Let's cut straight to it: Westshore isn't technically a city. It's Tampa's business district that somehow became one of the most desirable places to live in the entire metro area. After over a decade selling real estate here, I've watched this area transform from corporate office parks into a legitimate urban neighborhood where people actually want to call home.
 
 Located along Tampa's western edge where the Hillsborough River meets Tampa Bay, Westshore spans roughly from Kennedy Boulevard south to Gandy Boulevard, and from the airport east to Dale Mabry Highway. It's where you'll find Tampa International Airport, countless corporate headquarters, and increasingly, some seriously impressive residential options.
 
@@ -85,7 +85,7 @@ Newer construction or fully renovated homes easily hit $800,000-$1.5 million. Th
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -269,7 +269,7 @@ The premium you pay for Westshore convenience shows up in daily expenses, not ju
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helpful families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helpful families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

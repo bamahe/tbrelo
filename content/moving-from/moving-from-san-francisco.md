@@ -96,4 +96,4 @@ Small but growing. Tampa Bay has a handful of funded startups, USF's entrepreneu
 ### Will I miss California?
 Honestly? You'll miss the food diversity, the mountains, and the Pacific Ocean. You won't miss the taxes, the housing costs, the traffic, or the cost of a simple dinner out. Most SF transplants go through a 3-month adjustment period, then wonder why they didn't move sooner.
 
-*Ready to make the move? Barrett Henry has been helping families relocate to Tampa Bay for over 23 years. {{nowtb}}*
+*Ready to make the move? Barrett Henry has been helping families relocate to Tampa Bay for over a decade. {{nowtb}}*

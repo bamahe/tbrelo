@@ -1,14 +1,14 @@
 ---
 title: "Buying a Home in Tampa Bay — 30 Questions Answered"
 metaTitle: "Buying a Home in Tampa Bay FAQ — Questions Answered by a Local REALTOR® | TB Relo"
-metaDescription: "Everything you need to know about buying a home in Tampa Bay. A REALTOR® with 23+ years of real estate experience answers 30 questions about the buying process."
+metaDescription: "Everything you need to know about buying a home in Tampa Bay. A REALTOR® with 24+ years of real estate experience answers 30 questions about the buying process."
 type: question
 category: "Housing & Real Estate"
 publishedAt: "2026-04-13"
 updatedAt: "2026-04-13"
 ---
 
-Buying a home in Tampa Bay involves some Florida-specific considerations that out-of-state buyers often do not expect. From insurance requirements to inspection priorities, here are 30 questions I answer regularly from buyers — drawn from 23+ years of real estate experience.
+Buying a home in Tampa Bay involves some Florida-specific considerations that out-of-state buyers often do not expect. From insurance requirements to inspection priorities, here are 30 questions I answer regularly from buyers — drawn from 24+ years of real estate experience.
 
 ## Frequently Asked Questions
 

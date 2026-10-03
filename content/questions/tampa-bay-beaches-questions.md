@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Beaches — 30 Questions Answered"
 metaTitle: "Tampa Bay Beaches FAQ — Questions Answered by a Local REALTOR® | TB Relo"
-metaDescription: "Get answers to 30 common questions about Tampa Bay beaches from parking and fees to red tide and dog-friendly spots. Local insight from a REALTOR® with 23+ years of real estate experience."
+metaDescription: "Get answers to 30 common questions about Tampa Bay beaches from parking and fees to red tide and dog-friendly spots. Local insight from a REALTOR® with 24+ years of real estate experience."
 type: question
 category: "Lifestyle & Recreation"
 publishedAt: "2026-04-13"

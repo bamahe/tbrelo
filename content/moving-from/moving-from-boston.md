@@ -91,4 +91,4 @@ Dunkin' is everywhere in Tampa Bay. More locations per capita than you'd expect.
 ### Is Tampa Bay too hot for someone used to cold weather?
 Summer is genuinely hot and humid (June–September). But you've survived Boston winters — you can handle Tampa Bay summers. Most of your life happens in air conditioning during the hottest months, just like most of your Boston life happened in heated buildings during the coldest months. Same concept, opposite thermostat.
 
-*Ready to make the move? Barrett Henry has been helping families relocate to Tampa Bay for over 23 years. {{nowtb}}*
+*Ready to make the move? Barrett Henry has been helping families relocate to Tampa Bay for over a decade. {{nowtb}}*

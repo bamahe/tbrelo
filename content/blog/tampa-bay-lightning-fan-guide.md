@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Lightning Fan Guide for New Residents"
 metaTitle: "Tampa Bay Lightning Fan Guide for New Residents | TB Relo"
-metaDescription: "Tampa Bay Lightning Fan Guide for New Residents. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa Bay Lightning Fan Guide for New Residents. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Seasonal / Events"
 subcategory: "Event Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Tampa Bay Lightning tickets guide"
 publishedAt: "2025-04-21T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-04-21T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/tampa-bay-lightning-fan-guide.webp"
 
 So you're moving to Tampa Bay and wondering what all the Lightning buzz is about? Welcome to Bolts Nation — where hockey isn't just a sport, it's a religion, and Amalie Arena is our cathedral.
 
-After 23 years selling real estate here, I've watched this team transform from struggling expansion club to back-to-back Stanley Cup champions. More importantly, I've seen how Lightning fandom becomes part of your Tampa Bay identity faster than you can say "power play."
+After over a decade selling real estate here, I've watched this team transform from struggling expansion club to back-to-back Stanley Cup champions. More importantly, I've seen how Lightning fandom becomes part of your Tampa Bay identity faster than you can say "power play."
 
 
 ## Why Lightning Hockey Matters in Tampa Bay
@@ -203,7 +203,7 @@ The team's success has created a shared identity among Tampa Bay residents. When
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

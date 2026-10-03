@@ -1,7 +1,7 @@
 ---
 title: "Best Breakfast Spots in Tampa Bay by Neighborhood"
 metaTitle: "Best Breakfast Spots in Tampa Bay by Neighborhood | TB Relo"
-metaDescription: "Best Breakfast Spots in Tampa Bay by Neighborhood. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Best Breakfast Spots in Tampa Bay by Neighborhood. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Lifestyle / Food"
 subcategory: "Local Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "best breakfast Tampa Bay"
 publishedAt: "2025-07-17T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-07-17T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/best-breakfast-tampa-bay.webp"
 ---
 
-Finding a great breakfast spot in Tampa Bay isn't difficult — finding one that doesn't have a 45-minute wait on weekends? That's the real challenge. After 23+ years living here and countless client conversations over coffee, I've mapped out the breakfast scene from Westshore to Wesley Chapel.
+Finding a great breakfast spot in Tampa Bay isn't difficult — finding one that doesn't have a 45-minute wait on weekends? That's the real challenge. After over a decade living here and countless client conversations over coffee, I've mapped out the breakfast scene from Westshore to Wesley Chapel.
 
 This isn't your typical "best of" list filled with tourist traps. These are the places locals actually go, organized by neighborhood so you can find something great near wherever you're staying or considering moving to.
 
@@ -240,7 +240,7 @@ For relocating families, the suburban First Watch and Metro Diner locations prov
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

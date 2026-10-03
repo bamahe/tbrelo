@@ -1,7 +1,7 @@
 ---
 title: "Buying a Home with a Pool in Florida — The Complete Guide"
 metaTitle: "Buying a Home with a Pool in Florida — The Complete Guide | TB Relo"
-metaDescription: "Buying a Home with a Pool in Florida. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Buying a Home with a Pool in Florida. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Real Estate"
 subcategory: "Buying Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "buying house with pool Florida"
 publishedAt: "2024-11-22T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-11-22T08:00:00-04:00"
@@ -212,7 +212,7 @@ Each county has slightly different pool requirements:
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

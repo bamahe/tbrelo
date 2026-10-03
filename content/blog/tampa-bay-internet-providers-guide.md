@@ -153,7 +153,7 @@ Most people overestimate their speed needs. Here's a practical guide:
 2. If you work from home, prioritize upload speed and look for Frontier FiOS
 3. If budget is the priority, try T-Mobile Home Internet ($50/month, no contract)
 4. If you're moving to a rural area, check Starlink availability as a backup plan
-5. Ask your real estate agent about internet at any property you're considering — with 23+ years of real estate experience, [I can tell you](/contact/) which neighborhoods have strong coverage and which ones are frustrating
+5. Ask your real estate agent about internet at any property you're considering — with 24+ years of real estate experience, [I can tell you](/contact/) which neighborhoods have strong coverage and which ones are frustrating
 
 ---
 

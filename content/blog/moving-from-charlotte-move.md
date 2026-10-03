@@ -1,7 +1,7 @@
 ---
 title: "Moving from Charlotte NC to Tampa Bay — The Complete Relocation Guide"
 metaTitle: "Moving from Charlotte NC to Tampa Bay — The Complete Relocation Guide | TB Relo"
-metaDescription: "Moving from Charlotte NC to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Moving from Charlotte NC to Tampa Bay. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Moving From"
 subcategory: "Charlotte NC"
@@ -9,7 +9,7 @@ primaryKeyword: "moving from Charlotte to Tampa Bay"
 publishedAt: "2024-08-05T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-08-05T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/moving-from-charlotte-move.webp"
 ---
 
-Making the jump from Charlotte to Tampa Bay? You're not alone. I've helped dozens of Charlotte families make this exact move over the past 23 years, and there's a clear pattern: they wish they'd done it sooner.
+Making the jump from Charlotte to Tampa Bay? You're not alone. I've helped dozens of Charlotte families make this exact move over the past 24 years, and there's a clear pattern: they wish they'd done it sooner.
 
 Charlotte's a solid city — banking hub, decent cost of living, four seasons. But Tampa Bay offers something Charlotte can't: year-round warmth, no state income tax, and beaches that don't require a weekend road trip. Plus, your dollar stretches further here, and the job market is surprisingly diverse.
 
@@ -97,7 +97,7 @@ College town energy, affordable apartments, diverse food scene. The area around 
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

@@ -103,4 +103,4 @@ Texas and Florida schools are broadly comparable. Both have excellent individual
 ### Can I still get good Tex-Mex?
 Tampa Bay's Mexican food scene is improving but doesn't match Texas. You'll miss breakfast tacos, Whataburger, and authentic Tex-Mex. Bring your own spices and learn to cook it — or find the handful of Texas transplant restaurants that are slowly popping up.
 
-*Ready to make the move? Barrett Henry has been helping families relocate to Tampa Bay for over 23 years. {{nowtb}}*
+*Ready to make the move? Barrett Henry has been helping families relocate to Tampa Bay for over a decade. {{nowtb}}*

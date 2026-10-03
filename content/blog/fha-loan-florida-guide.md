@@ -1,7 +1,7 @@
 ---
 title: "FHA Loans in Florida — What You Need to Know"
 metaTitle: "FHA Loans in Florida — What You Need to Know | TB Relo"
-metaDescription: "FHA Loans in Florida. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "FHA Loans in Florida. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Real Estate"
 subcategory: "Buying Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "FHA loan Florida requirements"
 publishedAt: "2024-11-13T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-11-13T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/fha-loan-florida-guide.webp"
 ---
 
-Looking to buy a home in Florida but worried about that down payment? You're not alone. FHA loans have been the gateway to homeownership for millions of Floridians, and after 23 years of helping families navigate Tampa Bay's real estate market, I've seen these loans work miracles for first-time buyers and repeat purchasers alike.
+Looking to buy a home in Florida but worried about that down payment? You're not alone. FHA loans have been the gateway to homeownership for millions of Floridians, and after over a decade of helping families navigate Tampa Bay's real estate market, I've seen these loans work miracles for first-time buyers and repeat purchasers alike.
 
 Here's the real deal: FHA loans aren't just for people with perfect credit or massive savings accounts. They're designed for regular folks who want to own a home without emptying their retirement fund for a down payment.
 
@@ -272,7 +272,7 @@ Jacksonville, Gainesville, and Tallahassee offer better FHA loan value propositi
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

@@ -1,7 +1,7 @@
 ---
 title: "Florida Home Maintenance — 30 Questions Answered"
 metaTitle: "Florida Home Maintenance FAQ — Questions Answered by a Local REALTOR® | TB Relo"
-metaDescription: "30 expert answers on maintaining a home in Florida, covering AC care, mold prevention, hurricane prep, pest control, and more from a REALTOR® with 23+ years of experience."
+metaDescription: "30 expert answers on maintaining a home in Florida, covering AC care, mold prevention, hurricane prep, pest control, and more from a REALTOR® with 24+ years of real estate experience."
 type: question
 category: "Home & Living"
 publishedAt: "2026-04-13"

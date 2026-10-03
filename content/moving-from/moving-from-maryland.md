@@ -85,4 +85,4 @@ Yes. You stop paying Maryland income tax once you establish Florida domicile. Yo
 ### Is Tampa Bay as diverse as the D.C. suburbs?
 The D.C. metro is exceptionally diverse. Tampa Bay is diverse — strong Hispanic, African American, and growing Asian communities — but at a different scale. Urban [Tampa](/cities/tampa/) and [St. Petersburg](/cities/st-petersburg/) are the most diverse areas.
 
-*Ready to make the move? Barrett Henry has been helping families relocate to Tampa Bay for over 23 years. {{nowtb}}*
+*Ready to make the move? Barrett Henry has been helping families relocate to Tampa Bay for over a decade. {{nowtb}}*

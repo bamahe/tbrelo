@@ -1,7 +1,7 @@
 ---
 title: "FishHawk vs Lithia — Which Is Better for Relocators?"
 metaTitle: "FishHawk vs Lithia — Which Is Better for Relocators? | TB Relo"
-metaDescription: "FishHawk vs Lithia. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "FishHawk vs Lithia. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "City Comparisons"
 subcategory: "Local"
@@ -9,7 +9,7 @@ primaryKeyword: "FishHawk vs Lithia FL"
 publishedAt: "2024-03-30T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-03-30T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/fishhawk-vs-lithia.webp"
 
 You're house hunting in Hillsborough County and keep hearing about FishHawk and Lithia. These neighboring communities in southeast Tampa Bay get mentioned in the same breath, but they're different animals entirely. One's a master-planned community with resort-style amenities and $500K+ homes. The other's an old Florida ranch town going through serious growing pains.
 
-After 23 years selling real estate in Tampa Bay, I've walked countless families through both areas. Here's the straight truth about FishHawk Ranch versus Lithia — what they cost, how they live, and which one might fit your life better.
+After over a decade selling real estate in Tampa Bay, I've walked countless families through both areas. Here's the straight truth about FishHawk Ranch versus Lithia — what they cost, how they live, and which one might fit your life better.
 
 
 ## The Tale of Two Communities
@@ -253,7 +253,7 @@ This creates opportunity for early residents but uncertainty about long-term cha
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

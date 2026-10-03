@@ -1,7 +1,7 @@
 ---
 title: "Florida Utilities Setup — 30 Questions Answered"
 metaTitle: "Florida Utilities Setup FAQ — Questions Answered by a Local REALTOR® | TB Relo"
-metaDescription: "Answers to 30 questions about setting up utilities in Florida including TECO, Duke Energy, water, sewer, internet, and average bills. Local insight from a REALTOR® with 23+ years of real estate experience."
+metaDescription: "Answers to 30 questions about setting up utilities in Florida including TECO, Duke Energy, water, sewer, internet, and average bills. Local insight from a REALTOR® with 24+ years of real estate experience."
 type: question
 category: "Home & Living"
 publishedAt: "2026-04-13"

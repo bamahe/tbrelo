@@ -74,7 +74,7 @@ Call [(813) 443-5751](tel:8134435751) or visit [autorxoftampa.com](https://www.a
 
 ---
 
-The NOW Team — Barrett Henry, REALTOR® helps families discover the local professionals and resources that make Tampa Bay living work. Moving to Tampa Bay and need more than just a house? Barrett has been helping families relocate here for over 23 years.
+The NOW Team — Barrett Henry, REALTOR® helps families discover the local professionals and resources that make Tampa Bay living work. Moving to Tampa Bay and need more than just a house? Barrett has been helping families relocate here for over a decade.
 
 [The NOW Team — Barrett Henry, REALTOR®](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

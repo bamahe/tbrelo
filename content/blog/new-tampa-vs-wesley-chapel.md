@@ -96,4 +96,4 @@ However, Hillsborough County generally has better-funded infrastructure, librari
 
 {{nowtb}} works both sides of the county line and can help you compare specific neighborhoods in New Tampa and Wesley Chapel. Sometimes the right house is one mile north or south of where you thought you'd end up.
 
-*Ready to explore the I-75 corridor? Barrett Henry has been helping families relocate to Tampa Bay for over 23 years. {{nowtb}}*
+*Ready to explore the I-75 corridor? Barrett Henry has been helping families relocate to Tampa Bay for over a decade. {{nowtb}}*

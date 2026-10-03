@@ -1,7 +1,7 @@
 ---
 title: "Florida Sales Tax Explained — What's Taxed and What's Not"
 metaTitle: "Florida Sales Tax Explained — What's Taxed and What's Not | TB Relo"
-metaDescription: "Florida Sales Tax Explained. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Florida Sales Tax Explained. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Practical / Legal"
 subcategory: "Admin Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Florida sales tax rate"
 publishedAt: "2025-06-09T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-06-09T08:00:00-04:00"
@@ -116,7 +116,7 @@ The 2024 back-to-school holiday saved families an average of $67 on school shopp
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -255,7 +255,7 @@ The lack of income tax doesn't mean Florida is tax-free — it just means the ta
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

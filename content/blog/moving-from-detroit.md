@@ -1,7 +1,7 @@
 ---
 title: "Moving from Detroit to Tampa Bay — The Complete Relocation Guide"
 metaTitle: "Moving from Detroit to Tampa Bay — The Complete Relocation Guide | TB Relo"
-metaDescription: "Moving from Detroit to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Moving from Detroit to Tampa Bay. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Moving From"
 subcategory: "Detroit"
@@ -9,7 +9,7 @@ primaryKeyword: "moving from Detroit to Tampa Bay"
 publishedAt: "2024-07-06T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-07-06T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/moving-from-detroit.webp"
 ---
 
-If you're reading this from your house in Detroit, staring out at another gray January morning, I get it. After 23 years of helping families make this exact move, I've seen the same pattern: Michigan winters that seem to last forever, property taxes that sting, and that nagging feeling that life might be better somewhere warmer.
+If you're reading this from your house in Detroit, staring out at another gray January morning, I get it. After 24 years of helping families make this exact move, I've seen the same pattern: Michigan winters that seem to last forever, property taxes that sting, and that nagging feeling that life might be better somewhere warmer.
 
 Tampa Bay isn't just Florida's best-kept secret anymore — it's become the destination for smart relocations from the Rust Belt. And coming from Detroit? You're going to love what we've built down here.
 
@@ -62,7 +62,7 @@ Add in lower property taxes, and a Detroit family making $100k saves roughly $5,
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -264,7 +264,7 @@ The difference from Detroit? Consistent funding, parental involvement, and teach
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -453,7 +453,7 @@ The Tampa Bay transplant community is massive and welcoming. You'll find Detroit
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

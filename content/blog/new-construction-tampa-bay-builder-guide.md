@@ -1,7 +1,7 @@
 ---
 title: "Buying New Construction in Tampa Bay — The Builder's Game Explained"
 metaTitle: "Buying New Construction in Tampa Bay — The Builder's Game Explained | TB Relo"
-metaDescription: "Buying New Construction in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Buying New Construction in Tampa Bay. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Real Estate"
 subcategory: "Buying Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "buying new construction Tampa Bay"
 publishedAt: "2024-12-04T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-12-04T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/new-construction-tampa-bay-builder-guide.webp"
 ---
 
-New construction in Tampa Bay feels like winning the lottery — until you realize the house always wins. After 23 years of walking clients through model homes from Wesley Chapel to Sarasota, I've learned that buying new isn't just about picking paint colors and granite. It's about understanding a system designed to maximize builder profits, often at your expense.
+New construction in Tampa Bay feels like winning the lottery — until you realize the house always wins. After more than a decade of walking clients through model homes from Wesley Chapel to Sarasota, I've learned that buying new isn't just about picking paint colors and granite. It's about understanding a system designed to maximize builder profits, often at your expense.
 
 The good news? Once you know the rules, you can play smarter.
 
@@ -177,7 +177,7 @@ Your builder relationship doesn't end at closing. New construction homes come wi
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

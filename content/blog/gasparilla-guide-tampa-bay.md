@@ -1,7 +1,7 @@
 ---
 title: "Gasparilla 101 — Everything You Need to Know Before Your First Pirate Invasion"
 metaTitle: "Gasparilla 101 — Everything You Need to Know Before Your First Pirate Invasion | TB Relo"
-metaDescription: "Gasparilla 101. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Gasparilla 101. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Seasonal / Events"
 subcategory: "Event Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Gasparilla Tampa 2026"
 publishedAt: "2025-04-09T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-04-09T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/gasparilla-guide-tampa-bay.webp"
 
 You've heard about Tampa's biggest party from coworkers, seen the social media posts, maybe even caught glimpses of pirates stumbling through downtown. But what exactly is Gasparilla, and how do you survive — and thrive at — your first invasion?
 
-After 23 years of helping families move to Tampa Bay, I've guided hundreds of newcomers through their first Gasparilla experience. Some emerge as converts, already planning next year's costume. Others swear it off forever after getting trapped in traffic for three hours. The difference? Knowing what you're getting into and planning accordingly.
+After over a decade of helping families move to Tampa Bay, I've guided hundreds of newcomers through their first Gasparilla experience. Some emerge as converts, already planning next year's costume. Others swear it off forever after getting trapped in traffic for three hours. The difference? Knowing what you're getting into and planning accordingly.
 
 
 ## What Is Gasparilla, Really?
@@ -167,7 +167,7 @@ If you're bringing children to the main Gasparilla:
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

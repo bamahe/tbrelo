@@ -11,7 +11,7 @@ updatedAt: "2026-04-13"
 
 Gated communities in Tampa Bay range from basic entry gates that barely slow anyone down to full-service guard houses with roving patrols. The gate itself is just the starting point. What matters is what's behind it — amenities, maintenance standards, school access, and how the HOA actually operates.
 
-After 23+ years of real estate experience, I've walked through dozens of gated communities across the region. Here are the ones that consistently deliver value for buyers.
+After 24+ years of real estate experience, I've walked through dozens of gated communities across the region. Here are the ones that consistently deliver value for buyers.
 
 ## Why Is FishHawk Ranch the Most Popular Gated Community?
 

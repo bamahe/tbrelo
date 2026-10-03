@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Not Getting Eaten Alive by Mosquitoes"
 metaTitle: "The Ultimate Guide to Not Getting Eaten Alive by Mosquitoes | TB Relo"
-metaDescription: "The Ultimate Guide to Not Getting Eaten Alive by Mosquitoes. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "The Ultimate Guide to Not Getting Eaten Alive by Mosquitoes. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Florida Life"
 subcategory: "Survival Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Florida mosquito tips"
 publishedAt: "2024-09-01T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-09-01T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/florida-mosquito-survival-guide.webp"
 
 Nobody warns you about the mosquitoes when you're browsing those gorgeous Tampa Bay real estate photos. The listing shows that perfect lanai overlooking the water, but it doesn't mention that stepping outside at dusk without armor is basically volunteering as a blood donor.
 
-After 23+ years of helping families relocate here, I've watched plenty of newcomers learn this lesson the hard way. Your first Florida summer shouldn't feel like biological warfare. Let's fix that.
+After over a decade of helping families relocate here, I've watched plenty of newcomers learn this lesson the hard way. Your first Florida summer shouldn't feel like biological warfare. Let's fix that.
 
 
 ## Why Florida Mosquitoes Are Different (Spoiler: They're Worse)
@@ -157,7 +157,7 @@ Screen rooms and enclosed patios are the ultimate solution. Yes, they're expensi
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

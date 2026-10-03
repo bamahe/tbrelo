@@ -1,7 +1,7 @@
 ---
 title: "How to Buy a Home in Florida as an Out-of-State Buyer"
 metaTitle: "How to Buy a Home in Florida as an Out-of-State Buyer | TB Relo"
-metaDescription: "How to Buy a Home in Florida as an Out-of-State Buyer. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "How to Buy a Home in Florida as an Out-of-State Buyer. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Real Estate"
 subcategory: "Buying Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "buy home Florida out of state"
 publishedAt: "2024-11-02T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-11-02T08:00:00-04:00"
@@ -71,7 +71,7 @@ FEMA flood maps are your starting point, but recent flooding events matter more 
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -319,7 +319,7 @@ When inspection issues arise, you'll need to make decisions quickly:
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

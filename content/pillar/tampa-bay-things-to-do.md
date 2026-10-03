@@ -237,4 +237,4 @@ The answer, once you live here, is all of it. Eventually.
 
 {{nowtb}} doesn't just help you find a home — Barrett knows which neighborhoods put you closest to the things you love, whether that's fishing at dawn, walking to craft breweries, or being 10 minutes from the kids' favorite playground.
 
-*Thinking about relocating to Tampa Bay? Barrett Henry has been helping families move to Tampa Bay for over 23 years. {{nowtb}}*
+*Thinking about relocating to Tampa Bay? Barrett Henry has been helping families move to Tampa Bay for over a decade. {{nowtb}}*

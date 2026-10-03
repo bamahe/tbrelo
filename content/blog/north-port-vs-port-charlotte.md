@@ -1,7 +1,7 @@
 ---
 title: "North Port vs Port Charlotte — Which Is Better for Relocators?"
 metaTitle: "North Port vs Port Charlotte — Which Is Better for Relocators? | TB Relo"
-metaDescription: "North Port vs Port Charlotte. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "North Port vs Port Charlotte. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "City Comparisons"
 subcategory: "Local"
@@ -9,7 +9,7 @@ primaryKeyword: "North Port vs Port Charlotte FL"
 publishedAt: "2024-05-09T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-05-09T08:00:00-04:00"
@@ -248,7 +248,7 @@ Port Charlotte wins for hospital access, while North Port has newer outpatient f
 
 ## The Verdict: Which Fits Your Life?
 
-After 23 years of helping families choose between these communities, here's my honest assessment:
+After over a decade of helping families choose between these communities, here's my honest assessment:
 
 **Choose North Port if you want:**
 - Newer construction and modern amenities
@@ -270,7 +270,7 @@ For young families prioritizing schools and safety, North Port usually wins. For
 
 ---
 
-**Moving to Southwest Florida?** Barrett Henry has been helping families navigate these community choices for over 23 years. No pressure, just straight answers about what each area really offers.
+**Moving to Southwest Florida?** Barrett Henry has been helping families navigate these community choices for over 24 years. No pressure, just straight answers about what each area really offers.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

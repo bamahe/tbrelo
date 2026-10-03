@@ -1,7 +1,7 @@
 ---
 title: "Remote Work in Tampa Bay — 30 Questions Answered"
 metaTitle: "Remote Work in Tampa Bay FAQ — Questions Answered by a Local REALTOR® | TB Relo"
-metaDescription: "Get answers about remote work in Tampa Bay from a REALTOR® with 23+ years of real estate experience. Coworking, internet, neighborhoods, and home offices."
+metaDescription: "Get answers about remote work in Tampa Bay from a REALTOR® with 24+ years of real estate experience. Coworking, internet, neighborhoods, and home offices."
 type: question
 category: "Jobs & Career"
 publishedAt: "2026-04-13"

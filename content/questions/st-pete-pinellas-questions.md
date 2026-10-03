@@ -1,14 +1,14 @@
 ---
 title: "St. Pete & Pinellas County — 30 Questions Answered"
 metaTitle: "St. Pete & Pinellas County FAQ — Questions Answered by a Local REALTOR® | TB Relo"
-metaDescription: "Answers to 30 questions about St. Petersburg and Pinellas County. Downtown, beaches, arts, housing prices, and bridge commute from a Tampa Bay REALTOR® with 23+ years experience."
+metaDescription: "Answers to 30 questions about St. Petersburg and Pinellas County. Downtown, beaches, arts, housing prices, and bridge commute from a Tampa Bay REALTOR® with 24+ years of real estate experience."
 type: question
 category: "Neighborhoods"
 publishedAt: "2026-04-13"
 updatedAt: "2026-04-13"
 ---
 
-[St. Petersburg](/cities/st-petersburg/) and [Pinellas County](/counties/pinellas-county/) sit on a peninsula between Tampa Bay and the Gulf of Mexico. With beaches, a thriving downtown arts scene, and a lifestyle all its own, Pinellas draws a different type of relocator than the Hillsborough suburbs. Here are 30 questions answered from 23+ years of real estate experience.
+[St. Petersburg](/cities/st-petersburg/) and [Pinellas County](/counties/pinellas-county/) sit on a peninsula between Tampa Bay and the Gulf of Mexico. With beaches, a thriving downtown arts scene, and a lifestyle all its own, Pinellas draws a different type of relocator than the Hillsborough suburbs. Here are 30 questions answered from 24+ years of real estate experience.
 
 ## Frequently Asked Questions
 

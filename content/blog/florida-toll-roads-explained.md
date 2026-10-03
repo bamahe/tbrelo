@@ -1,7 +1,7 @@
 ---
 title: "Florida Toll Roads Explained — How to Not Go Broke Commuting"
 metaTitle: "Florida Toll Roads Explained — How to Not Go Broke Commuting | TB Relo"
-metaDescription: "Florida Toll Roads Explained. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Florida Toll Roads Explained. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Florida Life"
 subcategory: "Survival Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Florida toll roads guide"
 publishedAt: "2024-09-28T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-09-28T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/florida-toll-roads-explained.webp"
 
 You're driving down I-4, late for a meeting in Orlando, when you spot those dreaded overhead signs: "EXPRESS LANES $3.75." Your SunPass balance is mysteriously empty (again), and you're about to learn why Florida's toll system makes grown adults weep into their steering wheels.
 
-After 23 years of helping families move to Tampa Bay, I've watched countless newcomers get blindsided by our toll road maze. One client from Ohio racked up $400 in tolls during her first month — just commuting from Wesley Chapel to downtown Tampa. Another family discovered their "affordable" Clermont home came with a $600 monthly toll bill to reach dad's job in St. Pete.
+After over a decade of helping families move to Tampa Bay, I've watched countless newcomers get blindsided by our toll road maze. One client from Ohio racked up $400 in tolls during her first month — just commuting from Wesley Chapel to downtown Tampa. Another family discovered their "affordable" Clermont home came with a $600 monthly toll bill to reach dad's job in St. Pete.
 
 Here's everything you need to know about Florida's toll roads, minus the bureaucratic nonsense that makes the state's official websites read like tax code.
 
@@ -78,7 +78,7 @@ E-Pass started as Central Florida's answer to SunPass and has grown into a legit
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -188,7 +188,7 @@ Set your auto-replenish threshold too low, and you'll get hit with Toll-by-Plate
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

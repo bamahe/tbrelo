@@ -1,7 +1,7 @@
 ---
 title: "Spring Hill, Brooksville & Hernando County — 30 Questions Answered"
 metaTitle: "Spring Hill & Hernando County FAQ — Questions Answered by a Local REALTOR® | TB Relo"
-metaDescription: "Get answers to 30 common questions about living in Spring Hill, Brooksville, and Weeki Wachee from a REALTOR® with 23+ years of real estate experience."
+metaDescription: "Get answers to 30 common questions about living in Spring Hill, Brooksville, and Weeki Wachee from a REALTOR® with 24+ years of real estate experience."
 type: question
 category: "Neighborhoods"
 publishedAt: "2026-04-13"
@@ -130,4 +130,4 @@ Rural, relaxed, and unpretentious. People here value affordability, outdoor recr
 
 ### Why should I work with Barrett Henry when buying in Spring Hill or Hernando County?
 
-With 23+ years of real estate experience, I'll help you find value in Hernando County while avoiding the pitfalls — flood-prone lots, polybutylene plumbing, and neighborhoods that look fine on paper but have issues. I'll tell you exactly what you're getting into and whether the savings justify the trade-offs for your situation.
+With 24+ years of real estate experience, I'll help you find value in Hernando County while avoiding the pitfalls — flood-prone lots, polybutylene plumbing, and neighborhoods that look fine on paper but have issues. I'll tell you exactly what you're getting into and whether the savings justify the trade-offs for your situation.

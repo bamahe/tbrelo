@@ -1,7 +1,7 @@
 ---
 title: "How Hot Does Tampa Bay Actually Get? (With Real Feel Data)"
 metaTitle: "How Hot Does Tampa Bay Actually Get? (With Real Feel Data) | TB Relo"
-metaDescription: "How Hot Does Tampa Bay Actually Get? (With Real Feel Data). Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "How Hot Does Tampa Bay Actually Get? (With Real Feel Data). Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Weather / Climate"
 subcategory: "Climate Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Tampa Bay heat index summer"
 publishedAt: "2026-03-04T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2026-03-04T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/how-hot-tampa-bay-real-feel.webp"
 
 Look, everyone knows Tampa Bay gets hot. But when people ask me "how hot?" they're usually thinking about Phoenix or Las Vegas. That's dry heat. What we've got here is something entirely different — a sticky, humid embrace that makes 85°F feel like 95°F.
 
-After 23+ years of showing houses in August and watching clients wilt on front porches, I can tell you the real story about Tampa Bay's heat. The temperature on your weather app? That's just the beginning.
+After 24+ years of showing houses in August and watching clients wilt on front porches, I can tell you the real story about Tampa Bay's heat. The temperature on your weather app? That's just the beginning.
 
 
 ## The Real Numbers: Heat Index vs. Temperature
@@ -177,7 +177,7 @@ Pool water temperatures reach 88-92°F in summer, which sounds refreshing until 
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

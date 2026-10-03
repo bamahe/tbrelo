@@ -90,4 +90,4 @@ Get your vehicle registered within 30 days, carry proper insurance (more than th
 
 {{nowtb}} helps relocators navigate every aspect of the Florida transition — from home buying to understanding the practical details like vehicle registration and insurance that make the move smooth.
 
-*Making the move to Florida? Barrett Henry has been guiding relocators through the full transition for over 23 years. {{nowtb}}*
+*Making the move to Florida? Barrett Henry has been guiding relocators through the full transition for over 24 years. {{nowtb}}*

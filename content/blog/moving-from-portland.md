@@ -1,7 +1,7 @@
 ---
 title: "Moving from Portland OR to Tampa Bay — The Complete Relocation Guide"
 metaTitle: "Moving from Portland OR to Tampa Bay — The Complete Relocation Guide | TB Relo"
-metaDescription: "Moving from Portland OR to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Moving from Portland OR to Tampa Bay. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Moving From"
 subcategory: "Portland OR"
@@ -9,7 +9,7 @@ primaryKeyword: "moving from Portland to Tampa Bay"
 publishedAt: "2024-07-27T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-07-27T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/moving-from-portland.webp"
 ---
 
-Making the leap from Portland's misty Pacific Northwest charm to Tampa Bay's year-round sunshine? You're not alone. I've helped dozens of Portland families navigate this move over the past 23 years, and let me tell you — the differences go way beyond just the weather.
+Making the leap from Portland's misty Pacific Northwest charm to Tampa Bay's year-round sunshine? You're not alone. I've helped dozens of Portland families navigate this move over the past 24 years, and let me tell you — the differences go way beyond just the weather.
 
 
 The culture shock is real. Portland's "keep it weird" vibe meets Florida's "sunshine and hustle" energy. But here's what most people don't realize: Tampa Bay offers something Portland can't — genuine affordability paired with actual career growth. No state income tax, housing that doesn't require selling your soul, and a job market that's exploding.
@@ -189,7 +189,7 @@ The school choice situation here blows Portland out of the water. Magnet program
 
 ## Real Estate Strategy: Making Your Move Pay
 
-Here's where my 23 years of experience pays off for Portland transplants.
+Here's where my 24 years of real estate experience pays off for Portland transplants.
 
 ### Timing Your Sale and Purchase
 
@@ -229,7 +229,7 @@ The density of quality healthcare here surpasses Portland significantly. Plus, m
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -316,7 +316,7 @@ For a detailed breakdown of Tampa Bay living costs, check our comprehensive [cos
 
 ## Making the Final Decision
 
-After 23 years of helping families make this move, here's what I tell every Portland client considering Tampa Bay:
+After over a decade of helping families make this move, here's what I tell every Portland client considering Tampa Bay:
 
 ### You Should Move If:
 - You're tired of Oregon's tax burden
@@ -360,7 +360,7 @@ But here's the thing — even the ones who return often say the Tampa Bay years 
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

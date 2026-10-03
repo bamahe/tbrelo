@@ -53,7 +53,7 @@ export default function AboutPage() {
         familyName: 'Henry',
         jobTitle: 'Broker Associate',
         description:
-          'Licensed Florida Broker Associate with REMAX Collective. Creator of TB Relo. 23+ years of real estate experience helping families relocate to Tampa Bay.',
+          'Licensed Florida Broker Associate with REMAX Collective. Creator of TB Relo. 24+ years of real estate experience helping families relocate to Tampa Bay.',
         email: 'barrett@nowtb.com',
         telephone: '(813) 733-7907',
         url: 'https://nowtb.com',
@@ -182,7 +182,7 @@ export default function AboutPage() {
       <section className="max-w-3xl mx-auto px-4 -mt-6 relative z-10">
         <QuickAnswer
           question="Who created TB Relo?"
-          answer="TB Relo was created by Barrett Henry, a licensed Florida Broker Associate with REMAX Collective. With 23+ years of real estate experience helping families relocate to Tampa Bay, Barrett built TB Relo as a free, comprehensive resource covering all 8 Tampa Bay counties."
+          answer="TB Relo was created by Barrett Henry, a licensed Florida Broker Associate with REMAX Collective. With 24+ years of real estate experience helping families relocate to Tampa Bay, Barrett built TB Relo as a free, comprehensive resource covering all 8 Tampa Bay counties."
         />
       </section>
 

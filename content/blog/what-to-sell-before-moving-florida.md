@@ -1,7 +1,7 @@
 ---
 title: "What to Sell Before Moving to Florida (And What to Keep)"
 metaTitle: "What to Sell Before Moving to Florida (And What to Keep) | TB Relo"
-metaDescription: "What to Sell Before Moving to Florida (And What to Keep). Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "What to Sell Before Moving to Florida (And What to Keep). Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Relocation Logistics"
 subcategory: "How-To"
@@ -9,7 +9,7 @@ primaryKeyword: "what to get rid of before moving Florida"
 publishedAt: "2025-11-29T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-11-29T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/what-to-sell-before-moving-florida.webp"
 ---
 
-Moving to Florida means more than just changing your address — it's a complete lifestyle shift that affects everything from your wardrobe to your furniture choices. After helping hundreds of families relocate to Tampa Bay over the past 23 years, I've seen people make the same mistakes: bringing winter coats they'll never wear and heavy furniture that makes zero sense in our climate.
+Moving to Florida means more than just changing your address — it's a complete lifestyle shift that affects everything from your wardrobe to your furniture choices. After helping hundreds of families relocate to Tampa Bay over the past decade, I've seen people make the same mistakes: bringing winter coats they'll never wear and heavy furniture that makes zero sense in our climate.
 
 Let me save you some money, space, and sanity. Here's exactly what to sell, donate, or store before your Florida move, and what's actually worth bringing down.
 
@@ -113,7 +113,7 @@ If your hobbies were primarily indoor activities to survive long winters, you mi
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

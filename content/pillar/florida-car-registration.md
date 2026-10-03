@@ -224,4 +224,4 @@ If you have all documents and the VIN verification is done on-site, expect 30–
 ### Can I keep my out-of-state registration temporarily?
 Technically, you have 30 days. But driving with out-of-state plates after establishing residency can cause insurance complications. Get it done early.
 
-*Thinking about relocating to Tampa Bay? Barrett Henry has been helping families move to Tampa Bay for over 23 years. {{nowtb}}*
+*Thinking about relocating to Tampa Bay? Barrett Henry has been helping families move to Tampa Bay for over a decade. {{nowtb}}*

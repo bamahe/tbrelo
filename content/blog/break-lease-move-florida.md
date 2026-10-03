@@ -1,7 +1,7 @@
 ---
 title: "How to Break a Lease to Move to Florida"
 metaTitle: "How to Break a Lease to Move to Florida | TB Relo"
-metaDescription: "How to Break a Lease to Move to Florida. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "How to Break a Lease to Move to Florida. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Relocation Logistics"
 subcategory: "How-To"
@@ -9,7 +9,7 @@ primaryKeyword: "break lease move to Florida"
 publishedAt: "2025-11-22T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-11-22T08:00:00-04:00"
@@ -198,7 +198,7 @@ Many Tampa Bay landlords understand that people relocate for career opportunitie
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

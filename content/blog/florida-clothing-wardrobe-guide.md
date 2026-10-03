@@ -1,7 +1,7 @@
 ---
 title: "Why Your Northern Wardrobe Is Useless Here — Florida Clothing Guide"
 metaTitle: "Why Your Northern Wardrobe Is Useless Here — Florida Clothing Guide | TB Relo"
-metaDescription: "Why Your Northern Wardrobe Is Useless Here. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Why Your Northern Wardrobe Is Useless Here. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Florida Life"
 subcategory: "Survival Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Florida wardrobe essentials"
 publishedAt: "2024-09-24T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-09-24T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/florida-clothing-wardrobe-guide.webp"
 
 You've sold your house up north. The moving truck is loaded. Your parka is folded neatly in a box marked "Winter Clothes" — and that box is about to become the most useless thing in your new Tampa Bay home.
 
-After 23 years of helping families relocate to Florida, I've watched countless newcomers make the same wardrobe mistakes. They pack heavy sweaters for "Florida winters" and bring business suits meant for actual seasons. Then July hits, and they're standing in Target at 7 AM buying their third tube of anti-chafing gel.
+After over a decade of helping families relocate to Florida, I've watched countless newcomers make the same wardrobe mistakes. They pack heavy sweaters for "Florida winters" and bring business suits meant for actual seasons. Then July hits, and they're standing in Target at 7 AM buying their third tube of anti-chafing gel.
 
 Let me save you some money and a lot of discomfort. Your northern wardrobe isn't just inadequate for Florida — it's actively working against you.
 
@@ -63,7 +63,7 @@ This means you need layers — not for seasons, but for the 30-degree temperatur
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -267,7 +267,7 @@ Good brands to prioritize: Uniqlo (Airism line), Under Armour (HeatGear), Patago
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

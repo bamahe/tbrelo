@@ -1,7 +1,7 @@
 ---
 title: "Temporary Housing in Tampa Bay — Where to Stay While House Hunting"
 metaTitle: "Temporary Housing in Tampa Bay — Where to Stay While House Hunting | TB Relo"
-metaDescription: "Temporary Housing in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Temporary Housing in Tampa Bay. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Relocation Logistics"
 subcategory: "How-To"
@@ -9,7 +9,7 @@ primaryKeyword: "temporary housing Tampa Bay"
 publishedAt: "2025-11-29T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-11-29T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/temporary-housing-tampa-bay.webp"
 ---
 
-Finding a place to crash while you hunt for your forever home in Tampa Bay? You're not alone. After 23 years helping families relocate here, I've seen every housing situation imaginable — from corporate executives living in extended stays for three months to families camping out at relatives' places in Brandon while they figure out which school district works best.
+Finding a place to crash while you hunt for your forever home in Tampa Bay? You're not alone. After over a decade helping families relocate here, I've seen every housing situation imaginable — from corporate executives living in extended stays for three months to families camping out at relatives' places in Brandon while they figure out which school district works best.
 
 Here's the reality: Tampa Bay's housing market moves fast, and you'll want boots on the ground to compete. But temporary housing costs add up quickly, so let's break down your options from most practical to "only if you're desperate."
 
@@ -81,7 +81,7 @@ Corporate housing works best for executive relocations with 30-90 day timelines.
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -186,7 +186,7 @@ Keep a physical folder with important documents — internet outages happen at t
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

@@ -1,7 +1,7 @@
 ---
 title: "Florida Taxes — 30 Questions Answered"
 metaTitle: "Florida Taxes FAQ — Questions Answered by a Local REALTOR® | TB Relo"
-metaDescription: "Answers about Florida taxes from a REALTOR® with 23+ years of real estate experience. No income tax, property taxes, homestead exemption, and more."
+metaDescription: "Answers about Florida taxes from a REALTOR® with 24+ years of real estate experience. No income tax, property taxes, homestead exemption, and more."
 type: question
 category: "Taxes & Finance"
 publishedAt: "2026-04-13"

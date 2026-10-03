@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Condo Buying Guide — Milestone Inspection & Reserves"
 metaTitle: "Tampa Bay Condo Buying Guide — Milestone Inspection & Reserves | TB Relo"
-metaDescription: "Tampa Bay Condo Buying Guide. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa Bay Condo Buying Guide. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Real Estate"
 subcategory: "Buying Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "buying condo Tampa Bay"
 publishedAt: "2025-01-04T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-01-04T08:00:00-04:00"
@@ -70,7 +70,7 @@ In my experience, well-funded associations in Tampa Bay are targeting 70-100% re
 
 ## Red Flags When Condo Shopping
 
-After 23 years of Tampa Bay real estate, I can spot trouble from the parking lot. Here's what sends me running:
+After over a decade of Tampa Bay real estate, I can spot trouble from the parking lot. Here's what sends me running:
 
 **Financial Red Flags:**
 - Monthly fees under $300 for buildings over 15 years old (somebody's lying about real costs)
@@ -208,7 +208,7 @@ Your personal condo insurance (HO-6 policy) needs to complement the master polic
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

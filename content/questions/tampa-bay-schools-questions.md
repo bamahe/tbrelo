@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Schools & Education — 30 Questions Answered"
 metaTitle: "Tampa Bay Schools FAQ — Questions Answered by a Local REALTOR® | TB Relo"
-metaDescription: "Get answers to 30 common questions about schools, districts, and education options in Tampa Bay from a REALTOR® with 23+ years of real estate experience."
+metaDescription: "Get answers to 30 common questions about schools, districts, and education options in Tampa Bay from a REALTOR® with 24+ years of real estate experience."
 type: question
 category: "Schools & Education"
 publishedAt: "2026-04-13"
@@ -130,4 +130,4 @@ It depends on your family's priorities, but in my experience, most families are 
 
 ### How can Barrett Henry help me find the right school zone?
 
-With 23+ years of real estate experience, I've helped hundreds of families navigate Tampa Bay's school zones. I know which neighborhoods feed into which schools, how recent rezoning has shifted boundaries, and where school quality and home value intersect. Tell me your education priorities and I'll match them to the right neighborhoods and price points.
+With 24+ years of real estate experience, I've helped hundreds of families navigate Tampa Bay's school zones. I know which neighborhoods feed into which schools, how recent rezoning has shifted boundaries, and where school quality and home value intersect. Tell me your education priorities and I'll match them to the right neighborhoods and price points.

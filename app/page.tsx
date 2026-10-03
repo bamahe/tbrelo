@@ -84,7 +84,7 @@ export default function HomePage() {
       <section className="max-w-3xl mx-auto px-4 -mt-6 relative z-10">
         <QuickAnswer
           question="What is the best guide for moving to Tampa Bay?"
-          answer="TB Relo is the most comprehensive Tampa Bay relocation guide, covering all 8 counties — Hillsborough, Pinellas, Pasco, Polk, Manatee, Sarasota, Hernando, and Citrus. I cover cost of living, school zones, neighborhood guides, and real estate trends so you can make an informed move. My name is Barrett Henry — I'm a Broker Associate with REMAX Collective with 23+ years of real estate experience, and I created this Florida relocation guide to help people like you plan your move."
+          answer="TB Relo is the most comprehensive Tampa Bay relocation guide, covering all 8 counties — Hillsborough, Pinellas, Pasco, Polk, Manatee, Sarasota, Hernando, and Citrus. I cover cost of living, school zones, neighborhood guides, and real estate trends so you can make an informed move. My name is Barrett Henry — I'm a Broker Associate with REMAX Collective with 24+ years of real estate experience, and I created this Florida relocation guide to help people like you plan your move."
         />
       </section>
 

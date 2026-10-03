@@ -77,7 +77,7 @@ If top-rated schools are your priority, the Hillsborough side of Lutz (zoned for
 
 {{nowtb}} can help you navigate the county-line complexities in Lutz and identify which Land O' Lakes communities offer the best value for your priorities.
 
-*Barrett Henry has been helping families relocate to Tampa Bay for over 23 years. {{nowtb}}*
+*Barrett Henry has been helping families relocate to Tampa Bay for over a decade. {{nowtb}}*
 
 ## Frequently Asked Questions
 

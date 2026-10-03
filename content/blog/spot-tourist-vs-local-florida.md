@@ -1,7 +1,7 @@
 ---
 title: "How to Spot a Tourist vs a Local in Florida"
 metaTitle: "How to Spot a Tourist vs a Local in Florida | TB Relo"
-metaDescription: "How to Spot a Tourist vs a Local in Florida. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "How to Spot a Tourist vs a Local in Florida. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Florida Life"
 subcategory: "Survival Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Florida tourist vs local"
 publishedAt: "2024-10-03T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-10-03T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/spot-tourist-vs-local-florida.webp"
 ---
 
-You've been here five minutes and think you can spot the difference between a Florida tourist and a local? Think again. After 23+ years in Tampa Bay, I've watched thousands of newcomers confidently point out "obvious tourists" — only to discover they're lifelong Floridians. The truth is more nuanced than your typical "sunburn vs tan" listicle.
+You've been here five minutes and think you can spot the difference between a Florida tourist and a local? Think again. After over a decade in Tampa Bay, I've watched thousands of newcomers confidently point out "obvious tourists" — only to discover they're lifelong Floridians. The truth is more nuanced than your typical "sunburn vs tan" listicle.
 
 
 ## The Dead Giveaways (That Aren't What You Think)
@@ -132,7 +132,7 @@ The ultimate test? Ask someone about housing costs. Tourists think beachfront co
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

@@ -1,7 +1,7 @@
 ---
 title: "Well Water vs City Water in Tampa Bay"
 metaTitle: "Well Water vs City Water in Tampa Bay | TB Relo"
-metaDescription: "Well Water vs City Water in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Well Water vs City Water in Tampa Bay. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Real Estate"
 subcategory: "Buying Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "well water Tampa Bay homes"
 publishedAt: "2024-12-17T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-12-17T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/well-water-vs-city-water-tampa-bay.webp"
 ---
 
-House hunting in Tampa Bay? You'll encounter two very different water scenarios: homes connected to municipal systems and properties with private wells. After 23+ years helping families relocate here, I've seen buyers make costly mistakes by not understanding the real differences.
+House hunting in Tampa Bay? You'll encounter two very different water scenarios: homes connected to municipal systems and properties with private wells. After over a decade helping families relocate here, I've seen buyers make costly mistakes by not understanding the real differences.
 
 Let me break down what you need to know about well water versus city water in our market — because this decision affects everything from your monthly budget to your home's resale value.
 
@@ -204,7 +204,7 @@ The math seems to favor municipal water, but here's what it misses: well water a
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

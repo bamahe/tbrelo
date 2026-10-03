@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Holiday Events — Complete December Guide"
 metaTitle: "Tampa Bay Holiday Events — Complete December Guide | TB Relo"
-metaDescription: "Tampa Bay Holiday Events. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa Bay Holiday Events. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Seasonal / Events"
 subcategory: "Event Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Tampa Bay Christmas events"
 publishedAt: "2025-04-08T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-04-08T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/tampa-bay-holiday-events.webp"
 ---
 
-December in Tampa Bay means holiday magic with a subtropical twist. Forget snow — we do Christmas lights reflected in harbor water, outdoor ice rinks that actually work, and holiday parades where kids wear shorts. After 23+ years helping families discover this area, I've seen how our unique holiday season becomes a major selling point for relocating families.
+December in Tampa Bay means holiday magic with a subtropical twist. Forget snow — we do Christmas lights reflected in harbor water, outdoor ice rinks that actually work, and holiday parades where kids wear shorts. After 24+ years helping families discover this area, I've seen how our unique holiday season becomes a major selling point for relocating families.
 
 Here's your complete guide to Tampa Bay's best December events, from intimate neighborhood celebrations to massive downtown spectacles.
 
@@ -147,7 +147,7 @@ Fair admission is $8 for adults, $5 for kids, with ride tickets separate. The fa
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

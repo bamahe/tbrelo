@@ -86,4 +86,4 @@ Both islands are excellent short-term rental markets, but regulations are tighte
 
 {{nowtb}} can help you navigate the island real estate market on both Siesta Key and Anna Maria Island, where inventory is tight and local knowledge about flood zones, insurance, and rental regulations is essential.
 
-*Ready to explore island living? Barrett Henry has been helping families find their Florida dream for over 23 years. {{nowtb}}*
+*Ready to explore island living? Barrett Henry has been helping families find their Florida dream for over a decade. {{nowtb}}*

@@ -1,7 +1,7 @@
 ---
 title: "Your Dog Will Try to Eat a Toad — Bufo Toad Safety Guide"
 metaTitle: "Your Dog Will Try to Eat a Toad — Bufo Toad Safety Guide | TB Relo"
-metaDescription: "Your Dog Will Try to Eat a Toad. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Your Dog Will Try to Eat a Toad. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Florida Life"
 subcategory: "Survival Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "bufo toad dog safety Florida"
 publishedAt: "2024-10-06T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-10-06T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/bufo-toad-dog-safety-florida.webp"
 
 Your dog *will* encounter a toad in Florida. It's not a matter of if — it's when. And that toad might be a bufo, also known as a cane toad, which can kill your dog in 15 minutes if you don't know what to do.
 
-After 23 years helping families move to Tampa Bay, I've learned that nobody warns you about the real Florida dangers. Everyone talks about alligators and hurricanes. Meanwhile, a warty little toad sitting by your pool can be far more dangerous to your family pet than either of those.
+After over a decade helping families move to Tampa Bay, I've learned that nobody warns you about the real Florida dangers. Everyone talks about alligators and hurricanes. Meanwhile, a warty little toad sitting by your pool can be far more dangerous to your family pet than either of those.
 
 
 ## Meet Florida's Most Dangerous Backyard Visitor
@@ -78,7 +78,7 @@ You have 15-30 minutes max from contact to potential death. Here's what happens:
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -187,7 +187,7 @@ Kids love toads. Teach them the difference early, and make "don't touch toads" a
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

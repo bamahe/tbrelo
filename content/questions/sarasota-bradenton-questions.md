@@ -1,7 +1,7 @@
 ---
 title: "Sarasota, Bradenton & Lakewood Ranch — 30 Questions Answered"
 metaTitle: "Sarasota & Bradenton FAQ — Questions Answered by a Local REALTOR® | TB Relo"
-metaDescription: "Get answers to 30 common questions about living in Sarasota, Bradenton, Lakewood Ranch, and Parrish from a REALTOR® with 23+ years of real estate experience."
+metaDescription: "Get answers to 30 common questions about living in Sarasota, Bradenton, Lakewood Ranch, and Parrish from a REALTOR® with 24+ years of real estate experience."
 type: question
 category: "Neighborhoods"
 publishedAt: "2026-04-13"
@@ -130,4 +130,4 @@ Parrish is exploding. New subdivisions, a new high school, commercial developmen
 
 ### Why should I work with Barrett Henry when buying in Sarasota or Bradenton?
 
-I bring 23+ years of real estate experience and deep knowledge of the entire Tampa Bay to Sarasota corridor. I'll help you understand market differences between neighborhoods, navigate flood zones and insurance realities, and find the right fit for your budget and lifestyle. Straight talk, no sales pressure.
+I bring 24+ years of real estate experience and deep knowledge of the entire Tampa Bay to Sarasota corridor. I'll help you understand market differences between neighborhoods, navigate flood zones and insurance realities, and find the right fit for your budget and lifestyle. Straight talk, no sales pressure.

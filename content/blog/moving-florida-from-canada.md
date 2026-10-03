@@ -1,7 +1,7 @@
 ---
 title: "Moving to Florida from Canada — Immigration and Lifestyle Guide"
 metaTitle: "Moving to Florida from Canada — Immigration and Lifestyle Guide | TB Relo"
-metaDescription: "Moving to Florida from Canada. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Moving to Florida from Canada. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Relocation Logistics"
 subcategory: "How-To"
@@ -9,7 +9,7 @@ primaryKeyword: "Canadian moving to Florida"
 publishedAt: "2025-11-13T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-11-13T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/moving-florida-from-canada.webp"
 
 If you're reading this from somewhere north of the border, you've probably spent enough winters scraping ice off your windshield while dreaming of palm trees. Florida's been the Canadian escape route for decades, and for good reason — no state income tax, year-round warmth, and a Canadian expat community so established you'll find Tim Hortons in some Florida cities.
 
-But moving from Canada to Florida isn't just about packing your bags and booking a flight. There's immigration paperwork, tax implications, and lifestyle adjustments that can trip up even the most prepared relocator. After helping hundreds of Canadian families navigate this move over the past 23+ years, I've learned which details matter and which ones are just bureaucratic noise.
+But moving from Canada to Florida isn't just about packing your bags and booking a flight. There's immigration paperwork, tax implications, and lifestyle adjustments that can trip up even the most prepared relocator. After helping hundreds of Canadian families navigate this move over the past 24+ years, I've learned which details matter and which ones are just bureaucratic noise.
 
 
 ## The Canadian Invasion of Florida (And Why It Makes Sense)
@@ -266,7 +266,7 @@ These areas have Canadian clubs, familiar restaurants, and services catering to 
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

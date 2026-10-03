@@ -1,7 +1,7 @@
 ---
 title: "Best Burger Spots in Tampa Bay"
 metaTitle: "Best Burger Spots in Tampa Bay | TB Relo"
-metaDescription: "Best Burger Spots in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Best Burger Spots in Tampa Bay. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Lifestyle / Food"
 subcategory: "Local Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "best burgers Tampa Bay"
 publishedAt: "2025-08-23T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-08-23T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/best-burgers-tampa-bay.webp"
 ---
 
-Looking for the best burger in Tampa Bay? After 23+ years of eating my way through this metro, I've found spots that'll make you forget every chain restaurant exists. From $8 smash burgers that rival the fancy places to $18 gourmet creations that justify every penny, Tampa Bay's burger scene punches way above its weight.
+Looking for the best burger in Tampa Bay? After more than a decade of eating my way through this metro, I've found spots that'll make you forget every chain restaurant exists. From $8 smash burgers that rival the fancy places to $18 gourmet creations that justify every penny, Tampa Bay's burger scene punches way above its weight.
 
 
 ## The Heavy Hitters: Tampa's Elite Burger Scene
@@ -76,7 +76,7 @@ What's the sauce? They won't tell me, but after dozens of visits, I taste mayo, 
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -185,7 +185,7 @@ After two decades of eating burgers across this metro, I've noticed a few trends
 
 **No pretension:** Even our "fancy" burger spots maintain a casual vibe. This isn't New York or LA — we keep things approachable.
 
-## Pro Tips from 23 Years of Burger Hunting
+## Pro Tips from 24 Years of Burger Hunting
 
 **Timing matters:** Order burgers during peak hours when turnover is highest. A patty that's been sitting under a heat lamp for 20 minutes is never as good as one cooked to order.
 
@@ -198,7 +198,7 @@ After two decades of eating burgers across this metro, I've noticed a few trends
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

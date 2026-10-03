@@ -9,7 +9,7 @@ updatedAt: "2026-05-10"
 
 ## The Real Cost of Living in Tampa Bay
 
-People ask me all the time: "Is Tampa Bay affordable?" The honest answer is it depends where you land. Over my 23+ years in real estate, I've watched this region transform from a quiet Florida market into a competitive landscape where cost varies dramatically by neighborhood and county.
+People ask me all the time: "Is Tampa Bay affordable?" The honest answer is it depends where you land. Over my 24+ years in real estate, I've watched this region transform from a quiet Florida market into a competitive landscape where cost varies dramatically by neighborhood and county.
 
 [Tampa Bay](/cities/tampa/) isn't cheap anymore, but it's not Miami either. Your dollar stretches differently in [Lutz](/cities/lutz/) than it does in [Channelside](/cities/channelside/). Understanding these differences before you move matters, because choosing the wrong area for your budget can strain finances fast.
 

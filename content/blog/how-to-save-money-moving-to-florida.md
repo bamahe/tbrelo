@@ -1,7 +1,7 @@
 ---
 title: "How to Save Money Moving to Florida — The Complete Financial Guide"
 metaTitle: "How to Save Money Moving to Florida — Financial Guide | TB Relo"
-metaDescription: "Save thousands on your Florida move: tax savings, homestead exemption, moving cost tips, and financial strategies from a 23-year Tampa Bay resident."
+metaDescription: "Save thousands on your Florida move: tax savings, homestead exemption, moving cost tips, and financial strategies from a longtime Tampa Bay resident."
 type: blog
 publishedAt: "2026-03-15"
 updatedAt: "2026-03-15"
@@ -9,7 +9,7 @@ updatedAt: "2026-03-15"
 
 ## How to Save Money Moving to Florida — The Financial Playbook
 
-Moving to Florida isn't just a lifestyle decision — it's one of the smartest financial moves you can make if you do it right. Between the income tax savings, homestead exemption, and strategic moving decisions, the difference between a well-planned Florida move and a poorly planned one can be tens of thousands of dollars. I've helped families relocate for over 23 years, and the ones who save the most are the ones who plan the finances before they pack the boxes.
+Moving to Florida isn't just a lifestyle decision — it's one of the smartest financial moves you can make if you do it right. Between the income tax savings, homestead exemption, and strategic moving decisions, the difference between a well-planned Florida move and a poorly planned one can be tens of thousands of dollars. I've helped families relocate for over 24 years, and the ones who save the most are the ones who plan the finances before they pack the boxes.
 
 ## The No Income Tax Advantage
 
@@ -129,4 +129,4 @@ A well-planned Florida move saves money at every stage: income tax savings from 
 
 {{nowtb}} helps relocating families understand the full financial picture of their move — not just the home price, but taxes, insurance, CDD fees, and the hidden costs that catch people off guard.
 
-*Planning your Florida move? Barrett Henry has been guiding families through the financial and lifestyle transition for over 23 years. {{nowtb}}*
+*Planning your Florida move? Barrett Henry has been guiding families through the financial and lifestyle transition for over 24 years. {{nowtb}}*

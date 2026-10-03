@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Donut Guide — The Best Spots by County"
 metaTitle: "Tampa Bay Donut Guide — The Best Spots by County | TB Relo"
-metaDescription: "Tampa Bay Donut Guide. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa Bay Donut Guide. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Lifestyle / Food"
 subcategory: "Local Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "best donuts Tampa Bay"
 publishedAt: "2025-08-25T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-08-25T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/best-donuts-tampa-bay.webp"
 ---
 
-Look, I've eaten a lot of donuts in my 23+ years living in Tampa Bay. From pre-dawn client meetings fueled by glazed rounds to weekend family trips hunting down the perfect maple bacon bar, I've probably tried every donut shop within a 50-mile radius of downtown Tampa. 
+Look, I've eaten a lot of donuts in my decade-plus living in Tampa Bay. From pre-dawn client meetings fueled by glazed rounds to weekend family trips hunting down the perfect maple bacon bar, I've probably tried every donut shop within a 50-mile radius of downtown Tampa. 
 
 Here's the truth: Tampa Bay has some legitimately great donut spots, but you have to know where to look. The gas station stuff won't cut it when you're trying to impress out-of-town relatives or need that perfect sugar rush before a house showing marathon.
 
@@ -70,7 +70,7 @@ The Brandon location consistently outperforms other Shipley locations in the are
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -224,7 +224,7 @@ But that's exactly what makes them special. In a world of corporate uniformity, 
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

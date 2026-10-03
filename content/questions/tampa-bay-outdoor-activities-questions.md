@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Outdoor Activities — 30 Questions Answered"
 metaTitle: "Tampa Bay Outdoor Activities FAQ — Questions Answered by a Local REALTOR® | TB Relo"
-metaDescription: "Answers to 30 questions about outdoor activities in Tampa Bay including kayaking, hiking, biking, state parks, and springs. Local insight from a REALTOR® with 23+ years of real estate experience."
+metaDescription: "Answers to 30 questions about outdoor activities in Tampa Bay including kayaking, hiking, biking, state parks, and springs. Local insight from a REALTOR® with 24+ years of real estate experience."
 type: question
 category: "Lifestyle & Recreation"
 publishedAt: "2026-04-13"

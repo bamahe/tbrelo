@@ -9,7 +9,7 @@ updatedAt: "2026-03-15"
 
 ## Tampa Bay vs Orlando — Two Florida Metros, Very Different Lives
 
-These two metros sit 90 minutes apart on I-4 and share the same state, similar climates, and comparable price points. But the daily experience of living in each is profoundly different. Tampa Bay is coastal, established, and lifestyle-driven. Orlando is inland, tourism-dominated, and sprawling. Here's the honest comparison from someone who's been on the Tampa Bay side for 23 years and knows the I-4 corridor intimately.
+These two metros sit 90 minutes apart on I-4 and share the same state, similar climates, and comparable price points. But the daily experience of living in each is profoundly different. Tampa Bay is coastal, established, and lifestyle-driven. Orlando is inland, tourism-dominated, and sprawling. Here's the honest comparison from someone who's been on the Tampa Bay side for over a decade and knows the I-4 corridor intimately.
 
 ## The Big Difference: Beaches
 
@@ -119,4 +119,4 @@ Orlando has Disney's nature parks, the Everglades (3+ hours south), and some dec
 
 {{nowtb}} helps families from all over the country decide not just which city, but which neighborhood within Tampa Bay matches their lifestyle, budget, and priorities.
 
-*Choosing between Tampa Bay and Orlando? Barrett Henry has been helping families make this decision for 23+ years. {{nowtb}}*
+*Choosing between Tampa Bay and Orlando? Barrett Henry has been helping families make this decision for 24+ years. {{nowtb}}*

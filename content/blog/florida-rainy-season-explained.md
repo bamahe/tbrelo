@@ -1,7 +1,7 @@
 ---
 title: "Florida Rainy Season Explained — June Through September"
 metaTitle: "Florida Rainy Season Explained — June Through September | TB Relo"
-metaDescription: "Florida Rainy Season Explained. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Florida Rainy Season Explained. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Weather / Climate"
 subcategory: "Climate Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Florida rainy season months"
 publishedAt: "2026-02-26T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2026-02-26T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/florida-rainy-season-explained.webp"
 ---
 
-You're probably wondering when Florida's rainy season hits and what to expect. After 23+ years selling real estate here, I've watched thousands of newcomers experience their first Tampa Bay summer storms. Some panic. Others fall in love with the daily light show. Here's what you actually need to know.
+You're probably wondering when Florida's rainy season hits and what to expect. After over a decade selling real estate here, I've watched thousands of newcomers experience their first Tampa Bay summer storms. Some panic. Others fall in love with the daily light show. Here's what you actually need to know.
 
 
 Florida's rainy season runs from **June through September**, with peak activity in July and August. We're talking about a predictable pattern of afternoon thunderstorms that dump 6-8 inches of rain monthly — more than twice what we see in winter. It's not four months of constant rain. It's four months of spectacular daily drama.
@@ -311,7 +311,7 @@ Understanding these patterns helps if you're considering starting a business or 
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

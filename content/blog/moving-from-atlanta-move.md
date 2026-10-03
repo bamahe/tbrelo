@@ -1,7 +1,7 @@
 ---
 title: "Moving from Atlanta to Tampa Bay — The Complete Relocation Guide"
 metaTitle: "Moving from Atlanta to Tampa Bay — The Complete Relocation Guide | TB Relo"
-metaDescription: "Moving from Atlanta to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Moving from Atlanta to Tampa Bay. Honest guide from a Tampa Bay local with 24+ years of real estate experience."
 type: blog
 category: "Moving From"
 subcategory: "Atlanta"
@@ -9,7 +9,7 @@ primaryKeyword: "moving from Atlanta to Tampa Bay"
 publishedAt: "2024-08-12T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 24+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-08-12T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/moving-from-atlanta-move.webp"
 
 Making the leap from the ATL to the Bay? You're not alone. Every month, I help dozens of Atlanta families discover what thousands have already figured out: Tampa Bay offers everything they loved about Atlanta's growth and energy, minus the traffic nightmares and plus year-round sunshine.
 
-After 23+ years selling real estate here, I've seen this migration pattern accelerate dramatically. Atlanta transplants consistently tell me the same thing — they wish they'd made this move sooner.
+After over a decade selling real estate here, I've seen this migration pattern accelerate dramatically. Atlanta transplants consistently tell me the same thing — they wish they'd made this move sooner.
 
 
 ## Why Atlanta Residents Are Choosing Tampa Bay
@@ -81,7 +81,7 @@ Scale that up for higher earners or couples, and you're looking at $10,000-$20,0
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -89,7 +89,7 @@ Scale that up for higher earners or couples, and you're looking at $10,000-$20,0
 
 ## Neighborhood Matchmaker: Finding Your Tampa Bay Equivalent
 
-Every Atlanta transplant asks the same question: "Where should we look that feels like home?" Here's my neighborhood matching guide based on 23 years of successful relocations.
+Every Atlanta transplant asks the same question: "Where should we look that feels like home?" Here's my neighborhood matching guide based on 24 years of successful relocations.
 
 ### If You Love Buckhead...
 **Consider: South Tampa (Hyde Park, Bayshore Beautiful)**
@@ -244,7 +244,7 @@ The biggest adjustment? You'll actually want to be outside year-round. My Atlant
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -423,7 +423,7 @@ The biggest surprise? How quickly Tampa Bay starts feeling like home. There's so
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

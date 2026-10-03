@@ -1,14 +1,14 @@
 ---
 title: "Tampa Bay Housing Market — 30 Questions Answered"
 metaTitle: "Tampa Bay Housing Market FAQ — Questions Answered by a Local REALTOR® | TB Relo"
-metaDescription: "Get answers about the Tampa Bay housing market from a REALTOR® with 23+ years of real estate experience. Home prices, trends, inventory, and what buyers need to know."
+metaDescription: "Get answers about the Tampa Bay housing market from a REALTOR® with 24+ years of real estate experience. Home prices, trends, inventory, and what buyers need to know."
 type: question
 category: "Housing & Real Estate"
 publishedAt: "2026-04-13"
 updatedAt: "2026-04-13"
 ---
 
-The Tampa Bay housing market has been one of the most watched in the country over the past several years. Whether you are buying, selling, or just exploring, here are the questions I get asked most — answered from 23+ years of real estate experience.
+The Tampa Bay housing market has been one of the most watched in the country over the past several years. Whether you are buying, selling, or just exploring, here are the questions I get asked most — answered from 24+ years of real estate experience.
 
 ## Frequently Asked Questions
 
