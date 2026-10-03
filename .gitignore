@@ -8,3 +8,7 @@ node_modules
 # next build, so a committed out/ is never served and only churned
 # ~1,408 files of git noise on every rebuild.
 out/
+
+# Agent scratch logs. Never meant to be tracked.
+*.log
+.superpowers/
