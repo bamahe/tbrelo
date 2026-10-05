@@ -1,7 +1,7 @@
 ---
 title: "Best Cheap Eats in Tampa Bay — Under $15 Meals"
 metaTitle: "Best Cheap Eats in Tampa Bay — Under $15 Meals | TB Relo"
-metaDescription: "Best Cheap Eats in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Best Cheap Eats in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Lifestyle / Food"
 subcategory: "Local Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "cheap eats Tampa Bay"
 publishedAt: "2025-08-30T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-08-30T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/cheap-eats-tampa-bay.webp"
 ---
 
-After 23 years of helping families move to Tampa Bay, I've eaten at more strip mall gems and hole-in-the-wall spots than I care to count. Truth is, some of the best food here costs under $15 — you just need to know where to look.
+After over a decade of helping families move to Tampa Bay, I've eaten at more strip mall gems and hole-in-the-wall spots than I care to count. Truth is, some of the best food here costs under $15 — you just need to know where to look.
 
 I'm not talking about chain restaurants or fast-casual nonsense. These are the places locals actually go, where you can feed yourself well without dropping $30 on mediocre "artisanal" whatever.
 
@@ -256,7 +256,7 @@ Great for groups where people want different cuisines.
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

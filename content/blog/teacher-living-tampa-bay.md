@@ -1,7 +1,7 @@
 ---
 title: "Living in Tampa Bay as a Teacher"
 metaTitle: "Living in Tampa Bay as a Teacher | TB Relo"
-metaDescription: "Living in Tampa Bay as a Teacher. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Living in Tampa Bay as a Teacher. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Demographic / Niche"
 subcategory: "Audience Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "teacher salary Tampa Bay cost of living"
 publishedAt: "2025-12-23T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-12-23T08:00:00-04:00"
@@ -50,7 +50,7 @@ The districts also offer decent benefits packages — health insurance that does
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -166,7 +166,7 @@ Many teachers I know plan for 10 months of salary stretched over 12 months, then
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -256,7 +256,7 @@ Many teachers underestimate transportation costs. Tampa Bay sprawls, and you mig
 
 ## The Bottom Line: Can You Make It Work?
 
-After 23 years helping people navigate Tampa Bay real estate, including plenty of teachers, here's my honest assessment:
+After over a decade helping people navigate Tampa Bay real estate, including plenty of teachers, here's my honest assessment:
 
 **You can absolutely make it work, but it requires strategy.** The days of teachers affording beach-adjacent condos on a single salary are over, but you can still build a good life here.
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Plan a Long-Distance Move to Florida — Complete Timeline"
 metaTitle: "How to Plan a Long-Distance Move to Florida — Complete Timeline | TB Relo"
-metaDescription: "How to Plan a Long-Distance Move to Florida. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "How to Plan a Long-Distance Move to Florida. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Relocation Logistics"
 subcategory: "How-To"
@@ -9,7 +9,7 @@ primaryKeyword: "long distance move to Florida"
 publishedAt: "2025-11-02T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-11-02T08:00:00-04:00"
@@ -108,7 +108,7 @@ For Tampa Bay moves, I recommend getting quotes around $4,500-$6,500 for a 3-bed
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -202,7 +202,7 @@ The families who thrive in Florida are those who lean into the experience rather
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

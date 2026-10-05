@@ -86,7 +86,7 @@ Golf carts are a primary mode of transportation. The community has golf-cart pat
 
 {{nowtb}} can help you navigate both markets. Whether you want a canal-front home in MiraBay or a golf-cart-friendly villa in Sun City Center, the right home exists.
 
-*Barrett Henry has been helping families relocate to Tampa Bay for over 23 years. {{nowtb}}*
+*Barrett Henry has been helping families relocate to Tampa Bay for over a decade. {{nowtb}}*
 
 ## Frequently Asked Questions
 

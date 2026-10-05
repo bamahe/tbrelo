@@ -1,7 +1,7 @@
 ---
 title: "East vs West Side of Tampa Bay — Which Is Better for Relocators?"
 metaTitle: "East vs West Side of Tampa Bay — Which Is Better for Relocators? | TB Relo"
-metaDescription: "East vs West Side of Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "East vs West Side of Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "City Comparisons"
 subcategory: "Local"
@@ -9,7 +9,7 @@ primaryKeyword: "east side vs west side Tampa Bay"
 publishedAt: "2024-06-08T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-06-08T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/east-vs-west-tampa-bay.webp"
 ---
 
-When you're looking at Tampa Bay on a map, that body of water creates the most important decision you'll make about where to live: east side or west side? After 23 years of helping families navigate this choice, I can tell you it's not just geography — it's lifestyle, commute patterns, and what you value most in daily life.
+When you're looking at Tampa Bay on a map, that body of water creates the most important decision you'll make about where to live: east side or west side? After 24 years of helping families navigate this choice, I can tell you it's not just geography — it's lifestyle, commute patterns, and what you value most in daily life.
 
 The Tampa Bay metro sprawls across two main counties separated by water. Hillsborough County anchors the east side with Tampa as its crown jewel, while Pinellas County dominates the west with St. Petersburg and the beach communities. Each side has developed its own personality, advantages, and trade-offs.
 
@@ -78,7 +78,7 @@ Living east side means embracing car culture. Everything's spread out, but highw
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -262,7 +262,7 @@ Both sides benefit from Tampa Bay's overall growth, but east side captures more 
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

@@ -314,4 +314,4 @@ Abundant. Chain and independent dentists are everywhere. Vision care is similarl
 ### Can I keep my current insurance if I move to Florida?
 Employer-based plans that cover Florida networks — possibly. Individual marketplace plans — no, you'll need to enroll in a Florida marketplace plan. Medicare — yes, it's federal and works nationwide. Medicare Advantage — you may need to switch plans if your current one doesn't cover Florida providers.
 
-*Thinking about relocating to Tampa Bay? Barrett Henry has been helping families move to Tampa Bay for over 23 years. {{nowtb}}*
+*Thinking about relocating to Tampa Bay? Barrett Henry has been helping families move to Tampa Bay for over a decade. {{nowtb}}*

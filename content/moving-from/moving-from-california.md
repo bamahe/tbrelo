@@ -115,4 +115,4 @@ You adjust faster than you think. Stay hydrated, embrace lightweight clothing, a
 ### Is Tampa Bay earthquake-free?
 Yes. Florida has essentially zero seismic activity. No earthquakes, no fault lines, no ground shaking. You trade earthquake risk for hurricane risk, but hurricanes give you days of warning — earthquakes give you seconds. Most Tampa Bay residents find that trade favorable.
 
-*Ready to make the move? Barrett Henry has been helping families relocate to Tampa Bay for over 23 years. {{nowtb}}*
+*Ready to make the move? Barrett Henry has been helping families relocate to Tampa Bay for over a decade. {{nowtb}}*

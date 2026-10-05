@@ -1,7 +1,7 @@
 ---
 title: "Best Waterfront Restaurants in Tampa Bay"
 metaTitle: "Best Waterfront Restaurants in Tampa Bay | TB Relo"
-metaDescription: "Best Waterfront Restaurants in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Best Waterfront Restaurants in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Lifestyle / Food"
 subcategory: "Local Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "waterfront restaurants Tampa Bay"
 publishedAt: "2025-08-01T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-08-01T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/best-waterfront-restaurants-tampa-bay.webp"
 ---
 
-After 23 years showing clients around Tampa Bay, I've eaten at practically every waterfront restaurant from St. Petersburg to Brandon. Some serve million-dollar views with mediocre food. Others nail both the cuisine and the scenery. Here's your insider's guide to the spots that actually deliver on both fronts — because life's too short for bad fish with a good view.
+After over a decade showing clients around Tampa Bay, I've eaten at practically every waterfront restaurant from St. Petersburg to Brandon. Some serve million-dollar views with mediocre food. Others nail both the cuisine and the scenery. Here's your insider's guide to the spots that actually deliver on both fronts — because life's too short for bad fish with a good view.
 
 
 ## What Makes a Great Waterfront Restaurant
@@ -67,7 +67,7 @@ Chef-driven menu changes seasonally, focusing on Gulf-to-table preparations. The
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -198,7 +198,7 @@ Food focuses on local seafood prepared traditionally. The grouper sandwich uses 
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

@@ -1,7 +1,7 @@
 ---
 title: "Pasco County Schools Guide"
 metaTitle: "Pasco County Schools Guide | TB Relo"
-metaDescription: "Pasco County Schools Guide. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Pasco County Schools Guide. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Education"
 subcategory: "School Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Pasco County schools"
 publishedAt: "2026-04-01T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2026-04-01T08:00:00-04:00"
@@ -67,7 +67,7 @@ When you're house hunting in new developments like Epperson or Starkey Ranch, yo
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -320,7 +320,7 @@ Pasco County continues rapid expansion. When evaluating areas, consider:
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

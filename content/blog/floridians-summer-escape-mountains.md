@@ -1,7 +1,7 @@
 ---
 title: "Why Floridians Flee to Georgia and the Carolinas Every Summer"
 metaTitle: "Why Floridians Flee to Georgia and the Carolinas Every Summer | TB Relo"
-metaDescription: "Why Floridians Flee to Georgia and the Carolinas Every Summer. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Why Floridians Flee to Georgia and the Carolinas Every Summer. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Florida Life"
 subcategory: "Survival Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Florida summer getaway"
 publishedAt: "2024-10-06T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-10-06T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/floridians-summer-escape-mountains.webp"
 ---
 
-You know what Florida's dirty little secret is? We all pretend we love the year-round sunshine and palm trees, but come July, half the state is plotting their escape north. I've been selling homes in Tampa Bay for 23 years, and I can tell you with absolute certainty — the smartest Floridians have figured out the summer migration pattern.
+You know what Florida's dirty little secret is? We all pretend we love the year-round sunshine and palm trees, but come July, half the state is plotting their escape north. I've been selling homes in Tampa Bay for over a decade, and I can tell you with absolute certainty — the smartest Floridians have figured out the summer migration pattern.
 
 While tourists flock down here in droves thinking they're experiencing "paradise," locals are quietly booking their getaways to places where you don't need a shower after walking to your mailbox.
 
@@ -92,7 +92,7 @@ For mountain relief, head to the South Carolina upcountry. Greenville surprises 
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -125,7 +125,7 @@ Don't forget your [portable phone charger]({{amazon:B07QX7T4GG}}) for all those 
 
 ## The Local Florida Perspective
 
-Here's what 23 years of Tampa Bay real estate has taught me: The happiest Florida residents are the ones who've figured out the summer escape game. They're not trying to convince themselves that 97°F with thunderstorms is "beautiful weather."
+Here's what over a decade of Tampa Bay real estate has taught me: The happiest Florida residents are the ones who've figured out the summer escape game. They're not trying to convince themselves that 97°F with thunderstorms is "beautiful weather."
 
 I have clients who literally plan their work schedules around mountain trips. One Tampa Bay surgeon schedules all his major vacations June-August, specifically targeting North Carolina and Georgia. His exact quote: "I moved to Florida for the winters, not to become a heat casualty in summer."
 

@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Homes Under $300K — Where to Look in 2026"
 metaTitle: "Tampa Bay Homes Under $300K — Where to Look in 2026 | TB Relo"
-metaDescription: "Tampa Bay Homes Under $300K. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa Bay Homes Under $300K. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Real Estate"
 subcategory: "Buying Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Tampa Bay homes under $300K"
 publishedAt: "2024-12-04T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-12-04T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/tampa-bay-homes-under-300k.webp"
 
 Let me be straight with you: finding homes under $300K in Tampa Bay isn't what it used to be. Five years ago, I'd show clients dozens of options in solid neighborhoods. Today? It's a different game entirely.
 
-But here's what 23 years in this market has taught me — opportunity still exists if you know where to look and what trade-offs you're willing to make. The $300K budget isn't dead in Tampa Bay; it's just more strategic now.
+But here's what 24 years in this market has taught me — opportunity still exists if you know where to look and what trade-offs you're willing to make. The $300K budget isn't dead in Tampa Bay; it's just more strategic now.
 
 
 ## The Reality Check: What $300K Gets You Now
@@ -176,7 +176,7 @@ Budget beyond the mortgage payment. Consider:
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

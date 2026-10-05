@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Mental Health Resources"
 metaTitle: "Tampa Bay Mental Health Resources | TB Relo"
-metaDescription: "Tampa Bay Mental Health Resources. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa Bay Mental Health Resources. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Healthcare"
 subcategory: "Wellness Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "therapist Tampa Bay"
 publishedAt: "2026-03-16T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2026-03-16T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/tampa-bay-mental-health-resources.webp"
 ---
 
-Finding quality mental health care shouldn't feel like another stressor in your life. After 23 years helping families settle into Tampa Bay, I've watched our area grow from having limited options to becoming a region with genuinely excellent mental health resources. Here's what you actually need to know — no fluff, just real information about getting help.
+Finding quality mental health care shouldn't feel like another stressor in your life. After over a decade helping families settle into Tampa Bay, I've watched our area grow from having limited options to becoming a region with genuinely excellent mental health resources. Here's what you actually need to know — no fluff, just real information about getting help.
 
 
 ## The Reality of Mental Health Care in Tampa Bay
@@ -169,7 +169,7 @@ Beyond the VA system, several private practices specialize in military families:
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -278,7 +278,7 @@ Professional mental health treatment works best when combined with community sup
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Getting connected to quality healthcare — including mental health services — is part of making any move successful.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Getting connected to quality healthcare — including mental health services — is part of making any move successful.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

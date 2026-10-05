@@ -1,7 +1,7 @@
 ---
 title: "How to Get a Florida Fishing License — Every Option Explained"
 metaTitle: "How to Get a Florida Fishing License — Every Option Explained | TB Relo"
-metaDescription: "How to Get a Florida Fishing License. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "How to Get a Florida Fishing License. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Practical / Legal"
 subcategory: "Admin Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Florida fishing license cost types"
 publishedAt: "2025-07-07T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-07-07T08:00:00-04:00"
@@ -252,7 +252,7 @@ Florida Marine Patrol and FWC officers don't mess around. I've watched them work
 **The "I didn't know" defense doesn't work.** Ignorance of licensing requirements isn't a valid excuse under Florida law.
 
 
-## Pro Tips from 23 Years of Tampa Bay Living
+## Pro Tips from Over a Decade of Tampa Bay Living
 
 ### Timing Your Purchase
 
@@ -296,7 +296,7 @@ Getting your fishing license is just one item on your Florida relocation list. W
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

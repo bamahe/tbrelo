@@ -55,4 +55,4 @@ If you live in St. Pete and work in Tampa (or vice versa), you're crossing a bri
 
 {{nowtb}} has helped hundreds of families decide which side of the bay fits them best. Barrett knows every neighborhood on both sides and won't steer you wrong.
 
-*Ready to make the move? Barrett Henry has been helping families relocate to Tampa Bay for over 23 years. {{nowtb}}*
+*Ready to make the move? Barrett Henry has been helping families relocate to Tampa Bay for over a decade. {{nowtb}}*

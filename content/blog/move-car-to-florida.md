@@ -1,7 +1,7 @@
 ---
 title: "How to Move Your Car to Florida — Drive, Ship, or Tow?"
 metaTitle: "How to Move Your Car to Florida — Drive, Ship, or Tow? | TB Relo"
-metaDescription: "How to Move Your Car to Florida. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "How to Move Your Car to Florida. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Relocation Logistics"
 subcategory: "How-To"
@@ -9,7 +9,7 @@ primaryKeyword: "ship car to Florida cost"
 publishedAt: "2025-11-06T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-11-06T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/move-car-to-florida.webp"
 ---
 
-You're relocating to Tampa Bay, and now you're staring at your car wondering: do I drive this thing 1,200 miles, pay someone to haul it, or figure out something else entirely? After helping 500+ families move here over 23 years, I've seen every variation of this decision — and the regrets that follow bad choices.
+You're relocating to Tampa Bay, and now you're staring at your car wondering: do I drive this thing 1,200 miles, pay someone to haul it, or figure out something else entirely? After helping 500+ families move here over a decade, I've seen every variation of this decision — and the regrets that follow bad choices.
 
 Let me save you some headaches with the real numbers, honest pros and cons, and what actually works for different situations.
 
@@ -63,7 +63,7 @@ Only makes sense if you're already renting a U-Haul truck or large SUV capable o
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -253,7 +253,7 @@ Your [moving checklist](/blog/ultimate-moving-checklist/) should include calling
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

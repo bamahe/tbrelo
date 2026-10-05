@@ -1,7 +1,7 @@
 ---
 title: "The Truth About Florida Tap Water (And What to Do About It)"
 metaTitle: "The Truth About Florida Tap Water (And What to Do About It) | TB Relo"
-metaDescription: "The Truth About Florida Tap Water (And What to Do About It). Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "The Truth About Florida Tap Water (And What to Do About It). Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Florida Life"
 subcategory: "Survival Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Florida tap water taste"
 publishedAt: "2024-09-25T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-09-25T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/florida-tap-water-guide.webp"
 
 Moving to Florida? Congratulations on escaping winter. Now let's talk about something nobody mentions until you're already unpacking boxes: your tap water is going to taste like a science experiment gone wrong.
 
-After 23 years of helping families relocate to Tampa Bay, I've fielded more panicked calls about water quality than home inspections. "Barrett, is our water safe to drink?" "Why does it smell like eggs?" "Did we move next to a swamp?"
+After over a decade of helping families relocate to Tampa Bay, I've fielded more panicked calls about water quality than home inspections. "Barrett, is our water safe to drink?" "Why does it smell like eggs?" "Did we move next to a swamp?"
 
 Here's the straight truth about Florida's tap water — what causes those funky tastes and smells, which areas have it worst, and exactly how to fix it without breaking the bank.
 
@@ -80,7 +80,7 @@ Florida water treatment plants use more chlorine than northern facilities becaus
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -278,7 +278,7 @@ Those white spots on everything? You'll buy specialty cleaners to remove mineral
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

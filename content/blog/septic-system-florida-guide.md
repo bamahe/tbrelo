@@ -1,7 +1,7 @@
 ---
 title: "What to Know About Septic Systems in Florida"
 metaTitle: "What to Know About Septic Systems in Florida | TB Relo"
-metaDescription: "What to Know About Septic Systems in Florida. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "What to Know About Septic Systems in Florida. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Real Estate"
 subcategory: "Buying Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "septic system Florida home buying"
 publishedAt: "2024-12-17T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-12-17T08:00:00-04:00"
@@ -27,7 +27,7 @@ You're house hunting in Tampa Bay and just found your dream home. Great bones, p
 
 Before you run for the hills, take a breath. About 2.6 million Florida homes rely on septic systems — that's roughly 30% of all residences. In Tampa Bay's more rural areas like eastern [Hillsborough County](/counties/hillsborough/) or parts of [Pasco](/counties/pasco/), septic systems are actually the norm, not the exception.
 
-After 23 years of helping buyers navigate these waters, I can tell you that septic doesn't have to be scary. But it absolutely requires doing your homework. Here's everything you need to know before you sign that contract.
+After 24 years of helping buyers navigate these waters, I can tell you that septic doesn't have to be scary. But it absolutely requires doing your homework. Here's everything you need to know before you sign that contract.
 
 ## Why Florida Loves Septic Systems
 
@@ -251,7 +251,7 @@ Winter months offer the best conditions for thorough system evaluation.
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

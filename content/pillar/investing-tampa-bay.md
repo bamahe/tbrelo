@@ -1,7 +1,7 @@
 ---
 title: "Real Estate Investing in Tampa Bay — Rental Market, ROI, and Strategy Guide"
 metaTitle: "Tampa Bay Real Estate Investing Guide: Rentals, ROI & Strategy (2026) | TB Relo"
-metaDescription: "Complete Tampa Bay real estate investment guide — rental market by county, cap rates, Section 8 realities, STR rules, and property management from a 23-year local."
+metaDescription: "Complete Tampa Bay real estate investment guide — rental market by county, cap rates, Section 8 realities, STR rules, and property management from a longtime local."
 type: pillar
 publishedAt: "2026-03-15"
 updatedAt: "2026-03-15"
@@ -11,7 +11,7 @@ updatedAt: "2026-03-15"
 
 Tampa Bay checks every box for real estate investors: population growth driving rental demand, no state income tax on rental income, a diversified job market that attracts both young professionals and retirees, tourism that supports short-term rentals, and property values that — while no longer in frenzy mode — continue to appreciate steadily.
 
-I've been helping investors buy, manage, and optimize rental properties in Tampa Bay for over 23 years. This guide covers the entire investment landscape: where to buy, what to expect for returns, the Section 8 reality, short-term rental rules, and why property management isn't optional — it's essential.
+I've been helping investors buy, manage, and optimize rental properties in Tampa Bay for over a decade. This guide covers the entire investment landscape: where to buy, what to expect for returns, the Section 8 reality, short-term rental rules, and why property management isn't optional — it's essential.
 
 ## The Investment Case for Tampa Bay
 
@@ -261,7 +261,7 @@ If you're ready to invest in Tampa Bay real estate, here's the sequence:
 1. **Define your strategy** — Cash flow, appreciation, or both? Long-term or short-term rental?
 2. **Get pre-approved** — Investment property loans require 20–25% down and higher rates than primary residence loans. {{lendingtree}} can help you compare investment property loan options.
 3. **Choose your market** — Use the county breakdowns above to identify where your strategy fits best.
-4. **Find an agent who knows investment properties** — {{nowtb}} has been helping investors identify, acquire, and optimize rental properties in Tampa Bay for over 23 years. Barrett knows which neighborhoods have the strongest rental demand, which areas have the best price-to-rent ratios, and which properties will attract quality tenants.
+4. **Find an agent who knows investment properties** — {{nowtb}} has been helping investors identify, acquire, and optimize rental properties in Tampa Bay for over a decade. Barrett knows which neighborhoods have the strongest rental demand, which areas have the best price-to-rent ratios, and which properties will attract quality tenants.
 5. **Line up property management** — {{vivipm}} before you close, not after. Having management in place means your property starts generating income immediately.
 
 ## FAQ
@@ -278,4 +278,4 @@ Depends on your income and the properties. At current rates, most Tampa Bay rent
 ### Can I manage properties remotely?
 Yes, with professional property management. Do not attempt self-management from out of state. The savings on management fees is not worth the risk of missed maintenance, legal missteps, or lost tenants. {{vivipm}} handles everything for remote investors.
 
-*Thinking about relocating to Tampa Bay? Barrett Henry has been helping families move to Tampa Bay for over 23 years. {{nowtb}}*
+*Thinking about relocating to Tampa Bay? Barrett Henry has been helping families move to Tampa Bay for over a decade. {{nowtb}}*

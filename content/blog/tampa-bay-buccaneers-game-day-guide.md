@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Buccaneers Game Day Guide"
 metaTitle: "Tampa Bay Buccaneers Game Day Guide | TB Relo"
-metaDescription: "Tampa Bay Buccaneers Game Day Guide. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa Bay Buccaneers Game Day Guide. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Seasonal / Events"
 subcategory: "Event Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Bucs game day tips"
 publishedAt: "2025-04-27T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-04-27T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/tampa-bay-buccaneers-game-day-guide.webp"
 ---
 
-After 23 years of showing people around Tampa Bay, I've learned that nothing captures the spirit of this city quite like a Bucs game at Raymond James Stadium. Whether you're moving here and want to understand the local culture or just visiting for a game, here's everything you need to know to do game day right.
+After over a decade of showing people around Tampa Bay, I've learned that nothing captures the spirit of this city quite like a Bucs game at Raymond James Stadium. Whether you're moving here and want to understand the local culture or just visiting for a game, here's everything you need to know to do game day right.
 
 
 ## Getting to Raymond James Stadium: Transportation That Actually Works
@@ -208,7 +208,7 @@ If the Bucs make the playoffs, everything changes. Ticket prices triple, parking
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

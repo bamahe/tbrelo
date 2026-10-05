@@ -1,7 +1,7 @@
 ---
 title: "Closing Costs in Florida — What Buyers and Sellers Actually Pay"
 metaTitle: "Closing Costs in Florida — What Buyers and Sellers Actually Pay | TB Relo"
-metaDescription: "Closing Costs in Florida. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Closing Costs in Florida. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Real Estate"
 subcategory: "Buying Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Florida closing costs buyer seller"
 publishedAt: "2024-11-09T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-11-09T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/florida-closing-costs-explained.webp"
 ---
 
-After 23 years of walking Tampa Bay buyers and sellers through closing tables, I've seen the same shocked faces hundreds of times. "Wait, how much are my closing costs again?" 
+After more than a decade of walking Tampa Bay buyers and sellers through closing tables, I've seen the same shocked faces hundreds of times. "Wait, how much are my closing costs again?" 
 
 Here's the reality: Florida closing costs aren't just high — they're structured differently than most states. And if you're moving here from somewhere else, you're in for some surprises.
 
@@ -210,7 +210,7 @@ Understanding closing costs is crucial for your [Tampa Bay relocation budget](co
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

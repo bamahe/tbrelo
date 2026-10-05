@@ -1,7 +1,7 @@
 ---
 title: "What Is a CDD Fee in Florida? (And Why It Matters)"
 metaTitle: "What Is a CDD Fee in Florida? (And Why It Matters) | TB Relo"
-metaDescription: "What Is a CDD Fee in Florida? (And Why It Matters). Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "What Is a CDD Fee in Florida? (And Why It Matters). Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Real Estate"
 subcategory: "Buying Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "CDD fee Florida explained"
 publishedAt: "2024-10-30T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-10-30T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/what-is-cdd-fee-florida.webp"
 
 You're house hunting in Tampa Bay and find the perfect home. Great neighborhood, solid schools, reasonable price. Then you see it on the disclosure: "CDD Fee: $1,847 annually." Your agent mumbles something about infrastructure, but what does that actually mean for your wallet?
 
-Let me break this down for you. After 23 years of Tampa Bay real estate, I've seen CDD fees confuse more buyers than hurricane insurance requirements. Here's everything you need to know about Community Development District fees — what they are, why they exist, and how they'll impact your homeownership costs.
+Let me break this down for you. After over a decade of Tampa Bay real estate, I've seen CDD fees confuse more buyers than hurricane insurance requirements. Here's everything you need to know about Community Development District fees — what they are, why they exist, and how they'll impact your homeownership costs.
 
 
 ## What Is a CDD Fee?
@@ -209,7 +209,7 @@ Properties in well-managed CDD communities often maintain values better than sim
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

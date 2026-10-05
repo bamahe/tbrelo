@@ -1,7 +1,7 @@
 ---
 title: "Waterfront Homes in Tampa Bay — What Buyers Need to Know"
 metaTitle: "Waterfront Homes in Tampa Bay — What Buyers Need to Know | TB Relo"
-metaDescription: "Waterfront Homes in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Waterfront Homes in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Real Estate"
 subcategory: "Buying Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "waterfront homes Tampa Bay"
 publishedAt: "2024-11-23T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-11-23T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/waterfront-homes-tampa-bay-guide.webp"
 ---
 
-The dream of waking up to water views and stepping onto your own dock isn't just fantasy in Tampa Bay — it's a legitimate housing option. But after 23 years of helping clients navigate waterfront purchases, I can tell you the reality is more complex than the Instagram posts suggest.
+The dream of waking up to water views and stepping onto your own dock isn't just fantasy in Tampa Bay — it's a legitimate housing option. But after 24 years of helping clients navigate waterfront purchases, I can tell you the reality is more complex than the Instagram posts suggest.
 
 Tampa Bay's 400+ miles of coastline offer everything from $500,000 canal homes to $5 million bayfront estates. The key is understanding what you're actually buying beyond the pretty view.
 
@@ -78,7 +78,7 @@ I've seen buyers skip seawall inspections and face $30,000 repair bills within t
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -245,7 +245,7 @@ Don't get emotional about the view. Treat it like any investment with unique ris
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

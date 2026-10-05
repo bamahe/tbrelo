@@ -1,7 +1,7 @@
 ---
 title: "Best Kayaks for Tampa Bay Waters"
 metaTitle: "Best Kayaks for Tampa Bay Waters | TB Relo"
-metaDescription: "Best Kayaks for Tampa Bay Waters. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Best Kayaks for Tampa Bay Waters. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Affiliate / Products"
 subcategory: "Product Roundup"
@@ -9,7 +9,7 @@ primaryKeyword: "best kayak Tampa Bay"
 publishedAt: "2025-10-13T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-10-13T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/best-kayaks-tampa-bay.webp"
 ---
 
-After 23 years in Tampa Bay real estate, I've paddled these waters in everything from basic recreational kayaks to high-end fishing rigs. When clients ask about the best kayaks for our unique conditions, I tell them the same thing: Tampa Bay isn't your typical lake. We've got shallow grass flats, open bay crossings, tidal currents, and enough wind to humble any paddler.
+After over a decade in Tampa Bay real estate, I've paddled these waters in everything from basic recreational kayaks to high-end fishing rigs. When clients ask about the best kayaks for our unique conditions, I tell them the same thing: Tampa Bay isn't your typical lake. We've got shallow grass flats, open bay crossings, tidal currents, and enough wind to humble any paddler.
 
 The wrong kayak here means fighting the elements instead of enjoying them. The right one opens up 400 square miles of some of Florida's best paddling waters.
 
@@ -46,7 +46,7 @@ Tampa Bay's conditions separate the tourists from the locals pretty quickly. Our
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -227,7 +227,7 @@ Florida law requires specific safety equipment for kayaks over 10 feet:
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

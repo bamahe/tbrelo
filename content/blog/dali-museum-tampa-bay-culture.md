@@ -1,7 +1,7 @@
 ---
 title: "The Dali Museum and Beyond — Tampa Bay's Best Cultural Experiences"
 metaTitle: "The Dali Museum and Beyond — Tampa Bay's Best Cultural Experiences | TB Relo"
-metaDescription: "The Dali Museum and Beyond. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "The Dali Museum and Beyond. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Lifestyle / Food"
 subcategory: "Local Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Dali Museum St Pete"
 publishedAt: "2025-09-07T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-09-07T08:00:00-04:00"
@@ -45,7 +45,7 @@ Plan at least 2-3 hours. The permanent collection takes about 90 minutes if you'
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -241,7 +241,7 @@ The infrastructure continues improving. The proposed Bay Area Regional Transit e
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

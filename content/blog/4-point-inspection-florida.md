@@ -1,7 +1,7 @@
 ---
 title: "4-Point Inspection in Florida — What It Covers and Why You Need It"
 metaTitle: "4-Point Inspection in Florida — What It Covers and Why You Need It | TB Relo"
-metaDescription: "4-Point Inspection in Florida. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "4-Point Inspection in Florida. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Real Estate"
 subcategory: "Buying Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "4 point inspection Florida"
 publishedAt: "2024-11-21T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-11-21T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/4-point-inspection-florida.webp"
 
 If you're buying a home in Florida or trying to get insurance on one you already own, you've probably heard about a "4-point inspection." This isn't some optional nice-to-have — it's often mandatory for insurance companies, especially on homes built before 1980.
 
-After 23 years selling homes across Tampa Bay, I've seen too many buyers caught off guard by 4-point inspection requirements. Some find out at the last minute their dream home needs $15,000 in electrical work before any insurance company will touch it. Others discover their "move-in ready" house has a roof that's one hurricane season away from disaster.
+After over a decade selling homes across Tampa Bay, I've seen too many buyers caught off guard by 4-point inspection requirements. Some find out at the last minute their dream home needs $15,000 in electrical work before any insurance company will touch it. Others discover their "move-in ready" house has a roof that's one hurricane season away from disaster.
 
 This guide breaks down exactly what a 4-point inspection covers, when you need one, and what to expect during the process. No corporate fluff — just the facts you need to make smart decisions about Florida real estate.
 
@@ -223,7 +223,7 @@ These aren't small numbers, which is why smart buyers factor potential improveme
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -324,7 +324,7 @@ Buyers increasingly expect updated systems, especially electrical and HVAC, in h
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

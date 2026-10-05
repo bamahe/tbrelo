@@ -52,4 +52,4 @@ The tradeoff: Bradenton proper still has rougher areas, the commercial corridors
 
 {{nowtb}} knows every pocket of both cities and can help you find the right neighborhood at the right price.
 
-*Ready to make the move? Barrett Henry has been helping families relocate to Tampa Bay for over 23 years. {{nowtb}}*
+*Ready to make the move? Barrett Henry has been helping families relocate to Tampa Bay for over a decade. {{nowtb}}*

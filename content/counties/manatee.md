@@ -196,4 +196,4 @@ Sarasota County is more established, more expensive, and has a stronger cultural
 
 ---
 
-*Thinking about relocating to Manatee County? Barrett Henry has been helping families move to Tampa Bay for over 23 years. {{nowtb}}*
+*Thinking about relocating to Manatee County? Barrett Henry has been helping families move to Tampa Bay for over a decade. {{nowtb}}*

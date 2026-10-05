@@ -1,7 +1,7 @@
 ---
 title: "Tampa International Airport Guide for New Residents"
 metaTitle: "Tampa International Airport Guide for New Residents | TB Relo"
-metaDescription: "Tampa International Airport Guide for New Residents. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa International Airport Guide for New Residents. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Transportation"
 subcategory: "Commute Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "TPA airport guide"
 publishedAt: "2026-02-02T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2026-02-02T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/tampa-international-airport-guide.webp"
 ---
 
-Moving to Tampa Bay means you've just landed near one of the best airports in the country. After 23 years of helping families relocate here, I've seen countless clients discover that Tampa International Airport (TPA) isn't just convenient — it's actually a pleasure to use. Let me give you the insider's guide to navigating your new hometown airport like a local.
+Moving to Tampa Bay means you've just landed near one of the best airports in the country. After over a decade of helping families relocate here, I've seen countless clients discover that Tampa International Airport (TPA) isn't just convenient — it's actually a pleasure to use. Let me give you the insider's guide to navigating your new hometown airport like a local.
 
 
 ## Why TPA Consistently Ranks Among America's Best Airports
@@ -215,7 +215,7 @@ While TPA isn't a major hub like Atlanta or Dallas, it handles connections well.
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

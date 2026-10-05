@@ -1,7 +1,7 @@
 ---
 title: "Best Food Halls in Tampa Bay"
 metaTitle: "Best Food Halls in Tampa Bay | TB Relo"
-metaDescription: "Best Food Halls in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Best Food Halls in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Lifestyle / Food"
 subcategory: "Local Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Tampa Bay food halls"
 publishedAt: "2025-08-15T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-08-15T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/tampa-bay-food-halls.webp"
 ---
 
-Food halls have transformed Tampa Bay's dining scene from scattered strip malls into vibrant culinary destinations where you can sample everything from Korean BBQ to Cuban sandwiches without leaving the building. After 23 years of showing clients around the Bay Area, I've watched these spaces evolve from afterthoughts into genuine community gathering places.
+Food halls have transformed Tampa Bay's dining scene from scattered strip malls into vibrant culinary destinations where you can sample everything from Korean BBQ to Cuban sandwiches without leaving the building. After more than a decade of showing clients around the Bay Area, I've watched these spaces evolve from afterthoughts into genuine community gathering places.
 
 The best food halls here aren't just about convenience — they're about discovery. You'll find James Beard-nominated chefs slinging tacos next to third-generation family recipes, all under one roof with craft beer on tap.
 
@@ -59,7 +59,7 @@ The space hosts regular events including live music, yoga classes, and seasonal 
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -158,7 +158,7 @@ The community room hosts events including trivia nights, book clubs, and local a
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

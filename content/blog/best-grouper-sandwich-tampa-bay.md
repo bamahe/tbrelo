@@ -1,7 +1,7 @@
 ---
 title: "Best Grouper Sandwich in Tampa Bay — The Definitive Ranking"
 metaTitle: "Best Grouper Sandwich in Tampa Bay — The Definitive Ranking | TB Relo"
-metaDescription: "Best Grouper Sandwich in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Best Grouper Sandwich in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Lifestyle / Food"
 subcategory: "Local Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "best grouper sandwich Tampa Bay"
 publishedAt: "2025-07-31T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-07-31T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: /images/blog/default.webp
 
 Look, I've lived in Tampa Bay for over two decades, and I've probably eaten more grouper sandwiches than any REALTOR should. Between showing houses and grabbing quick lunches with clients, I've sampled everything from beachside shacks to upscale bistros. The grouper sandwich isn't just food here — it's a way of life, a cultural touchstone, and honestly, a pretty solid litmus test for whether a restaurant "gets" Florida.
 
-After 23+ years of eating my way through the Bay Area (it's a tough job, but someone has to do it), here's my definitive ranking of the best grouper sandwich spots. No corporate fluff, no paid placements — just honest takes from someone who's been here long enough to remember when Ybor was actually sketchy.
+After more than a decade of eating my way through the Bay Area (it's a tough job, but someone has to do it), here's my definitive ranking of the best grouper sandwich spots. No corporate fluff, no paid placements — just honest takes from someone who's been here long enough to remember when Ybor was actually sketchy.
 
 
 ## What Makes a Great Grouper Sandwich
@@ -173,7 +173,7 @@ Pinellas County beaches generally offer better sunset views with your sandwich, 
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

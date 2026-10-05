@@ -1,7 +1,7 @@
 ---
 title: "Indian Rocks Beach vs Madeira Beach — Which Is Better for Relocators?"
 metaTitle: "Indian Rocks Beach vs Madeira Beach — Which Is Better for Relocators? | TB Relo"
-metaDescription: "Indian Rocks Beach vs Madeira Beach. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Indian Rocks Beach vs Madeira Beach. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "City Comparisons"
 subcategory: "Local"
@@ -9,7 +9,7 @@ primaryKeyword: "Indian Rocks Beach vs Madeira Beach FL"
 publishedAt: "2024-04-13T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-04-13T08:00:00-04:00"
@@ -69,7 +69,7 @@ Investment potential differs significantly between the two markets. Madeira Beac
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -217,7 +217,7 @@ Consider your daily routines, social preferences, and long-term housing plans. B
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

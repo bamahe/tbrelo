@@ -166,4 +166,4 @@ Affordability is the headliner, but the nature access is the sleeper hit. Weeki 
 
 ---
 
-*Thinking about relocating to Hernando County? Barrett Henry has been helping families move to Tampa Bay for over 23 years. {{nowtb}}*
+*Thinking about relocating to Hernando County? Barrett Henry has been helping families move to Tampa Bay for over a decade. {{nowtb}}*

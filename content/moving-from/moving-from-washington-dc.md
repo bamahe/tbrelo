@@ -85,4 +85,4 @@ D.C.'s dining scene is world-class and diverse. Tampa Bay is catching up rapidly
 ### Is Tampa Bay as transient as D.C.?
 Less so. D.C. turns over with every administration. Tampa Bay has more long-term residents mixed with transplants. You'll find it easier to build lasting friendships here because people aren't leaving every four years.
 
-*Ready to make the move? Barrett Henry has been helping families relocate to Tampa Bay for over 23 years. {{nowtb}}*
+*Ready to make the move? Barrett Henry has been helping families relocate to Tampa Bay for over a decade. {{nowtb}}*

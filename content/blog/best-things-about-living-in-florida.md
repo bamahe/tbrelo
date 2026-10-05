@@ -1,7 +1,7 @@
 ---
-title: "The Best Things About Living in Florida — Why I've Stayed 23+ Years"
+title: "The Best Things About Living in Florida — Why I've Stayed"
 metaTitle: "Best Things About Living in Florida — Honest Take | TB Relo"
-metaDescription: "The real upsides of living in Florida: no income tax, beaches, weather, lifestyle, and more from a 23-year Tampa Bay resident."
+metaDescription: "The real upsides of living in Florida: no income tax, beaches, weather, lifestyle, and more from a longtime Tampa Bay resident."
 type: blog
 publishedAt: "2026-03-15"
 updatedAt: "2026-03-15"
@@ -9,7 +9,7 @@ updatedAt: "2026-03-15"
 
 ## The Best Things About Living in Florida — Why I'm Never Leaving
 
-I wrote an [entire post about the worst things about living in Florida](/blog/worst-things-about-living-in-florida), and I meant every word. The bugs are terrible. The summer heat is oppressive. Insurance is a crisis. But here's the thing: I've been here for over 23 years, and I have zero intention of leaving. Neither do most of the people I know who've been here long enough to get past the adjustment period.
+I wrote an [entire post about the worst things about living in Florida](/blog/worst-things-about-living-in-florida), and I meant every word. The bugs are terrible. The summer heat is oppressive. Insurance is a crisis. But here's the thing: I've been here for over a decade, and I have zero intention of leaving. Neither do most of the people I know who've been here long enough to get past the adjustment period.
 
 The good stuff isn't just "nice beaches." It's a combination of financial advantages, lifestyle perks, and daily quality-of-life factors that, when stacked together, make Florida genuinely hard to beat. Here's the honest case for why this state is worth the palmetto bugs.
 
@@ -91,4 +91,4 @@ The [worst things are real](/blog/worst-things-about-living-in-florida). The bug
 
 {{nowtb}} helps families discover these advantages every day. I'll match you with the right community for your lifestyle, budget, and priorities — and I'll be honest about the tradeoffs along the way.
 
-*Ready to see what Florida life looks like for you? Barrett Henry has been living it for over 23 years. {{nowtb}}*
+*Ready to see what Florida life looks like for you? Barrett Henry has been living it for over 24 years. {{nowtb}}*

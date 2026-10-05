@@ -1,7 +1,7 @@
 ---
 title: "Living in Dade City (Deep Dive) — What It's Really Like (Honest Relocation Guide)"
 metaTitle: "Living in Dade City (Deep Dive) — What It's Really Like (Honest Relocation Guide) | TB Relo"
-metaDescription: "Living in Dade City (Deep Dive). Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Living in Dade City (Deep Dive). Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Neighborhoods"
 subcategory: "Deep Dive"
@@ -9,7 +9,7 @@ primaryKeyword: "living in Dade City FL"
 publishedAt: "2025-03-10T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-03-10T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/living-in-dade-city-guide.webp"
 
 Most people drive through Dade City on their way to somewhere else — maybe heading to Brooksville or cutting up to Ocala. Big mistake. This historic town of 7,200 people sits smack in the middle of [Pasco County](/counties/pasco/), and it's got character that newer Tampa Bay communities spend millions trying to manufacture.
 
-After 23 years selling homes across Tampa Bay, I've watched Dade City transform from a sleepy agricultural town to one of the region's most intriguing places to live. It's not for everyone — there's no Target within 20 minutes, and your delivery options are limited. But if you want authentic small-town Florida with reasonable home prices and a 45-minute commute to downtown Tampa, keep reading.
+After over a decade selling homes across Tampa Bay, I've watched Dade City transform from a sleepy agricultural town to one of the region's most intriguing places to live. It's not for everyone — there's no Target within 20 minutes, and your delivery options are limited. But if you want authentic small-town Florida with reasonable home prices and a 45-minute commute to downtown Tampa, keep reading.
 
 
 ## The Real Dade City Experience
@@ -55,7 +55,7 @@ The market moves slower here than in Tampa or St. Petersburg. Homes typically ta
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -220,7 +220,7 @@ The volunteer fire department exemplifies community involvement. Residents suppo
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

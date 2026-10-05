@@ -1,7 +1,7 @@
 ---
 title: "Best Grills for Florida Outdoor Cooking"
 metaTitle: "Best Grills for Florida Outdoor Cooking | TB Relo"
-metaDescription: "Best Grills for Florida Outdoor Cooking. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Best Grills for Florida Outdoor Cooking. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Affiliate / Products"
 subcategory: "Product Roundup"
@@ -9,7 +9,7 @@ primaryKeyword: "best grill Florida"
 publishedAt: "2025-10-16T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-10-16T08:00:00-04:00"
@@ -24,7 +24,7 @@ featuredImage: "/images/blog/best-grills-florida-outdoor.webp"
 ---
 
 
-After 23 years of helping families move to Tampa Bay, I've seen plenty of grilling disasters. That shiny Weber that worked perfectly in Chicago? It's now rusted through after two Florida summers. The pellet grill that was the talk of the Denver neighborhood? Good luck keeping those pellets dry during our daily afternoon thunderstorms.
+After over a decade of helping families move to Tampa Bay, I've seen plenty of grilling disasters. That shiny Weber that worked perfectly in Chicago? It's now rusted through after two Florida summers. The pellet grill that was the talk of the Denver neighborhood? Good luck keeping those pellets dry during our daily afternoon thunderstorms.
 
 Florida grilling isn't like anywhere else. We deal with salt air, humidity that makes everything sticky, sudden downpours that can soak your setup in minutes, and heat that makes standing over a 500-degree grill feel like punishment. But we also get to grill year-round, host pool parties in February, and enjoy outdoor cooking like nowhere else on earth.
 
@@ -266,7 +266,7 @@ For ongoing maintenance, **Grill Cleaning Pros Tampa** offers quarterly deep cle
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

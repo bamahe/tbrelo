@@ -1,7 +1,7 @@
 ---
 title: "Florida State Fair Guide — What to Eat, Skip, and Know"
 metaTitle: "Florida State Fair Guide — What to Eat, Skip, and Know | TB Relo"
-metaDescription: "Florida State Fair Guide. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Florida State Fair Guide. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Seasonal / Events"
 subcategory: "Event Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Florida State Fair Tampa"
 publishedAt: "2025-04-08T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-04-08T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/florida-state-fair-guide.webp"
 ---
 
-The Florida State Fair rolls into Tampa every February like a carnival fever dream — 12 days of deep-fried everything, questionable midway games, and the kind of organized chaos that somehow works. After 23 years of living here and countless fair visits with clients' families, I've learned what's worth your time and what'll leave you broke and disappointed.
+The Florida State Fair rolls into Tampa every February like a carnival fever dream — 12 days of deep-fried everything, questionable midway games, and the kind of organized chaos that somehow works. After over a decade of living here and countless fair visits with clients' families, I've learned what's worth your time and what'll leave you broke and disappointed.
 
 This isn't your quaint county fair. The Florida State Fair draws 500,000+ people annually to the fairgrounds at 4800 US Highway 301 North. It's massive, overwhelming, and absolutely essential Tampa Bay experience — if you know how to navigate it.
 
@@ -94,7 +94,7 @@ Budget $8-15 per novelty item. Half are brilliant, half are Instagram bait that 
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -239,7 +239,7 @@ Consider rideshare for evening visits — parking becomes a nightmare, and you w
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

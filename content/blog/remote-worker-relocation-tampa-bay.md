@@ -1,7 +1,7 @@
 ---
 title: "Remote Worker Relocation to Tampa Bay — The Digital Nomad's Guide"
 metaTitle: "Remote Worker Relocation to Tampa Bay — The Digital Nomad's Guide | TB Relo"
-metaDescription: "Remote Worker Relocation to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Remote Worker Relocation to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Relocation Logistics"
 subcategory: "How-To"
@@ -9,7 +9,7 @@ primaryKeyword: "remote work Tampa Bay"
 publishedAt: "2025-11-17T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-11-17T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/remote-worker-relocation-tampa-bay.webp"
 
 The pandemic changed everything about where we work. Now you can keep your San Francisco salary while living where your money actually matters. Tampa Bay isn't just sunshine and beaches — it's become a remote work magnet for good reason.
 
-I've watched this transformation firsthand over my 23 years selling real estate here. The calls started in 2020: "Barrett, we're keeping our jobs but leaving California/New York/wherever. What's Tampa Bay really like for remote workers?"
+I've watched this transformation firsthand over my decade-plus selling real estate here. The calls started in 2020: "Barrett, we're keeping our jobs but leaving California/New York/wherever. What's Tampa Bay really like for remote workers?"
 
 Here's what I tell them.
 
@@ -216,7 +216,7 @@ For complete relocation guidance, see our [Tampa Bay moving guide](/moving-guide
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

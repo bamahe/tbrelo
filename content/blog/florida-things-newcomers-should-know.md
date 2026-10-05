@@ -9,7 +9,7 @@ updatedAt: "2026-03-15"
 
 ## 50 Things Every Florida Newcomer Should Know
 
-Moving to Florida is a culture shock, even if you've vacationed here a hundred times. Living here is fundamentally different from visiting. Nobody hands you a manual when you cross the state line, so here's the one I wish someone had given me 23 years ago. Some of these are practical. Some are cultural. All of them are real.
+Moving to Florida is a culture shock, even if you've vacationed here a hundred times. Living here is fundamentally different from visiting. Nobody hands you a manual when you cross the state line, so here's the one I wish someone had given me 24 years ago. Some of these are practical. Some are cultural. All of them are real.
 
 ### The Essentials
 
@@ -133,4 +133,4 @@ Welcome to Florida, neighbor. It's weird, it's wonderful, and it's home.
 
 {{nowtb}} helps newcomers find the right neighborhood in Tampa Bay based on what actually matters to them. Don't just pick a house — pick a life.
 
-*Making the move? Barrett Henry has been helping families land in Tampa Bay for over 23 years. {{nowtb}}*
+*Making the move? Barrett Henry has been helping families land in Tampa Bay for over a decade. {{nowtb}}*

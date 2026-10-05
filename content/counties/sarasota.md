@@ -191,4 +191,4 @@ Both are Gulf Coast cities with beautiful beaches, strong dining scenes, and ups
 
 ---
 
-*Thinking about relocating to Sarasota County? Barrett Henry has been helping families move to Tampa Bay for over 23 years. {{nowtb}}*
+*Thinking about relocating to Sarasota County? Barrett Henry has been helping families move to Tampa Bay for over a decade. {{nowtb}}*

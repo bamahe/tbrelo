@@ -9,7 +9,7 @@ updatedAt: "2026-03-15"
 
 ## Your First Florida Hurricane Season — Don't Panic, But Do Prepare
 
-Hurricane season runs June 1 through November 30 every year. That's six months of potential storms, and if you're new to Florida, the anxiety leading up to your first season can be worse than the storms themselves. Here's what 23 years of living through hurricane seasons has taught me: most years are uneventful, but the years that aren't are serious. Preparation is the difference between an inconvenience and a disaster.
+Hurricane season runs June 1 through November 30 every year. That's six months of potential storms, and if you're new to Florida, the anxiety leading up to your first season can be worse than the storms themselves. Here's what 24 years of living through hurricane seasons has taught me: most years are uneventful, but the years that aren't are serious. Preparation is the difference between an inconvenience and a disaster.
 
 ## The Reality Check
 

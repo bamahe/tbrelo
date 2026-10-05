@@ -1,7 +1,7 @@
 ---
 title: "Florida Bright Futures Scholarship — Saving for Your Kids"
 metaTitle: "Florida Bright Futures Scholarship — Saving for Your Kids | TB Relo"
-metaDescription: "Florida Bright Futures Scholarship. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Florida Bright Futures Scholarship. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Education"
 subcategory: "School Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Bright Futures scholarship Florida"
 publishedAt: "2026-04-12T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2026-04-12T08:00:00-04:00"
@@ -309,7 +309,7 @@ These numbers don't include room and board, but they represent pure tuition savi
 
 ## Common Mistakes That Cost Money
 
-Over 23 years, I've watched families make the same expensive mistakes:
+Over 24 years, I've watched families make the same expensive mistakes:
 
 **Mistake #1: Wrong GPA calculation**
 Parents use overall GPA instead of core academic GPA. A student might have a 3.2 overall but 3.6 in core courses — qualifying for more money.
@@ -343,7 +343,7 @@ The key is applying broadly and early. Most scholarship deadlines fall between D
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

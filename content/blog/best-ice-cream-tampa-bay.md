@@ -1,7 +1,7 @@
 ---
 title: "Best Ice Cream and Gelato in Tampa Bay"
 metaTitle: "Best Ice Cream and Gelato in Tampa Bay | TB Relo"
-metaDescription: "Best Ice Cream and Gelato in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Best Ice Cream and Gelato in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Lifestyle / Food"
 subcategory: "Local Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "best ice cream Tampa Bay"
 publishedAt: "2025-08-04T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-08-04T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/best-ice-cream-tampa-bay.webp"
 ---
 
-Nothing beats a good ice cream on a 95-degree July afternoon in Tampa Bay. After 23+ years showing homes across Pinellas, Hillsborough, and Pasco counties, I've had my share of post-closing celebrations and client cool-downs at every frozen treat spot worth knowing about.
+Nothing beats a good ice cream on a 95-degree July afternoon in Tampa Bay. After more than a decade showing homes across Pinellas, Hillsborough, and Pasco counties, I've had my share of post-closing celebrations and client cool-downs at every frozen treat spot worth knowing about.
 
 This isn't some corporate listicle. These are the places locals actually go — from old-school soda fountains that've survived decades of development to gelato shops run by actual Italians. Whether you're house hunting in Hyde Park or just moved to Dunedin, here's where to find the good stuff.
 
@@ -184,7 +184,7 @@ Not every great ice cream experience requires premium pricing. Here are spots wh
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

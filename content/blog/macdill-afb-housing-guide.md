@@ -1,7 +1,7 @@
 ---
 title: "MacDill AFB Area Guide — Best Neighborhoods for Military Families"
 metaTitle: "MacDill AFB Area Guide — Best Neighborhoods for Military Families | TB Relo"
-metaDescription: "MacDill AFB Area Guide. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "MacDill AFB Area Guide. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Real Estate"
 subcategory: "Buying Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "MacDill AFB housing neighborhoods"
 publishedAt: "2024-12-15T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-12-15T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/macdill-afb-housing-guide.webp"
 
 ## Why the MacDill AFB Area Actually Works for Military Families
 
-Moving to MacDill Air Force Base isn't just about finding any house within commute distance. After 23 years helping military families relocate here, I've learned that the right neighborhood can make or break your Tampa Bay experience — especially when you're dealing with deployments, TDY assignments, and the unique pressures of military life.
+Moving to MacDill Air Force Base isn't just about finding any house within commute distance. After over a decade helping military families relocate here, I've learned that the right neighborhood can make or break your Tampa Bay experience — especially when you're dealing with deployments, TDY assignments, and the unique pressures of military life.
 
 The good news? You've got solid options. The challenging news? Tampa Bay's housing market doesn't wait for anyone, and understanding BAH rates versus actual costs here requires some local intel.
 
@@ -44,7 +44,7 @@ Most MacDill families I work with aim for a 30-minute commute or less. During ru
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -195,7 +195,7 @@ Tampa Bay offers numerous private school options, though tuition ranges from $8,
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

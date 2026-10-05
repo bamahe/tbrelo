@@ -161,4 +161,4 @@ On average, yes. Median home prices in Pinellas run $30K to $60K higher than Hil
 
 ---
 
-*Thinking about relocating to Pinellas County? Barrett Henry has been helping families move to Tampa Bay for over 23 years. {{nowtb}}*
+*Thinking about relocating to Pinellas County? Barrett Henry has been helping families move to Tampa Bay for over a decade. {{nowtb}}*

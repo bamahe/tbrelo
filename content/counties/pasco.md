@@ -168,4 +168,4 @@ Pasco County's effective property tax rate is approximately 0.9%, which is sligh
 
 ---
 
-*Thinking about relocating to Pasco County? Barrett Henry has been helping families move to Tampa Bay for over 23 years. {{nowtb}}*
+*Thinking about relocating to Pasco County? Barrett Henry has been helping families move to Tampa Bay for over a decade. {{nowtb}}*

@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Daycare and Preschool Guide"
 metaTitle: "Tampa Bay Daycare and Preschool Guide | TB Relo"
-metaDescription: "Tampa Bay Daycare and Preschool Guide. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa Bay Daycare and Preschool Guide. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Practical / Legal"
 subcategory: "Admin Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "daycare Tampa Bay"
 publishedAt: "2025-06-21T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-06-21T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: /images/blog/default.webp
 ---
 
-Moving to Tampa Bay with kids? The daycare hunt starts now — not after you've moved. I've helped hundreds of families navigate this process over 23 years, and here's the truth: the best centers fill up fast, especially in desirable areas like South Tampa, Westchase, and New Tampa.
+Moving to Tampa Bay with kids? The daycare hunt starts now — not after you've moved. I've helped hundreds of families navigate this process over 24 years, and here's the truth: the best centers fill up fast, especially in desirable areas like South Tampa, Westchase, and New Tampa.
 
 
 ## The Tampa Bay Childcare Landscape
@@ -168,7 +168,7 @@ Google reviews help, but take extreme complaints and glowing praise with skeptic
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

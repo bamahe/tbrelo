@@ -1,7 +1,7 @@
 ---
 title: "How to Transfer Your Pet's Vet Records to Florida"
 metaTitle: "How to Transfer Your Pet's Vet Records to Florida | TB Relo"
-metaDescription: "How to Transfer Your Pet's Vet Records to Florida. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "How to Transfer Your Pet's Vet Records to Florida. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Practical / Legal"
 subcategory: "Admin Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "moving to Florida with pets vet records"
 publishedAt: "2025-06-12T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-06-12T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/transfer-pet-vet-records-florida.webp"
 ---
 
-Moving to Florida with your furry family members? You're not the first to discover that relocating pets involves more than just packing their favorite toys. After helping hundreds of families move to Tampa Bay over the past 23 years, I've seen pet owners scramble at the last minute when they realize Florida has specific requirements for veterinary records.
+Moving to Florida with your furry family members? You're not the first to discover that relocating pets involves more than just packing their favorite toys. After helping hundreds of families move to Tampa Bay over the past decade, I've seen pet owners scramble at the last minute when they realize Florida has specific requirements for veterinary records.
 
 The good news? It's not complicated once you know the system. The bad news? Wait until the week before your move, and you might be paying emergency vet fees or dealing with quarantine issues.
 
@@ -222,7 +222,7 @@ Schedule your pet's initial Florida veterinary appointment within 2-3 weeks of a
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

@@ -11,7 +11,7 @@ updatedAt: "2026-03-15"
 
 The frenzy is over. The days of 47 offers on a house listed for 30 minutes are gone. But the Tampa Bay housing market hasn't crashed either — it's normalized into something more rational, where buyers have leverage, inventory exists, and you can actually do a home inspection without losing the deal.
 
-Here's the straight talk from someone who's been selling real estate in this market for over 23 years: Tampa Bay is still a growth market. People are still moving here — from the Northeast, the Midwest, California, and internationally. The population is growing, the job market is diversifying, and the no-income-tax advantage isn't going away. But the market dynamics in 2026 are very different from 2021.
+Here's the straight talk from someone who's been selling real estate in this market for over a decade: Tampa Bay is still a growth market. People are still moving here — from the Northeast, the Midwest, California, and internationally. The population is growing, the job market is diversifying, and the no-income-tax advantage isn't going away. But the market dynamics in 2026 are very different from 2021.
 
 ## Market Overview — The Numbers
 
@@ -213,4 +213,4 @@ Buying based on the house without understanding the total monthly cost. Taxes, i
 
 Ready to start your home search? {{nowtb}} — Barrett Henry knows every neighborhood, every builder, and every pocket of value in this metro. The right agent doesn't just find you a house — they find you the right house at the right price in the right neighborhood.
 
-*Thinking about relocating to Tampa Bay? Barrett Henry has been helping families move to Tampa Bay for over 23 years. {{nowtb}}*
+*Thinking about relocating to Tampa Bay? Barrett Henry has been helping families move to Tampa Bay for over a decade. {{nowtb}}*

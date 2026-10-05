@@ -1,7 +1,7 @@
 ---
 title: "Best Outdoor Furniture That Survives Florida Weather"
 metaTitle: "Best Outdoor Furniture That Survives Florida Weather | TB Relo"
-metaDescription: "Best Outdoor Furniture That Survives Florida Weather. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Best Outdoor Furniture That Survives Florida Weather. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Affiliate / Products"
 subcategory: "Product Roundup"
@@ -9,7 +9,7 @@ primaryKeyword: "best outdoor furniture Florida"
 publishedAt: "2025-09-16T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-09-16T08:00:00-04:00"
@@ -259,7 +259,7 @@ Many furniture stores offer 12-36 month financing. For major purchases, this spr
 
 ---
 
-**Planning Your Outdoor Living Space?** Barrett Henry has been helping Tampa Bay families create perfect outdoor areas for over 23 years. From finding homes with great patios to recommending trusted local services.
+**Planning Your Outdoor Living Space?** Barrett Henry has been helping Tampa Bay families create perfect outdoor areas for over a decade. From finding homes with great patios to recommending trusted local services.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

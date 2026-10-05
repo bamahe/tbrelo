@@ -1,7 +1,7 @@
 ---
 title: "Best Family Restaurants in Tampa Bay — Where Kids Eat Free"
 metaTitle: "Best Family Restaurants in Tampa Bay — Where Kids Eat Free | TB Relo"
-metaDescription: "Best Family Restaurants in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Best Family Restaurants in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Lifestyle / Food"
 subcategory: "Local Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "family restaurants Tampa Bay kids eat free"
 publishedAt: "2025-09-13T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-09-13T08:00:00-04:00"
@@ -32,7 +32,7 @@ This isn't some corporate listicle stuffed with chain restaurants. These are the
 
 ## What Makes a Great Family Restaurant in Tampa Bay
 
-After 23+ years helping families relocate here, I've learned that parents care about three things: price, patience, and parking. The holy trinity of family dining.
+After over a decade helping families relocate here, I've learned that parents care about three things: price, patience, and parking. The holy trinity of family dining.
 
 **Price matters more than ambiance.** A $12 kids meal at a "family-friendly" chain feels insulting when your 6-year-old eats three chicken nuggets and asks for ice cream. The best family spots keep kids meals under $8 — often way under.
 
@@ -264,7 +264,7 @@ One adult meal plus one kids meal often feeds a family of three better than orde
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

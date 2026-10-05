@@ -1,7 +1,7 @@
 ---
 title: "Living in Lakeland (Deep Dive) — What It's Really Like (Honest Relocation Guide)"
 metaTitle: "Living in Lakeland (Deep Dive) — What It's Really Like (Honest Relocation Guide) | TB Relo"
-metaDescription: "Living in Lakeland (Deep Dive). Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Living in Lakeland (Deep Dive). Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Neighborhoods"
 subcategory: "Deep Dive"
@@ -9,7 +9,7 @@ primaryKeyword: "living in Lakeland FL"
 publishedAt: "2025-03-21T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-03-21T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: /images/blog/default.webp
 ---
 
-After 23 years selling homes across Tampa Bay, I've watched families wrestle with the same question: stay in the chaos of Tampa proper, or venture east to Lakeland? Here's the truth — Lakeland isn't just Tampa's quieter cousin. It's a legitimate city with its own personality, challenges, and surprising perks that most relocating families don't discover until after they've moved.
+After over a decade selling homes across Tampa Bay, I've watched families wrestle with the same question: stay in the chaos of Tampa proper, or venture east to Lakeland? Here's the truth — Lakeland isn't just Tampa's quieter cousin. It's a legitimate city with its own personality, challenges, and surprising perks that most relocating families don't discover until after they've moved.
 
 
 Let me cut through the marketing fluff. Lakeland sits 35 miles east of Tampa, population around 115,000, built around 38 named lakes (hence the name). It's where Florida Southern College students bike between Frank Lloyd Wright buildings, where retirees from Ohio discover they can actually afford lakefront living, and where young families realize they can get a 2,400-square-foot home for what buys them a 1,200-square-foot box in South Tampa.
@@ -95,7 +95,7 @@ Working-class area with pockets of gentrification. Homes start around $180,000, 
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -278,7 +278,7 @@ Inland location means intense summer heat without coastal breezes. June through 
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

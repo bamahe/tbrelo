@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Snowbird Guide — Part-Time Florida Living"
 metaTitle: "Tampa Bay Snowbird Guide — Part-Time Florida Living | TB Relo"
-metaDescription: "Tampa Bay Snowbird Guide. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa Bay Snowbird Guide. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Demographic / Niche"
 subcategory: "Audience Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "snowbird Tampa Bay"
 publishedAt: "2026-01-11T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2026-01-11T08:00:00-04:00"
@@ -42,7 +42,7 @@ Let's be honest — Florida has plenty of options for snowbirds. So why do so ma
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -162,7 +162,7 @@ This is where snowbirds either save serious money or make expensive mistakes. Fl
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

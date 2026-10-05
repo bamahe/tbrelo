@@ -1,7 +1,7 @@
 ---
 title: "How to Move Your Home Business to Florida"
 metaTitle: "How to Move Your Home Business to Florida | TB Relo"
-metaDescription: "How to Move Your Home Business to Florida. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "How to Move Your Home Business to Florida. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Relocation Logistics"
 subcategory: "How-To"
@@ -9,7 +9,7 @@ primaryKeyword: "relocate business to Florida"
 publishedAt: "2025-12-07T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-12-07T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/move-home-business-florida.webp"
 ---
 
-Moving your home business to Florida isn't just about packing boxes and changing addresses — it's about navigating state regulations, tax implications, and setting up shop in one of the most business-friendly states in the country. After 23 years helping families relocate to Tampa Bay, I've walked dozens of entrepreneurs through this process. Some nail it. Others get tangled up in paperwork that could've been avoided.
+Moving your home business to Florida isn't just about packing boxes and changing addresses — it's about navigating state regulations, tax implications, and setting up shop in one of the most business-friendly states in the country. After over a decade helping families relocate to Tampa Bay, I've walked dozens of entrepreneurs through this process. Some nail it. Others get tangled up in paperwork that could've been avoided.
 
 Here's what actually matters when you're bringing your business to the Sunshine State.
 
@@ -261,7 +261,7 @@ Need help navigating your [moving checklist](/moving-checklist/) or want guidanc
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

@@ -1,7 +1,7 @@
 ---
 title: "The Best Free Things to Do in Tampa Bay (Actually Free, Not '$5 Parking' Free)"
 metaTitle: "The Best Free Things to Do in Tampa Bay (Actually Free, Not '$5 Parking' Free) | TB Relo"
-metaDescription: "The Best Free Things to Do in Tampa Bay (Actually Free, Not '$5 Parking' Free). Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "The Best Free Things to Do in Tampa Bay (Actually Free, Not '$5 Parking' Free). Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Florida Life"
 subcategory: "Survival Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "free things to do Tampa Bay"
 publishedAt: "2024-10-20T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-10-20T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/free-things-tampa-bay.webp"
 
 Look, I get it. You're scrolling through "free activities in Tampa Bay" articles that list everything from "$15 craft brewery tours" to "free museums with $8 parking." That's not actually free, and frankly, it's insulting to your intelligence.
 
-After 23+ years of living here and showing families around Tampa Bay, I've compiled the genuinely free stuff — activities that won't cost you a dime, including parking. These are places I actually take my own family and friends who visit.
+After over a decade of living here and showing families around Tampa Bay, I've compiled the genuinely free stuff — activities that won't cost you a dime, including parking. These are places I actually take my own family and friends who visit.
 
 
 ## Why "Free" in Tampa Bay Usually Isn't
@@ -186,7 +186,7 @@ Hurricane season (June through November) can disrupt outdoor plans, but indoor a
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -210,7 +210,7 @@ Crowds affect enjoyment levels at popular free attractions. Weekends bring large
 
 Tampa Bay's free activities reflect the area's natural beauty, cultural diversity, and community spirit. From sunrise beach walks to downtown art festivals, the region offers entertainment options that cost nothing but create lasting memories.
 
-The key is knowing where locals go versus where tourists get directed. After 23+ years here, I've learned that the best free experiences in Tampa Bay often come from places that don't advertise, don't charge parking fees, and don't show up on most "free things to do" lists.
+The key is knowing where locals go versus where tourists get directed. After more than a decade here, I've learned that the best free experiences in Tampa Bay often come from places that don't advertise, don't charge parking fees, and don't show up on most "free things to do" lists.
 
 Whether you're considering [moving to Tampa Bay](/moving-guide/) or already call it home, these genuinely free activities provide entertainment, exercise, and exploration opportunities that rival expensive alternatives. The region's year-round outdoor weather, diverse communities, and natural settings create a playground that doesn't require admission fees.
 

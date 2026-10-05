@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Private Schools — The Complete Guide"
 metaTitle: "Tampa Bay Private Schools — The Complete Guide | TB Relo"
-metaDescription: "Tampa Bay Private Schools. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa Bay Private Schools. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Education"
 subcategory: "School Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "private schools Tampa Bay"
 publishedAt: "2026-04-02T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2026-04-02T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/tampa-bay-private-schools-guide.webp"
 
 Looking at private schools in Tampa Bay? You're in for some sticker shock. But also some genuinely excellent educational options that might be worth every penny — if you know where to look.
 
-After 23 years helping families relocate here, I've walked countless parents through this decision. The Tampa Bay area has over 200 private schools ranging from $8,000 annual tuition to $35,000+. The quality varies wildly, and the "most expensive" isn't always the best fit for your kid.
+After over a decade helping families relocate here, I've walked countless parents through this decision. The Tampa Bay area has over 200 private schools ranging from $8,000 annual tuition to $35,000+. The quality varies wildly, and the "most expensive" isn't always the best fit for your kid.
 
 
 ## The Private School Landscape in Tampa Bay
@@ -147,7 +147,7 @@ Financial aid exists at most schools, typically covering 10-30% of students. Don
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -255,7 +255,7 @@ The decision ultimately comes down to your child's specific needs, your family's
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

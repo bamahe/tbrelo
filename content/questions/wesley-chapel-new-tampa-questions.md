@@ -1,7 +1,7 @@
 ---
 title: "Wesley Chapel & New Tampa — 30 Questions Answered"
 metaTitle: "Wesley Chapel & New Tampa FAQ — Questions Answered by a Local REALTOR® | TB Relo"
-metaDescription: "Answers to 30 questions about Wesley Chapel and New Tampa. Schools, shopping, commute, Pasco vs Hillsborough, and more from a Tampa Bay REALTOR® with 23+ years experience."
+metaDescription: "Answers to 30 questions about Wesley Chapel and New Tampa. Schools, shopping, commute, Pasco vs Hillsborough, and more from a Tampa Bay REALTOR® with 23+ years of real estate experience."
 type: question
 category: "Neighborhoods"
 publishedAt: "2026-04-13"

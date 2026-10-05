@@ -9,7 +9,7 @@ updatedAt: "2026-04-13"
 
 ## Why Every Florida Home Needs a Generator
 
-This isn't a "nice to have" recommendation. After 23+ years in Tampa Bay, I can tell you that power outages during storms aren't a question of if — they're a question of when and how long.
+This isn't a "nice to have" recommendation. After over a decade in Tampa Bay, I can tell you that power outages during storms aren't a question of if — they're a question of when and how long.
 
 Hurricane Irma (2017) knocked out power for 6.7 million Florida customers. Some areas of Tampa Bay went 10–14 days without electricity. Hurricane Ian (2022) left parts of the state dark for weeks. Even a routine summer thunderstorm can take out your power for 4–12 hours, and in July, losing AC in a Florida home means indoor temps hit 90+ degrees within a couple of hours.
 

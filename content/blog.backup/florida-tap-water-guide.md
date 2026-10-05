@@ -9,7 +9,7 @@ primaryKeyword: "Florida tap water taste"
 publishedAt: "2024-09-25T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of Tampa Bay real estate experience."
 schema:
   type: Article
   datePublished: "2024-09-25T08:00:00-04:00"

@@ -1,7 +1,7 @@
 ---
 title: "Florida Fishing License Explained — And Where to Fish Without One"
 metaTitle: "Florida Fishing License Explained — And Where to Fish Without One | TB Relo"
-metaDescription: "Florida Fishing License Explained. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Florida Fishing License Explained. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Florida Life"
 subcategory: "Survival Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Florida fishing license cost"
 publishedAt: "2024-10-25T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-10-25T08:00:00-04:00"
@@ -140,7 +140,7 @@ The fine isn't just the money — it's the hassle of dealing with citations whil
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -214,7 +214,7 @@ Whether you need a license or not, fish responsibly. Follow size and bag limits,
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

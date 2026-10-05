@@ -1,7 +1,7 @@
 ---
 title: "What 'Island Time' Means and How It Changes You"
 metaTitle: "What 'Island Time' Means and How It Changes You | TB Relo"
-metaDescription: "What 'Island Time' Means and How It Changes You. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "What 'Island Time' Means and How It Changes You. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Florida Life"
 subcategory: "Survival Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Florida lifestyle pace of life"
 publishedAt: "2024-10-12T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-10-12T08:00:00-04:00"
@@ -28,7 +28,7 @@ You've heard the phrase tossed around by every Florida transplant who posts suns
 But here's the thing about island time in Tampa Bay — it's real, it's contagious, and it will fundamentally rewire how you think about urgency, productivity, and what actually matters in life.
 
 
-After 23 years of helping families relocate to the Tampa Bay area, I've watched thousands of Type-A personalities from New York, Chicago, and D.C. slowly transform into humans who actually know how to exist without checking their phone every 47 seconds. The change isn't instant, but it's inevitable.
+After over a decade of helping families relocate to the Tampa Bay area, I've watched thousands of Type-A personalities from New York, Chicago, and D.C. slowly transform into humans who actually know how to exist without checking their phone every 47 seconds. The change isn't instant, but it's inevitable.
 
 ## What Island Time Actually Means
 
@@ -140,7 +140,7 @@ Kids adapt to island time naturally — they're already operating on it. It's ad
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

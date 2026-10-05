@@ -1,7 +1,7 @@
 ---
 title: "Best Moving Companies for Florida Relocations"
 metaTitle: "Best Moving Companies for Florida Relocations | TB Relo"
-metaDescription: "Best Moving Companies for Florida Relocations. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Best Moving Companies for Florida Relocations. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Affiliate / Products"
 subcategory: "Product Roundup"
@@ -9,7 +9,7 @@ primaryKeyword: "best moving companies Florida"
 publishedAt: "2025-10-04T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-10-04T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/best-moving-companies-florida.webp"
 ---
 
-Moving to Florida isn't just about palm trees and sunshine — it's about finding a moving company that won't turn your relocation into a nightmare. After 23+ years helping families move to Tampa Bay, I've seen the good, the bad, and the absolutely catastrophic when it comes to moving companies.
+Moving to Florida isn't just about palm trees and sunshine — it's about finding a moving company that won't turn your relocation into a nightmare. After over a decade helping families move to Tampa Bay, I've seen the good, the bad, and the absolutely catastrophic when it comes to moving companies.
 
 Let me save you some headaches and money with this breakdown of the best moving companies for Florida relocations, whether you're moving across the country or just across town.
 
@@ -289,7 +289,7 @@ If using storage services, climate control isn't optional in Florida. The combin
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

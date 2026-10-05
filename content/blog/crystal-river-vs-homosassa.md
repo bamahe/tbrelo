@@ -82,4 +82,4 @@ You'll drive to Crystal River or Inverness for major shopping and medical appoin
 
 {{nowtb}} can help you explore the Nature Coast and find waterfront living at prices that don't exist in the Tampa Bay core. It's a different world up here — in the best possible way.
 
-*Curious about the Nature Coast? Barrett Henry has been helping families relocate to the Tampa Bay area for over 23 years. {{nowtb}}*
+*Curious about the Nature Coast? Barrett Henry has been helping families relocate to the Tampa Bay area for over a decade. {{nowtb}}*

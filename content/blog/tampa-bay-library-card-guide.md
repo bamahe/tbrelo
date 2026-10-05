@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Library Card — Free Resources for New Residents"
 metaTitle: "Tampa Bay Library Card — Free Resources for New Residents | TB Relo"
-metaDescription: "Tampa Bay Library Card. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa Bay Library Card. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Practical / Legal"
 subcategory: "Admin Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Tampa Bay library card"
 publishedAt: "2025-07-01T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-07-01T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/tampa-bay-library-card-guide.webp"
 ---
 
-Getting a library card should be your first stop after the moving boxes are unpacked and the utilities are connected. Tampa Bay's library systems offer way more than books — we're talking free streaming services, career resources, maker spaces with 3D printers, and even free museum passes. After 23 years helping families relocate here, I've seen too many newcomers miss out on thousands of dollars in free resources simply because they didn't know what was available.
+Getting a library card should be your first stop after the moving boxes are unpacked and the utilities are connected. Tampa Bay's library systems offer way more than books — we're talking free streaming services, career resources, maker spaces with 3D printers, and even free museum passes. After over a decade helping families relocate here, I've seen too many newcomers miss out on thousands of dollars in free resources simply because they didn't know what was available.
 
 ## Why Your Tampa Bay Library Card Matters More Than You Think
 
@@ -108,7 +108,7 @@ The **Clearwater Main Library** (100 N Osceola Ave) just completed a $30 million
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -242,7 +242,7 @@ The timing works particularly well if you're waiting for internet installation a
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

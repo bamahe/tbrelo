@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay vs Nashville — Which Is Better for Relocators?"
 metaTitle: "Tampa Bay vs Nashville — Which Is Better for Relocators? | TB Relo"
-metaDescription: "Tampa Bay vs Nashville. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa Bay vs Nashville. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "City Comparisons"
 subcategory: "Interstate"
@@ -9,7 +9,7 @@ primaryKeyword: "Tampa Bay vs Nashville TN relocation"
 publishedAt: "2024-05-18T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-05-18T08:00:00-04:00"
@@ -52,7 +52,7 @@ Gas typically runs 10-15 cents higher in Nashville, and Tennessee's sales tax hi
 
 Let's be honest about Florida weather — it's not perfect. July through September brings 90+ degree days with 80%+ humidity. But here's what the weather apps don't tell you: morning walks on Bayshore Boulevard in December wearing shorts, beach days in February, and the fact that "winter" means 60-75 degrees and low humidity.
 
-Hurricane season is real (June through November), but modern building codes and early warning systems make it manageable. In 23 years here, I've evacuated clients maybe four times, and most storms bring more inconvenience than actual damage to well-built homes.
+Hurricane season is real (June through November), but modern building codes and early warning systems make it manageable. In over a decade here, I've evacuated clients maybe four times, and most storms bring more inconvenience than actual damage to well-built homes.
 
 ### Nashville's Four-Season Appeal
 

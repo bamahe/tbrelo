@@ -87,4 +87,4 @@ Absolutely. Tampa Bay has bars for every NFL fan base. Steelers bars are particu
 ### How does the healthcare compare?
 Tampa Bay has world-class facilities: Tampa General (Level 1 trauma), Moffitt Cancer Center (nationally ranked), Johns Hopkins All Children's. See our [Healthcare guide](/tampa-bay-healthcare/). It rivals Pittsburgh's UPMC system and Philadelphia's hospital corridor.
 
-*Ready to make the move? Barrett Henry has been helping families relocate to Tampa Bay for over 23 years. {{nowtb}}*
+*Ready to make the move? Barrett Henry has been helping families relocate to Tampa Bay for over a decade. {{nowtb}}*

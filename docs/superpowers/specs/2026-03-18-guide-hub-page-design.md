@@ -39,7 +39,7 @@ One HTML file containing raw HTML + inline `<style>` block that Barrett pastes i
 ## SEO
 
 - Page title: "Tampa Bay Real Estate Guides | The NOW Team"
-- Meta description: "60+ free guides covering buying, selling, investing, and relocating in Tampa Bay. Written by Barrett Henry — 23+ years of local experience."
+- Meta description: "60+ free guides covering buying, selling, investing, and relocating in Tampa Bay. Written by Barrett Henry — over a decade of local experience."
 - Every guide link visible on page load (no JavaScript hide/show) for full crawlability.
 - Anchor IDs on H2s for jump links and potential featured snippets.
 

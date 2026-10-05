@@ -1,7 +1,7 @@
 ---
 title: "Renting vs Buying in Tampa Bay — The Real Math"
 metaTitle: "Renting vs Buying in Tampa Bay — The Real Math | TB Relo"
-metaDescription: "Renting vs Buying in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Renting vs Buying in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Real Estate"
 subcategory: "Buying Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "rent vs buy Tampa Bay"
 publishedAt: "2024-12-07T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-12-07T08:00:00-04:00"
@@ -24,7 +24,7 @@ featuredImage: /images/blog/default.webp
 ---
 
 
-Look, I've been through this conversation thousands of times in 23 years. Someone's relocating to Tampa Bay, they've got their budget figured out, and then someone at work says "Why are you renting? Throwing money away!" Sound familiar?
+Look, I've been through this conversation thousands of times in 24 years. Someone's relocating to Tampa Bay, they've got their budget figured out, and then someone at work says "Why are you renting? Throwing money away!" Sound familiar?
 
 The truth is more nuanced than your coworker's hot take. Whether you should rent or buy in Tampa Bay depends on your specific situation, timeline, and yes — actual math. Not wishful thinking or what worked for your friend in 2019.
 
@@ -164,7 +164,7 @@ That's assuming 4% appreciation and normal market conditions. If you move in yea
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -357,7 +357,7 @@ Here's my decision framework for clients:
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

@@ -106,4 +106,4 @@ Farmers markets are one of those quality-of-life perks that people discover afte
 
 {{nowtb}} helps families discover the lifestyle details — like the best farmers market within walking distance of your new home — that make Tampa Bay living special.
 
-*Moving to Tampa Bay and want to know the neighborhood secrets? Barrett Henry has been exploring every corner of this area for over 23 years. {{nowtb}}*
+*Moving to Tampa Bay and want to know the neighborhood secrets? Barrett Henry has been exploring every corner of this area for over 24 years. {{nowtb}}*

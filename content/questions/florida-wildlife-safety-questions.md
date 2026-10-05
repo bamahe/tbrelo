@@ -126,7 +126,7 @@ Catfish have barbed spines that cause painful puncture wounds. Stonefish and lio
 
 ### What's the biggest wildlife misconception people have about Florida?
 
-The biggest misconception is that dangerous wildlife is a daily threat. Most Floridians go weeks or months without encountering anything more dangerous than fire ants and mosquitoes. Alligators, snakes, and spiders exist, but they're not lurking behind every bush. Basic awareness and common-sense precautions are all you need. I've lived here 23+ years and wildlife has never been a serious problem.
+The biggest misconception is that dangerous wildlife is a daily threat. Most Floridians go weeks or months without encountering anything more dangerous than fire ants and mosquitoes. Alligators, snakes, and spiders exist, but they're not lurking behind every bush. Basic awareness and common-sense precautions are all you need. I've lived here over a decade and wildlife has never been a serious problem.
 
 ### Should wildlife concerns affect my decision to move to Florida?
 

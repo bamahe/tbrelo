@@ -9,7 +9,7 @@ primaryKeyword: "home inspection Tampa Bay what to expect"
 publishedAt: "2024-11-13T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of Tampa Bay real estate experience."
 schema:
   type: Article
   datePublished: "2024-11-13T08:00:00-04:00"

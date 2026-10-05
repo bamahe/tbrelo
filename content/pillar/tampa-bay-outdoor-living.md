@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Outdoor Living — Fishing, Kayaking, Golf, Springs, and State Parks"
 metaTitle: "Tampa Bay Outdoor Guide: Fishing, Golf, Springs & Parks (2026) | TB Relo"
-metaDescription: "Complete Tampa Bay outdoor recreation guide — fishing spots, kayaking trails, golf courses, springs, state parks, and cycling trails from a 23-year local."
+metaDescription: "Complete Tampa Bay outdoor recreation guide — fishing spots, kayaking trails, golf courses, springs, state parks, and cycling trails from a longtime local."
 type: pillar
 publishedAt: "2026-03-15"
 updatedAt: "2026-03-15"
@@ -11,7 +11,7 @@ updatedAt: "2026-03-15"
 
 People move to Tampa Bay for the weather, but they stay for what the weather lets you do. This metro has world-class inshore fishing, crystal-clear springs you can kayak, golf courses that host PGA Tour events, state parks that feel like wilderness, and a cycling trail network that connects entire counties. All of it accessible year-round.
 
-I've been doing all of this for over 23 years, and I still discover new spots. This guide covers every major outdoor activity across all eight counties — from the fishing spots the charter captains don't want you to know about to the springs that'll make you forget you're in Florida.
+I've been doing all of this for over 24 years, and I still discover new spots. This guide covers every major outdoor activity across all eight counties — from the fishing spots the charter captains don't want you to know about to the springs that'll make you forget you're in Florida.
 
 ## Fishing
 
@@ -296,4 +296,4 @@ Mosquitoes are real from May through October, especially near standing water and
 ### What about alligators — are they dangerous?
 They're wild predators and deserve respect. Don't feed them (it's illegal), don't approach them, don't let small dogs or children near freshwater edges unsupervised. Attacks are rare but happen. Most alligators avoid humans. They're a normal part of Florida outdoor life — not a reason to avoid the outdoors.
 
-*Thinking about relocating to Tampa Bay? Barrett Henry has been helping families move to Tampa Bay for over 23 years. {{nowtb}}*
+*Thinking about relocating to Tampa Bay? Barrett Henry has been helping families move to Tampa Bay for over a decade. {{nowtb}}*

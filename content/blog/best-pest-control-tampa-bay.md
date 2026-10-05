@@ -1,7 +1,7 @@
 ---
 title: "Best Pest Control Services in Tampa Bay"
 metaTitle: "Best Pest Control Services in Tampa Bay | TB Relo"
-metaDescription: "Best Pest Control Services in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Best Pest Control Services in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Affiliate / Products"
 subcategory: "Product Roundup"
@@ -9,7 +9,7 @@ primaryKeyword: "best pest control Tampa Bay"
 publishedAt: "2025-10-20T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-10-20T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/best-pest-control-tampa-bay.webp"
 ---
 
-Living in Tampa Bay means dealing with Florida's year-round pest parade. After 23 years selling homes here, I've seen every bug horror story imaginable — from flying cockroaches that send buyers running to termite damage that kills deals. The good news? The right pest control strategy keeps your home protected and your sanity intact.
+Living in Tampa Bay means dealing with Florida's year-round pest parade. After over a decade selling homes here, I've seen every bug horror story imaginable — from flying cockroaches that send buyers running to termite damage that kills deals. The good news? The right pest control strategy keeps your home protected and your sanity intact.
 
 Let me walk you through the best pest control services in Tampa Bay, plus the products that actually work between professional visits.
 
@@ -323,7 +323,7 @@ After dealing with hundreds of pest control situations in real estate transactio
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

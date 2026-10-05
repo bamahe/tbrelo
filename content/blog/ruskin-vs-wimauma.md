@@ -91,7 +91,7 @@ The lifestyle in Wimauma revolves around your community. If you're in Mirada or 
 
 {{nowtb}} can help you find the right pocket in either area. These south-county communities are where smart buyers are stretching their dollars in 2026.
 
-*Barrett Henry has been helping families relocate to Tampa Bay for over 23 years. {{nowtb}}*
+*Barrett Henry has been helping families relocate to Tampa Bay for over a decade. {{nowtb}}*
 
 ## Frequently Asked Questions
 

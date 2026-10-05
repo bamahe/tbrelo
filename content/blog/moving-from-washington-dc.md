@@ -1,7 +1,7 @@
 ---
 title: "Moving from Washington DC to Tampa Bay — The Complete Relocation Guide"
 metaTitle: "Moving from Washington DC to Tampa Bay — The Complete Relocation Guide | TB Relo"
-metaDescription: "Moving from Washington DC to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Moving from Washington DC to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Moving From"
 subcategory: "Washington DC"
@@ -9,7 +9,7 @@ primaryKeyword: "moving from DC to Tampa Bay"
 publishedAt: "2024-07-08T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-07-08T08:00:00-04:00"
@@ -72,7 +72,7 @@ Scale that up to $200,000 income? You're looking at $230,000+ in tax savings ove
 
 ## Best Tampa Bay Neighborhoods for DC Transplants
 
-After 23 years helping DMV families relocate, I've noticed patterns. Here are the neighborhoods that consistently win over Washington area families:
+After 24 years helping DMV families relocate, I've noticed patterns. Here are the neighborhoods that consistently win over Washington area families:
 
 ### South Tampa — The Georgetown Equivalent
 **Median Price:** $650,000-$850,000
@@ -125,7 +125,7 @@ DC area families often worry about school quality. Don't. [Hillsborough County](
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -165,7 +165,7 @@ Everyone knows Florida is hot. But DC summers aren't exactly cool, and you've go
 - **June-August:** 85-92°F, daily afternoon thunderstorms
 - **September-November:** 78-88°F, hurricane season but usually just rain
 
-**Hurricane truth:** I've lived here 23+ years. Most "hurricane" experiences involve losing power for a day and getting a long weekend. It's not the movie disaster you're imagining.
+**Hurricane truth:** I've lived here over a decade. Most "hurricane" experiences involve losing power for a day and getting a long weekend. It's not the movie disaster you're imagining.
 
 **Humidity reality:** Yes, it's humid June-September. But your house has A/C, your car has A/C, and everywhere you go has A/C. You adapt faster than you think.
 
@@ -346,7 +346,7 @@ Tampa Bay is growing fast, but it's not DC's international melting pot. The rest
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

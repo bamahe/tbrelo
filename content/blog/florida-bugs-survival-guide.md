@@ -1,7 +1,7 @@
 ---
 title: "The Florida Bug Survival Guide — Yes, They're Real, and Here's How to Deal"
 metaTitle: "Florida Bug Survival Guide — Palmetto Bugs, Mosquitoes & More | TB Relo"
-metaDescription: "How to deal with Florida's worst bugs: palmetto bugs, mosquitoes, love bugs, no-see-ums, fire ants, and more. Practical guide from a 23-year Florida resident."
+metaDescription: "How to deal with Florida's worst bugs: palmetto bugs, mosquitoes, love bugs, no-see-ums, fire ants, and more. Practical guide from a longtime Florida resident."
 type: blog
 publishedAt: "2026-03-15"
 updatedAt: "2026-03-15"
@@ -122,4 +122,4 @@ You'll adapt. I promise. By year two, you'll calmly handle a palmetto bug the si
 
 {{nowtb}} helps relocators prepare for every aspect of Florida living — including the ones with antennae.
 
-*Moving to Florida and need the full reality check? Barrett Henry has been living alongside Florida's wildlife for over 23 years. {{nowtb}}*
+*Moving to Florida and need the full reality check? Barrett Henry has been living alongside Florida's wildlife for over a decade. {{nowtb}}*

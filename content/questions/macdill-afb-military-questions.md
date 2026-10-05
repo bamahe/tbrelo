@@ -1,7 +1,7 @@
 ---
 title: "MacDill AFB & Military Life in Tampa Bay — 30 Questions Answered"
 metaTitle: "MacDill AFB & Military FAQ — Questions Answered by a Local REALTOR® | TB Relo"
-metaDescription: "30 answers about MacDill AFB, BAH rates, military housing, VA loans, schools for military kids, and PCS tips from a Tampa Bay REALTOR® with 23+ years of experience."
+metaDescription: "30 answers about MacDill AFB, BAH rates, military housing, VA loans, schools for military kids, and PCS tips from a Tampa Bay REALTOR® with 23+ years of real estate experience."
 type: question
 category: "Military"
 publishedAt: "2026-04-13"

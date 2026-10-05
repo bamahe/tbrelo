@@ -1,7 +1,7 @@
 ---
 title: "Uber and Lyft in Tampa Bay — Coverage, Costs, and Tips"
 metaTitle: "Uber and Lyft in Tampa Bay — Coverage, Costs, and Tips | TB Relo"
-metaDescription: "Uber and Lyft in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Uber and Lyft in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Transportation"
 subcategory: "Commute Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Uber Tampa Bay availability"
 publishedAt: "2026-02-12T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2026-02-12T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/uber-lyft-tampa-bay-guide.webp"
 
 Rideshare in Tampa Bay isn't like New York or San Francisco. You won't find a car on every corner, wait times can stretch longer than you'd expect, and surge pricing hits hard during Lightning games and downtown events. But for the 3.2 million people living across Hillsborough, Pinellas, and Pasco counties, Uber and Lyft have become essential backup transportation — especially when your car's in the shop or you're hitting Ybor City for the night.
 
-After 23 years of helping people navigate Tampa Bay, I've watched rideshare evolve from a downtown-only service to covering most of our sprawling metro. Here's what actually works, what costs more than you think, and how to avoid getting stranded at 2 AM in Wesley Chapel.
+After over a decade of helping people navigate Tampa Bay, I've watched rideshare evolve from a downtown-only service to covering most of our sprawling metro. Here's what actually works, what costs more than you think, and how to avoid getting stranded at 2 AM in Wesley Chapel.
 
 
 ## Current Coverage Areas in Tampa Bay
@@ -61,7 +61,7 @@ After 23 years of helping people navigate Tampa Bay, I've watched rideshare evol
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -195,7 +195,7 @@ Tampa Bay's rideshare driver pool skews older and more professional than college
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

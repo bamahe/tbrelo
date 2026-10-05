@@ -1,7 +1,7 @@
 ---
 title: "The Florida Man's Guide to Not Becoming a Florida Man"
 metaTitle: "The Florida Man's Guide to Not Becoming a Florida Man | TB Relo"
-metaDescription: "The Florida Man's Guide to Not Becoming a Florida Man. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "The Florida Man's Guide to Not Becoming a Florida Man. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Florida Life"
 subcategory: "Survival Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Florida Man culture explained"
 publishedAt: "2024-10-09T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-10-09T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/dont-be-florida-man.webp"
 ---
 
-Look, after 23+ years in Tampa Bay, I've seen enough tourists, transplants, and even longtime residents make headlines for all the wrong reasons. The "Florida Man" phenomenon isn't just a meme — it's a cautionary tale about what happens when common sense meets Florida's unique cocktail of heat, humidity, wildlife, and year-round tourist energy.
+Look, after over a decade in Tampa Bay, I've seen enough tourists, transplants, and even longtime residents make headlines for all the wrong reasons. The "Florida Man" phenomenon isn't just a meme — it's a cautionary tale about what happens when common sense meets Florida's unique cocktail of heat, humidity, wildlife, and year-round tourist energy.
 
 Let me be clear: most Florida residents are perfectly normal people who've simply learned to coexist with alligators, afternoon thunderstorms, and the occasional escaped python. But every now and then, someone decides to wrestle a gator at 2 AM or tries to use a flamethrower to clear palmetto bugs, and boom — they've joined the Florida Man hall of fame.
 
@@ -188,7 +188,7 @@ Successfully living in Florida requires recalibrating your risk assessment. Thin
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

@@ -1,7 +1,7 @@
 ---
 title: "Chinese Drywall in Florida — Is It Still an Issue?"
 metaTitle: "Chinese Drywall in Florida — Is It Still an Issue? | TB Relo"
-metaDescription: "Chinese Drywall in Florida. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Chinese Drywall in Florida. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Real Estate"
 subcategory: "Buying Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Chinese drywall Florida homes"
 publishedAt: "2024-12-26T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-12-26T08:00:00-04:00"
@@ -162,7 +162,7 @@ If you're buying a home with known Chinese drywall issues, expect insurance chal
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -298,7 +298,7 @@ The Tampa Bay market has largely moved past the Chinese drywall crisis, but smar
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

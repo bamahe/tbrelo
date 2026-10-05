@@ -79,7 +79,7 @@ If you work from home, commute is irrelevant and Wesley Chapel's overall polish 
 
 {{nowtb}} can walk you through specific subdivisions in both areas and help you weigh CDD fees, school zones, and resale value. These details matter more than the city name on the listing.
 
-*Barrett Henry has been helping families relocate to Tampa Bay for over 23 years. {{nowtb}}*
+*Barrett Henry has been helping families relocate to Tampa Bay for over a decade. {{nowtb}}*
 
 ## Frequently Asked Questions
 

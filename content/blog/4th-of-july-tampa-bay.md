@@ -1,7 +1,7 @@
 ---
 title: "4th of July in Tampa Bay — Every Fireworks Show and Event"
 metaTitle: "4th of July in Tampa Bay — Every Fireworks Show and Event | TB Relo"
-metaDescription: "4th of July in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "4th of July in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Seasonal / Events"
 subcategory: "Event Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "4th of July Tampa Bay fireworks"
 publishedAt: "2025-04-13T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-04-13T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/4th-of-july-tampa-bay.webp"
 ---
 
-Tampa Bay throws one hell of a 4th of July party. From massive downtown displays to neighborhood celebrations, we've got fireworks shows scattered across three counties. After 23 years helping families settle here, I've seen everything from intimate Clearwater Beach gatherings to the absolute chaos (in the best way) of Tampa's Riverwalk celebration.
+Tampa Bay throws one hell of a 4th of July party. From massive downtown displays to neighborhood celebrations, we've got fireworks shows scattered across three counties. After over a decade helping families settle here, I've seen everything from intimate Clearwater Beach gatherings to the absolute chaos (in the best way) of Tampa's Riverwalk celebration.
 
 Here's your complete guide to every fireworks show and Independence Day event worth your time in 2024.
 
@@ -217,7 +217,7 @@ Florida weather in July means afternoon thunderstorms. Most outdoor events have 
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

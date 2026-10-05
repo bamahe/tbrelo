@@ -231,4 +231,4 @@ In urban and suburban areas — yes. Spectrum and AT&T fiber deliver consistent 
 ### What's the biggest surprise for remote workers who move here?
 Summer thunderstorms. Almost every afternoon from June through September, Tampa Bay gets intense thunderstorms with lightning. They usually last 30–60 minutes and can knock out power briefly. A UPS for your desk setup and a mobile hotspot backup solve this completely.
 
-*Thinking about relocating to Tampa Bay? Barrett Henry has been helping families move to Tampa Bay for over 23 years. {{nowtb}}*
+*Thinking about relocating to Tampa Bay? Barrett Henry has been helping families move to Tampa Bay for over a decade. {{nowtb}}*

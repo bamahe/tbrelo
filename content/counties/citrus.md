@@ -156,4 +156,4 @@ Every place has one, and Citrus County's is isolation and limited amenities. The
 
 ---
 
-*Thinking about relocating to Citrus County? Barrett Henry has been helping families move to Tampa Bay for over 23 years. {{nowtb}} — let's find your place on the Nature Coast.*
+*Thinking about relocating to Citrus County? Barrett Henry has been helping families move to Tampa Bay for over a decade. {{nowtb}} — let's find your place on the Nature Coast.*

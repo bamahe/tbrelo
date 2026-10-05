@@ -1,7 +1,7 @@
 ---
 title: "Florida Medicaid and Insurance Guide for New Residents"
 metaTitle: "Florida Medicaid and Insurance Guide for New Residents | TB Relo"
-metaDescription: "Florida Medicaid and Insurance Guide for New Residents. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Florida Medicaid and Insurance Guide for New Residents. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Healthcare"
 subcategory: "Wellness Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Florida health insurance marketplace"
 publishedAt: "2026-03-10T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2026-03-10T08:00:00-04:00"
@@ -196,7 +196,7 @@ A good rule of thumb: budget 10-15% of your gross income for healthcare costs, i
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

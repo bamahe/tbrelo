@@ -1,7 +1,7 @@
 ---
 title: "Living in Inverness / Lecanto — What It's Really Like (Honest Relocation Guide)"
 metaTitle: "Living in Inverness / Lecanto — What It's Really Like (Honest Relocation Guide) | TB Relo"
-metaDescription: "Living in Inverness / Lecanto. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Living in Inverness / Lecanto. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Neighborhoods"
 subcategory: "Deep Dive"
@@ -9,7 +9,7 @@ primaryKeyword: "living in Inverness / Lecanto FL"
 publishedAt: "2025-04-07T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-04-07T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/living-in-inverness-lecanto-guide.webp"
 
 Let me tell you what nobody else will about Inverness and Lecanto: these aren't your typical Florida retirement communities anymore. Sure, you'll still find plenty of golf carts and early bird specials, but something's shifting in Citrus County. Young families are discovering what retirees have known for decades — you can get a lot more house for your money here, and the commute to Tampa isn't as brutal as you'd think.
 
-After 23+ years selling real estate in Tampa Bay, I've watched Inverness and Lecanto evolve from sleepy retirement havens into something more complex and interesting. These twin cities (they practically touch each other) offer a compelling alternative to the high-cost, high-traffic lifestyle that's taken over much of the Tampa Bay metro.
+After over a decade selling real estate in Tampa Bay, I've watched Inverness and Lecanto evolve from sleepy retirement havens into something more complex and interesting. These twin cities (they practically touch each other) offer a compelling alternative to the high-cost, high-traffic lifestyle that's taken over much of the Tampa Bay metro.
 
 But let's be honest — this isn't for everyone. If you need Starbucks on every corner and want nightlife options beyond Applebee's, you might want to keep reading about [Hillsborough County](/counties/hillsborough/) instead.
 
@@ -85,7 +85,7 @@ This is where Inverness and Lecanto shine. While Tampa Bay median home prices ho
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -315,7 +315,7 @@ Most year-round residents adapt to the rhythm and even appreciate the seasonal e
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

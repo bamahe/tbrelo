@@ -1,7 +1,7 @@
 ---
 title: "Stucco Homes in Florida — What Buyers Should Know"
 metaTitle: "Stucco Homes in Florida — What Buyers Should Know | TB Relo"
-metaDescription: "Stucco Homes in Florida. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Stucco Homes in Florida. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Real Estate"
 subcategory: "Buying Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "stucco homes Florida problems"
 publishedAt: "2024-12-22T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-12-22T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/stucco-homes-florida-guide.webp"
 ---
 
-After 23 years of helping families buy homes across Tampa Bay, I've seen my share of stucco nightmares and stucco success stories. Here's the unvarnished truth: stucco can be fantastic in Florida's climate — or it can drain your savings account faster than a broken AC unit in August.
+After over a decade of helping families buy homes across Tampa Bay, I've seen my share of stucco nightmares and stucco success stories. Here's the unvarnished truth: stucco can be fantastic in Florida's climate — or it can drain your savings account faster than a broken AC unit in August.
 
 Let me walk you through what every buyer needs to know before falling in love with that gorgeous Mediterranean-style home in [Westchase](/neighborhoods/westchase/) or that charming stucco ranch in [South Tampa](/neighborhoods/south-tampa/).
 
@@ -108,7 +108,7 @@ Start your evaluation before you even call a realtor. Here's what I tell my buye
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -240,7 +240,7 @@ If you're considering a stucco home, especially one built during Florida's boom 
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

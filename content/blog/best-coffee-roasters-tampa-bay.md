@@ -1,7 +1,7 @@
 ---
 title: "Best Coffee Roasters in Tampa Bay"
 metaTitle: "Best Coffee Roasters in Tampa Bay | TB Relo"
-metaDescription: "Best Coffee Roasters in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Best Coffee Roasters in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Lifestyle / Food"
 subcategory: "Local Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "coffee roasters Tampa Bay"
 publishedAt: "2025-09-04T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-09-04T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/best-coffee-roasters-tampa-bay.webp"
 ---
 
-Tampa Bay's coffee scene has exploded over the past decade, and as someone who's lived here for 23 years, I've watched strip mall Starbucks get bulldozed for actual roasters who care about their craft. The coffee culture here isn't just about caffeine anymore — it's about community, quality, and supporting local businesses that actually know your name.
+Tampa Bay's coffee scene has exploded over the past decade, and as someone who's lived here for over a decade, I've watched strip mall Starbucks get bulldozed for actual roasters who care about their craft. The coffee culture here isn't just about caffeine anymore — it's about community, quality, and supporting local businesses that actually know your name.
 
 Whether you're relocating here and need to find your new morning ritual, or you're just tired of gas station coffee, this guide covers the roasters that locals actually visit. I'm talking about places where the owner might be behind the counter, where they know the farm their beans came from, and where a cortado doesn't require three explanations.
 
@@ -70,7 +70,7 @@ What to order: Whatever single-origin they recommend. Their Ethiopia Yirgacheffe
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -174,7 +174,7 @@ After visiting dozens of roasters across Tampa Bay, here's what separates the go
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

@@ -91,4 +91,4 @@ Same way Ohioans handle winter — you adapt. AC replaces your furnace as the es
 ### Will I regret spending more on housing?
 Most don't. The lifestyle upgrade — beaches, sunshine, year-round outdoor living — changes the equation. You're not just buying a house, you're buying a completely different daily experience.
 
-*Ready to make the move? Barrett Henry has been helping families relocate to Tampa Bay for over 23 years. {{nowtb}}*
+*Ready to make the move? Barrett Henry has been helping families relocate to Tampa Bay for over a decade. {{nowtb}}*

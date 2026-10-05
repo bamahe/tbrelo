@@ -1,7 +1,7 @@
 ---
 title: "Best Hurricane Shutters and Storm Protection for Florida Homes"
 metaTitle: "Best Hurricane Shutters and Storm Protection for Florida Homes | TB Relo"
-metaDescription: "Best Hurricane Shutters and Storm Protection for Florida Homes. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Best Hurricane Shutters and Storm Protection for Florida Homes. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Affiliate / Products"
 subcategory: "Product Roundup"
@@ -9,7 +9,7 @@ primaryKeyword: "best hurricane shutters Florida"
 publishedAt: "2025-10-09T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-10-09T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/best-hurricane-shutters-florida.webp"
 ---
 
-After 23 years of real estate in Tampa Bay, I've watched every major storm season bring the same question: "What hurricane shutters should I buy?" Here's the straight answer, based on what actually works when winds hit 120+ mph and your insurance adjuster shows up afterward.
+After more than a decade of real estate in Tampa Bay, I've watched every major storm season bring the same question: "What hurricane shutters should I buy?" Here's the straight answer, based on what actually works when winds hit 120+ mph and your insurance adjuster shows up afterward.
 
 The truth is, the "best" hurricane shutters depend entirely on your specific situation — your home's architecture, your budget, how often you plan to deploy them, and honestly, how handy you are. I've seen $30,000 roll-down systems fail while basic plywood held strong, and I've watched homeowners struggle with accordion shutters for hours while their neighbor cranked down motorized panels in minutes.
 
@@ -180,7 +180,7 @@ For everyone else, shutters provide excellent protection at lower upfront cost.
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

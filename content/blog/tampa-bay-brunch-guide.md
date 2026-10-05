@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Brunch Guide — Every Sunday Spot Worth Visiting"
 metaTitle: "Tampa Bay Brunch Guide — Every Sunday Spot Worth Visiting | TB Relo"
-metaDescription: "Tampa Bay Brunch Guide. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa Bay Brunch Guide. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Lifestyle / Food"
 subcategory: "Local Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "best brunch Tampa Bay"
 publishedAt: "2025-08-14T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-08-14T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/tampa-bay-brunch-guide.webp"
 
 Sunday in Tampa Bay means one thing: brunch. Not the corporate chain version with frozen hash browns and powdered eggs. I'm talking about the real deal — places where locals line up, where the Bloody Mary recipes are family secrets, and where "bottomless" actually means something.
 
-After 23 years of weekend house hunting with clients, I've tried every brunch spot from Clearwater Beach to downtown Tampa. Some are worth the wait. Others? Save your Sunday morning. Here's the honest breakdown of where to spend your weekend calories.
+After 24 years of weekend house hunting with clients, I've tried every brunch spot from Clearwater Beach to downtown Tampa. Some are worth the wait. Others? Save your Sunday morning. Here's the honest breakdown of where to spend your weekend calories.
 
 
 ## The Heavy Hitters — Tampa's Elite Brunch Scene
@@ -54,7 +54,7 @@ Native American-inspired cuisine in a restored 1903 water works building. Brunch
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -197,7 +197,7 @@ Mexican street food that happens to serve breakfast. Their breakfast burritos ar
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

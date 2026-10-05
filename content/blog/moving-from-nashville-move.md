@@ -1,7 +1,7 @@
 ---
 title: "Moving from Nashville to Tampa Bay — The Complete Relocation Guide"
 metaTitle: "Moving from Nashville to Tampa Bay — The Complete Relocation Guide | TB Relo"
-metaDescription: "Moving from Nashville to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Moving from Nashville to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Moving From"
 subcategory: "Nashville"
@@ -9,7 +9,7 @@ primaryKeyword: "moving from Nashville to Tampa Bay"
 publishedAt: "2024-08-07T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-08-07T08:00:00-04:00"
@@ -139,7 +139,7 @@ The most direct route runs about 650 miles and takes 9-10 hours of driving time:
 - Continue I-75 South through Macon, Valdosta, and Gainesville
 - I-275 West into Tampa Bay
 
-**Pro tip from 23 years of relocations:** Leave Nashville before 7 AM to clear Atlanta before rush hour, or plan to hit Atlanta after 10 AM. That middle window (8-10 AM) will cost you an extra hour in traffic.
+**Pro tip from 24 years of relocations:** Leave Nashville before 7 AM to clear Atlanta before rush hour, or plan to hit Atlanta after 10 AM. That middle window (8-10 AM) will cost you an extra hour in traffic.
 
 
 ### Moving Company Costs
@@ -215,7 +215,7 @@ The club sports scene rivals Nashville's intensity but with better facilities. E
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

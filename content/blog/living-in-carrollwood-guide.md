@@ -1,7 +1,7 @@
 ---
 title: "Living in Carrollwood — What It's Really Like (Honest Relocation Guide)"
 metaTitle: "Living in Carrollwood — What It's Really Like (Honest Relocation Guide) | TB Relo"
-metaDescription: "Living in Carrollwood. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Living in Carrollwood. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Neighborhoods"
 subcategory: "Deep Dive"
@@ -9,7 +9,7 @@ primaryKeyword: "living in Carrollwood FL"
 publishedAt: "2025-01-24T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-01-24T08:00:00-04:00"
@@ -53,7 +53,7 @@ Public transportation exists but won't impress anyone coming from a major metrop
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -211,7 +211,7 @@ For lunch, options range from **Subway** and **Chipotle** to local sandwich shop
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -357,7 +357,7 @@ Carrollwood works best for specific types of buyers. Here's who typically thrive
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

@@ -1,7 +1,7 @@
 ---
 title: "USF, UT, and Tampa Bay Colleges — Guide for Families"
 metaTitle: "USF, UT, and Tampa Bay Colleges — Guide for Families | TB Relo"
-metaDescription: "USF, UT, and Tampa Bay Colleges. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "USF, UT, and Tampa Bay Colleges. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Education"
 subcategory: "School Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "colleges Tampa Bay"
 publishedAt: "2026-04-06T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2026-04-06T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/tampa-bay-colleges-universities-guide.webp"
 ---
 
-Whether your teenager is eyeing college or you're relocating for graduate school yourself, Tampa Bay's higher education landscape offers something for everyone. After 23 years of helping families move here, I've watched parents navigate everything from in-state tuition questions to finding apartments near campus. Here's your straight-talk guide to what you need to know.
+Whether your teenager is eyeing college or you're relocating for graduate school yourself, Tampa Bay's higher education landscape offers something for everyone. After over a decade of helping families move here, I've watched parents navigate everything from in-state tuition questions to finding apartments near campus. Here's your straight-talk guide to what you need to know.
 
 
 ## University of South Florida — The Public Powerhouse

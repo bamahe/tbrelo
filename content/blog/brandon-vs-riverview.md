@@ -71,4 +71,4 @@ Both areas feed into [Hillsborough County Public Schools](/tampa-bay-schools/), 
 
 {{nowtb}} knows every subdivision in both areas and can match you with the right neighborhood based on your priorities. Don't just pick a city — pick the right pocket within it.
 
-*Ready to make the move? Barrett Henry has been helping families relocate to Tampa Bay for over 23 years. {{nowtb}}*
+*Ready to make the move? Barrett Henry has been helping families relocate to Tampa Bay for over a decade. {{nowtb}}*

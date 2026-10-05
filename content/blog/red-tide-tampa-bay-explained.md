@@ -1,7 +1,7 @@
 ---
 title: "Red Tide in Tampa Bay — What It Is and How It Affects You"
 metaTitle: "Red Tide in Tampa Bay — What It Is and How It Affects You | TB Relo"
-metaDescription: "Red Tide in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Red Tide in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Weather / Climate"
 subcategory: "Climate Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "red tide Tampa Bay"
 publishedAt: "2026-02-25T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2026-02-25T08:00:00-04:00"
@@ -204,7 +204,7 @@ Seagrass beds, which provide crucial habitat, can take longer to recover. Severe
 
 ## Living with Red Tide: The Long-Term Perspective
 
-After 23 years in Tampa Bay, I've learned that red tide is part of the natural cycle here. It's not pleasant, but it's manageable if you understand what you're dealing with.
+After over a decade in Tampa Bay, I've learned that red tide is part of the natural cycle here. It's not pleasant, but it's manageable if you understand what you're dealing with.
 
 ### Frequency and Severity
 
@@ -231,7 +231,7 @@ Honest answers help you make the right choice for your situation.
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

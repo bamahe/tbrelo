@@ -1,7 +1,7 @@
 ---
 title: "Moving Into Your Florida Home — The First 30 Days Checklist"
 metaTitle: "Moving Into Your Florida Home — The First 30 Days Checklist | TB Relo"
-metaDescription: "Moving Into Your Florida Home. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Moving Into Your Florida Home. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Real Estate"
 subcategory: "Buying Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "first 30 days new home Florida"
 publishedAt: "2024-12-28T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-12-28T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/first-30-days-new-florida-home.webp"
 ---
 
-Just closed on your Florida home? Congratulations — now comes the fun part. Those first 30 days are crucial for getting settled without losing your mind or your wallet. After 23 years helping families transition into Tampa Bay homes, I've seen what works (and what definitely doesn't).
+Just closed on your Florida home? Congratulations — now comes the fun part. Those first 30 days are crucial for getting settled without losing your mind or your wallet. After over a decade helping families transition into Tampa Bay homes, I've seen what works (and what definitely doesn't).
 
 Here's your no-nonsense roadmap for the first month in your new Florida home.
 
@@ -128,7 +128,7 @@ Local credit unions like GTE Financial and Suncoast Credit Union offer competiti
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -284,7 +284,7 @@ Tampa Bay is an incredible place to live once you're settled. The weather, the p
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

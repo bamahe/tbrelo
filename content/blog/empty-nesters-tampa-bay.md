@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay for Empty Nesters — Downsizing and Starting Over"
 metaTitle: "Tampa Bay for Empty Nesters — Downsizing and Starting Over | TB Relo"
-metaDescription: "Tampa Bay for Empty Nesters. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa Bay for Empty Nesters. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Demographic / Niche"
 subcategory: "Audience Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "empty nester Tampa Bay"
 publishedAt: "2026-01-04T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2026-01-04T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/empty-nesters-tampa-bay.webp"
 ---
 
-After decades of soccer practices, PTA meetings, and keeping a four-bedroom house running, empty nesters in Tampa Bay face an exciting question: what's next? I've helped hundreds of couples navigate this transition over 23 years, and here's what I've learned — this isn't just about downsizing square footage. It's about upsizing your life.
+After decades of soccer practices, PTA meetings, and keeping a four-bedroom house running, empty nesters in Tampa Bay face an exciting question: what's next? I've helped hundreds of couples navigate this transition over 24 years, and here's what I've learned — this isn't just about downsizing square footage. It's about upsizing your life.
 
 The kids are launched, the mortgage is manageable (or paid off), and suddenly you're rattling around a house that feels too big, too maintenance-heavy, and too far from the fun stuff. Tampa Bay offers empty nesters something special: the chance to reinvent your lifestyle while staying in a region you already love.
 
@@ -50,7 +50,7 @@ Let's talk numbers. The median home price in Tampa Bay ranges from $320,000 in P
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -202,7 +202,7 @@ Many 55+ communities in Tampa Bay offer built-in social structures. Del Webb at 
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

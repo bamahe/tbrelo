@@ -1,7 +1,7 @@
 ---
 title: "How to Update All Your Accounts After Moving to Florida"
 metaTitle: "How to Update All Your Accounts After Moving to Florida | TB Relo"
-metaDescription: "How to Update All Your Accounts After Moving to Florida. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "How to Update All Your Accounts After Moving to Florida. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Relocation Logistics"
 subcategory: "How-To"
@@ -9,7 +9,7 @@ primaryKeyword: "change address after moving Florida"
 publishedAt: "2025-12-04T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-12-04T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/update-accounts-after-moving-florida.webp"
 ---
 
-Moving to Florida means more than just packing boxes and finding a new home. The real work begins after you've settled in: updating every single account, subscription, and service that has your old address on file. After helping hundreds of families relocate to Tampa Bay over the past 23 years, I've watched people stress about missing this crucial step — and I've seen the headaches that follow when important mail gets lost or services get interrupted.
+Moving to Florida means more than just packing boxes and finding a new home. The real work begins after you've settled in: updating every single account, subscription, and service that has your old address on file. After helping hundreds of families relocate to Tampa Bay over the past decade, I've watched people stress about missing this crucial step — and I've seen the headaches that follow when important mail gets lost or services get interrupted.
 
 Here's your complete roadmap for updating everything after your Florida move, organized by priority and urgency. Some updates can wait a few weeks. Others? You need to handle them before you even leave your old state.
 
@@ -64,7 +64,7 @@ Vehicle registration must be updated within 10 days of employment or 30 days of 
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -288,7 +288,7 @@ Moving to Florida is exciting, but the administrative side doesn't have to be ov
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

@@ -1,7 +1,7 @@
 ---
 title: "Where to Watch the Super Bowl in Tampa Bay"
 metaTitle: "Where to Watch the Super Bowl in Tampa Bay | TB Relo"
-metaDescription: "Where to Watch the Super Bowl in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Where to Watch the Super Bowl in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Seasonal / Events"
 subcategory: "Event Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Super Bowl watch party Tampa Bay"
 publishedAt: "2025-04-15T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-04-15T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/where-to-watch-super-bowl-tampa-bay.webp"
 
 The Super Bowl isn't just another Sunday — it's the one day when even people who can't tell a touchdown from a field goal suddenly become football experts. And if you're in Tampa Bay, you've got serious options beyond your living room couch.
 
-After 23 years of helping people settle into this area, I've watched plenty of Super Bowls in plenty of places. Some experiences are worth the drive and the crowds. Others? Save your money and stay home. Here's where to actually go — and which places are just tourist traps with overpriced wings.
+After 24 years of helping people settle into this area, I've watched plenty of Super Bowls in plenty of places. Some experiences are worth the drive and the crowds. Others? Save your money and stay home. Here's where to actually go — and which places are just tourist traps with overpriced wings.
 
 
 ## The Heavy Hitters: Premium Sports Bar Experiences
@@ -121,7 +121,7 @@ Similar concept to Sparkman Wharf but indoors with higher-end food options. Mult
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

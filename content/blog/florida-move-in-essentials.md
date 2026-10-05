@@ -1,7 +1,7 @@
 ---
 title: "Florida Move-In Essentials — 50+ Products You Need Day One"
 metaTitle: "Florida Move-In Essentials — 50+ Must-Have Products for Day One | TB Relo"
-metaDescription: "The ultimate Florida move-in shopping list. 50+ products for cleaning, pest control, hurricane prep, and more — from someone who's lived in Tampa Bay 23+ years."
+metaDescription: "The ultimate Florida move-in shopping list. 50+ products for cleaning, pest control, hurricane prep, and more — from someone who's lived in Tampa Bay over a decade."
 type: blog
 publishedAt: "2026-04-13"
 updatedAt: "2026-04-13"
@@ -11,7 +11,7 @@ updatedAt: "2026-04-13"
 
 You just got the keys to your Florida home. The moving truck is on its way or already unloaded. Now what?
 
-Having helped hundreds of people relocate to Tampa Bay over 23+ years, I can tell you that the first 48 hours in a Florida home are nothing like moving into a house up north. The humidity hits different. The bugs are real. And you probably don't have a basement to toss overflow into. This list covers everything you need on day one — organized by room and priority, with Florida-specific callouts that most generic moving lists miss entirely.
+Having helped hundreds of people relocate to Tampa Bay over a decade, I can tell you that the first 48 hours in a Florida home are nothing like moving into a house up north. The humidity hits different. The bugs are real. And you probably don't have a basement to toss overflow into. This list covers everything you need on day one — organized by room and priority, with Florida-specific callouts that most generic moving lists miss entirely.
 
 Bookmark this page. You'll reference it more than once.
 

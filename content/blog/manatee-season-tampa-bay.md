@@ -1,7 +1,7 @@
 ---
 title: "Manatee Season in Tampa Bay — Where and When to See Them"
 metaTitle: "Manatee Season in Tampa Bay — Where and When to See Them | TB Relo"
-metaDescription: "Manatee Season in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Manatee Season in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Seasonal / Events"
 subcategory: "Event Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "where to see manatees Tampa Bay"
 publishedAt: "2025-04-29T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-04-29T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/manatee-season-tampa-bay.webp"
 ---
 
-Every winter, something magical happens in Tampa Bay's warm-water refuges. As temperatures drop, Florida's gentle giants migrate to our heated springs and power plant outfalls, creating one of the most remarkable wildlife viewing opportunities in the country. After 23 years of showing families around Tampa Bay, I've learned the best spots, the perfect timing, and the insider tips that turn a "maybe we'll see one" trip into an unforgettable encounter with these thousand-pound sea cows.
+Every winter, something magical happens in Tampa Bay's warm-water refuges. As temperatures drop, Florida's gentle giants migrate to our heated springs and power plant outfalls, creating one of the most remarkable wildlife viewing opportunities in the country. After over a decade of showing families around Tampa Bay, I've learned the best spots, the perfect timing, and the insider tips that turn a "maybe we'll see one" trip into an unforgettable encounter with these thousand-pound sea cows.
 
 Here's everything you need to know about manatee season in Tampa Bay — from the guaranteed viewing spots to the hidden gems only locals know about.
 
@@ -232,7 +232,7 @@ Most locations work well as day trips from Tampa Bay proper, though overnight st
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

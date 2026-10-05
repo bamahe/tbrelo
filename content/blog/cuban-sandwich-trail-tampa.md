@@ -1,7 +1,7 @@
 ---
 title: "Cuban Sandwich Trail — Where to Get the Real Thing in Tampa"
 metaTitle: "Cuban Sandwich Trail — Where to Get the Real Thing in Tampa | TB Relo"
-metaDescription: "Cuban Sandwich Trail. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Cuban Sandwich Trail. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Lifestyle / Food"
 subcategory: "Local Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "best Cuban sandwich Tampa"
 publishedAt: "2025-07-18T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-07-18T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: /images/blog/default.webp
 ---
 
-Look, I'm going to level with you — Tampa's Cuban sandwich game is serious business. After 23 years of showing houses all over this city, I've eaten my weight in Cubanos from Ybor to Westchase. Some places nail it, others serve you disappointment between two slices of bread.
+Look, I'm going to level with you — Tampa's Cuban sandwich game is serious business. After 24 years of showing houses all over this city, I've eaten my weight in Cubanos from Ybor to Westchase. Some places nail it, others serve you disappointment between two slices of bread.
 
 The Cuban sandwich isn't just food here; it's identity. It's the official sandwich of Tampa, and locals will fight you over where to get the best one. I've had clients move here specifically for the food scene, and honestly? They're not wrong.
 
@@ -184,7 +184,7 @@ Space them out over a week — these sandwiches are filling. I usually tell clie
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

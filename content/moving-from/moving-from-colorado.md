@@ -93,4 +93,4 @@ Colorado's schools are solid but uneven. Tampa Bay's top zones ([FishHawk](/citi
 ### Is Tampa Bay as dog-friendly as Colorado?
 Very. Fort De Soto's dog beach is ranked #1 in the US. Most outdoor restaurants have pet patios. Many neighborhoods have dog parks. You'll find it easy to maintain an active, dog-inclusive lifestyle.
 
-*Ready to make the move? Barrett Henry has been helping families relocate to Tampa Bay for over 23 years. {{nowtb}}*
+*Ready to make the move? Barrett Henry has been helping families relocate to Tampa Bay for over a decade. {{nowtb}}*

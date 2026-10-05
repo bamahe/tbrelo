@@ -1,7 +1,7 @@
 ---
 title: "Best Fishing Gear for Tampa Bay Beginners"
 metaTitle: "Best Fishing Gear for Tampa Bay Beginners | TB Relo"
-metaDescription: "Best Fishing Gear for Tampa Bay Beginners. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Best Fishing Gear for Tampa Bay Beginners. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Affiliate / Products"
 subcategory: "Product Roundup"
@@ -9,7 +9,7 @@ primaryKeyword: "best fishing gear Tampa Bay"
 publishedAt: "2025-10-22T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-10-22T08:00:00-04:00"
@@ -38,7 +38,7 @@ I've watched too many families give up on fishing after frustrating trips with i
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -259,7 +259,7 @@ Tampa Bay offers world-class fishing year-round. With proper equipment and local
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

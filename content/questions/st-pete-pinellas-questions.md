@@ -1,7 +1,7 @@
 ---
 title: "St. Pete & Pinellas County — 30 Questions Answered"
 metaTitle: "St. Pete & Pinellas County FAQ — Questions Answered by a Local REALTOR® | TB Relo"
-metaDescription: "Answers to 30 questions about St. Petersburg and Pinellas County. Downtown, beaches, arts, housing prices, and bridge commute from a Tampa Bay REALTOR® with 23+ years experience."
+metaDescription: "Answers to 30 questions about St. Petersburg and Pinellas County. Downtown, beaches, arts, housing prices, and bridge commute from a Tampa Bay REALTOR® with 23+ years of real estate experience."
 type: question
 category: "Neighborhoods"
 publishedAt: "2026-04-13"

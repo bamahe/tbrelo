@@ -1,7 +1,7 @@
 ---
 title: "Florida Home Warranty — Worth It or Waste of Money?"
 metaTitle: "Florida Home Warranty — Worth It or Waste of Money? | TB Relo"
-metaDescription: "Florida Home Warranty. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Florida Home Warranty. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Real Estate"
 subcategory: "Buying Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "home warranty Florida worth it"
 publishedAt: "2024-12-28T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-12-28T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/florida-home-warranty-guide.webp"
 ---
 
-After 23 years selling homes across Tampa Bay, I've watched hundreds of buyers wrestle with this question at closing: "Should I get a home warranty?" The sales pitch sounds great — comprehensive coverage for appliances and systems, peace of mind, protection against expensive repairs. But here's the reality I've seen play out in countless Florida homes.
+After over a decade selling homes across Tampa Bay, I've watched hundreds of buyers wrestle with this question at closing: "Should I get a home warranty?" The sales pitch sounds great — comprehensive coverage for appliances and systems, peace of mind, protection against expensive repairs. But here's the reality I've seen play out in countless Florida homes.
 
 Home warranties in Florida are a mixed bag at best. While they can provide some financial protection for first-time homeowners or buyers of older homes, they're not the safety net most companies make them out to be. Let me break down what you actually get versus what you pay, based on real experiences from my clients.
 
@@ -223,7 +223,7 @@ The real "warranty" for your Florida home is proper maintenance, an emergency fu
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

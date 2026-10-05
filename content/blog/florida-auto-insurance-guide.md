@@ -1,7 +1,7 @@
 ---
 title: "Florida Auto Insurance Explained — What's Required and What's Smart"
 metaTitle: "Florida Auto Insurance Explained — What's Required and What's Smart | TB Relo"
-metaDescription: "Florida Auto Insurance Explained. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Florida Auto Insurance Explained. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Practical / Legal"
 subcategory: "Admin Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Florida auto insurance requirements"
 publishedAt: "2025-05-29T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-05-29T08:00:00-04:00"
@@ -24,7 +24,7 @@ featuredImage: "/images/blog/florida-auto-insurance-guide.webp"
 ---
 
 
-Moving to Florida means dealing with some unique auto insurance requirements that catch a lot of newcomers off guard. After 23 years of helping families relocate here, I've seen plenty of sticker shock when people get their first Florida insurance quotes. The state's no-fault system and mandatory Personal Injury Protection (PIP) coverage make things different — and often more expensive — than what you might be used to.
+Moving to Florida means dealing with some unique auto insurance requirements that catch a lot of newcomers off guard. After over a decade of helping families relocate here, I've seen plenty of sticker shock when people get their first Florida insurance quotes. The state's no-fault system and mandatory Personal Injury Protection (PIP) coverage make things different — and often more expensive — than what you might be used to.
 
 Let me walk you through exactly what Florida requires, what the smart additions are, and how to navigate this without getting taken for a ride.
 
@@ -194,7 +194,7 @@ Be extremely cautious about signing Assignment of Benefits (AOB) agreements with
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

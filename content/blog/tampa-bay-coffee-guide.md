@@ -132,4 +132,4 @@ Finding your coffee shop is finding your community. It's one of the first things
 
 {{nowtb}} knows the lifestyle details of every Tampa Bay neighborhood — including which ones have great coffee within walking distance.
 
-*Looking for a neighborhood with character and caffeine? Barrett Henry has been caffeinating across Tampa Bay for over 23 years. {{nowtb}}*
+*Looking for a neighborhood with character and caffeine? Barrett Henry has been caffeinating across Tampa Bay for over a decade. {{nowtb}}*

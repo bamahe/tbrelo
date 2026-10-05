@@ -1,7 +1,7 @@
 ---
 title: "Best Emergency Supply Kits for Florida Homes"
 metaTitle: "Best Emergency Supply Kits for Florida Homes | TB Relo"
-metaDescription: "Best Emergency Supply Kits for Florida Homes. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Best Emergency Supply Kits for Florida Homes. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Affiliate / Products"
 subcategory: "Product Roundup"
@@ -9,7 +9,7 @@ primaryKeyword: "Florida emergency supply kit"
 publishedAt: "2025-11-06T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-11-06T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/best-emergency-kits-florida.webp"
 ---
 
-After 23 years helping families move to Tampa Bay, I've seen too many newcomers get caught off-guard by their first hurricane season. Last August, I watched a client frantically drive between empty shelves at three different Publix stores, looking for basic supplies while Idalia approached. Don't be that person.
+After over a decade helping families move to Tampa Bay, I've seen too many newcomers get caught off-guard by their first hurricane season. Last August, I watched a client frantically drive between empty shelves at three different Publix stores, looking for basic supplies while Idalia approached. Don't be that person.
 
 Florida's hurricane season runs June through November, but smart residents prep year-round. Whether you're in downtown Tampa dealing with storm surge zones or tucked away in Land O' Lakes, having the right emergency supplies isn't just smart — it's essential for protecting your family and property.
 
@@ -104,7 +104,7 @@ When cell towers go down, you need backup communication:
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -255,7 +255,7 @@ Florida neighbors help each other during emergencies. Consider:
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

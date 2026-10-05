@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Flood Zones Explained — Interactive Map Guide"
 metaTitle: "Tampa Bay Flood Zones Explained — Interactive Map Guide | TB Relo"
-metaDescription: "Tampa Bay Flood Zones Explained. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa Bay Flood Zones Explained. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Weather / Climate"
 subcategory: "Climate Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Tampa Bay flood zone map"
 publishedAt: "2026-02-19T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2026-02-19T08:00:00-04:00"
@@ -114,7 +114,7 @@ That Zone VE condo in St. Pete Beach might cost $400,000, but add $4,000 annuall
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

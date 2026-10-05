@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Cigar Culture — Ybor City and Beyond"
 metaTitle: "Tampa Bay Cigar Culture — Ybor City and Beyond | TB Relo"
-metaDescription: "Tampa Bay Cigar Culture. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa Bay Cigar Culture. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Lifestyle / Food"
 subcategory: "Local Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Tampa Bay cigars Ybor City"
 publishedAt: "2025-08-16T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-08-16T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/tampa-bay-cigar-culture-guide.webp"
 
 Tampa Bay isn't just another Florida metro area with some cigar shops scattered around. This is where modern American cigar culture was literally born. When Vicente Martinez-Ybor moved his cigar operations here from Key West in 1885, he wasn't just relocating a business — he was creating what would become the cigar capital of the world.
 
-I've been selling real estate in Tampa Bay for 23+ years, and I've watched neighborhoods evolve, but the cigar heritage here runs deeper than any development boom or bust. From historic Ybor City to modern lounges in Westshore, the cigar culture isn't just tourist theater — it's woven into how Tampa Bay actually works.
+I've been selling real estate in Tampa Bay for over a decade, and I've watched neighborhoods evolve, but the cigar heritage here runs deeper than any development boom or bust. From historic Ybor City to modern lounges in Westshore, the cigar culture isn't just tourist theater — it's woven into how Tampa Bay actually works.
 
 
 ## Why Tampa Bay Became America's Cigar Capital
@@ -260,7 +260,7 @@ Why it works: Both benefit from extended aging processes
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

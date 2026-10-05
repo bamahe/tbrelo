@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Traffic & Commute Guide — What Relocators Need to Know"
 metaTitle: "Tampa Bay Traffic & Commute Guide — Commute Times & Routes | TB Relo"
-metaDescription: "Tampa Bay traffic explained: rush hour times, worst corridors, commute estimates, toll costs, and transit options. Written by a local with 23+ years of commuting experience."
+metaDescription: "Tampa Bay traffic explained: rush hour times, worst corridors, commute estimates, toll costs, and transit options. Written by a local with over a decade of commuting experience."
 type: blog
 publishedAt: "2026-03-23"
 updatedAt: "2026-03-23"
@@ -11,7 +11,7 @@ updatedAt: "2026-03-23"
 
 Tampa Bay traffic has gotten significantly worse over the last decade. Population growth has outpaced road infrastructure, and the region's geography — built around a bay with limited bridge crossings — creates natural bottlenecks. That said, Tampa Bay traffic is not Los Angeles, Atlanta, or the DC Beltway. Average commute times run 28–35 minutes, and if you choose your home location strategically, you can keep your commute reasonable.
 
-I've lived and worked in Tampa Bay for over 23 years. I've commuted on every major corridor in the region. Here's the real talk on what to expect, what to avoid, and how to pick the right neighborhood based on where you'll be working.
+I've lived and worked in Tampa Bay for over a decade. I've commuted on every major corridor in the region. Here's the real talk on what to expect, what to avoid, and how to pick the right neighborhood based on where you'll be working.
 
 ## What Are the Major Highways in Tampa Bay?
 

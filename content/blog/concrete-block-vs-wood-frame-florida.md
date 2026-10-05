@@ -1,7 +1,7 @@
 ---
 title: "Concrete Block vs Wood Frame Homes in Florida"
 metaTitle: "Concrete Block vs Wood Frame Homes in Florida | TB Relo"
-metaDescription: "Concrete Block vs Wood Frame Homes in Florida. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Concrete Block vs Wood Frame Homes in Florida. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Real Estate"
 subcategory: "Buying Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "concrete block vs wood frame Florida"
 publishedAt: "2024-12-23T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-12-23T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/concrete-block-vs-wood-frame-florida.webp"
 
 You're house hunting in Florida and keep hearing about "CBS" (concrete block and stucco) versus wood frame construction. As someone who's helped families navigate Tampa Bay real estate for over two decades, I can tell you this choice matters more here than anywhere else I've worked.
 
-The difference isn't just academic — it affects your insurance premiums, your comfort during summer storms, and even your resale value. Let me break down what 23 years of Florida real estate has taught me about these two construction methods.
+The difference isn't just academic — it affects your insurance premiums, your comfort during summer storms, and even your resale value. Let me break down what over a decade of Florida real estate has taught me about these two construction methods.
 
 
 ## The Florida Construction Reality Check
@@ -141,7 +141,7 @@ But here's the thing: concrete block has a higher floor of performance. Even med
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -256,7 +256,7 @@ Expect continued tightening of wind load requirements, which may favor concrete 
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

@@ -1,7 +1,7 @@
 ---
 title: "Living in Tampa Bay on a $50K Salary"
 metaTitle: "Living in Tampa Bay on a $50K Salary | TB Relo"
-metaDescription: "Living in Tampa Bay on a $50K Salary. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Living in Tampa Bay on a $50K Salary. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Demographic / Niche"
 subcategory: "Audience Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "cost of living Tampa Bay 50K salary"
 publishedAt: "2025-12-28T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-12-28T08:00:00-04:00"
@@ -152,7 +152,7 @@ These areas lack the hip factor of St. Pete neighborhoods like Grand Central or 
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -263,7 +263,7 @@ Consider [AAA membership]({{amazon:B08ABC5678}}) for roadside assistance, especi
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

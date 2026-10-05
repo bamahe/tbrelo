@@ -1,7 +1,7 @@
 ---
 title: "Where to Get a Pub Sub (And Why It Matters)"
 metaTitle: "Where to Get a Pub Sub (And Why It Matters) | TB Relo"
-metaDescription: "Where to Get a Pub Sub (And Why It Matters). Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Where to Get a Pub Sub (And Why It Matters). Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Lifestyle / Food"
 subcategory: "Local Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "best Publix sub order"
 publishedAt: "2025-08-07T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-08-07T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/publix-sub-guide-best-orders.webp"
 
 You know you've become a Tampa Bay local when you can walk into any Publix, rattle off your Pub Sub order like you're speaking in code, and watch the deli counter person nod knowingly. The Pub Sub isn't just a sandwich — it's a regional obsession that separates the transplants from the natives faster than asking someone where they went to high school.
 
-After 23 years of showing people around Tampa Bay, I've watched countless newcomers discover the Pub Sub phenomenon. Some get it immediately. Others need gentle guidance. Consider this your comprehensive field guide to understanding, ordering, and appreciating what might be Florida's greatest culinary contribution to the world.
+After over a decade of showing people around Tampa Bay, I've watched countless newcomers discover the Pub Sub phenomenon. Some get it immediately. Others need gentle guidance. Consider this your comprehensive field guide to understanding, ordering, and appreciating what might be Florida's greatest culinary contribution to the world.
 
 
 ## What Exactly Is a Pub Sub?
@@ -198,7 +198,7 @@ The Pub Sub also represents Florida's genius for taking something ordinary and m
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

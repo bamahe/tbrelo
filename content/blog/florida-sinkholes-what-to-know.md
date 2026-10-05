@@ -11,7 +11,7 @@ updatedAt: "2026-03-23"
 
 Florida sinkholes are one of the most common fears people have when considering a move here. The fear is understandable — the images of homes swallowing into the ground make national news. But the reality is far less dramatic for the vast majority of homeowners. Most Florida sinkholes are small, gradual depressions — not sudden collapses. The truly catastrophic, house-swallowing events are statistically rare and concentrated in specific areas. Understanding where sinkholes happen, why they form, and how to protect yourself turns a vague fear into a manageable risk.
 
-I've been selling homes in Tampa Bay for over 23 years. I've dealt with sinkhole disclosures, sinkhole testing, insurance claims, and buyers who were terrified of buying in Florida because of what they saw on the news. Here's everything you need to know.
+I've been selling homes in Tampa Bay for over a decade. I've dealt with sinkhole disclosures, sinkhole testing, insurance claims, and buyers who were terrified of buying in Florida because of what they saw on the news. Here's everything you need to know.
 
 ## Why Does Florida Have Sinkholes?
 
@@ -135,7 +135,7 @@ Florida has roughly 10 million residential properties. The Florida Office of Ins
 
 The catastrophic, house-swallowing sinkholes that make national news happen a handful of times per year across the entire state. The vast majority of sinkhole activity is cosmetic — a small depression in the yard, minor foundation settling, cracks that can be repaired.
 
-**Perspective from 23 years of selling homes in Tampa Bay:**
+**Perspective from over a decade of selling homes in Tampa Bay:**
 - I've sold thousands of homes in this region
 - The number of transactions where an actual sinkhole was a serious issue: a small fraction
 - The number of deals where sinkhole FEAR killed the transaction unnecessarily: far more

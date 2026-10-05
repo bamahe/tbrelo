@@ -1,7 +1,7 @@
 ---
 title: "St. Pete-Clearwater Airport — The Local Secret"
 metaTitle: "St. Pete-Clearwater Airport — The Local Secret | TB Relo"
-metaDescription: "St. Pete-Clearwater Airport. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "St. Pete-Clearwater Airport. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Transportation"
 subcategory: "Commute Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "PIE airport Tampa Bay"
 publishedAt: "2026-02-05T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2026-02-05T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/st-pete-clearwater-airport-guide.webp"
 
 Let me tell you about Tampa Bay's best-kept aviation secret: St. Pete-Clearwater International Airport (PIE). While everyone fights traffic to get to Tampa International, smart locals are quietly saving hundreds of dollars and skipping the crowds at this smaller, more convenient option.
 
-After 23 years of helping families relocate here, I've watched PIE transform from a sleepy regional airport into a legitimate alternative that can save you serious money and time. But like most local secrets, it comes with trade-offs you need to understand.
+After over a decade of helping families relocate here, I've watched PIE transform from a sleepy regional airport into a legitimate alternative that can save you serious money and time. But like most local secrets, it comes with trade-offs you need to understand.
 
 
 ## Why PIE Beats Tampa International for Many Travelers
@@ -236,7 +236,7 @@ May through October offers:
 
 PIE shuts down faster than TPA during storm threats due to limited aircraft rotation. Plan accordingly if traveling during hurricane season.
 
-## Insider Tips from 23 Years of Local Experience
+## Insider Tips from Over a Decade of Local Experience
 
 ### Booking Strategy
 
@@ -262,7 +262,7 @@ Always have a Plan B during summer thunderstorm season. Allegiant's limited rebo
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

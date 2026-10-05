@@ -1,7 +1,7 @@
 ---
 title: "Moving from Philadelphia to Tampa Bay — The Complete Relocation Guide"
 metaTitle: "Moving from Philadelphia to Tampa Bay — The Complete Relocation Guide | TB Relo"
-metaDescription: "Moving from Philadelphia to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Moving from Philadelphia to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Moving From"
 subcategory: "Philadelphia"
@@ -9,7 +9,7 @@ primaryKeyword: "moving from Philly to Tampa Bay"
 publishedAt: "2024-07-02T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-07-02T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/moving-from-philadelphia.webp"
 ---
 
-You're trading Liberty Bell for palm trees, and trust me — after 23 years helping families make this exact move, I can tell you it's one of the smartest decisions you'll make. The cost savings alone will have you wondering why you waited so long.
+You're trading Liberty Bell for palm trees, and trust me — after 24 years helping families make this exact move, I can tell you it's one of the smartest decisions you'll make. The cost savings alone will have you wondering why you waited so long.
 
 Philadelphia has charm, history, and some of the best food in America. But Tampa Bay has something Philadelphia doesn't: year-round warmth, no state income tax, and housing costs that won't make you question your life choices. Let me walk you through exactly what this move looks like — the real numbers, the best neighborhoods, and the logistics that'll save you thousands.
 
@@ -124,7 +124,7 @@ The slight salary reduction disappears when you factor in tax savings and lower 
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -260,7 +260,7 @@ Missing your Philly sports leagues? Tampa Bay delivers:
 
 ### Hurricane Preparedness 101
 
-After 23 years here, I've learned hurricane prep is mostly common sense:
+After more than a decade here, I've learned hurricane prep is mostly common sense:
 - **Insurance**: Flood coverage is separate, and you need it
 - **Generator**: Whole-house runs $8,000-15,000, portable works for $800-2,000
 - **Supplies**: Water, batteries, non-perishables for 3-7 days
@@ -297,7 +297,7 @@ After 23 years here, I've learned hurricane prep is mostly common sense:
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

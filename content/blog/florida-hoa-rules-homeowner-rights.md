@@ -1,7 +1,7 @@
 ---
 title: "HOA Rules in Florida — Your Rights as a Homeowner"
 metaTitle: "HOA Rules in Florida — Your Rights as a Homeowner | TB Relo"
-metaDescription: "HOA Rules in Florida. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "HOA Rules in Florida. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Real Estate"
 subcategory: "Buying Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Florida HOA laws homeowner rights"
 publishedAt: "2024-11-30T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-11-30T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/florida-hoa-rules-homeowner-rights.webp"
 ---
 
-Living in a homeowners association community in Florida isn't just about perfectly manicured lawns and shared amenities. It's about understanding a complex web of rules, regulations, and — most importantly — your rights as a homeowner. After 23 years of helping Tampa Bay families navigate HOA communities, I've seen how confusing and intimidating these associations can be.
+Living in a homeowners association community in Florida isn't just about perfectly manicured lawns and shared amenities. It's about understanding a complex web of rules, regulations, and — most importantly — your rights as a homeowner. After over a decade of helping Tampa Bay families navigate HOA communities, I've seen how confusing and intimidating these associations can be.
 
 Here's what every Florida homeowner needs to know about HOA rules and your rights under state law.
 
@@ -258,7 +258,7 @@ The best HOA communities in Tampa Bay succeed because engaged homeowners hold th
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

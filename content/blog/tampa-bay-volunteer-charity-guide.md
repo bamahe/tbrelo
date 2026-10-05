@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Charity and Volunteer Opportunities for New Residents"
 metaTitle: "Tampa Bay Charity and Volunteer Opportunities for New Residents | TB Relo"
-metaDescription: "Tampa Bay Charity and Volunteer Opportunities for New Residents. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa Bay Charity and Volunteer Opportunities for New Residents. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Seasonal / Events"
 subcategory: "Event Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Tampa Bay volunteer opportunities"
 publishedAt: "2025-05-10T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-05-10T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/tampa-bay-volunteer-charity-guide.webp"
 ---
 
-Moving to a new city means more than finding the right neighborhood and the best taco spot. It means finding your people — the community that makes this sprawling metro feel like home. After 23+ years helping families settle into Tampa Bay, I've watched countless newcomers discover that volunteering isn't just about giving back. It's about finding your tribe, understanding local issues, and building roots that run deeper than a mortgage.
+Moving to a new city means more than finding the right neighborhood and the best taco spot. It means finding your people — the community that makes this sprawling metro feel like home. After over a decade helping families settle into Tampa Bay, I've watched countless newcomers discover that volunteering isn't just about giving back. It's about finding your tribe, understanding local issues, and building roots that run deeper than a mortgage.
 
 Tampa Bay's volunteer landscape is as diverse as our communities, from feeding families in Ybor City to protecting manatees in Crystal River. Whether you're looking to mentor kids in Pinellas Park or help hurricane victims in Temple Terrace, there's a cause that needs exactly what you bring to the table.
 
@@ -226,7 +226,7 @@ Consider rotating through different organizations annually rather than making pe
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

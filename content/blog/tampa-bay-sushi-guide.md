@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Sushi Guide — The Best Rolls and Omakase"
 metaTitle: "Tampa Bay Sushi Guide — The Best Rolls and Omakase | TB Relo"
-metaDescription: "Tampa Bay Sushi Guide. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa Bay Sushi Guide. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Lifestyle / Food"
 subcategory: "Local Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "best sushi Tampa Bay"
 publishedAt: "2025-08-05T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-08-05T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/tampa-bay-sushi-guide.webp"
 ---
 
-Tampa Bay's sushi scene has exploded over the past decade. What started as a handful of strip-mall spots has evolved into a legitimate destination for raw fish enthusiasts. After 23 years of exploring every corner of this region, I've watched neighborhoods transform and culinary scenes mature — and our sushi game is no exception.
+Tampa Bay's sushi scene has exploded over the past decade. What started as a handful of strip-mall spots has evolved into a legitimate destination for raw fish enthusiasts. After 24 years of exploring every corner of this region, I've watched neighborhoods transform and culinary scenes mature — and our sushi game is no exception.
 
 You'll find everything from $8 California rolls to $200 omakase experiences that rival anything in Miami or New York. The key is knowing where to look and what to order when you get there.
 
@@ -169,7 +169,7 @@ Limited options but Ginza proves quality exists. Beach area sushi tends to be to
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

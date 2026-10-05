@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Waterpark and Pool Guide for Families"
 metaTitle: "Tampa Bay Waterpark and Pool Guide for Families | TB Relo"
-metaDescription: "Tampa Bay Waterpark and Pool Guide for Families. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa Bay Waterpark and Pool Guide for Families. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Seasonal / Events"
 subcategory: "Event Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "waterparks Tampa Bay"
 publishedAt: "2025-05-10T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-05-10T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/tampa-bay-waterpark-pool-guide.webp"
 ---
 
-Look, Tampa Bay's heat isn't just a summer thing anymore. We're talking 85-degree days in March and humid afternoons that make you question your life choices. After 23 years of helping families move here, I've learned one thing: you need a solid water strategy, and fast.
+Look, Tampa Bay's heat isn't just a summer thing anymore. We're talking 85-degree days in March and humid afternoons that make you question your life choices. After over a decade of helping families move here, I've learned one thing: you need a solid water strategy, and fast.
 
 Here's your no-nonsense guide to staying cool in Tampa Bay, from world-class waterparks to neighborhood pools that locals actually use.
 
@@ -178,7 +178,7 @@ Hidden gem in New Tampa. The splash pad is newer and less discovered.
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

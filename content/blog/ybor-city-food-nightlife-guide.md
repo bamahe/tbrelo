@@ -1,7 +1,7 @@
 ---
 title: "Ybor City Food and Nightlife Guide — The Complete Walkthrough"
 metaTitle: "Ybor City Food and Nightlife Guide — The Complete Walkthrough | TB Relo"
-metaDescription: "Ybor City Food and Nightlife Guide. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Ybor City Food and Nightlife Guide. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Lifestyle / Food"
 subcategory: "Local Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Ybor City restaurants bars"
 publishedAt: "2025-09-08T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-09-08T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/ybor-city-food-nightlife-guide.webp"
 ---
 
-Ybor City isn't just Tampa's historic district — it's the beating heart of the city's food and nightlife scene. After 23 years of showing clients around Tampa Bay, I've watched this neighborhood evolve from a gritty afterthought to Tampa's premier destination for serious eating and late-night fun. 
+Ybor City isn't just Tampa's historic district — it's the beating heart of the city's food and nightlife scene. After over a decade of showing clients around Tampa Bay, I've watched this neighborhood evolve from a gritty afterthought to Tampa's premier destination for serious eating and late-night fun. 
 
 Let me be direct: if you're moving to Tampa and you don't explore Ybor, you're missing half the reason to live here. This isn't some sanitized theme park version of nightlife. It's authentic, diverse, and has more character in one city block than most Florida towns have in their entire downtown.
 
@@ -42,7 +42,7 @@ Parking reality check: street parking is $2-3 per hour until 2 AM on weekends. T
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -219,7 +219,7 @@ Special events: $15-25
 Live music venues: $10-20
 
 
-## Insider Tips from 23 Years in Tampa
+## Insider Tips from Over a Decade in Tampa
 
 **Start early:** The best food happens before 9 PM. The best bar experiences happen after 10 PM. Plan accordingly.
 
@@ -242,7 +242,7 @@ If you're coming from a smaller town and nervous about urban nightlife, also spe
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

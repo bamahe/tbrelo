@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Public Transit Guide — HART, PSTA, and Beyond"
 metaTitle: "Tampa Bay Public Transit Guide — HART, PSTA, and Beyond | TB Relo"
-metaDescription: "Tampa Bay Public Transit Guide. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa Bay Public Transit Guide. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Practical / Legal"
 subcategory: "Admin Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Tampa Bay public transit"
 publishedAt: "2025-06-13T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-06-13T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: /images/blog/default.webp
 ---
 
-Let me be straight with you — Tampa Bay's public transit system isn't winning any awards. But if you're moving here and planning to rely on buses and limited rail options, you need the real story. After 23 years of helping families relocate here, I've seen plenty of newcomers get blindsided by the reality of getting around without a car.
+Let me be straight with you — Tampa Bay's public transit system isn't winning any awards. But if you're moving here and planning to rely on buses and limited rail options, you need the real story. After over a decade of helping families relocate here, I've seen plenty of newcomers get blindsided by the reality of getting around without a car.
 
 The Tampa Bay area spans three main counties — Hillsborough, Pinellas, and Pasco — each with its own transit authority. That means three different systems, three different apps, and three different payment methods. Fun, right? Let's break down what you're actually working with.
 
@@ -165,7 +165,7 @@ If you're determined to use public transit in Tampa Bay, here's my advice:
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

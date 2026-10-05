@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Farmers Market Shopping Guide — What to Buy"
 metaTitle: "Tampa Bay Farmers Market Shopping Guide — What to Buy | TB Relo"
-metaDescription: "Tampa Bay Farmers Market Shopping Guide. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa Bay Farmers Market Shopping Guide. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Lifestyle / Food"
 subcategory: "Local Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "what to buy farmers market Tampa"
 publishedAt: "2025-08-27T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-08-27T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/farmers-market-shopping-guide-tampa-bay.webp"
 ---
 
-Walking through a Tampa Bay farmers market on a Saturday morning feels like discovering the region's best-kept secrets. After 23 years of helping people relocate here, I've watched these markets transform from small weekend gatherings into thriving community hubs that showcase everything exceptional about our local food scene.
+Walking through a Tampa Bay farmers market on a Saturday morning feels like discovering the region's best-kept secrets. After over a decade of helping people relocate here, I've watched these markets transform from small weekend gatherings into thriving community hubs that showcase everything exceptional about our local food scene.
 
 The real magic happens when you know what to look for. Sure, you could wander around buying the prettiest tomatoes, but understanding what's actually in season, which vendors know their craft, and what unique finds you can only get at Tampa Bay markets? That's what separates tourists from locals.
 
@@ -137,7 +137,7 @@ Dog-friendly market with strong community feel. Local favorite **Annie's Homemad
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -231,7 +231,7 @@ Many families make markets part of weekend routines, combining shopping with bre
 
 The key to successful farmers market shopping in Tampa Bay? Start with realistic expectations, bring cash and patience, and embrace the community experience. You're not just buying groceries — you're connecting with the agricultural heritage that makes this region special.
 
-After 23 years of living here, I still discover new vendors, seasonal specialties, and community connections at Tampa Bay farmers markets. They represent everything I love about this area: diversity, quality, and genuine human connections that make relocation worthwhile.
+After over a decade of living here, I still discover new vendors, seasonal specialties, and community connections at Tampa Bay farmers markets. They represent everything I love about this area: diversity, quality, and genuine human connections that make relocation worthwhile.
 
 ## Frequently Asked Questions
 

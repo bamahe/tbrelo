@@ -1,7 +1,7 @@
 ---
 title: "Best Wings in Tampa Bay — Buffalo, Smoked, and Everything Else"
 metaTitle: "Best Wings in Tampa Bay — Buffalo, Smoked, and Everything Else | TB Relo"
-metaDescription: "Best Wings in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Best Wings in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Lifestyle / Food"
 subcategory: "Local Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "best wings Tampa Bay"
 publishedAt: "2025-08-15T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-08-15T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/best-wings-tampa-bay.webp"
 ---
 
-Tampa Bay takes wings seriously. After 23 years of helping families relocate here, I've discovered that asking someone about their favorite wing spot reveals more about their personality than their mortgage pre-approval letter. This isn't just about food — it's about understanding what makes this region tick.
+Tampa Bay takes wings seriously. After over a decade of helping families relocate here, I've discovered that asking someone about their favorite wing spot reveals more about their personality than their mortgage pre-approval letter. This isn't just about food — it's about understanding what makes this region tick.
 
 From Buffalo-style classics that would make Western New York proud to smoked wings that showcase our Southern roots, Tampa Bay's wing scene reflects our diverse population. Tech workers from Seattle argue with New York transplants over sauce preferences, while longtime locals quietly dominate wing eating contests at neighborhood joints.
 
@@ -81,7 +81,7 @@ Six wings cost $10, but they're consistently 2+ ounces each. The dry rub gets ap
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -180,7 +180,7 @@ Most importantly, come hungry and bring friends. Wings are social food, best enj
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay for Digital Nomads — Internet, Coffee, and Community"
 metaTitle: "Tampa Bay for Digital Nomads — Internet, Coffee, and Community | TB Relo"
-metaDescription: "Tampa Bay for Digital Nomads. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa Bay for Digital Nomads. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Demographic / Niche"
 subcategory: "Audience Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "digital nomad Tampa Bay"
 publishedAt: "2025-12-25T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-12-25T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/digital-nomad-tampa-bay.webp"
 
 Tampa Bay isn't just another sun-and-surf destination for remote workers. It's a surprisingly sophisticated digital nomad ecosystem with fiber internet speeds that'll make your Zoom calls crystal clear and coffee shops that actually want you to camp out with your laptop.
 
-I've watched this transformation firsthand over my 23 years selling homes here. What used to be retirement communities are now buzzing with entrepreneurs running Shopify stores from poolside. The cost of living still makes sense (for now), the airport connects you anywhere, and you can wear shorts to "the office" year-round.
+I've watched this transformation firsthand over my decade-plus selling homes here. What used to be retirement communities are now buzzing with entrepreneurs running Shopify stores from poolside. The cost of living still makes sense (for now), the airport connects you anywhere, and you can wear shorts to "the office" year-round.
 
 Let me break down what Tampa Bay really offers digital nomads — beyond the obvious palm tree Instagram shots.
 
@@ -161,7 +161,7 @@ Master-planned community 15 minutes from downtown Tampa. Rent drops to $1,400-1,
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -277,7 +277,7 @@ Beach access within 30 minutes from anywhere in Tampa Bay. Clearwater Beach, St.
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

@@ -50,4 +50,4 @@ Both are in booming south [Pasco County](/counties/pasco/), both offer new const
 
 {{nowtb}} can show you specific communities in both areas and help you weigh schools, commute, and budget. The right choice is the one that fits YOUR priorities.
 
-*Ready to make the move? Barrett Henry has been helping families relocate to Tampa Bay for over 23 years. {{nowtb}}*
+*Ready to make the move? Barrett Henry has been helping families relocate to Tampa Bay for over a decade. {{nowtb}}*

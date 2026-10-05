@@ -9,7 +9,7 @@ updatedAt: "2026-03-15"
 
 ## Best Day Trips from Tampa Bay — Your Weekend Adventure List
 
-One of Tampa Bay's underrated advantages is location. Within a two-hour drive, you can swim in crystal-clear springs, explore charming small towns, paddle through mangrove tunnels, visit world-class attractions, and see parts of Florida that look nothing like the suburbs. After 23 years of weekend exploring, here are the 20 day trips I recommend most — organized by drive time from central Tampa Bay.
+One of Tampa Bay's underrated advantages is location. Within a two-hour drive, you can swim in crystal-clear springs, explore charming small towns, paddle through mangrove tunnels, visit world-class attractions, and see parts of Florida that look nothing like the suburbs. After more than a decade of weekend exploring, here are the 20 day trips I recommend most — organized by drive time from central Tampa Bay.
 
 ## Under 1 Hour
 
@@ -143,4 +143,4 @@ Living in Tampa Bay means living within easy reach of springs, beaches, state pa
 
 {{nowtb}} helps families find homes that put them closer to the lifestyle they want — whether that's beach proximity, spring access, or theme park convenience.
 
-*Ready to explore Tampa Bay and beyond? Barrett Henry has been adventuring across central Florida for over 23 years. {{nowtb}}*
+*Ready to explore Tampa Bay and beyond? Barrett Henry has been adventuring across central Florida for over a decade. {{nowtb}}*

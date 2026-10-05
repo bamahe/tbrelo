@@ -1,7 +1,7 @@
 ---
 title: "Best Lawn Mowers for Florida Grass Types"
 metaTitle: "Best Lawn Mowers for Florida Grass Types | TB Relo"
-metaDescription: "Best Lawn Mowers for Florida Grass Types. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Best Lawn Mowers for Florida Grass Types. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Affiliate / Products"
 subcategory: "Product Roundup"
@@ -9,7 +9,7 @@ primaryKeyword: "best lawn mower St Augustine grass"
 publishedAt: "2025-09-25T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-09-25T08:00:00-04:00"
@@ -184,7 +184,7 @@ Higher cutting promotes deeper root systems, crucial during our intense summer h
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -301,7 +301,7 @@ The key to successful lawn care in Tampa Bay isn't just the mower – it's under
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

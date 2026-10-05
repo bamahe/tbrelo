@@ -1,7 +1,7 @@
 ---
 title: "Living in Haines City / Davenport — What It's Really Like (Honest Relocation Guide)"
 metaTitle: "Living in Haines City / Davenport — What It's Really Like (Honest Relocation Guide) | TB Relo"
-metaDescription: "Living in Haines City / Davenport. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Living in Haines City / Davenport. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Neighborhoods"
 subcategory: "Deep Dive"
@@ -9,7 +9,7 @@ primaryKeyword: "living in Haines City / Davenport FL"
 publishedAt: "2025-03-26T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-03-26T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: /images/blog/default.webp
 ---
 
-Tucked between Orlando's theme park chaos and Tampa Bay's metro sprawl, Haines City and Davenport offer something increasingly rare in Central Florida: affordable living that doesn't feel like you're settling. After 23 years helping families relocate throughout the region, I've watched these twin cities evolve from sleepy agricultural towns into legitimate alternatives for people priced out of the Orlando and Tampa markets.
+Tucked between Orlando's theme park chaos and Tampa Bay's metro sprawl, Haines City and Davenport offer something increasingly rare in Central Florida: affordable living that doesn't feel like you're settling. After 24 years helping families relocate throughout the region, I've watched these twin cities evolve from sleepy agricultural towns into legitimate alternatives for people priced out of the Orlando and Tampa markets.
 
 But let's be clear — this isn't for everyone. If you need a Whole Foods within five minutes or can't function without craft cocktail bars, look elsewhere. These communities work best for families who value space, affordability, and that small-town feel that's disappearing everywhere else in Florida.
 
@@ -295,7 +295,7 @@ If it still feels right, you've probably found your place.
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

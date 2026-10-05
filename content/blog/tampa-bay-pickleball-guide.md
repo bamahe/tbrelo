@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Pickleball Guide — Where to Play"
 metaTitle: "Tampa Bay Pickleball Guide — Where to Play | TB Relo"
-metaDescription: "Tampa Bay Pickleball Guide. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa Bay Pickleball Guide. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Seasonal / Events"
 subcategory: "Event Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "pickleball courts Tampa Bay"
 publishedAt: "2025-05-13T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-05-13T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/tampa-bay-pickleball-guide.webp"
 ---
 
-Pickleball has exploded across Tampa Bay faster than a well-placed dink shot. What started as a retirement community activity has become the area's fastest-growing sport, attracting everyone from 20-something professionals to competitive retirees. After 23 years of helping families relocate here, I've watched entire neighborhoods spring up around pickleball facilities.
+Pickleball has exploded across Tampa Bay faster than a well-placed dink shot. What started as a retirement community activity has become the area's fastest-growing sport, attracting everyone from 20-something professionals to competitive retirees. After over a decade of helping families relocate here, I've watched entire neighborhoods spring up around pickleball facilities.
 
 The numbers tell the story: Tampa Bay now has over 300 dedicated pickleball courts across the metro area, with new facilities opening monthly. Whether you're house hunting and want to live near courts, or you're already here and looking to join the craze, this guide covers every major facility, league, and playing opportunity in the region.
 
@@ -254,7 +254,7 @@ Many outdoor leagues take summer breaks or move to indoor venues during July-Sep
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

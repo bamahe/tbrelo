@@ -1,7 +1,7 @@
 ---
 title: "Where to Watch Live Music in Tampa Bay"
 metaTitle: "Where to Watch Live Music in Tampa Bay | TB Relo"
-metaDescription: "Where to Watch Live Music in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Where to Watch Live Music in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Lifestyle / Food"
 subcategory: "Local Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "live music Tampa Bay"
 publishedAt: "2025-07-26T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-07-26T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/live-music-tampa-bay-guide.webp"
 
 Tampa Bay's live music scene doesn't get the credit it deserves. While Nashville gets all the press and Austin claims to be the "Live Music Capital," we've got something those cities don't: year-round outdoor weather and venues that actually understand how to treat both artists and audiences right.
 
-After 23+ years of living here and countless nights discovering new bands (and rediscovering old favorites), I've mapped out the essential spots where Tampa Bay does music best. From intimate songwriter circles to full-blown festival stages, here's where the real music lives.
+After over a decade of living here and countless nights discovering new bands (and rediscovering old favorites), I've mapped out the essential spots where Tampa Bay does music best. From intimate songwriter circles to full-blown festival stages, here's where the real music lives.
 
 
 ## The Amphitheaters: Where Big Names Come to Play
@@ -229,7 +229,7 @@ Smart venue operators understand that good food keeps people happy and spending 
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

@@ -1,7 +1,7 @@
 ---
 title: "Living in Dunedin (Deep Dive) — What It's Really Like (Honest Relocation Guide)"
 metaTitle: "Living in Dunedin (Deep Dive) — What It's Really Like (Honest Relocation Guide) | TB Relo"
-metaDescription: "Living in Dunedin (Deep Dive). Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Living in Dunedin (Deep Dive). Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Neighborhoods"
 subcategory: "Deep Dive"
@@ -9,7 +9,7 @@ primaryKeyword: "living in Dunedin FL"
 publishedAt: "2025-02-22T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-02-22T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/living-in-dunedin-guide.webp"
 ---
 
-Look, I'll be straight with you about Dunedin. After 23 years of helping families move around Tampa Bay, I've seen people fall hard for this city — and I've also seen some folks get reality-checked by what small-town Florida living actually entails.
+Look, I'll be straight with you about Dunedin. After over a decade of helping families move around Tampa Bay, I've seen people fall hard for this city — and I've also seen some folks get reality-checked by what small-town Florida living actually entails.
 
 Dunedin sits on the western edge of [Pinellas County](/counties/pinellas/), population around 36,000, and it's got this Scottish-themed charm that either clicks with you immediately or feels a bit forced. The city earned its name from Scottish settlers, and they've leaned into that heritage with Highland Games, bagpiper parades, and enough tartan to outfit a small army.
 
@@ -94,7 +94,7 @@ Parking downtown costs $1-2 per hour in most areas, free evenings and weekends. 
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -295,7 +295,7 @@ The families who succeed in Dunedin typically embrace the community aspect. They
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

@@ -1,7 +1,7 @@
 ---
 title: "Moving to Florida in Summer — Survival Tips for Moving Day"
 metaTitle: "Moving to Florida in Summer — Survival Tips for Moving Day | TB Relo"
-metaDescription: "Moving to Florida in Summer. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Moving to Florida in Summer. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Relocation Logistics"
 subcategory: "How-To"
@@ -9,7 +9,7 @@ primaryKeyword: "moving to Florida in summer"
 publishedAt: "2025-12-08T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-12-08T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/moving-florida-summer-tips.webp"
 ---
 
-Moving to Florida in summer isn't just challenging — it's a special kind of endurance test that separates the prepared from the hospitalized. After 23 years helping families relocate to Tampa Bay, I've seen movers collapse, electronics fried, and perfectly rational people reduced to tears by 2 PM on a 95-degree July afternoon.
+Moving to Florida in summer isn't just challenging — it's a special kind of endurance test that separates the prepared from the hospitalized. After over a decade helping families relocate to Tampa Bay, I've seen movers collapse, electronics fried, and perfectly rational people reduced to tears by 2 PM on a 95-degree July afternoon.
 
 But here's the thing: summer moves are often unavoidable. Kids need to be settled before school starts, job transfers don't wait for October, and sometimes the house you want won't wait for cooler weather. So let's talk about how to survive — and maybe even conquer — a Florida summer moving day.
 
@@ -215,7 +215,7 @@ Your body needs time to recover from heat stress, even if you feel fine. Drink e
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

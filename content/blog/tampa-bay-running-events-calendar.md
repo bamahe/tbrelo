@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Marathon and Running Events Calendar"
 metaTitle: "Tampa Bay Marathon and Running Events Calendar | TB Relo"
-metaDescription: "Tampa Bay Marathon and Running Events Calendar. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa Bay Marathon and Running Events Calendar. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Seasonal / Events"
 subcategory: "Event Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Tampa Bay marathon running"
 publishedAt: "2025-04-30T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-04-30T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/tampa-bay-running-events-calendar.webp"
 
 Tampa Bay's running scene isn't just about pounding pavement in humid weather — though you'll definitely do plenty of that. This region hosts some of the most well-organized races in Florida, from massive weekend festivals to intimate neighborhood 5Ks that actually feel like community events.
 
-After 23 years of watching clients discover Tampa Bay, I've seen how the running community here becomes a genuine social network. These events aren't just races; they're where transplants meet their future running partners, where retirees find their new Saturday morning crew, and where competitive types discover races that actually challenge them beyond the typical flat Florida stereotype.
+After over a decade of watching clients discover Tampa Bay, I've seen how the running community here becomes a genuine social network. These events aren't just races; they're where transplants meet their future running partners, where retirees find their new Saturday morning crew, and where competitive types discover races that actually challenge them beyond the typical flat Florida stereotype.
 
 
 ## The Big Three: Tampa Bay's Signature Running Events
@@ -225,7 +225,7 @@ September through November offers excellent racing weather with fewer major even
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

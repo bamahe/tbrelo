@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Sports Bar Guide — Where to Watch Every Game"
 metaTitle: "Tampa Bay Sports Bar Guide — Where to Watch Every Game | TB Relo"
-metaDescription: "Tampa Bay Sports Bar Guide. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa Bay Sports Bar Guide. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Lifestyle / Food"
 subcategory: "Local Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "sports bars Tampa Bay"
 publishedAt: "2025-09-04T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-09-04T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/tampa-bay-sports-bars-guide.webp"
 ---
 
-Whether you're a die-hard Bucs fan, Lightning faithful, or just need a reliable spot to catch the big game, Tampa Bay's sports bar scene delivers. After 23+ years of living here and helping families find their perfect neighborhoods, I've sampled more wings and watched more games than I care to admit. Here's your definitive guide to the sports bars that actually matter in Tampa Bay.
+Whether you're a die-hard Bucs fan, Lightning faithful, or just need a reliable spot to catch the big game, Tampa Bay's sports bar scene delivers. After over a decade of living here and helping families find their perfect neighborhoods, I've sampled more wings and watched more games than I care to admit. Here's your definitive guide to the sports bars that actually matter in Tampa Bay.
 
 
 ## The Heavy Hitters — Premium Game Day Experiences
@@ -204,7 +204,7 @@ If you're new to Tampa Bay, start with the neighborhood spots near your home. Bu
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

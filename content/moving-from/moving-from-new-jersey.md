@@ -134,4 +134,4 @@ It depends on the specific schools. NJ has some of the best public schools in th
 ### Do I really need flood insurance?
 If you're in a flood zone, your lender will require it. Even if you're not, I strongly recommend it. Florida flooding doesn't follow FEMA maps perfectly, and a single flood event can cost $50,000+ in damage. Policies start around $500/year outside high-risk zones. See our [Hurricane Prep guide](/hurricane-prep/).
 
-*Ready to make the move? Barrett Henry has been helping families relocate to Tampa Bay for over 23 years. {{nowtb}}*
+*Ready to make the move? Barrett Henry has been helping families relocate to Tampa Bay for over a decade. {{nowtb}}*

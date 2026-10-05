@@ -1,7 +1,7 @@
 ---
 title: "Florida Recycling Rules — What Actually Gets Recycled Here"
 metaTitle: "Florida Recycling Rules — What Actually Gets Recycled Here | TB Relo"
-metaDescription: "Florida Recycling Rules. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Florida Recycling Rules. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Practical / Legal"
 subcategory: "Admin Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Florida recycling what goes in bin"
 publishedAt: "2025-06-26T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-06-26T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/florida-recycling-rules-guide.webp"
 
 Moving to Florida means learning a whole new set of recycling rules. And here's the truth nobody tells you upfront: what goes in your recycling bin varies dramatically by county, city, and even your specific waste management company.
 
-After 23+ years of helping families relocate across Tampa Bay, I've watched countless newcomers get frustrated with recycling here. The rules aren't just different from wherever you came from — they're confusing, inconsistent, and change more often than you'd expect.
+After over a decade of helping families relocate across Tampa Bay, I've watched countless newcomers get frustrated with recycling here. The rules aren't just different from wherever you came from — they're confusing, inconsistent, and change more often than you'd expect.
 
 Let me break down what actually happens to your recycling in Florida, county by county, so you don't end up contaminating loads or worse — getting your entire street's recycling sent to the landfill.
 
@@ -266,7 +266,7 @@ Car batteries have a $3-10 core charge in Florida — you get money back for ret
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

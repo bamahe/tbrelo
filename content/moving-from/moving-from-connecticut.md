@@ -90,4 +90,4 @@ Direct flights from Tampa to JFK, LaGuardia, and Newark run multiple times daily
 ### Will my Connecticut pension be taxed?
 No. Florida has no income tax on any retirement income — pensions, 401(k), Social Security, all tax-free at the state level.
 
-*Ready to make the move? Barrett Henry has been helping families relocate to Tampa Bay for over 23 years. {{nowtb}}*
+*Ready to make the move? Barrett Henry has been helping families relocate to Tampa Bay for over a decade. {{nowtb}}*

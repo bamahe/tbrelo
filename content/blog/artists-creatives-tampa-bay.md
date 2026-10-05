@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay for Artists and Creatives"
 metaTitle: "Tampa Bay for Artists and Creatives | TB Relo"
-metaDescription: "Tampa Bay for Artists and Creatives. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa Bay for Artists and Creatives. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Demographic / Niche"
 subcategory: "Audience Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "artist community Tampa Bay"
 publishedAt: "2025-12-24T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-12-24T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/artists-creatives-tampa-bay.webp"
 ---
 
-Tampa Bay isn't just condos and beaches. It's become one of the Southeast's most vibrant creative hubs, and I've watched this transformation firsthand over my 23 years selling homes here. Artists who once fled to New York or LA are now staying put — or moving here intentionally.
+Tampa Bay isn't just condos and beaches. It's become one of the Southeast's most vibrant creative hubs, and I've watched this transformation firsthand over my decade-plus selling homes here. Artists who once fled to New York or LA are now staying put — or moving here intentionally.
 
 The numbers tell the story: St. Petersburg alone has over 100 galleries and cultural venues packed into a city of 265,000. That's not counting Tampa's emerging arts districts or the creative communities sprouting up in Seminole Heights and the Heights. If you're an artist looking for affordable studio space, supportive community, and year-round outdoor inspiration, Tampa Bay delivers.
 
@@ -192,7 +192,7 @@ Most artists need cars here. Public transit exists but doesn't connect creative 
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -231,7 +231,7 @@ Tampa Bay isn't New York or Los Angeles. The collector base is growing but still
 
 The artists who thrive here are those who engage with the community, understand the local market, and maintain connections beyond Tampa Bay. It's not a place to hide in your studio — success requires participating in the scene.
 
-After 23 years of helping people relocate, I can say Tampa Bay offers artists something rare: a legitimate creative community without New York prices or LA traffic. If you're ready to be part of building something rather than joining something fully formed, this might be your place.
+After over a decade of helping people relocate, I can say Tampa Bay offers artists something rare: a legitimate creative community without New York prices or LA traffic. If you're ready to be part of building something rather than joining something fully formed, this might be your place.
 
 ## Frequently Asked Questions
 

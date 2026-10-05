@@ -92,4 +92,4 @@ Ruskin's commercial scene is catching up but still behind Apollo Beach. You'll d
 
 {{nowtb}} knows the SouthShore area inside and out — every community, every CDD fee, every school zone boundary. Don't just pick a neighborhood from a map — get local expertise.
 
-*Ready to explore SouthShore? Barrett Henry has been helping families relocate to Tampa Bay for over 23 years. {{nowtb}}*
+*Ready to explore SouthShore? Barrett Henry has been helping families relocate to Tampa Bay for over a decade. {{nowtb}}*

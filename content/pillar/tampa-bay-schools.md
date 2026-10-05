@@ -246,4 +246,4 @@ Yes. Florida schools accept transfers throughout the year. Contact the school di
 ### Are Florida schools really worse than Northeast schools?
 It depends entirely on the specific school. Florida's state averages are dragged down by some underperforming districts in rural areas. The top schools in Tampa Bay compete with any school in the country. Focus on individual schools, not state rankings.
 
-*Thinking about relocating to Tampa Bay? Barrett Henry has been helping families move to Tampa Bay for over 23 years. {{nowtb}}*
+*Thinking about relocating to Tampa Bay? Barrett Henry has been helping families move to Tampa Bay for over a decade. {{nowtb}}*

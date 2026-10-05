@@ -1,7 +1,7 @@
 ---
 title: "Moving from Kansas City to Tampa Bay — The Complete Relocation Guide"
 metaTitle: "Moving from Kansas City to Tampa Bay — The Complete Relocation Guide | TB Relo"
-metaDescription: "Moving from Kansas City to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Moving from Kansas City to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Moving From"
 subcategory: "Kansas City"
@@ -9,7 +9,7 @@ primaryKeyword: "moving from KC to Tampa Bay"
 publishedAt: "2024-08-13T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-08-13T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/moving-from-kansas-city.webp"
 ---
 
-I've helped dozens of Kansas City families make the move to Tampa Bay over my 23+ years as a REALTOR here. The transition from Missouri's heartland to Florida's Gulf Coast involves more than just swapping barbecue styles (though we'll get to that). Let me walk you through everything you need to know about relocating from KC to the Bay Area.
+I've helped dozens of Kansas City families make the move to Tampa Bay over my decade-plus as a REALTOR here. The transition from Missouri's heartland to Florida's Gulf Coast involves more than just swapping barbecue styles (though we'll get to that). Let me walk you through everything you need to know about relocating from KC to the Bay Area.
 
 
 The short version? You're trading four seasons for endless summer, state income tax for zero income tax, and tornado warnings for hurricane season. Most Kansas City transplants I work with are shocked by how much their money stretches here — and how quickly they forget about shoveling snow.
@@ -78,7 +78,7 @@ The reality? If you're buying a similar home, expect to pay $150,000-200,000 mor
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -198,7 +198,7 @@ Additional exemptions exist for veterans, seniors, and disabled residents. These
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -354,7 +354,7 @@ For detailed [cost of living](/cost-of-living/) comparisons and specific neighbo
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

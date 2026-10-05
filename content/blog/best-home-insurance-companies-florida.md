@@ -1,7 +1,7 @@
 ---
 title: "Best Home Insurance Companies in Florida — Ranked"
 metaTitle: "Best Home Insurance Companies in Florida — Ranked | TB Relo"
-metaDescription: "Best Home Insurance Companies in Florida. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Best Home Insurance Companies in Florida. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Affiliate / Products"
 subcategory: "Product Roundup"
@@ -9,7 +9,7 @@ primaryKeyword: "best home insurance Florida"
 publishedAt: "2025-10-23T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-10-23T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/best-home-insurance-companies-florida.webp"
 ---
 
-Florida homeowners know the drill. Hurricane season hits, insurance rates skyrocket, and half the carriers decide they'd rather insure ice cream trucks in Alaska than your beautiful Tampa Bay home. After 23+ years helping families navigate this market, I've seen every trick, every legitimate company, and plenty of fly-by-night operations that vanish faster than a Category 5 storm surge.
+Florida homeowners know the drill. Hurricane season hits, insurance rates skyrocket, and half the carriers decide they'd rather insure ice cream trucks in Alaska than your beautiful Tampa Bay home. After more than a decade helping families navigate this market, I've seen every trick, every legitimate company, and plenty of fly-by-night operations that vanish faster than a Category 5 storm surge.
 
 Let me cut through the marketing nonsense and give you the real story on Florida home insurance. These rankings are based on actual claims handling, financial stability, customer service when you actually need them, and rates that won't force you to eat ramen for six months.
 
@@ -222,7 +222,7 @@ Public adjusters can increase settlement amounts but take 10-20% of the payout. 
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -306,7 +306,7 @@ The insurance market will continue evolving, but smart homeowners who stay infor
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

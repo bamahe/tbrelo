@@ -1,7 +1,7 @@
 ---
 title: "Florida Power Outage Survival: What Happens When the AC Dies"
 metaTitle: "Florida Power Outage Survival: What Happens When the AC Dies | TB Relo"
-metaDescription: "Florida Power Outage Survival: What Happens When the AC Dies. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Florida Power Outage Survival: What Happens When the AC Dies. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Florida Life"
 subcategory: "Survival Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Florida power outage tips"
 publishedAt: "2024-10-01T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-10-01T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/florida-power-outage-survival.webp"
 ---
 
-When that Florida summer heat hits 95°F with humidity that makes it feel like 110°F, and then *click* — your power goes out. Welcome to one of Florida's most dreaded scenarios. After 23 years of helping families relocate to Tampa Bay, I've seen newcomers completely unprepared for what happens when modern life suddenly stops working in paradise.
+When that Florida summer heat hits 95°F with humidity that makes it feel like 110°F, and then *click* — your power goes out. Welcome to one of Florida's most dreaded scenarios. After over a decade of helping families relocate to Tampa Bay, I've seen newcomers completely unprepared for what happens when modern life suddenly stops working in paradise.
 
 Your AC dies. Your refrigerator becomes a very expensive insulated box. Your phone starts overheating. And you realize that living in Florida without electricity isn't just uncomfortable — it can be dangerous.
 
@@ -196,7 +196,7 @@ Some neighborhoods have formed informal outage response groups. They share gener
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

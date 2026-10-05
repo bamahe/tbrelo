@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Beaches Guide — Every Beach Ranked by a Local"
 metaTitle: "Best Tampa Bay Beaches Ranked (2026 Local Guide) | TB Relo"
-metaDescription: "Honest rankings of every Tampa Bay beach — best for families, couples, dogs, and solitude. Parking tips, fees, and local secrets from a 23-year resident."
+metaDescription: "Honest rankings of every Tampa Bay beach — best for families, couples, dogs, and solitude. Parking tips, fees, and local secrets from a longtime resident."
 type: pillar
 publishedAt: "2026-03-15"
 updatedAt: "2026-03-15"
@@ -11,7 +11,7 @@ updatedAt: "2026-03-15"
 
 Living in Tampa Bay means you're never more than an hour from a beach. But which beach? That depends entirely on what you're looking for. Clearwater Beach is gorgeous but packed with tourists. Siesta Key has the best sand in the world. Fort De Soto is the best overall beach park. And the locals' favorites are the ones the tourists haven't discovered yet.
 
-I've been going to these beaches for over 23 years. This guide ranks every major beach across the Tampa Bay metro, tells you what each one is actually like (not the tourism board version), and helps you find the right beach for your vibe.
+I've been going to these beaches for over 24 years. This guide ranks every major beach across the Tampa Bay metro, tells you what each one is actually like (not the tourism board version), and helps you find the right beach for your vibe.
 
 ## The Pinellas County Beaches
 
@@ -235,4 +235,4 @@ Not beaches per se, but the crystal-clear spring-fed rivers and Gulf access from
 
 Pick your beach based on what matters to you — not what TripAdvisor says. The "best" beach is the one that fits your lifestyle. And once you live here? You'll have a rotation of three or four favorites for different moods.
 
-*Thinking about relocating to Tampa Bay? Barrett Henry has been helping families move to Tampa Bay for over 23 years. {{nowtb}}*
+*Thinking about relocating to Tampa Bay? Barrett Henry has been helping families move to Tampa Bay for over a decade. {{nowtb}}*

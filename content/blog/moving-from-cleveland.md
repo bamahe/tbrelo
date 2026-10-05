@@ -1,7 +1,7 @@
 ---
 title: "Moving from Cleveland to Tampa Bay — The Complete Relocation Guide"
 metaTitle: "Moving from Cleveland to Tampa Bay — The Complete Relocation Guide | TB Relo"
-metaDescription: "Moving from Cleveland to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Moving from Cleveland to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Moving From"
 subcategory: "Cleveland"
@@ -9,7 +9,7 @@ primaryKeyword: "moving from Cleveland to Tampa Bay"
 publishedAt: "2024-07-09T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-07-09T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/moving-from-cleveland.webp"
 ---
 
-Making the jump from Cleveland to Tampa Bay? You're not alone. As someone who's helped hundreds of Ohio families make this move over the past 23 years, I can tell you it's one of the smartest decisions you'll make. But there's more to consider than just trading snow boots for flip-flops.
+Making the jump from Cleveland to Tampa Bay? You're not alone. As someone who's helped hundreds of Ohio families make this move over the past 24 years, I can tell you it's one of the smartest decisions you'll make. But there's more to consider than just trading snow boots for flip-flops.
 
 Let me walk you through everything you need to know about relocating from the shores of Lake Erie to the Gulf Coast of Florida.
 
@@ -113,7 +113,7 @@ Downtown St. Pete condos: $225,000-$800,000
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -327,7 +327,7 @@ Tech salaries run 10-15% below Cleveland levels, but factor in the tax savings. 
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

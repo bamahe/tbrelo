@@ -1,7 +1,7 @@
 ---
 title: "What Happens to Your Stuff in Florida Humidity (And How to Protect It)"
 metaTitle: "What Happens to Your Stuff in Florida Humidity (And How to Protect It) | TB Relo"
-metaDescription: "What Happens to Your Stuff in Florida Humidity (And How to Protect It). Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "What Happens to Your Stuff in Florida Humidity (And How to Protect It). Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Florida Life"
 subcategory: "Survival Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Florida humidity damage prevention"
 publishedAt: "2024-09-10T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-09-10T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/florida-humidity-protect-belongings.webp"
 ---
 
-After 23 years helping families move to Tampa Bay, I've seen the aftermath of Florida's humidity on everything from leather couches to family photos. The good news? Most damage is preventable once you understand what you're dealing with. The bad news? Your stuff is already under attack the moment you unpack.
+After over a decade helping families move to Tampa Bay, I've seen the aftermath of Florida's humidity on everything from leather couches to family photos. The good news? Most damage is preventable once you understand what you're dealing with. The bad news? Your stuff is already under attack the moment you unpack.
 
 Florida's average humidity sits around 74%, but in summer months, we're talking 80-90% regularly. That's not just uncomfortable—it's actively working against your belongings. Here's what actually happens to your stuff and the battle-tested strategies that work.
 
@@ -235,7 +235,7 @@ Consider separate coverage for valuable collections through specialty insurers w
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

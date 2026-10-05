@@ -1,7 +1,7 @@
 ---
 title: "Moving from Columbus OH to Tampa Bay — The Complete Relocation Guide"
 metaTitle: "Moving from Columbus OH to Tampa Bay — The Complete Relocation Guide | TB Relo"
-metaDescription: "Moving from Columbus OH to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Moving from Columbus OH to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Moving From"
 subcategory: "Columbus OH"
@@ -9,7 +9,7 @@ primaryKeyword: "moving from Columbus to Tampa Bay"
 publishedAt: "2024-07-11T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-07-11T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/moving-from-columbus-ohio.webp"
 ---
 
-Moving from Columbus to Tampa Bay means swapping snow boots for flip-flops and trading gray winters for year-round sunshine. After 23 years helping families make this exact transition, I've seen how this move transforms people's lives — and their bank accounts.
+Moving from Columbus to Tampa Bay means swapping snow boots for flip-flops and trading gray winters for year-round sunshine. After 24 years helping families make this exact transition, I've seen how this move transforms people's lives — and their bank accounts.
 
 The numbers tell the story: Columbus families routinely save $3,000-5,000 annually on taxes alone, while enjoying weather that lets you golf in January and swim in your backyard pool year-round. But like any major relocation, success comes down to planning, timing, and understanding what you're really getting into.
 
@@ -177,7 +177,7 @@ Florida requires vehicle registration within 30 days. Costs include:
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -341,7 +341,7 @@ The tax savings compound over time. A Columbus family earning $100,000 saves $3,
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

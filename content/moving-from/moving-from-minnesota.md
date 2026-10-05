@@ -91,4 +91,4 @@ If you're from Rochester, you've been spoiled by Mayo. Tampa Bay has excellent h
 ### Will I regret leaving the lakes?
 You'll miss the lakes for about one July. Then you'll be on a boat in Tampa Bay, fishing for redfish in 80°F water while your friends back home are dealing with mosquitoes the size of birds. The water lifestyle is different but equally rich — and available year-round.
 
-*Ready to make the move? Barrett Henry has been helping families relocate to Tampa Bay for over 23 years. {{nowtb}}*
+*Ready to make the move? Barrett Henry has been helping families relocate to Tampa Bay for over a decade. {{nowtb}}*

@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Vegan and Vegetarian Restaurant Guide"
 metaTitle: "Tampa Bay Vegan and Vegetarian Restaurant Guide | TB Relo"
-metaDescription: "Tampa Bay Vegan and Vegetarian Restaurant Guide. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa Bay Vegan and Vegetarian Restaurant Guide. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Lifestyle / Food"
 subcategory: "Local Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "vegan restaurants Tampa Bay"
 publishedAt: "2025-08-12T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-08-12T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/tampa-bay-vegan-vegetarian-guide.webp"
 ---
 
-After 23 years of eating my way through Tampa Bay, I've watched the plant-based dining scene explode from a handful of health food stores with sad salad bars to world-class restaurants that make carnivores question their life choices. Whether you're a lifelong vegan, trying Meatless Monday, or just want to eat something that won't put you in a food coma, Tampa Bay delivers.
+After over a decade of eating my way through Tampa Bay, I've watched the plant-based dining scene explode from a handful of health food stores with sad salad bars to world-class restaurants that make carnivores question their life choices. Whether you're a lifelong vegan, trying Meatless Monday, or just want to eat something that won't put you in a food coma, Tampa Bay delivers.
 
 The numbers don't lie: our metro area now has over 80 restaurants with dedicated vegan menus, up from maybe 12 just five years ago. That growth reflects our increasingly diverse population — young professionals from the coasts, international families, and health-conscious retirees who want options beyond the traditional meat-and-potatoes fare.
 
@@ -230,7 +230,7 @@ The plant-based scene in Tampa Bay keeps evolving. Several high-profile vegan re
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. I know which neighborhoods put you closest to the best plant-based dining — and everything else that matters.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. I know which neighborhoods put you closest to the best plant-based dining — and everything else that matters.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

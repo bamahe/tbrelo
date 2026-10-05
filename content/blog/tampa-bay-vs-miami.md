@@ -9,7 +9,7 @@ updatedAt: "2026-03-15"
 
 ## Tampa Bay vs Miami — The Florida Showdown
 
-This is the comparison that every Florida relocator eventually confronts. Both are major coastal metros. Both have beaches, culture, and no state income tax. Both are experiencing population booms. But they feel like different countries. Tampa Bay is the family-friendly, affordable, Gulf Coast option. Miami is the international, high-energy, Atlantic Coast option. Let me break down how they actually compare after 23 years on the Tampa Bay side.
+This is the comparison that every Florida relocator eventually confronts. Both are major coastal metros. Both have beaches, culture, and no state income tax. Both are experiencing population booms. But they feel like different countries. Tampa Bay is the family-friendly, affordable, Gulf Coast option. Miami is the international, high-energy, Atlantic Coast option. Let me break down how they actually compare after more than a decade on the Tampa Bay side.
 
 **Full disclosure:** I'm a Tampa Bay agent. I'm biased. But I'll be honest about where Miami wins.
 

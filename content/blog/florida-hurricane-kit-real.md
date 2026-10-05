@@ -1,7 +1,7 @@
 ---
 title: "Florida Hurricane Kit: What You Actually Need (Skip the Bread and Milk)"
 metaTitle: "Florida Hurricane Kit: What You Actually Need (Skip the Bread and Milk) | TB Relo"
-metaDescription: "Florida Hurricane Kit: What You Actually Need (Skip the Bread and Milk). Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Florida Hurricane Kit: What You Actually Need (Skip the Bread and Milk). Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Florida Life"
 subcategory: "Survival Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Florida hurricane supply list"
 publishedAt: "2024-09-30T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-09-30T08:00:00-04:00"
@@ -70,7 +70,7 @@ Let's talk generators. The 3,500-watt Honda everyone recommends costs $3,000 and
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -236,7 +236,7 @@ You're far enough inland that storm surge isn't the primary concern, but you'll 
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

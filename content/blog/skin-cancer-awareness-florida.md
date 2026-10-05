@@ -1,7 +1,7 @@
 ---
 title: "Skin Cancer Awareness in Florida — What Every New Resident Should Know"
 metaTitle: "Skin Cancer Awareness in Florida — What Every New Resident Should Know | TB Relo"
-metaDescription: "Skin Cancer Awareness in Florida. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Skin Cancer Awareness in Florida. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Healthcare"
 subcategory: "Wellness Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "skin cancer Florida sun exposure"
 publishedAt: "2026-03-25T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2026-03-25T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/skin-cancer-awareness-florida.webp"
 ---
 
-Moving to Florida means trading snow boots for flip-flops, but it also means confronting a harsh reality: this state leads the nation in skin cancer rates. After 23 years helping families relocate to Tampa Bay, I've seen too many newcomers learn this lesson the hard way — usually after their first summer.
+Moving to Florida means trading snow boots for flip-flops, but it also means confronting a harsh reality: this state leads the nation in skin cancer rates. After over a decade helping families relocate to Tampa Bay, I've seen too many newcomers learn this lesson the hard way — usually after their first summer.
 
 Florida's year-round sunshine isn't just a marketing slogan. It's a daily dose of UV radiation that demands respect. The numbers are sobering: Florida has the highest melanoma incidence rate in the country, with over 7,000 new cases diagnosed annually. That's not meant to scare you away from paradise, but it should change how you live here.
 
@@ -136,7 +136,7 @@ Many practices offer photography mapping for high-risk patients, creating a base
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -299,7 +299,7 @@ Always consult healthcare providers before starting supplement regimens, especia
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

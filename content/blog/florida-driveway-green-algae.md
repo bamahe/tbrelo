@@ -1,7 +1,7 @@
 ---
 title: "Why Your Driveway Turns Green (And How to Fix It)"
 metaTitle: "Why Your Driveway Turns Green (And How to Fix It) | TB Relo"
-metaDescription: "Why Your Driveway Turns Green (And How to Fix It). Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Why Your Driveway Turns Green (And How to Fix It). Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Florida Life"
 subcategory: "Survival Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Florida driveway cleaning mold"
 publishedAt: "2024-10-21T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-10-21T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/florida-driveway-green-algae.webp"
 
 Welcome to Florida living, where your driveway grows its own ecosystem faster than you can say "humidity." If you've recently moved to Tampa Bay and wondered why your pristine concrete suddenly looks like a science experiment, you're not alone. That green slime creeping across your driveway isn't just ugly — it's a slippery safety hazard and a clear sign you're dealing with Florida's most persistent uninvited guests: algae, mold, and mildew.
 
-After 23 years of helping families relocate here, I've fielded this question countless times. The truth? Every single homeowner in Tampa Bay will face this battle. The good news is it's completely fixable, and once you understand what you're dealing with, you can keep it under control.
+After over a decade of helping families relocate here, I've fielded this question countless times. The truth? Every single homeowner in Tampa Bay will face this battle. The good news is it's completely fixable, and once you understand what you're dealing with, you can keep it under control.
 
 
 ## What's Actually Growing on Your Driveway
@@ -179,7 +179,7 @@ Second opportunity for deep cleaning as temperatures moderate but before winter'
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -187,7 +187,7 @@ Second opportunity for deep cleaning as temperatures moderate but before winter'
 
 ## The Bottom Line on Florida Driveway Maintenance
 
-Here's what 23 years in Tampa Bay real estate has taught me: every homeowner here will deal with green growth on their driveway. It's not a matter of if, but when and how often. The key is understanding that this isn't a sign of poor maintenance — it's simply Florida life.
+Here's what over a decade in Tampa Bay real estate has taught me: every homeowner here will deal with green growth on their driveway. It's not a matter of if, but when and how often. The key is understanding that this isn't a sign of poor maintenance — it's simply Florida life.
 
 Budget $200-400 annually for proper driveway maintenance, whether you DIY or hire professionals. Factor this into your [moving costs](/cost-of-living/) because it's as inevitable as hurricane season and afternoon thunderstorms.
 

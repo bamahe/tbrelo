@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Airport Comparison — TPA vs PIE vs SRQ vs MCO"
 metaTitle: "Tampa Bay Airport Comparison — TPA vs PIE vs SRQ vs MCO | TB Relo"
-metaDescription: "Tampa Bay Airport Comparison. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa Bay Airport Comparison. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Transportation"
 subcategory: "Commute Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "airports near Tampa Bay"
 publishedAt: "2026-02-11T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2026-02-11T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/tampa-bay-airport-comparison.webp"
 ---
 
-You've got options when flying out of Tampa Bay — more than most metro areas. After helping hundreds of families relocate here over 23 years, I've learned that picking the right airport can save you serious money and stress. Here's the straight story on your four realistic choices.
+You've got options when flying out of Tampa Bay — more than most metro areas. After helping hundreds of families relocate here over a decade, I've learned that picking the right airport can save you serious money and stress. Here's the straight story on your four realistic choices.
 
 
 ## Tampa International Airport (TPA) — The Gold Standard
@@ -132,7 +132,7 @@ Here's what actually matters to your wallet:
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -253,7 +253,7 @@ For destination weddings, family reunions, or corporate groups, airport choice a
 
 ## The Bottom Line
 
-After 23 years helping Tampa Bay families, I've learned that the "best" airport depends entirely on your specific situation. TPA offers the most options and best experience at a premium price. PIE delivers budget-friendly basics for leisure travel. SRQ provides a nice middle ground for south Tampa Bay residents. MCO rarely makes financial sense unless international savings are substantial.
+After over a decade helping Tampa Bay families, I've learned that the "best" airport depends entirely on your specific situation. TPA offers the most options and best experience at a premium price. PIE delivers budget-friendly basics for leisure travel. SRQ provides a nice middle ground for south Tampa Bay residents. MCO rarely makes financial sense unless international savings are substantial.
 
 Most Tampa Bay residents end up using TPA for important trips and exploring alternatives for vacation travel. That's probably the right approach — pay for convenience when it matters, save money when you can be flexible.
 
@@ -261,7 +261,7 @@ The airport landscape keeps evolving. PIE continues adding routes, SRQ expands i
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

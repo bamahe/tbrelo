@@ -1,7 +1,7 @@
 ---
 title: "Best Happy Hours in Tampa Bay — Updated Monthly"
 metaTitle: "Best Happy Hours in Tampa Bay — Updated Monthly | TB Relo"
-metaDescription: "Best Happy Hours in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Best Happy Hours in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Lifestyle / Food"
 subcategory: "Local Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "best happy hour Tampa Bay"
 publishedAt: "2025-07-21T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-07-21T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/best-happy-hours-tampa-bay.webp"
 ---
 
-After 23 years of helping people relocate to Tampa Bay, I've learned that finding great happy hour spots isn't just about saving money — it's about discovering the neighborhoods where you'll actually want to spend time. Whether you're house hunting in South Tampa or settling into your new place in St. Pete, these are the happy hour gems locals actually frequent.
+After over a decade of helping people relocate to Tampa Bay, I've learned that finding great happy hour spots isn't just about saving money — it's about discovering the neighborhoods where you'll actually want to spend time. Whether you're house hunting in South Tampa or settling into your new place in St. Pete, these are the happy hour gems locals actually frequent.
 
 I update this list monthly because Tampa Bay's restaurant scene changes faster than you can say "grouper sandwich." Some places close, others change their deals, and new spots emerge that deserve your attention. Here's what's actually worth your time and money right now.
 
@@ -225,7 +225,7 @@ Real talk: Even with happy hour prices, dining out in Tampa Bay adds up quickly 
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

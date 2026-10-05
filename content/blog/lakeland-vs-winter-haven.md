@@ -95,4 +95,4 @@ This is where Polk County shines. Property taxes are lower than Hillsborough Cou
 
 {{nowtb}} can help you find the right neighborhood in either city and navigate the Polk County market, which has its own quirks compared to Hillsborough and Pinellas. Don't just pick a city — pick the right pocket within it.
 
-*Ready to explore Polk County? Barrett Henry has been helping families relocate to the Tampa Bay area for over 23 years. {{nowtb}}*
+*Ready to explore Polk County? Barrett Henry has been helping families relocate to the Tampa Bay area for over a decade. {{nowtb}}*

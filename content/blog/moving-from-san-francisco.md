@@ -1,7 +1,7 @@
 ---
 title: "Moving from San Francisco to Tampa Bay — The Complete Relocation Guide"
 metaTitle: "Moving from San Francisco to Tampa Bay — The Complete Relocation Guide | TB Relo"
-metaDescription: "Moving from San Francisco to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Moving from San Francisco to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Moving From"
 subcategory: "San Francisco"
@@ -9,7 +9,7 @@ primaryKeyword: "moving from SF to Tampa Bay"
 publishedAt: "2024-08-02T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-08-02T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/moving-from-san-francisco.webp"
 
 You're staring at your $4,800 rent statement for a 1-bedroom in SOMA, wondering if there's a better way to live. Spoiler alert: there is, and it's 2,876 miles southeast in Tampa Bay.
 
-After 23 years helping people relocate here — including dozens of former Bay Area residents — I can tell you the move from San Francisco to Tampa Bay isn't just about escaping California's costs. It's about rediscovering what your money can actually buy you.
+After over a decade helping people relocate here — including dozens of former Bay Area residents — I can tell you the move from San Francisco to Tampa Bay isn't just about escaping California's costs. It's about rediscovering what your money can actually buy you.
 
 
 ## Why San Francisco Residents Are Choosing Tampa Bay
@@ -48,7 +48,7 @@ Sure, the money part is obvious. But my SF transplant clients consistently menti
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -268,7 +268,7 @@ Tampa Bay's social scene is different from SF's. It's more family-oriented, less
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

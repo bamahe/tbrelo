@@ -1,7 +1,7 @@
 ---
 title: "Living in Tampa Bay as a Nurse or Healthcare Worker"
 metaTitle: "Living in Tampa Bay as a Nurse or Healthcare Worker | TB Relo"
-metaDescription: "Living in Tampa Bay as a Nurse or Healthcare Worker. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Living in Tampa Bay as a Nurse or Healthcare Worker. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Demographic / Niche"
 subcategory: "Audience Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "nurse relocation Tampa Bay"
 publishedAt: "2025-12-16T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-12-16T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/healthcare-worker-living-tampa-bay.webp"
 ---
 
-Tampa Bay isn't just another place to practice healthcare — it's where your nursing career can actually thrive while you enjoy year-round sunshine, reasonable housing costs, and some of the best medical facilities in the Southeast. After 23 years of helping healthcare professionals relocate here, I've seen nurses transform both their careers and quality of life by making the move to our region.
+Tampa Bay isn't just another place to practice healthcare — it's where your nursing career can actually thrive while you enjoy year-round sunshine, reasonable housing costs, and some of the best medical facilities in the Southeast. After over a decade of helping healthcare professionals relocate here, I've seen nurses transform both their careers and quality of life by making the move to our region.
 
 The numbers tell the story: Tampa Bay hosts over 30 major healthcare systems, including Tampa General Hospital (ranked #1 in Florida by U.S. News), Johns Hopkins All Children's Hospital, and Moffitt Cancer Center. We're talking about 50,000+ healthcare jobs across Hillsborough, Pinellas, and Pasco counties, with registered nurses earning a median of $78,000-$95,000 annually — competitive wages that stretch further thanks to Florida's lack of state income tax.
 
@@ -85,7 +85,7 @@ Moffitt's where you go if oncology nursing is your calling. They're the only Nat
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -293,7 +293,7 @@ Tampa Bay's nursing community is surprisingly tight-knit for such a large area. 
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

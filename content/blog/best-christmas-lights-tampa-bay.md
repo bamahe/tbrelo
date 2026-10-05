@@ -1,7 +1,7 @@
 ---
 title: "Best Christmas Light Displays in Tampa Bay"
 metaTitle: "Best Christmas Light Displays in Tampa Bay | TB Relo"
-metaDescription: "Best Christmas Light Displays in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Best Christmas Light Displays in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Seasonal / Events"
 subcategory: "Event Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Christmas lights Tampa Bay"
 publishedAt: "2025-05-16T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-05-16T08:00:00-04:00"
@@ -139,11 +139,11 @@ Many families develop multi-night traditions: one evening for the big paid attra
 
 **Local insider tip:** Many of the residential displays reach peak participation the second weekend in December. Earlier than that, and some houses aren't ready yet. Later, and you're dealing with heavier traffic and crowds.
 
-The Tampa Bay Christmas light scene has genuinely improved over my 23+ years here. What started as scattered neighborhood efforts has evolved into coordinated community displays that rival major tourist destinations. Whether you're creating new family traditions or continuing old ones, these displays prove that Christmas magic works just fine under palm trees.
+The Tampa Bay Christmas light scene has genuinely improved over my decade-plus here. What started as scattered neighborhood efforts has evolved into coordinated community displays that rival major tourist destinations. Whether you're creating new family traditions or continuing old ones, these displays prove that Christmas magic works just fine under palm trees.
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

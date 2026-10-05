@@ -126,4 +126,4 @@ Tampa Bay is a dog-friendly metro with legitimate beach access for your pup — 
 
 {{nowtb}} helps dog owners find homes near the best parks and beaches. Some neighborhoods even have their own community dog parks. Tell me your dog's favorite activity, and I'll find a neighborhood that delivers.
 
-*Relocating with your four-legged family? Barrett Henry has been a Tampa Bay dog owner for over 23 years. {{nowtb}}*
+*Relocating with your four-legged family? Barrett Henry has been a Tampa Bay dog owner for over a decade. {{nowtb}}*

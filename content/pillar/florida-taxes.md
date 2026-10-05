@@ -252,4 +252,4 @@ Sales tax is the biggest revenue source, followed by corporate income tax, docum
 ### Are property taxes higher in Florida to compensate for no income tax?
 Compared to national averages, Florida's property tax rates are moderate — lower than New Jersey, Illinois, Connecticut, and New York, but higher than California and Hawaii. The effective rate on a homesteaded property in Tampa Bay is typically 0.8–1.1% of market value.
 
-*Thinking about relocating to Tampa Bay? Barrett Henry has been helping families move to Tampa Bay for over 23 years. {{nowtb}}*
+*Thinking about relocating to Tampa Bay? Barrett Henry has been helping families move to Tampa Bay for over a decade. {{nowtb}}*

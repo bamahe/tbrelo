@@ -11,7 +11,7 @@ updatedAt: "2026-03-23"
 
 Moving to Florida costs more than most people budget for. If you're renting, you need $8,000–$15,000 in savings to cover moving expenses, first/last/security deposit, and startup costs. If you're buying a home, plan for $25,000–$50,000+ depending on your purchase price and down payment. Those numbers aren't meant to scare you — they're meant to keep you from being blindsided.
 
-I've worked with relocating families for over 23 years in Tampa Bay. The number-one financial mistake I see is underestimating the total cost of the move itself. People budget for the house or apartment but forget about the twenty other line items that add up fast. Here's every cost you need to plan for, with real dollar ranges based on current Tampa Bay pricing.
+I've worked with relocating families for over a decade in Tampa Bay. The number-one financial mistake I see is underestimating the total cost of the move itself. People budget for the house or apartment but forget about the twenty other line items that add up fast. Here's every cost you need to plan for, with real dollar ranges based on current Tampa Bay pricing.
 
 ## What Does It Cost to Ship Your Belongings to Florida?
 

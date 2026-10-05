@@ -1,7 +1,7 @@
 ---
 title: "Moving from Indianapolis to Tampa Bay — The Complete Relocation Guide"
 metaTitle: "Moving from Indianapolis to Tampa Bay — The Complete Relocation Guide | TB Relo"
-metaDescription: "Moving from Indianapolis to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Moving from Indianapolis to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Moving From"
 subcategory: "Indianapolis"
@@ -9,7 +9,7 @@ primaryKeyword: "moving from Indianapolis to Tampa Bay"
 publishedAt: "2024-07-18T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-07-18T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/moving-from-indianapolis.webp"
 ---
 
-Moving from the Circle City to the Sunshine State isn't just a change of address — it's a complete lifestyle upgrade. After helping dozens of Indianapolis families make this exact move over the past 23 years, I can tell you the transition hits differently than most relocations.
+Moving from the Circle City to the Sunshine State isn't just a change of address — it's a complete lifestyle upgrade. After helping dozens of Indianapolis families make this exact move over the past 24 years, I can tell you the transition hits differently than most relocations.
 
 The weather alone will knock your socks off. Trading those brutal Midwest winters for year-round warmth? That's just the beginning. But let's get real about everything else — the costs, the culture shifts, the practical stuff nobody talks about until you're knee-deep in moving boxes.
 
@@ -84,7 +84,7 @@ Add in lower property taxes (Florida averages 1.02% vs Indiana's 1.15%), and you
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -235,7 +235,7 @@ Modern building codes (post-Hurricane Andrew) mean newer homes are incredibly st
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -414,7 +414,7 @@ HART (Hillsborough Area Regional Transit) provides bus service, but Tampa Bay is
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -460,4 +460,4 @@ October through December offers the best weather for moving, fewer competing hom
 
 ### How do I find a reliable real estate agent in Tampa Bay?
 
-Look for agents with specific relocation experience who understand Indianapolis buyers' needs and concerns. Barrett Henry has helped dozens of Indianapolis families make this exact transition over 23 years, providing the local knowledge and honest guidance that makes all the difference.
+Look for agents with specific relocation experience who understand Indianapolis buyers' needs and concerns. Barrett Henry has helped dozens of Indianapolis families make this exact transition over 24 years, providing the local knowledge and honest guidance that makes all the difference.

@@ -97,4 +97,4 @@ You'll miss about two weeks of fall foliage and the first pretty snowfall of win
 ### Do Chicagoans actually adjust to no deep-dish?
 There are a few Chicago-style pizza spots in Tampa Bay (Gianni's, Eddie & Sam's come close). They're not Lou Malnati's, but they'll get you through. And you'll discover that Tampa Bay's food scene has its own specialties worth obsessing over.
 
-*Ready to make the move? Barrett Henry has been helping families relocate to Tampa Bay for over 23 years. {{nowtb}}*
+*Ready to make the move? Barrett Henry has been helping families relocate to Tampa Bay for over a decade. {{nowtb}}*

@@ -1,7 +1,7 @@
 ---
 title: "Valentine's Day in Tampa Bay — Best Date Night Spots"
 metaTitle: "Valentine's Day in Tampa Bay — Best Date Night Spots | TB Relo"
-metaDescription: "Valentine's Day in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Valentine's Day in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Seasonal / Events"
 subcategory: "Event Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Valentine's Day Tampa Bay restaurants"
 publishedAt: "2025-05-11T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-05-11T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/valentines-day-tampa-bay.webp"
 ---
 
-Tampa Bay serves up romance year-round, but Valentine's Day demands something special. After 23 years showing families around this region, I've watched countless couples discover their perfect date night spots — from waterfront tables where manatees surface during dinner to rooftop bars where downtown sparkles below.
+Tampa Bay serves up romance year-round, but Valentine's Day demands something special. After 24 years showing families around this region, I've watched countless couples discover their perfect date night spots — from waterfront tables where manatees surface during dinner to rooftop bars where downtown sparkles below.
 
 Skip the chain restaurant rush. Tampa Bay's romantic dining scene runs deeper than most people realize, with hidden gems tucked into historic neighborhoods and chef-driven spots that locals actually frequent. Whether you're planning a first date or celebrating decades together, here's where love lives in the Bay area.
 
@@ -171,7 +171,7 @@ Sunset drinks at rooftop bars often cost less than full dinners while delivering
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

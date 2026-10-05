@@ -222,4 +222,4 @@ The exemption stays with you, not the property. When you sell, the new owner mus
 ### Is there a maximum property value for homestead exemption?
 No. Whether your home is worth $200,000 or $2,000,000, the same $50,000 exemption and SOH cap apply. The exemption amount doesn't scale with value — it's a flat $50,000 reduction.
 
-*Thinking about relocating to Tampa Bay? Barrett Henry has been helping families move to Tampa Bay for over 23 years. {{nowtb}}*
+*Thinking about relocating to Tampa Bay? Barrett Henry has been helping families move to Tampa Bay for over a decade. {{nowtb}}*

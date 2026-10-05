@@ -1,7 +1,7 @@
 ---
 title: "New Year's Eve in Tampa Bay — Where to Ring It In"
 metaTitle: "New Year's Eve in Tampa Bay — Where to Ring It In | TB Relo"
-metaDescription: "New Year's Eve in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "New Year's Eve in Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Seasonal / Events"
 subcategory: "Event Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "NYE Tampa Bay events"
 publishedAt: "2025-05-09T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-05-09T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/new-years-eve-tampa-bay.webp"
 
 New Year's Eve in Tampa Bay hits different than anywhere else. While other cities freeze their butts off watching a ball drop, we're out here in 70-degree weather with waterfront views, world-class restaurants, and enough entertainment options to make your head spin.
 
-After 23 years of helping families move here, I've celebrated my fair share of NYE in Tampa Bay — from intimate rooftop dinners in Hyde Park to massive street parties in Ybor City. Here's your complete guide to ringing in the new year the Tampa Bay way.
+After over a decade of helping families move here, I've celebrated my fair share of NYE in Tampa Bay — from intimate rooftop dinners in Hyde Park to massive street parties in Ybor City. Here's your complete guide to ringing in the new year the Tampa Bay way.
 
 
 ## The Big Public Celebrations
@@ -260,7 +260,7 @@ Popular events like Bern's Steak House NYE dinner or premium hotel parties sell 
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

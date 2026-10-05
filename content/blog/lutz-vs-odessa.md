@@ -1,7 +1,7 @@
 ---
 title: "Lutz vs Odessa — Which Is Better for Relocators?"
 metaTitle: "Lutz vs Odessa — Which Is Better for Relocators? | TB Relo"
-metaDescription: "Lutz vs Odessa. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Lutz vs Odessa. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "City Comparisons"
 subcategory: "Local"
@@ -9,7 +9,7 @@ primaryKeyword: "Lutz vs Odessa FL"
 publishedAt: "2024-04-01T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-04-01T08:00:00-04:00"
@@ -274,7 +274,7 @@ Odessa provides better value for families prioritizing space and privacy. Your d
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

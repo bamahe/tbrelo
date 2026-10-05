@@ -1,7 +1,7 @@
 ---
 title: "Moving to Tampa Bay from the Northeast — Culture Shock Guide"
 metaTitle: "Moving to Tampa Bay from the Northeast — Culture Shock Guide | TB Relo"
-metaDescription: "Moving to Tampa Bay from the Northeast. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Moving to Tampa Bay from the Northeast. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Demographic / Niche"
 subcategory: "Audience Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Northeast to Florida culture shock"
 publishedAt: "2025-12-31T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-12-31T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/northeast-to-tampa-bay-culture-shock.webp"
 
 You've made the leap. Traded snow boots for flip-flops, bagels for Cuban sandwiches, and subway tokens for sunscreen. Welcome to Tampa Bay — where your Northeast efficiency meets Southern hospitality, and honestly, it's going to be weird for a while.
 
-After 23+ years helping families relocate here, I've watched thousands of Northeasterners navigate this transition. Some adapt in weeks, others take years, and a few pack up and head back to Buffalo. The difference? Knowing what you're walking into and adjusting expectations accordingly.
+After over a decade helping families relocate here, I've watched thousands of Northeasterners navigate this transition. Some adapt in weeks, others take years, and a few pack up and head back to Buffalo. The difference? Knowing what you're walking into and adjusting expectations accordingly.
 
 This isn't your typical "Florida is awesome" fluff piece. This is the real talk about what changes when you swap Boston for Bradenton, or Philadelphia for Plant City.
 
@@ -130,7 +130,7 @@ Zones A and V require flood insurance with any mortgage. Zone X typically doesn'
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -242,7 +242,7 @@ The goal isn't to become a different person — it's to become a more complete v
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

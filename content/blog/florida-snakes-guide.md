@@ -1,7 +1,7 @@
 ---
 title: "Florida Snakes: The Ones That Can Kill You vs The Ones That Won't"
 metaTitle: "Florida Snakes: The Ones That Can Kill You vs The Ones That Won't | TB Relo"
-metaDescription: "Florida Snakes: The Ones That Can Kill You vs The Ones That Won't. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Florida Snakes: The Ones That Can Kill You vs The Ones That Won't. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Florida Life"
 subcategory: "Survival Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Florida snakes identification"
 publishedAt: "2024-10-08T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-10-08T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/florida-snakes-guide.webp"
 ---
 
-After 23 years of showing houses across Tampa Bay, I've learned that nothing makes a client freeze faster than spotting a snake in the backyard. Last month, a family from Minnesota nearly backed out of buying their dream home in Carrollwood because they saw a "massive python" by the pool. It was a rat snake. Harmless as a garden hose.
+After over a decade of showing houses across Tampa Bay, I've learned that nothing makes a client freeze faster than spotting a snake in the backyard. Last month, a family from Minnesota nearly backed out of buying their dream home in Carrollwood because they saw a "massive python" by the pool. It was a rat snake. Harmless as a garden hose.
 
 Here's the truth: Florida has 46 snake species, but only six can actually hurt you. The other 40? They're doing you a favor by eating the rats, mice, and bugs that would otherwise make your life miserable.
 
@@ -95,7 +95,7 @@ The least dangerous of Florida's venomous snakes, but still capable of ruining y
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -229,7 +229,7 @@ Don't attempt removal yourself. Licensed wildlife removal services in Tampa Bay 
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

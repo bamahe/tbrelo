@@ -87,7 +87,7 @@ If "walkable" and "community vibe" are on your priority list, Dunedin delivers i
 
 {{nowtb}} can help you find the right pocket in either community based on what matters most. Both are among the best places to live in Tampa Bay.
 
-*Barrett Henry has been helping families relocate to Tampa Bay for over 23 years. {{nowtb}}*
+*Barrett Henry has been helping families relocate to Tampa Bay for over a decade. {{nowtb}}*
 
 ## Frequently Asked Questions
 

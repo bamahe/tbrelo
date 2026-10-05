@@ -1,7 +1,7 @@
 ---
 title: "The Publix Phenomenon: Why Floridians Are Obsessed With a Grocery Store"
 metaTitle: "The Publix Phenomenon: Why Floridians Are Obsessed With a Grocery Store | TB Relo"
-metaDescription: "The Publix Phenomenon: Why Floridians Are Obsessed With a Grocery Store. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "The Publix Phenomenon: Why Floridians Are Obsessed With a Grocery Store. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Florida Life"
 subcategory: "Survival Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Publix Florida explained"
 publishedAt: "2024-09-13T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-09-13T08:00:00-04:00"
@@ -28,7 +28,7 @@ You walk into a Publix in Tampa for the first time, and something feels... diffe
 Welcome to the Publix Phenomenon — where a grocery store chain has achieved cult status that would make Apple jealous.
 
 
-After 23 years of helping people relocate to Tampa Bay, I've watched countless newcomers experience their first Publix encounter. The reaction is always the same: wide eyes, followed by "Wait, grocery stores can be like this?" Then comes the inevitable conversion — within six months, they're planning their week around BOGO deals and defending Pub Subs like they're family heirlooms.
+After over a decade of helping people relocate to Tampa Bay, I've watched countless newcomers experience their first Publix encounter. The reaction is always the same: wide eyes, followed by "Wait, grocery stores can be like this?" Then comes the inevitable conversion — within six months, they're planning their week around BOGO deals and defending Pub Subs like they're family heirlooms.
 
 ## The Publix Standard: Why Every Other Store Feels Like a Disappointment
 
@@ -117,7 +117,7 @@ The transformation happens gradually, then all at once. First, they appreciate t
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

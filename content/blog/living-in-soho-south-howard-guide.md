@@ -1,7 +1,7 @@
 ---
 title: "Living in SoHo (South Howard) — What It's Really Like (Honest Relocation Guide)"
 metaTitle: "Living in SoHo (South Howard) — What It's Really Like (Honest Relocation Guide) | TB Relo"
-metaDescription: "Living in SoHo (South Howard). Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Living in SoHo (South Howard). Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Neighborhoods"
 subcategory: "Deep Dive"
@@ -9,7 +9,7 @@ primaryKeyword: "living in SoHo FL"
 publishedAt: "2025-01-15T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-01-15T08:00:00-04:00"
@@ -138,7 +138,7 @@ The reality: SoHo attracts more young professionals than families with school-ag
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -301,7 +301,7 @@ Newer apartments and condos typically offer:
 
 ## Final Verdict: Is SoHo Worth the Premium?
 
-After 23 years helping people relocate to Tampa Bay, I can tell you SoHo delivers exactly what it promises — if you can afford it and match the lifestyle.
+After over a decade helping people relocate to Tampa Bay, I can tell you SoHo delivers exactly what it promises — if you can afford it and match the lifestyle.
 
 You're paying $500-800 monthly premium over comparable housing elsewhere for:
 - Walking to dinner and drinks

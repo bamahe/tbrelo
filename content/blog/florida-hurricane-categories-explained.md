@@ -1,7 +1,7 @@
 ---
 title: "Florida Hurricane Categories Explained — 1 Through 5"
 metaTitle: "Florida Hurricane Categories Explained — 1 Through 5 | TB Relo"
-metaDescription: "Florida Hurricane Categories Explained. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Florida Hurricane Categories Explained. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Weather / Climate"
 subcategory: "Climate Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "hurricane categories explained"
 publishedAt: "2026-02-21T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2026-02-21T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/florida-hurricane-categories-explained.webp"
 ---
 
-When you're considering a move to Tampa Bay, understanding hurricane categories isn't just academic knowledge—it's essential information for your family's safety and your property investment. After 23+ years helping families relocate to Florida, I've watched countless storms approach our coast, and I can tell you that knowing the difference between a Category 1 and Category 4 hurricane could literally save your life.
+When you're considering a move to Tampa Bay, understanding hurricane categories isn't just academic knowledge—it's essential information for your family's safety and your property investment. After over a decade helping families relocate to Florida, I've watched countless storms approach our coast, and I can tell you that knowing the difference between a Category 1 and Category 4 hurricane could literally save your life.
 
 The Saffir-Simpson Hurricane Wind Scale categorizes storms from 1 to 5 based on sustained wind speeds, but there's so much more you need to know beyond just the numbers. Each category brings different risks, requires different preparations, and causes vastly different damage patterns across Tampa Bay.
 
@@ -225,7 +225,7 @@ Practice your hurricane plan before hurricane season. Load your car with evacuat
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

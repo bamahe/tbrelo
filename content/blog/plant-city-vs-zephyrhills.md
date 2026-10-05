@@ -86,7 +86,7 @@ Zephyrhills has a significant retirement community presence. Several large 55+ m
 
 {{nowtb}} knows the pockets of both communities where you get the best value. Don't overlook these towns — they're where your dollar stretches the furthest.
 
-*Barrett Henry has been helping families relocate to Tampa Bay for over 23 years. {{nowtb}}*
+*Barrett Henry has been helping families relocate to Tampa Bay for over a decade. {{nowtb}}*
 
 ## Frequently Asked Questions
 

@@ -94,4 +94,4 @@ However, if you work in St. Pete, Pinellas County, or remotely, the commute disa
 
 {{nowtb}} works both sides of the bay and can help you compare specific neighborhoods in South Tampa and St. Pete. This is a decision worth getting right — and it starts with understanding what you actually value most.
 
-*Ready to pick your side of the bay? Barrett Henry has been helping families relocate to Tampa Bay for over 23 years. {{nowtb}}*
+*Ready to pick your side of the bay? Barrett Henry has been helping families relocate to Tampa Bay for over a decade. {{nowtb}}*

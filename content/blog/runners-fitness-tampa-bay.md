@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay for Runners and Fitness Enthusiasts"
 metaTitle: "Tampa Bay for Runners and Fitness Enthusiasts | TB Relo"
-metaDescription: "Tampa Bay for Runners and Fitness Enthusiasts. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa Bay for Runners and Fitness Enthusiasts. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Demographic / Niche"
 subcategory: "Audience Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "running Tampa Bay trails"
 publishedAt: "2026-01-21T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2026-01-21T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/runners-fitness-tampa-bay.webp"
 ---
 
-If you're serious about running or fitness, Tampa Bay isn't just another Sun Belt metro — it's a legitimate training destination. I've watched this area transform from a handful of scattered trails to one of the most runner-friendly regions in the Southeast. After 23 years selling homes here, I can tell you the fitness-focused buyers I work with consistently choose Tampa Bay for good reason.
+If you're serious about running or fitness, Tampa Bay isn't just another Sun Belt metro — it's a legitimate training destination. I've watched this area transform from a handful of scattered trails to one of the most runner-friendly regions in the Southeast. After over a decade selling homes here, I can tell you the fitness-focused buyers I work with consistently choose Tampa Bay for good reason.
 
 The year-round training weather, world-class trail systems, and legitimate racing scene make this more than just a pretty place to jog. We're talking about infrastructure that supports everything from casual 5K training to Boston Marathon prep.
 
@@ -183,7 +183,7 @@ Communities with fitness centers, pools, and walking trails command premium pric
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

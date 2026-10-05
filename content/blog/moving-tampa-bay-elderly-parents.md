@@ -1,7 +1,7 @@
 ---
 title: "Moving to Tampa Bay with Elderly Parents"
 metaTitle: "Moving to Tampa Bay with Elderly Parents | TB Relo"
-metaDescription: "Moving to Tampa Bay with Elderly Parents. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Moving to Tampa Bay with Elderly Parents. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Relocation Logistics"
 subcategory: "How-To"
@@ -9,7 +9,7 @@ primaryKeyword: "moving elderly parents Florida"
 publishedAt: "2025-11-22T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-11-22T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/moving-tampa-bay-elderly-parents.webp"
 ---
 
-Moving across the country is stressful enough. Add elderly parents to the equation, and the complexity multiplies exponentially. After 23 years helping families relocate to Tampa Bay, I've seen every variation of this scenario — and I can tell you the families who plan thoroughly make the transition infinitely smoother.
+Moving across the country is stressful enough. Add elderly parents to the equation, and the complexity multiplies exponentially. After over a decade helping families relocate to Tampa Bay, I've seen every variation of this scenario — and I can tell you the families who plan thoroughly make the transition infinitely smoother.
 
 Whether your parents are moving with you or you're relocating to be closer to them, Florida's combination of no state income tax, year-round warmth, and excellent healthcare infrastructure makes it an attractive destination for retirees. But the devil's in the details, and those details require careful orchestration.
 
@@ -163,7 +163,7 @@ Traffic patterns confuse newcomers. I-275 creates the backbone of regional trans
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

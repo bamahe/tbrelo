@@ -1,7 +1,7 @@
 ---
 title: "How to Register Your Car in Florida After Moving"
 metaTitle: "How to Register Your Car in Florida After Moving | TB Relo"
-metaDescription: "How to Register Your Car in Florida After Moving. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "How to Register Your Car in Florida After Moving. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Practical / Legal"
 subcategory: "Admin Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "register car Florida new resident"
 publishedAt: "2025-05-18T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-05-18T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/register-car-florida-after-moving.webp"
 ---
 
-Moving to the Sunshine State means dealing with Florida's DMV — officially called the Department of Highway Safety and Motor Vehicles (DHSMV). After helping 600+ families relocate to Tampa Bay over 23 years, I've watched people get tripped up by Florida's car registration process more than any other administrative task.
+Moving to the Sunshine State means dealing with Florida's DMV — officially called the Department of Highway Safety and Motor Vehicles (DHSMV). After helping 600+ families relocate to Tampa Bay over a decade, I've watched people get tripped up by Florida's car registration process more than any other administrative task.
 
 The good news? It's straightforward once you know the steps. The bad news? Florida doesn't mess around with deadlines, and the penalties for missing them aren't cheap.
 
@@ -222,7 +222,7 @@ Florida won't register vehicles with open safety recalls. Check nhtsa.gov/recall
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

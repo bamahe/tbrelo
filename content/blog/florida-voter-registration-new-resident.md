@@ -1,7 +1,7 @@
 ---
 title: "Florida Voter Registration Guide for New Residents"
 metaTitle: "Florida Voter Registration Guide for New Residents | TB Relo"
-metaDescription: "Florida Voter Registration Guide for New Residents. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Florida Voter Registration Guide for New Residents. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Practical / Legal"
 subcategory: "Admin Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "register to vote Florida"
 publishedAt: "2025-05-24T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-05-24T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/florida-voter-registration-new-resident.webp"
 
 Moving to Florida means updating more than just your address with Amazon Prime. Your voting registration needs attention too, and the Sunshine State has specific rules that'll catch newcomers off guard if you're not prepared.
 
-I've walked hundreds of families through the Tampa Bay relocation process over the past 23 years, and voting registration questions always come up around month two of living here. Usually right after someone realizes they can't vote in that local election they actually care about because they missed a deadline they didn't know existed.
+I've walked hundreds of families through the Tampa Bay relocation process over the past decade, and voting registration questions always come up around month two of living here. Usually right after someone realizes they can't vote in that local election they actually care about because they missed a deadline they didn't know existed.
 
 Let's fix that before it happens to you.
 
@@ -212,7 +212,7 @@ Polk County covers a large geographic area with about 480,000 registered voters.
 
 ## Common Registration Issues and Solutions
 
-After 23 years of helping people navigate Florida bureaucracy, I've seen the same registration problems pop up repeatedly. Here's how to avoid them or fix them when they happen.
+After over a decade of helping people navigate Florida bureaucracy, I've seen the same registration problems pop up repeatedly. Here's how to avoid them or fix them when they happen.
 
 ### Signature Mismatches
 
@@ -293,7 +293,7 @@ If you're in line by 7 PM, you'll be allowed to vote even if it takes until 8 PM
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -380,7 +380,7 @@ Bring your naturalization certificate along with your other identification when 
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

@@ -1,7 +1,7 @@
 ---
 title: "Florida Medicare Guide for Retirees Moving to Tampa Bay"
 metaTitle: "Florida Medicare Guide for Retirees Moving to Tampa Bay | TB Relo"
-metaDescription: "Florida Medicare Guide for Retirees Moving to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Florida Medicare Guide for Retirees Moving to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Healthcare"
 subcategory: "Wellness Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "Medicare Florida Tampa Bay"
 publishedAt: "2026-03-19T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2026-03-19T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/florida-medicare-guide-retirees.webp"
 
 Florida's Medicare maze just got more complicated — and if you're relocating to Tampa Bay, you need to know what changed before you make expensive mistakes.
 
-I've walked hundreds of retirees through this process over 23 years in real estate here, and the confusion around Medicare when moving states keeps growing. The good news? Florida's Medicare landscape offers more choices than most states. The challenge? Figuring out which ones actually work in Tampa Bay's specific healthcare network.
+I've walked hundreds of retirees through this process over a decade in real estate here, and the confusion around Medicare when moving states keeps growing. The good news? Florida's Medicare landscape offers more choices than most states. The challenge? Figuring out which ones actually work in Tampa Bay's specific healthcare network.
 
 Let's cut through the Medicare marketing noise and focus on what matters for your Tampa Bay move.
 
@@ -250,7 +250,7 @@ Independent agents can compare plans from multiple companies. Avoid agents who o
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

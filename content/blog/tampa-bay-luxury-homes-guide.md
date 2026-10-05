@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay Luxury Homes — The $750K+ Market Guide"
 metaTitle: "Tampa Bay Luxury Homes — The $750K+ Market Guide | TB Relo"
-metaDescription: "Tampa Bay Luxury Homes. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Tampa Bay Luxury Homes. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Real Estate"
 subcategory: "Buying Guide"
@@ -9,7 +9,7 @@ primaryKeyword: "luxury homes Tampa Bay"
 publishedAt: "2024-12-06T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-12-06T08:00:00-04:00"
@@ -25,7 +25,7 @@ featuredImage: "/images/blog/tampa-bay-luxury-homes-guide.webp"
 
 The luxury home market in Tampa Bay isn't just about marble countertops and wine cellars anymore. With median home prices pushing past $400K and premium properties starting around $750K, today's luxury buyers are getting sophisticated about location, lifestyle, and long-term value.
 
-After 23+ years selling homes across Tampa Bay, I've watched this market evolve from cookie-cutter McMansions to thoughtfully designed properties that actually make sense for Florida living. Whether you're relocating from up north or moving up locally, here's what you need to know about luxury real estate in our market.
+After over a decade selling homes across Tampa Bay, I've watched this market evolve from cookie-cutter McMansions to thoughtfully designed properties that actually make sense for Florida living. Whether you're relocating from up north or moving up locally, here's what you need to know about luxury real estate in our market.
 
 
 ## What Defines Luxury in Tampa Bay Today
@@ -110,7 +110,7 @@ The trade-off is HOA fees, typically $200-500 monthly in luxury gated communitie
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -263,7 +263,7 @@ Summer buyers often find better values and more motivated sellers, especially fo
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

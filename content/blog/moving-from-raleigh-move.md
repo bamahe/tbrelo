@@ -1,7 +1,7 @@
 ---
 title: "Moving from Raleigh NC to Tampa Bay — The Complete Relocation Guide"
 metaTitle: "Moving from Raleigh NC to Tampa Bay — The Complete Relocation Guide | TB Relo"
-metaDescription: "Moving from Raleigh NC to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Moving from Raleigh NC to Tampa Bay. Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Moving From"
 subcategory: "Raleigh NC"
@@ -9,7 +9,7 @@ primaryKeyword: "moving from Raleigh to Tampa Bay"
 publishedAt: "2024-08-08T08:00:00-04:00"
 updatedAt: "2026-04-15T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2024-08-08T08:00:00-04:00"
@@ -225,7 +225,7 @@ Florida's homestead exemption provides significant property tax savings for prim
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
@@ -468,7 +468,7 @@ Most major banks operate in both markets, but local options provide advantages:
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 

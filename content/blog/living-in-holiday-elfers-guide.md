@@ -1,7 +1,7 @@
 ---
 title: "Living in Holiday / Elfers (Honest Take) — What It's Really Like (Honest Relocation Guide)"
 metaTitle: "Living in Holiday / Elfers (Honest Take) — What It's Really Like (Honest Relocation Guide) | TB Relo"
-metaDescription: "Living in Holiday / Elfers (Honest Take). Honest guide from a Tampa Bay local with 23+ years of experience."
+metaDescription: "Living in Holiday / Elfers (Honest Take). Honest guide from a Tampa Bay local with 23+ years of real estate experience."
 type: blog
 category: "Neighborhoods"
 subcategory: "Deep Dive"
@@ -9,7 +9,7 @@ primaryKeyword: "living in Holiday / Elfers FL"
 publishedAt: "2025-03-07T08:00:00-04:00"
 updatedAt: "2026-04-16T08:00:00-04:00"
 author: "Barrett Henry"
-authorBio: "Barrett Henry is a Broker Associate at RE/MAX Collective with 23+ years of Tampa Bay real estate experience."
+authorBio: "Barrett Henry is a Broker Associate at REMAX Collective with 23+ years of real estate experience."
 schema:
   type: Article
   datePublished: "2025-03-07T08:00:00-04:00"
@@ -23,7 +23,7 @@ schema:
 featuredImage: "/images/blog/living-in-holiday-elfers-guide.webp"
 ---
 
-Let me be straight with you — Holiday and Elfers aren't going to show up on any "Best Places to Live" magazine covers. But after 23+ years helping families navigate Tampa Bay, I've learned that sometimes the overlooked neighborhoods offer exactly what people need: affordable housing, genuine community, and a slower pace that feels increasingly rare in Florida.
+Let me be straight with you — Holiday and Elfers aren't going to show up on any "Best Places to Live" magazine covers. But after over a decade helping families navigate Tampa Bay, I've learned that sometimes the overlooked neighborhoods offer exactly what people need: affordable housing, genuine community, and a slower pace that feels increasingly rare in Florida.
 
 These twin communities in northwest [Pasco County](/counties/pasco/) represent old Florida at its most authentic. No fancy marketing campaigns, no Instagram-worthy downtown districts — just real neighborhoods where teachers, retirees, and young families can actually afford to live.
 
@@ -213,7 +213,7 @@ Holiday and Elfers maintain that increasingly rare small-town feel within the la
 
 ---
 
-**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 23 years. Straight talk, smart strategy, no pressure.
+**Moving to Tampa Bay?** Barrett Henry has been helping families relocate for over 24 years. Straight talk, smart strategy, no pressure.
 
 [Contact Barrett →](https://nowtb.com) | [(813) 733-7907](tel:8137337907)
 
